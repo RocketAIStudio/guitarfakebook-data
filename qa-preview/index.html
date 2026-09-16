@@ -190,6 +190,7 @@ render();
   const SEARCH_LIMIT=50;
   let libraryIndex=[];
   let libraryReady=false;
+  let libraryLoadError="";
   const originalSelectSong=selectSong;
   const originalRenderLibrary=renderLibrary;
   const originalGetShapes=getShapes;
@@ -253,17 +254,17 @@ render();
     return state.songs.find(s=>s.id===activeId&&!String(s.id).startsWith("artist-den:"))||null;
   };
   function renderLibraryLanding(){
-    els.songList.innerHTML='<div class="empty">No saved songs yet. Search for a song, then tap its heart.</div>';
+    els.songList.innerHTML=libraryLoadError?'<div class="viewError">'+escapeHtml(libraryLoadError)+'</div>':'<div class="empty">Loading the QA-0 Library…</div>';
     els.mobileSongs.innerHTML="";
-    els.libraryCount.textContent="0/50 saved";
-    $("#sideTitle").textContent="Your songs";
+    els.libraryCount.textContent=libraryLoadError?"Library unavailable":"Loading 10 songs…";
+    $("#sideTitle").textContent="QA-0 Library";
     els.title.textContent="GuitarFakeBook";
-    els.artist.textContent="Search the production library";
+    els.artist.textContent=libraryLoadError?"The real-song loader needs attention":"Loading a real control song";
     els.meta.innerHTML="";
-    els.rights.textContent=libraryReady?(libraryIndex.length+" publishable chord sheets"):"Loading library index…";
+    els.rights.textContent=libraryLoadError?"No demo or fixture fallback was used":(libraryReady?(libraryIndex.length+" QA-0 chord sheets"):"Loading library index…");
     els.rail.innerHTML="";
     hideChordPopover();
-    els.sheet.innerHTML='<div class="denEmpty"><h2>Search artist or song</h2><p>The main library is the verified ten-song QA-0 catalog. Selecting a result loads that song.</p></div>';
+    els.sheet.innerHTML=libraryLoadError?'<div class="viewError"><h2>QA-0 Library unavailable</h2><p>'+escapeHtml(libraryLoadError)+'</p></div>':'<div class="denEmpty"><h2>Loading QA-0 songs</h2><p>One real song will open automatically and all ten controls will appear for navigation.</p></div>';
   }
   function searchHits(q){
     const needle=q.toLowerCase();
@@ -278,11 +279,11 @@ render();
   renderLibrary=function(){
     if(typeof gfbView!=="undefined"&&gfbView==="den")return originalRenderLibrary();
     const q=els.search.value.trim();
-    $("#sideTitle").textContent="Your songs";
+    $("#sideTitle").textContent="QA-0 Library";
     els.songList.innerHTML="";
     els.mobileSongs.innerHTML="";
     const favorites=state.songs.filter(s=>s.favorite&&!String(s.id).startsWith("artist-den:"));
-    const list=q?searchHits(q):favorites;
+    const list=q?searchHits(q):libraryIndex.slice(0,SEARCH_LIMIT);
     list.forEach(row=>{
       const id=row.id;
       const title=row.displayTitle||row.title;
@@ -303,13 +304,14 @@ render();
       }else els.songList.append(b);
       const o=document.createElement("option");o.value=id;o.textContent=title+" — "+artist;o.selected=id===activeId;els.mobileSongs.append(o);
     });
-    if(!list.length)els.songList.innerHTML=q?'<div class="empty">No songs match this search.</div>':'<div class="empty">No saved songs yet. Search for a song, then tap its heart.</div>';
-    els.libraryCount.textContent=q?(list.length+(list.length>=SEARCH_LIMIT?"+":"")+" matches"):(favorites.length+"/50 saved");
+    if(!list.length)els.songList.innerHTML=libraryLoadError?'<div class="viewError">'+escapeHtml(libraryLoadError)+'</div>':(q?'<div class="empty">No songs match this search.</div>':'<div class="empty">No QA-0 songs are available.</div>');
+    els.libraryCount.textContent=q?(list.length+(list.length>=SEARCH_LIMIT?"+":"")+" matches"):(list.length+" songs • "+favorites.length+"/50 favorites");
   };
   selectSong=async function(id){
     if(typeof gfbView!=="undefined"&&gfbView==="den")return originalSelectSong(id);
     if(!id){activeId="";render();return}
     try{
+      libraryLoadError="";
       const payload=await fetchLibrarySong(id);
       const song=toUiSong(payload,libState.favoriteIds.includes(id));
       activeId=song.id;
@@ -321,7 +323,8 @@ render();
       try{history.replaceState({}, "", location.pathname+"?song="+encodeURIComponent(song.id))}catch(e){}
       window.scrollTo({top:0,behavior:"smooth"});
     }catch(err){
-      toast("That song ID is not in the production library");
+      libraryLoadError="The selected real song could not be loaded. No demo data was substituted.";
+      toast("That real song could not be loaded");
       libState.activeId="";
       persistLib();
       activeId="";
@@ -423,8 +426,10 @@ render();
       const res=await fetch(libPath("index.json"));
       if(!res.ok)throw new Error("index");
       const index=await res.json();
+      if(!index||index.schema!=="guitarfakebook.library-index.v1"||!Array.isArray(index.songs)||index.songs.length!==INDEX_COUNT_TARGET||index.count!==INDEX_COUNT_TARGET)throw new Error("catalog");
       libraryIndex=index.songs||[];
       libraryReady=true;
+      libraryLoadError="";
       if(INDEX_COUNT_TARGET!=null&&index.count!==INDEX_COUNT_TARGET)console.warn("library count",index.count);
       const params=new URLSearchParams(location.search);
       const wanted=params.get("song")||(location.hash.startsWith("#song=")?location.hash.slice(6):"");
@@ -437,11 +442,13 @@ render();
           }catch(e){}
         }
       }
-      if(wanted)await selectSong(wanted);
-      else if(libState.activeId&&!wanted)await selectSong(libState.activeId);
-      else render();
+      const remembered=libraryIndex.some(row=>row.id===libState.activeId)?libState.activeId:"";
+      const acceleratorDefault=(libraryIndex.find(row=>row.artist==="Alan Walker"&&row.title==="Lost Control")||libraryIndex[0]||{}).id||"";
+      await selectSong(wanted||remembered||acceleratorDefault);
     }catch(err){
-      toast("Could not load the production library index");
+      libraryReady=false;
+      libraryLoadError="The real ten-song QA-0 catalog could not be loaded. Check internet access and reload. No demo data was substituted.";
+      toast("Could not load the real QA-0 catalog");
       render();
     }
   }
