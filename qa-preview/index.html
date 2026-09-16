@@ -517,6 +517,16 @@ render();
     setHeaderMode("library");
   }
 
+  function showArtistDen() {
+    panel.classList.add("hidden");
+    document.querySelector(".songHero")?.classList.remove("hidden");
+    document.querySelector(".sheet")?.classList.remove("hidden");
+    document.querySelector(".mobileSongs")?.classList.remove("hidden");
+    document.querySelector(".chordRail")?.classList.add("hidden");
+    if (toolbar) toolbar.classList.remove("hidden");
+    setHeaderMode("den");
+  }
+
   function musicalKey(value) {
     const key = String(value || "").trim();
     if (!key || /^(gp3|gp4|gp5|gpx|alt)$/i.test(key)) return "—";
@@ -608,7 +618,7 @@ render();
   indexButton.addEventListener("click", event => { event.preventDefault(); showIndex(); });
   helpButton.addEventListener("click", showHelp);
   libraryButton.addEventListener("click", showLibrary);
-  denButton.addEventListener("click", () => { setSongViews(false); setHeaderMode("den"); });
+  denButton.addEventListener("click", showArtistDen);
 
   const params = new URLSearchParams(location.search);
   if (params.get("view") === "index" || location.hash === "#index") showIndex();
