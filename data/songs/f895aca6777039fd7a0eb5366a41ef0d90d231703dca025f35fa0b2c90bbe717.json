@@ -1,0 +1,151 @@
+{
+  "artist": "Air",
+  "artistNormalized": "air",
+  "capo": "1",
+  "chordPositionCount": 37,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[Bm7]\n[Bm13]\n[Bm7]\n[Bm13]\n[Bm7]\n[Bm13]\n[Bm7]\n[Bm13]\n\n[Verse 1]\n[D]I'm a\n[Gb]high school lo-\n[Bm]ver,\n[Cdim7]And you're my\n[Gb]favorite fla-\n[G]vor\n[E]\n[G]Love is a-\n[E]ll,\n[G]all my\n[E]soul\n[G]You're my\n[Fm]playground [Bm]lo-\nve\n\n[Solo 1]\n[Bm7]\n[Bm13]\n[Bm7]\n[Bm13]\n[Bm7]\n[Bm13]\n[Bm7]\n[Bm13]\n\n[Verse2]\n[D]Yet my\n[Gb]hands are sha-\n[Bm]king\n[Cdim7]I feel my\n[Gb]body re-\n[G]mains,\n[E]\n[G]Themes no\n[E]matter,\n[G]I'm on\n[E]fire\n[G]On the\n[Fm]playground, [Bm]lo-\nve\n\n[Solo 2]\n[Bm7]\n[Bm13]\n[Bm7]\n[Bm13]\n[Bm7]\n[Bm13]\n[Bm7]\n[Bm13]\n\n[Verse 3]\n[D]You're the\n[Gb]piece of gold,\n[Bm]\n[Cdim7]That flushes\n[Gb]all my so-\n[G]ul\n[E]\n[G]Extra\n[E]time,\n[G]on the\n[E]ground\n[G]You're my\n[Fm]playground [Bm]lo-\nve\n\n[Solo 3]\n[D]\n[Gb]\n[Bm]\n[Cdim7]\n[Gb]\n[G]\n[E]\n[G]Anyti-\n[E]me,\n[G]any-\n[E]way,\n[G]You're my\n[Fm]playground [Bm]lo-\nve",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x2443x",
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "Bm13": {
+      "catalog": [
+        "x24234"
+      ],
+      "catalogCount": 1
+    },
+    "Bm7": {
+      "catalog": [
+        "x24235",
+        "x-2-4-2-3-2",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "Cdim7": {
+      "catalog": [
+        "x34545"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Playground Love",
+  "id": "f895aca6777039fd7a0eb5366a41ef0d90d231703dca025f35fa0b2c90bbe717",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 101,
+  "normalizedKey": "air|playground love",
+  "playableChords": [
+    "Bm7",
+    "Bm13",
+    "D",
+    "Gb",
+    "Bm",
+    "Cdim7",
+    "G",
+    "E",
+    "Fm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 4,
+      "name": "Intro"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 38,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 54,
+      "name": "Verse2"
+    },
+    {
+      "measure": 72,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 88,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 106,
+      "name": "Solo 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f895aca6777039fd7a0eb5366a41ef0d90d231703dca025f35fa0b2c90bbe717",
+    "version": "BCFZ"
+  },
+  "tempo": 143,
+  "title": "Playground Love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

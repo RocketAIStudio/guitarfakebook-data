@@ -1,0 +1,104 @@
+{
+  "artist": "Billie Eilish",
+  "artistNormalized": "billie eilish",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\nBaby,\n[Am]I don't feel so good\n[D7]Six words you\n[Gmaj7]never understood\n[Em]I'll never\n[Am]let you go; Five\n[D7]words you never say\n[Gmaj7]\n[Em]\nI laugh a-\n[Am]lone like nothing's wrong\n[D7]Four days has\n[Gmaj7]never felt so long\n[Em]If three's a\n[Am]crowd and two was us\n[D7]One slipped away\n[Gmaj7]\n[Em]\n\n[Chorus]\n[Am]I just wanna\n[D7]make you feel o-\n[Gmaj7]kay\n[Em]But\n[Am]all you do is\n[D7]look the other\n[Gmaj7]way\n[Em]\n[Am]I can't tell you\n[D7]how much I wish I did n't\n[Gmaj7]wanna stay\n[Em]\n[Am]I just kinda\n[D7]wish you were gay\n[Gmaj7]\n[Em]Is there a\n\n[Verse 2]\n[Am]reason we're not through?\n[D7]Is there a\n[Gmaj7]12 step just for you?\n[Em]Our conver-\n[Am]sations are in blue\n[D7]Eleven heys\n[Gmaj7]\n[Em]Ten fingers\n[Am]tearing out my hair\n[D7]Nine times you\n[Gmaj7]never made it there\n[Em]I ate a-\n[Am]lone at seven; you were\n[D7]six minutes away\n[Gmaj7]\n[Em]\n\n[Chorus]\n[Am]How am I supposed to\n[D7]make you feel o-\n[Gmaj7]kay?\n[Em]When\n[Am]all you do is\n[D7]walk the other\n[Gmaj7]way?\n[Em]\n[Am]I can't tell you\n[D7]how much I wish I did n't\n[Gmaj7]wanna stay\n[Em]\n[Am]I just kinda\n[D7]wish you were gay\n[Gmaj7]\n[Em]To spare my\n\n[Verse 3]\n[Am]pride\n[D7]To give your lack of in-\n[Gmaj7]terest an explana-\n[Em]tion Don't say I'm not your\n[Am]type\n[D7]Just say that I'm not your pre-\n[Gmaj7]ferred sexual orienta-\n[Em]tion I'm so\n[Am]selfish\n[D7]But you make me feel\n[Gmaj7]helpless\n[Em]And I can't\n[Am]stand another day\n[D7]\n[Gmaj7]Stand another day\n[Em]\n\n[Chorus]\n[Am]I just wanna\n[D7]make you feel o-\n[Gmaj7]kay\n[Em]But\n[Am]all you do is\n[D7]look the other\n[Gmaj7]way\n[Em]\n[Am]I can't tell you\n[D7]how much I wish I did n't\n[Gmaj7]wanna stay\n[Em]\n[Am]I just kinda\n[D7]wish you were gay\n[Gmaj7]\n[Em]\n[Am]I just kinda\n[D7]wish you were gay\n[Gmaj7]\n[Em]\n\n[Outro]\n[Am]I just kinda\n[D7]wish you were gay\n[Gmaj7]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7": {
+      "catalog": [
+        "320002",
+        "3-5-4-4-3-3",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7",
+        "x-10-12-11-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Wish You Were Gay *alt",
+  "id": "b9104d46feabd3a0dea65b8228ca8aeb725b62c80ba1d9516550dd8d781e3056",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 315,
+  "normalizedKey": "billie eilish|i wish you were gay",
+  "playableChords": [
+    "Am",
+    "D7",
+    "Gmaj7",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 83,
+      "name": "Chorus"
+    },
+    {
+      "measure": 103,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b9104d46feabd3a0dea65b8228ca8aeb725b62c80ba1d9516550dd8d781e3056",
+    "version": "BCFZ"
+  },
+  "tempo": 118,
+  "title": "I Wish You Were Gay",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}
