@@ -1,0 +1,129 @@
+{
+  "artist": "Rammstein",
+  "artistNormalized": "rammstein",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "Be-\n\n[Verse 1]\n[F#5]wah-\nret Ei-\nnan-\nder vor\nHerz-\nleid\ndenn\nkurz\nIst\ndie\nZeit\ndie\nIhr bei-\nsammen\nseid.\n\n[Intrelude]\nDenn\n\n[Verse 2]\nwenn\neuch\nauch\nVie-\nle Jah-\nre ver-\nei-\nnen einst\nwer-\nden sie\nwie\nMi-\nnuten euch\nSchei\nnen.\n\n[Chorus]\n[E5]Her [F#5]ze-\n[F#5][G5]leid\n[E5]Her [F#5]ze-\n[F#5][G5]leid\n[E5]Her [F#5]ze-\n[F#5][G5]leid\n[E5]Her [F#5]ze-\n[F#5][G5]leid\n\n[Bridge]\n[Bb]\n[A]Her ze-\nleid\n[Bb]\n[A]Her ze-\nleid\n\n[Synth Solo]\n[Bb]\n[A]\n[Bb]\n[A]\n[Bb]\n[E]\n[F#5]\nBe-\n\n[Verse 3]\nwah-\nret Ei-\nnan-\nder vor\nder\nZwei-\nsam-\nkeit.\n\n[Guitar Solo]\n[B5]\n[F#5]\n[B5]\n[F#5]\n\n[Chorus]\n[E5]Her [F#5]ze-\n[F#5][G5]leid\n[E5]Her [F#5]ze-\n[F#5][G5]leid\n[E5]Her [F#5]ze-\n[F#5][G5]leid\n[E5]Her [F#5]ze-\n[F#5][G5]leid",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "Bb": {
+      "catalog": [
+        "x1333x",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Herzeleid *alt",
+  "id": "7a50652ffc0ebf4101ce06288ac1e0b01596cf304eff28216b668b2ea229cb4a",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 104,
+  "normalizedKey": "rammstein|herzeleid",
+  "playableChords": [
+    "F#5",
+    "E5",
+    "G5",
+    "Bb",
+    "A",
+    "E",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Bridge"
+    },
+    {
+      "measure": 54,
+      "name": "Synth Solo"
+    },
+    {
+      "measure": 66,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 75,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7a50652ffc0ebf4101ce06288ac1e0b01596cf304eff28216b668b2ea229cb4a",
+    "version": "BCFZ"
+  },
+  "tempo": 101,
+  "title": "Herzeleid",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

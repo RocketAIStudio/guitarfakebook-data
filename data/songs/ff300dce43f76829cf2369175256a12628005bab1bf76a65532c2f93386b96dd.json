@@ -1,0 +1,76 @@
+{
+  "artist": "Screeching Weasel",
+  "artistNormalized": "screeching weasel",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[B5]Everything [E5]around me is\n[B5]turning into [D5]shit And\n[A5]I don't know [E5]what to\n[B5]do\n[B5]Everyone I [E5]know is\n[B5]having a [D5]fit 'Cause I\n[A5]haven't [E5]got a\n[B5]clue\n\n[Chorus]\n[A5]I [D5]don't know\n[E5]who I [B5]am\n[D5][A5]Patience is\n[E5]wearing [B5]thin\n[A5]I [D5]think my\n[E5]head is [B5]caving\n[B5]in\n\n[Verse 2]\n[B5]I don't wanna [E5]live in a\n[B5]rubber [D5]room But I\n[A5]think I'm [E5]halfway\n[B5]there\n[B5]The funny thing [E5]about it is the\n[B5]worse it [D5]gets The\n[A5]less I [E5]even\n[B5]care\n\n[Chorus]\n[A5]I [D5]don't know\n[E5]who I [B5]am\n[D5][A5]Patience is\n[E5]wearing [B5]thin\n[A5]I [D5]think my\n[E5]head is [B5]caving\n[B5]in\nI think my wah",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rubber Room",
+  "id": "ff300dce43f76829cf2369175256a12628005bab1bf76a65532c2f93386b96dd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 109,
+  "normalizedKey": "screeching weasel|rubber room",
+  "playableChords": [
+    "B5",
+    "E5",
+    "D5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ff300dce43f76829cf2369175256a12628005bab1bf76a65532c2f93386b96dd",
+    "version": "BCFZ"
+  },
+  "tempo": 290,
+  "title": "Rubber Room",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

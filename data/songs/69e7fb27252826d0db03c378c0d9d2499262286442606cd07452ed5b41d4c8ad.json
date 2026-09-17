@@ -1,0 +1,103 @@
+{
+  "artist": "Screeching Weasel",
+  "artistNormalized": "screeching weasel",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F#5]\n[G5/D]\n[F#5]\n[G5/D]Used\n\n[Chorus]\n[F#5]cars\n[G5/D]Used\n[F#5]cars\n[G5/D]Used\n[F#5]cars\n[G5/D]Used\n[F#5]cars\n[G5/D]No\n\n[Verse 1]\n[C#5]money down sounds\ngood to me Got\nmonthly payments\ntil I'm ninetythree Used\n\n[Chorus]\n[F#5]cars\n[G5/D]Used\n[F#5]cars\n[G5/D]Used\n[F#5]cars\n[G5/D]Used\n[F#5]cars\n[G5/D]I\n\n[Verse 2]\n[C#5]stopped to look and\nnow I own A\nschool bus and a\nseventy one\n\n[Interlude]\n[F#5]Olds\n[G5/D]\n[F#5]\n[G5/D]\n[F#5]\n[G5/D]\n[F#5]\n[G5/D]\n\n[Bridge]\n[E5]Zero percent\nfinancing I\n[D5]thought I had\na steal Then my trans-\n[E5]mission dropped, I\nhit a cop Oh\n[D5]God! Why did I\n[E5]make this deal? Used\n\n[Chorus]\n[F#5]cars\n[G5/D]Used\n[F#5]cars\n[G5/D]Used\n[F#5]cars\n[G5/D]Used\n[F#5]cars\n[G5/D]\n\n[Outro]\n[C#5]Whooaahh!!!!\nUsed\nCars",
+  "diagrams": {
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5/D": {
+      "catalog": [
+        "x557xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Used Cars",
+  "id": "69e7fb27252826d0db03c378c0d9d2499262286442606cd07452ed5b41d4c8ad",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 92,
+  "normalizedKey": "screeching weasel|used cars",
+  "playableChords": [
+    "F#5",
+    "G5/D",
+    "C#5",
+    "E5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Interlude"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "69e7fb27252826d0db03c378c0d9d2499262286442606cd07452ed5b41d4c8ad",
+    "version": "BCFZ"
+  },
+  "tempo": 300,
+  "title": "Used Cars",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

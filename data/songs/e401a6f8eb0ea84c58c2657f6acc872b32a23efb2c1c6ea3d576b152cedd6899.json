@@ -1,0 +1,174 @@
+{
+  "artist": "Simon & Garfunkel",
+  "artistNormalized": "simon garfunkel",
+  "capo": "No capo",
+  "chordPositionCount": 38,
+  "chordSymbolCount": 14,
+  "content": "[Intro]\n[B]\nHere is my song\n\n[Verse 1]\n[F#]\n[E]for the as-\n[G#m]king\n[C#m]Ask me and I\n[F#7]will play\n[D#]\n[D#7b9]So\n[E]sweetly, I'll\n[B]make you smile\n[E]\n[B]\nThis is my tune\n\n[Verse 2]\n[F#]\n[E]for the ta-\n[G#m]king\n[C#m]Take it, don't\n[F#7]turn away\n[D#]\n[D#7b9]I've been\n[E]waiting\n[B]all my\n[E]life\n[B]\n\n[Bridge]\n[G#m]Thinking it over,\nI've been sad\n[D#m]\n[D#7]\n[D#dim7]Thinking it\nover, I'd be more\n[F#]than\n[F#7]glad To change\n[B]my ways\n[F#m6/A]\n[G#7]\n[Emaj7]for the as-\n[G#m]king\n[C#m]Ask me and I\n[F#7]will play\n[D#]\n[D#7b9]All the love\n[E]that I\n[B]hold in-\n[E]side\n[B]\n\n[Outro]\n[F#]\n[E]\n[G#m]\n[C#m]\n[F#7]\n[D#]\n[D#7b9]\n[E]\n[B]\n[E]\n[B]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x32010",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "xx0231",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "022100"
+      ],
+      "catalogCount": 1
+    },
+    "D#7": {
+      "catalog": [
+        "022130"
+      ],
+      "catalogCount": 1
+    },
+    "D#7b9": {
+      "catalog": [
+        "020131"
+      ],
+      "catalogCount": 1
+    },
+    "D#dim7": {
+      "catalog": [
+        "xx2323"
+      ],
+      "catalogCount": 1
+    },
+    "D#m": {
+      "catalog": [
+        "022000"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "133211",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Emaj7": {
+      "catalog": [
+        "xx3210",
+        "0-2-1-1-0-0",
+        "x-x-2-4-4-4",
+        "x-7-6-4-4-4",
+        "x-7-9-8-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "320003",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "320001",
+        "2-4-2-3-2-2",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "F#m6/A": {
+      "catalog": [
+        "x12030"
+      ],
+      "catalogCount": 1
+    },
+    "G#7": {
+      "catalog": [
+        "x02020"
+      ],
+      "catalogCount": 1
+    },
+    "G#m": {
+      "catalog": [
+        "x02210"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Song for the Asking",
+  "id": "e401a6f8eb0ea84c58c2657f6acc872b32a23efb2c1c6ea3d576b152cedd6899",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 82,
+  "normalizedKey": "simon garfunkel|song for the asking",
+  "playableChords": [
+    "B",
+    "F#",
+    "E",
+    "G#m",
+    "C#m",
+    "F#7",
+    "D#",
+    "D#7b9",
+    "D#m",
+    "D#7",
+    "D#dim7",
+    "F#m6/A",
+    "G#7",
+    "Emaj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 72,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e401a6f8eb0ea84c58c2657f6acc872b32a23efb2c1c6ea3d576b152cedd6899",
+    "version": "BCFZ"
+  },
+  "tempo": 154,
+  "title": "Song for the Asking",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

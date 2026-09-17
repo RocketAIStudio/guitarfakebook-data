@@ -1,0 +1,119 @@
+{
+  "artist": "Robin Trower",
+  "artistNormalized": "robin trower",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n\n[Verse 1]\n[Em]The sun don't shine The\nmoon don't move the tides, To wash\nme clean\nThe sun don't shine The\nmoon don't move the tides, To wash\nme clean\n\n[Chorus]\n[Cmaj7]Why so [A]unforgiving\n[G]and why so cold [B7]\n[Cmaj7]Been a long time [B7]crossing bridge of\n\n[Interlude]\n[Em]sighs\n\n[Verse 2]\n[Em]Cold wind blows The\nGods look down in anger, On this poor child\nCold wind blows And\nGods look down in anger, On this poor\nchild\n\n[Chorus]\n[Cmaj7]Why so [A]unforgiving\n[G]and why so [B7]cold\n[Cmaj7]Been a long time [B7]crossing bridge\n\n[Interlude]\n[Em]of sighs\n\n[Outro]\n[Em]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bridge Of Sighs",
+  "id": "50e7495a33d902e50c88a6481471177625dfd00d0bf1d6fb80e1ec87baabba09",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 92,
+  "normalizedKey": "robin trower|bridge of sighs",
+  "playableChords": [
+    "Em",
+    "Cmaj7",
+    "A",
+    "G",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Interlude"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Interlude"
+    },
+    {
+      "measure": 38,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "50e7495a33d902e50c88a6481471177625dfd00d0bf1d6fb80e1ec87baabba09",
+    "version": "BCFZ"
+  },
+  "tempo": 48,
+  "title": "Bridge Of Sighs",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

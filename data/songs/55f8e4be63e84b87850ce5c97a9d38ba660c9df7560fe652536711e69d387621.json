@@ -1,0 +1,136 @@
+{
+  "artist": "Roy Orbison",
+  "artistNormalized": "roy orbison",
+  "capo": "No capo",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[C/G]A candycolored clown\nthey call the\n[Am]sandman\n[F]Tiptoes to my room every\n[G7]night\n[C/G]Just to sprinkle stardust and to\n[Am]whisper \"Go to\n[F]sleep. Every-\n[G]thing is all\n[C/G]right.\"\nI close my\n\n[Verse 1]\n[C/G]eyes,\nthen I drift a-\n[Dm]way\nInto the\n[G7]magic night,\nI softly\n[C/G]say\nA silent\nprayer\nlike dreamers\n[Dm]do\nThen I fall as-\n[G7]leep to dreams,\nmy dreams of\n[C/G]you\nIn\n\n[Verse 2]\n[C/G]dreams I\nwalk with\n[G]you,\nin\n[F]dreams I\n[G]talk to\n[C/G]you\nIn\ndreams you're\nmine,\n[D]all of the\ntime We're to-\n[C/G]ge-\n[Dm]ther [G]in\n[C/G]dreams, [Dm]in\n[G]dreams\nBut\n\n[Verse 3]\n[C/G]just be-\n[Fm]fore the\n[C/G]dawn,\nI a-\nwake and\n[Fm]find you\n[C/G]gone\nI can't\nhelp it, I can't\nhelp it, if I\n[Dm]cry\nI re-\nmember [G]that\nyou said good-\n[C/G]bye\nIt's too\nbad that\n[F]all these\n[G]things\nCan only\n[C/G]happen\n[F]in my\n[G]dreams\n\n[Outro]\n[C/G]On-\nly in\n[D]dreams,\nin\n[Dm]beau-\n[G]tiful\n[C/G]dreams",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "In Dreams",
+  "id": "55f8e4be63e84b87850ce5c97a9d38ba660c9df7560fe652536711e69d387621",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 162,
+  "normalizedKey": "roy orbison|in dreams",
+  "playableChords": [
+    "C/G",
+    "Am",
+    "F",
+    "G7",
+    "G",
+    "Dm",
+    "D",
+    "Fm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "55f8e4be63e84b87850ce5c97a9d38ba660c9df7560fe652536711e69d387621",
+    "version": "BCFZ"
+  },
+  "tempo": 118,
+  "title": "In Dreams",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

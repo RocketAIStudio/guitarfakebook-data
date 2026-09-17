@@ -1,0 +1,116 @@
+{
+  "artist": "Roy Orbison",
+  "artistNormalized": "roy orbison",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[E]Hey baby,\njump over here When you\ndo the oobydooby I\nwanna be near Ooby-\n\n[Chorus]\n[A]dooby, ooby-\ndooby, ooby-\n[E]dooby, ooby-\ndooby Ooby-\n[B7]dooby, oobydooby, ooby-\n[A7]dooby, oobydoobydowah\n[E]dowah dowah\nWell you\n\n[Verse 2]\n[E]wiggle to the left, you\nwiggle to the right You\ndo the oobydooby with\nall of your might Ooby-\n\n[Chorus]\n[A]dooby, ooby-\ndooby, ooby-\n[E]dooby, ooby-\ndooby Ooby-\n[B7]dooby, oobydooby, ooby-\n[A7]dooby, oobydoobydowah\n[E]dowah dowah\n\n[Interlude]\n[E]\n[A]\n[E]\n[B7]\n[A7]\n[E]\n[E]\n[A]\n[E]\n[B7]\n[A7]\n[E]\nWell you\n\n[Verse 3]\n[E]wriggle and you shake, like a\nbit rattle snake You\ndo the ooby dooby 'till you\nthink her heart'll break Ooby-\n\n[Chorus]\n[A]dooby, ooby-\ndooby, ooby-\n[E]dooby, ooby-\ndooby Ooby-\n[B7]dooby, oobydooby, ooby-\n[A7]dooby, oobydoobydowah\n[E]dowah dowah\n\n[Interlude]\n[E]\n[A]\n[E]\n[B7]\n[A7]\n[E]\n[E]\n[A]\n[E]\n[B7]\n[A7]\n[E]\nWell\n\n[Verse 4]\n[E]you've been struttin' 'cause\nnow you know How to\ndo the ooby dooby,\nbaby let's go! Ooby-\n\n[Chorus]\n[A]dooby, ooby-\ndooby, ooby-\n[E]dooby, ooby-\ndooby Ooby-\n[B7]dooby, oobydooby, ooby-\n[A7]dooby, oobydoobydowah\n[E]dowah dowah",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ooby Dooby",
+  "id": "27e3b2899e8a82cb2fe923a9955efc4df612b3cca8ac4df44d7cdd2c6510c4fe",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 253,
+  "normalizedKey": "roy orbison|ooby dooby",
+  "playableChords": [
+    "E",
+    "A",
+    "B7",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Interlude"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Interlude"
+    },
+    {
+      "measure": 85,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "27e3b2899e8a82cb2fe923a9955efc4df612b3cca8ac4df44d7cdd2c6510c4fe",
+    "version": "BCFZ"
+  },
+  "tempo": 170,
+  "title": "Ooby Dooby",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

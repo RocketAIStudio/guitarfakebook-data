@@ -1,0 +1,140 @@
+{
+  "artist": "Sleeping At Last",
+  "artistNormalized": "sleeping at last",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Eb]\n[Ab]  [Bb]\n[Ab]  [Bb]\n[Eb]\n[Ab]  [Bb]\n[Ab]  [Bb]\n\n[Verse 1]\n[Eb]I've waited a hundred years\nBut I'd wait a million more\n[Ab]for you [Bb]\n[Ab]  [Bb]\n[Eb]Nothing prepared me for\nWhat the privilege of being yours\n[Ab]would do [Bb]\n[Ab]  [Bb]\n\n[Pre-Chorus]\n[Bb]If I had [Cm7]only felt the warmth\n[Ab]within your touch [Eb]\n[Bb]If I had [Cm7]only seen how you\n[Ab]smile when you blush [Eb]\n[Bb]Or how you [Cm7]curl your lip when you con-\n[Ab]centrate enough [Eb]Well I would have known\n[Bb]What I was living for\n[Cm7]all along [Ab]\nWhatta I've been living\n\n[Chorus]\n[Eb]for\nYour love is [Ebmaj7]my turning page\n[Eb]Where only [Ebmaj7]the sweetest words\n[Ab]remain\n[Fm]\n[Eb]Every kiss is [Bb/D]a cursive line\n[Cm7]Every touch is a [Bb]redefin-\n[Ab]ing phrase\n[Bb]I [Cm7]surrender who I've been\n[Ab]for who you [Eb]are\n[Bb]For nothing makes [Cm7]me stronger than\n[Ab]your fragile [Eb]heart\n[Bb]If I had [Cm7]only felt how it feels\n[Ab]to be yours [Eb]Well I would have known\n[Bb]What I've been living for\n[Cm7]all along\n[Ab]\nWhat I've been living\n\n[Interlude]\n[Eb]for\n[Eb/Bb]\n[Cm7]\n[Eb/Bb]\n[Cm7]\n\n[Verse 2]\n[Ab]Though we're tethered\n[Bb]to the story we must tell\n[Ab]When I saw you,\n[Bb]well I knew we'd tell it well\n[Ab]With a whisper\n[Bb]we will tame the vicious\n[Ab]seas Like a feather\n[Bb]bringing kingdoms to their\n\n[Outro]\n[Eb]knees",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "466544",
+        "4-3-1-1-1-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "688766",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bb/D": {
+      "catalog": [
+        "xx5766"
+      ],
+      "catalogCount": 1
+    },
+    "Cm7": {
+      "catalog": [
+        "x35343",
+        "8-10-8-8-8-8",
+        "x-x-10-12-11-11",
+        "x-15-17-15-16-15",
+        "20-22-20-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Eb/Bb": {
+      "catalog": [
+        "668886"
+      ],
+      "catalogCount": 1
+    },
+    "Ebmaj7": {
+      "catalog": [
+        "x68786",
+        "x-x-1-3-3-3",
+        "x-6-5-3-3-3",
+        "11-10-8-8-8-10",
+        "11-13-12-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Turning The Page",
+  "id": "f2ea969e12731bf72c2052d3803a4be97113527510e3f2817ce1ecf935e22576",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 223,
+  "normalizedKey": "sleeping at last|turning the page",
+  "playableChords": [
+    "Eb",
+    "Ab",
+    "Bb",
+    "Cm7",
+    "Ebmaj7",
+    "Fm",
+    "Bb/D",
+    "Eb/Bb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Interlude"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 60,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f2ea969e12731bf72c2052d3803a4be97113527510e3f2817ce1ecf935e22576",
+    "version": "BCFZ"
+  },
+  "tempo": 57,
+  "title": "Turning The Page",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

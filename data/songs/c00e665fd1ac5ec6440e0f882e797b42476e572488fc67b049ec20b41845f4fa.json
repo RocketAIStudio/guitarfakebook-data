@@ -1,0 +1,137 @@
+{
+  "artist": "Robert Palmer",
+  "artistNormalized": "robert palmer",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E5]\n[D5]\n[E5]\n[D5]\n[E5]\n[D5]\n[E5]\n[D5]A hot summer ni-\n\n[Verse 1]\n[E5]ght\n[D5]fell like a net\n[E5]\n[A]I've gotta\n[B]find my\nbaby yet\n[E]\nI need\n[E]you\n[D]to soo the\n[E]my head\n[A][B]Turn my\nblue\n[E]heart to red\n\n[Chorus]\n[E5]Doctor Doctor,\ngimme the news I got\na Bad case\nof lovin' you\n[A]No pill's gonna\ncure my ill I've got\na Bad case\n[B]of [E5]lovin'\n[D]you\n[E]\n[D]\n[E]A pretty face\n\n[Verse 2]\n[D5]\n[D]don't make no pretty\n[E5]heart\nI learned\nthat\n[A]buddy from the start\n[B]\n[D5]You think I'm\n[E5]cute,\n[D]a little bit\n[E]shy\nMama, I\n[A]ain't\n[B]that kind of guy\n[E]\n\n[Chorus]\nDoctor Doctor,\ngimme the news I got\n[A]a Bad case\nof lovin' you\nNo pill's gonna\n[B]cure my ill [E5]I got a\n[D]Bad case of\n[E]lovin'\n[D]you\n[E]\n[E5]Whoah\n[D5]\n[E5]\n[D5]\n\n[Guitar Solo]\n[E5]\n[D5]\n[E5]\n[D5]\n\n[Bridge]\n[A]I know you\n[E]like it,\nyou like it on\ntop\n[A]Tell me ma-\nma,\n[C#]are you gonna\n[B]\nstop?\n[E5]\n[D5]\n[E5]\n[D5]You had me down\n\n[Verse 3]\n[D5]\n[D]twentyone to\n[E5]zip\nSmile of\nJud-\n[A]as on your lip\n[B]\n[D5]Shake\n[E5]my\n[D]fist, knock\n[E]on wood\nI've got it\n[A]bad,\n[B]and I got it good\n[E]\n\n[Chorus]\nDoctor Doctor,\ngimme the news I've got\n[A]a Bad case\nof lovin' you\nNo pill's gonna\n[B]cure my ill [E5]I got a\n[D]Bad case of\n[E]lovin'\n[D]you\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "xxx664",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "xx210x",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "0224xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bad Case Of Loving You",
+  "id": "c00e665fd1ac5ec6440e0f882e797b42476e572488fc67b049ec20b41845f4fa",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 213,
+  "normalizedKey": "robert palmer|bad case of loving you",
+  "playableChords": [
+    "E5",
+    "D5",
+    "A",
+    "B",
+    "E",
+    "D",
+    "C#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 74,
+      "name": "Bridge"
+    },
+    {
+      "measure": 87,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 103,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c00e665fd1ac5ec6440e0f882e797b42476e572488fc67b049ec20b41845f4fa",
+    "version": "BCFZ"
+  },
+  "tempo": 145,
+  "title": "Bad Case Of Loving You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

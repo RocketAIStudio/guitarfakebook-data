@@ -1,0 +1,112 @@
+{
+  "artist": "Rodriguez",
+  "artistNormalized": "rodriguez",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n[Amaj7]\n[D]\n[E]I\n\n[Verse 1]\n[A]wonder how many times\n[Amaj7]you've been had And I\n[D]wonder how many plans\n[E]have gone bad I\n[A]wonder how many times\n[Amaj7]you had sex And I\n[D]wonder do you know\n[E]who'll be next I\n[A]wonder I\n[Amaj7]wonder,\n[D]\n[E]wonder I do\n\n[Pre- Verse]\n[A]\n[Amaj7]\n[D]\n[E]I\n\n[Verse 2]\n[A]wonder about the love\n[Amaj7]you can't find And I\n[D]wonder about the\n[E]loneliness that's mine I\n[A]wonder how much go-\n[Amaj7]ing have you got And I\n[D]wonder about your\n[E]friends that are not I\n[A]wonder I\n[Amaj7]wonder,\n[D]\n[E]wonder I do\n\n[Bridge]\n[A]\n[Amaj7]\n[D]\n[E]I\n\n[Verse 3]\n[A]wonder about the\n[Amaj7]tears in children's eyes And I\n[D]wonder about the\n[E]soldier that dies I\n[A]wonder will this hat-\n[Amaj7]red ever end And I\n[D]wonder and\n[E]worry my friend I\n[A]wonder, I\n[Amaj7]wonder,\n[D]\n[E]wonder don't you?\n\n[Solo]\n[A]\n[Amaj7]\n[D]\n[E]I\n\n[Verse 4]\n[A]wonder how many times\n[Amaj7]you been had And I\n[D]wonder how many dreams\n[E]have gone bad I\n[A]wonder how many times\n[Amaj7]you've had sex And I\n[D]wonder do you care\n[E]who'll be next I\n[A]wonder I\n\n[Outro/Fade Out]\n[Amaj7]wonder,\n[D]\n[E]wonder I do\n[A]\n[Amaj7]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Amaj7": {
+      "catalog": [
+        "x02120",
+        "5-4-2-2-2-4",
+        "5-7-6-6-5-5",
+        "x-x-7-9-9-9",
+        "x-12-11-9-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I wonder",
+  "id": "674f7a3c022267b1851b8d982424f88d02e6860e7acf501fc0a06ab62ff5a17b",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 201,
+  "normalizedKey": "rodriguez|i wonder",
+  "playableChords": [
+    "A",
+    "Amaj7",
+    "D",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Pre- Verse"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 54,
+      "name": "Solo"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 67,
+      "name": "Outro/Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "674f7a3c022267b1851b8d982424f88d02e6860e7acf501fc0a06ab62ff5a17b",
+    "version": "BCFZ"
+  },
+  "tempo": 113,
+  "title": "I wonder",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

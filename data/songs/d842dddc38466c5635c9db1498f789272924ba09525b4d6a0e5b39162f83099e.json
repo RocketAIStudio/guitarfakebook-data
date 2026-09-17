@@ -1,0 +1,161 @@
+{
+  "artist": "Ricky Nelson",
+  "artistNormalized": "ricky nelson",
+  "capo": "No capo",
+  "chordPositionCount": 39,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[B]  [D#m]\n[E]  [F#7]\n[B]  [D#]\n[E]  [F#7]\n\n[Verse]\n[B/F#]There's a place where\n[D#]lovers go To\n[E]cry their [F#]troubles a-\n[B/F#]way\n[E]And they call it\n[B]Lonesome [Abm]Town\n[E]Where the [F#7]broken hearts\n[B/F#]stay\n\n[Verse 2]\n[B/F#]You can buy a\n[D#]dream or two\n[E]To last you [F#]all through the\n[B/F#]years\n[E]And the only\n[B]price you [Abm]pay\n[E]Is a [F#7]heart full of\n[B/F#]tears\n\n[Verse 3]\n[E]Goin' down to\n[D#m]Lonesome Town\n[E]Where the [F#]broken hearts\n[B/F#]stay\n[E]Goin' down to\n[D#m]Lonesome Town To\n[C#]cry my troubles a-\n[F#7]way\n\n[Verse 4]\n[B]In the town of\n[D#]broken dreams\n[E]The streets are [F#7]filled with re-\n[B/F#]gret\n[E]Maybe down in\n[B]Lonesome [Abm]Town\n[E]I can [F#7]learn to for-\n[B/F#]get\n\n[Outro]\n[E]Maybe [Em]down in\n[B]Lonesome [Abm]Town\n[E]I can [F#7]learn to for-\n[B]get [E/B]\n[B/F#]",
+  "diagrams": {
+    "Abm": {
+      "catalog": [
+        "x0221x",
+        "4-6-6-4-4-4",
+        "x-x-6-8-9-7",
+        "x-11-13-13-12-11",
+        "16-18-18-16-16-16"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x3201x",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B/F#": {
+      "catalog": [
+        "33201x"
+      ],
+      "catalogCount": 1
+    },
+    "C#": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "02210x"
+      ],
+      "catalogCount": 1
+    },
+    "D#m": {
+      "catalog": [
+        "02200x"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "133211",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "E/B": {
+      "catalog": [
+        "x33211"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "xx3111",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "32000x",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "320001",
+        "2-4-2-3-2-2",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lonesome Town *alt",
+  "id": "d842dddc38466c5635c9db1498f789272924ba09525b4d6a0e5b39162f83099e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 123,
+  "normalizedKey": "ricky nelson|lonesome town",
+  "playableChords": [
+    "B",
+    "D#m",
+    "E",
+    "F#7",
+    "D#",
+    "B/F#",
+    "F#",
+    "Abm",
+    "C#",
+    "Em",
+    "E/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 38,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d842dddc38466c5635c9db1498f789272924ba09525b4d6a0e5b39162f83099e",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "Lonesome Town",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

@@ -1,0 +1,145 @@
+{
+  "artist": "Rodrigo Amarante",
+  "artistNormalized": "rodrigo amarante",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 11,
+  "content": "[Guitar Solo]\n[C#m7]\n[D#m7b5]\n[F#m/A]\n[C#m7]\n[C#m7]\n[D#m7b5]\n[G#7]\n[C#m/E]\n[D#dim7]\n[C#m7]\n\n[Verse 1]\n[C#m7]Soy el fuego que\n[D#m7b5]arde tu piel\n[G#7]Soy el agua que\n[C#m7]mata tu sed\n[C#m7]El castillo, la\n[D#m7b5]torre yo soy\n[G#7]La espada que\n[C#m7]guarda el caudal\n[C#7]Tú, el aire que\n\n[Verse 2]\n[D#dim/F#]respiro yo\n[B7]Y la luz de la\n[Emaj9]luna en el mar\n[F#m/A]La garganta\n[D#m7b5]que ansío mojar Que\n[G#7]temo ahogar de\n[C#m7]amor\nY\n\n[Verse 3]\n[A7]cuáles de-\nseos me\n[G#7]vas a dar,\noh Dices\n[A7]tu, mi te-\nsoro basta\n[G#7]con mirarlo\nY tuyo se-\n\n[Outro]\n[C#m7]rá,\n[A7]y [G#7]tu yo se-\n[C#m7]rá\n[A7]  [G#7]\n[C#m7]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "575655",
+        "5-4-2-2-2-3",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#7": {
+      "catalog": [
+        "9-11-9-10-9-9",
+        "x-4-3-4-2-1",
+        "x-4-6-4-6-4",
+        "9-8-6-6-6-7",
+        "x-x-11-13-12-13"
+      ],
+      "catalogCount": 5
+    },
+    "C#m/E": {
+      "catalog": [
+        "x7665x"
+      ],
+      "catalogCount": 1
+    },
+    "C#m7": {
+      "catalog": [
+        "9-11-9-9-9-9",
+        "x-4-6-4-5-4",
+        "x-x-11-13-12-12",
+        "x-16-18-16-17-16",
+        "21-23-21-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D#dim/F#": {
+      "catalog": [
+        "204242"
+      ],
+      "catalogCount": 1
+    },
+    "D#dim7": {
+      "catalog": [
+        "x67575"
+      ],
+      "catalogCount": 1
+    },
+    "D#m7b5": {
+      "catalog": [
+        "x6767x"
+      ],
+      "catalogCount": 1
+    },
+    "Emaj9": {
+      "catalog": [
+        "x7687x"
+      ],
+      "catalogCount": 1
+    },
+    "F#m/A": {
+      "catalog": [
+        "xx7675"
+      ],
+      "catalogCount": 1
+    },
+    "G#7": {
+      "catalog": [
+        "464544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tuyo",
+  "id": "e1c5ca8594d8ef44a007903b47d8fd59c9b8e06106b6921eb63c36aa6514b3ab",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 102,
+  "normalizedKey": "rodrigo amarante|tuyo",
+  "playableChords": [
+    "C#m7",
+    "D#m7b5",
+    "F#m/A",
+    "G#7",
+    "C#m/E",
+    "D#dim7",
+    "C#7",
+    "D#dim/F#",
+    "B7",
+    "Emaj9",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e1c5ca8594d8ef44a007903b47d8fd59c9b8e06106b6921eb63c36aa6514b3ab",
+    "version": "BCFZ"
+  },
+  "tempo": 108,
+  "title": "Tuyo",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

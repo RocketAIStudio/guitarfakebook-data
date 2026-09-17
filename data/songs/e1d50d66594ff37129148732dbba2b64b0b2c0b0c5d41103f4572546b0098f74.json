@@ -1,0 +1,81 @@
+{
+  "artist": "Screeching Weasel",
+  "artistNormalized": "screeching weasel",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D5]\n[F5]\n[D5]\n[F5]I'm\n\n[Verse 1]\n[D5]immaturei\n[F5]talk a lot i'm a\n[D5]lying, cheating\n[F5]little snot I\n[D5]smell badi don't\n[F5]comb my hair i\n[D5]Steal from worki\n[F5]don't fight fair\n\n[Chorus]\n[G5]I can't\n[C5]stand my-\n[D5]self\n[G5]I can't\n[C5]stand my-\n[D5]self\n\n[Verse 2]\n[D5]Girls are repulsed by the\n[F5]sight of me I\n[D5]slouch and i don't\n[F5]brush my teeth Don't\n[D5]have a jobdon't\n[F5]go to School and\n[D5]worst of all I\n[F5]think i'm cool\n\n[Chorus]\n[G5]I can't\n[C5]stand my-\n[D5]self\n[G5]I can't\n[C5]stand my-\n[D5]self",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx",
+        "10-12-12-x-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x-10-12-12-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Can't Stand Myself",
+  "id": "e1d50d66594ff37129148732dbba2b64b0b2c0b0c5d41103f4572546b0098f74",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 89,
+  "normalizedKey": "screeching weasel|i can t stand myself",
+  "playableChords": [
+    "D5",
+    "F5",
+    "G5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e1d50d66594ff37129148732dbba2b64b0b2c0b0c5d41103f4572546b0098f74",
+    "version": "BCFZ"
+  },
+  "tempo": 210,
+  "title": "I Can't Stand Myself",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

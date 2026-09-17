@@ -1,0 +1,140 @@
+{
+  "artist": "Ritchie Valens",
+  "artistNormalized": "ritchie valens",
+  "capo": "No capo",
+  "chordPositionCount": 40,
+  "chordSymbolCount": 8,
+  "content": "You're\n\n[Verse 1]\n[F]mine [Dm]\n[Gm]and we [C]belong to-\n[F]gether [Dm]\n[Gm]Yes, we [C]belong to-\n[F]gether, [Dm]\n[Gm]for [C]eterni-\n[F]ty [Dm]\n[Gm][C]You're\n\n[Verse 2]\n[F]mine, [Dm]\n[Gm]your lips [C]belong to\n[F]me [Dm]\n[Gm]Yes, they [C]belong to\n[F]only me, [Dm]\n[Gm]for [C]eterni-\n[F]ty [Bb]\n[F][F7]You're\n\n[Chorus]\n[Bb]mine, my\n[Bbm]baby and\n[F]you'll always\n[F7]be I\n[Bb]swear by every-\n[Bbm]thing I own You'll\n[G]always, always be\n[C]mine You're\n\n[Verse 3]\n[F]mine [Dm]\n[Gm]and we [C]belong to-\n[F]gether [Dm]\n[Gm]Yes, we [C]belong to-\n[F]gether, [Dm]\n[Gm]for [C]eterni-\n\n[Outro]\n[F]ty [Bb]\n[F]  [F7]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm": {
+      "catalog": [
+        "x13321",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13",
+        "18-20-20-18-18-18"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "131211",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "We belong together",
+  "id": "c5606992165a71122fe0beb4d4270879ab3ecc4d49cd27cd5f558c9b15c682ae",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 87,
+  "normalizedKey": "ritchie valens|we belong together",
+  "playableChords": [
+    "F",
+    "Dm",
+    "Gm",
+    "C",
+    "Bb",
+    "F7",
+    "Bbm",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 32,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c5606992165a71122fe0beb4d4270879ab3ecc4d49cd27cd5f558c9b15c682ae",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "We belong together",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

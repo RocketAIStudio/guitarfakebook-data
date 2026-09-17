@@ -1,0 +1,115 @@
+{
+  "artist": "Skegss",
+  "artistNormalized": "skegss",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E6]\n[A6]\n[E6]\n[B6]\n\n[Pre-Verse]\n[E6]\n[A6]\n[E6]\n[B6]\n\n[Verse 1]\n[E6]I was just a child Walk-\ning in the wild Learning\n[A6]my name\n[E6]Waking while there's dreaming Shak-\ning what was sleep And learning\n[B6]what's tame\n[E6]Luck at my sides,\nstrangling me\n[A6]I can't see, no\nI can't breath\n[E6]Wrap myself up\nin a sheet\n[B6]Shut my eyes and I'm\ngoing to sleep\n\n[Chorus]\n[E6]I don't know\nwhy It\n[A6]is I'll live It\nis I'll die What I'm\n[E6]doing's wrong Or\nif it's right So\n[B6]I'm just gonna en-\njoy the sunshine\n[E6]I don't know\nwhy It\n[A6]is I'll live It\nis I'll die What I'm\n[E6]doing's wrong Or\nif it's right So\n[B6]I'm just gonna en-\njoy the sunshine\n\n[Bridge]\n[B7]I don't know why\nIt\nis I'll live or die\nIf what I'm\ndoing's wrong or right\nSo\nI'm just gonna en-\njoy the sunshine\n\n[Interlude]\n[E6]\n[A6]\n[E6]\n[B6]\n[E6]\n[A6]\n[E6]\n[B6]\n\n[Chorus]\n[E6]I don't know\nwhy It\n[A6]is I'll live It\nis I'll die What I'm\n[E6]doing's wrong Or\nif it's right So\n[B6]I'm just gonna en-\njoy the sunshine\n[E6]I don't know\nwhy It\n[A6]is I'll live It\nis I'll die What I'm\n[E6]doing's wrong Or\nif it's right So\n[B6]I'm just gonna en-\njoy the sunshine\n\n[Bridge]\n[B7]I don't know why\nIt\nis I'll live or die\nIf what I'm\ndoing's wrong or right\nSo\nI'm just gonna en-\njoy the sunshine\n\n[Interlude]\n[E6]\n[A6]\n[E6]\n[B6]\n[E6]\n[A6]\n[E6]\n[B6]\n\n[Outro]\n[B7]I don't know why\nIt\nis I'll live or die\nIf what I'm\ndoing's wrong or right\nSo\nI'm just gonna en-\njoy the sunshine\n[E]",
+  "diagrams": {
+    "A6": {
+      "catalog": [
+        "x02222"
+      ],
+      "catalogCount": 1
+    },
+    "B6": {
+      "catalog": [
+        "x24444"
+      ],
+      "catalogCount": 1
+    },
+    "B7": {
+      "catalog": [
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E6": {
+      "catalog": [
+        "022120"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "LSD",
+  "id": "2cce627d7211705b2baefa23e0d6b01dcea6542bb774c9b7f9097ac52d837816",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 269,
+  "normalizedKey": "skegss|lsd",
+  "playableChords": [
+    "E6",
+    "A6",
+    "B6",
+    "B7",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Interlude"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Bridge"
+    },
+    {
+      "measure": 97,
+      "name": "Interlude"
+    },
+    {
+      "measure": 113,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2cce627d7211705b2baefa23e0d6b01dcea6542bb774c9b7f9097ac52d837816",
+    "version": "BCFZ"
+  },
+  "tempo": 136,
+  "title": "LSD",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

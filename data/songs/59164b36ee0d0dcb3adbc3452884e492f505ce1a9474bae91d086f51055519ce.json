@@ -1,0 +1,132 @@
+{
+  "artist": "Rammstein",
+  "artistNormalized": "rammstein",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n\n[Interlude]\n[D]Lauft!\n\n[Verse 1]\n[D]Weil der Meister\nuns gesandt\nVer-\nkuenden wir den\nUntergang\nDer\nReiter der Bo-\nshaftigkeit\nFuettert sein Ge-\nschwuer aus\nNeid Neid\nNeid Neid Die\n\n[Chorus]\n[D]Wahrheit ist wie\nein Gewitter Es\n[G]kommt zu dir du\nkannst es hoeren Es\n[D]kund zu tun ist a-\nch so bitter Es\n[G]kommt zu dir um\nzu zerstoeren\n\n[Post-Chorus]\n[D]\nUm zu zer-\n[G]stoeren\n[D]\nUm zu zer-\n[G]stoeren\n\n[Interlude]\n[D]\n\n[Verse 2]\n[D]Weil die Nacht im\nSterben lag\nVer-\nkuenden wir den\njuengsten Tag\nEs wird kein Er-\nbarmen geben\nLauft, lauft,\nlauft, lauft,\nLauft, lauft\num euer Leben Die\n\n[Chorus]\n[D]Wahrheit ist ein\nChor aus Wind Kein\n[G]Engel kommt um\neuch zu raechen\n[D]Diese Tage eure\nletzten sind Wie\n[G]Staebchen wird es\neuch zerbrechen\n\n[Post-Chorus]\n[D]\nEuch zer-\n[G]brechen\n[D]\nEuch zer-\n[G]brechen\nEs kommt zu\n\n[Interlude]\n[D]euch\nEs kommt zu\neuch\nEs kommt zu\n[E]euch\nEs kommt zu\neuch Lauft, lauft\nAals das Ver-\n\n[Bridge]\n[E]derben\n[A]\n[E]\n[A]\n[D]\n[G]\n[D]\n[G]\nDie\n\n[Chorus]\n[D]Wahrheit ist ein\nChor aus Wind Kein\n[G]Engel kommt um\neuch zu raechen\n[D]Diese Tage eure\nletzten sind Wie\n[G]Staebchen wird es\neuch zerbrechen\n\n[Post-Chorus]\n[D]\nEuch zer-\n[G]brechen\n[D]\nEuch zer-\n[G]brechen\n\n[Outro]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "000232",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "222454",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "555787",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Der Meister *alt",
+  "id": "59164b36ee0d0dcb3adbc3452884e492f505ce1a9474bae91d086f51055519ce",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 223,
+  "normalizedKey": "rammstein|der meister",
+  "playableChords": [
+    "D",
+    "G",
+    "E",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Interlude"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Interlude"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 93,
+      "name": "Interlude"
+    },
+    {
+      "measure": 101,
+      "name": "Bridge"
+    },
+    {
+      "measure": 117,
+      "name": "Chorus"
+    },
+    {
+      "measure": 125,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 133,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "59164b36ee0d0dcb3adbc3452884e492f505ce1a9474bae91d086f51055519ce",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Der Meister",
+  "tuning": "D A D G B E",
+  "variantRole": "alt"
+}

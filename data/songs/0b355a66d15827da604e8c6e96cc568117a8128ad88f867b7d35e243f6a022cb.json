@@ -1,0 +1,126 @@
+{
+  "artist": "Ramones",
+  "artistNormalized": "ramones",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E]\n[A]\n[B]\n\n[Verse 1]\n[E]She says she's\n[A]babysitting to-\n[B]night\n[E]She says come o-\n[A]ver, it's al-\n[B]right\n[A]On the couch with\n[B]my special one\n[A]But don't tell me what we\n[B]won't have fun\n[A]On the couch with\n[B]my special one\n[A]But don't tell me what we\n[B]won't have fun\n\n[Chorus]\n[E]She says she's\n[A]babysitting to-\n[B]night\n[E]She says come o-\n[A]ver, it's al-\n[B]right\n[A]Yeah, ya know we'll have the\n[B]T V on\n[A]Aren't we glad that the\n[B]folks are gone\n[A]Yeah, ya know we'll have the\n[B]T V on\n[A]Aren't we glad that the\n[B]folks are gone\n\n[Interlude]\n[E]\n[A]\n[B]\n[E]\n[A]\n[B]\n\n[Bridge]\n[D]She went to see\nif the kids were asleep\n[A]\n[D]  [A]\n[D]She says they're quiet\nexpect for one little creep\n[A]\n[D]  [A]\n[D]We can't start kis-\nsing and I'll tell you\n[A]why\n[D]  [A]\n[D]We can't start kis-\nsing 'cause the kid's a little\n[B]spy\n\n[Verse 2]\n[F#]She says she's\n[B]babysitting to-\n[C#]night\n[F#]She says come o-\n[B]ver, it's al-\n[C#]right\n[B]On the couch with my\n[C#]special one\n[B]But don't tell me what we\n[C#]won't have fun\n[B]Yeah, ya know we'll have the\n[C#]T V on\n[B]Aren't we glad that the\n[C#]folks are gone\n\n[Chorus]\n[F#]She says she's\n[B]babysitting to-\n[C#]night\n[F#]She says come o-\n[B]ver, it's al-\n[C#]right\n[F#]She says she's\n[B]babysitting to-\n[C#]night\n[F#]She says come o-\n[B]ver, it's al-\n[C#]right\nAll-\n[F#]right",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x24442",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Babysitter",
+  "id": "0b355a66d15827da604e8c6e96cc568117a8128ad88f867b7d35e243f6a022cb",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 234,
+  "normalizedKey": "ramones|babysitter",
+  "playableChords": [
+    "E",
+    "A",
+    "B",
+    "D",
+    "F#",
+    "C#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0b355a66d15827da604e8c6e96cc568117a8128ad88f867b7d35e243f6a022cb",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Babysitter",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

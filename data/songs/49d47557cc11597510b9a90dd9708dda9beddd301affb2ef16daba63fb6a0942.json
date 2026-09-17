@@ -1,0 +1,77 @@
+{
+  "artist": "Screeching Weasel",
+  "artistNormalized": "screeching weasel",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[E5]We [C5]skatewe are [B5]cool [E5]We [C5]skatewe are [B5]straight\n[E5]We [C5]skatehelluv [B5]raw [E5]We [C5]skatefuck the [B5]law\n\n[Chorus]\n[G5]We are skaters tired and true [B5]Lookout we'll run over you\n\n[Verse 2]\n[E5]We [C5]skatewe are [B5]cool [E5]We [C5]skatewe can [B5]mosh\n[E5]We [C5]skatethrashin' [B5]mad [E5]We [C5]skatehelluv [B5]rad\n\n[Chorus]\n[G5]We are skaters tired and true [B5]Lookout we'll run over\n[E5]you",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "x244xx",
+        "799xxx"
+      ],
+      "catalogCount": 2
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "We Skate",
+  "id": "49d47557cc11597510b9a90dd9708dda9beddd301affb2ef16daba63fb6a0942",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 67,
+  "normalizedKey": "screeching weasel|we skate",
+  "playableChords": [
+    "E5",
+    "C5",
+    "B5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 4,
+      "name": "Chorus"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 7,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "49d47557cc11597510b9a90dd9708dda9beddd301affb2ef16daba63fb6a0942",
+    "version": "BCFZ"
+  },
+  "tempo": 153,
+  "title": "We Skate",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

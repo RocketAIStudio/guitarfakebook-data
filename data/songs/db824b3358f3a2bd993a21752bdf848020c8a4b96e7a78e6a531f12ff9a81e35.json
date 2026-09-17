@@ -1,0 +1,85 @@
+{
+  "artist": "Robert Johnson",
+  "artistNormalized": "robert johnson",
+  "capo": "4",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]\n[D]I\n\n[Verse 1]\n[G]went to the crossroad,\nfell down on my knees\nI\n[C]went to the crossroad,\nfell down on my knees\n[G]\nAsked the Lord above,\n[D]\"Have mercy,\n[C]save poor Bob if you please\"\n[G]\nMmmm,\n\n[Verse 2]\n[G]standin' at the crossroad,\nI tried to flag a ride\nStandin' at the cross-\n[C]road,\nI tried to flag a ride\n[G]\nAin't nobody seem\n[D]to know me, [C]everybody pass me by\n[G]\nMmmm,\n\n[Verse 3]\n[G]the sun goin' down boy,\ndark goin' catch me here\nOoooh ooh\n[C]eeee,\nboy dark goin' catch me here\n[G]\nI haven't got no\n[D]lovin' sweet woman that\n[C]love and feel my care\n[G]\nYou can run,\n\n[Verse 4]\n[G]you can run,\ntell my friend boy Willie Brown\nYou can\n[C]run,\ntell my friend boy Willie Brown\n[G]\nLord that I'm standing at\n[D]the crossroad, babe I [C]believe I'm sinkin' down\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x55555",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x77777",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "x33333",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Crossroad Blues",
+  "id": "db824b3358f3a2bd993a21752bdf848020c8a4b96e7a78e6a531f12ff9a81e35",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 151,
+  "normalizedKey": "robert johnson|crossroad blues",
+  "playableChords": [
+    "G",
+    "D",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "db824b3358f3a2bd993a21752bdf848020c8a4b96e7a78e6a531f12ff9a81e35",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Crossroad Blues",
+  "tuning": "D G D G B D",
+  "variantRole": "primary"
+}

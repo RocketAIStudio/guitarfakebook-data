@@ -1,0 +1,104 @@
+{
+  "artist": "Simon & Garfunkel",
+  "artistNormalized": "simon garfunkel",
+  "capo": "7",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n[Dm]\n[Am]\nI'd\n\n[Verse 1]\n[Am]rather be a sparrow than a\n[C]snail Yes I\nwould If I\ncould I surely would\n[Am]\nI'd\n\n[Verse 2]\n[Am]rather be a hammer than a nail\n[C]Yes I\nwould If I only could\nI surely would\n[Am]\nA-\n\n[Bridge]\n[F]way, I'd rather sail a-\nway Like a\n[C]swan that's here and\ngone A\n[F]man gets tied up to the\nground He gives the\n[C]world Its saddest\nsound Its saddest\n[Am]sound\nI'd\n\n[Verse 3]\n[Am]rather be a forest than a\n[C]street Yes I\nwould If I could\nI surely would\n[Am]I'd\n\n[Verse 4]\n[Am]rather feel the earth beneath my\n[C]feet Yes I\nwould If I only could\nI surely would\n[Am]\n\n[Outro]\n[F]\n[C]\n[F]\n[C]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "El Condor Pasa (If I Could)",
+  "id": "2599ecbd5265f83649b0edb8b2acf5f4ce858daf5e546c472f42c6c149d5ef21",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 119,
+  "normalizedKey": "simon garfunkel|el condor pasa if i could",
+  "playableChords": [
+    "Am",
+    "Dm",
+    "C",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 52,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2599ecbd5265f83649b0edb8b2acf5f4ce858daf5e546c472f42c6c149d5ef21",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "El Condor Pasa (If I Could)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

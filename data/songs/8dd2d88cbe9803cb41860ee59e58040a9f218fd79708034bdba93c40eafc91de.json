@@ -1,0 +1,126 @@
+{
+  "artist": "Roy Orbison",
+  "artistNormalized": "roy orbison",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F]\nI\n\n[Verse 1]\n[F]feel so bad I've got a\nworried mind\nI'm so lonesome\n[C]all the time\nSince I left my\nbaby behind on\n[F]Blue Ba you\n\n[Verse 2]\n[F]Saving nickels,\nsaving dimes,\n[C]working 'till the\nsun don't shine\nLooking forward to\nhappier times on\n[F]Blue Ba you\nI'm going\n\n[Chorus]\n[F]back some day\ncome what may to Blue\n[C7]Bayou\nWhere you\nsleep all day and the\ncatfish play on Blue\n[F]Bayou\nAll those\nfishing boats with their\n[F7]sails afloat If\n[Bb]I could only see\n[Bbm]That fa-\n[F]miliar sunrise through\n[C7]sleepy eyes, how\n[F]happy I'd be\n\n[Verse 3]\n[F]Go to see my\nbaby again\n[C]And to be with\nsome of my friends\nMaybe I'd be\nhappy then on\n[F]Blue Ba you\nI'm going\n\n[Chorus]\n[F]back some day,\ngonna stay on Blue\n[C7]Bayou\nWhere the\nfolks are fine and the\nworld is mine on Blue\n[F]Bayou\nOh, that\ngirl of mine\n[F7]by my side the\n[Bb]silver moon and the eve\n[Bbm]ning tide Oh,\n[F]some sweet day gonna\n[C7]take a way this\n[F]hurtin' inside\nI'll\n\n[Outro]\n[C7]never be blue, my\ndreams come true\non\nBlue\nBa-\n[F]you",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm": {
+      "catalog": [
+        "x13321",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13",
+        "18-20-20-18-18-18"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "131211",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Blue Bayou",
+  "id": "8dd2d88cbe9803cb41860ee59e58040a9f218fd79708034bdba93c40eafc91de",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 216,
+  "normalizedKey": "roy orbison|blue bayou",
+  "playableChords": [
+    "F",
+    "C",
+    "C7",
+    "F7",
+    "Bb",
+    "Bbm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8dd2d88cbe9803cb41860ee59e58040a9f218fd79708034bdba93c40eafc91de",
+    "version": "BCFZ"
+  },
+  "tempo": 118,
+  "title": "Blue Bayou",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

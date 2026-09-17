@@ -1,0 +1,123 @@
+{
+  "artist": "Secondhand Serenade",
+  "artistNormalized": "secondhand serenade",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n[Am7]\n[F]\n[C]\n[G]I\n\n[Verse 1]\n[C]met you by the pool, so free and care\nless That\n[Am7]evening didn't go as we had planned\nBut I\n[F]knew I had to bring you out to see\nme I was a\n[C]selfish boy in love with half a heart\n[G]in his hand We would\n\n[Verse 2]\n[C]dance all night not caring who was wat\nching Live\n[Am7]life like there was nothing we could lose\nBut I was\n[F]wrong and there is nothing in this\nworld I wouldn't do To\n[C]relive every moment spent with\n[G]you I'd\n\n[Chorus]\n[C]never lost it all till\nI lost you But\n[Am7]I was much too reckless and I\nbroke your heart in two A\n[F]million bits of hope, now you'll\nnever know the truth You're\n[C]part of [Em]every [Am7]single thing [G]I\n[F]do Now you're\ngone 'cause I forgot [G]about loving you\n\n[Pre-Verse]\n[C]\nAs\n\n[Verse 3]\n[C]time went by I was driven by decep\ntion But you've\n[Am7]always stood beside me and you prayed\nThat I'd\n[F]see the pain I caused but I\nchose to look right through I\n[C]let you down and watched you slip away\n[G]I'd\n\n[Chorus]\n[C]never lost it all till\nI lost you But\n[Am7]I was much too reckless and I\nbroke your heart in two A\n[F]million bits of hope, now you'll\nnever know the truth You're\n[C]part of [Em]every [Am7]single thing [G]I\n[F]do Now you're\ngone 'cause I forgot [G]about loving you\n\n[Bridge]\n[C]\n[Am7]\n[F]\n[C]\n[G]I'd\n\n[Chorus]\n[C]never lost it all till\nI lost you But\n[Am7]I was much too reckless and I\nbroke your heart in two A\n[F]million bits of hope, now you'll\nnever know the truth You're\n[C]part of [Em]every [Am7]single thing [G]I\n[F]do\n[C]  [Em]  [Am7]  [G]\n[F]Now you're\ngone 'cause I forgot [G]about loving you\n[C]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lost",
+  "id": "4f2320c0a4dac8b12d38bd095815a6d319cab90eca4ed19f5e4bd8f5f98044bd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 323,
+  "normalizedKey": "secondhand serenade|lost",
+  "playableChords": [
+    "C",
+    "Am7",
+    "F",
+    "G",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4f2320c0a4dac8b12d38bd095815a6d319cab90eca4ed19f5e4bd8f5f98044bd",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "Lost",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

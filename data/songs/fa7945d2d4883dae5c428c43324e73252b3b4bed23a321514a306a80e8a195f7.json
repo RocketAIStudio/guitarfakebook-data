@@ -1,0 +1,135 @@
+{
+  "artist": "Rammstein",
+  "artistNormalized": "rammstein",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n\n[Verse 1]\n[Em]Come with me\ninto the trees We'll\nlay on the grass [Bm]and\n[Em]let the hours pass [Bm]\n[Em]Take my hand come\nback to the land\nLet's get [Bm]away\n[Em]just for one day [Bm]\n\n[Chorus 1]\n[D]Let me see you\n[Am]stripped\n[C]\n[Em]\n[D]Let me see you\n[Am]stripped\n[C]\n\n[Interlude]\n[Em]\n\n[Verse 2]\n[Em]Metropolis has\nnothing on this You're\nbreathing in fumes [Bm]I\n[Em]taste when we kiss [Bm]\n[Em]Take my hand come\nback to the land Where\neverything's [Bm]ours\n[Em]for a few hours [Bm]\n[Em]\n\n[Chorus 1]\n[D]Let me see you\n[Am]stripped\n[C]\n[Em]\n[D]Let me see you\n[Am]stripped\n[C]\n[Em]\n\n[Chorus 2]\n[D]Let me hear you\n[Am]make decisions\n[C]Without your\n[Em]television\n[D]Let me hear you\n[Am]speaking just for\n[C]me\n[Em]\n\n[Break]\n[D]\n[Am]\n[C]\n[Em]\n[D]\n[Am]\n[C]\n[Em]\n\n[Chorus 1]\n[D]Let me see you\n[Am]stripped\n[C]\n[Em]\n[D]Let me see you\n[Am]stripped\n[C]\n[Em]\n\n[Chorus 2]\n[D]Let me hear you\n[Am]make decisions\n[C]Without your\n[Em]television\n[D]Let me hear you\n[Am]speaking just for\n[C]me\n[Em]\n\n[Outro 1]\n[D]Let me see you\n[Am]stripped\n[C]\n[Em]\n[D]Let me see you\n[Am]stripped\n[C]\n[Em]\n[D]Let me see you\n[Am]stripped\n[C]\n[Em]\n[D]Let me see you\n[Am]stripped.\n[C]\n[Em]\n\n[Outro 2]\n[Em]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Stripped *alt 2",
+  "id": "fa7945d2d4883dae5c428c43324e73252b3b4bed23a321514a306a80e8a195f7",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 171,
+  "normalizedKey": "rammstein|stripped",
+  "playableChords": [
+    "Em",
+    "Bm",
+    "D",
+    "Am",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Chorus 1"
+    },
+    {
+      "measure": 19,
+      "name": "Interlude"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus 1"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus 2"
+    },
+    {
+      "measure": 52,
+      "name": "Break"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus 1"
+    },
+    {
+      "measure": 68,
+      "name": "Chorus 2"
+    },
+    {
+      "measure": 76,
+      "name": "Outro 1"
+    },
+    {
+      "measure": 92,
+      "name": "Outro 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fa7945d2d4883dae5c428c43324e73252b3b4bed23a321514a306a80e8a195f7",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Stripped",
+  "tuning": "B E A D F# B",
+  "variantRole": "alt"
+}

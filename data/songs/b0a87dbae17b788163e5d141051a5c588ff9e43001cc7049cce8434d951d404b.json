@@ -1,0 +1,134 @@
+{
+  "artist": "Simon and Garfunkel",
+  "artistNormalized": "simon and garfunkel",
+  "capo": "4",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]Tom, get your plane right on\n[C]time\n[G]I know your part'll go\n[C]fine\n[G]Fly down to Mexico\n[C]  [G/B]  [Am]  [G]\n[D]Dandadandadandadaand here\n[C]I am The\n[G]only living boy in New [C]York\n\n[Verse 2]\n[G]I\nget the news I need on the weather report\n[C](Oh) I can\n[G]gather all the news I need on the weather report\n[C]\n[G]Hey, I've got nothing to\n[C]do [Am][G/B]today [G]but smile\n[D]Dandadandadandada and here\n[C]I am The\n[G]only living boy in New [C]York\n[E]\n\n[Bridge 1]\n[Am]Half of the time we're [D]gone but we don't know\n[G]where And we don't know [C]where\n\n[Bridge 2]\n[G]Ah\n[C]\n[G]\n[C]\n[G]\n[C]  [G/B]  [Am]  [G]\n[D]\n[C]Here I\n[G]am... [C]\n[E]\n\n[Bridge 3]\n[Am]Half of the time we're gone [D]but we don't know where\n[G]And we don't know where [C]\n\n[Verse 3]\n[G]Tom, get your plane right on\n[C]time\n[G]I know that you've been eager to fly\n[C]now\n[G]Hey, let your honesty\n[C]shine, [G/B]shine, shine [Am]now [G]Da-\n[D]ndadandadandada Like it shines\n[C]on me The\n[G]only living boy in [C]New York The\non-\n[G]ly living boy in New York [C]Ah\n\n[Interlude]\n[G]\n[C]\n[E]  [Am]\n[D]  [G]\n[C]\n\n[Bridge 4]\n[G]\n[C]\n[G]\n[C]\n[G]\n[C][G/B][Am][G]Here\n[D]I\n[C]am...\n[G]  [C]\nAh\n[G]\n[C]\n[G]\n[C]\n[G]\n[C]  [G/B]  [Am]  [G]\n[D]Here\n\n[Outro]\n[C]I am...\n[G]  [C]\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x2000x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Only Living Boy In New York",
+  "id": "b0a87dbae17b788163e5d141051a5c588ff9e43001cc7049cce8434d951d404b",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 209,
+  "normalizedKey": "simon and garfunkel|the only living boy in new york",
+  "playableChords": [
+    "G",
+    "C",
+    "G/B",
+    "Am",
+    "D",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Bridge 1"
+    },
+    {
+      "measure": 27,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 38,
+      "name": "Bridge 3"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 53,
+      "name": "Interlude"
+    },
+    {
+      "measure": 59,
+      "name": "Bridge 4"
+    },
+    {
+      "measure": 76,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b0a87dbae17b788163e5d141051a5c588ff9e43001cc7049cce8434d951d404b",
+    "version": "BCFZ"
+  },
+  "tempo": 77,
+  "title": "The Only Living Boy In New York",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

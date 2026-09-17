@@ -1,0 +1,118 @@
+{
+  "artist": "Roger Waters",
+  "artistNormalized": "roger waters",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\nAnd the\n\n[Verse 1]\n[C]moment of\nclarity\nFaded like\n[G/B]charity does\n[Am]\nSometimes\nI\nopen one eye\nAnd I\n\n[Chorus]\n[F]put out my\nhand just to\n[C]touch your soft hair\nTo make\n[F]sure in the dark-\nness that\n[C]you were still there\nAnd I\n[F]have to admit\n[Em]I\n[C]was just a\n[Am]little a-\n\n[Interlude]\n[G]fraid\nOoh! [F]\n\n[Verse 2]\n[C]Yeah\n[G/B]But\n[Am]then...\nI\n\n[Chorus]\n[F]had a little bit of\nluck You were awake I\ncouldn't take another\nmoment alone\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "5:11 AM The Moment Of Clarity",
+  "id": "eaf38ca4bc9d75783597eb8f3ca795251d10ced958ee9a046ed01c3ac5436246",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 87,
+  "normalizedKey": "roger waters|5 11 am the moment of clarity",
+  "playableChords": [
+    "C",
+    "G/B",
+    "Am",
+    "F",
+    "Em",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "eaf38ca4bc9d75783597eb8f3ca795251d10ced958ee9a046ed01c3ac5436246",
+    "version": "BCFZ"
+  },
+  "tempo": 143,
+  "title": "5:11 AM The Moment Of Clarity",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

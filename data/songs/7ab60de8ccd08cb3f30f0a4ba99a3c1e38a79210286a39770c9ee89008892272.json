@@ -1,0 +1,124 @@
+{
+  "artist": "Rebecca Sugar",
+  "artistNormalized": "rebecca sugar",
+  "capo": "No capo",
+  "chordPositionCount": 28,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Cmaj7]\n[Fmaj7/C]\n[Cmaj7]\n[Fmaj7/C]\n[E7]\n[Cmaj7]\n\n[Pre-Verse]\n[Cmaj7]\n[Fmaj7]\n[Cmaj7]\n[Fmaj7]I\n\n[Verse]\n[Cmaj7]guess I'll have to\n[Fmaj7]face That\n[Cmaj7]in this awful\n[Fmaj7]place I\n[Cmaj7]shouldn't show a\n[Fmaj7]trace of\n[E7]doubt\nBut\n[Am7]pulled against the\n[D7]grain I\n[Am7]feel a little\n[D7]pain That\n[Am7]I would rather\n[D7]do with-\n[Cmaj7/F]out\nI'd rather be\n\n[Chorus]\n[Fmaj7]Free,\n[E7]\n[Cmaj7]free,\n[D7]\n[Fmaj7]free\n[Asus2/F]\nI'd rather be\n[Fmaj7]Free,\n[E7]\n[Cmaj7]free,\n[D7]\n[Fmaj7]free\n[Asus2/F]\n[Fmaj7]Free,\n[E7]\n[Cmaj7]free,\n[D7]\n[Fmaj7]free\n[Asus2/F]From here",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Asus2/F": {
+      "catalog": [
+        "xx3200"
+      ],
+      "catalogCount": 1
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x3240x",
+        "x35453",
+        "x-3-2-0-0-0",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7/F": {
+      "catalog": [
+        "xx3410"
+      ],
+      "catalogCount": 1
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x79797",
+        "xx2434",
+        "x-7-6-7-5-4",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "xx3555",
+        "1-3-2-2-1-1",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8",
+        "13-12-10-10-10-12"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7/C": {
+      "catalog": [
+        "x33210"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Escapism",
+  "id": "7ab60de8ccd08cb3f30f0a4ba99a3c1e38a79210286a39770c9ee89008892272",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 60,
+  "normalizedKey": "rebecca sugar|escapism",
+  "playableChords": [
+    "Cmaj7",
+    "Fmaj7/C",
+    "E7",
+    "Fmaj7",
+    "Am7",
+    "D7",
+    "Cmaj7/F",
+    "Asus2/F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 24,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 28,
+      "name": "Verse"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7ab60de8ccd08cb3f30f0a4ba99a3c1e38a79210286a39770c9ee89008892272",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "Escapism",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

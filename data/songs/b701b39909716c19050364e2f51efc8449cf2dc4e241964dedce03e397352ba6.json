@@ -1,0 +1,128 @@
+{
+  "artist": "Rancid",
+  "artistNormalized": "rancid",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 8,
+  "content": "[D]\n[A]\n[A#]\n[D]\n[D]\n[A]\n[A#]\n[D]\n\n[Verse 1]\n[A5][D5]Disfigured [A#5]and [G5]oblique\n[D5]From the [A5]appetite [A#5]that I [G5]seek\n[D5]I'm a [A5]hungry [G5][A#5]cannibal\n[D5]I'm a [A5]rabid [G5][A#5]animal My re-\n[D5]mains are [A5]being [A#5]scattered [G5]I've been\n[D5]bludgeoned, [A5]I'm in [A#5]pain [G5]\n[D5]Stomach [A5]pains are [A#5]coming [G5]And they\n[D5]strike with [A5]demon [A#5]speed [G5]\n\n[Chorus]\n[D5]Dead bodies everywhere\n[A5]Piles of blood, entrails and hair I'm\n[A#5]bleeding from the [G5]inside From the\n[D5]armageddon outside\n[D5]Dead bodies everywhere\n[A5]Piles of blood, entrails and hair I'm\n[A#5]bleeding from the [G5]inside From the\n[D5]armageddon outside\n\n[Verse]\n[A5][D5]Reaccuring [A#5]rotting [G5]dreams\n[D5]From this [A5]place the [A#5]demons [G5]speak\n[D5]My [A5]skin [G5][A#5]exfoliates\n[D5]My [A5]patience [G5][A#5]terminates\n[D5]Unfold [A5]to [A#5]unholy [G5]urges\n[D5]Unearthed [A5]with [A#5]urgency [G5]\n[A5][D5]Holocaust was [A#5]nothing [G5]Compared\n[D5]to my [A5]lividity [A#5][G5]\n\n[Chorus]\n[D5]Dead bodies everywhere\n[A5]Piles of blood, entrails and hair I'm\n[A#5]bleeding from the [G5]inside From the\n[D5]armageddon outside\n[D5]Dead bodies everywhere\n[A5]Piles of blood, entrails and hair I'm\n[A#5]bleeding from the [G5]inside From the\n[D5]armageddon outside\n\n[Breakdown]\n[Am]In this\noblong box\nthat's eating\nyou\nThere is\nnothing Is\nnothing You can\ndo\n\n[Chorus]\n[D5]Dead bodies everywhere\n[A5]Piles of blood, entrails and hair I'm\n[A#5]bleeding from the [G5]inside From the\n[D5]armageddon outside\n[D5]Dead bodies everywhere\n[A5]Piles of blood, entrails and hair I'm\n[A#5]bleeding from the [G5]inside From the\n[D5]armageddon outside\n\n[Outro]\n[A#5][G5]Dead\n[D5]Bodies!\n[A#5]  [G5]\n[D5]Bodies!\n[A#5]  [G5]\n[D5]Bodies!\n[A#5]  [G5]\n[D5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#": {
+      "catalog": [
+        "x13331"
+      ],
+      "catalogCount": 1
+    },
+    "A#5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dead Bodies",
+  "id": "b701b39909716c19050364e2f51efc8449cf2dc4e241964dedce03e397352ba6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 295,
+  "normalizedKey": "rancid|dead bodies",
+  "playableChords": [
+    "D",
+    "A",
+    "A#",
+    "D5",
+    "A5",
+    "A#5",
+    "G5",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Breakdown"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b701b39909716c19050364e2f51efc8449cf2dc4e241964dedce03e397352ba6",
+    "version": "BCFZ"
+  },
+  "tempo": 143,
+  "title": "Dead Bodies",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

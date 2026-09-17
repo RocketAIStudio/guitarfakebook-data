@@ -1,0 +1,104 @@
+{
+  "artist": "Sam Cooke",
+  "artistNormalized": "sam cooke",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]  [G]\n[F]  [G]\n[C]  [F]\n[C][G7]If you\n\n[Verse 1]\n[C]ever change your\n[G7]mind About\n[C]leaving, leaving me behind\n[F]Oh, oh,\n[C]bring it to me [G7]Bring your sweet\n[F]loving [G7]Bring it on home to\n[C]me Yeah [F]Yeah Yeah\n[C]Yeah Yeah [G7]Yeah I know I\n\n[Verse 2]\n[C]laughed when you\n[G7]left But now I\n[C]know I only hurt myself\n[F]Oh, oh,\n[C]bring it to me [G7]Bring your sweet\n[F]loving [G7]Bring it on home to\n[C]me Yeah [F]Yeah Yeah\n[C]Yeah Yeah [G7]Yeah I'll give you\n\n[Verse 3]\n[C]jewelry and money\n[G7]too That ain't\n[C]all, that ain't all I'll do for\n[F]you Oh, if\n[C]bring it to me [G7]Bring your sweet\n[F]loving [G7]Bring it on home to\n[C]me Yeah [F]Yeah Yeah\n[C]Yeah Yeah [G7]Yeah You know I'll\n\n[Verse 4]\n[C]always be your\n[G7]slave 'Till I'm\n[C]buried, buried in my\n[F]grave Oh, honey\n[C]bring it to me [G7]Bring your sweet\n[F]loving [G7]Bring it on home to\n[C]me Yeah [F]Yeah Yeah\n[C]Yeah Yeah [G7]One more thing I\n\n[Verse 5]\n[C]tried to treat you\n[G7]right But you\n[C]stayed out, stayed out at\n[F]night But I forgive you,\n[C]bring it to me [G7]Bring your sweet\n[F]loving [G7]Bring it on home to\n[C]me Yeah [F]Yeah Yeah\n[C]Yeah Yeah [G7]Yeah Yeah\n\n[Outro (Fade Out)]\n[C]Yeah Yeah Yeah Yeah\n[G7]Yeah Yeah Yeah Yeah\n[C]Yeah Yeah Yeah Yeah",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bring it On home to me",
+  "id": "13fb46238fde9e872a47de2050d62f31d02bafe3cabad128a17df3f179696e08",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 198,
+  "normalizedKey": "sam cooke|bring it on home to me",
+  "playableChords": [
+    "C",
+    "G",
+    "F",
+    "G7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 46,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "13fb46238fde9e872a47de2050d62f31d02bafe3cabad128a17df3f179696e08",
+    "version": "BCFZ"
+  },
+  "tempo": 108,
+  "title": "Bring it On home to me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,142 @@
+{
+  "artist": "Royal Blood",
+  "artistNormalized": "royal blood",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Dm]\n\n[Verse 1]\n[Dm]I'm on a train\ngoing nowhere\nI ran away\nto make you care\nthis ain't my house\nthis ain't your home\nnot when I'm feeling\nthis alone\n\n[Chorus]\n[Dm]So come on\n[C]over [A]yeah,\n[Dm]I\n[C]went to church and stopped [A]believing\n[Dm]Yeah so come on\n[C]over [A]yeah,\n[Dm]Well\n[C]there's no god and I don't [A]really\n\n[Break]\n[Dm]care\n[C]\n\n[Verse 2]\n[Dm]Let's run away,\nget out of here\nI got no money\nand I don't care\nThis ain't my house\nthis ain't your home\nnot when I'm feeling\nthis alone\n\n[Chorus]\n[Dm]So come on\n[C]over [A]yeah,\n[Dm]I\n[C]went to church and stopped [A]believing\n[Dm]Yeah so come on\n[C]over [A]yeah,\n[Dm]Well\n[C]there's no god and I don't [A]really\n\n[Bridge]\n[Bb]care\n[Gm]I don't really\n[Bb]care\n[Gm]  [F]\n\n[Verse 3]\n[Dm]I'm on a train\ngoing nowhere\nI ran away\nto make you care\nthis ain't my house\nthis ain't your home\nnot when I'm feeling\nthis alone\n\n[Solo]\n[Dm]\n[C]  [A]\n[Dm]\n[C]  [A]\n\n[Chorus]\n[Dm]So come on\n[C]over [A]yeah,\n[Dm]I\n[C]went to church and stopped [A]believing\n[Dm]Yeah so come on\n[C]over [A]yeah,\n[Dm]Well\n[C]there's no god and [A]I don't really\n\n[Outro]\n[Dm]care\n[C]\n[Dm]\n[C]\n[Dm]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Come On Over",
+  "id": "f83c38b92548801add1d9ea07ccfaca6d6672080d05da21cb1101a253560ec6c",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 204,
+  "normalizedKey": "royal blood|come on over",
+  "playableChords": [
+    "Dm",
+    "C",
+    "A",
+    "Bb",
+    "Gm",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Break"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Bridge"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 55,
+      "name": "Solo"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f83c38b92548801add1d9ea07ccfaca6d6672080d05da21cb1101a253560ec6c",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Come On Over",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

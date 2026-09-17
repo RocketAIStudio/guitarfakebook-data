@@ -1,0 +1,112 @@
+{
+  "artist": "Sirenia",
+  "artistNormalized": "sirenia",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F#m]  [D]\n[E]  [C#m]\n[F#m]  [D]\n[E]  [C#m]\n[F#m]  [D]\n[E]  [C#m]\n[F#m]  [D]\n[E]  [C#m]\n[F#m]  [D]\n[E]  [C#m]\n[F#m]  [D]\n[E]  [C#m]\n\n[Verse 1]\n[F#m]A [D]fading hope\n[E]and a [C#m]broken dream\n[F#m]  [D]\n[E]Is all there [C#m]is for me\n[F#m]  [D]\n[E]It's all there [C#m]was and will\n[F#m]ever be [D]\n[E][C#m]And I keep\n[D]falling further\n[C#m]down\n\n[Chorus]\n[F#m]We are lost [D]in this life,\n[E][C#m]you and I\n[F#m]We've been [D]living a lie\n[E]  [C#m]\n[F#m]Time keeps [D]passing us by,\n[E]but we [C#m]can't deny\n[F#m]We've been lost [D]all the time\n[E]  [C#m]\n\n[Verse 2]\n[F#m]There's no [D]way to cope\n[E]for these [C#m]wasted years\n[F#m]  [D]\n[E]Nor for these [C#m]long lost tears\n[F#m]  [D]\n[E]I'm giving [C#m]in to\n[F#m]all my fears [D]\n[E][C#m]As I keep\n[D]falling further\n[C#m]down\n\n[Chorus]\n[F#m]We are lost [D]in this life,\n[E][C#m]you and I\n[F#m]We've been [D]living a lie\n[E]  [C#m]\n[F#m]Time keeps [D]passing us by,\n[E]but we [C#m]can't deny\n[F#m]We've been lost [D]all the time\n[E]  [C#m]\n\n[Break]\n[D]\n[E]\n[C#m]\n[D]\n[D]\n[E]\n[C#m]\n[F#m]\n[C#m]\n\n[Solo]\n[F#m]  [D]\n[E]  [C#m]\n[F#m]  [D]\n[E]  [C#m]\n[F#m]  [D]\n[E]  [C#m]\n[F#m]  [D]\n[E]  [C#m]\n[F#m]  [C#m]\n\n[Chorus]\n[F#m]We are lost [D]in this life,\n[E][C#m]you and I\n[F#m]We've been [D]living a lie\n[E]  [C#m]\n[F#m]Time keeps [D]passing us by,\n[E]but we [C#m]can't deny\n[F#m]We've been lost [D]all the time\n[E]  [C#m]\n[F#m]We are lost [D]in this life,\n[E][C#m]you and I\n[F#m]We've been [D]living a lie\n[E]  [C#m]\n[F#m]Time keeps [D]passing us by,\n[E]but we [C#m]can't deny\n[F#m]We've been lost [D]all the time\n[E]  [C#m]\n\n[Outro]\n[F#m]",
+  "diagrams": {
+    "C#m": {
+      "catalog": [
+        "xx0231",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x68886",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "xx3211",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "xx5333",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lost in Life",
+  "id": "845b5c60e55ac35e7b706ba407474103bf59f761332630608d5fd837d7dfaaf0",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 198,
+  "normalizedKey": "sirenia|lost in life",
+  "playableChords": [
+    "F#m",
+    "D",
+    "E",
+    "C#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Break"
+    },
+    {
+      "measure": 59,
+      "name": "Solo"
+    },
+    {
+      "measure": 68,
+      "name": "Chorus"
+    },
+    {
+      "measure": 84,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "845b5c60e55ac35e7b706ba407474103bf59f761332630608d5fd837d7dfaaf0",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Lost in Life",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "primary"
+}

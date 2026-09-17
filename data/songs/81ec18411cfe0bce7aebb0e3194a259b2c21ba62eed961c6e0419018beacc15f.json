@@ -1,0 +1,102 @@
+{
+  "artist": "Sleater-Kinney",
+  "artistNormalized": "sleater kinney",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A5]\n[D5/A]\n[G#dim]\n[A5]\n[D5/A]\n[G#dim]\n\n[Verse 1]\n[A5]\nIn one more hour\n[D5/A]I will be gone\n[G#dim]\n[A5]\nIn one more hour\n[D5/A]I'll leave this room\n[G#dim]\n[A5]\nThe dress you wore\n[D5/A]The pretty shoes\n[G#dim]\n[A5]\nAre the things I left\n[D5/A]Behind for you\n[G#dim]\n\n[Chorus]\n[A5]\nOh, you've got the\n[D5/A]darkest eyes\n[G#dim]\n[A5]\nOh, you've got the\n[D5/A]darkest eyes\n[G#dim]I\n[A5]needed it\nI\n[C#5]needed it\n[E5]I\nneeded it\nI\n[C#5]needed it\n[E5]\n\n[Verse 2]\n[A5]\nIf you could talk\n[D5/A]What would you say?\n[C#5]\n[A5]\nFor you things were\n[D5/A]Just night and day\n[C#5]\n[A5]\nTake off the dress\n[D5/A]Take off the face\n[C#5]\n[A5]\nI'll hold you close\n[D5/A]Before I leave\n[C#5]\n\n[Chorus]\n[A5]\nOh, you've got the\n[D5/A]darkest eyes\n[C#5]\n[A5]\nOh, you've got the\n[D5/A]darkest eyes\n[C#5]I\n[A5]needed it\nI\n[C#5]needed it\n[E5]I\n[A5]needed it\nI\n[C#5]needed it\n[E5]I\n[A5]needed it\nI\n[C#5]needed it\n[E5]\n[A5]I needed it\nI\n[C#5]needed it\n\n[Bridge]\n[A5]\nDon't say another\n[C#5]word\n[E5]\n[A5]\nAbout the other\n[C#5]girl\n[A5]\nDon't say another\n[C#5]word\n[E5/B]\n[A5]\nAbout the other\n[C#5]girl\n[E5/B]\n\n[Outro]\n[A5]Needed it\nI\n[C#5]needed it\n[E5]I\n[A5]needed it\nI\n[C#5]needed it\n[A5]\n[D5/A]\n[G#dim]\n[A5]\n[D5/A]\n[G#dim]\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5/A": {
+      "catalog": [
+        "557xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5/B": {
+      "catalog": [
+        "779xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#dim": {
+      "catalog": [
+        "456xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "One More Hour *alt",
+  "id": "81ec18411cfe0bce7aebb0e3194a259b2c21ba62eed961c6e0419018beacc15f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 159,
+  "normalizedKey": "sleater kinney|one more hour",
+  "playableChords": [
+    "A5",
+    "D5/A",
+    "G#dim",
+    "C#5",
+    "E5",
+    "E5/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Bridge"
+    },
+    {
+      "measure": 99,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "81ec18411cfe0bce7aebb0e3194a259b2c21ba62eed961c6e0419018beacc15f",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "One More Hour",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

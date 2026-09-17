@@ -1,0 +1,106 @@
+{
+  "artist": "Rancid",
+  "artistNormalized": "rancid",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]  [D/A]\n[G]  [C]\n[G]  [D/A]\n[G]\n[D/A]\n[G]  [C]\n[G]  [D/A]\n[G]\n\n[Verse 1]\n[C5]Realize you're de-\n[G5]humanized You\n[C5]criticize\n[G]your [D/A]existence\n[C5]It's your demise when no\n[G5]sun arise When you're\n[C5]paralyzed by your\n[D5]lack of resistance She\n\n[Chorus]\n[G]knows she is, she knows [D/A]she's going\n[G]Down below where the [C]fire's glowing Tender-\n[G]loin, [D/A]Tenderloin, Tender-\n[G]loin She\n[G]knows she is, she knows [D/A]she's going\n[G]Down below where the [C]fire's glowing Tender-\n[G]loin, [D/A]Tenderloin, Tender-\n[G]loin\n\n[Verse 2]\n[C]The tricks she gets them\n[G]She's not a victim\n[C]She makes a list of them and\n[G]reads them all [D/A]alone\n[C]For money she's walking\n[G]down on Larkin\n[C]In TL they're rocking\n[D/A]all night long She\n\n[Chorus]\n[G]knows she is, she knows [D/A]she's going\n[G]Down below where the [C]fire's glowing Tender-\n[G]loin, [D/A]Tenderloin, Tender-\n[G]loin She\n[G]knows she is, she knows [D/A]she's going\n[G]Down below where the [C]fire's glowing Tender-\n[G]loin, [D/A]Tenderloin, Tender-\n[G]loin\n\n[Outro]\n[G]  [D/A]\n[G]  [C]\n[G]  [D/A]\n[G]\n[G]  [D/A]\n[G]  [C]\n[G]  [D/A]\n[G]\n[G]  [D/A]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D/A": {
+      "catalog": [
+        "x00232"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tenderloin",
+  "id": "a2c3db1d74f36b654bc187ae4769bc2c95f7a916bc9dc5e1e323a760b19bd9b0",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 186,
+  "normalizedKey": "rancid|tenderloin",
+  "playableChords": [
+    "G",
+    "D/A",
+    "C",
+    "C5",
+    "G5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a2c3db1d74f36b654bc187ae4769bc2c95f7a916bc9dc5e1e323a760b19bd9b0",
+    "version": "BCFZ"
+  },
+  "tempo": 145,
+  "title": "Tenderloin",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,125 @@
+{
+  "artist": "Rammstein",
+  "artistNormalized": "rammstein",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E5]\n[A5]\n\n[Verse 1]\n[E5]Du Du\nhast Du\nhast mich\nDu Du\nhast Du\nhast mich\nDu Du\nhast Du\nhast mich\nDu Du\nhast Du\nhast mich\n\n[Theme]\n[E5]\n[A5]\n\n[Verse 2]\n[E5]Du Du\nhast Du\nhast mich Du\nhast mich Du\nhast mich gefragt Du\nhast mich gefragt Du\nhast mich gefragt, und ich hab\nnichts gesagt\n\n[Chorus]\n[E5]Willst du bis der\n[B]Tod euch scheidet\n[C]Treu ihr sein fur\nalle Tage\n[C5]\n[Bm]Nein\n[E5]\nNein\n[E5]Willst du bis der\n[B]Tod euch scheidet\n[C]Treu ihr sein fur\nalle Tage\n[C5]\n[Bm]Nein\n[E5]\nNein\n[E5]\n[B]\n[C]\n[C5]\n[Bm]\n[E5]\n\n[Bridge]\n[E5]Du Du\n[B]hast Du\n[C]hast mich\n[C]Du Du\n[Bm]hast Du\n[E5]hast mich\n[E5]Du Du\n[B]hast Du\n[C]hast mich Du\nhast mich Du\n[C]hast mich gefragt Du\n[Bm]hast mich gefragt Du\n[E5]hast mich gefragt, und ich hab\nnichts gesagt\n[E]\n[B]\n[C]\n[C]\n[Bm]\n\n[Chorus]\n[E5]Willst du bis der\n[B]Tod euch scheidet\n[C]Treu ihr sein fur\nalle Tage\n[C]\n[Bm]Nein\n[E5]\nNein\n[E5]Willst du bis zum\n[B]Tod, der scheide\n[C]Sie lieben auch\nin schlechten Tagen\n[C]\n[Bm]Nein\n[E5]\nNein\n[E5]Willst du bis der\n[B]Tod euch scheidet\n[C]Treu ihr sein fur\nalle Tage\n[C]\n[Bm]Nein\n[E5]\nNein",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x02xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C5": {
+      "catalog": [
+        "x35xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "xx210x",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "02xxxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Du hast *alt 2",
+  "id": "6e42ecd06d37b18bacb64cd41e77b6f57794cfa6f195c2f1b5e27e56c8d3ced9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 195,
+  "normalizedKey": "rammstein|du hast",
+  "playableChords": [
+    "E5",
+    "A5",
+    "B",
+    "C",
+    "C5",
+    "Bm",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Theme"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge"
+    },
+    {
+      "measure": 97,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6e42ecd06d37b18bacb64cd41e77b6f57794cfa6f195c2f1b5e27e56c8d3ced9",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "Du hast",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

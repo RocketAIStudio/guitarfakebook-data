@@ -1,0 +1,121 @@
+{
+  "artist": "Sleater-Kinney",
+  "artistNormalized": "sleater kinney",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E5]\n[F#5]  [Gmaj7]\n[E5]\n[F#5]  [Gmaj7]\n\n[Verse 1]\n[E5]Way up in the\n[F#5]sky [Gmaj7]\n[E5]That is where am\n[F#5]I [Gmaj7]\n[E5]I breathe the thin\n[F#5]air [Gmaj7]I\n[E5]like it way up\n[F#5]there [Gmaj7]\n[E5]In a bunch of\n[F#5]trees [Gmaj7]\n[E5]I'm down on my\n[F#5]knees [Gmaj7]\n[E5]I know what you\n[F#5]are [Gmaj7]\n[E5]I know what you\n[F#5]are [Gmaj7]I\n\n[Chorus]\n[E]don't think you wanna No I\n[G]don't think you wanna No I\n[E]don't think you wanna Mess a-\n[G]round [A5]up [B5]there\n[E]Don't think you wanna No I\n[G]don't think you wanna No I\n[E]don't think you wanna Mess a-\n[G]round [A5]up [B5]there\n\n[Verse 2]\n[E5]Angels in the\n[F#5]skys [Gmaj7]\n[E5]Watch you with there\n[F#5]eyes [Gmaj7]\n[E5]They know what you\n[F#5]are [Gmaj7]\n[E5]They know what you\n[F#5]are [Gmaj7]\n[E5]Everything I\n[F#5]say [Gmaj7]Comes\n[E5]back to me one\n[F#5]day [Gmaj7]\n[E5]Everything you\n[F#5]do [Gmaj7]Comes\n[E5]back to stare at\n[F#5]you [Gmaj7]\n\n[Chorus]\n[E]I don't think you wanna No I\n[G]don't think you wanna No I\n[E]don't think you wanna Mess a-\n[G]round [A5]up [B5]there\n[E]Don't think you wanna No I\n[G]don't think you wanna No I\n[E]don't think you wanna Mess a-\n[G]round [A5]up [B5]there\n\n[Verse 3]\n[E5]Way up in the\n[F#5]sky [Gmaj7]\n[E5]That is where am\n[F#5]I [Gmaj7]\n[E5]I breathe the thin\n[F#5]air [Gmaj7]I\n[E5]like it way up\n[F#5]there [Gmaj7]\n\n[Outro]\n[E5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "02210x",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "35543x",
+        "3554xx",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7": {
+      "catalog": [
+        "354xxx",
+        "3-2-0-0-0-2",
+        "3-5-4-4-3-3",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Don't Think You Wanna *alt",
+  "id": "eb667f07ff5cc187b45e92b757d37f09a801cba5f999b59fe9f49fd13c6ac098",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 209,
+  "normalizedKey": "sleater kinney|don t think you wanna",
+  "playableChords": [
+    "E5",
+    "F#5",
+    "Gmaj7",
+    "E",
+    "G",
+    "A5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "eb667f07ff5cc187b45e92b757d37f09a801cba5f999b59fe9f49fd13c6ac098",
+    "version": "BCFZ"
+  },
+  "tempo": 122,
+  "title": "Don't Think You Wanna",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

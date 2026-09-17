@@ -1,0 +1,76 @@
+{
+  "artist": "Rancid",
+  "artistNormalized": "rancid",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Bb]\n\n[Verse]\n[C5]Whatcha gunna do now that ya been\n[G5][F5]blacklisted?\n[C5]Whatcha gunna do now that ya been\n[G5][F5]blacklisted? Black-\n\n[Chorus]\n[C5]listed, oh\n[F5]yea [G5]Black-\n[C5]listed,\n[F5]oh [G5]yea\n[C5]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x-10-12-12-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Blacklisted",
+  "id": "d44df9af173d84227ebe3bf1ec4d2e006634ae9b8794bba8bbc6df6d5514a622",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 32,
+  "normalizedKey": "rancid|blacklisted",
+  "playableChords": [
+    "Bb",
+    "C5",
+    "F5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d44df9af173d84227ebe3bf1ec4d2e006634ae9b8794bba8bbc6df6d5514a622",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Blacklisted",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,144 @@
+{
+  "artist": "Roy Orbison",
+  "artistNormalized": "roy orbison",
+  "capo": "No capo",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[D]\nI was all\n\n[Verse 1]\n[D]right for a-\nwhile I could\nsmile for a-\nwhile But I\nsaw you last night You held my\n[Daug]hand so tight As you\n[G]stopped to say, \"Hel-\n[Gm]lo\" Oh, you\n[D]wished me well You,\n[A7]you couldn't tell\nThat I'd been\n\n[Chorus]\n[D]crying\n[F#m]over you\n[D]Crying\n[F#m]over you When\n[G]you said, \"So\n[A]long\" Left me\n[G]standing all a-\n[A]lone Alone and\n[D]crying,\n[Daug]crying\n[G]Crying,\n[Gm]crying It's hard to\n\n[Post-Chorus]\n[D]under-\nstand But the\n[A7]touch of your\nhand Can start me\n[D]crying\nI thought that I\n\n[Verse 2]\n[D]was over\nyou But it's\ntrue, so\ntrue I love you\neven more Than I\n[Daug]did before But,\n[G]darling, what can I\n[Gm]do? For you\n[D]don't love me\nAnd I'll\n[A7]always\nbe\n\n[Chorus]\n[D]crying\n[F#m]over you\n[D]Crying\n[F#m]over you\n[G]Yes, now you're\n[A]gone And\n[G]from this moment\n[A]on I'll be\n[D]crying,\n[Daug]crying\n[G]Crying,\n[Gm]crying I'm\n\n[Outro]\n[D]cry-\ning,\ncry-\n[Bm]ing\n[G]O-\n[A]ver\n[D]you [A]\n[D]  [G]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Daug": {
+      "catalog": [
+        "xx0332"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Crying",
+  "id": "9589b051f77175b745f7eb441e95e70d3a7a59cf3edbe70f65f214717a552ce5",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 174,
+  "normalizedKey": "roy orbison|crying",
+  "playableChords": [
+    "D",
+    "Daug",
+    "G",
+    "Gm",
+    "A7",
+    "F#m",
+    "A",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9589b051f77175b745f7eb441e95e70d3a7a59cf3edbe70f65f214717a552ce5",
+    "version": "BCFZ"
+  },
+  "tempo": 99,
+  "title": "Crying",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

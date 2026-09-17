@@ -1,0 +1,107 @@
+{
+  "artist": "Shawn Mendes, Justin Bieber",
+  "artistNormalized": "shawn mendes justin bieber",
+  "capo": "5",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\n[G6]\n[D9/F#]\n[F]You\n\n[Verse 1]\n[Am]put me on a pedestal and tell me I'm the best\n[G6]\n[D9/F#]Raise me up into the sky until I'm short of breath,\n[F]Yeah\n[Am]Fill me up with confidence, I say what's in my chest\n[G6]Spill my words and tear me down until there's nothing left\n[D9/F#]Rearrange the pieces just to fit me with the rest,\n[F]yeah But what if I, what if I\n\n[Chorus]\n[Am]trip? What if I, what if I\n[G6]fall? Then am I the\n[Dm]monster? Just let me\n[F]know And what if I, what if I\n[Am]sin? And what if I, what if I\n[G6]break? Yeah Then am I the\n[Dm]monster? Yeah Just let me\n[F]know, yeah I was\n\n[Verse 2]\n[Am]fifteen when the world put me on a pedestal I had\n[G6]big dreams of doin' shows and making memories Made some\n[D9/F#]bad moves tryna act cool, upset by their jealousy\n[F]Lifting me up, lifting me up\n[Am]And tearing me down, tearing me down I'll\n[G6]take responsibility for everything I've done\n[D9/F#]Holding it against me, like you're the holy one\n[F]I had a\n\n[Bridge]\n[Am]chip on my shoulder, had to let it go\n[G6]'Cause unforgiveness keeps them in control I came\n[Dm]in with good intentions then I let it go\n[F]And now I really wanna know What if I, what if I\n\n[Chorus]\n[Am]trip? What if I, what if I\n[G6]fall? Then am I the\n[Dm]monster? Just let me\n[F]know And what if I, what if I\n[Am]sin? And what if I, what if I\n[G6]break? Yeah Then am I the\n[Dm]monster? Just let me\n[F]know\n\n[Outro]\n[Am]Ladadaduhduh\n[G6]Ladadaduhduhduhna\n[Dm]Ladadadaduhduh\n[F]Ladadaduhduhduhna\n[Am]Ladadaduhduh\n[G6]Ladadaduhduhduhna\n[Dm]Ladadadaduhduh\n[F]Ladadaduhduhduhna\n[Am]\n[G6]\n[Dm]\n[F]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "D9/F#": {
+      "catalog": [
+        "2x0210"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320030"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Monster",
+  "id": "26dd692356871486a0a41ab0cd5353f162fb16627dafde6bbeeb74d0993fd63c",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 351,
+  "normalizedKey": "shawn mendes justin bieber|monster",
+  "playableChords": [
+    "Am",
+    "G6",
+    "D9/F#",
+    "F",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "26dd692356871486a0a41ab0cd5353f162fb16627dafde6bbeeb74d0993fd63c",
+    "version": "BCFZ"
+  },
+  "tempo": 73,
+  "title": "Monster",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

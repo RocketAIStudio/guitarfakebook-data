@@ -1,0 +1,126 @@
+{
+  "artist": "Red Hot Chili Peppers",
+  "artistNormalized": "red hot chili peppers",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[E]One shot all I need\nI've got rhythm when I bleed\n'Til death do us part\nBreak my heart so I can start\nSupercalifragilistic\nKiss me in the futuristic\nTwisted but I must insist It's\ntime to get on top of this\n\n[Chorus]\n[Dbm]It's [E]right\n[B]on [Gbm]time\n[Dbm]It's [E]right\n[B]on [Gbm]time It's\n[Dbm]right on time It's [E]right on time It's\n[B]right on time It's [Gbm]right on time\n[Dbm]Lookin' fine you're [E]lookin' fine Get\n[B]on neteen [Gbm]ninety nine\n\n[Verse 2]\n[E]Discard to bombard\nCalling all you shooting stars\nHoly cow bow wow wow\nNow I'm here I'm nowhere now\nJoan of Arc reincarnated\nMaybe we could be related\nSo much blood to circulate And\nso much space to decorate\n\n[Chorus]\n[Dbm]It's [E]right\n[B]on [Gbm]time\n[Dbm]It's [E]right\n[B]on [Gbm]time It's\n[Dbm]right on time It's [E]right on time It's\n[B]right on time It's [Gbm]right on time\n[Dbm]Lookin' fine you're [E]lookin' fine Get\n[B]on neteen [Gbm]ninety nine\n\n[Bridge]\n[Gbm]It's [A]right\n[E]on [Bm]time\n[Gbm]It's [A]right\n[E]on [Bm]time\n[Gbm]It's [A]right\n[E]on [Bm]time\n[Gbm]It's [A]right\n[E]on [Bm]time\n\n[Verse 3]\n[E]Plain and simple pain I\nwant to but I can't complain\nDeath row let us go It's\ntime to blow up for the show\nAll the world reverberated\nComing through we motorcaded\nVibrate when we operated\nTurning up in solid stated\n\n[Outro]\n[Dbm]\n[E]Oh Lord",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Dbm": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Gbm": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Right on Time *alt 5",
+  "id": "00cdaffe0a7a9f48f6e9a4ab58fa64270076d93c9e7aeb227cec8896b1840a38",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 262,
+  "normalizedKey": "red hot chili peppers|right on time",
+  "playableChords": [
+    "E",
+    "Dbm",
+    "B",
+    "Gbm",
+    "A",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "00cdaffe0a7a9f48f6e9a4ab58fa64270076d93c9e7aeb227cec8896b1840a38",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Right on Time",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

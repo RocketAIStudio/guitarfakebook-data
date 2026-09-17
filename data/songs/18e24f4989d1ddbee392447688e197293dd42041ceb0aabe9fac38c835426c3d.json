@@ -1,0 +1,126 @@
+{
+  "artist": "Ricky Nelson",
+  "artistNormalized": "ricky nelson",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\nHel-\n\n[Chorus]\n[A]lo Mary Lou,\n[D]goodbye heart\nSweet\n[A]Mary Lou, I'm\nso in love with you\n[E7]\nI\n[A]knew, Mary Lou,\n[C#7]we'd never part\n[F#m]So hello\n[B7]Mary Lou,\n[E7]goodbye\n[A]heart [D]\n[A]You\n\n[Verse 1]\n[A]passed me by one\nsunny day\n[D]Flashed those big brown\neyes my way And\n[A]ooh, I wanted you\nforever more\n[E7]\nNow\n[A]I'm not one that\ngets around\n[D]Swear my feet's stuck\nto the ground And\n[A]'though I never did\n[E7]meet you before\n[A]  [D]\n[A]I said hel-\n\n[Chorus]\n[A]lo Mary Lou,\n[D]goodbye heart\nSweet\n[A]Mary Lou, I'm\nso in love with you\n[E7]\nI\n[A]knew Mary Lou,\n[C#7]we'd never part\n[F#m]So hello\n[B7]Mary Lou,\n[E7]goodbye\n[A]heart [D]\n[A]\n\n[Solo]\n[A]\n[D]\n[A]\n[E7]\n[A]\n[C#7]\n[F#m]\n[B7]\n[E7]\n[A]  [D]\n[A]I\n\n[Verse 2]\n[A]saw your lips, I\nheard your voice Be-\n[D]lieve me, I just\nhad no choice Wild\n[A]horses couldn't\nmake me stay away\n[E7]\nI\n[A]thought about a\nmoonlit night My\n[D]arms around you\ngood and tight That's\n[A]all I had to see\n[E7]for me to say\n[A]  [D]\n[A]Hey, hey Hel-\n\n[Chorus]\n[A]lo Mary Lou,\n[D]goodbye heart\nSweet\n[A]Mary Lou, I'm\nso in love with you\n[E7]\nI\n[A]knew, Mary Lou,\n[C#7]we'd never part\n[F#m]So hello\n[B7]Mary Lou,\n[E7]goodbye\n[A]heart [D]\n[A]So hello\n[B7]Mary Lou,\n[E7]goodbye\n[A]heart [D]\n[A]Yes, hello\n[B7]Mary Lou,\n[E7]goodbye\n[A]heart [D]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#7": {
+      "catalog": [
+        "x4342x",
+        "043420",
+        "x-4-3-4-2-1",
+        "x-4-6-4-6-4",
+        "9-8-6-6-6-7"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hello Mary Lou",
+  "id": "18e24f4989d1ddbee392447688e197293dd42041ceb0aabe9fac38c835426c3d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 232,
+  "normalizedKey": "ricky nelson|hello mary lou",
+  "playableChords": [
+    "A",
+    "D",
+    "E7",
+    "C#7",
+    "F#m",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Solo"
+    },
+    {
+      "measure": 71,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 87,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "18e24f4989d1ddbee392447688e197293dd42041ceb0aabe9fac38c835426c3d",
+    "version": "BCFZ"
+  },
+  "tempo": 200,
+  "title": "Hello Mary Lou",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

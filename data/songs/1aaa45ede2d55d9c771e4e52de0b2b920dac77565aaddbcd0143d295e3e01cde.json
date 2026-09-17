@@ -1,0 +1,121 @@
+{
+  "artist": "Slash",
+  "artistNormalized": "slash",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[B5]Kill the ghost\n[E5]That hides\n[A5]in your\n[E5]soul Rock 'n' Roll\n[B5]\n[E5]Rock 'n' Roll\n[A5]\n[E5]Rock 'n' Roll\n[B5]\n\n[Verse 1]\n[E5]Wipe the blood from your Ha-\nlo\nOpen wound that you hide\nyour shadow's pride\n[B5]\n[E5]Spit in the face of the ug-\nly clown\nOr who'll hunt you down\nBut you can't hide\n[B5]\n[G5]Exterminate the fu\n[A]ture\n\n[Chorus]\n[B5]Kill the ghost\n[E5]That hides\n[A5]in your\n[E5]soul\n[B5]Kill the ghost\n[E5]That hides\n[A5]in your\n[E5]soul Rock 'n' Roll\n[B5]\n\n[Verse 2]\n[E5]Whispers of the fu-\nture\nBroken meth in your skull\nwith a hook in your smile\n[B5]\n[G5]Exterminate the fu\n[A]ture\n\n[Chorus]\n[B5]Kill the ghost\n[E5]That hides\n[A5]in your\n[E5]soul\n[B5]Kill the ghost\n[E5]That hides\n[A5]in your\n[E5]soul\n\n[Bridge]\n[F#5]You can't run from the fu-\nture You can't change the past\n[A5]You're not that fast\n[B5]\n[F#5]You can't run from the fu-\nture You can't change the past\n[A5]Not that fast\n[B5]\n\n[Solo]\n[C#5]\n[F#5]\n[B5]\n[F#5]\n[C#5]\n[F#5]\n[B5]\n[F#5]\n[C#5]\n\n[Chorus]\n[B5]Kill the ghost\n[E5]That hides\n[A5]in your\n[E5]soul\n[B5]Kill the ghost\n[E5]That hides\n[A5]in your\n[E5]soul\n[B5]Kill the ghost\n[E5]That hides\n[A5]in your\n[E5]soul Rock 'n' Roll\n\n[Outro]\n[B5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ghost (feat. Ian Astbury)",
+  "id": "1aaa45ede2d55d9c771e4e52de0b2b920dac77565aaddbcd0143d295e3e01cde",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 178,
+  "normalizedKey": "slash|ghost feat ian astbury",
+  "playableChords": [
+    "B5",
+    "E5",
+    "A5",
+    "G5",
+    "A",
+    "F#5",
+    "C#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Bridge"
+    },
+    {
+      "measure": 62,
+      "name": "Solo"
+    },
+    {
+      "measure": 72,
+      "name": "Chorus"
+    },
+    {
+      "measure": 84,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1aaa45ede2d55d9c771e4e52de0b2b920dac77565aaddbcd0143d295e3e01cde",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Ghost (feat. Ian Astbury)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

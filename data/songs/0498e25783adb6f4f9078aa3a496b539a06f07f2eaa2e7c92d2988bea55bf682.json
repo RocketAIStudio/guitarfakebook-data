@@ -1,0 +1,104 @@
+{
+  "artist": "Sia",
+  "artistNormalized": "sia",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n[C]\n[F]\n[Am]\n[C]\n[F]\n\n[Verse 1]\n[Am]Help, I have\n[C]done it a-\n[F]gain\n[Am]I have\n[C]been here many\n[F]times before\n[Am]Hurt my-\n[C]self again\n[F]today\n[Am]And, the\n[C]worst part is there's\n[F]no-one else to\nblame\n\n[Chorus]\n[Am]Be my friend,\n[C]\n[F]\n[Dm]hold\n[Am]me Wrap me up,\n[C]\n[F]\n[Dm]enfold\n[Am]me I am small\n[C]\n[F]\n[Dm]and nee-\n[Am]dy Warm me up\n[C]\n[F]\n[Dm]and breathe\nme\n\n[Verse 2]\n[Am]Ouch I have\n[C]lost myself\n[F]again\n[Am]Lost my-\n[C]self and I am\n[F]nowhere to\nbe found\n[Am]Yeah I\n[C]think that I might\n[F]break\n[Am]Lost my-\n[C]self again and\n[F]I feel\nunsafe\n\n[Chorus]\n[Am]Be my friend,\n[C]\n[F]\n[Dm]hold\n[Am]me Wrap me up,\n[C]\n[F]\n[Dm]enfold\n[Am]me I am small\n[C]\n[F]\n[Dm]and nee-\n[Am]dy Warm me up\n[C]\n[F]\n[Dm]and breathe\n[Am]me Be my friend,\n[C]\n[F]\n[Dm]hold\n[Am]me Wrap me up,\n[C]\n[F]\n[Dm]enfold\n[Am]me I am small\n[C]\n[F]\n[Dm]and nee-\n[Am]dy Warm me up\n[C]\n[F]\n[Dm]and breathe\nme\n\n[Interlude]\n[Am]\n[C]\n[F]\n[Am]\n[C]\n[F]\n[Dm]\n[Am]\n[C]\n[F]\n[Dm]\n[Am]\n[C]\n[F]\n[Dm]\n[Am]\n[C]\n[F]\n[Dm]\n[Am]\n[C]\n[F]\n[Dm]\n[Am]\n[C]\n[F]\n[Dm]\n[Am]\n[C]\n[F]\n[Dm]\n[Am]\n[C]\n[F]\n\n[Outro]\n[Dm]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Breathe Me",
+  "id": "0498e25783adb6f4f9078aa3a496b539a06f07f2eaa2e7c92d2988bea55bf682",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 139,
+  "normalizedKey": "sia|breathe me",
+  "playableChords": [
+    "Am",
+    "C",
+    "F",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 95,
+      "name": "Interlude"
+    },
+    {
+      "measure": 130,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0498e25783adb6f4f9078aa3a496b539a06f07f2eaa2e7c92d2988bea55bf682",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Breathe Me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

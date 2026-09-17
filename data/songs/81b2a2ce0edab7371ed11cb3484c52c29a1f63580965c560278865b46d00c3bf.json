@@ -1,0 +1,119 @@
+{
+  "artist": "Ross Lynch",
+  "artistNormalized": "ross lynch",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n[G]\n[Em]\n[G]\n\n[Verse 1]\n[Em]It almost feels like it was just a dream\n[G]All these memories of you and me\n[Em]Blown away in the summer breeze\n[G]\n[Em]It almost feels like we just never were\n[G]All the time we spent was just a blur\n[Em]Now it's just me and the melody\n[G]So what am I\n\n[Pre-Chorus]\n[Em]supposed to do?\n[G]'Cause\n[Em]all these plans we made in the sand are through\n[D]\nWithout\n\n[Chorus]\n[C]you, I'm [G]on my\n[D]own Am [Em]I gonna be alone?\n[C]And [G]if it's only\n[D]me, myself, and I, will I be\n[C]fine? So [G]far from\n[D]home And [Em]I just don't know\n[C]Am I gonna make it? [G]Brave enough to take this road\n[D]Out on my own\n[C]\n\n[Break]\n[C]  [G]\n[D]  [Em]\n[C]  [G]\n[D]  [Em]\n\n[Bridge]\n[C]Maybe I'm falling on my [G]face Or\n[D]maybe I'm landing in my [Em]place And\n[C]maybe we're a million miles [G]apart Or\n[D]maybe we're standing heart to [Em]heart But no\n[C]matter what, I'm walking right off this [G]stage And\n[D]never looking back, looking back [Em]to yesterday\n[C]No way,\n[Cm]no way\n[G]I'm on my\n\n[Chorus]\n[C]own Yeah\n[D]  [Em]\n[C]As long [G]as I've got\n[D]me, myself, and I, I'm doing fine\n[C]So [G]far from\n[D]home But now I [Em]know that I\n[C]am gonna make it Brave [G]enough to take this road\n[D]Out on my own\n\n[Outro]\n[Em]\n[G]\n[Em]It almost feels like it was just a dream\n[G]All these memories of you and me",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "On My Own",
+  "id": "81b2a2ce0edab7371ed11cb3484c52c29a1f63580965c560278865b46d00c3bf",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 257,
+  "normalizedKey": "ross lynch|on my own",
+  "playableChords": [
+    "Em",
+    "G",
+    "D",
+    "C",
+    "Cm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Break"
+    },
+    {
+      "measure": 32,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "81b2a2ce0edab7371ed11cb3484c52c29a1f63580965c560278865b46d00c3bf",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "On My Own",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

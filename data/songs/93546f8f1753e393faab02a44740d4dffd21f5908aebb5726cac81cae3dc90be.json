@@ -1,0 +1,129 @@
+{
+  "artist": "Roger Miller",
+  "artistNormalized": "roger miller",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[A]\n\n[Verse 1]\n[A]Robin Hood and Little John, [D]walking through the [A]forest\nLaughing back and forth at what the [E]other has to\n[A]say\n[A]Reminiscing this and that and [D]having such a [A]good time\nOodelally, oodelally, [E]golly, what a\n[A]day Ne-\n\n[Bridge]\n[A7]ver ever thinking there was danger in the water They were\n[D]drinking, they just guzzled it down Ne-\n[B7]ver dreaming that a scheming sheriff and his posse Was a-\n[E]watching them and gathering around\n\n[Verse 2]\n[A]Robin Hood and Little John, [D]running through the [A]forest\nJumping fences, dodging trees and [E]trying to get a-\n[A]way Co-\n[A]ntemplating nothing but [D]escape and [A]finally making it\nOodelally, oodelally, [E]golly, what a\n[A]day Oo-\n\n[Outro]\ndelally, oodelally, [F7]golly, [E7]what a [A]da-\ny",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "131211",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Oo-de-lally",
+  "id": "93546f8f1753e393faab02a44740d4dffd21f5908aebb5726cac81cae3dc90be",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 176,
+  "normalizedKey": "roger miller|oo de lally",
+  "playableChords": [
+    "A",
+    "D",
+    "E",
+    "A7",
+    "B7",
+    "F7",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 8,
+      "name": "Bridge"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 19,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "93546f8f1753e393faab02a44740d4dffd21f5908aebb5726cac81cae3dc90be",
+    "version": "BCFZ"
+  },
+  "tempo": 79,
+  "title": "Oo-de-lally",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

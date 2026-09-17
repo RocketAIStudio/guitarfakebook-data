@@ -1,0 +1,119 @@
+{
+  "artist": "Rammstein",
+  "artistNormalized": "rammstein",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Bb]\n[F]  [Gm]\n[Dm]\n[C]\n[Bb]\n[F]  [Gm]\n[Dm]\n[C]\n[Dm]\n\n[Verse 1]\n[Dm]Er legt die Nadel\n[F]auf die Ader\n[Dm]Und bittet die Mu-\n[F]sik herein\n[Dm]Zwischen Hals und\n[F]Unterarm\n[Dm]Die Melodie faehrt\n[F]leise ins Ge-\n[Dm]bein Los Los\nLos\nLos Los\nLos\n\n[Verse 2]\n[Dm]Er hat die Augen\n[F]zugemacht\n[Dm]In seinem Blut tobt\n[F]eine Schlacht\n[Dm]Ein Heer marschiert durch\n[F]seinem Darm\n[Dm]Die Eingeweide\n[F]werden langsam\n[Dm]warm Los Los\nLos\nLos Los\nLos\nLos Los\nLos\nLos Los\nLos\n[Bb]Nichts ist fuer di-\n[F]ch [Gm]\n[Dm]Nichts war fuer di-\nch [C]\n[Bb]Nichts bleibt fuer di-\n[F]ch [Gm]Fuer\n[Dm]immer\n[C]\n\n[Chorus]\n[Bb]Nichts ist fuer di-\n[F]ch [Gm]\n[Dm]Nichts war fuer di-\nch [C]\n[Bb]Nichts bleibt fuer di-\n[F]ch [Gm]Fuer\n[Dm]immer\n[C]\n\n[Solo]\n[Dm]\n\n[Verse 3]\n[Dm]Er nimmt die Nadel\n[F]von der Ader\n[Dm]Die Melodie faehrt\n[F]aus der Haut\n[Dm]Geigen brennen\n[F]mit Gekreisch\n[Dm]Harfen schneiden\n[F]sich ins Fleisch\n\n[Break]\n[Bb]Er hat die Augen\n[Gm]aufgemacht\n[Dm]Doch er ist nicht\naufgewacht\n\n[Chorus]\n[Bb]Nichts ist fuer di-\n[F]ch [Gm]\n[Dm]Nichts war fuer di-\nch [C]\n[Bb]Nichts bleibt fuer di-\n[F]ch [Gm]Fuer\n[Dm]immer\n[C]\n[Bb]Nichts ist fuer di-\n[F]ch [Gm]\n[Dm]Nichts war fuer di-\nch [C]\n[Bb]Nichts bleibt fuer di-\n[F]ch [Gm]Fuer\n[Dm]immer\n[C]\n[Bb]\n[F]  [Gm]\n[Dm]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "000231",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "333565",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "555333",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Adios",
+  "id": "ba31e34fc04dfb93d0e3c3e1ee49dcd3d36f011622c38600cbaf3c74b5c85e00",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 204,
+  "normalizedKey": "rammstein|adios",
+  "playableChords": [
+    "Bb",
+    "F",
+    "Gm",
+    "Dm",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Solo"
+    },
+    {
+      "measure": 73,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 81,
+      "name": "Break"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ba31e34fc04dfb93d0e3c3e1ee49dcd3d36f011622c38600cbaf3c74b5c85e00",
+    "version": "BCFZ"
+  },
+  "tempo": 116,
+  "title": "Adios",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

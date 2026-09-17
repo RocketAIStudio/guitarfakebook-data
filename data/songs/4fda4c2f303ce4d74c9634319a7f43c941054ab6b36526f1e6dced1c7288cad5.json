@@ -1,0 +1,92 @@
+{
+  "artist": "Simon & Garfunkel",
+  "artistNormalized": "simon garfunkel",
+  "capo": "3",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]  [G/B]\n[D7sus4/A]  [G]\n[C]  [G/B]\n[D7sus4/A]  [G]\n[C]  [G/B]\n[D7sus4/A]  [G]\n[C]  [G/B]\n[D7sus4/A]  [G]\n\n[Verse 1]\n[C]Slow down, [G/B]you\n[D7sus4/A]move too [G]fast\n[C]You've got to [G/B]make the mor-\n[D7sus4/A]ning [G]last Just\n[C]kickin' down [G/B]the\n[D7sus4/A]cobble [G]stones\n[C]Looking for [G/B]fun and fee-\n[D7sus4/A]ling [G]groovy\n[C]  [G/B]\n[D7sus4/A][G]Ba dada-\n[C]da da [G/B]da da,\n[D7sus4/A]feelin' [G]groovy\n[C]  [G/B]\n[D7sus4/A]  [G]\n\n[Verse 2]\n[C]Hello [G/B]lamppost,\n[G][D7sus4/A]what'cha knowin'?\n[C]I've come to [G/B]watch your flo-\n[D7sus4/A]wers [G]growin'\n[C]Ain'tcha [G/B]got no rhymes\n[D7sus4/A][G]for me?\n[C]Doin [G/B]do do,\n[D7sus4/A]feelin' [G]groovy\n[C]  [G/B]\n[D7sus4/A][G]Ba dada-\n[C]da da [G/B]da da,\n[D7sus4/A]feelin' [G]groovy\n[C]  [G/B]\n[D7sus4/A][G]I got\n\n[Verse 3]\n[C]no deeds to [G/B]do, no\n[D7sus4/A]promises [G]to keep I'm\n[C]dappled and [G/B]drowsy and\n[D7sus4/A]ready to [G]sleep Let the\n[C]morningtime [G/B]drop all its\n[D7sus4/A]petals on [G]me\n[C]Life I [G/B]love you,\n[D7sus4/A]all is [G]groo-\n[C]vy [G/B]\n[D7sus4/A]  [G]\n\n[Outro]\n[C]Da [G/B]da\n[D7sus4/A]da da [G]da\n[C]ba [G/B]da da\n[D7sus4/A]da da [G]\n[C]Da [G/B]da\n[D7sus4/A]da da [G]da\n[C]ba [G/B]da da\n[D7sus4/A]da da [G]\n\n[Fade Out]\n[C]Da [G/B]da\n[D7sus4/A]da da [G]da\n[C]ba [G/B]da da\n[D7sus4/A]da da [G]\n[C]Da [G/B]da\n[D7sus4/A]da da [G]da\n[C]ba [G/B]da da\n[D7sus4/A]da da [G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7sus4/A": {
+      "catalog": [
+        "x00013"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The 59th Street Bridge Song (Feelin' Groovy)",
+  "id": "4fda4c2f303ce4d74c9634319a7f43c941054ab6b36526f1e6dced1c7288cad5",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 168,
+  "normalizedKey": "simon garfunkel|the 59th street bridge song feelin groovy",
+  "playableChords": [
+    "C",
+    "G/B",
+    "D7sus4/A",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    },
+    {
+      "measure": 57,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4fda4c2f303ce4d74c9634319a7f43c941054ab6b36526f1e6dced1c7288cad5",
+    "version": "BCFZ"
+  },
+  "tempo": 144,
+  "title": "The 59th Street Bridge Song (Feelin' Groovy)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

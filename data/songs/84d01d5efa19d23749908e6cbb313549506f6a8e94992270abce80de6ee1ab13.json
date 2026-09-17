@@ -1,0 +1,115 @@
+{
+  "artist": "Ryan Adams",
+  "artistNormalized": "ryan adams",
+  "capo": "3",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "Dan-\n\n[Verse 1]\n[Am7]cin' where the [C]stars go blue\n[G][Dadd11]Dan-\n[Am7]cin' where the [C]evening fell\n[G][Dadd11]Dan-\n[Am7]cin' in your [C]wooden shoes\n[G][Dadd11]In a wed-\n[Am7]ding gown [C]\n[G][Dadd11]Dan-\n[Am7]cin' out on [C]Seventh Street\n[G][Dadd11]Dan-\n[Am7]cin' through the [C]underground\n[G][Dadd11]Dan-\n[Am7]cin' little [C]marionette\n[G][Dadd11]Are you hap-\n[Am7]py now? [C]\n[G]  [Dadd11]\n\n[Pre-Chorus]\n[C]Where do you go\n[G]when you're [D]lonely\n[C]Where do you go\n[G]when you're blue [D]\n[C]Where do you go\n[G]when you're [D]lonely I'll fol-\n[Am7]low you\nWhen the stars go\n\n[Chorus]\n[G]blue [D]\n[Am7]Stars go\n[G]blue [D]\n[Am7]Stars go\n[G]blue [D]\n[Am7]Stars go\n[C]blue\n\n[Interlude 1]\n[Am7]  [C]\n[G]  [Dadd11]\n[Am7]  [C]\n[G][Dadd11]Lau-\n\n[Verse 2]\n[Am7]ghing with your [C]pretty mouth\n[G][Dadd11]Lau-\n[Am7]ghing with your [C]broken eyes\n[G][Dadd11]Lau-\n[Am7]ghing with your [C]lover's tongue\n[G][Dadd11]In a lul-\n[Am7]laby [C]\n[G]  [Dadd11]\n\n[Pre-Chorus]\n[C]Where do you go\n[G]when you're [D]lonely\n[C]Where do you go\n[G]when you're blue [D]\n[C]Where do you go\n[G]when you're [D]lonely I'll fol-\n[Am7]low you\nWhen the stars go\n\n[Chorus]\n[G]blue [D]\n[Am7]Stars go\n[G]blue [D]\n[Am7]Stars go\n[G]blue [D]\n[Am7]Stars go\n[C]blue\nStars go\n[G]blue [D]\n[Am7]Stars go\n[G]blue [D]\n[Am7]Stars go\n[G]blue [D]\n[Am7]Stars go\n[C]blue\n\n[Outro]\n[Am7]  [C]\n[G]  [Dadd11]\n[Am7]  [C]\n[G]  [Dadd11]\n[Am7]  [C]\n[G]  [Dadd11]\n[Am7]  [C]\n[G]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dadd11": {
+      "catalog": [
+        "x5423x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "When The Stars Go Blue",
+  "id": "84d01d5efa19d23749908e6cbb313549506f6a8e94992270abce80de6ee1ab13",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 173,
+  "normalizedKey": "ryan adams|when the stars go blue",
+  "playableChords": [
+    "Am7",
+    "C",
+    "G",
+    "Dadd11",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Interlude 1"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "84d01d5efa19d23749908e6cbb313549506f6a8e94992270abce80de6ee1ab13",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "When The Stars Go Blue",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

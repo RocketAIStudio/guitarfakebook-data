@@ -1,0 +1,88 @@
+{
+  "artist": "Screeching Weasel",
+  "artistNormalized": "screeching weasel",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[B5]  [G5]  [F#5]\n[B5]  [G5]  [F#5]\n[B5]  [G5]  [F#5]\n[B5]  [G5]  [F#5]\n\n[Interlude]\n[B5]  [G5]  [F#5]\n[B5]  [G5]  [F#5]\n\n[Verse 1]\n[B5]I like [G5]Ronald [F#5]Reagan\n[B5]He teaches [G5]me to [F#5]be a man\n[B5]Heshows me [G5]how to [F#5]pull a scam\n[B5]In the [G5]name of [F#5]Uncle Sam\n[B5]I like [G5]Edwin [F#5]Meese the third\n[B5]He tells [G5]me how [F#5]to spend my time\n[B5]Keeps nasty [G5]thoughts far [F#5]from my mind\n[B5]So [G5]that I don't [F#5]grow up blind\n\n[Chorus]\n[E5]I am saying [B5]no!\n[E5]I am saying [B5]no!\n[E5]I am saying [B5]no!\n[E5]to [B5]authority\n\n[Interlude]\n[B5]  [G5]  [F#5]\n[B5]  [G5]  [F#5]\n\n[Verse 2]\n[B5]I like [G5]my [F#5]Policeman\n[B5]He rules my [G5]world with [F#5]guilt and fear Makes\n[B5]sure I [G5]know he's [F#5]always near\n[B5]In case I [G5]should [F#5]start acting \"weird\" I\n[B5]need you [G5]big [F#5]brother\n[B5]To show [G5]me how [F#5]I should feel\n[B5]To make [G5]sure I [F#5]never stray\n[B5]To make [F#5][G5]everything ok\n\n[Chorus]\n[E5]I am saying [B5]no!\n[E5]I am saying [B5]no!\n[E5]I am saying [B5]no!\n[E5]to [B5]authority",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Say No! To Authority",
+  "id": "7ee8ad615e0de778faf64772151fa5a36e0ddb78a055106354674696c9588af4",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 140,
+  "normalizedKey": "screeching weasel|say no to authority",
+  "playableChords": [
+    "B5",
+    "G5",
+    "F#5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Interlude"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Interlude"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7ee8ad615e0de778faf64772151fa5a36e0ddb78a055106354674696c9588af4",
+    "version": "BCFZ"
+  },
+  "tempo": 156,
+  "title": "Say No! To Authority",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

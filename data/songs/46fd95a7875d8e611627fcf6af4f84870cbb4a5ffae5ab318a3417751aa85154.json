@@ -1,0 +1,127 @@
+{
+  "artist": "Ruoska",
+  "artistNormalized": "ruoska",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Cm]\n\n[Verse 1]\n[Cm]Rintaan alasin\nTeili-\npyoralle paani\nUkkosen aani\nPistokkeeni\n\n[Bridge]\n[Cm]Irti\nIrti\nIrti\nIrti\n\n[Verse 2]\n[Cm]Syttyva vaate\nvoin on kiinni\nEi sita paalta\nsaa revityksi\nLukittu huone, jota vihata\nHuoneessa peili, jota vihata\nPeilissa katsoo, keta vihata\nMeita vain yksi, jota vihata\n\n[Bridge]\n[Cm]Irti\nIrti\nIrti\nIrti\n\n[Chorus]\n[Fm]Hau-\nraat\n[C]asti-\nan palat\n[C#]yh-\nteen\n[Fm]korjaa-\nmaan\n[Fm]Saa-\nvuthan,\n[C]siihen\njaa,\n[C#]paasta\nethan\n[Fm]milloin-\n[D#]kaan\n\n[Bridge]\n[Cm]Irti\nIrti Kun\nroviot palavat\nIrti\nIrti Kun\nriivaajat tulevat\n\n[Verse 3]\n[Cm]Lapi ovien mina pakenen\nhamaran turvin haparoiden\nLapi ovien mina tiedan;\ntie tiedon tuolle puolen on\nKirjoitusta, loputonta\nkirjoitusta, sanatonta\nKirjoitusta, joka kietoo,\nkirjoitusta, joka kiskoo\n\n[Bridge]\n[Cm]Irti\nIrti Kun\nroviot palavat\nIrti\nIrti Kun\nriivaajat tulevat\n\n[Chorus]\n[Fm]Hau-\nraat\n[C]asti-\nan palat\n[C#]yh-\nteen\n[Fm]korjaa-\nmaan\n[Fm]Saa-\nvuthan,\n[C]siihen\njaa,\n[C#]paasta\nethan\n[Fm]milloin-\n[D#]kaan\n\n[Outro]\n[Cm]Irti\nIrti\nIrti\nRoviot palavat\nIrti\nIrti\nIrti\nRiivaajat tulevat\nIrti\nIrti\nIrti\nRoviot palavat\nIrti\nIrti\nIrti\nRiivaajat tulevat.",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "000232",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "111343",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "000231",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "333565"
+      ],
+      "catalogCount": 1
+    },
+    "Fm": {
+      "catalog": [
+        "555786",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Irti",
+  "id": "46fd95a7875d8e611627fcf6af4f84870cbb4a5ffae5ab318a3417751aa85154",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 309,
+  "normalizedKey": "ruoska|irti",
+  "playableChords": [
+    "Cm",
+    "Fm",
+    "C",
+    "C#",
+    "D#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Bridge"
+    },
+    {
+      "measure": 69,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 77,
+      "name": "Bridge"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    },
+    {
+      "measure": 104,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "46fd95a7875d8e611627fcf6af4f84870cbb4a5ffae5ab318a3417751aa85154",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Irti",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

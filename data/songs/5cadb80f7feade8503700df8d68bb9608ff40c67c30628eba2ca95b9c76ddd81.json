@@ -1,0 +1,90 @@
+{
+  "artist": "Screeching Weasel",
+  "artistNormalized": "screeching weasel",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 5,
+  "content": "[B5]  [F#5]\n\n[Intro]\n[C#5]\n[B5]  [F#5]\n[C#5]\n[B5]  [F#5]\n[C#5]\n[B5]  [F#5]\n[C#5]\n[C#5]I am\n\n[Verse 1]\n[F#5]catlike;\n[B5]I can\n[F#5]prowl and pounce all\n[C#5]night. I am\n[F#5]catlike;\n[B5]I can\n[F#5]climb to any\n[C#5]height. But when\n[B5]i fnally reach the\n[C#5]top and realize\n[D#5]I can't get\n[A#5]down, I need some\n[B5]help;\na [F#5]little\n\n[Interlude]\n[C#5]help!\n[F#5]\n[C#5]\nI am\n\n[Verse 2]\n[F#5]catlike;\n[B5]perfect\n[F#5]visionlight or\n[C#5]dark. I am\n[F#5]catlike.\n[B5]i don't do\n[F#5]tricks nor do\n[C#5]I bark. I have im-\n[B5]peccable\n[C#5]agility and\n[D#5]balance. I am\n[A#5]independent\n[B5]but some-\n[B5]times i need [F#5]some\n\n[Outro]\n[C#5]help;\n[F#5]Little\n[C#5]help!\nI need [F#5]some\n[C#5]help\nI need [F#5]some\n[C#5]help",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx",
+        "799xxx"
+      ],
+      "catalogCount": 2
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx",
+        "9-11-11-x-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "D#5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx",
+        "x-9-11-11-x-x"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Cat-Like",
+  "id": "5cadb80f7feade8503700df8d68bb9608ff40c67c30628eba2ca95b9c76ddd81",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 95,
+  "normalizedKey": "screeching weasel|cat like",
+  "playableChords": [
+    "B5",
+    "F#5",
+    "C#5",
+    "D#5",
+    "A#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Interlude"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5cadb80f7feade8503700df8d68bb9608ff40c67c30628eba2ca95b9c76ddd81",
+    "version": "BCFZ"
+  },
+  "tempo": 254,
+  "title": "Cat-Like",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,127 @@
+{
+  "artist": "Ruoska",
+  "artistNormalized": "ruoska",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Dm]\n\n[Verse 1]\n[Dm]Kun rakkau-\ndesta toiseen\nkuollaan ja\nsynnytaan\nOn matka ra-\nskaampi kuin\nraskasta ve-\ntta hengit-\ntaa\nEn kesta\nlaheisyytta,\nen sieda\nikavaa\nOon tunnoto-\nn ja kylma,\nei sanas ke-\nrro mitaan\nNe tuuli vi-\nekoon taivaan\naariin\n[Am]  [C]\n\n[Chorus]\n[Dm]Koskaan ei\n[F]kellot meille\n[Am]soi\n[C]\n[Dm]Koskaan et\n[F]niita kuulla\n[Am]voi\n[C]Et\n[Dm]kirkossa\n[F]aamenta,\n[Am]sydamein\n[C]jaassa Vain\n[A#]kuolema\n[Am]ovea kolkut-\n\n[Post-Chorus]\n[Dm]taa\n\n[Interlude]\n[Dm]\n\n[Verse 2]\n[Dm]Pelkaat yk-\nsinaisyytta,\nmina etta vi-\nerees jaan\nKavahdan\nkosketusta,\njos et irti\npaastaisikaan\nKuuletko so-\niton, kuulet\nvaarin\n[Am]  [C]\n\n[Chorus]\n[Dm]Koskaan ei\n[F]kellot meille\n[Am]soi\n[C]\n[Dm]Koskaan et\n[F]niita kuulla\n[Am]voi\n[C]Et\n[Dm]kirkossa\n[F]aamenta,\n[Am]sydamein\n[C]jaassa Vain\n[A#]kuolema\n[Am]ovea kolkut-\n\n[Break]\n[Dm]taa\n[A#]\n[Am]  [F]\n\n[Chorus]\n[Dm]Koskaan ei\n[F]kellot meille\n[Am]soi\n[C]\n[Dm]Koskaan et\n[F]niita kuulla\n[Am]voi\n[C]Et\n[Dm]kirkossa\n[F]aamenta,\n[Am]sydamein\n[C]jaassa Vain\n[A#]kuolema\n[Am]ovea kolkut-\n\n[Post-Chorus]\n[Dm]taa\n\n[Outro]\n[Dm]",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "x32010"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x24432",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "000232",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "222453",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "555787",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ei Koskaan",
+  "id": "416fb373a80110852173876ba703f3391f0509fcdb94a757df1decff4cd42d1f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 226,
+  "normalizedKey": "ruoska|ei koskaan",
+  "playableChords": [
+    "Dm",
+    "Am",
+    "C",
+    "F",
+    "A#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Interlude"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 87,
+      "name": "Break"
+    },
+    {
+      "measure": 106,
+      "name": "Chorus"
+    },
+    {
+      "measure": 120,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 128,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "416fb373a80110852173876ba703f3391f0509fcdb94a757df1decff4cd42d1f",
+    "version": "BCFZ"
+  },
+  "tempo": 134,
+  "title": "Ei Koskaan",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

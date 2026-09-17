@@ -1,0 +1,114 @@
+{
+  "artist": "Rammstein",
+  "artistNormalized": "rammstein",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Intro 1]\n\n[Intro 2]\n[C5]\n\n[Verse 1]\n[C5]Wohin gehst du\nwohin\nIch geh mit mir\nvon Ost nach\nSüd\nWohin gehst du\nwohin\nIch geh mit mir\nvon Sued nach\nWest\nWohin gehst du\nwohin\nIch geh mit mir\nvon West nach\nNord\n\n[Bridge]\n[Eb5]Da kommt er an-\ngerannt\n[F5]Mit der Fahne\n[D5]in der Hand\n[C5]Mein Land\n[F5]\n[D5]  [Eb5]\n[C5]mein Land\n[Eb5]  [F5]\n[Eb5]  [F5]\n\n[Chorus]\n[C5]Du bist hier im\nmeinem Land\nMeine Welle und\nmein Strand\nMein Land\nDu bist hier im\nmeinem Land\nMeine Welle und\nmein Strand\nMein Land\nMeine Welle und\nmein Strand\n\n[Verse 2]\n[C5]\nWohin gehst du\nwohin\nIch geh mit mir\nvon Nord nach\nOst\nWohin gehst du\nwohin\nIch geh mit mir\nvon Ost nach\nWest\nWohin gehst du\nwohin\nIch geh mit mir\nvon West nach\nOst\n\n[Bridge]\n[Eb5]Da komm'n sie an-\ngerannt Mit\n[F5]den Fahnen in\n[D5]der Hand Mein\n[C5]\n[F5]Land\n[D5]sie haben [Eb5]mich\n[C5]mein Land\n[Eb5]  [F5]\n[Eb5]  [F5]\n\n[Chorus]\n[C5]Du bist hier im\nmeinem Land\nMeine Welle und\nmein Strand\nMein Land\nDu bist hier im\nmeinem Land\nMeine Welle und\nmein Strand\nMein Land\nMeine Palmen und\nmein Sand\n\n[Break]\n[C5]Jah\n[C5]Eine\n[F5]Stimme\n[Ab5]aus dem Licht\n[Eb5]Faellt dem\nHimmel\n[G5]vom Gesicht\n[C5]Reisst den\n[F5]Hori-\n[Ab5]zont entzwei\nWohin\n[Eb5]gehst du\nHier ist\n[G5]nichts mehr frei\n[G5]Das ist\n[C5]mein Land\n[F5]\n[Ab5]\nDas ist\n[Eb5]mein Land\n[G5]Das\nist mein\n[C5]Land\n[F5]\n[Ab5]\nDas ist\n[Eb5]mein\n[G5]Land\n[G5]\n\n[Chorus]\n[C5]Mein Land\nMein Land\nMein Land\nMein Land\nMein Land\nMein Land\nMein Land",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "888xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "00xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "22xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "33xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "55xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mein Land",
+  "id": "7f4dcc19b15a1eec054fa437de68e2216f4de48f5bcf03b20e0ec6db5b04809c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 260,
+  "normalizedKey": "rammstein|mein land",
+  "playableChords": [
+    "C5",
+    "Eb5",
+    "F5",
+    "D5",
+    "Ab5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 17,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 113,
+      "name": "Bridge"
+    },
+    {
+      "measure": 125,
+      "name": "Chorus"
+    },
+    {
+      "measure": 141,
+      "name": "Break"
+    },
+    {
+      "measure": 189,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7f4dcc19b15a1eec054fa437de68e2216f4de48f5bcf03b20e0ec6db5b04809c",
+    "version": "BCFZ"
+  },
+  "tempo": 176,
+  "title": "Mein Land",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

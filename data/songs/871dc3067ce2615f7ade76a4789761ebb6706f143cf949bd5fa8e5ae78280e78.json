@@ -1,0 +1,156 @@
+{
+  "artist": "Rammstein",
+  "artistNormalized": "rammstein",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Bb5]\n\n[Verse 1]\n[Bb5]Hallo kleines Maedchen,\nwie geht es dir?\nMir geht es gut,\nsprich nicht zu mir\nSteig einfach ein,\nich nehm' dich mit\nUnd kaufe dir\nMuscheln mit Pommes\nFrites Es ist\nschon warm und du\nbist schoen Und hast\ndas Meer noch nicht ge-\nseh'n Du bist allei-\nne, ich ganz allein\nSprich nicht zu mir,\nsteig einfach ein\n\n[Chorus]\n[Fm]Sing fuer mich, komm,\n[Ebm]sing\n[Ab]Perle auf dem\n[Bb]Ring\n[Bbm]Tanz fuer mich und\n[Ab]dann\n[F]Kommt zu dir\nder Hallo-\n\n[Interlude]\n[Bb5]mann\n\n[Verse 2]\n[Bb5]Die Sonne scheint uns\nauch auf den Bauch\nSag einfach nichts\nund mach es auch\nGib mir dein Wort,\nnimm meine Hand\nWir bau'n was Schoenes\naus Haut und Sand\nNichts wird danach\nwie frueher sein\nSprich nicht zu mir,\nsteig einfach ein\n\n[Chorus]\n[Fm]Sing fuer mich, komm,\n[Ebm]sing\n[Ab]Perle auf dem\n[Bb]Ring\n[Bbm]Tanz fuer mich, komm,\n[Ab]tanz\n[F]Blondes Haar und\nRosenkranz\n\n[Bridge]\n[Fm]\n[Ebm]\n[Ab]\n[Bb]\n[Bbm]\n[Ab]\n[F]\n\n[Break]\n[Bb5]Hallo kleines Maedchen\nWie geht es dir?\n\n[Solo]\n[D5]\n[Bb5]\n[D5]\n\n[Chorus]\n[Fm]Sing fuer mich, komm,\n[Ebm]sing\n[Ab]Frag nicht nach dem\n[Bb]Sinn\n[Bbm]Sing fuer mich und\n[Ab]dann\n[F]Auf den Wellen\ndein Gesang.\n\n[Outro]\n[Fm]\n[Ebm]\n[Ab]\n[Bb]\n[Bbm]\n[Ab]\n[F]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "xx6898",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x-x-8-10-11-10",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bb5": {
+      "catalog": [
+        "888xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bbm": {
+      "catalog": [
+        "x-x-8-10-11-9",
+        "x-1-3-3-2-1",
+        "6-8-8-6-6-6",
+        "x-13-15-15-14-13",
+        "18-20-20-18-18-18"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Ebm": {
+      "catalog": [
+        "x68876",
+        "x-x-1-3-4-2",
+        "11-13-13-11-11-11",
+        "x-x-13-15-16-14",
+        "x-18-20-20-19-18"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "x-8-10-10-10-8",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "x-8-10-10-9-8",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hallomann",
+  "id": "871dc3067ce2615f7ade76a4789761ebb6706f143cf949bd5fa8e5ae78280e78",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 199,
+  "normalizedKey": "rammstein|hallomann",
+  "playableChords": [
+    "Bb5",
+    "Fm",
+    "Ebm",
+    "Ab",
+    "Bb",
+    "Bbm",
+    "F",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Interlude"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Bridge"
+    },
+    {
+      "measure": 59,
+      "name": "Break"
+    },
+    {
+      "measure": 63,
+      "name": "Solo"
+    },
+    {
+      "measure": 71,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "871dc3067ce2615f7ade76a4789761ebb6706f143cf949bd5fa8e5ae78280e78",
+    "version": "BCFZ"
+  },
+  "tempo": 86,
+  "title": "Hallomann",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

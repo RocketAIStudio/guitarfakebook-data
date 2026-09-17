@@ -1,0 +1,119 @@
+{
+  "artist": "Sara Bareilles",
+  "artistNormalized": "sara bareilles",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F]\n\n[Verse 1]\n[F]It's not\nsimple to say\nThat most days\n[C]\nI don't\nrecognize\nme That these\n[Dm]shoes and this\napron, that\nplace and its\npatrons Have\n[Bb]taken more\nthan I gave\nthem\n[F]It's not\neasy to know\nI'm not\n[C]anything\nlike I\nused be,\nalthough it's true\n[Dm]I was\nnever at-\ntention's sweet\ncenter\n[Bb]I still re-\nmember that girl\nShe's im-\n\n[Chorus]\n[F]perfect,\nbut she\ntries\nShe is\n[C]good,\nbut she lies\nShe is\n[Dm]hard\non herself\nShe is\n[Bb]broken and\nwon't ask for help\nShe is\n[F]messy,\nbut she's\nkind\nShe is\n[C]lonely\nmost of the time\nShe is\n[Dm]all of this\nmixed up and\nbaked in a beau-\ntiful\n[Bb]pie\nShe is\ngone, but she\nused to be\n\n[Bridge]\n[F]mine\n\n[Verse 2]\n[F]It's not\nwhat I asked for\nSometimes\n[C]life\njust slips\nin through a back\ndoor And\n[Dm]carves out a\nperson and\nmakes you believe\nit's all\n[Bb]true\nAnd\nnow I've got you\n[F]And you're not\nwhat I\nasked for\nIf I'm ho-\n[A]nest, I know\nI would\ngive it all\nback For a\n[Dm]chance to start\nover and\nrewrite an\nending or two\n[Bb]\nFor the\ngirl that I\nknew Who'll be\n\n[Chorus]\n[F]reckless,\njust e-\nnough\nWho'll get\n[C]hurt,\nbut who\nlearns how to\ntoughen up When she's\n[Dm]bruised\nand gets\nused by a\nman who can't\n[Bb]love\nAnd\nthen she'll get stuck\nAnd be\n[F]scared\nof the\nlife that's inside\nher Growing\n[A]stronger each day\n'til it\nfinally reminds\nher To\n[Dm]fight just a\nlittle, to\nbring back the fire\nin her\n[Bb]eyes\nThat's been\ngone, but\nused to be mine\n\n[Bridge]\n[F]\n[A]\nUsed to be mine\n[Dm]\n[Bb]\nShe\n\n[Outro]\n[F]is messy,\nbut she's\nkind\nShe is\n[C]lonely\nmost of the time\nShe is\n[Dm]all of this\nmixed up and\nbaked in a\nbeautiful\n[Bb]pie\nShe is\ngone,\nbut she\nused to be mine\n[F]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "She Used To Be Mine",
+  "id": "f0eb494ba97bc98c1401473870210937cdf2f1ace77fc260223bab71a9db2c75",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 337,
+  "normalizedKey": "sara bareilles|she used to be mine",
+  "playableChords": [
+    "F",
+    "C",
+    "Dm",
+    "Bb",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 105,
+      "name": "Chorus"
+    },
+    {
+      "measure": 137,
+      "name": "Bridge"
+    },
+    {
+      "measure": 153,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f0eb494ba97bc98c1401473870210937cdf2f1ace77fc260223bab71a9db2c75",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "She Used To Be Mine",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

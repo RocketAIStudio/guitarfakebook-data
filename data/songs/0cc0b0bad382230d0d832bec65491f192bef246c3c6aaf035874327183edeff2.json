@@ -1,0 +1,119 @@
+{
+  "artist": "Rammstein",
+  "artistNormalized": "rammstein",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]\n[G#m]\n[F#m]\n[C#m]\n\n[Verse 1]\n[A]Komm in mein\n[G#m]Boot Ein\n[F#m]Sturm kommt auf und es\n[C#m]wird\n[A]Nacht Wo willst\n[G#m]du hin\n[F#m]So ganz allein treibst du da-\n[C#m]von\n[A]Wer hält deine\n[G#m]Hand\n[F#m]Wenn es dich nach unten\n[C#m]zieht\n\n[Bridge]\n[A]\n[G#m]\n[F#m]\n[C#m]\n\n[Verse 2]\n[A]Wo willst du\n[G#m]hin So\n[F#m]uferlos die kalte\n[C#m]See\n[A]Komm in mein\n[G#m]Boot Der\n[F#m]Herbstwind hält die Segel\n[C#m]straff\n\n[Bridge]\n[A]\n[G#m]\n[F#m]\n[C#m]Jetzt\n\n[Chorus]\n[A]stehst du da an der La-\n[G#m]terne Mit\n[F#m]Tränen im Ge-\n[C#m]sicht Das\n[A]Tageslicht fällt auf die\n[G#m]Seite Der\n[F#m]Herbstwind fegt die Straße\n[C#m]leer Jetzt\n[A]stehst du da an der La-\n[G#m]terne Mit\n[F#m]Tränen im Ge-\n[C#m]sicht Das\n[A]Abendlicht verjagt die\n[G#m]Schatten Die\n[F#m]Zeit steht still und es wird\n[C#m]Herbst\n[E]\n\n[Verse 3]\n[A]Komm in mein\n[G#m]Boot Die\n[F#m]Sehnsucht wird der Steuer-\n[C#m]mann\n[A]Komm in mein\n[G#m]Boot Der\n[F#m]beste Seemann war doch\n[C#m]ich Jetzt\n\n[Chorus]\n[A]stehst du da an der La-\n[G#m]terne Hast\n[F#m]Tränen im Ge-\n[C#m]sicht Das\n[A]Feuer nimmst du von der\n[G#m]Kerze Die\n[F#m]Zeit steht still und es wird\n[C#m]Herbst Sie\n[A]sprachen nur von deiner\n[G#m]Mutter So\n[F#m]gnadenlos ist nur die\n[C#m]Nacht Am\n[A]Ende bleib ich doch a-\n[G#m]lleine Die\n[F#m]Zeit steht still Und mir ist\n[C#m]kalt, kalt,\n[E]kalt, kalt,\nkalt\n\n[Outro]\n[A]\n[G#m]\n[F#m]\n[C#m]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Seemann *alt",
+  "id": "0cc0b0bad382230d0d832bec65491f192bef246c3c6aaf035874327183edeff2",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 223,
+  "normalizedKey": "rammstein|seemann",
+  "playableChords": [
+    "A",
+    "G#m",
+    "F#m",
+    "C#m",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0cc0b0bad382230d0d832bec65491f192bef246c3c6aaf035874327183edeff2",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "Seemann",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

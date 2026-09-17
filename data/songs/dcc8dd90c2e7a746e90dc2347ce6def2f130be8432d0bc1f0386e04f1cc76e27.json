@@ -1,0 +1,95 @@
+{
+  "artist": "Rotten Sound",
+  "artistNormalized": "rotten sound",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n\n[Verse 1]\n[C#5/G#]  [B5/F#]  [C#5/G#]  [F5/C]\n[C#5/G#]  [B5/F#]  [C#5/G#]  [F5/C]\n[B5/F#][C#5/G#]Unseen [F5/C][C#5/G#]disaster\n[B5/F#][C#5/G#]Invisible [F5/C][C#5/G#]ruins\n\n[Chorus]\n[B5/F#]  [A#5/F]\n[B5/F#]  [A#5/F]\n[B5/F#]Looking [A#5/F]inside\n[B5/F#]Seeing [A#5/F]void [C#5/G#][D5/A]\n\n[Verse 2]\n[C#5/G#]  [B5/F#]  [C#5/G#]  [F5/C]\n[C#5/G#]  [B5/F#]  [C#5/G#]  [F5/C]\n[C#5/G#]No [B5/F#]strength to [C#5/G#]repair [F5/C]\n[C#5/G#]The chaos [C#5/G#][B5/F#]inside [F5/C]\n\n[Chorus]\n[B5/F#]  [A#5/F]\n[B5/F#]  [A#5/F]\n[B5/F#]Looking [A#5/F]inside\n[B5/F#]Seeing [A#5/F]void [C#5/G#][D5/A]\n\n[Bridge]\n[C#5/G#]  [B5/F#]  [C#5/G#]  [F5/C]\n[C#5/G#]  [B5/F#]  [C#5/G#]  [F5/C]\n[B5/F#][C#5/G#]Disastrous [C#5/G#]thoughts [F5/C]\n[C#5/G#]  [B5/F#]  [C#5/G#]  [F5/C]\n[C#5/G#]Major [B5/F#]damage [C#5/G#]has [F5/C]been\n[C#5/G#]done [B5/F#][C#5/G#][F5/C]\n[B5/F#][C#5/G#]Unseen [C#5/G#]damage [F5/C]a-\n[C#5/G#]round [B5/F#][C#5/G#][F5/C]\n[C#5/G#]No [B5/F#]order [C#5/G#]for [F5/C]the\n[C#5/G#]chaos [C#5/G#][B5/F#]inside [F5/C]\n\n[Chorus]\n[B5/F#]  [A#5/F]\n[B5/F#]  [A#5/F]\n[B5/F#]Looking [A#5/F]inside\n[B5/F#]Seeing [A#5/F]void [C#5/G#][D5/A]\n[C#5/G#]  [D5/A]",
+  "diagrams": {
+    "A#5/F": {
+      "catalog": [
+        "1133xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5/F#": {
+      "catalog": [
+        "2244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5/G#": {
+      "catalog": [
+        "4466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5/A": {
+      "catalog": [
+        "5577xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5/C": {
+      "catalog": [
+        "8-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Void",
+  "id": "dcc8dd90c2e7a746e90dc2347ce6def2f130be8432d0bc1f0386e04f1cc76e27",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 68,
+  "normalizedKey": "rotten sound|void",
+  "playableChords": [
+    "C#5/G#",
+    "B5/F#",
+    "F5/C",
+    "A#5/F",
+    "D5/A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 6,
+      "name": "Chorus"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Bridge"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dcc8dd90c2e7a746e90dc2347ce6def2f130be8432d0bc1f0386e04f1cc76e27",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Void",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

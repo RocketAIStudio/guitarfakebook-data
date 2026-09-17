@@ -1,0 +1,134 @@
+{
+  "artist": "Shawn Mendes",
+  "artistNormalized": "shawn mendes",
+  "capo": "3",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Em]\n[C]\n[G]\n[G/F#]\n[Em]\n[C]\n[G]\n[G/F#]I\n\n[Verse 1]\n[Em]promise that one day I'll be a-\n[C]round I'll keep you safe I'll keep you sound\n[G]\n[G/F#]Right\n[Em]now it's pretty crazy And I don't\n[C]know how to stop Or slow it\n[G]down\n\n[Pre-Chorus]\n[C]Hey I\nknow there are some things we need to\n[Em]talk about\nAnd I can't\n[C]stay Just\nlet me hold you for a little\n[D]longer now\n\n[Chorus]\n[G]Take a piece of my heart\n[C]And make it all your own\n[G]So when we are apart\n[D]You'll [B7]never be a-\n[Em]lone\n[C]You'll never be a-\n[G]lone\n[G/F#]\n\n[Intrelude]\n[Em]\n[C]\n[G]\n[G/F#]\n[Em]\n[C]\n[G]\nYou'll never be alone\n\n[Verse 2]\n[Em]When you miss me close your\n[C]eyes I may be far but never gone\n[G]\n[G/F#]When you\n[Em]fall asleep tonight Just re-\n[C]member that we lay under the\n[G]same stars\nHey\n\n[Pre-Chorus]\n[C]I\nknow there are some things we need to\n[Em]talk about\nAnd I can't\n[C]stay\nJust let me hold you for a little\n[D]longer now\nAnd\n\n[Chorus]\n[G]take a piece of my heart\n[C]And make it all your own\n[G]So when we are apart\n[D]You'll [B7]never be a-\n[Em]lone\n[C]You'll never be a-\n[G]lone\n\n[Outro 1]\n[Em]\n[C]\n[G]\nYou'll never be [G/F#]a-\n[Em]lone\n[C]\n[G]\nYou'll never be a-\n[Em]lone\n[C]\n[G]\nYou'll never be [G/F#]a-\n[Em]lone\n[C]\n[G]\nAnd\n\n[Outro 2]\n[G]take a piece of my heart\n[C]And make it all your own\n[G]So when we are apart\n[D]You'll [B7]never be a-\n[Em]lone\n[C]You'll never be a-\n[G]lone",
+  "diagrams": {
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/F#": {
+      "catalog": [
+        "220002"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Never Be Alone",
+  "id": "0aedb8657a5c794b536b33ce79876c258b0e243bd9f23eb3447da6441e0195d4",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 242,
+  "normalizedKey": "shawn mendes|never be alone",
+  "playableChords": [
+    "Em",
+    "C",
+    "G",
+    "G/F#",
+    "D",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Outro 1"
+    },
+    {
+      "measure": 82,
+      "name": "Outro 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0aedb8657a5c794b536b33ce79876c258b0e243bd9f23eb3447da6441e0195d4",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Never Be Alone",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

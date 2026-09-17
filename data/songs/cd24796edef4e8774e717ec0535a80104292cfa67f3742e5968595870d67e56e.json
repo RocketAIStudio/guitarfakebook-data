@@ -1,0 +1,127 @@
+{
+  "artist": "Shawn Mendes",
+  "artistNormalized": "shawn mendes",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\n[F]\n[C]\n[G]Oh, there she goes a-\n\n[Verse 1]\n[Am]gain Every morning it's the\n[F]same You walk on\n[C]by my house I wanna\n[G]call out your name\n[Am]I wanna to tell you how\n[F]beautiful you are from where I'm\n[C]standing You got me\n[G]thinking what we could because\n\n[Pre-Chorus]\n[Am]I keep craving, craving,\n[F]you don't know it but it's\n[C]true Can't get my mouth to\n[G]say the words they wanna say to\n[Am]you This is typical love\n[F]love Can't wait anymore, I won't\n[C]wait I need to tell you how I feel when I see us togeth-\n[G]er forever In my\n\n[Chorus]\n[C]dreams you're with\n[G]me We'll be ev-\n[F]erything I want us to be\n[G]And from\n[C]there, who knows,\n[G]maybe\n[F]this will be the night that we kiss\n[G]for the first time Or is\n[F]that just me and my\n[Fm]imagination\n\n[Verse 2]\n[Am]We walk, we laugh, we spend our time\n[F]walking by the ocean side\n[C]My hands are gently intertwined\n[G]A feeling I just can't describe\n[Am]And all this time you spent alone,\n[F]thinking we could not belong\n[C]to something so damn beautiful\n[G]So damn beautiful\n\n[Pre-Chorus]\n[Am]I keep craving, craving,\n[F]you don't know it but\n[C]it's true Can't get my mouth\n[G]to say the words they wanna say\n[Am]to you This is typical love\n[F]love Can't wait anymore, I won't wait\n[C]I need to tell you how I feel when I see us togeth-\n[G]er forever In my\n\n[Chorus]\n[C]dreams you're with\n[G]me We'll be ev-\n[F]erything I want us to be\n[G]And from\n[C]there, who knows,\n[G]maybe\n[F]this will be the night that we kiss\n[G]for the first time Or is\n[F]that just me and my\n[Fm]imagination\n\n[Bridge]\n[Am]\n[F]Imagina tion\n[Am]\n[F]Imagina tion\n[C]\n[G]\n[F]\n[G]In my\n\n[Chorus]\n[C]dreams you're with\n[G]me We'll be ev-\n[F]erything I want us to be\n[G]And from\n[C]there, who knows,\n[G]maybe\n[F]this will be the night that we kiss\n[G]for the first time Or is\n[F]that just me and my\n[Fm]imagination\n\n[Outro]\n[Am]I keep craving, craving,\n[F]you don't know it but it's\n[C]true Can't get my mouth to\n[G]say the words they wanna say to\n[C]you",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Imagination",
+  "id": "cd24796edef4e8774e717ec0535a80104292cfa67f3742e5968595870d67e56e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 411,
+  "normalizedKey": "shawn mendes|imagination",
+  "playableChords": [
+    "Am",
+    "F",
+    "C",
+    "G",
+    "Fm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 76,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cd24796edef4e8774e717ec0535a80104292cfa67f3742e5968595870d67e56e",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Imagination",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

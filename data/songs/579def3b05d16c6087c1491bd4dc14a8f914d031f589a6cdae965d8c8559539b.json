@@ -1,0 +1,76 @@
+{
+  "artist": "Riverside",
+  "artistNormalized": "riverside",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E5]\n[Bmadd11/D]\n[Asus2]\n[E5]\n\n[Verse 1]\n[E5]Night outside grows white\nI lie\n[Bmadd11/D]faceup in my shell\nOpen\n[Asus2]my eyes Don't feel like fal-\n[E5]ling into blank space\nHad al-\nlowed that life to drift\nFor I've\n[Bmadd11/D]chosen different trail\nWhen darkness\n[Asus2]fades Don't feel like fal-\n[E5]ling into blank space\nWant to be your\n\n[Chorus]\n[E5/B]light Il-\n[Asus2]luminate your smiles\n[E5]\nWant to be your\n[E5/B]cure Bridge bet-\n[Asus2]ween self and us\n[E5]\nWant to be your\n[E5/B]prayer Wipe the\n[Asus2]tears from your eyes\n[E5]\nWhen the\n[E5/B]night returns\n[Asus2]I won't collapse\n[E5]\nI am\n[E5/B]set to rise\n[Asus2]\n\n[Outro]\n[E5]",
+  "diagrams": {
+    "Asus2": {
+      "catalog": [
+        "x89988"
+      ],
+      "catalogCount": 1
+    },
+    "Bmadd11/D": {
+      "catalog": [
+        "x59944"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x79966"
+      ],
+      "catalogCount": 1
+    },
+    "E5/B": {
+      "catalog": [
+        "779966"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Coda",
+  "id": "579def3b05d16c6087c1491bd4dc14a8f914d031f589a6cdae965d8c8559539b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 99,
+  "normalizedKey": "riverside|coda",
+  "playableChords": [
+    "E5",
+    "Bmadd11/D",
+    "Asus2",
+    "E5/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "579def3b05d16c6087c1491bd4dc14a8f914d031f589a6cdae965d8c8559539b",
+    "version": "BCFZ"
+  },
+  "tempo": 122,
+  "title": "Coda",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

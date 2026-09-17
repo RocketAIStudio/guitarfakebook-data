@@ -1,0 +1,153 @@
+{
+  "artist": "Rex Orange County",
+  "artistNormalized": "rex orange county",
+  "capo": "No capo",
+  "chordPositionCount": 43,
+  "chordSymbolCount": 11,
+  "content": "[Verse 1]\n[Amaj7]I make enough mistakes And it\n[F#m7]feels like she's the only one that [F#7]hears the things I say So\n[Bm7]if for any reason there's some miscommunication or I'm\n[Bm7b5]lying to her face My\n[Amaj7]immaturity and habits gettin' in the way 'Cause\n[F#m7]I can barely breathe and I don't [F#7]know how I'll explain myself\n[Bm7]this time Wish it wasn't a\n[Bm7b5]case of \"this time\" But why can't I be\n[Amaj7]any other boy That\n[Em6]doesn't need a hand in\n[Dmaj7]love? Someone that I\n[E7]would trust But how did I\n\n[Verse 2]\n[Amaj7]fail To give you all the\n[Em6]love that you deserve?\n[Dmaj7]When you're the only\n[G#dim7]thing that's worth What [C#7]life is worth And\n[F#m7]I don't mind if you hate me 'Cause\n[F#7]baby if I were you\n[Bm7]I would probably [Bm7b5]hate me too\n[Amaj7]I said that\n[F#m7]I don't mind if you hate me 'Cause\n[F#7]baby if I were you\n[Bm7]I would probably [Bm7b5]hate me too\n[Amaj7]\n\n[Outro]\n[Amaj7]\n[Em6]\n[Dmaj7]\n[E7]\n[Amaj7]\n[Em6]\n[Dmaj7]\n[E7]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Amaj7": {
+      "catalog": [
+        "x02120",
+        "5-4-2-2-2-4",
+        "5-7-6-6-5-5",
+        "x-x-7-9-9-9",
+        "x-12-11-9-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7b5": {
+      "catalog": [
+        "x2323x"
+      ],
+      "catalogCount": 1
+    },
+    "C#7": {
+      "catalog": [
+        "x46464",
+        "x-4-3-4-2-1",
+        "9-8-6-6-6-7",
+        "9-11-9-10-9-9",
+        "x-x-11-13-12-13"
+      ],
+      "catalogCount": 5
+    },
+    "Dmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9",
+        "10-12-11-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em6": {
+      "catalog": [
+        "042000"
+      ],
+      "catalogCount": 1
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "242222",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14",
+        "x-21-23-21-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#dim7": {
+      "catalog": [
+        "4x3434"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Untitled",
+  "id": "5a355b97beb265e640c9c45f366bcc6e246b43f0b1cb53711a1bdf662868740d",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 184,
+  "normalizedKey": "rex orange county|untitled",
+  "playableChords": [
+    "Amaj7",
+    "F#m7",
+    "F#7",
+    "Bm7",
+    "Bm7b5",
+    "Em6",
+    "Dmaj7",
+    "E7",
+    "G#dim7",
+    "C#7",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5a355b97beb265e640c9c45f366bcc6e246b43f0b1cb53711a1bdf662868740d",
+    "version": "BCFZ"
+  },
+  "tempo": 60,
+  "title": "Untitled",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

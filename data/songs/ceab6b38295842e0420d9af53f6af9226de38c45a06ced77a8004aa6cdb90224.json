@@ -1,0 +1,112 @@
+{
+  "artist": "Shawn Mendes",
+  "artistNormalized": "shawn mendes",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Fm]I can't get much higher\n\n[Verse 1]\n[Fm]New York in summertime\nGet close with a bottle of wine\nLast year was a broken heart\nLast year was a broken heart\n[Bbm]Last year was a broken heart Damn,\n[Cm]flip it around, what a beautiful start\n[Fm]You and me on the top of the roof\nSlow dance in the light of the moon\nNever thought it would get this far\nNever thought it would get this far, no\n[Bbm]Never thought it would get this far Wow,\n[Cm]flip it around, what a beautiful start The\n\n[Chorus]\n[Fm]drinks are gettin' better, the\nview is lookin' nice As\nlong as we're together, no,\nI can't get much higher, I,\n[Bbm]I No,\n[Cm]I can't get much higher Let's\n[Fm]stay like this forever, I'll\nkiss you every night As\nlong as we're together, no,\nI can't get much higher, I,\n[Bbm]I No,\n[Cm]I can't get much higher\n\n[Bridge]\n[Fm]\n\n[Verse 2]\n[Fm]All eyes are lookin' at us\nBut I can't stop fallin' in love\nAlways been the one that I want, yeah\nAlways been the one that I want, yeah\n[Bbm]Always been the one that I want Wow,\n[Cm]look at us now, damn what have I done?\n[Fm]I almost can't be-\nlieve it\nSo please don't wake me if I'm\ndreamin'\n[Bbm]Whenever I'm with\n[Cm7]you The\n\n[Chorus]\n[Fm]drinks are gettin' better, the\nview is lookin' nice As\nlong as we're together, no,\nI can't get much higher, I,\n[Bbm]I No,\n[Cm]I can't get much higher Let's\n[Fm]stay like this forever, I'll\nkiss you every night As\nlong as we're together, no,\nI can't get much higher, I,\n[Bbm]I No,\n[Cm]I can't get much higher\n\n[Interlude]\n[Fm]Say,\nsay you won't let\ngo\nAll I\n[Bbm]know, ohoh Is\n[Cm]I can't get much higher\nI can't get much higher The\n\n[Chorus]\n[Fm]drinks are gettin' better, the\nview is lookin' nice As\nlong as we're together, no,\nI can't get much higher, I,\n[Bbm]I No,\n[Cm]I can't get much higher Let's\n[Fm]stay like this forever, I'll\nkiss you every night As\nlong as we're together, no,\nI can't get much higher, I,\n[Bbm]I No,\n[Cm]I can't get much higher\n\n[Outro]\n[Fm]",
+  "diagrams": {
+    "Bbm": {
+      "catalog": [
+        "x13321",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13",
+        "18-20-20-18-18-18"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Cm7": {
+      "catalog": [
+        "x35343",
+        "8-10-8-8-8-8",
+        "x-x-10-12-11-11",
+        "x-15-17-15-16-15",
+        "20-22-20-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Higher",
+  "id": "ceab6b38295842e0420d9af53f6af9226de38c45a06ced77a8004aa6cdb90224",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 418,
+  "normalizedKey": "shawn mendes|higher",
+  "playableChords": [
+    "Fm",
+    "Bbm",
+    "Cm",
+    "Cm7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Interlude"
+    },
+    {
+      "measure": 64,
+      "name": "Chorus"
+    },
+    {
+      "measure": 76,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ceab6b38295842e0420d9af53f6af9226de38c45a06ced77a8004aa6cdb90224",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Higher",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

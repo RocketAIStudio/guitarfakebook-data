@@ -1,0 +1,99 @@
+{
+  "artist": "Skip James",
+  "artistNormalized": "skip james",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Dm]\nI'd\n\n[Verse 1]\n[Am/E]rather be the devil,\nto be that woman man\n[Dm]\nI'd\n[Am/E]rather be the devil,\nto be that woman\n[Dm]man\nAw,\n\n[Verse 2]\n[Am/E]nothin' but the devil,\nchanged my baby's\n[Dm]mind\nWas\n[Am/E]nothin' but the devil,\nchanged my baby's\n[Dm]mind\nI\n\n[Verse 3]\nlaid down last night,\n[Dm/A]laid down last night I\n[Am/E]laid down last night,\ntried to take my\n[Dm]rest\nMy\n[Am/E]mind got to ramblin',\nlike a wild geese From the\n[Dm]west, from the west\n\n[Verse 4]\nThe woman I love,\n[Dm/A]woman that I loved\n[Am/E]Woman I loved,\ntook her from my\n[Dm]best friend\nBut\n[Am/E]he got lucky,\nstoled her back a-\ngain\n[Dm]\nBut\n[Am/E]he got lucky,\nstoled her back a-\n[Dm]gain\n\n[Outro]\n[A]\n[Dm/A]\n[D/A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0244x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am/E": {
+      "catalog": [
+        "xx2432"
+      ],
+      "catalogCount": 1
+    },
+    "D/A": {
+      "catalog": [
+        "x0010x"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "0534xx",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm/A": {
+      "catalog": [
+        "x0000x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Devil Got My Woman",
+  "id": "500bb36549456a3c739d0e346d9ca4cc1746658242e0916d12b7ee48bfae47ce",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 118,
+  "normalizedKey": "skip james|devil got my woman",
+  "playableChords": [
+    "Dm",
+    "Am/E",
+    "Dm/A",
+    "A",
+    "D/A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "500bb36549456a3c739d0e346d9ca4cc1746658242e0916d12b7ee48bfae47ce",
+    "version": "BCFZ"
+  },
+  "tempo": 81,
+  "title": "Devil Got My Woman",
+  "tuning": "D A D F A D",
+  "variantRole": "primary"
+}

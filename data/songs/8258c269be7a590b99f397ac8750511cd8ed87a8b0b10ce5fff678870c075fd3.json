@@ -1,0 +1,109 @@
+{
+  "artist": "Screeching Weasel",
+  "artistNormalized": "screeching weasel",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C#5]\n[E5]  [A5]\n[B5]\n\n[Interlude]\n[C#5]\n[E5]  [A5]\n[B5]\n[C#5]\n[E5]  [A5]\n[B5]\n\n[Verse 1]\n[C#5]Don't want to\n[E5]ruin your [A5]whole\n[B5]day\n[C#5]But there's just\n[E5]something I [A5]got to\n[B5]say\n[C#5]You got to\n[A5][E5]understand it's\n[B5]hard\n[C#5]Everyday\n[E5]it tears [A5]me a-\n[B5]part\n\n[Chorus]\n[A5]Don't want to\n[E5]lose you\n[A5]Don't want to\n[E5]lose you\n[A5]Don't want to\n[B5]lose you\nto another\n\n[Interlude]\n[C#5]guy\n[E5]  [A5]\n[B5]\n[C#5]\n[E5]  [A5]\n[B5]\n\n[Verse 2]\n[C#5]I sit in-\n[E5]side my [A5]room all\n[B5]night\n[C#5]I think a-\n[E5]bout you [A5]all the\n[B5]time\n[C#5]Don't know what's\n[E5]wrong but [A5]I'm com-\n[B5]fused\n[C#5]Why am I\n[E5]scared of [A5]losing\n[B5]you?\n\n[Chorus]\n[A5]Don't want to\n[E5]lose you\n[A5]Don't want to\n[E5]lose you\n[A5]Don't want to\n[B5]lose you\nto another\n\n[Interlude]\n[C#5]guy\n[E5]  [A5]\n[B5]\n[C#5]\n[E5]  [A5]\n[B5]\n\n[Verse 3]\n[C#5]I sit in-\n[E5]side my [A5]room all\n[B5]night\n[C#5]I think a-\n[E5]bout you [A5]all the\n[B5]time\n[C#5]Don't know what's\n[E5]wrong but [A5]I'm com-\n[B5]fused\n[C#5]Why am I\n[E5]scared of [A5]losing\n[B5]you?\n\n[Chorus]\n[A5]Don't want to\n[E5]lose you\n[A5]Don't want to\n[E5]lose you\n[A5]Don't want to\n[B5]lose you\nto another\n\n[Interlude]\n[C#5]guy\n[E5]  [A5]\n[B5]\nTo another\n[C#5]guy\n[E5]  [A5]\n[B5]\nTo another\n[C#5]guy\n[E5]  [A5]\n[B5]\nTo another\n[C#5]guy\n[E5]  [A5]\n[B5]\n\n[Outro]\n[B5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "My Song",
+  "id": "8258c269be7a590b99f397ac8750511cd8ed87a8b0b10ce5fff678870c075fd3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 170,
+  "normalizedKey": "screeching weasel|my song",
+  "playableChords": [
+    "C#5",
+    "E5",
+    "A5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Interlude"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Interlude"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 71,
+      "name": "Interlude"
+    },
+    {
+      "measure": 79,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 95,
+      "name": "Chorus"
+    },
+    {
+      "measure": 104,
+      "name": "Interlude"
+    },
+    {
+      "measure": 120,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8258c269be7a590b99f397ac8750511cd8ed87a8b0b10ce5fff678870c075fd3",
+    "version": "BCFZ"
+  },
+  "tempo": 210,
+  "title": "My Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

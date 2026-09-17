@@ -1,0 +1,124 @@
+{
+  "artist": "Rise Against",
+  "artistNormalized": "rise against",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 8,
+  "content": "[B5]\n\n[Verse 1]\n[G5][C5]Buried [Eb5]words [Bb5][Ab5]\n[G5][C5]Under [Eb5]lights [Bb5][Ab5]\n[G5][C5]Soundtrack [Eb5]to [Bb5][Ab5]this\n[G5][C5]stagnant [Eb5]life [Bb5][Ab5]This\n[G5][C5]meaning [Eb5]lost [Bb5][Ab5]in\n[Eb5][G5][C5]translation [Bb5][Ab5]\nMessage sucked\n[C5][G5][Eb5]out of [F5]his [G5]hands a-\n\n[Chorus]\n[Ab5]gain And this could\n[Bb5]be my [Ab5]\n[G5]great a-\n[C5]wakening But\n[Ab5]how would\n[Bb5]I know [Ab5]\n[G5]Cause it's all\n[C5]noise [Bb5]to [Ab5]me [G5]\n[Ab5]Are these words\n[Bb5]falling on deaf\n[C5]ears? [B5]\n\n[Verse 2]\n[G5][C5]Staring [Eb5]at [Bb5][Ab5]the\n[G5][C5]empty [Eb5]stares [Bb5][Ab5]\n[Eb5][G5][C5]Realize [Bb5][Ab5]that\n[C5]he [G5]no [Ab5][Bb5][Eb5]longer\n[C5]cares [Eb5][G5]about [Bb5][Ab5]the\n[C5]wrong [G5]or [Eb5]right [Bb5][Ab5]The\n[G5][C5]downward [F5][Eb5]spiral [G5]\n[Eb5][C5][G5]begins [F5][G5]to-\n\n[Chorus]\n[Ab5]night And this could\n[Bb5]be my [Ab5]\n[G5]great a-\n[C5]wakening But\n[Ab5]how would\n[Bb5]I know [Ab5]\n[G5]Cause it's all\n[C5]noise [Bb5]to [Ab5]me [G5]\n[Ab5]Are these words\n[Bb5]falling on deaf\n[C5]ears? [B5]\n\n[Bridge]\n[C5]\n[F5]  [Ab5]\n[G5]  [Ab5]\n[G5]  [B5]\n[C5]\n[F5]  [Ab5]\n[G5]  [Ab5]\n[G5]  [Eb5]  [B5]\n\n[Interlude]\n[C5]  [Ab5]\n[C5]  [Ab5]\n[C5]\n[G5]\n\n[Chorus]\n[Ab5]And this could\n[Bb5]be my [Ab5]\n[G5]great a-\n[C5]wakening But\n[Ab5]how would\n[Bb5]I know [Ab5]\n[G5]Cause it's all\n[C5]noise [Bb5]to [Eb5]me [D5]\n[Ab5]Nothing I can\n[Bb5]do will make you\n[C5]hear [B5]\n[C5]",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "466xxx",
+        "x-11-13-13-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "B5": {
+      "catalog": [
+        "x244xx",
+        "799xxx"
+      ],
+      "catalogCount": 2
+    },
+    "Bb5": {
+      "catalog": [
+        "688xxx",
+        "x-13-15-15-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "C5": {
+      "catalog": [
+        "x355xx",
+        "8-10-10-x-x-x",
+        "x-15-17-17-x-x"
+      ],
+      "catalogCount": 3
+    },
+    "D5": {
+      "catalog": [
+        "x-x-12-14-15-x"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "x688xx",
+        "x-x-13-15-16-x"
+      ],
+      "catalogCount": 2
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x",
+        "133xxx"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "355xxx",
+        "x-10-12-12-x-x"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Great Awakening *alt",
+  "id": "ed7f4603382c4b20f42d039ddc54e771338afb7c6858104a6392dff2ac8a2edb",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 149,
+  "normalizedKey": "rise against|great awakening",
+  "playableChords": [
+    "B5",
+    "C5",
+    "G5",
+    "Eb5",
+    "Bb5",
+    "Ab5",
+    "F5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Bridge"
+    },
+    {
+      "measure": 48,
+      "name": "Interlude"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ed7f4603382c4b20f42d039ddc54e771338afb7c6858104a6392dff2ac8a2edb",
+    "version": "BCFZ"
+  },
+  "tempo": 157,
+  "title": "Great Awakening",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

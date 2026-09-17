@@ -1,0 +1,148 @@
+{
+  "artist": "Rick and Morty",
+  "artistNormalized": "rick and morty",
+  "capo": "1",
+  "chordPositionCount": 40,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Fmaj7]  [C]\n[Em]\n[Fmaj7]  [C]\n[Em]\n\n[Verse 1]\n[Fmaj7]The world can be [C]one together\n[Em]Cosmos without hatred\n[Fmaj7]Stars like [C]diamonds in your eye-\n[Em]s\n[Fmaj7]The ground can be [C]space, space,\n[Em]space, space, space With\n[Fmaj7]feet marching [C]towards a peaceful sky\n[E7]\n\n[Bridge]\n[Am]All the moonmen [Em]want things their\n[G]way But we\n[Am]make sure they [Em]see the su-\n[F]n Good-\n\n[Chorus]\n[C]bye\n[E7]moonmen We say good-\n[F]bye\n[Fm]moonmen Good-\n[C]bye\n[E7]moonmen Good-\n[F]bye\n[Fm]moonmen Oh\n[Fmaj7]goodbye [C]\n[Em]\n[Fmaj7]  [C]\n[Em]\n\n[Verse 2]\n[Fmaj7]Cosmos without [C]hatred\n[Em]Diamond stars of cosmic light\n[Fmaj7]Quasars [C]shine through endless\n[E7]night And every-\n\n[Bridge]\n[Am]thing is [Em]one in the\n[F]beauty And now we say goodb-\n\n[Chorus]\n[C]ye\n[E7]moonman We say good-\n[F]bye\n[Fm]moonmen Good-\n[C]bye\n[E7]moonmen Good-\n[F]bye\n[Fm]moonmen Oh\n[C]goodbye",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "020130",
+        "xx2434",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "xx3210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Goodbye Moonmen",
+  "id": "fa5ad28d8d1ccb78e3b1213a845881dc7bdd581455c6f3e21fb36aef4ab908ca",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 146,
+  "normalizedKey": "rick and morty|goodbye moonmen",
+  "playableChords": [
+    "Fmaj7",
+    "C",
+    "Em",
+    "E7",
+    "Am",
+    "G",
+    "F",
+    "Fm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Bridge"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fa5ad28d8d1ccb78e3b1213a845881dc7bdd581455c6f3e21fb36aef4ab908ca",
+    "version": "BCFZ"
+  },
+  "tempo": 74,
+  "title": "Goodbye Moonmen",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

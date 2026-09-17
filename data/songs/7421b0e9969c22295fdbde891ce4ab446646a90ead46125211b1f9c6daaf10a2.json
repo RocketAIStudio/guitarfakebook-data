@@ -1,0 +1,130 @@
+{
+  "artist": "Rinoa",
+  "artistNormalized": "rinoa",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[C#m]I\nroamed\n[A]beyond laws of ti-\n[B]me\n[C#m]Severed from\n[A]beacons of light\n[B]\n[C#m]The agony\n[A]of the unknown\n[B]\n[C#m]Navigate\n[A]throught the\n[B]smoke\n\n[Verse 2]\n[C#m]A sister\n[A]lays with a\n[B]brave heart\n[C#m]Ground vibrates,\n[A]birds flee and\n[B]soar\n[D]\n[C#m]Sweet lady\n[A]fly you are\n[B]free\n[C#m]Bound by blood\n[A]always be with\n[B]me\n[D]\n\n[Break 1]\n[A]\n[F#m]\n[D]\n[E]\n\n[Bridge 1]\n[A]\n[F#m]\n[D]\n[E]\n[A]\n[F#m]\n[D]\n[E]\n[A]\n[F#m]\n[D]\n[E]\n\n[Bridge 2]\n[C#m]I'll\n[A]wait\n[B]for\nspring,\n[C#m]her\n[A]throne\n[B]will\nshine a-\n\n[Break 2]\n[C#m]gain\n\n[Outro 1]\n[C#m]Trees sit stripped\nof leaves\nThe morning freeze\neats me\nRowed my boat\nout to sea\nHer memory\nis in me\nFading land\ndraped in white\nEndless waves\ncaught my eye\nDrifting beneath the for-\nsaken sky [E]\n[C#m]Helpless and lost to\nhands [E]of\n\n[Outro 2]\n[D]time",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x32010",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "xx0232",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "022000",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "133211",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "320003",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "x02210",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Memory",
+  "id": "7421b0e9969c22295fdbde891ce4ab446646a90ead46125211b1f9c6daaf10a2",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 124,
+  "normalizedKey": "rinoa|memory",
+  "playableChords": [
+    "C#m",
+    "A",
+    "B",
+    "D",
+    "F#m",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Break 1"
+    },
+    {
+      "measure": 43,
+      "name": "Bridge 1"
+    },
+    {
+      "measure": 67,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 75,
+      "name": "Break 2"
+    },
+    {
+      "measure": 79,
+      "name": "Outro 1"
+    },
+    {
+      "measure": 95,
+      "name": "Outro 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7421b0e9969c22295fdbde891ce4ab446646a90ead46125211b1f9c6daaf10a2",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Memory",
+  "tuning": "C# F# B E G# C#",
+  "variantRole": "primary"
+}

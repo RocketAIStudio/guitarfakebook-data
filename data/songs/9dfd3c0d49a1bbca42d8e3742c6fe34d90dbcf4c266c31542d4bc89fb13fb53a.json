@@ -1,0 +1,120 @@
+{
+  "artist": "Red Hot Chili Peppers",
+  "artistNormalized": "red hot chili peppers",
+  "capo": "7",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[Em]\n[G]\n[Em]\n[C]\n[D]\n[G]\n[Em]\n[G]\n[Em]Cab-\n\n[Chorus]\n[G]ron, cab-\n[Em]ron Cab-\n[G]ron, cab-\n[Em]ron\n\n[Verse 1]\n[G]I see you in the park, you're\n[Em]always wearing Dodger blue\n[G]Mad doggin' me and any-\n[Em]one from any other crew\n[C]I am small but I'm strong,\n[D]I'll get it on with you\n[G]If you want me\n[Em]to,\n[G]what else can I\n[Em]do?\n[C]Everyone would take a cue\n[D]from anything you do\n[G]If you want them\n[Em]to,\n[G]what else can they\n[Em]do?\n[C]I don't want to fight, I\n[D]want to get along with you\n[C]This time of night's for singing songs\n[D]about the local news\n\n[Interlude]\n[G]\n[Em]\n[G]\n[Em]Cab-\n\n[Chorus]\n[G]ron, cab-\n[Em]ron Cab-\n[G]ron, cab-\n[Em]ron\n\n[Verse 2]\n[G]I'll come around and make peace,\n[Em]get down, have a barbeque\n[G]Let's keep the moon awake and\n[Em]do electric boogaloo\n[C]I am small but I'm strong,\n[D]you see I'm just like you\n[G]If you only\n[Em]knew\n[G]that I'm just like\n[Em]you\n[C]All the world would take a cue\n[D]from anything you do\n[G]If you only\n[Em]knew\n[G]that they're just like\n[Em]you\n[C]I don't want to fight, I\n[D]want to get along with you\n[C]This time of night's for singing songs\n[D]about the local news\n\n[Solo]\n[G]\n[Em]\n[G]\n[Em]\n[G]\n[Em]\n[G]\n[Em]\n\n[Bridge]\n[C]I don't want to fight, I\n[D]want to get along with you\n[C]This time of night's for singing songs\n[D]about the local news\n\n[Chorus]\n[G]Cabron, cab-\n[Em]ron\n[G]Cabron, cab-\n[Em]ron\n[G]Cabron, cab-\n[Em]ron\n[G]Cabron, cab-\n[Em]ron\n\n[Verse 3]\n[G]If you want me\n[Em]to,\n[G]what else can I\n[Em]do?\n[G]'Cause I'm just like\n[Em]you\n[G]if you only\n[Em]knew\n\n[Outro]\n[G]Cabron, cab-\n[Em]ron\n[G]Cabron, cab-\n[Em]ron\n[G]Cabron, cab-\n[Em]ron\n[G]Cabron, cab-\n[Em]ron\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Cabron *alt 2",
+  "id": "9dfd3c0d49a1bbca42d8e3742c6fe34d90dbcf4c266c31542d4bc89fb13fb53a",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 295,
+  "normalizedKey": "red hot chili peppers|cabron",
+  "playableChords": [
+    "G",
+    "Em",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 35,
+      "name": "Interlude"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 63,
+      "name": "Solo"
+    },
+    {
+      "measure": 71,
+      "name": "Bridge"
+    },
+    {
+      "measure": 75,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 91,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9dfd3c0d49a1bbca42d8e3742c6fe34d90dbcf4c266c31542d4bc89fb13fb53a",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Cabron",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

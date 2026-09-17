@@ -1,0 +1,93 @@
+{
+  "artist": "Simon & Garfunkel",
+  "artistNormalized": "simon garfunkel",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Chorus]\n[C]Cilia, you're\n[F]breaking my heart [C]You're\n[F]shaking my [C]confidence dai-\n[G]ly Oh, Ce-\n[C][F]cilia, I'm\n[F]down on my knees [C]I'm\n[F]begging you please [C]to come home\n[G]\n[C]Cilia, you're\n[F]breaking my heart [C]You're\n[F]shaking my [C]confidence dai-\n[G]ly Oh, Ce-\n[C][F]cilia, I'm\n[F]down on my knees [C]I'm\n[F]begging you please [C]to come home\n[G]Come on home\n[C]\n\n[Verse 1]\n[C]Making love in the\n[C][F]afternoon with Ce-\ncilia [F]Up in my\n[G]bedroom [C]\nI got up to wash\n[F]my face [C]When I\ncome back to bed [F]Someone's ta-\n[G]ken my place [C]\n\n[Chorus]\n[C]Cilia, you're\n[F]breaking my heart [C]You're\n[F]shaking my [C]confidence dai-\n[G]ly Oh, Ce-\n[C][F]cilia, I'm\n[F]down on my knees [C]I'm\n[F]begging you please [C]to come home\n[G]Come on home\n\n[Interlude]\n[C]Oh oh\n[F]oh oh Oh [C]oh oh oh\n[F]oh oh [C]oh oh oh\n[G]oh\n[C]\n[F]  [C]\n[F]  [C]\n[G]\n[F]  [C]\n[F]  [C]\n[F]  [C]\n[G]Jubi-\n\n[Chorus]\n[C][F]lation, she\n[F]loves me again [C]I\n[F]fall on the floor [C]and I'm laug-\n[G]hing Jubi-\n[C][F]lation, she\n[F]loves me again [C]I\n[F]fall on the floor [C]and I'm laug-\n[G]hing Oh oh\n\n[Outro]\n[F]oh [C]oh oh\n[F]oh oh oh oh [C]Oh\n[F]oh oh oh oh [C]oh oh oh\n[G]oh Oh oh\n[F]oh [C]oh oh\n[F]oh oh oh oh [C]Oh\n[F]oh oh oh oh [C]oh oh oh\n[G]oh Oh oh\n\n[Fade Out]\n[F]oh [C]oh oh\n[F]oh oh oh oh [C]Oh\n[F]oh oh oh oh [C]oh oh oh\n[G]oh",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Cecilia",
+  "id": "895d42cc025ef6e05e4f81ff81fb664b0601c9efddd2768745a8d99a13b624cc",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 246,
+  "normalizedKey": "simon garfunkel|cecilia",
+  "playableChords": [
+    "C",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 6,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Interlude"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    },
+    {
+      "measure": 67,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "895d42cc025ef6e05e4f81ff81fb664b0601c9efddd2768745a8d99a13b624cc",
+    "version": "BCFZ"
+  },
+  "tempo": 103,
+  "title": "Cecilia",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

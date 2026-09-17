@@ -1,0 +1,92 @@
+{
+  "artist": "Riverside",
+  "artistNormalized": "riverside",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[Am]I'm stuck between myself\n[G6]and me\n[Dm9]Pretty sure at this time\n[Em7]\n[Am]The more I see the\n[G6]less I feel\n[Dm9]But I don't want it to stop\n[Em7]Read my\n\n[Chorus]\n[Am]fortune Now I can\n[G6]Know you fore-\n[Dm9]ver will be there\n[Em7]I am aris-\n[Am]ing I will stay\n[G6]for you And I\n[Dm9]know I will care\n[Em7]\n\n[Verse 2]\n[Am]Please tell me why I still\n[G6]recall\n[Dm9]Know it has to be good\n[Em7]\n[Am]It wouldn't be so\n[G6]hard if I\n[Dm9]Were not so frightened for you\n[Em7]Read my\n\n[Chorus]\n[Am]fortune Now I can\n[G6]Know you fore-\n[Dm9]ver will be there\n[Em7]I am aris-\n[Am]ing I will stay\n[G6]for you And I\n[Dm9]know I will care\n[Em7]I am aris-\n[Am]ing I will stay\n[G6]for you And I\n[Dm9]know I will care\n[Em7]I am aris-\n[Am]ing I will stay\n[G6]for you And I\n[Dm9]know I will care\n[Em7]I am aris-\n[Am]ing I will stay\n[G6]for you And I\n[Dm9]know I will care\n[Em7]I am aris-\n[Am]ing I will stay\n[G6]for you And I\n[Dm9]know I will care\n[Em7]I am aris-\n\n[Guitar Solo]\n[Am]ing I will stay\n[G6]for you And I\n[Dm9]know I will care\n[Em7]I am aris-\n[Am]ing I will stay\n[G6]for you And I\n[Dm9]know I will care\n[Em7]I am aris-\n[Am]ing I will stay\n[G6]for you And I\n[Dm9]know I will care\n[Em7]I am aris-\n[Am]ing I will stay\n[G6]for you And I\n[Dm9]know I will care\n[Em7]I am aris-\n\n[Outro]\n[Am]ing I will stay\n[G6]for you And I\n[Dm9]know I will care\n[Em7]I am aris-\n[Am]ing I will stay\n[G6]for you And I\n[Dm9]know I will care\n[Em7]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm9": {
+      "catalog": [
+        "x5355x"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320430"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Stuck Between",
+  "id": "e42eebafb3db0d82921c5b70dec91ff2835a61d30b1cd50f479323c1fd91d19c",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 280,
+  "normalizedKey": "riverside|stuck between",
+  "playableChords": [
+    "Am",
+    "G6",
+    "Dm9",
+    "Em7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e42eebafb3db0d82921c5b70dec91ff2835a61d30b1cd50f479323c1fd91d19c",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "Stuck Between",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

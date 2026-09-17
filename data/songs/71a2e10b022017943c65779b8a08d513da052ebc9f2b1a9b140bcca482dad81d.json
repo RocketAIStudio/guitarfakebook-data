@@ -1,0 +1,131 @@
+{
+  "artist": "Rammstein",
+  "artistNormalized": "rammstein",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C#m]\nJa, ja,\nja\nJa, ja,\nja\n\n[Verse 1]\n[C#m]Meine Sachen\nwill ich pflegen Den\nRest in Schutt und\nAsche legen Zer-\nreißen zer-\nschmeißen Zer-\ndrücken zer-\npflücken Ich\ngeh am Garten-\nzaun entlang\nWieder spür ich\ndiesen Drang\nIch muß zer-\n\n[Chorus]\n[C#m]störe-\nn\nJa, ja,\nja\n[D]Doch es darf nicht\nmir gehören\n[C#m]\nIch muß zer-\nstöre-\nn\nJa, ja,\nja\n[D]Doch es darf nicht\nmir gehören\n[F#m]Nei-\nn\n\n[Interlude]\n[C#m]\nIch\n\n[Verse 2]\n[C#m]nehme eure\nSiebensachen\nWerde sie zu-\nnichte machen Zer-\nsägen zer-\nlegen Nicht\nfragen zer-\nschlagen Und\njetzt die Königs-\ndisziplin Ein\nKöpfchen von der\nPuppe ziehen Ver-\nletzen zer-\nfetzen zer-\nsetzen\nZer-\n\n[Chorus]\n[C#m]störe-\nn\nJa, ja,\nja\n[D]Doch es darf nicht\nmir gehören\n[C#m]\nIch muß zer-\nstöre-\nn\nJa, ja,\nja\n[D]Doch es darf nicht\nmir gehören\n[F#m]Nei-\nn\n\n[Solo]\n[C#m]\n\n[Break]\n[C#m]\nIch\n[Bm]würde gern et-\nwas zerstören\n[A]\n[D]Doch es darf nicht\nmir gehören Ich\n[A]will ein guter\nJunge sein Doch\n[Bm]das Verlangen\nholt mich ei-\n[F#m]n\nIch muß zer-\n\n[Chorus]\n[C#m]störe-\nn\nJa, ja,\nja\n[D]Doch es darf nicht\nmir gehören\n[C#m]\nIch muß zer-\nstöre-\nn\nJa, ja,\nja\n[D]Doch es darf nicht\nmir gehören\n[F#m]Nei-\nn Zer-\n\n[Outro 1]\n[C#m]reißen zer-\nschmeißen Zer-\ndrücken zer-\npflücken Zer-\nhauen und\nklauen Nicht\nfragen zer-\nschlagen Zer-\nfetzen ver-\nletzen Zer-\nbrennen dann\nrennen Zer-\nsägen zer-\nlegen Zer-\nbrechen sich\nrächen\nJa,\nja,\nja\nJa,\nja,\nja\nJa\n\n[Outro 2]\n[C#m]\nEr traf ein Mädchen,\ndas war blind\nGeteiltes Leid und\ngleichgesinnt\nSah einen Stern vom\nHimmel gehen\nUnd wünschte sich sie\nkönnte sehn\nSie hat die Augen\naufgemacht\nVerließ ihn noch zur\nselben\nNacht",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x24442",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x46654",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "111342",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "222454",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "666897",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Zerstoren",
+  "id": "71a2e10b022017943c65779b8a08d513da052ebc9f2b1a9b140bcca482dad81d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 349,
+  "normalizedKey": "rammstein|zerstoren",
+  "playableChords": [
+    "C#m",
+    "D",
+    "F#m",
+    "Bm",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 48,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Interlude"
+    },
+    {
+      "measure": 72,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 88,
+      "name": "Chorus"
+    },
+    {
+      "measure": 104,
+      "name": "Solo"
+    },
+    {
+      "measure": 120,
+      "name": "Break"
+    },
+    {
+      "measure": 136,
+      "name": "Chorus"
+    },
+    {
+      "measure": 152,
+      "name": "Outro 1"
+    },
+    {
+      "measure": 183,
+      "name": "Outro 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "71a2e10b022017943c65779b8a08d513da052ebc9f2b1a9b140bcca482dad81d",
+    "version": "BCFZ"
+  },
+  "tempo": 166,
+  "title": "Zerstoren",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

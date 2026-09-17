@@ -1,0 +1,94 @@
+{
+  "artist": "Santana",
+  "artistNormalized": "santana",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n[Am7]  [D9]\nRrr, sa-\n[Am7]bor! [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n\n[The Lick]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]\n[D9]\n[Am7]  [D9]\n[Am7]  [D9]\n\n[Chorus]\n[Am7]Oye cómo va [D9]\nmi ritmo\n[Am7]Bueno pa' gozar, [D9]\nmulata\n[Am7]Oye cómo va [D9]\nmi ritmo\n[Am7]Bueno pa' gozar, [D9]\nmulata\n[Am7]\n[D9]\n\n[Guitar Solo 1]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n\n[Interlude]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]\n\n[Organ Solo]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n\n[Break]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]\n[D9]\n\n[Chorus]\n[Am7]Oye cómo va [D9]\nmi ritmo\n[Am7]Bueno pa' gozar, [D9]\nmulata\n[Am7]Oye cómo va [D9]\nmi ritmo\n[Am7]Bueno pa' gozar, [D9]\nmulata\n\n[Bridge]\n[D9]\n\n[Guitar Solo 2]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n[Am7]  [D9]\n\n[Outro]\n[Am7]\n[D9]\n[Am7]  [D9]\n[Am7]  [D9]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x0555x",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D9": {
+      "catalog": [
+        "x5455x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Oye Como Va",
+  "id": "ee0df14015e796685d826f824c06dbbd0c3787a474fc706200a2b4d133bb50f9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 67,
+  "normalizedKey": "santana|oye como va",
+  "playableChords": [
+    "Am7",
+    "D9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "The Lick"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Guitar Solo 1"
+    },
+    {
+      "measure": 57,
+      "name": "Interlude"
+    },
+    {
+      "measure": 69,
+      "name": "Organ Solo"
+    },
+    {
+      "measure": 91,
+      "name": "Break"
+    },
+    {
+      "measure": 97,
+      "name": "Chorus"
+    },
+    {
+      "measure": 105,
+      "name": "Bridge"
+    },
+    {
+      "measure": 109,
+      "name": "Guitar Solo 2"
+    },
+    {
+      "measure": 133,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ee0df14015e796685d826f824c06dbbd0c3787a474fc706200a2b4d133bb50f9",
+    "version": "BCFZ"
+  },
+  "tempo": 124,
+  "title": "Oye Como Va",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,119 @@
+{
+  "artist": "Sex Pistols",
+  "artistNormalized": "sex pistols",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]\nThere's\n\n[Verse 1]\n[A]no point in [G]asking You'll get\n[D]no reply. [A]Oh\n[G]just remember a\n[E]don't decide I\n[A]got no [G]reason it's\n[D]all too [A]much You'll\n[G]always find us\n[E]\nOut to\n[A]lunch\nOh\n\n[Chorus]\n[D]we're so pretty Oh\n[C]so pretty\n[A]We're\nvacant\n[D]Oh we're so pretty Oh\n[C]so pretty\n[A]A-\nvacant Don't\n\n[Verse2]\n[A]ask us to [G]attend 'Cause we're\n[D]not all there. [A]Oh\n[G]don't pretend 'cause\n[E]I don't care I\n[A]don't believe [G]illusions 'cause\n[D]too much is [A]real So\n[G]stop your cheap comments\n[E]\n'Cause we know what we\n[A]feel\nOh\n\n[Chrous]\n[D]we're so pretty Oh\n[C]so pretty\n[A]We're\nvacant\n[D]Oh we're so pretty Oh\n[C]so pretty\n[A]A-\nvacant\n[D]Oh we're so pretty Oh\n[C]so pretty\n[A]Ah\nbut\n[D]now\n[C]And we don't\n[A]care\nThere's\n\n[Verse3]\n[A]no point in [G]asking You'll get\n[D]no reply. [A]Oh\n[G]just remember a\n[E]don't decide I\n[A]got no [G]reason it's\n[D]all too [A]much You'll\n[G]always find me\n[E]\nOut to\n[A]lunch, we're\noutta lunch Oh\n\n[Chorus]\n[D]we're so pretty Oh\n[C]so pretty\n[A]We're\nvacant\n[D]Oh we're so pretty Oh\n[C]so pretty\n[A]We're\nvacant\n[D]Oh we're so pretty Oh\n[C]so pretty\n[A]Ah\nbut\n[G]now\n[E]And we don't\n[A]care\nWe're\n\n[Outro]\n[A]pretty\napretty va-\ncant\nWe're\npretty\napretty va-\ncant\nWe're\npretty\napretty va-\ncant\nWe're\npretty\napretty va-\ncant And\n[E]we don't care\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pretty Vacant *alt",
+  "id": "5c0ffbbffc0a9c28a031efc2acda7b5f2e937292b651e442a1c98d99bd55b4fd",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 261,
+  "normalizedKey": "sex pistols|pretty vacant",
+  "playableChords": [
+    "A",
+    "G",
+    "D",
+    "E",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Verse2"
+    },
+    {
+      "measure": 51,
+      "name": "Chrous"
+    },
+    {
+      "measure": 69,
+      "name": "Verse3"
+    },
+    {
+      "measure": 80,
+      "name": "Chorus"
+    },
+    {
+      "measure": 98,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5c0ffbbffc0a9c28a031efc2acda7b5f2e937292b651e442a1c98d99bd55b4fd",
+    "version": "BCFZ"
+  },
+  "tempo": 146,
+  "title": "Pretty Vacant",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

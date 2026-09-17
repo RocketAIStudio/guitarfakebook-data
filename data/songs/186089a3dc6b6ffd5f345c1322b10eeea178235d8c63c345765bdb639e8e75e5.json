@@ -1,0 +1,118 @@
+{
+  "artist": "Rammstein",
+  "artistNormalized": "rammstein",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E5]\n[F5]  [G#5]\n[E5]\n[F5]  [G#5]\n[E5]\n[F5]  [G#5]\n[E5]\n[F5]  [G#5]\n[E5]\n[F5]  [G#5]\n\n[Verse 1]\n[E5]Ich trage einen\nBrief an mir\nDie Worte brennen au-\nf dem Papier\nDas Papier ist me-\nmeine Haut\nDie Worte, Bilder, bu-\nnt und so laut\n\n[Pre-Chorus]\n[E5]Zeig mir deins, ich\nzeig' dir meins\nZeig mir deins, ich\nzeig' dir [F5]meins [G#5]\n[E5]Zeig mir deins, ich\nzeig' mir deins\nZeig mir deins, ich\nzeig' dir [F5]meins [G#5]\n\n[Chorus]\n[E5]Wenn das Blut die\n[C5]Tinte kuesst\n[A5]\n[E5]Wenn der Schmerz das\n[C5]Fleisch umarmt\n[A5]\n[E5]Ich zeige\n[C5]meine Haut\n[A5]Bilder, die mir\nso vertraut\n[E5]Aus der Nadel\n[C5]blaue Flut\n[F5]In den Poren\nkocht das\n[E5]Blut\n\n[Verse 2]\n[E5]Wer schoen sein muss, de-\nr will auch leiden\nUnd auch der Tod ka-\nnn uns nicht scheiden\nAlle Bilder au-\nf meiner Haut\nMeine Kinder so,\nso vertraut\n\n[Pre-Chorus]\n[E5]Zeig mir deins, ich\nzeig' dir meins\nZeig mir deins, ich\nzeig' dir [F5]meins [G#5]\n\n[Chorus]\n[E5]Wenn das Blut die\n[C5]Tinte kuesst\n[A5]\n[E5]Wenn der Schmerz das\n[C5]Fleisch umarmt\n[A5]\n[E5]Ich zeige\n[C5]meine Haut\n[A5]Bilder, die mir\nso vertraut\n[E5]Aus der Nadel\n[C5]blaue Flut\n[F5]In den Poren\nkocht das\n\n[Interlude]\n[C5]Blut\n[A5]\n[C5]\n[A5]\n\n[Bridge]\n[C5]Deinen\nNamen\n[A5]stech' ich mir\n[C5]Dann bist\ndu fuer\n[A5]immer hier\n[G5]Aber\nwenn du\n[F5]uns entzweist\nSuch'\n[C5]ich mir\njemand, der ge-\n[A5]nauso heisst\n\n[Chorus]\n[E5]Wenn das Blut die\n[C5]Tinte kuesst\n[A5]\n[E5]Wenn der Schmerz das\n[C5]Fleisch umarmt\n[A5]\n[E5]Ich liebe\n[C5]meine Haut\n[A5]Bilder, die mir\nso vertraut\n[E5]Aus der Nadel\n[C5]blaue Flut\n[F5]In den Poren\nkocht das\n\n[Outro]\n[E5]Blut.",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "666xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tattoo",
+  "id": "186089a3dc6b6ffd5f345c1322b10eeea178235d8c63c345765bdb639e8e75e5",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 270,
+  "normalizedKey": "rammstein|tattoo",
+  "playableChords": [
+    "E5",
+    "F5",
+    "G#5",
+    "C5",
+    "A5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 39,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 81,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    },
+    {
+      "measure": 101,
+      "name": "Interlude"
+    },
+    {
+      "measure": 109,
+      "name": "Bridge"
+    },
+    {
+      "measure": 125,
+      "name": "Chorus"
+    },
+    {
+      "measure": 141,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "186089a3dc6b6ffd5f345c1322b10eeea178235d8c63c345765bdb639e8e75e5",
+    "version": "BCFZ"
+  },
+  "tempo": 141,
+  "title": "Tattoo",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,141 @@
+{
+  "artist": "Savatage",
+  "artistNormalized": "savatage",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Cm]\n[Bbm]\n[Cm]\n\n[Verse 1]\n[Cm]If I closed my eyes\nWould it all subside\n[Bbm]To an echo in the night\n[Cm]Of a distant fading light\n[Cm]Then a stranger's silhouette\nA burning cigarette\n[Bbm]And somewhere in the haze\n[Cm]A passage through the maze\n\n[Chorus]\n[Cm]Can you hear me now\nOr are there just too\n[Bb]many doors Between\n[Ab]then and now For [Bb]me ever [Eb5]reach on\n[Cm]through And pull you back somehow But\nthat can't happen a-\n[Bb]nymore Still in the\n[Ab]night I\nthink I hear you calling\n\n[Verse 2]\n[Cm]I have walked this stage\nAs the music played\n[Bbm]They knew every word\n[Cm]But they never heard\n[Cm]For they never changed\nIt's all very strange\n[Bbm]As I'm standing here\n[Cm]Contemplating years\n\n[Chorus]\n[Cm]Can you hear me now\nAre there just too\n[Bb]many doors Between\n[Ab]then and now For [Bb]me to ever [Eb5]reach on\n[Cm]through Pull you back somehow\nThat don't happen a-\n[Bb]nymore Still in the\n[Ab]night I'd\nswear I hear you calling\n\n[Break]\n[G5]\n\n[Bridge]\n[Cm]\n\n[Solo]\n[Fm]\n[Cm]\n[Fm]\n[Cm]\n\n[Chorus]\n[Cm]Can you hear me now\nAre there just too\n[Bb]many doors Between\n[Ab]then and now For [Bb]me to ever [Eb5]reach on\n[Cm]through And pull you back somehow\nBut that don't happen a-\n[Bb]nymore Still in the\n[Ab]night 'd\nthink I hear you\n\n[Outro]\n[Cm]calling\n[Bbm]\n[Cm]\n[Cm]\n[Bbm]\n[Cm]\n[Cm]\n[Bbm]\n[Cm]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x32010",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "xx0232",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm": {
+      "catalog": [
+        "xx0231",
+        "x-1-3-3-2-1",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "022000",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "Eb5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Fm": {
+      "catalog": [
+        "x02210",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Can you here me now",
+  "id": "196d954a06f709eebba06e309eea3e8199ff9a772120bbc48270948ca24637cd",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 233,
+  "normalizedKey": "savatage|can you here me now",
+  "playableChords": [
+    "Cm",
+    "Bbm",
+    "Bb",
+    "Ab",
+    "Eb5",
+    "G5",
+    "Fm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Break"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Solo"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "196d954a06f709eebba06e309eea3e8199ff9a772120bbc48270948ca24637cd",
+    "version": "BCFZ"
+  },
+  "tempo": 58,
+  "title": "Can you here me now",
+  "tuning": "C F A# D# G C",
+  "variantRole": "primary"
+}

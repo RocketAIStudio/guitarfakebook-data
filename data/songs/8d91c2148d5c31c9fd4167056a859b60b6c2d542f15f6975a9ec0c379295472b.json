@@ -1,0 +1,137 @@
+{
+  "artist": "Sex Bob-Omb",
+  "artistNormalized": "sex bob omb",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "We are the \"Sex BobOmb\"\nOne, Two, Three, Four\n\n[Intro]\n[B]\n[A]\n[B]\n[A]\n[B]\n[A]Yeah, Yeah.\n[B]\n[A]Yeah, Yeah.\n\n[Verse]\n[Bm]Let me\n[B]make your stasis\n[Bm]My, my, my, my\n[B]serpentine\n[Bm]I got a\n[B]beathalyzer\n[Bm]And my\n[B]body's clean\n[G]\n[E]\n\n[Intrelude 1]\n[B]\n[A]\n[B]\n[A]\n[B]\n[A]\n[B]\n[B]\n[B]\n[A]\n[B]\n[B]\n[A]\n[A]\n[B]\n[B]\n[G]\n[E]\n[B]\n[A]\n\n[Intrelude 2]\n[B]\n[A]\n[B]\n[A]\n[B]\n[A]\n[A]\n[A]\n[B]\n[B]\n[G]\n[E]\n[B]\n[B]\n\n[Intrelude 3]\n[B]\n[A]\n[B]\n[D]\n[B]\n[A]\n[F#]\n\n[Intrelude 4]\n[B]\n[A]\n[B]\n[A]\n[B]\n[A]\n[B]\n[A]\n[B]\n[A]\n[B]\n[A]\n\n[Outro]\n[B]\n[B]\n[B]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "We Are Sex Bob-Omb",
+  "id": "8d91c2148d5c31c9fd4167056a859b60b6c2d542f15f6975a9ec0c379295472b",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 39,
+  "normalizedKey": "sex bob omb|we are sex bob omb",
+  "playableChords": [
+    "B",
+    "A",
+    "Bm",
+    "G",
+    "E",
+    "D",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse"
+    },
+    {
+      "measure": 21,
+      "name": "Intrelude 1"
+    },
+    {
+      "measure": 41,
+      "name": "Intrelude 2"
+    },
+    {
+      "measure": 55,
+      "name": "Intrelude 3"
+    },
+    {
+      "measure": 69,
+      "name": "Intrelude 4"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8d91c2148d5c31c9fd4167056a859b60b6c2d542f15f6975a9ec0c379295472b",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "We Are Sex Bob-Omb",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

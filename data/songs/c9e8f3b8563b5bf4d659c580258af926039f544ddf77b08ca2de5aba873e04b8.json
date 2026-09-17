@@ -1,0 +1,127 @@
+{
+  "artist": "Rammstein",
+  "artistNormalized": "rammstein",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Cm]  [G#]\n[Cm]  [G#]\n[Cm]  [G#]\n[Cm]  [G#]\n\n[Verse 1]\n[Cm]Ich habe Plaene [G#]grosse Plaene\n[Cm]Ich baue dir ein [G#]Haus\n[Cm]Jeder Stein ist [G#]eine Traene\n[Cm]Und du ziehst nie [G#]wieder aus\n[Cm]Ja ich baue ein [G#]Haeuschen dir\n[Cm]Hat keine Fenster [G#]keine Tuer\n[Cm]Innen wird es [G#]dunkel sein Dringt\n[Cm]ueberhaupt kein [G#]Licht hi-\n[Cm]nein [G#]\n[Cm]  [G#]\n\n[Pre-Chorus]\n[Cm]Ja ich schaffe [G#]dir ein Heim Und\n[D#]du sollst Teil des [F]Ganzen sein\n\n[Chorus]\n[Cm]Stein um [G#]Stein\n[Cm]Mauer ich dich [G#]ein\n[Cm]Stein um [G#]Stein\n[Cm]Ich werde [G#]immer bei dir\n\n[Interlude]\n[G#][Cm]sei-\n[Cm]n [G#]\n\n[Verse 2]\n[Cm]Ohne Kleider [G#]ohne Schuh Siehst\n[Cm]du mir bei der [G#]Arbeit zu\n[Cm]Mit den Fuessen [G#]im Zement Ver-\n[Cm]schoenerst du das [G#]Fundament\n\n[Pre-Chorus]\n[Cm]Draussen wird ein [G#]Garten sein\n[D#]Und niemand [F]hoert dich\nschreien\n\n[Chorus]\n[Cm]Stein um [G#]Stein\n[Cm]Mauer ich dich [G#]ein\n[Cm]Stein um [G#]Stein\n[Cm]Ich werde [G#]immer bei dir\n\n[Bridge]\n[G#][Cm]sei-\n[Cm]n [G#][D#]\n[Cm]Ich werde [G#]immer bei dir\n[G#][Cm]sein [D#]\n[Cm]Welch ein Klopfen [G#]welch ein Haemmern\n[Cm]Draussen faengt es [G#]an zu daemmern\n[Cm]Alle Naegel [G#]stehen stramm Wenn\n[D#]ich sie in dein [F]Leibholz Ramm\n\n[Solo]\n[Cm]Stein!\n[G#]  [Gm]\n[Cm]\n[G#]  [Gm]\n[Cm]\n[G#]  [Gm]\n[Cm]\n[G#]  [Gm]\n\n[Chorus]\n[Cm]Stein um Stein\n[G#]Mauer ich dich [Gm]ein\n[Cm]Stein um Stein\n[G#]Mauer ich dich [Gm]ein\n\n[Outro]\n[Cm]Stein um Stein\n[G#]Mauer ich dich [Gm]ein\n[Cm]Stein um Stein Und\n[G#]keiner hoert dich schrei-\nen",
+  "diagrams": {
+    "Cm": {
+      "catalog": [
+        "000231",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "333565"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "555787",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "x13331"
+      ],
+      "catalogCount": 1
+    },
+    "Gm": {
+      "catalog": [
+        "x02210",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Stein Um Stein",
+  "id": "c9e8f3b8563b5bf4d659c580258af926039f544ddf77b08ca2de5aba873e04b8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 234,
+  "normalizedKey": "rammstein|stein um stein",
+  "playableChords": [
+    "Cm",
+    "G#",
+    "D#",
+    "F",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Interlude"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 27,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 43,
+      "name": "Solo"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c9e8f3b8563b5bf4d659c580258af926039f544ddf77b08ca2de5aba873e04b8",
+    "version": "BCFZ"
+  },
+  "tempo": 60,
+  "title": "Stein Um Stein",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

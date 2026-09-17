@@ -1,0 +1,108 @@
+{
+  "artist": "Rammstein",
+  "artistNormalized": "rammstein",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Gm]\n[D#]\n[A#]\n[Cm]\n[Gm]\n[D#]\n[A#]\n[Cm]\n[Gm]\n[D#]\n[A#]\n[Cm]\n\n[Interlude]\n[Gm]\nIch\n\n[Verse 1]\n[Cm]liebe dich Ich\nliebe dich nicht Ich\nliebe dich nicht mehr Ich\nliebe dich nicht mehr Ich\nliebe dich nicht mehr Oder\nweniger als du\nAls du mich geliebt hast Als\ndu mich noch geliebt hast\n\n[Pre-Chorus]\n[Gm]Die schoenen Maedchen sind nicht\n[D#]schoen\n[A#]Die warmen Haende sind so\n[Cm]kalt\n[Gm]Alle Uhren bleiben\n[D#]stehen\n[A#]Lachen ist nicht mehr ge-\n[Cm]sund und bald\n\n[Chorus]\n[Gm]Such ich dich\n[D#]hinter dem Licht\n[A#]Wo bist du?\n[Cm]Wo bist du?\n[Gm]So allein\n[D#]will ich nicht sein\n[A#]Wo bist du?\n[Cm]Wo bist du?\n\n[Interlude]\n[Gm]\n\n[Verse 2]\n[Gm]Die schoenen Maedchen sind nicht schoen\nDie warmen Haende sind so kalt\nAlle Uhren bleiben stehen\nLachen ist nicht mehr gesund und bald\nDie schoenen Maedchen sind nicht schoen\nDie warmen Haende sind so kalt\nAlle Uhren bleiben stehen\nLachen ist nicht mehr gesund und bald\n\n[Bridge]\n[Gm]\n[D#]\n[A#]\n[Cm]\n[Gm]\n[D#]\n[A#]\n[Cm]\n\n[Chorus]\n[Gm]Ich suche dich\n[D#]hinter dem Licht\n[A#]Wo bist du?\n[Cm]Wo bist du?\n[Gm]So allein\n[D#]will ich nicht sein\n[A#]Wo bist du?\n[Cm]Wo bist du?\n[Gm]Ich such dich unter jedem\n[D#]Stein\n[A#]Wo bist du?\n[Cm]Wo bist du?\n[Gm]Ich schlaf mit einem Messer\n[D#]ein\n[A#]Wo bist du?\n[Cm]Wo bist du?\n\n[Outro]\n[Gm]",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "x32010"
+      ],
+      "catalogCount": 1
+    },
+    "Cm": {
+      "catalog": [
+        "000231",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "333565"
+      ],
+      "catalogCount": 1
+    },
+    "Gm": {
+      "catalog": [
+        "x02210",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wo Bist Du",
+  "id": "284bf24bad7238de2d19a759f89ab84a24c7691c198436582135df893444afc9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 224,
+  "normalizedKey": "rammstein|wo bist du",
+  "playableChords": [
+    "Gm",
+    "D#",
+    "A#",
+    "Cm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Interlude"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Interlude"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "284bf24bad7238de2d19a759f89ab84a24c7691c198436582135df893444afc9",
+    "version": "BCFZ"
+  },
+  "tempo": 79,
+  "title": "Wo Bist Du",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

@@ -1,0 +1,108 @@
+{
+  "artist": "Rammstein",
+  "artistNormalized": "rammstein",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[B5]\n[C5]\n[E5]\n[C5]\n[B5]\n[F5]  [E5]  [F5]  [E5]\n[F5]  [E5]  [G5]  [E5]\n[F5]  [E5]  [F5]  [E5]\n[F5]  [E5]  [G5]  [E5]  [G5]  [E5]  [G5]\n[E5]\n[G5][E5][G5][E5]Be-\n\n[Verse 1]\n[E5]strafe mich, be-\nstrafe mich [D#5][D5]\n[E5]Stroh wird gold und\ngold wird stein [D#5][D5]\n[E5]Deine Grosse\nmacht mich klein [D#5][D5]\n[E5]Du darfst mein Best-\nrafer sein [D#5][D5]\n\n[Interlude]\n[B5]\n[C5]\n[E5]Der\n[C5]Herrgott nimmt Der\n[B5]Herrgott g-\n[E5][F5][E5][F5]i-\n[E5][G5][E5][F5]b-\n[F5]t [E5][F5][E5]\n[G5][F5][E5][G5][E5][G5][E5]Be-\n\n[Verse 2]\n[E5]strafe mich, be-\nstrafe mich [D#5][D5]\n[E5]Du meinst ja und\nich denk nein [D#5][D5]\n[E5]Schliess mich ein in\ndein Gebet [D#5][D5]Be-\n[E5]vor der wind noch\nkalter weht\n\n[Chorus]\n[B5]Deine Grosse\nmacht mich klein\n[C5]Du darfst mein Be-\n[E5]strafer sein\n[C5]Du darfst mein Be-\n[B5]strafer\nse-\n[E5][F5][E5][F5]i-\n[F5]n [E5][G5][E5]\n[F5]  [E5]  [F5]  [E5]\n[F5]  [E5]  [G5]  [E5]  [G5]  [E5]  [G5]\n\n[Solo]\n[E5]\n[D#5]  [D5]\n[E5]\n[D#5]  [D5]\n[E5]\n[D#5]  [D5]\n[E5]\n[D#5]  [D5]\n\n[Chorus]\n[B5]Deine Grosse\nmacht mich klein\n[C5]Du darfst mein Be-\n[E5]strafer sein\n[C5]Du darfst mein Be-\n[B5]strafer\n[B5]se-\nin\n[C5]\n[E5]\n[C5]Du darfst mein Be-\n[B5]strafer sein\n[B5]Deine Grosse\nmacht mich klein\n[C5]Du wirst meine\n[E5]strafe sein Der\n[C5]Herrgott nimmt Der\n[B5]Herrgott gibt Doch\n[B5]gibt er nur dem Den\ner auch l-\n[C5]i-\n[E5]eb-\n\n[Outro]\n[C5]t\n[B5]\n[B5]Be-\nstrafe mich, be-\n[C5]strafe mich Be-\n[E5]strafe mich, be-\n[C5]strafe mich Be-\n[B5]strafe mich,\n[E5]  [G5]  [E5]  [G5]  [E5]",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "11xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "222xxx",
+        "22xxxx"
+      ],
+      "catalogCount": 2
+    },
+    "F5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bestrafe Mich *alt",
+  "id": "87f46f6fdf24c957b7b2bea3e47fd80ceb5277eeca78a41bfeaab69c208bb3e1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 179,
+  "normalizedKey": "rammstein|bestrafe mich",
+  "playableChords": [
+    "B5",
+    "C5",
+    "E5",
+    "F5",
+    "G5",
+    "D#5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Interlude"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Solo"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 84,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "87f46f6fdf24c957b7b2bea3e47fd80ceb5277eeca78a41bfeaab69c208bb3e1",
+    "version": "BCFZ"
+  },
+  "tempo": 103,
+  "title": "Bestrafe Mich",
+  "tuning": "D A D G B E",
+  "variantRole": "alt"
+}

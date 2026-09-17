@@ -1,0 +1,119 @@
+{
+  "artist": "Sarah McLachlan",
+  "artistNormalized": "sarah mclachlan",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]\n[C]\n[G]  [C]\n[Bm]\n[Em]\n[G]\n[Bm]\n\n[Verse 1]\n[Em]The lake is frozen o-\n[C]ver\n[G]The trees are white with snow\n[D]\n[Em]And all around Remin-\n[C]ders of you Are\n[G]everywhere I go\n[D]\n\n[Bridge]\n[C]\n[Em]\n[C]\n[D]\n\n[Verse 2]\n[Em]It's late and morning's in\n[C]no hurry But\n[G]sleep won't set me free\n[D]\n[Em]I lie awake and try\n[C]to recall How your\n[G]body felt beside\n[D]me When\n[C]silence gets too hard\n[Em]to handle\n[C]And the night too long\n[D]\nAnd this is how I\n\n[Chorus]\n[C]see [G]you In the\nsnow on Christmas [D][C]morning\n[Em]Love and happiness sur-\n[C]round [G]you As you\nthrow your arms up to the sky\n[D]\nI keep this moment by and\n[Em]by Oh [D]I\n[C]miss you now,\n[G]my love\n[D]Merry Christ-\n\n[Bridge]\n[Em]mas, merry Chris-\n[C]tmas Merry Christ-\n[G]mas, my love\n[D]\n\n[Verse 3]\n[Em]Sense of joy\n[C]fills the air\n[G]And I daydream\n[D]and I stare\n[C]Up at the tree\n[Em]and I see Your\n[C]star up there\n[D]\nAnd this is how I\n\n[Chorus]\n[C]see [G]you In the\nsnow on Christmas [D][C]morning\n[Em]Love and happiness sur-\n[C]round [G]you As you\nthrow your arms up to the sky\n[D]\nI keep this moment by and\n[G]by",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wintersong",
+  "id": "0eb0287b82fadcd3c39b08e7fd42878bc934d0856e4f020ec43c20dd10b96f47",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 199,
+  "normalizedKey": "sarah mclachlan|wintersong",
+  "playableChords": [
+    "G",
+    "C",
+    "Bm",
+    "Em",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Bridge"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Bridge"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0eb0287b82fadcd3c39b08e7fd42878bc934d0856e4f020ec43c20dd10b96f47",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "Wintersong",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

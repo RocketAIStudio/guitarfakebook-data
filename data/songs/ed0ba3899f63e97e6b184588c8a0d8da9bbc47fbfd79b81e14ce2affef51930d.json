@@ -1,0 +1,84 @@
+{
+  "artist": "Screeching Weasel",
+  "artistNormalized": "screeching weasel",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G#5]  [D#5]\n[F5]\n[G#5]  [D#5]\n[F5]\n[G#5]  [D#5]\n[F5]\n\n[Verse 1]\n[G#5]  [D#5]\n[F5]\n[G#5]  [D#5]\n[F5]\n\n[Chorus]\n[G#5]Kmart is the [A#5]savings place I'd like to\n[G#5]Punch the customers [A#5]in the face\n[G#5]Get pissed off when it [A#5]ain't priced right cause The\n[G#5]people who shop there [A#5]ain't too bright\n\n[Interlude]\n[G#5]  [D#5]\n[F5]\n[G#5]  [D#5]\n[F5]\n[G#5]  [D#5]\n[F5]\n\n[Verse 2]\n[G#5]  [D#5]\n[F5]\n[G#5]  [D#5]\n[F5]\n[G#5]  [D#5]\n[F5]\n[G#5]  [D#5]\n[F5]\n\n[Chorus]\n[G#5]Kmart is the [A#5]savings place I'd like to\n[G#5]Punch the customers [A#5]in the face\n[G#5]Get pissed off when it [A#5]ain't priced right cause The\n[G#5]people who shop there [A#5]ain't too bright",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "K-Mart Blues",
+  "id": "ed0ba3899f63e97e6b184588c8a0d8da9bbc47fbfd79b81e14ce2affef51930d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 68,
+  "normalizedKey": "screeching weasel|k mart blues",
+  "playableChords": [
+    "G#5",
+    "D#5",
+    "F5",
+    "A#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 16,
+      "name": "Interlude"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ed0ba3899f63e97e6b184588c8a0d8da9bbc47fbfd79b81e14ce2affef51930d",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "K-Mart Blues",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

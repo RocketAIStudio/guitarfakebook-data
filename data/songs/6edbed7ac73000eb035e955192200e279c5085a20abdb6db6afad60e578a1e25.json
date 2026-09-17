@@ -1,0 +1,112 @@
+{
+  "artist": "Roger Waters",
+  "artistNormalized": "roger waters",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]Sometimes I stare at the\nnight sky\nSee them\n[G]stars a billion light years away\n[D]\nAnd it\n[Em]makes me feel small like a\n[C]bug on a wall\n[G]Who gives a shit anyway?\n[D]\nWho gives a shit any-\n\n[Interlude]\n[Em]way?\n[D]  [C]\n[Em]\n[D]\n[Em]  [D]\n[C]\n[D]\n[G]\nWhen\n\n[Verse 2]\n[G]World War Two was\n[C]over\nThough the\n[G]slate was never wiped clean\n[D]\nWe\n[Em]could have picked over them\n[C]broken bones\n[G]We could have been\n[D]free\nBut we\n[Em]chose to adhere to a-\n[C]bundance We\n[Em]chose the American Dream\n[D]\nAnd\n[Em]oh [D]mistress\n[C]liberty\n[D]How\nwe abandoned\n\n[Chorus]\n[Em]thee How\n[C]\n[Em]we aban-\ndoned\n[D]thee\nAnd\n[Em]oh [D]Mistress\n[C]Liberty\n[D]How\nwe abandoned\n[G]thee\n\n[Verse 3]\n[G]Could have been born in\n[C]Shreveport\nOr he\n[G]could have been born in Teh-\n[D]ran\n[Em]It don't much matter wher-\n[C]ever you're born Little\n[G]babies mean us no\n[D]harm\nThey\n[Em]have to be taught to des-\n[C]pise us To\n[Em]bulldoze our [D]homes to the\nground\nTo be-\n[Em]lieve that their [D]fight is for\n[C]liberty\nTo be-\n[D]lieve that their God will\nkeep them safe and\n\n[Chorus]\n[Em]sound Safe\nand\n[C]sound\n[Em]\nSafe and\n[D]sound\n[Em]  [D]\n[C]\n[D]\n[G]\n\n[Verse 4]\n[G]We cannot turn back the clock\n[C]\n[G]Cannot go back in\n[D]time\nBut we\n[Em]can say \"fuck you\" We will\n[C]not listen to\n[D]\nYour bullshit and\n\n[Outro]\n[Em]lies\n[C]\n[Em]\n[D]\n[Em]  [D]\n[C]\n[D]\nYour bullshit and\n[Em]lies",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Broken Bones",
+  "id": "6edbed7ac73000eb035e955192200e279c5085a20abdb6db6afad60e578a1e25",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 239,
+  "normalizedKey": "roger waters|broken bones",
+  "playableChords": [
+    "G",
+    "D",
+    "Em",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 91,
+      "name": "Chorus"
+    },
+    {
+      "measure": 106,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 117,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6edbed7ac73000eb035e955192200e279c5085a20abdb6db6afad60e578a1e25",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "Broken Bones",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

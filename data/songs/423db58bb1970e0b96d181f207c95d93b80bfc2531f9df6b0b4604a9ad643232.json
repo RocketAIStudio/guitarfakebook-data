@@ -1,0 +1,77 @@
+{
+  "artist": "Screeching Weasel",
+  "artistNormalized": "screeching weasel",
+  "capo": "No capo",
+  "chordPositionCount": 3,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[B5]  [A5]  [D5]\n[B5]  [A5]  [D5]\n[B5]  [A5]  [D5]\n[B5][A5][D5]It's\n\n[Verse 1]\n[B5]raining needles [A5]Stuck in my [D5]head\n[B5]I wish I had stayed [A5]home [D5]in bed\n[B5]Raining [A5]needleshelp me [D5]guys\n[B5]In my hands, or [A5]in my [D5]eyes\n\n[Bridge]\n[B5]  [A5]  [D5]\n[B5][A5][D5]My\n\n[Verse 2]\n[B5]throat was stabbed, [A5]I gurgle [D5]blood\n[B5]I fall on needles [A5]in the [D5]mud\n[B5]In my head, or [A5]in my [D5]shirt\n[B5]In my body [A5]it fucking [D5]hurts\n\n[Bridge]\n[B5]  [A5]  [D5]\n[B5]  [A5]  [D5]\n\n[Outro]\n[B5]Covered with needles [A5]My blood [D5]is red\n[B5]Really hurts [A5]I'm [D5]dead",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "10-12-12-x-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Raining Needles",
+  "id": "423db58bb1970e0b96d181f207c95d93b80bfc2531f9df6b0b4604a9ad643232",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 69,
+  "normalizedKey": "screeching weasel|raining needles",
+  "playableChords": [
+    "B5",
+    "A5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Bridge"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 15,
+      "name": "Bridge"
+    },
+    {
+      "measure": 17,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "423db58bb1970e0b96d181f207c95d93b80bfc2531f9df6b0b4604a9ad643232",
+    "version": "BCFZ"
+  },
+  "tempo": 200,
+  "title": "Raining Needles",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

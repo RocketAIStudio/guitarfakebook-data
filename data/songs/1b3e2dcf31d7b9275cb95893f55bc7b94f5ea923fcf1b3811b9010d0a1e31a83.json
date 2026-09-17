@@ -1,0 +1,115 @@
+{
+  "artist": "Rammstein",
+  "artistNormalized": "rammstein",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Cm]\n[G]\n[G#]\n[Fsus2]\n[Cm]\n[G]\n[G#]\n[Fsus2]\n\n[Verse 1]\nSie ist haesslich dass es graut\nWenn sie in den Himmel schaut\nDann fuerchtet sich das Licht Scheint\nihr von unten ins Gesicht\nSo muss sie sich am Tag ver-\nstecken\nWill das Licht doch nicht er-\nschrecken\nLebt im Schatten bis der\nSchein vergeht\nSieht einen Stern im Zwielicht\nprangen und fleht\n\n[Pre-Chorus]\nMal mir Schoenheit auf die Wa-\nngen\n\n[Chorus]\n[Cm]Morgenstern ach\n[G]scheine\n[G#]Auf das Antlitz\n[Fsus2]mein\n[Cm]Wirf ein warmes\n[G]Licht\n[G#]Auf mein Unge-\n[Fsus2]sicht\n[G#]Sag mir ich bin\n[A#]nicht alleine\n\n[Verse 2]\n[Cm]Haesslich, du bist\nhaesslich\nDu, du bist\nhaesslich\nIch bin allein zur Nacht ge-\ngangen\nDie spaeten Voegel nicht mehr\nsangen\nSah Sonnenkinder im Ge-\nwimmel und so\nRief ich in den gestirnten\nHimmel\n\n[Chorus]\n[Cm]Morgenstern ach\n[G]scheine\n[G#]Auf das Antlitz\n[Fsus2]meine\n[Cm]Wirf ein warmes\n[G]Licht\n[G#]Auf mein Unge-\n[Fsus2]sicht\n[G#]Sag mir ich bin\n[A#]nicht alleine\n[Cm]Morgenstern ach\n[G]scheine\n[G#]Auf die Seele\n[Fsus2]meine\n[Cm]Wirf ein warmes\n[G]Licht\n[G#]Auf ein Herz das\n[Fsus2]bricht\n[G#]Sag ihr dass ich\n[A#]weine Denn\n\n[Bridge]\n[Cm]du, du bist\nhaesslich\nDu bist einfach\nhaesslich Der\nMensch ist doch ein Augentier\nSchoene Dinge wuensch' ich mir Doch\ndu , du bist nicht\nschoen, nein\n\n[Break]\n[Cm]\n[G]\n[G#]\n[Fsus2]\n[Cm]\n[G]\n[G#]\n[Fsus2]\n[G#]\n[A#]\n\n[Chorus]\n[Cm]Morgenstern ach\n[G]scheine\n[G#]Auf das Antlitz\n[Fsus2]meine\n[Cm]Wirf ein warmes\n[G]Licht\n[G#]Auf mein Unge-\n[Fsus2]sicht\n[G#]Sag mir ich bin\n[A#]nicht alleine\n[Cm]Und der Stern will\n[G]scheinen\n[G#]Auf die Liebste\n[Fsus2]meine\n[Cm]Waermt die Brust mir\n[G]bebt\n[G#]Wo das Leben\n[Fsus2]schlaegt\n[G#]Mit dem Herzen\n[A#]sehen\n\n[Outro]\n[Cm]Sie ist wunderschoen",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "x32010"
+      ],
+      "catalogCount": 1
+    },
+    "Cm": {
+      "catalog": [
+        "000231",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "Fsus2": {
+      "catalog": [
+        "555785"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "x02220",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "x13331"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Morgenstern",
+  "id": "1b3e2dcf31d7b9275cb95893f55bc7b94f5ea923fcf1b3811b9010d0a1e31a83",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 309,
+  "normalizedKey": "rammstein|morgenstern",
+  "playableChords": [
+    "Cm",
+    "G",
+    "G#",
+    "Fsus2",
+    "A#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Break"
+    },
+    {
+      "measure": 83,
+      "name": "Chorus"
+    },
+    {
+      "measure": 103,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1b3e2dcf31d7b9275cb95893f55bc7b94f5ea923fcf1b3811b9010d0a1e31a83",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "Morgenstern",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

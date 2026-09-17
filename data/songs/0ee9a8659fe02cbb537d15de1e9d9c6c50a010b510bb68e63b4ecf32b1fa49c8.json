@@ -1,0 +1,108 @@
+{
+  "artist": "Red hot chili peppers",
+  "artistNormalized": "red hot chili peppers",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]  [F]\n[C]  [G]\n[Am]  [F]\n[C]  [G]\n\n[Verse 1]\n[Am]I'm an ocean [F]in your bedroom\n[C]Make you feel warm [G]Make you want to reassume\n[Am]Now we know [F]it all\n[C]for sure [G]\n[Am]I'm a dance hall [F]dirty break beat\n[C]Make the snow fall [G]Up from underneath your feet\n[Am]Not alone, [F]\n[C]I'll be there Tell [G]me when you want to go\n[Am]  [F]\n[C]  [G]\n[Am]  [F]\n[C]  [G]\n[Am]I'm a meth lab [F]first rehab\n[C]Take it all off And [G]step inside the running cab\n[Am]There's a love [F]that knows\n[C]the way [G]\n[Am]I'm the rainbow [F]in your jail cell\n[C]All the memories of [G]Everything you've ever smelled\n[Am]Not alone, [F]\n[C]I'll be there Tell [G]me when you want to go\n\n[Chorus]\n[Am]  [F]\n[C]  [G]\n[Am]Don't forget me [F]I can't hide it\n[C]Come again get [G]me excited\n\n[Bridge]\n[Am]  [F]\n[C]  [G]\n[Am]  [F]\n[C]  [G]\n\n[Verse 2]\n[Am]I'm an inbred [F]and a pothead\n[C]Two legs that you [G]spread Inside the tool shed\n[Am]Now we [F]know it\n[C]all for [G]sure\n[Am]I could show [F]you To the free\n[C]field Overcome and [G]more Will always be re-\n[Am]vealed Not alone, [F]\n[C]I'll be there Tell [G]me when you want to go\n\n[Chorus]\n[Am]  [F]\n[C]  [G]\n[Am]Don't forget me [F]I can't hide it\n[C]Come again get [G]me excited\n[Am]  [F]\n[C]  [G]\n[Am]Don't forget me [F]I can't hide it\n[C]Come again get [G]me excited\n\n[Interlude]\n[Am]  [F]\n[C]  [G]\n[Am]  [F]\n[C]  [G]\n[Am]  [F]\n[C]  [G]\n[Am]  [F]\n[C]  [G]\n\n[Verse 3]\n[Am]I'm the bloodstain [F]On your shirt sleeve\n[C]Coming down and more [G]are coming to believe\n[Am]Now we know [F]it all\n[C]for sure [G]\n[Am]Make the hair stand [F]Up on your arm\n[C]Teach you how to dance [G]Inside the funny farm\n[Am]Not alone, [F]\n[C]I'll be there Tell [G]me when you want to go\n[Am]  [F]\n[C]I'll be there to tell [G]me when you want to go\n[Am]  [F]\n[C]Come on baby tell [G]me when you want to go\n[Am]  [F]\n[C]More will be [G]revealed my friend",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Don't forget me *alt",
+  "id": "0ee9a8659fe02cbb537d15de1e9d9c6c50a010b510bb68e63b4ecf32b1fa49c8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 307,
+  "normalizedKey": "red hot chili peppers|don t forget me",
+  "playableChords": [
+    "Am",
+    "F",
+    "C",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0ee9a8659fe02cbb537d15de1e9d9c6c50a010b510bb68e63b4ecf32b1fa49c8",
+    "version": "BCFZ"
+  },
+  "tempo": 61,
+  "title": "Don't forget me",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

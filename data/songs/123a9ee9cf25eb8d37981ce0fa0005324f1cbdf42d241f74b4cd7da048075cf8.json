@@ -1,0 +1,155 @@
+{
+  "artist": "Rammstein",
+  "artistNormalized": "rammstein",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[E5]\n\n[Verse 1]\n[D5]Ich bin der Reiter\ndu bist das Ross\nIch steige auf\nwir reiten los\nDu stoehnst\nich sag dir vor Ein\nElefant im\nNadeloehr\n\n[Chorus]\n[E5]Rein\nraus\nRein\nraus\nRein\nraus\nRein\nraus\n\n[Verse 2]\n[D5]Ich bin der Reiter\ndu bist das Ross\nIch hab den Schluessel\ndu hast das Schloss\nDie Tuer geht auf ich\ntrete ein\nDas Leben kann so\nprachtvoll sein\nRein\nraus\n\n[Chorus]\n[E5]Rein\nraus\nRein\nraus\nRein\nraus\nRein\nraus\n\n[Bridge]\n[A5]Tiefer\n[G5]tiefer\n[B5]Sag es\nsag es laut\n[A5]Tiefer\n[G5]tiefer\n[B5]Ich fuehl mich wohl in\ndeiner Haut Und\ntausend Elefanten\nbrechen\n\n[Break]\n[Em]aus\n[Bm]\n[Em]Der Ritt war kurz\nes tut mir leid\n[Bm]Ich steige ab\nhab keine Zeit\n[F]Muss jetzt zu den\nanderen Pferden\n[C]Wollen auch ge-\nritten werden\n\n[Interlude]\n[E5]Rein\nraus\nRein\n\n[Solo 1]\n[E5]\n\n[Solo 2]\n[G5]Rein\nraus\nRein\nraus\nRein\nraus\nRein\nraus\n\n[Outro]\n[E5]Rein tiefer\nraus tiefer\nRein tiefer\nraus tiefer\nRein tiefer\nraus tiefer\nRein tiefer\nraus",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "999xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "222000",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "333565",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rein Raus *alt",
+  "id": "123a9ee9cf25eb8d37981ce0fa0005324f1cbdf42d241f74b4cd7da048075cf8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 180,
+  "normalizedKey": "rammstein|rein raus",
+  "playableChords": [
+    "E5",
+    "D5",
+    "A5",
+    "G5",
+    "B5",
+    "Em",
+    "Bm",
+    "F",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Break"
+    },
+    {
+      "measure": 69,
+      "name": "Interlude"
+    },
+    {
+      "measure": 73,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 81,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "123a9ee9cf25eb8d37981ce0fa0005324f1cbdf42d241f74b4cd7da048075cf8",
+    "version": "BCFZ"
+  },
+  "tempo": 122,
+  "title": "Rein Raus",
+  "tuning": "B E A D F# B",
+  "variantRole": "alt"
+}

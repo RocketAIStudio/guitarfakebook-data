@@ -1,0 +1,98 @@
+{
+  "artist": "Sepultura",
+  "artistNormalized": "sepultura",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F5]Um, dois, tres, quatro\n\n[Theme 1]\n[F5]\n[B5]\n[F5]\n\n[Theme 2]\n[Ab5]\n[D5]  [Ab5]\n[D5]  [Ab5]\n[D5]  [C#dim]  [Bbdim]\n\n[Interlude]\n[B5]\n[F5]\n\n[Theme 2]\n[Ab5]\n[D5]  [Ab5]\n[D5]  [Ab5]\n[D5]  [C#dim]  [Bbdim]\n\n[Outro]\n[F5]",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "Bbdim": {
+      "catalog": [
+        "x123xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#dim": {
+      "catalog": [
+        "x456xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Quadra",
+  "id": "76163d4c4e6042cf465396831bc8a5c921ba4e2581901c49f509631dfc27d497",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 5,
+  "normalizedKey": "sepultura|quadra",
+  "playableChords": [
+    "F5",
+    "B5",
+    "Ab5",
+    "D5",
+    "C#dim",
+    "Bbdim"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Theme 1"
+    },
+    {
+      "measure": 6,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 10,
+      "name": "Interlude"
+    },
+    {
+      "measure": 12,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 16,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "76163d4c4e6042cf465396831bc8a5c921ba4e2581901c49f509631dfc27d497",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "Quadra",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

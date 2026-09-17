@@ -1,0 +1,138 @@
+{
+  "artist": "Ringo Starr",
+  "artistNormalized": "ringo starr",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]\n[Am]\n[C]\n[D]\n[Am]\n[C]\n[D]\n[Am]\n[C]\n[D]\n[Am]\n[C]\n[D]\n\n[Verse 1]\n[D]Got to pay your dues if you\n[Am]want to sing the blues And you\n[C]know it don't come ea-\n[D]sy\nYou don't have to shout or\n[Am]leap about You can\n[C]even play them ea-\n[D]sy For-\n\n[Chorus]\n[F]get about the past\nand all your sor-\n[G]row\nThe\n[F]future won't last\nIt will\n[A]soon be your tomo-\nrrow I\n\n[Verse 2]\n[D]don't ask for much I on-\n[Am]ly want trust And you\n[C]know it don't come ea-\n[D]sy And this\nlove of mine keeps grow-\n[Am]ing all the time And you\n[C]know it just ain't ea-\n[D]sy\n\n[Chorus]\n[F]Open up your heart\nLet's come toge-\n[G]ther\n[F]Use a little luck\nAnd we will\n[A]make it work out bet-\nter\n\n[Solo]\n[D]\n[Am]\n[C]\n[D]\n[Am]\n[C]\n[D]\n\n[Verse 3]\n[D]Got to pay your dues if you\n[Am]wanna sing the blues And you\n[C]know it don't come ea-\n[D]sy\nYou don't have to shout or\n[Am]leap about You can\n[C]even play them ea-\n[D]sy\n\n[Chorus]\n[F]Please remember peace\nis how we make\n[G]it\n[F]Here within your dreams\nIf you're\n[A]big enough to take\nit I\n\n[Verse 4]\n[D]don't ask for much I on-\n[Am]ly want to trust And you\n[C]know it don't come ea-\n[D]sy And this\nlove of mine keeps grow-\n[Am]ing all the time And you\n[C]know it don't come ea-\n[D]sy\n\n[Coda]\n[D]\n[Am]\n[C]\n[D]\n[Am]\n[C]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "It Don't Come Easy",
+  "id": "92ab7b8be1a3b9572b52389bc3bc4f63898233cfc9c9fe2b54ae7169afb22ed1",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 220,
+  "normalizedKey": "ringo starr|it don t come easy",
+  "playableChords": [
+    "D",
+    "Am",
+    "C",
+    "F",
+    "G",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Solo"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 83,
+      "name": "Coda"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "92ab7b8be1a3b9572b52389bc3bc4f63898233cfc9c9fe2b54ae7169afb22ed1",
+    "version": "BCFZ"
+  },
+  "tempo": 123,
+  "title": "It Don't Come Easy",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

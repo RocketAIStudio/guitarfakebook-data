@@ -1,0 +1,134 @@
+{
+  "artist": "Shawn Mendes",
+  "artistNormalized": "shawn mendes",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[Em]I think it's time [C]that I be ho\n[G]nest\n[Em]Should ave told [C]you not to go\n[G]\n[Em]Thought I knew [C]just what I want\n[G]ed\n[Em]I didn't know [C]myself at all\n[G]\n\n[Pre-Chorus]\n[Bm7]You're with somebody I can't\n[Cmaj7]be,\n[Bm7]But I can tell that you're hap\n[Cmaj7]py It's time for\n\n[Chorus]\n[Em]me to finally meet [C]somebody\n[G]new Take her to\n[Em]all the places that [C]I took us\n[G]to And she might\n[Em]help me forget, [C]but loving\n[G]her is something I could never\n[Em]do [C]Because I had\n[G]Because I had\n\n[Intrelude]\n[Em]you [C]\n[G]\n[Em]  [C]\n[G]\n\n[Verse 2]\n[Em]Hey, [C]remember when I told\n[G]you That you and I,\n[Em]we'd go down in [C]history toge\n[G]ther,\n[Em]And does your [C]sister ask about\n[G]me? You and I,\n[Em]what we had, is it [C]gone fore\n[G]ver?\n\n[Pre-Chorus]\n[Bm7]You're with somebody I can't\n[Cmaj7]be\n[Bm7]But I can tell that you're hap\n[Cmaj7]py It's time for\n\n[Chorus]\n[Em]me to finally meet [C]somebody\n[G]new Take her to\n[Em]all the places that [C]I took us\n[G]to And she might\n[Em]help me forget, [C]but loving\n[G]her is something I could never\n[Em]do [C]Because I had\n[G]Because I had\n\n[Intrelude]\n[Em]you There's [C]nothin', oh\n[G]There's nothin' left to\n[Em]lose [C]Because I had\n[G]you,\n[Em]There's [C]nothin'\n[G]Nothin' that I could\n[Em]do [C]I wish I had\n[G]you I think it's\n\n[Outro]\n[Em]time I finally found [C]somebody\n[G]new And tell my-\n[Em]self that she's the one [C]to get me\n[G]through And she might\n[Em]help me forget [C]that loving\n[G]her is something I [D]just couldn't do\n[Em][C]Because I had\n[G]you",
+  "diagrams": {
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "8-10-10-9-x-x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x35453",
+        "x-3-2-0-0-0",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x5777x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x7998x",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "3554xx",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Because I Had You",
+  "id": "f8ed7758c4c645436ef589478c982ff421df1ca8aeb2885b420c55d08b2f4abc",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 292,
+  "normalizedKey": "shawn mendes|because i had you",
+  "playableChords": [
+    "Em",
+    "C",
+    "G",
+    "Bm7",
+    "Cmaj7",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f8ed7758c4c645436ef589478c982ff421df1ca8aeb2885b420c55d08b2f4abc",
+    "version": "BCFZ"
+  },
+  "tempo": 102,
+  "title": "Because I Had You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

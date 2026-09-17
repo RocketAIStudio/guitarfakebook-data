@@ -1,0 +1,138 @@
+{
+  "artist": "Red Hot Chili Peppers",
+  "artistNormalized": "red hot chili peppers",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Gb]\n\n[Bridge]\n[Bm]\n[D]\n[A]\n[Bm]\n[D]\n[A]\n\n[Verse 1]\n[Bm]They say in chess, you gotta kill\nThe queen and then you mate it\n[D]Oh I,\n[A]do you?\n[Bm]A funny thing, the king who gets\nHimself assassinated\n[D]Hey now,\n[A]every time i lose\n\n[Bridge]\n[Bm]\nAltitude\n[D]\n[A]\n\n[Verse 2]\n[Bm]You took a town by storm the mess\nYou made was nominated\n[D]Oh I,\n[A]do you?\n[Bm]Now put away your welcome, soon\nYou'll find you've overstayed it\n[D]Hey now,\n[A]every time I lose\n[Bm]\nAltitude\n[D]\n[A]\n\n[Chorus]\n[A]So divine, [D5][A]\n[G]hell of an elevator\n[Bm]All the while my for-\ntune faded\n[A]Nevermind\n[G]the consequences of the\n[Bm]crime this time My for-\ntune faded\n\n[Bridge]\n[Bm]\n[D]\n[A]\n[Bm]\n[D]\n[A]\n\n[Verse 3]\n[Bm]The medicated state of mind\nYou find is overrated\n[D]Oh I,\n[A]do you?\n[Bm]You saw it all come down and now\nIt's time to imitate it\n[D]Hey now,\n[A]every time I lose\n[Bm]\nAltitude\n[D]\n[A]\n\n[Chorus]\n[A]So divine, [D5][A]\n[G]hell of an elevator\n[Bm]All the while my for-\ntune faded\n[A]Nevermind\n[G]the consequences of the\n[Bm]crime this time My for-\ntune faded\n\n[Bridge]\n[Bm]\n[D]\n[A]\n[Bm]Come on God, do\nI seem bullet-\n[D]proof?\n[A]\n[Gb]\n\n[Chorus]\n[A]So divine, [D5][A]\n[G]hell of an elevator\n[Bm]All the while my for-\ntune faded\n[A]Nevermind\n[G]the consequences of the\n[Bm]crime this time My for-\ntune faded\n[A]So divine, [D5][A]\n[G]hell of an elevator\n[Bm]All the while my for-\ntune faded\n[A]Nevermind\n[G]the consequences of the\n[Bm]crime this time My for-\ntune faded",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "xx023x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Fortune Faded",
+  "id": "82d8be18d0c50a38cfba42dbc6740ea963ac2b8c24d6a5a362bdee05b0c77bc7",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 285,
+  "normalizedKey": "red hot chili peppers|fortune faded",
+  "playableChords": [
+    "Gb",
+    "Bm",
+    "D",
+    "A",
+    "D5",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Bridge"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "82d8be18d0c50a38cfba42dbc6740ea963ac2b8c24d6a5a362bdee05b0c77bc7",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Fortune Faded",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

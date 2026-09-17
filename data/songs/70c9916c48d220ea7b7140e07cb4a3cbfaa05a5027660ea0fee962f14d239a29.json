@@ -1,0 +1,121 @@
+{
+  "artist": "SALES",
+  "artistNormalized": "sales",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Dmaj7]\n[A6/E]\n[G6]\n\n[Chorus]\n[G6][A7sus2]I'll see you at the\n[Dmaj7]movies\n[A6/E]I see you with your\n[G6]lipstick on\n[A7sus2]I'm looking at the\n[Dmaj7]cosmos\n[A6/E]I'm hoping that we\n[G6]get along\n[A7sus2]It's time for inno-\n[Dmaj7]vation\n[A6/E]It's time for us to\n[G6]make a change\n[A7sus2]It's time for a Chi-\n[Dmaj7]nese new year\n[A6/E]It's time for me to\n[G6]make a way\n\n[Verse 1]\n[G6][A7sus2]And I can't,\n[Em]\nno I can't\n[Bm7]wait to\nget far from\n[Em]here\nNo I can't,\n[Bm7]\n[A6]I can't wait to get out of here\n[Em]\nNo I can't,\n[Bm7]\nno I can't,\n[Em]no I can't\nwait to\n[Bm7]get out of here\n\n[Chorus]\n[A6]I'll see you at the\n[Dmaj7]movies\n[A6/E]I see you with your\n[G6]lipstick on\n[A7sus2]I'm looking at the\n[Dmaj7]cosmos\n[A6/E]I'm hoping that we\n[G6]get along\n[A7sus2]It's time for inno-\n[Dmaj7]vation\n[A6/E]It's time for us to\n[G6]make a change\n[A7sus2]It's time for a Chi-\n[Dmaj7]nese new year\n[A6/E]It's time for me to\n[G6]make a way\n[A7sus2]\n\n[Intrlude]\n[Dmaj7]\n[G6]\n[Dmaj7]\n[G6]\n[Dmaj7]\n[G6]\n[Dmaj7]\n[G6]\n\n[Verse 2]\n[Dmaj7]Sweared a lot\n[A6/E]and I bared\n[G6]a lot\n[A7sus2]I was\n[Dmaj7]there a lot\n[A6/E]last year\n[G6]\n[A7sus2]\n[Dmaj7]Wept a lot,\n[A6/E]oh baby, you\n[G6]slept a lot\n[A7sus2]I was\n[Dmaj7]left a lot\n[A6/E]last year\n[G6]\n[A7sus2]\n\n[Outro]\n[Dmaj7]Pleased a lot,\n[A6/E]baby, you\n[G6]seized my heart\n[A7sus2]And I\n[Dmaj7]started to\nfall [A6/E]last\n[G6]year\n[A7sus2]\n[Dmaj7]\n[A6/E]\n[G6]\n[A7sus2]",
+  "diagrams": {
+    "A6": {
+      "catalog": [
+        "x04220"
+      ],
+      "catalogCount": 1
+    },
+    "A6/E": {
+      "catalog": [
+        "xx2222"
+      ],
+      "catalogCount": 1
+    },
+    "A7sus2": {
+      "catalog": [
+        "x02000"
+      ],
+      "catalogCount": 1
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Dmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9",
+        "10-12-11-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Chinese New Year",
+  "id": "70c9916c48d220ea7b7140e07cb4a3cbfaa05a5027660ea0fee962f14d239a29",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 208,
+  "normalizedKey": "sales|chinese new year",
+  "playableChords": [
+    "Dmaj7",
+    "A6/E",
+    "G6",
+    "A7sus2",
+    "Em",
+    "Bm7",
+    "A6"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Intrlude"
+    },
+    {
+      "measure": 69,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 85,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "70c9916c48d220ea7b7140e07cb4a3cbfaa05a5027660ea0fee962f14d239a29",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Chinese New Year",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,129 @@
+{
+  "artist": "Sir Chloe",
+  "artistNormalized": "sir chloe",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Verse 1]\n[B]I tried to love you, but you're\n[D]not my type\n[B]Tried to pretend, but it just\n[D]don't feel right To be\n[A]your num-\n[G]ber one\n[B]Should have known better, I tried\n[D]to stay cool\n[B]You were telling me I'm\n[D]such a fool to say\n[A]no Num-\n[G]ber one\n\n[Chorus]\n[Em]Make me behave [D]like an animal\n[Cmaj7]\n[Em]Make me behave [D]like an animal\n[Cmaj7]\n[A]I'm asking [C#]nicely,\n[D]give me [C#]what I want [B]\n[A]I'll ask [C#]politely,\n[D]give me [C#]what I want [B]\n\n[Verse 2]\n[B]I tried to love you, but you're\n[D]not my type\n[B]Tried to pretend, but it just\n[D]don't feel right To be\n[A]your num-\n[G]ber one\n\n[Chorus]\n[Em]Make me behave [D]like an animal\n[Cmaj7]\n[Em]Make me behave [D]like an animal\n[Cmaj7]\n[A]I'm asking [C#]nicely,\n[D]give me [C#]what I want [B]\n[A]I'll ask [C#]politely,\n[D]give me [C#]what I want [B]\n[Em]Make me behave [D]like an animal\n[Cmaj7]\n[Em]Make me behave [D]like an animal\n[Cmaj7]\n[Em]Make me behave [D]like an animal\n[Cmaj7]\n[Em]Make me behave [D]like an animal\n[Cmaj7]\n\n[Outro]\n[Em]  [D]\n[Cmaj7]\n[Em]  [D]\n[Cmaj7]\n[Em]  [D]\n[Cmaj7]\n[Em]  [D]\n[Cmaj7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Animal",
+  "id": "a23499a9d97a0ae9588f926dcfc9698662b9f86bb4841b0f0433c2b2e4c27c64",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 189,
+  "normalizedKey": "sir chloe|animal",
+  "playableChords": [
+    "B",
+    "D",
+    "A",
+    "G",
+    "Em",
+    "Cmaj7",
+    "C#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a23499a9d97a0ae9588f926dcfc9698662b9f86bb4841b0f0433c2b2e4c27c64",
+    "version": "BCFZ"
+  },
+  "tempo": 84,
+  "title": "Animal",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,126 @@
+{
+  "artist": "Rush",
+  "artistNormalized": "rush",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\n[G]\n[D]\n[F]\n[A]\nAnd the\n\n[Verse 1]\n[A]men who hold high pla-\n[G]ces. Must\n[D]be the [G]ones who [A]start\n[A]To\n[A]mold a new reali-\n[G]ty.\n[D]Closer [A]to the [G]heart.\n[G]Clo-\n[D]ser to [A]the heart. [G]\n[G]The\n[A]blacksmith and the\n[G]artist, re-\n[D]flect it [G]in their [A]art.\n[A]They\n[A]forge their creati-\n[G]vity.\n[D]Closer [A]to the [G]heart\n[G]Yes,\n[D]closer [A]to the [G]heart\n[G]\n\n[Break]\n[D]\nPhi-\n\n[Verse 2]\n[A]losophers and\n[G]ploughmen, Each\n[D]must [G]know his [A]part,\n[A]To\n[A]sow a new menta-\n[G]lity.\n[D]Closer [A]to the [G]heart.\n[G]Yes,\n[D]closer [A]to the [G]heart.\n[G]Yeah, yeah.\n[D]  [A]  [G]\n[G]\n\n[Guitar Solo]\n[D]\n[G]\n[C]\n[Asus4]  [A]\n[D]\n[G]\n[C]\n[Asus4]  [A]\n[D]\n[G]\n[C]\n[Asus4]  [A]\n[D]\n[G]\n[C]\n[Asus4]  [A]\n\n[Bridge]\n[A]\nWhoah, whoah.\n\n[Verse 3]\n[A]You can be the cap-\n[G]tain, And\n[D]I will go [G]draw the [A]chart.\n[A]\n[A]Sailing into des-\n[G]tiny.\n[D]Closer [A]to the [G]heart.\n[G]\n[D]Closer [A]to the [G]heart.\n[G]Well,\n[D]Closer [A]to the [G]heart,\n[G]yeah!\n[A][D]Closer to [G]the\n[G]heart.\n[D]Closer [A]to the [G]heart.\n[G]I said,\n\n[Outro]\n[D]closer [A]to the [G]heart\n[G]\n[D]Closer [A]to the [G]heart,\n[G]yeah!\n[A][D]Closer to [G]your\n[G]heart.\n[D]Closer [A]to your [G]heart.\n[G]Ooh,\n[D]oh, [A]oh, oh, [G]oh,\n[G]oh, oh, oh, oh, oh.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "xx7655",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x3555x",
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "320033",
+        "xx5433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Closer To The Heart *alt",
+  "id": "e59e9e72a496f2af3934d24070a2d166a6a1a836c45476ff2af767d1db58b74f",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 181,
+  "normalizedKey": "rush|closer to the heart",
+  "playableChords": [
+    "A",
+    "G",
+    "D",
+    "F",
+    "C",
+    "Asus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 36,
+      "name": "Break"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 52,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 68,
+      "name": "Bridge"
+    },
+    {
+      "measure": 78,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 94,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e59e9e72a496f2af3934d24070a2d166a6a1a836c45476ff2af767d1db58b74f",
+    "version": "BCFZ"
+  },
+  "tempo": 144,
+  "title": "Closer To The Heart",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

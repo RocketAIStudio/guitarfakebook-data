@@ -1,0 +1,103 @@
+{
+  "artist": "Rise Against",
+  "artistNormalized": "rise against",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]\n[A]\n[G]\n[A]\n[E]\nWell a-\n\n[Verse 1]\n[G]side [D]from the name\n[A]that holds [Bm]us to-\n[G]gether Now [D]I think\n[A]we'd fall [Bm]a-\n[G]part [D]It's the years\n[A]we'll [Bm]pretend\n[G]we've [D]forgotten That se-\n[A]parate [Bm]our\n\n[Chorus]\n[G]hearts And I\ndon't remem-\nber\nthe way this\n[A]was But the pic-\ntures prove\nI knew\nyou once\n[G]And\nwhere is the source\nof our mis-\n[A]takes\n\n[Verse 2]\n[G]I'm [D]afraid one\n[A]day we'll [Bm]drift so\n[G]far We'll wake [D]up not know-\n[A]ing where [Bm]we\n[G]are But these [D]words accom-\n[A]plish [Bm]nothing\n[G]if [D]I'm\n[E]gone",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "3 Day Weekend",
+  "id": "8ce18654f903df35d3463f1518d049fdb50c22f752a18633651e9c1446934f06",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 93,
+  "normalizedKey": "rise against|3 day weekend",
+  "playableChords": [
+    "G",
+    "A",
+    "E",
+    "D",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8ce18654f903df35d3463f1518d049fdb50c22f752a18633651e9c1446934f06",
+    "version": "BCFZ"
+  },
+  "tempo": 202,
+  "title": "3 Day Weekend",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,111 @@
+{
+  "artist": "Simon & Garfunkel",
+  "artistNormalized": "simon garfunkel",
+  "capo": "6",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]Hello darkness, my old\n\n[Verse 1]\n[G]friend,\nI've come to talk with you a-\n[Am]gain,\nBecause a vision softly\n[F]creeping, [C]\nLeft its seeds while I was\n[F]sleeping, [C]And the\n[F]vision that was\nplanted in my brain\n[C]Still re-\nmains [C/B][Am][C]Within the\n[G]sound of\n[Am]silence\nIn restless dreams I walked a-\n\n[Verse 2]\n[G]lone\nNarrow streets of cobble-\n[Am]stone,\n`Neath the halo of a\n[F]street lamp, [C]\nI turned my collar to the\n[F]cold and damp [C]When my\n[F]eyes were stabbed By the\nflash of a neon light\n[C]That split the\nnight [C/B][Am][C]And touched the\n[G]sound of\n[Am]silence\nAnd in the naked light I\n\n[Verse 3]\n[G]saw\nTen thousand people, maybe\n[Am]more.\nPeople talking without\n[F]speaking, [C]\nPeople hearing without\n[F]listening, [C]\nPeople writing\n[F]songs that\nvoices never share\n[C]And no one\ndared [C/B][Am][C]Disturb the\n[G]sound of\n[Am]silence\n\"Fools\" said I, \"You do not\n\n[Verse 4]\n[G]know\nSilence like a cancer\n[Am]grows.\nHear my words that I might\n[F]teach you, [C]\nTake my arms that I might\n[F]reach you.\" [C]But my\n[F]words like\nsilent raindrops\n[C]fell,\n[C/B][Am]And\n[C]echoed In the\n[G]wells of\n[Am]silence\nAnd the people bowed and\n\n[Verse 5]\n[G]prayed\nTo the neon god they\n[Am]made.\nAnd the sign flashed out its\n[F]warning, [C]\n[C]In the words that it was\n[F]forming. [C]\nAnd the sign said\n[F]The words of the prophets\nAre written on the subway\n[C]walls And tene-\nment [C/B][Am]halls. [C]\nWhispered\n[G]sound\nof\n\n[Outro]\n[Am]silence",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/B": {
+      "catalog": [
+        "x2201x"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Sound Of Silence",
+  "id": "e65d80db1876af13dd5e9e00a8c9e2c66e16799a58169d564e80495739aa1d5b",
+  "key": "D♯",
+  "keyIdentified": true,
+  "lyricEventCount": 271,
+  "normalizedKey": "simon garfunkel|the sound of silence",
+  "playableChords": [
+    "Am",
+    "G",
+    "F",
+    "C",
+    "C/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 76,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e65d80db1876af13dd5e9e00a8c9e2c66e16799a58169d564e80495739aa1d5b",
+    "version": "BCFZ"
+  },
+  "tempo": 106,
+  "title": "The Sound Of Silence",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

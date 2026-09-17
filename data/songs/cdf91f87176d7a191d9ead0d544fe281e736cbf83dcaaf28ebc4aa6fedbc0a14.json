@@ -1,0 +1,123 @@
+{
+  "artist": "Ray Charles",
+  "artistNormalized": "ray charles",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A#maj7]Well...\nI got a\n\n[Verse 1]\n[A]woman,\nway over\n[E]town\nThat's good to\n[A]me\n[D]\n[A]\nSay I got a\n[D]woman,\nway over\ntown\nGood to\n[E]me\nShe gives me mo-\n\n[Chorus]\n[A]ney\nwhen I'm in need\nYeah, she's a\n[D]kind of\nfriend in-\ndeed\nI got a\n[A]woman,\nway over\n[E]town\nThat's good to\n[A]me\n[D]\n[A]\n[E]She saves her lo-\n\n[Verse 2]\n[A]vin',\nearly in the\n[E]mornin'\nJust for\n[A]me\n[D]\n[A]\nShe saves her lo-\n[D]vin',\nearly in the\nmornin'\nJust for\n[E]me\nShe saves her lo-\n\n[Chorus]\n[A]vin',\njust for\nme Yeah\nshe\n[D]loves\nme, so tender-\nly\nI got a\n[A]woman,\nway over\n[E]town\nShe's good to\n[A]me\n[D]\n[A]\n[E]\n\n[Solo (Saxophone)]\n[A]\n[E]\n[A]\n[D]\n[F]\n[A]\n\n[Bridge]\n[A]She's there to\nlove me [A#maj7]\n[A]Both day and\nnight [A#maj7]\n[A]Never grumbles or\nfusses [A#maj7]\n[A]Always treats me\nright [A#maj7]\n[A]Never runnin' in the\nstreets [A#maj7]\n[A]And leavin' me a-\nlone [A#maj7]\n[A]She knows a\nwoman's place [A#maj7]\n[A]Is right there, now,\nin her home I got a\n\n[Verse 3]\n[A]woman,\nway over\n[E]town\nThat's good to\n[A]me\n[D]\n[A]\nSay I got a\n[D]woman,\nway over\ntown\nThat's good to\n[E]me\nOh she's my ba-\n\n[Chorus]\n[A]by,\noh don't you understand\nYeah,\nand I'm\n[D]\nher lover\nman\nI got a\n[A]woman,\nway over\n[E]town\nThat's good to\n[A]me\n[D]\n[A]\n[E]Oh don't you know she's all\n\n[Outro (Fade Out)]\n[A]right\nOh don't you know she's all\nright\nShe's all right, she's all\nright",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#maj7": {
+      "catalog": [
+        "x13231"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I've Got A Woman",
+  "id": "cdf91f87176d7a191d9ead0d544fe281e736cbf83dcaaf28ebc4aa6fedbc0a14",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 239,
+  "normalizedKey": "ray charles|i ve got a woman",
+  "playableChords": [
+    "A#maj7",
+    "A",
+    "E",
+    "D",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Solo (Saxophone)"
+    },
+    {
+      "measure": 83,
+      "name": "Bridge"
+    },
+    {
+      "measure": 99,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 115,
+      "name": "Chorus"
+    },
+    {
+      "measure": 131,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cdf91f87176d7a191d9ead0d544fe281e736cbf83dcaaf28ebc4aa6fedbc0a14",
+    "version": "BCFZ"
+  },
+  "tempo": 198,
+  "title": "I've Got A Woman",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

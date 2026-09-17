@@ -1,0 +1,135 @@
+{
+  "artist": "Rammstein",
+  "artistNormalized": "rammstein",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\n\n[Verse 1]\n[Am]Sind die Freunde [F]mir [G]gewogen Die\n[E]weisse Fee spannt ihren Bogen Schiesst\n[Am]meiner Sorge [F]ins [G]Gesicht\n[E]Und aus den beiden Haelften bricht\n\n[Pre-Chorus]\n[Am]Der Vater [F]aller [G]Spiegel\n[E]\n[Am]Er winkt mir und ich [F]beug mich [G]vor\n[E]Er fluestert leise in mein Ohr\n\n[Chorus]\n[E]Du bist das\nschoenste Kind von allen\nIch halt dich wie mein\neigen Blut [Dm]\n[E]Du bist das\nschoenste Kind von allen\nIn mir ist auch das\nBoese gut [Dm]\n\n[Verse 2]\n[Am]Die Neugier meinen [F]Traum [G]verlaengert\n[E]Die weisse Fee sie singt und lacht\n[Am]Hat gewaltsam [F]mich [G]geschwaengert\n[E]Und traechtig quaelt mich durch die Na-\n\n[Pre-Chorus]\n[Am]cht Der Vater [F]aller [G]Spiegel\n[E]\n[Am]Er winkt mir und ich [F]beug mich [G]vor\n[E]Er fluestert leise in mein Ohr\n\n[Chorus]\n[E]Du bist das\nschoenste Kind von allen\nIch halt dich wie mein\neigen Blut [Dm]\n[E]D u bist das\nschoenste Kind von allen\nIn mir ist auch das\nBoese gut [Dm]\n\n[Post-Chorus]\n[E]\n[Dm]\n[E]\n[Dm]\n\n[Verse 3]\n[Am]Und wie ich mich der [F]Wehen [G]wehre\n[E]\n[Am]Auf dem Kinderbett [F]noch gehurt [G]\n[E]\n[Am]Seh dabei zu wie [F]ich [G]gebaere\n[E]\n[Am]Und fress die eigne [F]Nachgeburt [G]\n[E]\n\n[Pre-Chorus]\nDu\n\n[Chorus]\n[E]bist das\nschoenste Kind von allen\nIch halt dich wie mein\neigen Blut [Dm]\n[E]Du bist das\nschoenste Kind von allen\nIn mir ist auch das\nBoese gut [Dm]\n\n[Outro]\n[E]Du bist das\nschoenste Kind von allen\nIch halt dich wie mein\neigen Blut [Dm]\n[E]Du bist das\nschoenste Kind von allen\nIn mir ist auch das\nBoese gut [Dm]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Kokain",
+  "id": "ef9271d8951fbca759f8b8c912005f22c2548138f9bdd06496fbf72df3d0d629",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 284,
+  "normalizedKey": "rammstein|kokain",
+  "playableChords": [
+    "E",
+    "Am",
+    "F",
+    "G",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 55,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ef9271d8951fbca759f8b8c912005f22c2548138f9bdd06496fbf72df3d0d629",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "Kokain",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

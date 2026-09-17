@@ -1,0 +1,130 @@
+{
+  "artist": "Rancid",
+  "artistNormalized": "rancid",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Bm7]Another\n[A]east bay\n[D]night\n[G]East bay\n[D]night\n[G]East bay\n[D]night\n[G]East bay\n[D]night\n[G]When the\n\n[Verse 1]\n[D]sun goes down And the\n[A]night come around And the\n[G]fog come a rollin on\n[D]When you\n[D]cast a line to go\n[A]dance one time And an\n[G]old friend invites you in\n[D]Hear a\n[D]punk rock song and we\n[A]sing along Every-\n[G]thing gonna be alright\n[D]\n[Bm7]Another\n[A]east bay\n\n[Chorus]\n[D]night\n[G]East bay\n[D]night\n[G]East bay\n[D]night\n[G]East bay\n[D]night\n[G]Well\n\n[Verse 2]\n[D]Grama stands on the\n[A]very same land On the\n[G]old house up on the hill\n[D]You can\n[D]see the San Francis-\n[A]co Bay Al-\n[G]catraz Albany the land-\n[D]fill And\n[D]reminisce on the front\n[A]porch\n[G]Under a yellow\n[D]light\n[Bm7]Another\n[A]east bay\n\n[Chorus]\n[D]night\n[G]East bay\n[D]night\n[G]East bay\n[D]night\n[G]East bay\n[D]night\n[G]\n\n[Bass solo]\n[Bm]\n[F#m]\n[G]\n[D]\n[A]\n[Bm]\n[F#m]\n[G]\n[D]\n[A]\n\n[Verse 3]\n[D]Earthquake’s shake and fi-\n[A]res take from this\n[G]View I’ve seen it all\n[D]I’ve\n[D]tasted smoke as the hills\n[A]burned I heard\n[G]the freeway fall\n[D]When there’s\n[D]nothin to say just look\n[A]into the bay You know\n[G]some things they just feel right\n[D]\n[Bm7]Another\n[A]east bay\n\n[Chorus]\n[D]night\n[G]East bay\n[D]night\n[G]East bay\n[D]night\n[G]East bay\n[D]night\n[G]\n\n[Outro]\n[D]\n[G]\n[D]\n[G]\n[D]\n[G]\n[D]\n[G]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x2423x",
+        "x-2-4-2-3-2",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "355433",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "East Bay Night",
+  "id": "6e485db5109596719827ee8c68e1cab7ac66cc95842cf1d9df66cbae2eaaa3e1",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 211,
+  "normalizedKey": "rancid|east bay night",
+  "playableChords": [
+    "Bm7",
+    "A",
+    "D",
+    "G",
+    "Bm",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Bass solo"
+    },
+    {
+      "measure": 71,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    },
+    {
+      "measure": 93,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6e485db5109596719827ee8c68e1cab7ac66cc95842cf1d9df66cbae2eaaa3e1",
+    "version": "BCFZ"
+  },
+  "tempo": 196,
+  "title": "East Bay Night",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}
