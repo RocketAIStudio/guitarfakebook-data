@@ -1,0 +1,77 @@
+{
+  "artist": "ZZ Top",
+  "artistNormalized": "zz top",
+  "capo": "No capo",
+  "chordPositionCount": 3,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G5]\nI been up,\n\n[Verse 1]\n[G5]I been down\nTake my word,\nmy way 'round\n[C5]\nI ain't asking for much\n[G5]\nI said, Lord,\n[D5]take me downtown\n[C5]I'm just looking for some tush\n[G5]\nI been bad,\n\n[Verse 2]\n[G5]I been good\nDallas, Te-\nxas, Hollywood\n[C5]\nI ain't asking for much\n[G5]\nI said, Lord,\n[D5]take me downtown\n[C5]I'm just looking for some tush\n[G5]Yeah\n\n[Solo]\n[G5]\n[C5]\n[G5]\n[D5]\n[C5]\n[G5]\n[G5]\n[C5]\n[G5]\n[D5]\n[C5]\n[G5]\nTake me back\n\n[Verse 3]\n[G5]way back home\nNot by my-\nself, not alone\n[C5]I\nain't asking for much\n[G5]\nI said, Lord,\n[D5]take me downtown\n[C5]I'm just looking for some tush\n[G5]\n\n[Outro-Solo]\n[G5]\n[C5]\n[G5]\n[D5]\n[C5]\n[G5]",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "xx023x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tush *alt",
+  "id": "6c7f46446719f75d5a82fae720f1d864dbeba27e74c842c40b399b609d1e2107",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 99,
+  "normalizedKey": "zz top|tush",
+  "playableChords": [
+    "G5",
+    "C5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Solo"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 67,
+      "name": "Outro-Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6c7f46446719f75d5a82fae720f1d864dbeba27e74c842c40b399b609d1e2107",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Tush",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

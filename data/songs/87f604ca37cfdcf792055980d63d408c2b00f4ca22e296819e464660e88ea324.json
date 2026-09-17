@@ -1,0 +1,122 @@
+{
+  "artist": "ZZ Top",
+  "artistNormalized": "zz top",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E5]\n[A5]\n[E5]  [A5]\n[E5][D]What a\n\n[Verse 1]\n[E5]shame, what a shame, what a [D]shame The shape my\n[E5]hair is in It's\nway too humid, today, my head, it\nain't no friend If\n[D]I was seen out, I'd [G]have me arrested\n[D]Gimme, gimme, gimme my sweet [A]hairdresser\n\n[Chorus]\n[E5]Hairdresser,\n[E5]  [A5]\n[E5]hairdresser\n[E5][D]She's hip\n\n[Verse 2]\n[E5]to the fastest bob, She\ngive a good latherjob\nShe don't stand no messin' around\nGimme, gimme, gimme my hairdresser this town\n\n[Chorus]\nHairdresser,\n[E5]  [A5]\n[E5]hairdresser\n[D]Conk it up,\nconk me baby\n\n[Solo 1]\n[E5]\n[D]\n[E5]\n[E5]  [D]\n[G5]  [A5]\n[E5]  [A5]\n[E5]I\n\n[Bridge]\n[E5]likes a wax, I [D]likes a straight\n[E5][A5]I\n[E5]don't like kind of hair you [D]love to hate\n[E5][A5]I can\n[D]dig it dread, I can [G]dig it buzzed I\n[D]can dig a 'do' that [A]does the fuzz\n[D]God, my hair it [G]looks molested\n[E5]Gimme, gimme, gimme my sweet hairdresser\n\n[Chorus]\nHairdresser,\n[E5]  [A5]\nhairdresser\n[E5]  [D]\nHairdresser,\n[E5]  [A5]\nhairdresser\n[E5]\n[D]Yo, yo, Milano\n\n[Solo 2]\n[E5]\n[D]\n[E5]\n[E5]  [D]\n[G5]  [A5]\n[E5]  [A5]\n[E5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hairdresser",
+  "id": "87f604ca37cfdcf792055980d63d408c2b00f4ca22e296819e464660e88ea324",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 175,
+  "normalizedKey": "zz top|hairdresser",
+  "playableChords": [
+    "E5",
+    "A5",
+    "D",
+    "G",
+    "A",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Solo 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "87f604ca37cfdcf792055980d63d408c2b00f4ca22e296819e464660e88ea324",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "Hairdresser",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

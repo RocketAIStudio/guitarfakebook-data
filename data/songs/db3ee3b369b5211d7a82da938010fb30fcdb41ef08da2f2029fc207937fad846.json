@@ -1,0 +1,103 @@
+{
+  "artist": "ZZ Top",
+  "artistNormalized": "zz top",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A5]  [E5]\n[F#5]  [C#5]\n[A5]  [E5]\n[F#5]  [C#5]\n[A5]\n[F#5]\n[B5]\n[E5]\n\n[Verse 1]\n[A5]What in the world's come all\nover me?\n[F#5]I ain't got a chance of\none in three Ain't\n[B5]got no rap, ain't\ngot no line But if you'll\n[E5]give me just a minute I'll be\nfeeling fine\n\n[Verse 2]\n[A5]I am the one who can\nfade the heat\n[F#5]The one they all say just\ncan't be beat I'll\n[B5]shoot it to you straight and\n[B5]look you in the eye So\n[E5]gimme just a minute and I'll\ntell you why I'm a\n\n[Chorus]\n[A5]rough boy,\nI'm a\nrough boy\n\n[Solo 1]\n[C#5]\n[F#5]\n[B5]\n[E5]\n\n[Verse 3]\n[A5]I don't care how you\nlook at me Be-\n[F#5]cause I'm the one and\nyou will see\n[B5]We can make it work,\nwe can make it by So\n[E5]give me one more minute and I'll\ntell you why I'm a\n\n[Chorus]\n[A5]rough boy,\nI'm a\nrough boy\n[E5]\n\n[Solo 2]\n[C#5]\n[F#5]\n[B5]\n[E5]\n[A5]  [E5]\n[A5]  [E5]\n[C#5]  [E5]\n[C#5]  [E5]\n[B5]\n[E5]\n[A5]  [E5]\n[A5]  [E5]\n[C#5]  [E5]\n[C#5]  [E5]\n[B5]\n[E5]\n[A5]  [E5]\n[A5]  [E5]\n[C#5]  [E5]\n[C#5]  [E5]\n[B5]\n[E5]\n[A5]  [E5]\n[A5]  [E5]\n[C#5]  [E5]\n[C#5]  [E5]\n[B5]\n[E5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx",
+        "x02xxx"
+      ],
+      "catalogCount": 2
+    },
+    "B5": {
+      "catalog": [
+        "x24xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx",
+        "x46xxx"
+      ],
+      "catalogCount": 2
+    },
+    "E5": {
+      "catalog": [
+        "022xxx",
+        "02xxxx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx",
+        "24xxxx"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rough boy *alt",
+  "id": "db3ee3b369b5211d7a82da938010fb30fcdb41ef08da2f2029fc207937fad846",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 137,
+  "normalizedKey": "zz top|rough boy",
+  "playableChords": [
+    "A5",
+    "E5",
+    "F#5",
+    "C#5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Intro"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 44,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Solo 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "db3ee3b369b5211d7a82da938010fb30fcdb41ef08da2f2029fc207937fad846",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Rough boy",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

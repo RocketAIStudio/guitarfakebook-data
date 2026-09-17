@@ -1,0 +1,119 @@
+{
+  "artist": "ZZ Top",
+  "artistNormalized": "zz top",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]  [C/G]\n[G]  [C/G]\n\n[Verse 1]\n[G]Jesus just left [C/G]Chica-\ngo\n[G]and he's [C/G]bound\nfor New\n[G]Orleans. [C/G]\n[G]  [C/G]\nWell now,\n[C]Jesus just left [F/C]Chica\ngo\n[C]and he's [F/C]bound\nfor New Or-\n[G]leans. [C/G]\n[G]  [C/G]\nYeah,\n[G]yeah. [C/G]\n\n[Chorus]\n[A]Workin' from one end to the\n[C]other and all\n[G]points in between.\n\n[Verse 2]\n[G]Took a jump through [C/G]Missis-\nsippi,\n[G]well, [C/G]\nmuddy water turned to wine.\n[G]  [C/G]\n[G]  [C/G]\n[C]Took a jump through [F/C]Missis-\nsippi,\n[F/C][C]muddy\nwater turned to wine.\n[G]  [C/G]\n[G]  [C/G]\n[G]Yeah, [C/G]\nyeah.\n\n[Chorus]\n[A]Then out to California\n[C]through the\n[G]forests and the pines.\nAh, take me\nwith you, Jesus.\n\n[Solo]\n[G]\n[C]\n[G]\n[A]\n[C]\n[G]\n\n[Verse 3]\n[G]You might not see him [C/G]in\nperson\n[G]but [C/G]he'll\nsee you just the same.\n[G]  [C/G]\n[G]  [C/G]\n[C]You might not see him [F/C]in\nperson\n[C]but [F/C]he'll\nsee you just the same.\n[G]  [C/G]\n[G]  [C/G]\n\n[Chorus]\n[A]You don't have to wor-\n[C]ry 'cause\n[G]takin' care of business is his\nname.\n\n[Outro]\n[G]\n[C]\n\n[Fade Out]\n[G]\n[A]\n[C]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "3x2013"
+      ],
+      "catalogCount": 1
+    },
+    "F/C": {
+      "catalog": [
+        "x33211"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Jesus Just Left Chicago *alt",
+  "id": "c3c3843007e8ea506ccd2a8c7a0b0d205ea19afd762c6f6391acb26814231a7b",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 147,
+  "normalizedKey": "zz top|jesus just left chicago",
+  "playableChords": [
+    "G",
+    "C/G",
+    "C",
+    "F/C",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 48,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Solo"
+    },
+    {
+      "measure": 82,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 98,
+      "name": "Chorus"
+    },
+    {
+      "measure": 108,
+      "name": "Outro"
+    },
+    {
+      "measure": 120,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c3c3843007e8ea506ccd2a8c7a0b0d205ea19afd762c6f6391acb26814231a7b",
+    "version": "BCFZ"
+  },
+  "tempo": 108,
+  "title": "Jesus Just Left Chicago",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

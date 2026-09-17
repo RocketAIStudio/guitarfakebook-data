@@ -1,0 +1,114 @@
+{
+  "artist": "ZZ Top",
+  "artistNormalized": "zz top",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E5]\n[Am7]\n\n[Main Riff]\n[E5]\n\n[Verse 1]\n[E5]Just got paid today\n[D5]Got me a pocket full of\n[E5]change\nSaid, I\njust got paid today\n[D5]Got me a pocket full\n[E5]of change\nIf you be-\n[G5]lieve like working hard all day Just\n[A5]step in my shoes and take my pay\n[E5]\n\n[Verse 2]\n[E5]I was born my papa's son When I\n[D5]hit the ground I was on the run\n[E5]\nI had\none glad hand and the other behind You can\n[D5]have yours, just give me mine\n[E5]\nWhen the\n[G5]hound dog barking in the black of the night Stick my\n[A5]hand in my pocket, everything's all\n[E5]right\n[A5]\n\n[Solo]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[A5]  [E5]\n[D5]  [A5]\n[D5]  [A5]\n[D5]  [A5]\n[D5]  [A5]\n\n[Interlude]\n[E5]\n[B5]\n\n[Main Riff]\n[E5]\nI\n\n[Verse 3]\n[E5]just got paid today\n[D5]Got me a pocket full of\n[E5]change\nSaid,\nblack sheep, black, do you got some wool?\n[D5]Yes, I do, man, my bag is full\n[E5]\nIt's the\n[G5]root of evil and you know the rest But it's\n[A5]way ahead of what's second best\n[E5]\n\n[Outro]\n[D5]  [E5]\n[D5]  [E5]\n[D5]  [E5]\n[D5]  [E5]\n[D5]  [E5]\n[D5]  [E5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Am7": {
+      "catalog": [
+        "5534xx",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "B5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "10-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Just Got Paid *alt",
+  "id": "8faa1c649f98e80d311419da64a9c1c70cb367ef7ead7455bbc9e3d9b3c7a13f",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 158,
+  "normalizedKey": "zz top|just got paid",
+  "playableChords": [
+    "E5",
+    "Am7",
+    "D5",
+    "G5",
+    "A5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Main Riff"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Solo"
+    },
+    {
+      "measure": 69,
+      "name": "Interlude"
+    },
+    {
+      "measure": 81,
+      "name": "Main Riff"
+    },
+    {
+      "measure": 87,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 99,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8faa1c649f98e80d311419da64a9c1c70cb367ef7ead7455bbc9e3d9b3c7a13f",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Just Got Paid",
+  "tuning": "E B E G# B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,120 @@
+{
+  "artist": "ZZ Top",
+  "artistNormalized": "zz top",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Cm]\n\n[Verse 1]\n[Cm]Clean shirt,\nnew shoes, [Bb]\nand I don't know where I [F]am\ngoin' to.\n[Cm]Silk suit,\nblack tie, [Bb]\nI don't need a [F]reason\nwhy.\n\n[Chorus]\n[G]They come runnin' just as\nfast as they can, 'cause\n[Cm]every girl crazy 'bout a\nsharp dressed man.\n\n[Interlude]\n[Cm]\n\n[Verse 2]\n[Cm]Gold watch,\ndiamond ring. [Bb]\nI ain't missin' not [F]a\nsingle thing.\n[Cm]And cufflinks,\nstick pin. [Bb]\nWhen I step out I'm [F]gonna\ndo you in.\n\n[Chorus]\n[G]They come runnin' Just as\nfast as they can, 'cause\n[Cm]every girl crazy 'bout a\nsharp dressed man.\n\n[Guitar Solo 1]\n[Cm]\n[G]\n[F]\n[Cm]\n[F]\n[Cm]\n[G]\n\n[Interlude]\n[Cm]\n\n[Verse 3]\n[Cm]Top coat,\ntop hat. [Bb]\nWell, I don't worry 'cause [F]my\nwallet's fat.\n[Cm]Black shades,\nwhite gloves. [Bb]\nLookin' sharp [F]and\nlookin' for love.\n\n[Chorus]\n[G]They come runnin' Just as\nfast as they can, 'cause\n[Cm]every girl crazy 'bout a\nsharp dressed man.\n\n[Guitar Solo 2]\n[Cm]\n[F]\n[Cm]\n[F]\n[Cm]\n[F]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sharp Dressed Man *alt",
+  "id": "78ce7deb580adcbc2fde0ca9b10643c20d4c94f3bd8b6a0b994c55a8bad0570b",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 143,
+  "normalizedKey": "zz top|sharp dressed man",
+  "playableChords": [
+    "Cm",
+    "Bb",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Interlude"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Guitar Solo 1"
+    },
+    {
+      "measure": 69,
+      "name": "Interlude"
+    },
+    {
+      "measure": 77,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Guitar Solo 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "78ce7deb580adcbc2fde0ca9b10643c20d4c94f3bd8b6a0b994c55a8bad0570b",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "Sharp Dressed Man",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

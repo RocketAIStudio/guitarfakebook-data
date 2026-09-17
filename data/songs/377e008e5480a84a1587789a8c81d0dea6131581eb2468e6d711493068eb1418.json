@@ -1,0 +1,134 @@
+{
+  "artist": "ZZ Top",
+  "artistNormalized": "zz top",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am7]\nWhen\n\n[Verse 1]\n[Am7]I woke up this morn\nin' Had a\nsmile run across my\n[E7]face. My\n[Am7]baby from town just a\n[Dm]had to get down, Come and\n[E]drag me all over the place.\nGonta\n\n[Verse 2]\n[Am7]drive on a flatbed\ntrailer truck Down on\nhighway fifty nine.\n[E7]\n[Am7]I had the blues and my\n[Dm]baby, she knew She's\n[E]holdin' little piece of mind.\nDown\n\n[Chorus]\n[Dm]brownie,\nMy brownie down\n[Am7]town,\nDown brown\n[B7]ie.\n[E7]\n[B7]  [D7]\n[B7][D7]Got my\n\n[Verse 3]\n[Am7]share and I'm a black hand\ncotton field Just to\ntry and keep myself alive.\n[E7]Eatin'\n[Am7]red beans and rice with the\n[Dm]right sauce, it's nice Or\n[E]anything you wanna try.\n\n[Solo 1]\n[Am7]\n[E7]\n[Am7]\n[Dm]\n[E]\n\n[Solo 2]\n[Dm]\n[Am7]\n[B7]\n[E7]\n[B7]  [D7]\n[B7][D7]Now I'm\n\n[Verse 4]\n[Am7]hitchin' a ride back from\nBrownie's, I'm kind of\nsad but I feel alright.\n[E7]The\n[Am7]cold night it stings but I\n[Dm]got me some wings, I'll be\n\n[Outro]\n[E]flyin' into Houston to-\nnight. [Am7]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "x5453x",
+        "x-x-0-2-1-2",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Down Brownie",
+  "id": "377e008e5480a84a1587789a8c81d0dea6131581eb2468e6d711493068eb1418",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 162,
+  "normalizedKey": "zz top|down brownie",
+  "playableChords": [
+    "Am7",
+    "E7",
+    "Dm",
+    "E",
+    "B7",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 49,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 64,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "377e008e5480a84a1587789a8c81d0dea6131581eb2468e6d711493068eb1418",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Down Brownie",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

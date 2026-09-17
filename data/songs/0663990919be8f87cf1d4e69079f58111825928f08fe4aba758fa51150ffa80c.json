@@ -1,0 +1,92 @@
+{
+  "artist": "ZZ Top feat. Jeff Beck",
+  "artistNormalized": "zz top feat jeff beck",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[B5]\n[B5]\n[B5]\n[B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5][A5][B5]Well some\n\n[Verse 1]\n[B5]people [A5]say a [B5]man is ma-\n[B5]de [A5]outta mud [B5]\n[B5]Poor [A5]man's [B5]made outta\n[B5]muscle [A5]and blood [B5]\n[B5]Muscle [A5]and blood, [B5]and\n[E5]skin and [D5]bones [E5]A\n[F#5]mind that's weak and a\nback that's strong i got a\n\n[Verse 2]\n[A5][B5]sixteen [B5]tons\n[B5]what do [A5]you get? [B5]A-\n[B5]nother day [A5]older [B5]and deeper in debt\n[B5]St [A5]Peter [B5]don't you\n[B5]call [A5]me [B5]cause I can-\n[E5]'t [D5]go [E5]I\n[F#5]owe my soul to the\ncompany store\n\n[Bridge]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n\n[Solo]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5]  [A5]  [B5]\n[B5][A5][B5]Yeah I\n\n[Verse 3]\n[B5]said people [A5]say a [B5]man is ma-\n[B5]de [A5]outta mud [B5]\n[B5]Poor [A5]man's [B5]made outta\n[B5]muscle [A5]and blood [B5]\n[B5]Muscle [A5]and blood, [B5]and\n[E5]skin and [D5]bones [E5]A\n[F#5]mind that's weak and a\nback that's strong i got a\n[A5][B5]sixteen [B5]tons\n[B5]what do [A5]you get? [B5]A-\n[B5]nother day [A5]older [B5]and deeper in debt\n[B5]St [A5]Peter [B5]don't you\n[B5]call [A5]me [B5]cause I can-\n[E5]'t [D5]go [E5]I\n[F#5]owe my soul to the\ncompany store\n[E5]\n[B5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sixteen Tons",
+  "id": "0663990919be8f87cf1d4e69079f58111825928f08fe4aba758fa51150ffa80c",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 176,
+  "normalizedKey": "zz top feat jeff beck|sixteen tons",
+  "playableChords": [
+    "B5",
+    "A5",
+    "E5",
+    "D5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 46,
+      "name": "Solo"
+    },
+    {
+      "measure": 70,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0663990919be8f87cf1d4e69079f58111825928f08fe4aba758fa51150ffa80c",
+    "version": "BCFZ"
+  },
+  "tempo": 123,
+  "title": "Sixteen Tons",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

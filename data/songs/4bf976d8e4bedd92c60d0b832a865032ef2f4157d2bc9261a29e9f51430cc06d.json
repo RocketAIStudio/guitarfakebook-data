@@ -1,0 +1,97 @@
+{
+  "artist": "ZZ Top",
+  "artistNormalized": "zz top",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A5]\n[A5]\nHave mer-\n\n[Verse 1]\n[A5]cy,\nbeen waiting for the bus all day\nHave\n[D5]mercy,\nbeen waiting for the bus all day\n[A5]\nI got my\n[E5]brown paper bag and my\n[D5]takehome pay\n\n[Bridge]\n[A5]\nHave mer-\n\n[Verse 2]\n[A5]cy,\nold bus be packed up tight\nHave mer-\n[D5]cy,\nold bus be packed up tight\n[A5]\nWell, I'm\n[E5]glad just to get on and\n[D5]home tonight [A5]\n[D5]  [E5]\n\n[Solo 1]\n[A5]\n\n[Solo 2]\n[G5]\n[E5]\n[A5]\n\n[Bridge]\n[A5]\n[A5]\nRight on,\n\n[Verse 3]\n[A5]\nthat bus done got me back\nRight on,\n[D5]\nthat bus done got me back\n[A5]\nWell, I'll be\n[E5]riding on the bus till I\n[D5]Cadillac\n\n[Outro]\n[A5]\n[E5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx",
+        "x799xx"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Waitin' for the Bus *alt",
+  "id": "4bf976d8e4bedd92c60d0b832a865032ef2f4157d2bc9261a29e9f51430cc06d",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 93,
+  "normalizedKey": "zz top|waitin for the bus",
+  "playableChords": [
+    "A5",
+    "D5",
+    "E5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Bridge"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 43,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 56,
+      "name": "Bridge"
+    },
+    {
+      "measure": 62,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 72,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4bf976d8e4bedd92c60d0b832a865032ef2f4157d2bc9261a29e9f51430cc06d",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Waitin' for the Bus",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

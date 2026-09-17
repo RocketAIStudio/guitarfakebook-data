@@ -1,0 +1,104 @@
+{
+  "artist": "ZZ Top",
+  "artistNormalized": "zz top",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D5]  [C5]  [D5]\n[C5]  [D5]\n[C5]  [D5]\n[C5]  [D5]\n[C5]  [D5]\n[C5]  [D5]\n[C5]  [D5]\n[C5]  [D5]\n\n[Verse 1]\n[D5]It's three o'clock in the mor-\nning\nAnd the rain begin to fall\nBut I know what I'm\nneeding\nBut I don't have it all\n\n[Chorus]\n[C5]I'm needing someone like you\n[G5]That I just wanna do\nlove to\n[D5]Baby, baby,\n[A5]I need you tonight\n[D5]\n\n[Verse 2]\n[D5]Outside my win-\ndow\nIt's lonely and cold\nInside my heart there's\na fire\nBurning out of control\n\n[Chorus]\n[C5]Burning for someone like you\n[G5]I just wanna do\nlove to\n[D5]Baby, baby,\n[A5]I need you tonight\n[D5]\n\n[Solo 1]\n[D5]\n[G5]\n[F5]\n[D5]\n[G5]\n[F5]\n[D5]\n[A5]\n[D5]\n[D5]\n[G5]\n[F5]\n[D5]\n[G5]\n[F5]\n[D5]\n[A5]  [G5]\n[D5]\n\n[Verse 3]\n[D5]Your love's coming to\nme\nLike a wolf howling at the moon\nBut that just doesn't do\nme\nIf I can't get you\nsoon I'm\n\n[Chorus]\n[C5]calling for someone like you\n[G5]That I just wanna do\nlove to\n[D5]Baby, baby,\n[A5]I need [C5]you [A5]tonight\n[D5]\n\n[Solo 2]\n[D5]\n[G5]\n[F5]\n[D5]\n[G5]\n[F5]\n[D5]\n[A5]\n[D5]\n[D5]\n[G5]\n[F5]\n[D5]\n[G5]\n[F5]\n[D5]\n[C5]\n[A5]  [G5]\n[D5]\n[D5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x02xxx",
+        "57xxxx"
+      ],
+      "catalogCount": 2
+    },
+    "C5": {
+      "catalog": [
+        "x35xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x57xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "13xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "35xxxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Need You Tonight",
+  "id": "41b0ff7845f74bc314c417457994851facca1d038950a4044b4780fb7618e473",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 151,
+  "normalizedKey": "zz top|i need you tonight",
+  "playableChords": [
+    "D5",
+    "C5",
+    "G5",
+    "A5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 84,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 92,
+      "name": "Chorus"
+    },
+    {
+      "measure": 100,
+      "name": "Solo 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "41b0ff7845f74bc314c417457994851facca1d038950a4044b4780fb7618e473",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "I Need You Tonight",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

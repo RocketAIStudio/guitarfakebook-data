@@ -1,0 +1,112 @@
+{
+  "artist": "ZZ Top",
+  "artistNormalized": "zz top",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro 1]\n[E]\n\n[Intro 2]\n[A7]\n[E]\n[B7]\n[A7]\n[E]\n[Dsus2/B]\n\n[Verse 1]\n[E]I got a girl she lives\ncross town,\nShe's the one that real\nly gets down. When she\n[A7]boogie,\nShe do the\n[E]tube snake boogie.\nWell now\n[B7]boogie little baby,\n[A7]Boogie woogie all night\n[E]long.\n[Dsus2/B]\n\n[Verse 2]\n[E]I got a girl she lives\non the block,\nShe kinda funky with her\npink and black socks. She likes\n[A7]to boogie,\nShe do the\n[E]tube snake boogie.\nWell now\n[B7]boogie woogie baby,\n[A7]Boogie woogie all night\n[E]long.\n[Dsus2/B]\n\n[Solo 1]\n[E]\n[A7]\n[E]\n[B7]\n[A7]\n[E]\n[Dsus2/B]\n\n[Solo 2]\n[E]\n[A7]\n[E]\n[B7]\n[A7]\n[E]\n[Dsus2/B]\n\n[Verse 3]\n[E]I got a girl, she lives\non the hill.\nShe won't do it but her\nsister will, When she\n[A7]boogie,\nShe do the\n[E]tube snake boogie.\nWell now\n[B7]boogie little baby,\n[A7]Boogie woogie all night\n[E]long. Blow your top\nblow your top [Dsus2/B]blow your top.\n\n[Solo 3]\n[E]\n[A7]\n[E]\n[B7]\n[A7]\n[E]\n[Dsus2/B]\n\n[Solo 4]\n[E]\n[A7]\n[E]\n[B7]\n[A7]\n[E]\n[Dsus2/B]\n\n[Solo 5 (Fade Out)]\n[E]\n[A7]\n[E]\n[B7]\n[A7]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02023",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2/B": {
+      "catalog": [
+        "7777xx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tube Snake Boogie *alt",
+  "id": "d565485db56deac93a63cc70c2df50e2c9aec482cb88705ef68ebdb42b2eeb04",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 143,
+  "normalizedKey": "zz top|tube snake boogie",
+  "playableChords": [
+    "E",
+    "A7",
+    "B7",
+    "Dsus2/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 9,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 57,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 69,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 81,
+      "name": "Solo 3"
+    },
+    {
+      "measure": 93,
+      "name": "Solo 4"
+    },
+    {
+      "measure": 105,
+      "name": "Solo 5 (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d565485db56deac93a63cc70c2df50e2c9aec482cb88705ef68ebdb42b2eeb04",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Tube Snake Boogie",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,141 @@
+{
+  "artist": "ZZ Top",
+  "artistNormalized": "zz top",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Em]\n[Em]\n[G]\n[Em]\n[G]\n[Em]\n[G]\n[Em]\n[G]Did you\n\n[Verse 1]\n[Em]ever hear the story That\n[G]happened not [A]long [Em]ago 'bout the\n[Em]man with a tan: El di-\n[G]ablo de [Em][A]Mexico? And this\n[Am]man played his hand And he\n[G]lived by the [A]luck of the [Em]draw; Now and\n[Em]then and again, Found him\n[G]steppin' [A]outside of the [Em]law Hey, hey!\n[B7]\nAnd his\n\n[Verse 2]\n[Em]fortune he had made let\n[G]him live high [A]on the [Em]hog Til the\n[Em]day of the raid When they\n[G]hunted him [A]like a [Em]dog. He was\n[Am]out on the run,\n[G]Knowing he [A]could get [Em]by, 'Cause the\n[Em]men killed in sin were\n[G]not there to [Em][A]testify. Hey, hey!\n[B7]\n\n[Solo]\n[Em7]\n[F#m7]\n[Em7]\n[F#m7]\n[Em7]\n[F#m7]\n[Em7]\n[F#m7]\n[Em7]\n[F#m7]\n\n[Intrelude]\n[Em]\n[G]\n[Em]\n[G]\n[Em]\n[G]\n[Em]\nHe was\n\n[Verse 3]\n[Em]caught, he was bound In\n[G]La Casa de [Em][A]Calaboose. He was\n[Em]tried; he was found And\n[G]readied [A]for the [Em]noose. But the\n[Am]break he would make, It\n[G]didn't turn [A]out so [Em]well. And the\n[Em]hombre called \"Diablo\"\n[G]Bid his last [Em][A]farewell.\n[B7]\n\n[Outro 1]\n[Em7]\n[F#m7]\n[Em7]\n[F#m7]\n[Em7]\n[F#m7]\n[Em7]\n[F#m7]\n[Em7]\n[F#m7]\n[Em7]\n[F#m7]\n[Em7]\n[F#m7]\n[Em7]\n[F#m7]\n[Em7]\n[F#m7]\n\n[Outro 2]\n[Em7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "244252",
+        "2-4-2-2-2-2",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "El Diablo",
+  "id": "87e9d8b0cc7baebb139fd415a7f084d9a32d7f1af22d9d65ba28d4010db98348",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 164,
+  "normalizedKey": "zz top|el diablo",
+  "playableChords": [
+    "Em",
+    "G",
+    "A",
+    "Am",
+    "B7",
+    "Em7",
+    "F#m7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Solo"
+    },
+    {
+      "measure": 51,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 71,
+      "name": "Outro 1"
+    },
+    {
+      "measure": 107,
+      "name": "Outro 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "87e9d8b0cc7baebb139fd415a7f084d9a32d7f1af22d9d65ba28d4010db98348",
+    "version": "BCFZ"
+  },
+  "tempo": 153,
+  "title": "El Diablo",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}
