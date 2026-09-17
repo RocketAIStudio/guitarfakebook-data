@@ -1,0 +1,119 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D]\n[Bm]\n[D]\n[Bm]\n\n[Verse 1]\n[D]Thought I ran in-\nto you down\n[Bm]on the street\n[D]Then it turned out\nto only\n[Bm]be a dream\n[G]I made a point\n[D]to burn all of-\n[F#]the photographs\n[Bm]\n[G]She went away\n[D]and then I took\n[F#]a different path\n[Bm]  [A]\n[G]I remember\n[D]the face but I can't\n[F#]recall the name\n[Bm]  [A]\n[G]Now I wonder how whats-\n[A]hername has been\n\n[Bridge]\n[D]\n[Bm]\n[D]\n[Bm]\n\n[Verse 2]\n[D]Seems that she dis-\nappeared with-\n[Bm]out a trace\n[D]Did she ever\nmarry 'ole\n[Bm]whatshisface\n[G]I made a point\n[D]to burn all of-\n[F#]the photographs\n[Bm]\n[G]She went away\n[D]and then I took\n[F#]a different path\n[Bm]  [A]\n[G]I remember\n[D]the face but I can't\n[F#]recall the name\n[Bm]  [A]\n[G]Now I wonder how whats-\n[A]hername has been\n\n[Break]\n[D]\n[Bm]\n[D]\n[Bm]\n\n[Guitar Solo]\n[G]\n[D]\n[F#]\n[Bm]\n[G]\n[D]\n[F#]\n[Bm]  [A]\n\n[Interlude]\n[G]\n[D]\n[A]\n[D]\n[G]\n[D]\n[A]\n[D]\n[G]The regrets\n[D]are useless in my\n[F#]mind She's in my head\n[Bm]I [A]must confess\n[G]The regrets\n[D]are useless in my\n[F#]mind She's in my head\n[Bm]so long [A]ago!\n[G]\n[D]\n[F#]\n[Bm]  [A]\n[G]\n[D]\n[F#]\n[Bm]  [A]\n[G]And in the dar-\n[A]kest night [D]\n[G]if my memo-\n[A]ry serves [D]me right\n[G]I'll never turn\n[A]back time [D]\n[G]Forgetting you\n[A]but not the time.\n\n[Outro]\n[D]\n[Bm]\n[D]\n[Bm]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "4443xx",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "5554xx",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Whatsername",
+  "id": "4176c51d0b2fe3ef824e1a055fc68da407a40b1094e857632d094e785986d7f3",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 196,
+  "normalizedKey": "green day|whatsername",
+  "playableChords": [
+    "D",
+    "Bm",
+    "G",
+    "F#",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 64,
+      "name": "Break"
+    },
+    {
+      "measure": 72,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 80,
+      "name": "Interlude"
+    },
+    {
+      "measure": 112,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4176c51d0b2fe3ef824e1a055fc68da407a40b1094e857632d094e785986d7f3",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Whatsername",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

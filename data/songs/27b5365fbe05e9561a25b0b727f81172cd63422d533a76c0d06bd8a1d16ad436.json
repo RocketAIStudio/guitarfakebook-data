@@ -1,0 +1,104 @@
+{
+  "artist": "Harry Styles",
+  "artistNormalized": "harry styles",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\n[C7M]\n[D]\n[Bm7]Hey!\n[C]\n[C7M]\n[D]\n[Bm7]\n\n[Verse 1]\n[C]Golden,\ngolden,\ngolden as\nI [C7M]open my eyes\n[D]Hold it,\nfocus,\nhoping, take\nme back [Bm7]to the light\n[C]I\nknow you\nwere way\ntoo bright [C7M]for me I'm\n[D]hopeless,\nbroken,\nso you wait\nfor me [Bm7]in the\n[C]sky\nBrown\nmy skin [C7M]just right\n[D]\nYou're\nso golden\n\n[Chorus]\n[C]\nYou're\nso [C7M]golden\n[D]I'm\nout of my head, and I know\nthat you're scared Because hearts\nget [Bm7]broken I\n\n[Verse 2]\n[C]don't wanna be alone\nI\ndon't wanna be alone\nwhen [C7M]it ends\n[D]Don't wanna let you know\nI\ndon't wanna be alone\nBut [Bm7]I\n[C]can feel it take a hold\nI\ncan feel you take control\nOf who [C7M]I am,\n[D]and all I've ever known\nLo-\nvin' you's the antidote\nGolden\n\n[Chorus]\n[C]\nYou're\nso [C7M]golden\n[D]I\ndon't wanna be alone\nYou're\nso [Bm7]golden\n[C]\nYou're\nso [C7M]golden\n[D]I'm out\nof my head, and I know\nthat you're scared Because hearts\nget [Bm7]broken\n\n[Bridge]\n[C]Golden, gol-\nden,\ngolden, gol-\nden [C7M]\n[D]Golden, gol-\nden,\ngolden, gol-\nden [Bm7]\n[C]Golden, gol-\nden,\ngolden, gol-\nden [C7M]\n[D]Golden, gol-\nden I know\nthat you're scared because I'm\nso open\n\n[Chorus]\n[C]\nYou're\nso [C7M]golden\n[D]I\ndon't wanna be alone\nYou're\nso [Bm7]golden\n[C]You're\nso golden\nYou're\nso [C7M]golden\n[D]I'm\nout of my head, and I know\nthat you're scared Because hearts\nget [Bm7]broken\n\n[Outro]\n[C]Tadadada\nTadadadada\nTadadada\n[C7M]Tadadadada\n[D]Tadadada\nTadadadada\nTadadada",
+  "diagrams": {
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7M": {
+      "catalog": [
+        "x3200x"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Golden",
+  "id": "27b5365fbe05e9561a25b0b727f81172cd63422d533a76c0d06bd8a1d16ad436",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 287,
+  "normalizedKey": "harry styles|golden",
+  "playableChords": [
+    "C",
+    "C7M",
+    "D",
+    "Bm7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Bridge"
+    },
+    {
+      "measure": 97,
+      "name": "Chorus"
+    },
+    {
+      "measure": 113,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "27b5365fbe05e9561a25b0b727f81172cd63422d533a76c0d06bd8a1d16ad436",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Golden",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

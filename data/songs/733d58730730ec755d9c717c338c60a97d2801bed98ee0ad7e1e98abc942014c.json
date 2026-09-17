@@ -1,0 +1,100 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D5]  [B5]\n[G5]  [A5]\n[D5]  [B5]\n[G5]  [A5]\n[D5]  [A5]\n[F#5]  [G5]\n[D5]  [A5]\n[F#5]  [G5]\n\n[Verse 1]\n[D5]I saw you [A5]stan-\nding alone,\n[F#5]With a [G5]sad\nlook on your face.\n[D5]You call him [A5]on\nthe phone.\n[F#5]Looks like he [G5]left\nwithout a trace.\n[D5]Falling [A5]out\nof your eyes.\n[F#5]He's living [G5]in\na disguise.\n[D5]Been feeling [A5]bad\nfor so long,\n[F#5]You wonder [G5]if\nit's right or wrong.\n\n[Chorus]\n[D5]Why do you [B5]want\nhim?\n[G5]  [A5]\n[D5]Why do you [B5]want\nhim?\n[G5]  [A5]\n\n[Verse 2]\n[D5]Now many [A5]days\nhave gone by,\n[F#5]You still just [G5]sit\nthere and cry.\n[D5]You're feeling [A5]bad\nfor yourself,\n[F#5]His [G5]memory\nwill always dwell.\n[D5]You're so [A5]obsessed\nwith his love,\n[F#5]And that's why [G5]push\ncame to shove.\n[D5]Been feeling [A5]bad\nfor so long,\n[F#5]You wonder [G5]if\nit's right or wrong.\n\n[Chorus]\n[D5]Why do you [B5]want\nhim?\n[G5]  [A5]\n[D5]Why do you [B5]want\nhim?\n[G5]  [A5]\n[D5]Why do you [B5]want\nhim?\n[G5]  [A5]\n[D5]Why do you [B5]want\nhim?\n[G5]  [A5]\n\n[Bridge]\n[G5][A5][B5][G5][A5]You\nfind a way out\n[G5][A5][B5][G5][A5]To\nthrow it all the way,\n[G5][A5][B5][G5][A5]But\nyou can bet\n[G5][A5][B5][G5]You [A5]got\nsomething to say.\n\n[Guitar Solo]\n[D5]  [A5]\n[F#5]  [G5]\n[D5]  [A5]\n[F#5]  [G5]\n[D5]  [A5]\n[F#5]  [G5]\n[D5]  [A5]\n[F#5]  [G5]\n\n[Chorus]\n[D5]Why do you [B5]want\nhim?\n[G5]  [A5]\n[D5]Why do you [B5]want\nhim?\n[G5]  [A5]\n[D5]Why do you [B5]want\nhim?\n[G5]  [A5]\n[D5]Why do you [B5]want\nhim?\n[G5]  [A5]\n[D5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Why Do You Want Him? *alt",
+  "id": "733d58730730ec755d9c717c338c60a97d2801bed98ee0ad7e1e98abc942014c",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 185,
+  "normalizedKey": "green day|why do you want him",
+  "playableChords": [
+    "D5",
+    "B5",
+    "G5",
+    "A5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Bridge"
+    },
+    {
+      "measure": 83,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 99,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "733d58730730ec755d9c717c338c60a97d2801bed98ee0ad7e1e98abc942014c",
+    "version": "BCFZ"
+  },
+  "tempo": 190,
+  "title": "Why Do You Want Him?",
+  "tuning": "D G C F A D",
+  "variantRole": "alt"
+}

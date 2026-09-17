@@ -1,0 +1,118 @@
+{
+  "artist": "From First To Last",
+  "artistNormalized": "from first to last",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Cmaj7]\n[Em]\n[Dsus2]\n[Cmaj7]\n[Em]\n[Dsus2]\n[Cmaj7]\n[Em]\n[Dsus2]\n[Cmaj7]\n[Em]\n[Dsus2]\n\n[Verse 1]\n[Cmaj7]Smiles and her laugh\nter It's the\n[Em]only thing that I've\n[Dsus2]been waiting\n[Cmaj7]for a time\nRe-\n[Em]gardless of our dis\n[Dsus2]tance and our\n[Cmaj7]hope grows grea\nter\n[Em]Trapped by pretty eyes\n[Dsus2]and letters\n[Cmaj7]for all time\nThe\n[Em]only thing that I've\n[Dsus2]been waiting\n\n[Chorus]\n[Cmaj7]for [Bm][G]\nI\nhope it's something worth\nthe waiting\n[Cmaj7]  [Bm]  [G/C]\n'Cause it's the\nonly time that I\never feel real\n[Cmaj7]  [Bm]  [G]\nThunder storms could ne\nver stop me\n[Cmaj7]  [Bm]  [G/C]\n'Cause there's\nno one in the [Bm]world\nlike Emily\n\n[Bridge]\n[Cmaj7]\n[Em]\n[Dsus2]\n[Cmaj7]\n[Em]\n[Dsus2]She's\n\n[Verse 2]\n[Cmaj7]simple yet confus\ning Her spark-\n[Em]ling eyes make me weak\n[Dsus2]at my words,\n[Cmaj7]they trem\nble\n[Em]Days seem like years in\n[Dsus2]this month of Decem\n[Cmaj7]ber The win\nter\n[Em]coldens me for I\n[Dsus2]have yet to\n[Cmaj7]sleep And ne\nver will\n[Em]I give up trying 'cause you're\n[Dsus2]everything to\n\n[Chorus]\n[Cmaj7]me [Bm][G]\nI\nhope it's something worth\nthe waiting\n[Cmaj7]  [Bm]  [G/C]\n'Cause it's the\nonly time that I\never feel real\n[Cmaj7]  [Bm]  [G]\nThunder storms could ne\nver stop me\n[Cmaj7]  [Bm]  [G/C]\n'Cause there's\nno one in the [Bm]world\nlike Emily\n\n[Outro]\n[Cmaj7]There's\nno one in the world\nlike Emily",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x35000",
+        "x-3-2-0-0-0",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/C": {
+      "catalog": [
+        "x35433"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Emily",
+  "id": "1b06effc510dbc3d369a780478e73705feb50ffe08442245f848807c2d788ec5",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 211,
+  "normalizedKey": "from first to last|emily",
+  "playableChords": [
+    "Cmaj7",
+    "Em",
+    "Dsus2",
+    "Bm",
+    "G",
+    "G/C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1b06effc510dbc3d369a780478e73705feb50ffe08442245f848807c2d788ec5",
+    "version": "BCFZ"
+  },
+  "tempo": 148,
+  "title": "Emily",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

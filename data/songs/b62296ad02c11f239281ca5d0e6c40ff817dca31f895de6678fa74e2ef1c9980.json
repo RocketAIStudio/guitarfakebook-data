@@ -1,0 +1,126 @@
+{
+  "artist": "Foo Fighters",
+  "artistNormalized": "foo fighters",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E]\n[D]  [E]\n[D]  [E]\n[D]  [E]\n[D]  [E]\n[D]  [E]\n[D][A]La\n\n[Verse 1]\ntely,\nI've\nbeen\nLi\nvin' in my head\nThe rest\nof me is dead,\nI'm dy ing for [E]truth.\n[D]  [E]\n[D][A]Make\nme,\nbe\nlieve,\nNo\nmore left and right,\nCome\non take my side,\nI'm fightin' for [E]you,\nI'm [D]fightin' for [E]you.\n[D]\n\n[Chorus]\nPleased to meet\nyou take my [A]hand,\nThere is [E]no\nway\nback from [B]here,\n[D]\nPleased to meet\nyou say your [A]prayers,\nThere is [E]no\nway\nback from [B]here,\nBut I don't [A]care,\n[G]No [D/F#]way\n[E]back [D]from\n[E]here.\n[D]  [E]\n[D][A]Wake\n\n[Verse 2]\nme,\nI'm rea\ndy,\nSome\nthin' don't seem right,\nI\nwas dreamin', I\nwas talk in' to [E]you,\n[D]  [E]\n[D][A]Me\nm'ry,\nmend\nme,\nKnow\nI've seen my share,\nThings\nI can't repair,\nI'm breakin' to [E]you,\nI'm [D]breakin' to [E]you,\n[D]\n\n[Chorus]\nPleased to meet\nyou take my [A]hand,\nThere is [E]no\nway\nback from [B]here,\n[D]\nPleased to meet\nyou say your [A]prayers,\nThere is [E]no\nway\nback from [B]here,\nBut I don't [A]care,\n[G]No [D/F#]way\n[E]back [D]from\n\n[Solo]\n[E]\n[D][E]here.\n, yeah [D][A]\n[E]\n[D]  [E]\n[D]\n\n[Chorus]\nPleased to meet\nyou take my [A]hand,\nThere is [E]no\nway\nback from [B]here,\n[D]\nPleased to meet\nyou say your [A]prayers,\nThere is [E]no\nway\nback from [B]here,\nBut I don't [A]care,\n[G]No [D/F#]way\n[E]back [D]from\n\n[Outro]\n[E]\n[D][E]here.\n[D]oh [E]yeah\n[D]  [E]\n[D]  [E]\n[D]  [E]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "2x0232"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "No Way Back",
+  "id": "b62296ad02c11f239281ca5d0e6c40ff817dca31f895de6678fa74e2ef1c9980",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 212,
+  "normalizedKey": "foo fighters|no way back",
+  "playableChords": [
+    "E",
+    "D",
+    "A",
+    "B",
+    "G",
+    "D/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    },
+    {
+      "measure": 105,
+      "name": "Solo"
+    },
+    {
+      "measure": 121,
+      "name": "Chorus"
+    },
+    {
+      "measure": 141,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b62296ad02c11f239281ca5d0e6c40ff817dca31f895de6678fa74e2ef1c9980",
+    "version": "BCFZ"
+  },
+  "tempo": 187,
+  "title": "No Way Back",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

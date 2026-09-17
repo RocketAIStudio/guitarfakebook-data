@@ -1,0 +1,85 @@
+{
+  "artist": "Gordon Lightfoot",
+  "artistNormalized": "gordon lightfoot",
+  "capo": "3",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[D]\n[G/D]\n[A]  [G/D]\n[D]  [G/D]\n\n[Verse 1]\n[D]In the early morning\n[A]rain\nWith a [G/D]dollar in my\n[D]hand [G/D]\n[D]With an aching in my\n[G/D]heart\nAnd my pockets full of\n[D]sand [G/D]\n[D]I'm a long way from\n[G/D]home\n[A]Lord I miss my loved ones\n[D]so [G/D]\n[D]In the early morning\n[A]rain\nWith [G/D]no place to\n[D]go [G/D]\n\n[Verse 2]\n[D]Out on runway number nine\n[A]\nBig [G/D]sevenoseven set to\n[D]go [G/D]\n[D]And I'm stuck here in the grass\n[G/D]\nWith a pain that ever\n[D]grows [G/D]\n[D]Now, the liquor tastin'\n[G/D]good\n[A]And the women all were\n[D]fast [G/D]\n[D]And then there she goes, my\n[A]friend\nShe's be [G/D]rollin' down at\n[D]last [G/D]\n[A]  [G/D]\n[D]  [G/D]\n\n[Verse 3]\n[D]Hear the mighty engines\n[A]roar\nSee the [G/D]silver wing on\n[D]high [G/D]\n[D]She's away and westward\n[G/D]bound\nFar above the clouds she'll\n[D]fly [G/D]\n[D]Where the morning rain don't\n[G/D]fall\n[A]And the sun always\n[D]shines [G/D]\n[D]She'll be flying over my\n[A]home\nIn about [G/D]three hours\n[D]time [G/D]\n[A]  [G/D]\n[D]  [G/D]\n\n[Verse 4]\n[D]This old airport's got me down\n[A]\nIt's no [G/D]earthly good to me\n[D]  [G/D]\n[D]And I'm stuck here on the ground\n[G/D]\nAs cold and drunk as I can\n[D]be [G/D]\n[D]You can't jump a jet plane\n[G/D]\n[A]Like you can a freight\n[D]train [G/D]\n[D]So I'd best be on my\n[A]way\nIn the [G/D]early morning\n[D]rain [G/D]\n\n[Outro]\n[D]You can't jump a jet plane\n[G/D]\n[A]Like you can a freight\n[D]train [G/D]\n[D]So I'd best be on my\n[A]way\nIn the [G/D]early morning\n[D]rain [G/D]\n[A]  [G/D]\n[D]  [G/D]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "000232",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/D": {
+      "catalog": [
+        "020033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Early Morning Rain",
+  "id": "71cc68394f0b6d42b936f7a78a1a2fe03b2d0de4fb5cecf392b0f8fccb1679f3",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 248,
+  "normalizedKey": "gordon lightfoot|early morning rain",
+  "playableChords": [
+    "D",
+    "G/D",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 74,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "71cc68394f0b6d42b936f7a78a1a2fe03b2d0de4fb5cecf392b0f8fccb1679f3",
+    "version": "BCFZ"
+  },
+  "tempo": 107,
+  "title": "Early Morning Rain",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

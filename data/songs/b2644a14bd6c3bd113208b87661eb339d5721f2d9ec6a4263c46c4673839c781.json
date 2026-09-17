@@ -1,0 +1,92 @@
+{
+  "artist": "Frank Zappa",
+  "artistNormalized": "frank zappa",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]  [Em/D]\n[D]  [Em/D]\n[D]  [Em/D]\n[D]  [Em/D]\n\n[Verse 1]\n[D]Dreamed I was an [C#][C]Eskimo [D][C][C#][D]\n[D]  [Em/D]\n[D]Frozen wind [C]began [C#]to blow [D][C][C#][D]\n[D]  [Em/D]\n[D]  [Em/D]\n[D]Under my boots 'n [C]around [C#][D]my toe [C][C#][D]\n[D]  [Em/D]\n[D][Em/D]Frost\n[D]had bit the ground below [Em/D]\n[D]  [Em/D]\n[D]It was a [C#][C]hundred [D]degrees below [D][C#][C]zero\n[D]  [Em/D]\n\n[Chorus]\n[D][Em/D]And my mama\n[D]cried [Em/D]\n[D]And my mama cried [Em/D]\n[D]  [Em/D]\n[D][Em/D]Don't\n[D]be a naughty Eskimo [Em/D]\n[D]  [Em/D]\n\n[Verse 2]\n[D]Save your money don't [C]go [C#]to the [D]show [C][C#][D]\n[D][Em/D]Well I\n[D]turned around and I [Em/D]said\n[D]oh, oh [Em/D]Well I\n[D]turned around and I [Em/D]said\n[D]oh, oh [Em/D]Well I turned\n[D]around and [Em/D]I said\n[D]ho, ho And the [Em/D]northen lights\n[D]commenced to glow [Em/D]And she said,\n[D]with a tear [Em/D]in her eye\n[D]  [Em/D]\n\n[Outro]\n[D]Watch out [Em/D]where that [D]huskies go, and\n[D]don't you [Em/D]eat the [D]yellow snow\n[D]Watch out [Em/D]where that [D]huskies go, and\n[D]don't you [Em/D]eat the [D]yellow snow",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x3555x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x4666x",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em/D": {
+      "catalog": [
+        "xx0000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Don't Eat The Yellow Snow",
+  "id": "b2644a14bd6c3bd113208b87661eb339d5721f2d9ec6a4263c46c4673839c781",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 146,
+  "normalizedKey": "frank zappa|don t eat the yellow snow",
+  "playableChords": [
+    "D",
+    "Em/D",
+    "C",
+    "C#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 5,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b2644a14bd6c3bd113208b87661eb339d5721f2d9ec6a4263c46c4673839c781",
+    "version": "BCFZ"
+  },
+  "tempo": 138,
+  "title": "Don't Eat The Yellow Snow",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

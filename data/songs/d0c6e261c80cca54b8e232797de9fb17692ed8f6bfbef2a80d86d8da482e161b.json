@@ -1,0 +1,123 @@
+{
+  "artist": "Gorillaz",
+  "artistNormalized": "gorillaz",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D]\n[G]\n[D]\n[Em]\n[A]\n[D]\n[Gm]\n[D]\n[Gm]\n\n[Verse 1]\n[D]Waiting by the mailbox,\n[G]by the train\n[D]Passin' by the hills 'til I\n[Em]hear the name I'm\n[A]looking for a saw to cut these chains\nin half and all I want is Some-\n[D]one to rely on as\n[Gm]Thunder comes a rolling down\n[D]Someone to rely on as\n[Gm]Lightning comes a staring in again I'll\n\n[Verse 2]\n[D]wait to be forgiven May-\n[G]be I never will\n[D]My star has left me To\n[Em]take the bitter pill\n[A]That shattered feeling Well the cause\nof it's a lesson learned\n[D]Just don't know if I could\n[Gm]roll into the sea again\n[D]Just don't know if I could\n[Gm]do it all again she said, it's\n\n[Bridge]\n[D]true\n[G]\n[D]\n[Em]\n[A]\n[D]\n[Gm]\n[D]\n[Gm]\n\n[Verse 3]\n[D]Waiting in my room and I\n[G]lock the door I\n[D]watch the coloured animals ac-\n[Em]ross the floor And I'm\n[A]looking from a distance And I'm\nlistening to the whispers And oh\n[D]it ain't the same, when your\n[Gm]falling out of feeling and you're\n[D]Falling in and caught a-\n[Gm]gain\n\n[Verse 4]\n[D]I'm caught again in the\n[G]mystery\n[D]You're by my side, but\n[Em]are you still with me? The ans-\n[A]wers somewhere deep in it, I'm\nsorry but your feeling it But I\n[D]just have to tell you that I\n[Gm]love you so much these days\n[D]Have to tell you that I\n[Gm]love you so much these days, it's\n\n[Bridge]\n[D]true\n[G]\n[D]\n[Em]\n[A]\nMy heart\n\n[Chorus]\n[D]is in economy Due\n[Gm]to this autonomy\n[D]Rolling in and caught a-\n[Gm]gain Ca-\n[D]ught again\n[G]Ca-\n[D]ught again\n[Em]Ca-\n[A]ught again\nMy heart\n[D]is in economy Due\n[Gm]to this autonomy\n[D]Rolling in and caught a-\n[Gm]gain Ca-\n\n[Outro]\n[D]ught again\n[G]\n[D]\n[Em]\n[A]\n[D]\n[Gm]\n[D]\n[Gm]\n[D]\n[G]\n[D]\n[Em]\n[A]\n[D]\n[Gm]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "To Binge",
+  "id": "d0c6e261c80cca54b8e232797de9fb17692ed8f6bfbef2a80d86d8da482e161b",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 317,
+  "normalizedKey": "gorillaz|to binge",
+  "playableChords": [
+    "D",
+    "G",
+    "Em",
+    "A",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 62,
+      "name": "Bridge"
+    },
+    {
+      "measure": 68,
+      "name": "Chorus"
+    },
+    {
+      "measure": 82,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d0c6e261c80cca54b8e232797de9fb17692ed8f6bfbef2a80d86d8da482e161b",
+    "version": "BCFZ"
+  },
+  "tempo": 103,
+  "title": "To Binge",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

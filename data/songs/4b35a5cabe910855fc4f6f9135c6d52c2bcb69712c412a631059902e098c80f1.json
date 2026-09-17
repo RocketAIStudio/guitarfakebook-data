@@ -1,0 +1,128 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F#]\n\n[Pre-Verse]\n[F#]  [A]\n[E]  [B]\n[F#]'Kay, I got it [A]\n[E]  [B]\n\n[Verse 1]\n[F#]I'm in the [A]crowd full of\n[E]angels and [B]demons\n[F#]I'm looking [A]out for the\n[E]jingoes and [B]heathens\n[F#]Nobody [A]move and no-\n[E]body gonna  [B]get hurt\n[F#]Reach for the [A]sky with your\n[E]face in [B]the dirt\n\n[Chorus]\n[F#]Everybody is a\nstar\nGot my money and I'm\nfeeling kinda low\nEverybody got a\nscar\nAin't it funny how we're\nrunning out of hope?\n\n[Interlude]\n[E]Yeah, oh\n[F#]yeah, oh\nyeah Ain't it funny?\nAin't it funny?\n[E]Yeah, oh\n[F#]yeah, oh\nyeah\n\n[Pre-Verse]\n[F#]  [A]\n[E]  [B]\n\n[Verse 2]\n[F#]I got [A]blood on my\n[E]hands in my [B]pockets\n[F#]That's what you [A]get turning\n[E]bullets into [B]rockets\n[F#]I am a [A]kid of a\n[E]bad [B]education\n[F#]The shooting [A]star of a\n[E]lowered [B]expectation\n\n[Chorus]\n[F#]Everybody is a\nstar\nGot my money and I'm\nfeeling kinda low\nEverybody got a\nscar\nAin't it funny how we're\nrunning out of hope?\n\n[Interlude]\n[E]Yeah, oh\n[F#]yeah, oh\nyeah Ain't it funny?\nAin't it funny?\n[E]Yeah, oh\n[F#]yeah, oh\nyeah\n\n[Verse 3]\n[F#]I'm just a [A]face in the\n[E]crowd of [B]spectators\n[F#]To the [A]sound of the\n[E]voice of a [B]traitor\n[F#]Dirty [A]looks and I'm\n[E]looking for a [B]payback\n[F#]Burning [A]books in a\n[E]bulletproof [B]backpack\n\n[Chorus]\n[F#]Everybody is a\nstar\nGot my money and I'm\nfeeling kinda low\nEverybody got a\nscar\nAin't it funny how we're\nrunning out of hope?\n\n[Interlude]\n[E]Yeah, oh\n[F#]yeah, oh\nyeah Ain't it funny?\nAin't it funny?\n[E]Yeah, oh\n[F#]yeah, oh\nyeah\n\n[Outro]\n[F#]Yeah, oh\nyeah, oh\nyeah Everybody is a\nstar\nYeah, oh\nyeah, oh\nyeah Everybody is a\nstar Ow!",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Oh Yeah",
+  "id": "4b35a5cabe910855fc4f6f9135c6d52c2bcb69712c412a631059902e098c80f1",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 322,
+  "normalizedKey": "green day|oh yeah",
+  "playableChords": [
+    "F#",
+    "A",
+    "E",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Interlude"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Interlude"
+    },
+    {
+      "measure": 83,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4b35a5cabe910855fc4f6f9135c6d52c2bcb69712c412a631059902e098c80f1",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "Oh Yeah",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

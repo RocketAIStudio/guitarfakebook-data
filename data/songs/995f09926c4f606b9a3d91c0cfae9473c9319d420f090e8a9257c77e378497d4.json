@@ -1,0 +1,171 @@
+{
+  "artist": "Fleetwood Mac",
+  "artistNormalized": "fleetwood mac",
+  "capo": "5",
+  "chordPositionCount": 45,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[C]\n[G]\n[Cmaj7]\n[G7]\n[C]\nFor you,\n\n[Verse 1]\n[F]\nthere'll be no more\n[C]crying\nFor\n[F]you,\nthe sun will be shining\n[C]\nAnd I feel\n\n[Pre-Chorus]\n[Dm]that when [F]I'm with you\n[Am]It's [G]alright,\n[F]\n[Fmaj7]I know it's\n[C]right\nTo you,\n\n[Verse 2]\n[F]\nI'll give the world\n[C]\nTo\n[F]you,\nI'll never be cold\n[C]\n'Cause I feel\n\n[Pre-Chorus]\n[Dm]that when [F]I'm with you\n[Am]It's [G]alright,\n[F]\n[Fmaj7]I know it's\n[C]right\nAnd the song\n\n[Chorus]\n[G]birds are sing-\n[F]ing Like they know the score\n[Am7]\nAnd I love\n[Fmaj7]you, I love you, I love\n[G7]you Like never before\n[C]\n\n[Intrelude]\n[F]\n[C]\n[F]\n[C]\nAnd I wish\n\n[Pre-Chorus]\n[Dm]you [F]all the love\n[Am]in [G]the world\n[Fmaj7]\nBut\n[G7]most of all, I\nwish it from my\n[C]self\nAnd the song\n\n[Chorus]\n[G]birds keep sing-\n[F]ing Like they know the score\n[Am7]\nAnd I love\n[Fmaj7]you, I love you, I love\n[G7]you Like never before\n[C]\nLike never before\n\n[Outro]\n[C]\n[G]Like never before\n[C]\n[G]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x35453",
+        "x-3-2-0-0-0",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "133210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "32000x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Songbird *alt",
+  "id": "995f09926c4f606b9a3d91c0cfae9473c9319d420f090e8a9257c77e378497d4",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 145,
+  "normalizedKey": "fleetwood mac|songbird",
+  "playableChords": [
+    "C",
+    "G",
+    "Cmaj7",
+    "G7",
+    "F",
+    "Dm",
+    "Am",
+    "Fmaj7",
+    "Am7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 53,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "995f09926c4f606b9a3d91c0cfae9473c9319d420f090e8a9257c77e378497d4",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "Songbird",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

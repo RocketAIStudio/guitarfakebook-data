@@ -1,0 +1,66 @@
+{
+  "artist": "Gojira",
+  "artistNormalized": "gojira",
+  "capo": "No capo",
+  "chordPositionCount": 2,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n\n[Bridge]\n[F5]\n[E5]\n[F5]\n[E5]\n[F5]\n[E5]\n[F5]\n[E5]\n\n[Verse 1]\n[F5]\n[E5]\n[F5]\n[E5]\n[F5]Lost,\na lion came\n[E5]and said\n[F5]Come,\non the brink of the abyss\n[E5]\n\n[Verse 2]\n[F5]Watch my feet\nswinging in the\n[E5]great empty\none\n[F5]Babel d'escaliers et d'ar-\ncades Cetait un palais infini\n[E5]No one else is able now to play With the ans-\nwers and\n[F5]I open,\nmy mind is so\n[E5]clear future\n[F5]There's a door in the wall of time\nAnd I open my\n[E5]mind Is so\nclear\n\n[Outro]\n[F5]\n[E5]\n[E5]",
+  "diagrams": {
+    "E5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "On the Bota",
+  "id": "b4c31d3147d91e61efbc72ad91acc6f41fbdecfc0d759eff50b079f7cae1092e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 80,
+  "normalizedKey": "gojira|on the bota",
+  "playableChords": [
+    "F5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b4c31d3147d91e61efbc72ad91acc6f41fbdecfc0d759eff50b079f7cae1092e",
+    "version": "BCFZ"
+  },
+  "tempo": 103,
+  "title": "On the Bota",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

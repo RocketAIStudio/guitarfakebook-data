@@ -1,0 +1,177 @@
+{
+  "artist": "Frank Sinatra Jr.",
+  "artistNormalized": "frank sinatra jr",
+  "capo": "No capo",
+  "chordPositionCount": 47,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[A7]\nBlack\n\n[Verse 1]\n[A7]Night Black\nNight 'neath the\n[D]silent Starry\n[F7]light Here I\n[E7]wait\nFor your footsteps\n[A7]now\nYou have\ntaken All my\nloving That I\n[D]wished you To\n[F7]have I would\n[E7]take yours\nBut I don't know how\n[A7]\nIf there's\n\n[Chorus]\n[F]a chance for What you\n[G6]hoped for And you'd\n[C]dream for And you'd\n[Dm]plan for How can you\n[Am]stand for The\n[Dm]heartsore At\n[Esus4]hand?\n[E]But a\n\n[Verse 2]\n[A7]wind sound You was a\ncrying And the\n[D]moonlight is\n[F7]dying So I\n[E7]wait\nFor your footsteps\n[A7]now Mmm...\nmmm...\nmmm...\n\n[Interlude]\n[E7]\n\n[Sax Solo]\n[A7]\n[D]\n[F7]\n[E7]\n[A7]\nIf there's\n\n[Chorus]\n[F]a chance for What you\n[G6]hoped for And you'd\n[C]dream for And\n[Dm]you'd plan for How can\n[Am]you stand for The\n[Dm]heartsore\n[Esus4]At hand?\n[E]But\n\n[Outro]\n[A7]now you\nare here And\n[D]before you're\n[F7]gone Tell me\n[E7]where\nDid you sleep last\n[A7]night? Black\nNight Mmm...\nmmm...",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02223",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Esus4": {
+      "catalog": [
+        "022200"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "x8786x",
+        "1-3-1-2-1-1",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Black Night",
+  "id": "9be41c66a93864ef596b1dff741fb35b03edd42f488c953f937cb7535983ff3c",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 147,
+  "normalizedKey": "frank sinatra jr|black night",
+  "playableChords": [
+    "A7",
+    "D",
+    "F7",
+    "E7",
+    "F",
+    "G6",
+    "C",
+    "Dm",
+    "Am",
+    "Esus4",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Interlude"
+    },
+    {
+      "measure": 48,
+      "name": "Sax Solo"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9be41c66a93864ef596b1dff741fb35b03edd42f488c953f937cb7535983ff3c",
+    "version": "BCFZ"
+  },
+  "tempo": 99,
+  "title": "Black Night",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

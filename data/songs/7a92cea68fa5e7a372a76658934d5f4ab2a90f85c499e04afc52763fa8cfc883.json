@@ -1,0 +1,79 @@
+{
+  "artist": "Good Riddance",
+  "artistNormalized": "good riddance",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G#5]\n\n[Verse]\n[D5][G#5]Every [D5][G#5]interaction\n[D5][G#5]tainted with [D5][G#5]ob-\n[B5]jecpptificaption\n[A5]Does it\n[G#5]make [D5]you [G#5]cool [D5]to\n[G#5]put [D5]her [G#5]in [D5]her\n[B5]place?\n[A5]\n[G#5]How [D5]would you [G#5]feel [D5]\n[G#5]if [D5]it was [G#5][D5]your sis-\n[B5]ter?\n[A5]\n\n[Chorus]\n[G#5]You're a poor excuse\n[F#5]for a man\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Eighteen Seconds",
+  "id": "7a92cea68fa5e7a372a76658934d5f4ab2a90f85c499e04afc52763fa8cfc883",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 43,
+  "normalizedKey": "good riddance|eighteen seconds",
+  "playableChords": [
+    "G#5",
+    "D5",
+    "B5",
+    "A5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7a92cea68fa5e7a372a76658934d5f4ab2a90f85c499e04afc52763fa8cfc883",
+    "version": "BCFZ"
+  },
+  "tempo": 177,
+  "title": "Eighteen Seconds",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,129 @@
+{
+  "artist": "Foo Fighters",
+  "artistNormalized": "foo fighters",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Verse 1]\n[Gsus2]I'm hanging [D]on\n[F#m]Here until I'm [G]gone\n[E]I'm right where I [G]belong\nJust hanging [D]on\n[Gsus2]Even [D]tho-\nugh\n[F#m]I watched you come and [G]go\n[E]How was I to [G]know\nYou'd steal the [D]show?\n\n[Pre-Chorus]\n[Bm]One day I'll [A]have\nenough to [E]gam-\nble\n[G]I'll wait to [D]hear\nyour final [E]call\nAnd bet it all\n[D]\n\n[Verse 2]\n[Gsus2]I'm hanging [D]on\n[F#m]Here until I'm [G]gone\n[E]Right where I [G]belong\nJust hanging [D]on\n[Gsus2]Even [D]though\n[F#m]I pass this time [G]alone\n[E]Somewhere so [G]unknown\nIt heals the [D]soul\n\n[Pre-Chorus]\n[Bm]You ask for [A]walls\nI'll build them [E]hi-\ngher\n[G]We'll lie in the [D]sha-\ndows of them [E]all\n[G]I'd stand [D]\nbut they're much [E]to-\no tall\nAnd I fall\n\n[Break]\n[D]\n\n[Chorus]\n[D]February [Gsus2]stars\n[D]\nFloating in the da-\n[F#m]rk [G]\nTemporary sca-\n[E]rs [G]\nFebruary [D]stars\n[D]February [Gsus2]stars\n[D]\nFloating in the da-\n[F#m]rk [G]\nTemporary sca-\n[E]rs [G]\nFebruary [D]stars\n[D]February [Gsus2]stars\n[D]\nFloating in the da-\n[F#m]rk [G]\nTemporary sca-\n[E]rs [G]\nFebruary stars\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "000232",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "222454",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "444675",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "555787",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus2": {
+      "catalog": [
+        "555785"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "February Stars",
+  "id": "e30c038595e381e743251b829eaaba37066d461e10dba2d9b51ced9a3094fd60",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 183,
+  "normalizedKey": "foo fighters|february stars",
+  "playableChords": [
+    "Gsus2",
+    "D",
+    "F#m",
+    "G",
+    "E",
+    "Bm",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Break"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e30c038595e381e743251b829eaaba37066d461e10dba2d9b51ced9a3094fd60",
+    "version": "BCFZ"
+  },
+  "tempo": 76,
+  "title": "February Stars",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,107 @@
+{
+  "artist": "Frank Ocean",
+  "artistNormalized": "frank ocean",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Cmaj7]\n[Cmaj7]\n[Bm7]Yeah, yeah, ooh\n[Amaj7]Yeah, yeah, yeah\n\n[Verse 1]\n[Cmaj7]That's the way every day goes\n[Bm7]Every time we've no control\n[Amaj7]If the sky is pink and white\nIf the ground is black and yellow\n[Cmaj7]It's the same way you showed me\n[Bm7]\n[Amaj7]Nod my head, don't close my eyes\nHalfway on a slow move\n[Cmaj7]It's the same way you showed me\n[Bm7]If\n[Amaj7]you could fly then you'd feel south\nUp north's getting cold soon The\n[Cmaj7]way it is, we're on land Still\n[Bm7]I'm someone to hold true\n[Amaj7]Keep you cool when it's still alive Won't\nlet you down when it's all ruin\n\n[Chorus]\n[Cmaj7]Just the same way you showed me,\n[Bm7]showed\n[Amaj7]me\nYou showed me\n[Cmaj7]love\n[Bm7]\n[Amaj7]Glory from a-\nbove Regard my\n[Cmaj7]dear\n[Bm7]It's\n[Amaj7]all downhill from\nhere\n\n[Verse 2]\n[Cmaj7]In the wake of a hurricane\n[Bm7]Dark skin of a summer shade\n[Amaj7]Nosedive into flood lines\nTall tower of milk crates\n[Cmaj7]It's the same way you showed me\n[Bm7]\n[Amaj7]Cannonball off the porch side\nOlder kids trying off the roof\n[Am/C]Just the same way you showed me\n[G/B]You showed If\n[Amaj7]you could die and come back to life\nUp for air from the swimming pool You'd\n[Cmaj7]kneel down to the dry land\n[Bm7]Kiss the Earth that birthed you\n[Amaj7]Gave you tools just to stay alive And\nmake it out when the sun is ruined\n\n[Chorus]\n[Am/C]Just the same way you showed me,\n[G/B]showed\n[Amaj7]me\nYou showed me\n[Cmaj7]love\n[Bm7]\n[Amaj7]Glory from a-\nbove Regard my\n[Cmaj7]dear\n[Bm7]It's\n[Amaj7]all downhill from\nhere\n\n[Outro]\n[Cmaj7]Remember life,\n[Bm7]remember how it was\n[Amaj7]Climb trees, Michael Jackson,\nit all ends here\n[Cmaj7]Say what up to Matthew,\n[Bm7]to Shoob\n[Amaj7]Say what up to Danny\nSay what up to life immortality\n[Cmaj7]\n[Bm7]Bending up my Nikes Running out the\n[Amaj7]melpomene, nicotine\nStealing granny cigs\n[Cmaj7]Gimme something sweet\n[Bm7]Bitch I might like immortality\n[Amaj7]\nThis is life, life immortality\n\n[Outro 2]",
+  "diagrams": {
+    "Am/C": {
+      "catalog": [
+        "x-x-10-9-10-8"
+      ],
+      "catalogCount": 1
+    },
+    "Amaj7": {
+      "catalog": [
+        "x-12-11-9-9-x",
+        "x-0-2-1-2-0",
+        "5-4-2-2-2-4",
+        "5-7-6-6-5-5",
+        "x-x-7-9-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x-14-12-11-10-x",
+        "x-2-4-2-3-2",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x-15-14-12-12-x",
+        "x-3-2-0-0-0",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "xx9787"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pink + White",
+  "id": "b5a077f321bbfeef068d5f4d84d2592caeb3f6461d77103ae1ea6e4f57790d02",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 352,
+  "normalizedKey": "frank ocean|pink white",
+  "playableChords": [
+    "Cmaj7",
+    "Bm7",
+    "Amaj7",
+    "Am/C",
+    "G/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Outro"
+    },
+    {
+      "measure": 78,
+      "name": "Outro 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b5a077f321bbfeef068d5f4d84d2592caeb3f6461d77103ae1ea6e4f57790d02",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Pink + White",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,154 @@
+{
+  "artist": "Frank Loesser",
+  "artistNormalized": "frank loesser",
+  "capo": "No capo",
+  "chordPositionCount": 42,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[C]  [Am]\n[Dm]\n[G]\nI\n\n[Verse 1]\n[C]really can't stay\nI've\n[G7]got to go away\nThis\n[C]evening has been\nSo very\n[Gmadd11]nice\nMy\n[F]mother will start to\nworry My\n[Cm/F]father will be pacing the floor\nSo\n[C]really I'd better scur-\nry Well\n[D]maybe just a half a drink\n[G]more The\n[C]neighbours might think\nSay\n[G7]what's in this drink\nI\n[C]seem to be in\nSome crazy\n[Gmadd11]spell\nI\n[F]ought to say \"No, no, no\nsir\" At\n[D]least I'm gonna say that I tried\n[G7]I\n\n[Chorus]\n[C]really can't stay\n[A]Baby it's\n[D]cold [G]out-\n[C]side\n[D]\nBut I\n\n[Verse 2]\n[C]simply must go\nThe\n[G7]answer is no\nYour\n[C]welcome has been\nSo nice and\n[Gmadd11]warm\nMy\n[F]sister will be sus-\npicious My\n[Cm/F]brother will be there at the door\nMy\n[C]maiden aunt's mind is vi-\ncious Well\n[D]maybe just a cigarette more\n[G]I've\n[C]gotta get home\nSay\n[G7]lend me a comb\nYou've\n[C]really been grand\nBut don't you\n[Gmadd11]see?\nThere's\n[F]bound to be talk tomo-\nrrow At\n[D]least there will be plenty implied\n[G7]I\n\n[Outro]\n[C]really can't stay\n[A]Baby it's\n[D]cold [G]out-\n[C]side",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cm/F": {
+      "catalog": [
+        "xx3543"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gmadd11": {
+      "catalog": [
+        "335333"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Baby It's Cold Outside",
+  "id": "41a5879839e1ea512db00952378b104039967c598f4c5cbc4b96c145c111a0d4",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 200,
+  "normalizedKey": "frank loesser|baby it s cold outside",
+  "playableChords": [
+    "C",
+    "Am",
+    "Dm",
+    "G",
+    "G7",
+    "Gmadd11",
+    "F",
+    "Cm/F",
+    "D",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 68,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "41a5879839e1ea512db00952378b104039967c598f4c5cbc4b96c145c111a0d4",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Baby It's Cold Outside",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

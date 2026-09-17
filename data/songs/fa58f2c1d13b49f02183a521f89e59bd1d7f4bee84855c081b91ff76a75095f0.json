@@ -1,0 +1,107 @@
+{
+  "artist": "FINNEAS",
+  "artistNormalized": "finneas",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F#7]  [B]\n[Emaj7]  [Amaj7]\n[F#7]  [B]\n[Emaj7]  [Amaj7]\nI swear I don't\n\n[Verse 1]\n[F#7][B]Miss you at all\n[Emaj7][Amaj7]And I ba-\n[F#7]rely still [B]remember Who's in the\n[Emaj7]pictures on my [Amaj7]wall 'Cause, no, I can't\n[F#7][B]Recall your scent\n[Emaj7][Amaj7]Jasmine,\n[F#7]tuberose, and [B]lily Or your\n[Emaj7]silly French [Amaj7]accent All but forgot-\n[F#7]ten [B]About those eyes\n[Emaj7][Amaj7]The shade of green\n[F#7]that if he'd [B]seen Would make F.\n[D7]Scott Fitzgerald cry But I\n\n[Chorus]\n[F#7]won't [B]Break down at\n[Emaj7]2 AM and [Amaj7]call 'Cause I\n[F#7]don't [B]Miss you at\n[Emaj7]all\nAnd I'm sleepin' fine\n\n[Verse 2]\n[F#7][B]I don't mean to boast\n[Emaj7][Amaj7]But I on-\n[F#7]ly dream [B]about you Once or\n[Emaj7]twice a night at [Amaj7]most And it feels so good\n[F#7][B]Eating alone\n[Emaj7][Amaj7]I don't get distrac-\n[F#7]ted by your [B]smile And miss the\n[Emaj7]green lights drivin' [Amaj7]home No sign of stop-\n[F#7]pin' [B]The house isn't far\n[Emaj7][Amaj7]But I think our song\n[F#7]is comin' [B]on And now I\n[D7]wanna crash the car But I\n\n[Chorus]\n[F#7]won't [B]Make that mis-\n[Emaj7]take again and [Amaj7]fall So I say I\n[F#7]don't [B]Miss you at\n[Emaj7]all [Amaj7]And someday I won't\n[F#7][B]Miss you at\n[Emaj7]all",
+  "diagrams": {
+    "Amaj7": {
+      "catalog": [
+        "x02120",
+        "5-4-2-2-2-4",
+        "5-7-6-6-5-5",
+        "x-x-7-9-9-9",
+        "x-12-11-9-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Emaj7": {
+      "catalog": [
+        "021100",
+        "x-x-2-4-4-4",
+        "x-7-6-4-4-4",
+        "x-7-9-8-9-7",
+        "12-11-9-9-9-11"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "i dont miss you at all",
+  "id": "fa58f2c1d13b49f02183a521f89e59bd1d7f4bee84855c081b91ff76a75095f0",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 197,
+  "normalizedKey": "finneas|i dont miss you at all",
+  "playableChords": [
+    "F#7",
+    "B",
+    "Emaj7",
+    "Amaj7",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fa58f2c1d13b49f02183a521f89e59bd1d7f4bee84855c081b91ff76a75095f0",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "i dont miss you at all",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

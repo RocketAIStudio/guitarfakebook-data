@@ -1,0 +1,134 @@
+{
+  "artist": "Harry Styles",
+  "artistNormalized": "harry styles",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]\nGotta\n\n[Verse 1]\n[D]see it to believe it,\nsky never looked so blue\nSo hard to leave it,\nthat's what I always do So I\n[A]keep thinking back to a time\n[Em7]under the canyon moon\n[D]\n\n[Verse 2]\n[D]The world's happy waitin',\ndoor's yellow, broken blue\nI heard Jenny saying,\n\"Go get the kids from school\" And I\n[A]keep thinking back to the time\n[Em7]under the canyon moon\n[D]\nI'll be gone\n\n[Refrain]\n[A]too long\n[Em7]from you\n[D]\n\n[Verse 3]\n[D]Staring at the ceiling,\ntwo weeks and I'll be home\nCarry the feeling,\nthrough Paris, all through Rome And I'm\n[A]still thinking back to the time\n[Em7]under the canyon moon\n[D]\n\n[Chorus]\n[D]I'm going, oh, I'm going\n[Dmaj7/C#]I'm going, oh, I'm going\n[D7/C]I'm going, oh, I'm going\n[G]home\n[D]I'm going, oh, I'm going\n[Dmaj7/C#]I'm going, oh, I'm going\n[D7/C]I'm going, oh, I'm going\n[G]home\n\n[Break]\n[D]\n\n[Verse 4]\n[D]Quick pause in conversation,\nshe plays songs I've never heard\nAn old lover's hippie music,\npretends not to know the words And I\n[A]keep thinking back to the time\n[Em7]under the canyon moon\n[D]\nI'll be gone\n\n[Refrain]\n[A]too long\n[Em7]from you\n[D]\n\n[Chorus]\n[D]I'm going, oh, I'm going\n[Dmaj7/C#]I'm going, oh, I'm going\n[D7/C]I'm going, oh, I'm going\n[G]home\n[D]I'm going, oh, I'm going\n[Dmaj7/C#]I'm going, oh, I'm going\n[D7/C]I'm going, oh, I'm going\n[G]home\n[D]I'm going, oh, I'm going\n[Dmaj7/C#]I'm going, oh, I'm going\n[D7/C]I'm going, oh, I'm going\n[G]home (Hey)\n\n[Outro]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02222",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0234",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7/C": {
+      "catalog": [
+        "x3423x"
+      ],
+      "catalogCount": 1
+    },
+    "Dmaj7/C#": {
+      "catalog": [
+        "x4423x"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "220000",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "xx5435",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Canyon Moon",
+  "id": "79ea3af326edfd10af27a1cf8e11ec800cce9ebaa46d6d6de24efb292cbe4535",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 285,
+  "normalizedKey": "harry styles|canyon moon",
+  "playableChords": [
+    "D",
+    "A",
+    "Em7",
+    "Dmaj7/C#",
+    "D7/C",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Refrain"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Break"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 54,
+      "name": "Refrain"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "79ea3af326edfd10af27a1cf8e11ec800cce9ebaa46d6d6de24efb292cbe4535",
+    "version": "BCFZ"
+  },
+  "tempo": 94,
+  "title": "Canyon Moon",
+  "tuning": "D A D G B D",
+  "variantRole": "primary"
+}

@@ -1,0 +1,88 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[G]Said that I'd me-\net you At the\n[D]Berkeley Mari-\nna\n[C]3 AM when no\none will be fo-\n[G]und\n[D]\n\n[Verse 2]\n[G]All I got in m-\nind Is a\n[D]Boone's Farm jug of wi-\nne\n[C]Smash a bottle in\n[D]the parking lot\n[G]\nBut con-\n\n[Chorus]\n[C]sidering\n[G]our luck\n[D]We'll get busted\n[G]by the cops In-\n[C]stead of sex we'll\n[G]go to jail\n[F]Another les-\n[D]son learned and\n[G]failed",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Ballad Of Wilhelm Fink",
+  "id": "4e683ba776e2bafcff9ac50bbb82e78468a3a332f2ef0e5f78b7c85cd27484ab",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 80,
+  "normalizedKey": "green day|the ballad of wilhelm fink",
+  "playableChords": [
+    "G",
+    "D",
+    "C",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4e683ba776e2bafcff9ac50bbb82e78468a3a332f2ef0e5f78b7c85cd27484ab",
+    "version": "BCFZ"
+  },
+  "tempo": 190,
+  "title": "The Ballad Of Wilhelm Fink",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

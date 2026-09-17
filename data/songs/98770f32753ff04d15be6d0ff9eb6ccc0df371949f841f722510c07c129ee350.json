@@ -1,0 +1,137 @@
+{
+  "artist": "Foo Fighters",
+  "artistNormalized": "foo fighters",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C]\n[Am7]\n[Gadd11]\n[F]\n[C]\n[Am7]\n[Gadd11]\n[F]When I\n\n[Verse 1]\n[C]talk about it,\n[Am7]carried on,\n[Gadd11]reasons only new\n[F]When I\n[C]talk about it,\n[Am7]Aries or\n[Gadd11]treasons all renew\n[F]\n\n[Pre-Chorus]\n[E]Big me to\n[F]talk about it,\n[C]I could stand to pro-\n[C7]ve.\n[E]If we can\n[F]get around it,\nI know that it's true.\n[G]Well, I\n\n[Chorus]\n[C]talked about it,\n[Am7]carried on,\n[Gadd11]reasons only new.\n[F]But it's you\n[C]\n[G]I fell [F]into.\n[C]\n[G]When I\n\n[Verse 2]\n[C]talk about it,\n[Am7]carried on,\n[Gadd11]reasons only new\n[F]When I\n[C]talk about it,\n[Am7]Aries or\n[Gadd11]treasons all renew\n[F]\n\n[Pre-Chorus]\n[E]Big me to\n[F]talk about it,\n[C]I could stand to pro-\n[C7]ve.\n[E]If we can\n[F]get around it,\nI know that it's true.\n[G]Well, I\n\n[Chorus]\n[C]talked about it.\n[Am7]Put it on.\n[Gadd11]Never was it true.\n[F]But it's you\n[C]\n[G]I fell [F]into.\n[C]\n[G]Well, I\n\n[Outro-Chorus]\n[C]talked about it.\n[Am7]Put it on.\n[Gadd11]Never was it true.\n[F]But it's you\n[C]\n[G]I fell [F]into.\n[C]\n[G]I fell [F]into.\n[C]\n[G]I fell [F]in-\n[C]to. [C7]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02213",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32013",
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x3231x",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gadd11": {
+      "catalog": [
+        "320013"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Big Me *alt",
+  "id": "98770f32753ff04d15be6d0ff9eb6ccc0df371949f841f722510c07c129ee350",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 179,
+  "normalizedKey": "foo fighters|big me",
+  "playableChords": [
+    "C",
+    "Am7",
+    "Gadd11",
+    "F",
+    "E",
+    "C7",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro-Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "98770f32753ff04d15be6d0ff9eb6ccc0df371949f841f722510c07c129ee350",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Big Me",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

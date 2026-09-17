@@ -1,0 +1,96 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n[D]\n\n[Verse 1]\n[A]Starry nights,\ncity lights coming\n[D]down over me.\n[A]Skyscrapers and\nstargazers in my\n[D]head.\n[A]Are we, we are,\nare we, we are the\n[D]waiting unknown.\nThis\n[F#m]dirty town was\n[E]burning down in my\n[D]dreams.\nThe\n[F#m]lost and found\n[E]city bound in my\n[D]dreams.\nAnd screaming,\n\n[Chorus]\n[A]Are we, we are,\nare we, we are the\n[D]waiting.\nAnd screaming,\n[A]Are we, we are,\nare we, we are the\n[D]waiting.\nFor-\n\n[Verse 2]\n[A]get me nots and\nsecond thoughts live in\n[D]isolation.\n[A]Heads or tails and\nfairytales in my\n[D]mind.\n[A]Are we, we are,\nare we, we are the\n[D]waiting unknown.\nThe\n[F#m]rage and love, the\n[E]story of my\n[D]life.\nThe\n[F#m]Jesus of sub-\n[E]urbia is a\n[D]lie.\nAnd screaming,\n\n[Chorus]\n[A]Are we, we are,\nare we, we are the\n[D]waiting.\nAnd screaming,\n[A]Are we, we are,\nare we, we are the\n[D]waiting unknown\n[A]Are we, we are,\nare we, we are the\n[D]waiting.\nAnd screaming,\n[A]Are we, we are,\nare we, we are the\n[D]waiting unknown\n[A]Are we, we are,\nare we, we are the\n[D]waiting unknown",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x5777x",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x7999x",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "x-9-11-11-10-x",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Are We The Waiting?",
+  "id": "7156de1f5c0ff0f9b2c34d74c92667b7acebc92c721a29823c97b0703edab335",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 212,
+  "normalizedKey": "green day|are we the waiting",
+  "playableChords": [
+    "A",
+    "D",
+    "F#m",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7156de1f5c0ff0f9b2c34d74c92667b7acebc92c721a29823c97b0703edab335",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "Are We The Waiting?",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

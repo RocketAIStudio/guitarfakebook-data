@@ -1,0 +1,151 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 29,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[A]\n[Aaug]\n[A6]\n[A7]\n[D]\n[Dm]\n[A]\n\n[Verse 1]\n[A]I text a post-\n[Aaug]card sent to you\n[A6]Did it go through?\n[A7]\n[D]Sending\n[Dm]all my love to you\n[A]\n[A]You are the moon-\n[Aaug]light of my life\n[A6]Every night\n[A7]\n[D]Giving\n[Dm]all my love to you\n[A]\n\n[Chorus]\n[D]My beating heart\n[Dm]belongs to you\n[A]\n[D]I walked for miles\n[Dm]'til I found you\n[A]\n[D]I'm here to\n[Dm]honor you\n[A]If I [A/G]lose eve-\n[F#m7]rything [A/E]in the fire\n[D]I'm sending\n[Dm]all my love to you\n\n[Interlude]\n[A]\n[Aaug]\n[A6]\n[A7]\n[D]\n[Dm]\n[A]\n\n[Verse 2]\n[A]With every breath\n[Aaug]that I am worth\n[A6]Here on Earth\n[A7]\n[D]I'm sending\n[Dm]all my love to you\n[A]\n[A]So if you dare\n[Aaug]to secondguess\n[A6]You can rest\n[A7]\n[D]Assured that\n[Dm]all my love's for you\n[A]\n\n[Chorus]\n[D]My beating heart\n[Dm]belongs to you\n[A]\n[D]I walked for miles\n[Dm]'til I found you\n[A]\n[D]I'm here to\n[Dm]honor you\n[A]If I [A/G]lose eve-\n[F#m7]rything [A/E]in the fire\n[D]I'm sending\n[Dm]all my love to you\n\n[Solo]\n[A]Oh\n[Aaug]\n[A6]\n[A7]\n[D]\n[Dm]\n[A]\n[A]Oh\n[Aaug]\n[A6]\n[A7]\n[D]\n[Dm]\n[A]\n\n[Chorus]\n[D]My beating heart\n[Dm]belongs to you\n[A]\n[D]I walked for miles\n[Dm]'til I found you\n[A]\n[D]I'm here to\n[Dm]honor you\n[A]If I [A/G]lose eve-\n[F#m7]rything [A/E]in the fire\n[D]Did I\n[Dm]ever make it through?\n\n[Outro]\n[A]\n[Aaug]\n[A6]\n[A7]\n[D]\n[Dm]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A/E": {
+      "catalog": [
+        "0x222x"
+      ],
+      "catalogCount": 1
+    },
+    "A/G": {
+      "catalog": [
+        "3x222x"
+      ],
+      "catalogCount": 1
+    },
+    "A6": {
+      "catalog": [
+        "x04220"
+      ],
+      "catalogCount": 1
+    },
+    "A7": {
+      "catalog": [
+        "x05220",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "Aaug": {
+      "catalog": [
+        "x0322x"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "2x222x",
+        "2-4-2-2-2-2",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Last Night On Earth",
+  "id": "1483dabd79ed3d9dc94b3ee4591595c4de2e56d2b33003a02e9ccb6211770311",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 193,
+  "normalizedKey": "green day|last night on earth",
+  "playableChords": [
+    "A",
+    "Aaug",
+    "A6",
+    "A7",
+    "D",
+    "Dm",
+    "A/G",
+    "F#m7",
+    "A/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Interlude"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Solo"
+    },
+    {
+      "measure": 93,
+      "name": "Chorus"
+    },
+    {
+      "measure": 107,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1483dabd79ed3d9dc94b3ee4591595c4de2e56d2b33003a02e9ccb6211770311",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Last Night On Earth",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

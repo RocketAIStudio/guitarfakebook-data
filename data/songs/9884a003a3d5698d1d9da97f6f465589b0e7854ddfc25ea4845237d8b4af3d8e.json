@@ -1,0 +1,172 @@
+{
+  "artist": "Gary Moore",
+  "artistNormalized": "gary moore",
+  "capo": "No capo",
+  "chordPositionCount": 44,
+  "chordSymbolCount": 12,
+  "content": "[Intro]\n[G]  [D/F#]\n[Em]  [D]\n[Cmaj7]\n[Bm7]\n[Am]\n[C]\n[Dsus4]  [D]\n[Em7]\nWhen I\n\n[Verse 1]\n[G]hear that [D/F#]wind\n[Em]blow [D]All a-\n[Cmaj7]cross the Wicklow\n[Bm7]mountains.\nIs it\n[Am]you, I hear a\n[C]calling Johnny\n[Dsus4]boy, oh [D]Johnny\n[Em7]boy.\nWhen I\n\n[Verse 2]\n[G]look to [D/F#]the\n[Em]west [D]All a-\n[Cmaj7]cross the River\n[Bm7]Shannon.\nI can\n[Am]still see you\n[C]smiling Johnny\n[Dsus4]boy, oh [D]Johnny\n[Gsus4]boy.\n[G]When the\n\n[Chorus]\n[Cmaj7]leaves have turned to\nbrown And\n[Bm/D]winter's\n[Em]due. [D]As I\n[Cmaj7]watch the sun goes\ndown I'll\n[Bm7]think of\n[Dsus4]you.\n[D]When I\n\n[Verse 3]\n[G]hear that [D/F#]wind\n[Em]blow [D]All a-\n[Cmaj7]cross the Wicklow\n[Bm7]mountains.\nSure it's\n[Am]you, I'll hear a\n[C]calling Johnny\n[Dsus4]boy, oh [D]Johnny\n[Gsus4]boy.\n[G]\n\n[Fade Out]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm/D": {
+      "catalog": [
+        "xx0432"
+      ],
+      "catalogCount": 1
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "200232"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus4": {
+      "catalog": [
+        "xx0233"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "020000",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12",
+        "x-19-21-19-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus4": {
+      "catalog": [
+        "355533"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Johnny Boy",
+  "id": "9884a003a3d5698d1d9da97f6f465589b0e7854ddfc25ea4845237d8b4af3d8e",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 108,
+  "normalizedKey": "gary moore|johnny boy",
+  "playableChords": [
+    "G",
+    "D/F#",
+    "Em",
+    "D",
+    "Cmaj7",
+    "Bm7",
+    "Am",
+    "C",
+    "Dsus4",
+    "Em7",
+    "Gsus4",
+    "Bm/D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 52,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9884a003a3d5698d1d9da97f6f465589b0e7854ddfc25ea4845237d8b4af3d8e",
+    "version": "BCFZ"
+  },
+  "tempo": 58,
+  "title": "Johnny Boy",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,91 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[B5]\n\n[Verse 1]\n[B5]You come around every\nnow and then.\nYour clothes are different, But you're\nstill the same. [E5/B]\nWhy else would you\ncome here? [E5]\nScumbag on a\nmission. [B5]\nYou're telling me that it's\nbeen a while.\nShiteating grin and a\nbrand new life. [E5/B]\nSomebody let you\ncome here. [E5]\nScumbag with per-\nmission. [G#5]\n\n[Chorus]\n[G#5]Never thought I'd see the\nlike of you around this [B5]place.\n[G#5]\nWhat's the special oc-\ncasion? Did you [F#5]\nrun out of\nfriends? [B5]\n\n[Verse 2]\n[B5]Hear you are comin'\n'round again,\nAnd things are different but you\nstill pretend. [E5/B]\nYou got a reason to\ncome here. [E5]\nScumbag with am-\nbition. [B5]\nAnd now you're telling me that\nthings have changed,\nAnd you'll be leaving in a\ncouple days. [E5/B]\nYou're gonna change the\nworld someday. [E5]\nScumbag with a\nvision. [G#5]\n\n[Chorus]\n[G#5]It must be nice to know you\ngot it all figured [B5]out,\n[G#5]\nBut from where I'm\nsitting, It's the [F#5]\nsame thing a-\ngain and a-\ngain.\n[B5]\n\n[Guitar Solo]\n[B5]\n[E5/B]\n[E5]\n[B5]\n[E5/B]\n[E5]\n[G#5]\n\n[Outro]\n[G#5]Did you ever stop to think Be-\nfore you opened up your [B5]mouth?\n[G#5]\n'Cause everytime you\ndo, It's the [F#5]\nsame thing a-\ngain and a-\ngain.",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5/B": {
+      "catalog": [
+        "x2245x"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Scumbag",
+  "id": "cf3664534a6fc8f5c01a03de0837946a972151d7e1e17932bc522ea76b9c48ef",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 212,
+  "normalizedKey": "green day|scumbag",
+  "playableChords": [
+    "B5",
+    "E5/B",
+    "E5",
+    "G#5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 68,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cf3664534a6fc8f5c01a03de0837946a972151d7e1e17932bc522ea76b9c48ef",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Scumbag",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,135 @@
+{
+  "artist": "Guster",
+  "artistNormalized": "guster",
+  "capo": "2",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n[C]\n[Am]\n[Em]\n[C]\n[Am]\nShining like a\n\n[Verse 1]\n[Em]work\n[D]of\n[Am]art\nHanging on a\n[Em]wall\n[D]of\n[Am]stars\nAre you what I\n[Em]think\n[D]you\n[C]are?\n[Am]\n\n[Chorus]\n[Em]You're\n[G]my\n[C]satellite\n[Em]You're\n[G]riding with\n[C]me tonight\nPassenger\n[Em]side, lighting the\n[G]sky Always the\n[C]first star that I\n[Am]find\n[Em]You're\n[G]my\n[C]satellite\n\n[Break]\n[Em]\n[C]\n[Am]\nElevator\n\n[Verse 2]\n[Em]to\n[D]the\n[Am]moon\nWhistling our\n[Em]fa-\n[D]vorite\n[Am]tune\nTryin' to get a\n[Em]clo-\n[D]ser\n[C]view\n[Am]\n\n[Chorus]\n[Em]You're\n[G]my\n[C]satellite\n[Em]You're\n[G]riding with\n[C]me tonight\nPassenger\n[Em]side, lighting the\n[G]sky Always the\n[C]first star that I\n[Am]find\n[Em]You're\n[G]my\n[C]satellite\n\n[Break]\n[Em]\n[C]\n[Am]\n[Em]\n[C]\n[Am]\nMaybe you will\n\n[Verse 3]\n[Em]al-\n[D]ways\n[Am]be\nJust a little\n[Em]out\n[D]of\n[C]reach\n[Am]\n\n[Solo]\n[Em]\n[G]\n[C]\n[Em]\n[G]\n[C]\n[Em]\n[G]\n[C]\n[Am]\n[Em]\n[G]\n[C]\n\n[Chorus]\n[Em]You're\n[G]my\n[C]satellite\n[Em]You're\n[G]riding with\n[C]me tonight\nPassenger\n[Em]side, lighting the\n[G]sky Always the\n[C]first star that I\n[Am]find\n[Em]You're\n[G]my\n[C]satellite\n[Em]You're\n[G]my\n[C]satellite\n\n[Outro]\n[Em]\n[G]\n[C]\n[Em]\n[G]\n\n[Fade Out]\n[C]\n[Am]\n[Em]\n[G]\n[C]\n[Am]\n[Em]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Satellite",
+  "id": "e06ba4f40668d45370177d4d3f176a66fa29ecf47d9564b17f713db263256a80",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 160,
+  "normalizedKey": "guster|satellite",
+  "playableChords": [
+    "Em",
+    "C",
+    "Am",
+    "D",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Break"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Break"
+    },
+    {
+      "measure": 91,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 101,
+      "name": "Solo"
+    },
+    {
+      "measure": 117,
+      "name": "Chorus"
+    },
+    {
+      "measure": 137,
+      "name": "Outro"
+    },
+    {
+      "measure": 143,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e06ba4f40668d45370177d4d3f176a66fa29ecf47d9564b17f713db263256a80",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "Satellite",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

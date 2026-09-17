@@ -1,0 +1,109 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Am]\nAs\n\n[Verse 1]\nsoon as you're\nboorn they\n[G]make you feel\n[Am]small.\nBy\ngiving you\nno time in-\n[G]stead of it a-\n[Am]ll.\n'Till the\npain is so\nbig you feel\n[G]nothing at a-\n[Am]ll\nA\n\n[Chorus]\nworking class\n[G]hero is\n[D]something to b-\n[Am]e\nA\nworking class\n[G]hero is\n[D]something to b-\n[Am]e\nThey\n\n[Verse 2]\nhurt you at\n[G]hoome and they\n[D]hit you at\n[Am]school.\nThey\nhate if you're\nclever and\n[G]despise a fo-\n[Am]ol\n'Till you're\nso fucking\ncrazy can't\n[G]follow their ru-\n[Am]les\nA\n\n[Chorus]\nworking class\n[G]hero is\n[D]something to b-\n[Am]e\nA\nworking class\n[G]hero is\n[D]something to b-\n[Am]e\nWhen they\n\n[Verse 3]\ntortured and\n[G]scared you for\n[D]twenty odd\n[Am]years\nThen they ex-\npect you to\n[G]pick a care-\n[Am]e r\nWhen you\ncan't really\nfunction you're\n[G]so full of fe\n[Am]ar\nA\n\n[Chorus]\nworking class\n[G]hero is\n[D]something to b-\n[Am]e\nA\nworking class\n[G]hero is\n[D]something to b-\n[Am]e\nKeep you\n\n[Verse 4]\ndrugged with re-\n[G]ligion and\n[D]sex and tee v-\n[Am]ee\nAnd you\nthink you're so\nclever and\n[G]classless and fre-\n[Am]e.\nBut you're\nstill fucking\npeasants as\n[G]far as I can se-\n[Am]e.\nA\n\n[Chorus]\nworking class\n[G]hero is\n[D]something to b-\n[Am]e\nA\nworking class\n[G]hero is\n[D]something to b-\n[Am]e\n\n[Solo]\n[G]\n[D]\n[Am]\n[G]\n[D]\n[Am]\n[G]\n[D]\n[Am]\n[G]\n[D]\n[Am]\nThere's\n\n[Verse 5]\nroom at the\n[G]top, they're\n[D]telling you\n[Am]still.\nBut\nfirst you must\nlearn how to\n[G]smile as you ki-\n[Am]ll.\nIf you\nwanna be\nlike all the\n[G]folks on the hi-\n[Am]ll.\nA\n\n[Chorus]\nworking class\n[G]hero is\n[D]something to b-\n[Am]e\nA\nworking class\n[G]hero is\n[D]something to b-\n[Am]e\nA\nworking class\n[G]hero is\n[D]something to b-\n[Am]e\nA\nworking class\n[G]hero is\n[D]something to b-\n[Am]e\nA\nworking class\n[G]hero is\n[D]something to b-\n[Am]e\nA\nworking class\n[G]hero is\n[D]something to b-\n[Am]e\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Working Class Hero",
+  "id": "d730de8ec00aed877f00deece373bbda24b70536f45aec68bc47478bfcddd59c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 355,
+  "normalizedKey": "green day|working class hero",
+  "playableChords": [
+    "Am",
+    "G",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 96,
+      "name": "Chorus"
+    },
+    {
+      "measure": 110,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 131,
+      "name": "Chorus"
+    },
+    {
+      "measure": 145,
+      "name": "Solo"
+    },
+    {
+      "measure": 164,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 185,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d730de8ec00aed877f00deece373bbda24b70536f45aec68bc47478bfcddd59c",
+    "version": "BCFZ"
+  },
+  "tempo": 163,
+  "title": "Working Class Hero",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

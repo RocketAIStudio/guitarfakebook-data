@@ -1,0 +1,112 @@
+{
+  "artist": "Garth Brooks",
+  "artistNormalized": "garth brooks",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Dm]\n\n[Verse 1]\n[Dm]Three thirty in the mornin',\n[Bb]not a soul in sight\n[A7]The city's lookin' like a ghost town on a\nmoonless summer night [Dm]\nRaindrops on the windshield, there's a storm\n[Bb]movin' in\n[A7]He's headin' back from somewhere that he\nnever should have been [Dm]\nAnd the thunder rolls\n[C]\n[A7]And the thunder rolls\n[Dm]\n\n[Verse 2]\n[Dm]Every light is burnin' in a\n[Bb]house across town\n[A7]She's pacin' by the telephone in her\nfaded flannel gown [Dm]\nAskin' for a miracle,\n[Bb]hopin' she's not right\n[A7]Prayin' it's the weather that's\nkept him out all night\n[Dm]And the thunder rolls\n[C]\n[A7]And the thunder rolls\n[Dm]The thunder\n\n[Chorus]\n[Bb]rolls, [C]and the lightnin'\n[Dm]strikes Another love grows\n[Bb]cold [C]on a sleepless\n[A7]night As the storm blows\n[Bb]on [C]out of control\n[Dm]Deep in her heart\n[Bb][C]the thunder\n\n[Interlude]\n[Dm]rolls\n\n[Verse 3]\n[Dm]She's waitin' by the window when he\n[Bb]pulls into the drive\n[A7]She rushes out to hold him,\nthankful he's alive [Dm]\nBut on the wind and rain a strange\n[Bb]new perfume blows And the\n[A7]lightnin' flashes in her eyes, and\nhe knows that she knows\n[Dm]And the thunder rolls\n[C]\n[A7]And the thunder rolls\n[Dm]\nThe thunder\n\n[Chorus]\n[Bb]rolls, [C]and the lightnin'\n[Dm]strikes Another love grows\n[Bb]cold [C]on a sleepless\n[A7]night As the storm blows\n[Bb]on [C]out of control\n[Dm]Deep in her heart\n[Bb][C]the thunder\n\n[Outro]\n[Dm]rolls\n\n[Fade Out]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Thunder Rolls",
+  "id": "563a1054ad384d69c70e0df59b5eab6691647ac5393ea6b622aba7a4164c5a13",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 262,
+  "normalizedKey": "garth brooks|the thunder rolls",
+  "playableChords": [
+    "Dm",
+    "Bb",
+    "A7",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    },
+    {
+      "measure": 69,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "563a1054ad384d69c70e0df59b5eab6691647ac5393ea6b622aba7a4164c5a13",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "The Thunder Rolls",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

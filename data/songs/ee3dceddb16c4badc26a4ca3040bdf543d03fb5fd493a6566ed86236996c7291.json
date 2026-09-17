@@ -1,0 +1,65 @@
+{
+  "artist": "Groovie Ghoulies",
+  "artistNormalized": "groovie ghoulies",
+  "capo": "No capo",
+  "chordPositionCount": 3,
+  "chordSymbolCount": 3,
+  "content": "[Verse 1]\n[D5]Just because you've been to school\n[C5]doesn't mean you're smart\n[G5]\nAnd\n[D5]just because you say you love\n[C5]me doesn't mean you lo-\n[G5]ve me\n[D5]Just because you've been to school\n[C5]doesn't mean you're smart\n[G5]\nAnd\n[D5]just because you say you love\n[C5]me doesn't mean you lo-\n[G5]ve me\n\n[Bridge]\n[D5]\n[C5]\n[G5]\n[D5]\n[C5]\n[G5]\n[D5]\n[C5]\n[G5]\n[D5]\n[C5]\n[G5]\n\n[Verse 2]\n[D5]Just because you've been to school\n[C5]doesn't mean you're smart\n[G5]\nAnd\n[D5]just because you say you love\n[C5]me doesn't mean you lo-\n[G5]ve me\n[D5]Just because you've been to school\n[C5]doesn't mean you're smart\n[G5]\nAnd\n[D5]just because you say you love\n[C5]me doesn't mean you lo-\n[G5]ve me",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "School Is Out",
+  "id": "ee3dceddb16c4badc26a4ca3040bdf543d03fb5fd493a6566ed86236996c7291",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 116,
+  "normalizedKey": "groovie ghoulies|school is out",
+  "playableChords": [
+    "D5",
+    "C5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ee3dceddb16c4badc26a4ca3040bdf543d03fb5fd493a6566ed86236996c7291",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "School Is Out",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

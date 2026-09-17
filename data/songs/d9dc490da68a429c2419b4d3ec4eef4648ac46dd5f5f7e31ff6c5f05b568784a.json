@@ -1,0 +1,126 @@
+{
+  "artist": "Foo Fighters",
+  "artistNormalized": "foo fighters",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Dm]\n\n[Verse 1]\n[Dm]Lately [Dmadd11]I've been\n[Aaug]measuring\n[Dm]\n[Dm]Seems my [Dmadd11]time is\n[Aaug]growing thin\n[Dm]\n[Dm]Wind me [Dmadd11]up and\n[Aaug]watch me spin [Dm]\n[Aaug]Watch me spin [Dm]\n[Aaug]Watch me spin [Dm]\n\n[Chorus]\n[Gm]Skin and bones [Dm]\n[Gm]Skin and bones [Dm]\n[Gm]Skin and bones [Dm]Don't you know?\n[Am7]\n[Gm]Skin and bones [Dm]\n[Gm]Skin and bones [Dm]\n[Gm]Skin and bones [Dm]Don't you know?\n[Am7]\nI'm just skin and bo-\n\n[Post-Chorus]\n[Dm]nes\n\n[Verse 2]\n[Dm]All worn [Dmadd11]out and\n[Aaug]nothing fits\n[Dm]\n[Dm]Brennivin [Dmadd11]and ci-\n[Aaug]garettes\n[Dm]\n[Dm]More I [Dmadd11]give the\n[Aaug]less I get [Dm]\n[Aaug]ButI'm all set [Dm]\n[Aaug]I'm all set [Dm]\n\n[Chorus]\n[Gm]Skin and bones [Dm]\n[Gm]Skin and bones [Dm]\n[Gm]Skin and bones [Dm]Don't you know?\n[Am7]\n[Gm]Skin and bones [Dm]\n[Gm]Skin and bones [Dm]\n[Gm]Skin and bones [Dm]Don't you know?\n[Am7]\nI'm just skin and bo-\n\n[Bridge]\n[Dm]nes [F(b5)/G]\n[Dm]I'm just [F(b5)/G]skin and bo-\n[Dm]nes [F(b5)/G]\n[Dm]I'm just [F(b5)/G]skin and bo-\n[Dm]nes [F(b5)/G]\n[Dm]I'm just [F(b5)/G]skin and bo-\n[Dm]nes [F(b5)/G]\n[Dm]I'm just [F(b5)/G]skin and bo-\n[Dm]nes\n\n[Verse 3]\n[Dm]Deep [Dmadd11]within this\n[Aaug]frame of mine\n[Dm]\n[Dm]Heart of hearts [Dmadd11]a va-\n[Aaug]lentine\n[Dm]\n[Dm]Tell my [Dmadd11]mom I'm\n[Aaug]doing fine [Dm]\n[Aaug]Doing fine [Dm]\n[Aaug]Doing fine [Dm]\n\n[Chorus]\n[Gm]Skin and bones [Dm]\n[Gm]Skin and bones [Dm]\n[Gm]Skin and bones [Dm]Don't you know?\n[Am7]\n[Gm]Skin and bones [Dm]\n[Gm]Skin and bones [Dm]\n[Gm]Skin and bones [Dm]Don't you know?\n[Am7]\n[Gm]Skin and bones [Dm]\n[Gm]Skin and bones [Dm]\n[Gm]Skin and bones [Dm]Don't you know?\n[Am7]\nI'm just skin and bo-\n\n[Outro]\n[Dm]nes [F(b5)/G]\n[Dm]I'm just [F(b5)/G]skin and bo-\n[Dm]nes [F(b5)/G]\n[Dm]I'm just [F(b5)/G]skin and bo-\n[Dm]nes [F(b5)/G]\n[Dm]I'm just [F(b5)/G]skin and bo-\n[Dm]nes [F(b5)/G]\n[Dm]I'm just [F(b5)/G]skin and bo-\n[Dm]nes",
+  "diagrams": {
+    "Aaug": {
+      "catalog": [
+        "9-7-x-10-10-x"
+      ],
+      "catalogCount": 1
+    },
+    "Am7": {
+      "catalog": [
+        "5x555x",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "10-x-8-10-10-x",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dmadd11": {
+      "catalog": [
+        "x-10-8-10-10-x"
+      ],
+      "catalogCount": 1
+    },
+    "F(b5)/G": {
+      "catalog": [
+        "x-10-9-10-10-x"
+      ],
+      "catalogCount": 1
+    },
+    "Gm": {
+      "catalog": [
+        "3x033x",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Skin and Bones",
+  "id": "d9dc490da68a429c2419b4d3ec4eef4648ac46dd5f5f7e31ff6c5f05b568784a",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 231,
+  "normalizedKey": "foo fighters|skin and bones",
+  "playableChords": [
+    "Dm",
+    "Dmadd11",
+    "Aaug",
+    "Gm",
+    "Am7",
+    "F(b5)/G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 86,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d9dc490da68a429c2419b4d3ec4eef4648ac46dd5f5f7e31ff6c5f05b568784a",
+    "version": "BCFZ"
+  },
+  "tempo": 103,
+  "title": "Skin and Bones",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

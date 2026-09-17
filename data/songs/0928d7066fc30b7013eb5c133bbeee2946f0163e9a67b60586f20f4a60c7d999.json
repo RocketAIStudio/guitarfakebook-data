@@ -1,0 +1,100 @@
+{
+  "artist": "Gorillaz",
+  "artistNormalized": "gorillaz",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G#m]\n[C#m]\n[G#m]\n[C#m]\n[G#m]\n[C#m]\n[G#m]\n[C#m]\n\n[Verse 1]\n[G#m]Everybody's here with me\n[C#m]\n[G#m]Got no camera to see\n[C#m]Don't\n[G#m]think I'm not all in this world\n[C#m]\n[G#m]Camera won't let me go\n[C#m]And\n[G#m]verdict doesn't love our soul\n[C#m]The\n[G#m]digital won't let me go\n[C#m]Yeah\n\n[Chorus]\n[A]yeah yeah I'll\npay When to-\n[B]morrow To-\nmorrow comes today\n[G#m]\n[C#m]\n[G#m]\n[C#m]\n[G#m]\n[C#m]\n[G#m]\n[C#m]\n\n[Verse 2]\n[G#m]Stereo I want it on\n[C#m]It's\n[G#m]taken me far too long\n[C#m]\n[G#m]Don't think I'm all in this world\n[C#m]\n[G#m]Don't think I'll be here too long\n[C#m]\n[G#m]Don't think I'll be here too long\n[C#m]\n[G#m]Don't think I'll be here too long\n[C#m]Yeah\n\n[Chorus]\n[A]yeah yeah\nI'll pay When to-\n[B]morrow To-\nmorrow comes today\n\n[Bridge]\n[G#m]\n[C#m]\n[G#m]\n[C#m]\n[G#m]\n[C#m]\n[G#m]\n[C#m]\n[G#m]\n[C#m]\n[G#m]\n[C#m]\n[G#m]\n[C#m]\n[G#m]\n[C#m]\n\n[Ending]\n[G#m]\n[C#m]Don't think I'm all in this world\n[G#m]\n[C#m]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x2444x",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tommorow Comes Today",
+  "id": "0928d7066fc30b7013eb5c133bbeee2946f0163e9a67b60586f20f4a60c7d999",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 125,
+  "normalizedKey": "gorillaz|tommorow comes today",
+  "playableChords": [
+    "G#m",
+    "C#m",
+    "A",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 69,
+      "name": "Ending"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0928d7066fc30b7013eb5c133bbeee2946f0163e9a67b60586f20f4a60c7d999",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Tommorow Comes Today",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

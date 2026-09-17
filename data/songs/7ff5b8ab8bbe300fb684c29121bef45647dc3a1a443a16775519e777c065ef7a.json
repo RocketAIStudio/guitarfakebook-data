@@ -1,0 +1,83 @@
+{
+  "artist": "Good Riddance",
+  "artistNormalized": "good riddance",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "I\n\n[Verse 1]\n[B5]told you twice to stay away\n[D5][A5][D5][A5][D5][A5]I\n[B5]know the games you're going to play\n[D5][A5][D5][A5][D5][A5]I'm\n[B5]trying to walk the straightened line\n[D5][A5][D5][A5][D5]I [A5]don't\n[B5]need your problems killing my\n[D5]time [A5][D5][A5][D5][A5]\n\n[Chorus]\n[B5]Sometimes I [D5]feel just like a\n[A5]puppet on a [D5]string [A5]\n[B5]Everybody [D5]talks so loud\n[A5]and I can't hear [D5]a thing [A5]\n[B5]Each day I [D5]find away\n[A5]to keep [D5]myself away [A5]from\n[G5]you Don't you\n[F#5]try to comfort me\n[G5]I don't\n[F#5]need your sympa-\n[G5]thy This is\n[A5]how it's supposed to\n[B5]be [A5][B5][A5]\n[B5]\n\n[Verse 2]\n[B5]Looking through your jaded eyes\n[D5][A5][D5][A5]It's [D5]so [A5]ea-\n[B5]sy just to criticize\n[D5][A5][D5][A5][D5][A5]I'm\n[B5]trying to do the best that I\n[D5]can [A5][D5][A5]I [D5]don't [A5]ex-\n[B5]pect you to understand\n[D5]  [A5]  [D5]  [A5]  [D5]  [A5]\n\n[Chorus]\n[B5]Don't mean a [D5]thing to me you\n[A5]run around like rats [D5][A5]\n[B5]Speak with [D5]authority but\n[A5]never with the [D5]facts [A5]\n[B5]I've been [D5]afflicted yeah\n[A5]I'm [D5]addicted [A5]to\n[G5]you Don't you\n[F#5]try to comfort me\n[G5]I don't\n[F#5]need your sympa-\n[G5]thy This is\n[A5]how it's supposed to\n[B5]be [A5][B5][A5]\n[B5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dear Cammi",
+  "id": "7ff5b8ab8bbe300fb684c29121bef45647dc3a1a443a16775519e777c065ef7a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 188,
+  "normalizedKey": "good riddance|dear cammi",
+  "playableChords": [
+    "B5",
+    "D5",
+    "A5",
+    "G5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7ff5b8ab8bbe300fb684c29121bef45647dc3a1a443a16775519e777c065ef7a",
+    "version": "BCFZ"
+  },
+  "tempo": 168,
+  "title": "Dear Cammi",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

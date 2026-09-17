@@ -1,0 +1,154 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[A]\n[F#m]\n[Bm]\n[E]\n\n[Verse 1]\n[A]Take away the sensation in-\n[F#m]side.\n[Bm]Bitter sweet migraine in my head.\n[E]Its\n[A]like a throbbing tooth ache of the\n[F#m]mind.\n[Bm]I can't take this feeling anymore.\n[E]\n\n[Chorus]\n[D5]Drain the pressure from the swel-\n[A5]ling.\n[D5]This sensation's overwhel-\n[A5]ming.\n[D5]Give me a long kiss goodnight And\n[F#5]everything will be alright.\n[B5]Tell me that I won't feel a thing.\n[E5]So give me Novacaine.\n\n[Interlude]\n[A]\n[F#m]\n[Bm]\n[E]\n\n[Verse 2]\n[A]Out of body and out of\n[F#m]mind.\n[Bm]Kiss the demons out of my dreams.\n[E]I\n[A]get the funny feeling, that's al-\n[F#m]right.\n[Bm]Jimmy says it's better than air,\n[E]I'll tell you why.\n\n[Chorus]\n[D5]Drain the pressure from the swel-\n[A5]ling.\n[D5]This sensation's overwhel-\n[A5]ming.\n[D5]Give me a long kiss goodnight And\n[F#5]everything will be alright.\n[B5]Tell me that I won't feel a thing.\n[E5]So give me Novacaine.\n\n[Guitar Solo]\n[A5]\n[F#5]\n[A5]\n[F#5]\n[A5]  [G#5]\n[F#5]\n[A5]\n[B5]\n[E5]\n\n[Chorus]\n[D5]Drain the pressure from the swel-\n[A5]ling.\n[D5]This sensation's overwhel-\n[A5]ming.\n[D5]Give me a long kiss goodnight And\n[F#5]everything will be alright.\n[B5]Tell me that I won't feel a thing.\n[E5]So give me Novacaine.\n\n[Outro]\n[A]\n[F#m]\n[Bm]\n[E]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "2442xx",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Give Me Novacaine",
+  "id": "e5f1c4b2a7828a0fa4a465a98bdab9bd82c06f7ee3a8c036090f59f63aadc05d",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 209,
+  "normalizedKey": "green day|give me novacaine",
+  "playableChords": [
+    "A",
+    "F#m",
+    "Bm",
+    "E",
+    "D5",
+    "A5",
+    "F#5",
+    "B5",
+    "E5",
+    "G#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Interlude"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e5f1c4b2a7828a0fa4a465a98bdab9bd82c06f7ee3a8c036090f59f63aadc05d",
+    "version": "BCFZ"
+  },
+  "tempo": 77,
+  "title": "Give Me Novacaine",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

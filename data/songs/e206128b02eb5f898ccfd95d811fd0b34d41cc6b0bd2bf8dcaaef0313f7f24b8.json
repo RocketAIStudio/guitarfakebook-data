@@ -1,0 +1,119 @@
+{
+  "artist": "Family Of The Year",
+  "artistNormalized": "family of the year",
+  "capo": "5",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n\n[Chorus]\n[C]Let me go\nI don't\nwanna be your\n[Am]hero\n[Em]\nI don't\nwanna be a\n[F]big man\nJust wanna fight\n[C]with everyone else\n[G]\nYour\n[C]masquerade\nI don't\nwanna be a\n[Am]part of your parade\n[Em]\nEvery-\none deserves a\n[F]chance to\n[C]Walk with everyone else\n[G]\nWhile\n\n[Verse 1]\n[C]holding down\nA job to\nkeep my\n[Am]girl around\n[Em]\nAnd maybe\nbuy me some new\n[F]strings\nAnd her a night\n[C]out on the week-\n[G]end\nAnd we can whis-\n\n[Verse 2]\n[C]per things\nSecrets\nfrom our A-\n[Am]merican\n[Em]dreams\nBaby\nneeds some pro-\n[F]tection\nBut I'm a\n[C]kid like everyone else\n[G]\nSo\n\n[Chorus]\n[C]let me go\nI don't\nwanna be your\n[Am]hero\n[Em]\nI don't\nwanna be a\n[F]big man\nI just wanna fight\n[C]like everyone else\n[G]\n\n[Bridge]\n[C]\n[Am]\n[Em]\n[F]\n[C]\n[G]\n[Am]\n[G]\n[F]\n[G]\nSo\n\n[Chorus]\n[C]let me go\nI don't\nwanna be your\n[Am]hero\n[Em]\nI don't\nwanna be a\n[F]big man\nJust wanna fight\n[C]with everyone else\n[G]\nYour\n[C]masquerade\nI don't\nwanna be a\n[Am]part of your parade\n[Em]\nEvery-\none deserves a\n[F]chance to\n[C]Walk with everyone else\n[G]\n\n[Outro]\n[C]\n[Am]\n[Em]\n[F]\n[C]\n[G]\n[C]\n[G]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hero",
+  "id": "e206128b02eb5f898ccfd95d811fd0b34d41cc6b0bd2bf8dcaaef0313f7f24b8",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 205,
+  "normalizedKey": "family of the year|hero",
+  "playableChords": [
+    "C",
+    "Am",
+    "Em",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Bridge"
+    },
+    {
+      "measure": 93,
+      "name": "Chorus"
+    },
+    {
+      "measure": 121,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e206128b02eb5f898ccfd95d811fd0b34d41cc6b0bd2bf8dcaaef0313f7f24b8",
+    "version": "BCFZ"
+  },
+  "tempo": 175,
+  "title": "Hero",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

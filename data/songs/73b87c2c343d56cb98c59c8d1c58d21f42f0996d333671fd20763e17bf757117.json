@@ -1,0 +1,149 @@
+{
+  "artist": "George Strait",
+  "artistNormalized": "george strait",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D]  [F#m]\n[G]  [A]\n[D]  [F#m]\n[G]  [A]\n\n[Verse 1]\n[D]Amarillo by [F#m]mornin'\n[G]Up from San Antone [D]\n[D]Everything that I [F#m]got Is\n[G]just what I've got on [A]\nWhen that\n\n[Chorus]\n[G]sun is high in that [A]Texas sky I'll be\n[D]buckin' at the [A]county [G]fair\n[D]Amarillo by [A]mornin' Ama-\n[G]rillo, [A]I'll be there\n\n[Refrain]\n[D]  [F#m]\n[G]  [A]\n\n[Verse 2]\n[D]They took my saddle in [F#m]Houston Broke my\n[G]leg in Santa Fe [D]\n[D]Lost my wife and a [F#m]girlfriend Some-\n[G]where along the way [A]\nBut I'll be\n\n[Chorus]\n[G]lookin' for eight when they [A]pull that gate And I hope\n[D]that judge [A]ain't blind [G]\n[D]Amarillo by [A]mornin' Ama-\n[G]rillo's [A]on my mind\n\n[Refrain]\n[D]  [F#m]\n[G]  [F#m]  [A]\n\n[Verse 3]\n[E]Amarillo by [G#m]mornin'\n[A]Up from San Antone [E]\n[E]Everything that I [G#m]got Is\n[A]just what I've got [B7]on\nI ain't\n\n[Chorus]\n[A]got a dime but what I got [B7]is mine I\n[E]ain't rich but [G#m]Lord I'm [A]free\n[E]Amarillo by [B7]mornin' Ama-\n[A]rillo's [B7]where I'll be [E][A][B7]\n[E]Amarillo by [B7]mornin' Ama-\n[A]rillo's [B7]where I'll be\n\n[Outro]\n[E]  [G#m]\n[A]  [B7]\n[E]  [G#m]\n[A]  [B7]\n\n[Fade out]\n[E]  [G#m]\n[A]  [B7]\n[E]  [G#m]\n[A]  [B7]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Amarillo by Morning",
+  "id": "73b87c2c343d56cb98c59c8d1c58d21f42f0996d333671fd20763e17bf757117",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 190,
+  "normalizedKey": "george strait|amarillo by morning",
+  "playableChords": [
+    "D",
+    "F#m",
+    "G",
+    "A",
+    "E",
+    "G#m",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Refrain"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Refrain"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Outro"
+    },
+    {
+      "measure": 43,
+      "name": "Fade out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "73b87c2c343d56cb98c59c8d1c58d21f42f0996d333671fd20763e17bf757117",
+    "version": "BCFZ"
+  },
+  "tempo": 60,
+  "title": "Amarillo by Morning",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

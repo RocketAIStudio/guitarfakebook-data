@@ -1,0 +1,104 @@
+{
+  "artist": "Hank Williams",
+  "artistNormalized": "hank williams",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E]  [B7]\n[E]He-\n\n[Verse 1]\n[E]ar that lone some\nwhip poorwill He\nsounds too blue to\nfly [E7]The\n[A]midnight train is\n[E]whining low I'm so\nlonesome [B7]I could\n[E]cry I've\n\n[Verse 2]\n[E]ne ver seen a\nnight so long When\ntime goes crawl ing\nby [E7]The\n[A]moon just went be-\n[E]hind the clouds To\nhide its [B7]face and\n[E]cry\n\n[Solo 1 (Steel Guitar)]\n[E]\n[E7]\n[A]\n[E]\n[B7]\n[E]Did you\n\n[Verse 3]\n[E]e ver see a\nro bin weep When\nleaves began to\ndie? [E7]Like\n[A]me, he's lost the\n[E]will to live I'm so\nlonesome [B7]I could\n[E]cry\n\n[Solo 2 (Fiddle)]\n[E]\n[E7]\n[A]\n[E]\n[B7]\n[E]The\n\n[Verse 4]\n[E]si lence of a\nfall ing star Lights\nup a pur ple\nsky [E7]And\n[A]as I wonder\n[E]where you are I'm so\nlonesome [B7]I could\n[E]cry",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I’m So Lonesome I Could Cry",
+  "id": "aa77e85779fea3ac7269d39b93947f0a7496d7a8390d9bd41af5ff8f8ef39087",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 125,
+  "normalizedKey": "hank williams|i m so lonesome i could cry",
+  "playableChords": [
+    "E",
+    "B7",
+    "E7",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 20,
+      "name": "Solo 1 (Steel Guitar)"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 36,
+      "name": "Solo 2 (Fiddle)"
+    },
+    {
+      "measure": 44,
+      "name": "Verse 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "aa77e85779fea3ac7269d39b93947f0a7496d7a8390d9bd41af5ff8f8ef39087",
+    "version": "BCFZ"
+  },
+  "tempo": 56,
+  "title": "I’m So Lonesome I Could Cry",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,130 @@
+{
+  "artist": "George Ezra",
+  "artistNormalized": "george ezra",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\nAll my\n[C]love is [Am7]yours All my\n[F]time is [G]ours All my\n[C]reckless [Am7]dreams And all my\n[F]restless [G]hours\n\n[Pre-Chorus]\n[C]No matter where you go\n[Dm/A]Baby, I'll [G]be there\n[C]No matter where you go\n[Dm/A]Baby, I'll [G]be there,\n[Dm/A]I'll [G]be there\nAll my\n\n[Chorus]\n[C]love is [Am7]yours All my\n[F]time is [G]ours All my\n[C]reckless [Am7]dreams All my\n[F]restless [G]hours All, my\n[C]my, [Am7]all my my\n[Dm/A]love [G]All, my my,\n[C][Am7]all my my\n[Dm/A]love [G]And all those\n\n[Verse 2]\n[C]setting [Am7]suns And all those\n[F]rising [G]moons From the Eif-\n[C]fel [Am7]Tower to those\n[F]deep lagoons [G]\n\n[Pre-Chorus]\n[C]No matter where you go\n[Dm/A]Baby, I'll [G]be there\n[C]No matter where you go\n[Dm/A]Baby, I'll [G]be there,\n[Dm/A]I'll [G]be there\nAll my\n\n[Chorus]\n[C]love is [Am7]yours All my\n[F]time is [G]ours All my\n[C]reckless [Am7]dreams All my\n[F]restless [G]hours All, my\n[C]my, [Am7]all my my\n[Dm/A]love [G]All, my my,\n[C][Am7]all my my\n[Dm/A][G]love\n\n[Bridge]\n[Em]\n[F]It's been tippin' down la-\n[Em]tely\n[F]But you don't need to wor-\n[Em]ry about it\n[F]I'll be there\n[G]\nAll my\n\n[Verse 3]\n[C]love is [Am7]yours All my\n[F]time is [G]ours All my\n[C]reckless [Am7]dreams All my\n[F]restless [G]hours All, my\n\n[Outro]\n[C]my, [Am7]all my my\n[Dm/A]love [G]All, my my,\n[C][Am7]all my my\n[Dm/A][G]love All, my my,\n[C][Am7]all my my\n[Dm/A]love [G]All, my my,\n[C][Am7]all my my\n[Dm/A][G]love All my my\n[C]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm/A": {
+      "catalog": [
+        "x00231"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "All My Love",
+  "id": "c8d2d05d727397e1dd2bd8ba6982670811ccc210f105dfd14d864e25c87547d3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 241,
+  "normalizedKey": "george ezra|all my love",
+  "playableChords": [
+    "C",
+    "Am7",
+    "F",
+    "G",
+    "Dm/A",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 6,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 12,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Bridge"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c8d2d05d727397e1dd2bd8ba6982670811ccc210f105dfd14d864e25c87547d3",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "All My Love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,88 @@
+{
+  "artist": "Guns N' Roses",
+  "artistNormalized": "guns n roses",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n\n[1st Verse]\n\n[Interlude]\nspoken\n\n[2nd Verse]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n\n[Interlude]\n\n[Guitar Solo]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n\n[3rd verse]\nspoken\n\n[Outro]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n\n[Fade Out]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]\n[D5]  [E5]  [C5]\n[C5]  [D5]  [F5]  [E5]  [F5]",
+  "diagrams": {
+    "D7": {
+      "catalog": [
+        "x-x-0-2-1-2",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "The Garden",
+  "id": "992d19372b71e381567c976ec357920b5ce35770245d2f605b721e9f437258c8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 2,
+  "normalizedKey": "guns n roses|the garden",
+  "playableChords": [
+    "C5",
+    "D5",
+    "F5",
+    "E5",
+    "D7",
+    "D6",
+    "D(b6)",
+    "Dadd4",
+    "Cadd#4",
+    "Bm(b6)"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "1st Verse"
+    },
+    {
+      "measure": 22,
+      "name": "Interlude"
+    },
+    {
+      "measure": 30,
+      "name": "2nd Verse"
+    },
+    {
+      "measure": 38,
+      "name": "Interlude"
+    },
+    {
+      "measure": 46,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 62,
+      "name": "3rd verse"
+    },
+    {
+      "measure": 74,
+      "name": "Outro"
+    },
+    {
+      "measure": 103,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gp3",
+    "sha256": "992d19372b71e381567c976ec357920b5ce35770245d2f605b721e9f437258c8",
+    "version": "FICHIER GUITAR PRO v3.00"
+  },
+  "tempo": 80,
+  "title": "The Garden",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

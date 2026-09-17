@@ -1,0 +1,174 @@
+{
+  "artist": "Genesis",
+  "artistNormalized": "genesis",
+  "capo": "No capo",
+  "chordPositionCount": 34,
+  "chordSymbolCount": 14,
+  "content": "[Intro]\n[Dadd9]\n[C]\n[Dadd9]\n[C]\n\n[Verse 1]\n[Dadd9]Wrapped up in some powdered wool I\n[C]guess I'm loosing touch. Don't\n[Dadd9]tell me this is dying, 'cos\n[C]I ain't changed that much. The\n[F/G]only sound is water drops, I\n[G/F]wonder where the hell I am,\n[A]Some kind of jam? [A7/G]Coc-\n[F#m]koo Cocoon [G#m]have I come [F#m]to, too [G#m]soon for\n[F#/B]you? There's\n\n[Verse 2]\n[Dadd9]nothing I can recognize; This is\n[C]nowhere that I've known. With\n[Dadd9]no sign of life at all, I\n[C]guess that I'm alone. And\n[F/G]feel so secure That I\n[G/F]know this can't be real\n[A]But I feel [A7/G]good. Coc-\n[F#m]koo Cocoon [G#m]have I come [F#m]to, too [G#m]soon for\n[F#/B]you?\n\n[Intrelude]\n[G/A]\n[F/G]\n[D/C]\n[Bb]\n[Dm]  [Bb]\n[C]\n[Dadd9]\n[C]I\n\n[Verse 3]\n[Dadd9]wonder if I'm prisoner Locked\n[C]up in some Brooklyn jail Or\n[Dadd9]some sort of Jonah Shut\n[C]up inside the whale. No,\n[F/G]I'm still Rael And I'm\n[G/F]stuck in some kind of cave.\n[A]What could have saved [A7/G]me? Coc-\n[F#m]koo Cocoon [G#m]have I come [F#m]to, too [G#m]soon for\n[F#/B]you?\n\n[Outro]\n[G/A]\n[F/G]\n[D/C]\n[Bb]\n[Dm]  [Bb]\n[C]\n[D/F#]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7/G": {
+      "catalog": [
+        "30202x"
+      ],
+      "catalogCount": 1
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D/C": {
+      "catalog": [
+        "x3423x"
+      ],
+      "catalogCount": 1
+    },
+    "D/F#": {
+      "catalog": [
+        "200232"
+      ],
+      "catalogCount": 1
+    },
+    "Dadd9": {
+      "catalog": [
+        "xx0252"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F#/B": {
+      "catalog": [
+        "x24322"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "F/G": {
+      "catalog": [
+        "3332xx"
+      ],
+      "catalogCount": 1
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    },
+    "G/A": {
+      "catalog": [
+        "x05433"
+      ],
+      "catalogCount": 1
+    },
+    "G/F": {
+      "catalog": [
+        "12003x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Cuckoo Cocoon *alt",
+  "id": "5a2c6d5c6aa278f265b5cbac86c49118327a0ae3b12bf07b556304cb4b5cb4a3",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 170,
+  "normalizedKey": "genesis|cuckoo cocoon",
+  "playableChords": [
+    "Dadd9",
+    "C",
+    "F/G",
+    "G/F",
+    "A",
+    "A7/G",
+    "F#m",
+    "G#m",
+    "F#/B",
+    "G/A",
+    "D/C",
+    "Bb",
+    "Dm",
+    "D/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 23,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5a2c6d5c6aa278f265b5cbac86c49118327a0ae3b12bf07b556304cb4b5cb4a3",
+    "version": "BCFZ"
+  },
+  "tempo": 84,
+  "title": "Cuckoo Cocoon",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

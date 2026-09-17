@@ -1,0 +1,125 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[A5]\n[G#aug]\n[G5]\n[F#5]\n[Bm]\n[D5]\n[A5]\n[E5]\n\n[Verse 1]\n[A5]We're living i-\n[D5]n repeti\n[A5]tion [D5]\n[A5]\nContent in the sa-\n[D5]me old shtick a-\n[E5]gain\n[G5]\n[A5]Now the routine's turn-\n[D5]ing to conten-\n[A5]tion [D5]\n[A5]\n[A5]Like a production\n[D5]line going o-\n[E5]ver and over and o-\nver Roller coaster Now I\n\n[Chorus]\n[A5]can not speak, I\n[G#aug]lost my voice\n[G5]Speechless and redun-\n[F#5]dant 'Cause I lo-\n[Bm]ve you's not eno-\n[D5]ugh I'm lost for w-\n[A5]ords\n[E5]\n\n[Verse 2]\n[A5]Choreographed\n[D5]and lack of pas-\n[A5]sion [D5]\n[A5]\nPrototypes\n[D5]of what we we-\n[E5]re\n[E5]  [G5]\n[A5]Went full cir-\n[D5]cle 'til I'm nau-\n[A5]seous [D5]\n[A5]\n[A5]Taken for gran-\n[D5]ted Now I waste\n[E5]it, I faked it, I ate\nit, now I hate it 'Cause I\n\n[Chorus]\n[A5]can not speak, I\n[G#aug]lost my voice\n[G5]Speechless and redun-\n[F#5]dant 'Cause I lo-\n[Bm]ve you's not eno-\n[D5]ugh I'm lost for w-\n[A5]ords\n[E5]\n\n[Solo]\n[A5]\n[D5]\n[A5]  [D5]\n[A5]\n[F#5]\n[B5]\n[E5]\n[E5]  [G5]\n[A5]\n[D5]\n[A5]\n[F#5]\n[B5]\n[E5]\n[E5]Now I\n\n[Chorus]\n[A5]can not speak, I\n[G#aug]lost my voice\n[G5]Speechless and redun-\n[F#5]dant 'Cause I lo-\n[Bm]ve you's not eno-\n[D5]ugh I'm lost for w-\n[A5]ords\n[A5]Now I\n[A5]can not speak, I\n[G#aug]lost my voice\n[G5]Speechless and redun-\n[F#5]dant 'Cause I lo-\n[Bm]ve you's not eno-\n[D5]ugh I'm lost for w-\n[A5]ords\n[A5]\n\n[Outro]\n[A5]\n[G#aug]\n[G5]\n[F#5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#aug": {
+      "catalog": [
+        "4765xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Redundant *alt",
+  "id": "05ff3d979606ff92b712110c07cd96560fd1e05153dc1fe2c1f2eee61bc0114a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 211,
+  "normalizedKey": "green day|redundant",
+  "playableChords": [
+    "A5",
+    "G#aug",
+    "G5",
+    "F#5",
+    "Bm",
+    "D5",
+    "E5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "05ff3d979606ff92b712110c07cd96560fd1e05153dc1fe2c1f2eee61bc0114a",
+    "version": "BCFZ"
+  },
+  "tempo": 116,
+  "title": "Redundant",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

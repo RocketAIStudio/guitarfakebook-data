@@ -1,0 +1,146 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 10,
+  "content": "[Verse 1]\n[G]Words get trapped in my mind\n[D/F#]Sorry I don't take\n[Em]the time to feel the way I\n[C]do. 'Cause the\n[G]first day you came into my life\n[D]My time ticks a-\n[G]round you\n[D]\n[G]But then I need your\n[D/F#]voice And the key to\n[Em]unlock all the love trapped in\n[C]me So, tell me\n[G]when it's\n[D]time to say \"I love\n[G]you.\"\n[G7]\n\n[Chorus]\n[C]All I want is\n[G]you to understand That\n[D]when I take your hand, it's 'cause I\n[G]want to.\n[C]We are all born\n[G]in a world of doubt But there's no\n[D]doubt I figured\n[D]out [Cadd9]I [G6/B]love [A7sus4]you.\n\n[Solo]\n[G]  [D/F#]  [Em]\n[C]  [G]  [D]\n[G]  [D/F#]  [Em]\n[C]  [G]  [D]\n\n[Chorus]\n[C]All I want is\n[G]you to understand That\n[D]when I take your hand, it's 'cause I\n[G]want to.\n[C]We are all born\n[G]in a world of doubt But there's no\n[D]doubt I figured\nout [Cadd9]I [G6/B]love [A7sus4]you.\n\n[Verse 2]\n[G]I've been longing\n[D/F#]for All the losers\n[Em]that were meant to take the time to\n[C]say What was\n[G]really on their mind, instead\n[D]They just hide a-\n[G]way\n[D]\n\n[Verse 3]\n[G]Yet they'll never\n[D/F#]have Someone like you\n[Em]to back them and help them on the\n[C]way. Or tell them\n[G]when it's\n[D]time to say \"I love you.\"\n[G]\n[G]So, tell me\n[G]when it's\n[D]time to say \"I love you.\"\n[C]  [G/B]\n[A7sus4]  [G]",
+  "diagrams": {
+    "A7sus4": {
+      "catalog": [
+        "x00030"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32030"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "200232"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20433"
+      ],
+      "catalogCount": 1
+    },
+    "G6/B": {
+      "catalog": [
+        "x20030"
+      ],
+      "catalogCount": 1
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "When It's Time",
+  "id": "cd8e5ce6173904b00d063bba6963bbdb41993a6d3fadaa615f98173833fd92df",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 216,
+  "normalizedKey": "green day|when it s time",
+  "playableChords": [
+    "G",
+    "D/F#",
+    "Em",
+    "C",
+    "D",
+    "G7",
+    "Cadd9",
+    "G6/B",
+    "A7sus4",
+    "G/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Solo"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cd8e5ce6173904b00d063bba6963bbdb41993a6d3fadaa615f98173833fd92df",
+    "version": "BCFZ"
+  },
+  "tempo": 74,
+  "title": "When It's Time",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

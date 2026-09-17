@@ -1,0 +1,91 @@
+{
+  "artist": "Gossip",
+  "artistNormalized": "gossip",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em/A]\n\n[Chorus]\n[E5]Say no, no, no, no, no [G5][D5]\n[E5]Say no, no, no, no, no [G5][D5]\n[E5]I say no, no, no, no, no [G5][D5]\n[E5]I say no, no, no, no, no [G5][D5]\n[E5]Before you leave, [G5][D5]\n[E5]yeah, close the door [G5][D5]\n[E5]Before you leave, [G5][D5]\n[E5]yeah, close the door [G5][D5]\n\n[Verse 1]\n[E5]Because time is wastin' ya' know\nAnd before you know it it's gone\n[A5]And things are movin'\nBut lookin' better all the time,\n[E5]\nyeah\n[A5]And things are movin'\nBut lookin' better all the time\n\n[Chorus]\n[E5]I say [G5]no, [D5]no,\n[E5]no I say [G5]no, [D5]no,\n[E5]no I say [G5]no, [D5]no,\n[E5]no [G5][D5]\n[E5]Before you leave, [G5][D5]\n[E5]yeah close the door [G5][D5]\n[E5]Before you leave, [G5][D5]\n[E5]yeah close the door [G5][D5]\n\n[Verse 2]\n[E5]'Cause time is wastin' ya' know\nAnd before you know it I'm gone\n[A5]And things are movin'\nBut lookin' better all the time,\n[E5]\nyeah\n[A5]And things are movin'\nAnd lookin' better all the time\n\n[Outro]\n[E5]I say [G5]no, [D5]no,\n[E5]no I say [G5]no, [D5]no,\n[E5]no I say [G5]no, [D5]no,\n[E5]no, no, no, no, [G5]no, [D5]no,\n[E5]no I say [G5]no, [D5]no,\n[E5]no I say [G5]no, [D5]no,\n[E5]no I say [G5]no, [D5]no,\n[E5]no, no, no, no, [G5]no, [D5]no,\n[E5]no",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Em/A": {
+      "catalog": [
+        "x0200x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "No, No, No",
+  "id": "74392127d13ecaf3649cb8d281fff70dcd9cbe670a863d37b91ed23a9d852c28",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 200,
+  "normalizedKey": "gossip|no no no",
+  "playableChords": [
+    "Em/A",
+    "E5",
+    "G5",
+    "D5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "74392127d13ecaf3649cb8d281fff70dcd9cbe670a863d37b91ed23a9d852c28",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "No, No, No",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

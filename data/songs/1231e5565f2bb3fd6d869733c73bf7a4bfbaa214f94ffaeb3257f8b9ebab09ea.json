@@ -1,0 +1,97 @@
+{
+  "artist": "Hi-Standard",
+  "artistNormalized": "hi standard",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F#5]  [B5]\n[E5]\n\n[Chorus]\n[E5]Pay tax, payta, pay\ntax\n[F#5]We're [B5]gonna pay\n[E5]tax\nNa na na na pay\ntax\n[F#5]We're [B5]gonna pay\n[E5]tax\n\n[Verse]\n[C#5]I never knew about\nsuch a duty\n[F#5]When I was a child\n[B5]And now\nthat I am paying\n[G#5]I'm believe in dream of\n[A5]running [B5]away\n\n[Chorus]\n[E5]Pay tax, payta, pay\ntax\n[F#5]We're [B5]gonna pay\n[E5]tax\nNa na na na pay\ntax\n[F#5]We all [B5]have to\n[E5]pay tax\n\n[Outro]\nThis countries\nLife is hard",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx",
+        "799xxx"
+      ],
+      "catalogCount": 2
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx",
+        "x799xx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx",
+        "x-9-11-11-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "G#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pentax",
+  "id": "1231e5565f2bb3fd6d869733c73bf7a4bfbaa214f94ffaeb3257f8b9ebab09ea",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 81,
+  "normalizedKey": "hi standard|pentax",
+  "playableChords": [
+    "F#5",
+    "B5",
+    "E5",
+    "C#5",
+    "G#5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Chorus"
+    },
+    {
+      "measure": 11,
+      "name": "Verse"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1231e5565f2bb3fd6d869733c73bf7a4bfbaa214f94ffaeb3257f8b9ebab09ea",
+    "version": "BCFZ"
+  },
+  "tempo": 167,
+  "title": "Pentax",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

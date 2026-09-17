@@ -1,0 +1,109 @@
+{
+  "artist": "Fit for a king",
+  "artistNormalized": "fit for a king",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Fm]\n[Dbadd9]\n[Fm]\n[Dbadd9]\n\n[Verse 1]\n[Fm]\n\n[Chorus]\n[Fm]\n[Bbm]We know that you're\n[Dbadd9]faking it\n[Eb]\n[Fm]\n[Bbm]Will they see it's\n[Dbadd9]just a tri-\n[Ab]ck\n[Fm]\n[Bbm]We'll see if\n[Dbadd9]you can save your-\n[Eb]self\n[Fm]\n[Bbm]A\n[Dbadd9]liar in Heaven makes an\n[Ab]angel [Bbm]in Hell\n\n[Interlude]\n[Fm]\nA\n[Dbadd9]liar in Heaven makes an\nangel in Hell\n[Fm]\nA\n[Dbadd9]liar in Heaven makes an\nangel in Hell\n\n[Verse 2]\n[Fm]\n\n[Bridge]\n[Fm]\nDon't\nbow to li-\nars\n\n[Chorus]\n[Fm]\n[Bbm]We know that you're\n[Dbadd9]faking it\n[Eb]\n[Fm]\n[Bbm]Will they see it's\n[Dbadd9]just a tri-\n[Ab]ck\n[Fm]\n[Bbm]We'll see if\n[Dbadd9]you can save your-\n[Eb]self\n[Fm]\n[Bbm]A\n[Eb]liar in Heaven makes an\n[Ab]angel [Bbm]in Hell\n\n[Outro]\nA\n[Dbadd9]liar in Heaven makes an\nangel in Hell\n[Fm]\nA\n[Dbadd9]liar in Heaven makes an\nangel in Hell\n[Fm]\n[Dbadd9]\n[Fm]\n[Dbadd9]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm": {
+      "catalog": [
+        "x-1-3-3-2-1",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13",
+        "18-20-20-18-18-18"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "Impostor",
+  "id": "2ce932e90cecc89bd8a284dfa7702cf93bea612e8238f35a9f77d579cf4334e4",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 123,
+  "normalizedKey": "fit for a king|impostor",
+  "playableChords": [
+    "Fm",
+    "Dbadd9",
+    "Bbm",
+    "Eb",
+    "Ab"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Bridge"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    },
+    {
+      "measure": 82,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2ce932e90cecc89bd8a284dfa7702cf93bea612e8238f35a9f77d579cf4334e4",
+    "version": "BCFZ"
+  },
+  "tempo": 137,
+  "title": "Impostor",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

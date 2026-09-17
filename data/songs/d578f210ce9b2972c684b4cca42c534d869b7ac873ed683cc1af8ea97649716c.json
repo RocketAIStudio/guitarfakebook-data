@@ -1,0 +1,93 @@
+{
+  "artist": "Fleet Foxes",
+  "artistNormalized": "fleet foxes",
+  "capo": "5",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[D]\n\n[Verse 1]\nI woke\nup o-\n[G/B]ne mor-\n[D]ning\nAll my\nfingers\nrot-\nten\nI woke\nup a\ndying\nman with-\n[A]out a\n[D]chance\n\n[Verse 2]\nI came\nto your\n[G/B]win-\n[D]dow\nThrew a\nstone and\n[G/B]wai-\n[D]ted\nAt the\ndoor a\nstranger\nstood The\n[A]stranger\n[D]voice Said\nnothing\ngood I\n[A]turned to\nwalk The\n[G/B]frozen\n[D]ground A-\n[G/B]lone\nAll the\nway ho-\n[D]oome\n\n[Chorus]\nWideeyed\n[G/B]wal-\n[D]ker\nDo not\n[G/B]wan-\n[D]der\nDo not\n[G/B]wan-\n[D]der\nThrough the\n[A]dawn\n\n[Interlude]\n[D]\n\n[Verse 3]\nBoth my\neyes a-\n[G/B]re fa-\n[D]ding\nNo light\nin th-\n[G/B]e eve-\n[D]ning\nPlanted\nlike a\n[G/B]seed in\n[D]sand and\n[A]drowned in\n[D]rain\n\n[Verse 4]\nWatch you\nfor a-\n[G/B]n ho-\n[D]ur\nHe kept\nyou be-\n[G/B]neath\n[D]him\nHe kept\nyou on\n[G/B]lock and\n[D]key He\n[A]paid the\n[D]wage y-\n[G/B]ou sent to\n[D]me A-\n[A]nd waste\n[D]the d-\n[G/B]ay so idly\n[D]alo-\n[G/B]ne\nAll\n[D]the w-\nay home\n\n[Chorus]\nWideeyed\n[G/B]wal-\nker\nDo not\n[G/B]wan-\n[D]der\nDo not\n[G/B]wan-\n[D]der\nThrough the\n[A]dawn\n[D]Wideeyed\n[G/B]wal-\nker\nDo not\n[G/B]wan-\n[D]der\nDo not\n[G/B]wan-\nder\nThrough the\n[A]dawn\n[D]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Battery Kinzie",
+  "id": "d578f210ce9b2972c684b4cca42c534d869b7ac873ed683cc1af8ea97649716c",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 191,
+  "normalizedKey": "fleet foxes|battery kinzie",
+  "playableChords": [
+    "D",
+    "G/B",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 68,
+      "name": "Chorus"
+    },
+    {
+      "measure": 82,
+      "name": "Interlude"
+    },
+    {
+      "measure": 92,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 114,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 149,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d578f210ce9b2972c684b4cca42c534d869b7ac873ed683cc1af8ea97649716c",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Battery Kinzie",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

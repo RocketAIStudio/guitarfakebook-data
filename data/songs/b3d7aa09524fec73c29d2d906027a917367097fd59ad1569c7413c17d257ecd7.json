@@ -1,0 +1,55 @@
+{
+  "artist": "Ghost",
+  "artistNormalized": "ghost",
+  "capo": "No capo",
+  "chordPositionCount": 1,
+  "chordSymbolCount": 1,
+  "content": "[Intro]\n[D5]\n\n[Verse]\n[D5]Ring a ring of roses A\npocket full of posies A-\ntishoo, atishoo We\nall fall down\n\n[Chorus]\n[D5]Ashes on the water\nAshes in the sea\nAshes on the riverside\n\n[Outro]\n[D5]",
+  "diagrams": {
+    "D5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ashes",
+  "id": "b3d7aa09524fec73c29d2d906027a917367097fd59ad1569c7413c17d257ecd7",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 41,
+  "normalizedKey": "ghost|ashes",
+  "playableChords": [
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b3d7aa09524fec73c29d2d906027a917367097fd59ad1569c7413c17d257ecd7",
+    "version": "BCFZ"
+  },
+  "tempo": 60,
+  "title": "Ashes",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

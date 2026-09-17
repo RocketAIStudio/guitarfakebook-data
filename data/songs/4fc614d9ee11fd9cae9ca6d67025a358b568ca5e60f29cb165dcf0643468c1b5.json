@@ -1,0 +1,125 @@
+{
+  "artist": "Foo Fighters",
+  "artistNormalized": "foo fighters",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Verse 1]\nYou know in\n[G]all of the time that we've shared\n[Am]\nI've [Bm]never been so\n[A#m]scared\n\n[Chorus]\n[Am]Doll me up in my\n[D]bad luck I'll\n[G]meet you there\nI wish I\n\n[Verse 2]\n[G]never had taken this dare\n[Am]\nI [Bm]wasn't quite prepared\n[A#m]\n\n[Chorus]\n[Am]Doll me up in my\n[D]bad luck\n[F]Uh\n[E]\n[Am]Doll me up in my\n\n[Outro]\n[D]bad luck I'll\n[G]meet you there",
+  "diagrams": {
+    "A#m": {
+      "catalog": [
+        "68866x"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "799777",
+        "x-2-4-4-3-2",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x5777x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Doll *alt 2",
+  "id": "4fc614d9ee11fd9cae9ca6d67025a358b568ca5e60f29cb165dcf0643468c1b5",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 62,
+  "normalizedKey": "foo fighters|doll",
+  "playableChords": [
+    "G",
+    "Am",
+    "Bm",
+    "A#m",
+    "D",
+    "F",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 6,
+      "name": "Chorus"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4fc614d9ee11fd9cae9ca6d67025a358b568ca5e60f29cb165dcf0643468c1b5",
+    "version": "BCFZ"
+  },
+  "tempo": 60,
+  "title": "Doll",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

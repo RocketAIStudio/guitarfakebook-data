@@ -1,0 +1,142 @@
+{
+  "artist": "Gojira",
+  "artistNormalized": "gojira",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro 1]\n\n[Intro 2]\n[D5]\n\n[Intro 3]\n[F5]\n\n[Verse 1]\n[D5]Ana-\n[F5]lyze this chemistry\nPro-\nducing poison And\ncre-\neping in your veins\nFor the\nlove of blood\n[D5]\n[F5]\n[D5]\n[F5]\nThe\npoison slowly spreads\nThrough the\nbody and the mind\nClose your\neyes and drop your things\nBe\nready to fly\n\n[Chorus]\n[D5]\nYou are now,\nhigh\nIn the sun,\nburn\nYou're away,\nalive\nOn the moon,\nround\n\n[Intrelude]\n[D5]\n\n[Verse 2]\n[F5]After\nwalking all the miles\nCon-\nsumed into your bones\nAnd\nbreathing all the dust\nOf the\ndesert land\n[D5]\n[F5]\n[D5]\n[F5]\nI\nknow that all along\nYou were\ndoing it for\nabso-\nlution\nIt's written\nin your eyes\n\n[Chorus]\n[D5]\nYou are now,\nhigh\nIn the sun,\nburn\nYou're away,\nalive\nOn the moon,\nround\n\n[Bridge]\n[Dm]\n[C]\n[Am7]\n\n[Breakdown]\n[D5]\n[C5]\n[D5]\n[C5]\n[D5]\n[C5]\n[D5]\n[C5]\n[D5]\n[D5]A-\n[C5]way\n[D5]Just want to fly away,\n[C5]always higher\n[D5]A-\n[C5]way\n[D5]Embrace the light\n[C5]on the other\n[D5]side\n\n[Intrelude]\n[F5]\n[D5]\n[F5]\n[D5]\n[F5]\n[D5]\n[F5]\n[D5]\n[F5]\n[D5]\n[F5]\n[D5]\n[F5]\n\n[Chorus]\n[D5]\nYou are now,\nhigh\nIn the sun,\nburn\nYou're away,\nalive\nOn the moon,\nround\n\n[Outro 1]\n[D5]\nRound\nRound\nRound\n\n[Outro 2]\n[D5]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x24232",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "xx0232",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "022000",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "F5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Magma",
+  "id": "9b59b49189ca15669d53e4ded46dcdc8a2d87d544b431783a93f97c2900808c1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 169,
+  "normalizedKey": "gojira|magma",
+  "playableChords": [
+    "D5",
+    "F5",
+    "Dm",
+    "C",
+    "Am7",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 10,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 26,
+      "name": "Intro 3"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 78,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 98,
+      "name": "Chorus"
+    },
+    {
+      "measure": 114,
+      "name": "Bridge"
+    },
+    {
+      "measure": 118,
+      "name": "Breakdown"
+    },
+    {
+      "measure": 142,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 186,
+      "name": "Chorus"
+    },
+    {
+      "measure": 202,
+      "name": "Outro 1"
+    },
+    {
+      "measure": 218,
+      "name": "Outro 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9b59b49189ca15669d53e4ded46dcdc8a2d87d544b431783a93f97c2900808c1",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "Magma",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

@@ -1,0 +1,116 @@
+{
+  "artist": "Gary Clark Jr.",
+  "artistNormalized": "gary clark jr",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n[A7sus4]\n[Am]\n[A7sus4]\n[Am]\n[A7sus4]\n[Am]\n[A7sus4]\n[Am]\n[A7sus4]\n[Am]\n[A7sus4]Wake up in Wake up in\n\n[Verse 1]\n[Am]New York City Lying\n[A7sus4]on the floor\n[Am]\n[A7sus4]Just\n[Am]outside of Marcy's West\n[A7sus4]Fifty Four\n[Am]well\n[A7sus4]You gonna\n[Am]know my name by the\n[A7sus4]end of the night,\n[Am]yeah\n[A7sus4]You gonna\n[Am]know my name by the\n[A7sus4]end of the night,\n[Am]well\n[A7sus4]Bright\n\n[Chorus]\n[Am]lights, big city going\n[A7sus4]to my head Bright\n[Am]lights, big city going\n[A7sus4]to my head Bright\n[Am]lights, big city going\n[A7sus4]to my head I don't care\n[Am]no Cause you don't care,\n[A7sus4]no\n\n[Bridge]\n[Am]\nStart\n\n[Verse 2]\n[Am]up with the bottle End it\n[A7sus4]up with the bottle Taking\n[Am]shots, waitingon tomorrow Trying to\n[A7sus4]fill up, whats hollow You gonna\n[Am]know my name\n[A7sus4]You gonna\n[Am]know my name\n[A7sus4]Bright\n\n[Chorus]\n[Am]lights, big city going\n[A7sus4]to my head Bright\n[Am]lights, big city going\n[A7sus4]to my head Bright\n[Am]lights, big city going\n[A7sus4]to my head I don't care\n[Am]no Cause you don't care,\n[A7sus4]no\n\n[Bridge]\n[Am]  [D]\n[Am]  [D]\n\n[Solo]\n[Am]\n[A7sus4]\n[Am]\n[A7sus4]\n[Am]\n[A7sus4]\n[Am]\n[A7sus4]\n[Am]\n[A7sus4]\n[Am]\n[A7sus4]\n[Am]\n[A7sus4]\n[Am]\n[A7sus4]Get\n\n[Verse 3]\n[Am]lost in this city trying to\n[A7sus4]find myself I went\n[Am]up a different person Came down\n[A7sus4]somebody else I\n[Am]know it ain't right But it's\n[A7sus4]song in my head I'm sur-\n[Am]prised that I'm still a-\n[A7sus4]live I should breathe in Bright\n\n[Chorus]\n[Am]lights, big city going\n[A7sus4]to my head Bright\n[Am]lights, big city going\n[A7sus4]to my head Bright\n[Am]lights, big city going\n[A7sus4]to my head I don't care\n[Am]no Cause you don't care\n[A7sus4]no\n\n[Outro]\n[Am]  [F]\n[Am]  [F]\n[Am]  [F]\n[Am]  [F]\n[Am]  [F]\n[Am]  [F]\n[Am]  [F]\n[Am]  [F]\n[Am]",
+  "diagrams": {
+    "A7sus4": {
+      "catalog": [
+        "5x575x"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "5x755x",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x5777x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "1x321x",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bright Lights",
+  "id": "e5be12c8f4fe97af2aa7a0738c799d6cae6f0d72c26895b4ae922d77934ba6b7",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 257,
+  "normalizedKey": "gary clark jr|bright lights",
+  "playableChords": [
+    "Am",
+    "A7sus4",
+    "D",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 59,
+      "name": "Solo"
+    },
+    {
+      "measure": 75,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 83,
+      "name": "Chorus"
+    },
+    {
+      "measure": 91,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e5be12c8f4fe97af2aa7a0738c799d6cae6f0d72c26895b4ae922d77934ba6b7",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "Bright Lights",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

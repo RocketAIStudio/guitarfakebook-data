@@ -1,0 +1,97 @@
+{
+  "artist": "Gossip",
+  "artistNormalized": "gossip",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Em]\n[D]\n[Em]\n[D]\nOh\n[Em]\n[D]\n[Em]\n[D]\nIt's a\n\n[Verse 1]\n[Em]cruel cruel world, to\nface on your own, A\n[D]heavy cross, to ca-\nrry along, The\n[Em]lights are on, but\neveryone's gone, And it's cruel\n[D]\nIt's a\n[Em]funny way, to\nmake ends meet, When the\n[D]lights are out on eve-\nry street, It\n[Em]feels alright, but\nnever complete,\n[D]Without joy,\nI checked\n\n[Chorus]\n[Em]you, if it's\nalready been done, undo\n[Dm]it,\nIt takes\n[Em]two, It's up\nto me and you, to prove\n[Dm]it,\nOn the ra-\n[Em]iny nights, even the\ncoldest days, You\n[Dm]'re moments ago, but\nseconds away, The\n[Em]principal of nature, It's\ntrue but, it's a cruel\n[Dm]world,\n\n[Bridge]\n[Em]Oh\n[D]\n[Em]\n[D]\nWe can\n\n[Verse 2]\n[Em]play it safe, or\nplay it cool,\n[D]Follow the leader, or make\nup all the rules, What-\n[Em]ever you want, the\nchoice is yours,\n[D]So choose,\nI checked\n\n[Chorus]\n[Em]you, if it's\nalready been done, Undo\n[Dm]it,\nIt takes\n[Em]two, It's up\nto me and you, to prove\n[Dm]it,\nOh\n[Em]\n[Dm]\n[Em]\n[Dm]\n\n[Interlude]\n[Em]\nI just knew,\nit's al-\nready been done undo\nit\nIt takes two,\nit's up\nto me and you, to prove\nit,\nOh\nI checked\n\n[Chorus]\n[Em]you, if it's al-\nready been done, undo\n[Dm]it,\nIt takes\n[Em]two, it's up\nto me and you, to prove\n[Dm]it,\nOh\n[Em]\n[Dm]\n[Em]\n[Dm]\nI just\n[Em]knew",
+  "diagrams": {
+    "D": {
+      "catalog": [
+        "000232",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "000231",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "222000",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Heavy Cross",
+  "id": "f1bfabfbcffe7d16250c6d65d4999181b111039891a46a42f952a4596477ca22",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 235,
+  "normalizedKey": "gossip|heavy cross",
+  "playableChords": [
+    "Em",
+    "D",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Interlude"
+    },
+    {
+      "measure": 105,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f1bfabfbcffe7d16250c6d65d4999181b111039891a46a42f952a4596477ca22",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Heavy Cross",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

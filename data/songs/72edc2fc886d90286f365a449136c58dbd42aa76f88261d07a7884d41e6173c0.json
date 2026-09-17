@@ -1,0 +1,119 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C#m]  [E]\n[B]  [F#m]\n[C#m]  [E]\n[B]  [F#m]\n\n[Verse 1]\n[C#m]Kick the [E]dog when the\n[B]whistle blows [F#m]Well, you're a\n[C#m]liar [E]\n[B]  [F#m]\n[C#m]Feed the [E]creeps with a\n[B]stick and bone [F#m]You're a\n[C#m]liar [E]\n[B]  [F#m]\n[C#m]Baby got the [E]hyperbole\n[B]  [F#m]\n[C#m]Baby got the [E]hyperbole\n[B]  [F#m]\n[C#m]Kick the [E]dog when the\n[B]whistle blows [F#m]Well, you're a\n[C#m]liar [E]\n[B]  [F#m]\n\n[Pre-Chorus]\n[G#]Rip it up on\n[B]retribution\n[G#]Turn it up side-\n[B]ways\n\n[Chorus]\n[C#m]Ready, [E]aim, fire\n[B]Fire, ready, [F#m]aim\n[C#m]  [E]\n[B]  [F#m]\n[C#m]Ready, [E]aim, fire\n[B]Fire, ready, [F#m]aim\n[C#m]  [E]\n[B]  [F#m]\n\n[Verse 2]\n[C#m]Stick a [E]hammer\n[B]in your mouth [F#m]You're a\n[C#m]liar [E]\n[B]  [F#m]\n[C#m]Knock your [E]teeth out\n[B]to the ground [F#m]Well, you're a\n[C#m]liar [E]\n[B]  [F#m]\n[C#m]Baby got the [E]hyperbole\n[B]  [F#m]\n[C#m]Baby got the [E]hyperbole\n[B]  [F#m]\n[C#m]Knock your [E]teeth out to\n[B]the ground Well, [F#m]you're a li-\n[C#m]ar Rip [E]\n[B]  [F#m]\n\n[Pre-Chorus]\n[G#]it up on re-\n[B]tribution Turn\n[G#]it up sideways\n[B]\n\n[Chorus]\n[C#m]Ready, [E]aim, fire\n[B]Fire, ready, [F#m]aim\n[C#m]  [E]\n[B]  [F#m]\n[C#m]Ready, [E]aim, fire\n[B]Fire, ready, [F#m]aim\n[C#m]  [E]\n[B]  [F#m]\n\n[Bridge]\n[C#m]\n[B]\n[C#m]\n[B]\n\n[Chorus]\n[C#m]Ready, [E]aim, fire\n[B]Fire, ready, [F#m]aim\n[C#m]  [E]\n[B]  [F#m]\n[C#m]Ready, [E]aim, fire\n[B]Fire, ready, [F#m]aim\n[C#m]  [E]\n[B]  [F#m]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Fire, Ready, Aim",
+  "id": "72edc2fc886d90286f365a449136c58dbd42aa76f88261d07a7884d41e6173c0",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 187,
+  "normalizedKey": "green day|fire ready aim",
+  "playableChords": [
+    "C#m",
+    "E",
+    "B",
+    "F#m",
+    "G#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Bridge"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "72edc2fc886d90286f365a449136c58dbd42aa76f88261d07a7884d41e6173c0",
+    "version": "BCFZ"
+  },
+  "tempo": 155,
+  "title": "Fire, Ready, Aim",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

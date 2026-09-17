@@ -1,0 +1,99 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "One, two, three. four!\n\n[Intro]\n[G5]  [C5]  [D5]\n[G5]  [C5]  [D5]\n[G5]  [C5]  [D5]\n[G5]  [C5]  [D5]\nI\n\n[Verse 1]\n[G5]fucked up [D5]again,\nit's all my\n[G5]fault. [C5][G5]\nSo\n[C5]turn me a-\nround and face the\n[G5]wall,\nAnd\n[C5]read me my\nrights, and tell me\n[G5]I [D5]am [E5]wrong,\nUn-\n[G5]til it gets [F5]in-\nto my thick\n[D5]skull.\nA\n\n[Verse 2]\n[G5]slap on the [D5]wrist,\na stab in the\n[G5]back. [C5][G5]\n[C5]Torture me,\nI've been a bad\n[G5]boy.\nNail\n[C5]me to the\ncross and tell me\n[G5]you [D5]have [E5]won.\nI\n[G5]lost before [F5]I\ndid any\n[D5]wrong.\nShit.\n\n[Bridge]\n[G5]  [C5]  [D5]\n[G5]  [C5]  [D5]\n[G5]Whoa, [C5]oh. [D5]\n[G5]  [C5]  [D5]\nI'm\n\n[Verse 3]\n[G5]hexed with [D5]regrets\nand bad\n[G5]luck. [C5][G5]\nSo\n[C5]keep your dis-\ntance, it's rubbing\n[G5]off.\nOr\n[C5]you will be\ndamned to spend your\n[G5]life [D5]in [E5]hell,\nOr\n[G5]earth with me [F5]tang-\nled at your\n[D5]feet.\nYou\n\n[Verse 4]\n[G5]finally [D5]met\nyour nemis-\n[G5]is, [C5][G5]\nDis-\n[C5]guised as your\nfatal long lost\n[G5]love.\nSo\n[C5]kiss it goodbye\nuntil\n[G5]death [D5]do we [E5]part.\nYou\n[G5]fell for a [F5]jinx\nfor crying out\n[D5]loud.\n\n[Interlude]\n[G5]  [C5]  [D5]\n[G5]  [C5]  [D5]\n[G5]  [C5]  [D5]\n[G5]  [C5]  [D5]\n\n[Outro]\n[G5]I'm a curse [C5]hang-\ning around [D5]you.\n[G5]I'm a curse [C5]hang-\ning around [D5]you.\n[G5]I'm a curse [C5]hang-\ning around [D5]you.\n[G5]I'm a curse [C5]hang-\ning around [D5]you.",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Jinx",
+  "id": "befe4b06f40c3a1b759bc50ed57e3fa46013a0c077c766a0bc385e12ab0ad7dd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 191,
+  "normalizedKey": "green day|jinx",
+  "playableChords": [
+    "G5",
+    "C5",
+    "D5",
+    "E5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 66,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 82,
+      "name": "Interlude"
+    },
+    {
+      "measure": 91,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "befe4b06f40c3a1b759bc50ed57e3fa46013a0c077c766a0bc385e12ab0ad7dd",
+    "version": "BCFZ"
+  },
+  "tempo": 190,
+  "title": "Jinx",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

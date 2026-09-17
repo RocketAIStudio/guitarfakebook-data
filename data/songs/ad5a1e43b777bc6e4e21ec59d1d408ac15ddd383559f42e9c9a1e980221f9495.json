@@ -1,0 +1,103 @@
+{
+  "artist": "Great Big World",
+  "artistNormalized": "great big world",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Bm]\n[G]\n[D]\n[Asus4]\n\n[Chorus]\n[Bm]Say something,\n[G]I'm giving up on yo-\n[D]u\n[Asus4]\n[Bm]I'll be the\n[G]one, if you want me to\n[D]\n[Asus4]\n[Bm]Anywhe-\n[G]re, I would've followed yo-\n[D]u\n[Asus4]\n[Bm]Say something,\n[G]I'm giving up on yo-\n[D]u\n[Asus4]And\n\n[Verse 1]\n[D]I\nam feeling so\n[D7M/F#]small\nIt was\n[G]o ver my head\nI know nothing at\n[D]all\n[Asus4]And\n[D]I\nwill stumble and\n[D7M/F#]fall\nI'm still\n[G]learning to love\nJust starting to cra-\n[D]wl\n[Asus4]\n\n[Chorus]\n[Bm]Say something,\n[G]I'm giving up on yo-\n[D]u\n[Asus4]\n[Bm]I'm sorry that\n[G]I couldn't get to you\n[D]\n[Asus4]\n[Bm]Anywhe-\n[G]re, I would've followed yo-\n[D]u\n[Asus4]\n[Bm]Say something,\n[G]I'm giving up on yo-\n[D]u\n[Asus4]And\n\n[Verse 2]\n[D]I\nwill swallow my\n[D7M/F#]pride\nYou're the\n[G]one that I love\nAnd saying goo-\n[D]dbye\n[Asus4]\n\n[Chorus]\n[Bm]Say something,\n[G]I'm giving up on yo-\n[D]u\n[Asus4]\n[Bm]And I'm sorry that\n[G]I couldn't get to you\n[D]\n[Asus4]\n[Bm]And anywhe-\n[G]re, I would've followed yo-\n[D]u O-\n[Asus4]h oh oh oh\n[Bm]Say something,\n[G]I'm giving up on yo-\n[D]u\n[Asus4]\n[Bm]Say something,\n[G]I'm giving up on yo-\n[D]u\n[Asus4]\n[Bm]Say something\n[G]\n[D]",
+  "diagrams": {
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7M/F#": {
+      "catalog": [
+        "24423x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Say something",
+  "id": "ad5a1e43b777bc6e4e21ec59d1d408ac15ddd383559f42e9c9a1e980221f9495",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 195,
+  "normalizedKey": "great big world|say something",
+  "playableChords": [
+    "Bm",
+    "G",
+    "D",
+    "Asus4",
+    "D7M/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ad5a1e43b777bc6e4e21ec59d1d408ac15ddd383559f42e9c9a1e980221f9495",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "Say something",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

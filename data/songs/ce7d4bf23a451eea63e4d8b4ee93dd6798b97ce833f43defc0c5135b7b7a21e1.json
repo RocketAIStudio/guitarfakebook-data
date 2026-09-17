@@ -1,0 +1,103 @@
+{
+  "artist": "Guided by Voices",
+  "artistNormalized": "guided by voices",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Asus2]\n\n[Chorus]\n[Asus2]Dee dee dee dee dee dee dee,\nkicker of elves\n[Csus2]Dee dee dee dee dee dee dee,\n[Bm]kicker of elves\nDee dee dee dee dee dee dee,\nkicker of elves\n[Csus2]Dee dee dee dee dee dee dee,\n[Bm]kicker of elves On\n\n[Verse 1]\n[Csus2]high seas you\n[Bm]search of The\n[D]sickly sweet milk of\n[F]selfish love And\n[Csus2]knife these for\n[Bm]warm fresh\n\n[Chorus]\n[Asus2]blood Dee dee dee dee dee,\nkicker of elves\n[Csus2]Dee dee dee dee dee dee dee,\n[Bm]kicker of elves\n[Asus2]Dee dee dee dee dee dee dee,\nkicker of elves\n[Csus2]Dee dee dee dee dee dee dee,\n[Bm]kicker of elves In\n\n[Verse 2]\n[Csus2]studded crown the\n[Bm]thief of souls The\n[D]parasites the\n[F]bugs of gold This\n[Csus2]fertile land now\n[Bm]spoiled and\n\n[Chorus]\n[Asus2]sold Dee dee dee dee dee dee dee,\nkicker of elves\nDee dee dee dee dee dee dee,\nkicker of elves",
+  "diagrams": {
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x2443x",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "Csus2": {
+      "catalog": [
+        "x3553x"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Kicker of Elves",
+  "id": "ce7d4bf23a451eea63e4d8b4ee93dd6798b97ce833f43defc0c5135b7b7a21e1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 156,
+  "normalizedKey": "guided by voices|kicker of elves",
+  "playableChords": [
+    "Asus2",
+    "Csus2",
+    "Bm",
+    "D",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ce7d4bf23a451eea63e4d8b4ee93dd6798b97ce833f43defc0c5135b7b7a21e1",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Kicker of Elves",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

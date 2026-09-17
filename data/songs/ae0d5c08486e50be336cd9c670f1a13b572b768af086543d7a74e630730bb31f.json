@@ -1,0 +1,104 @@
+{
+  "artist": "Frente!",
+  "artistNormalized": "frente",
+  "capo": "1",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[C]\n[Fmaj7]Every time I think\n[G]of you I get a\n[Em]shot right through into a\n[Fmaj7]bolt of blue It's no\nproblem of mine, but it's a\n[G]problem I find\n[Em]Living a life that I can't\n[Fmaj7]leave behind\n\n[Verse 2]\n[Fmaj7]There's no sense in\n[G]telling me The\n[Em]wisdom of a fool won't\n[Fmaj7]set you free But that's the\nway that it goes, and it's what\n[G]nobody knows And\n[Em]every day my con-\n[Fmaj7]fusion grows\n\n[Chorus]\n[Fmaj7]Every time I see\n[G]you falling I\n[Em]get down on my knees\n[Fmaj7]and pray I'm\nwaiting for that fi-\n[G]nal moment You\n[Em]say the words that I\n[Fmaj7]can't say\n\n[Verse 3]\n[C]\n[Fmaj7]I feel fine and I\n[G]feel good\n[Em]I feel like I\n[Fmaj7]never should Whenever\nI get this way, I just don't\n[G]know what to say Why can't we\n[Em]be ourselves like we were\n[Fmaj7]yesterday?\n\n[Verse 4]\n[Fmaj7]I'm not sure what this\n[G]could mean\n[Em]I don't think you're\n[Fmaj7]what you seem I do ad-\nmit to myself, that if I\n[G]hurt someone else Then I'll\n[Em]never see just what we're\n[Fmaj7]meant to be\n\n[Chorus]\n[Fmaj7]Every time I see\n[G]you falling I\n[Em]get down on my knees\n[Fmaj7]and pray I'm\nwaiting for that fi-\n[G]nal moment You\n[Em]say the words that I\n[Fmaj7]can't say\n\n[Chorus]\n[Fmaj7]Every time I see\n[G]you falling I\n[Em]get down on my knees\n[Fmaj7]and pray I'm\nwaiting for that fi-\n[G]nal moment You\n[Em]say the words that I\n[Fmaj7]can't say\n[C]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "xx3210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bizarre Love Triangle",
+  "id": "ae0d5c08486e50be336cd9c670f1a13b572b768af086543d7a74e630730bb31f",
+  "key": "D♭",
+  "keyIdentified": true,
+  "lyricEventCount": 260,
+  "normalizedKey": "frente|bizarre love triangle",
+  "playableChords": [
+    "C",
+    "Fmaj7",
+    "G",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ae0d5c08486e50be336cd9c670f1a13b572b768af086543d7a74e630730bb31f",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "Bizarre Love Triangle",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

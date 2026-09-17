@@ -1,0 +1,77 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[A]\n[D/A]\n[A]\n[D/A]\n[A]\n\n[Verse]\n[A]Maybe I'll\n[D/A]see you tonight\n[A]\nMaybe I'll\n[D/A]see you tonight\n[A]\nWher-\never the\n[D/A]night takes\n[A]you\nMaybe you'll\n[D/A]see me\n[A]too\nThe\n\n[Chorus]\n[E]colder it\ngets You wont\n[D/A]see me any-\n[A]more But\n[E]there's still a\nchance I might\n[D/A]walk to your\n[A]door\n[D/A]Maybe your\ntimings not\n[A]right\n[E]I wont be\nseeing you tonight\n[A]\n\n[Outro]\n[A]Maybe I'll\n[D/A]see you tonight\n[A]\nMaybe I'll\n[D/A]see you tonight\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x0423x"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "See You Tonight",
+  "id": "0944d9ed5e8e734b2cfdccb8f1ca33101ff22b66ffc114b7cbdc0184a9d2e33c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 78,
+  "normalizedKey": "green day|see you tonight",
+  "playableChords": [
+    "A",
+    "D/A",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0944d9ed5e8e734b2cfdccb8f1ca33101ff22b66ffc114b7cbdc0184a9d2e33c",
+    "version": "BCFZ"
+  },
+  "tempo": 187,
+  "title": "See You Tonight",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

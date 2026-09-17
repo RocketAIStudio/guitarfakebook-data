@@ -1,0 +1,108 @@
+{
+  "artist": "Foo Fighters",
+  "artistNormalized": "foo fighters",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n\n[Verse 1]\n[D]Wake up\nit's time\nWe\nneed to find a bet\nter place to hide\nMake up\nyour mind\nI\nneed to know I need\nto know tonight\n\n[Chorus]\n[D]Sweet and\ndi vine\n[E7/D]\n[G/D]Ra zor\nof mine\n[D]\n[D]Sweet and\ndi vine\n[E7/D]\n[G/D]Ra zor\nblade shine\n[D]\n\n[Interlude]\n[D]\n\n[Verse 2]\n[D]Pa tience\nmy dear\nWe could spend a life\ntime wait ing here\nMay be\nthis time\nI\nhope I get the chance\nto say goodbye\n\n[Chorus]\n[D]Sweet and\ndi vine\n[E7/D]\n[G/D]Ra zor\nof mine\n[D]\n[D]Sweet and\ndi vine\n[E7/D]\n[G/D]Ra zor\nblade shine\n[D]\n\n[Bridge]\n[Dmaj7]Day\nafter day\n[G/D]\n[Dmaj7]Cutt -\ning away\n[G/D]\n[Dmaj7]Day\nafter day\n[G/D]\nBut a nyway\n[D]\n\n[Verse 3]\n[D]Wake up\nit's time\nWe\nneed to find a bet\nter place to hide\nMake up\nyour mind\nI\nneed to know I need\nto know tonight\n\n[Chorus]\n[D]Sweet and\ndi vine\n[E7/D]\n[G/D]Ra zor\nof mine\n[D]\n[D]Sweet and\ndi vine\n[E7/D]\n[G/D]Ra zor\nblade shine\n[D]\n\n[Outro]\n[D]",
+  "diagrams": {
+    "D": {
+      "catalog": [
+        "000232",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dmaj7": {
+      "catalog": [
+        "000222",
+        "x-x-0-2-2-2",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9"
+      ],
+      "catalogCount": 5
+    },
+    "E7/D": {
+      "catalog": [
+        "022130"
+      ],
+      "catalogCount": 1
+    },
+    "G/D": {
+      "catalog": [
+        "055433"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Razor",
+  "id": "47ff2cd5c7697be896558499b5f92466773bae59932897bdcdd6322c9b50479c",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 170,
+  "normalizedKey": "foo fighters|razor",
+  "playableChords": [
+    "D",
+    "E7/D",
+    "G/D",
+    "Dmaj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Bridge"
+    },
+    {
+      "measure": 101,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 117,
+      "name": "Chorus"
+    },
+    {
+      "measure": 133,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "47ff2cd5c7697be896558499b5f92466773bae59932897bdcdd6322c9b50479c",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "Razor",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

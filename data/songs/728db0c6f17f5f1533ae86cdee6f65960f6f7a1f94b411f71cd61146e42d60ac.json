@@ -1,0 +1,116 @@
+{
+  "artist": "Gojira",
+  "artistNormalized": "gojira",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Cm]\n\n[Pre-Verse]\n[Cm]\n[Ddim/C]\n[Cm]\n[Ddim/C]\n\n[Verse 1]\n[Cm]So long I've been try\ning to match It\n[Ddim/C]doesn't work, I'm\ntrying, I don't know...\n[Cm]The aberration of\nthis world, I\n[Ddim/C]tried to deal with\n[Cm]It killed a part of me\nthat was raging The\n[Ddim/C]pain is gone, the de-\nnial\n[Cm]I ran away\nfrom institu\n[Ddim/C]tions I\nowe myself life\n\n[Bridge]\n[Cm]\n\n[Pre-Verse]\n[Cm]\n[Ddim/C]\n[Cm]\n[Ddim/C]\nThere's\n\n[Verse 2]\n[Cm]no way\nI will respond to this pa\n[Ddim/C]ssion Anger\nflowing through me\n[Cm]There is\nlight in this world I fight\n[Ddim/C]for\n[Cm]The reason you won't leave\nthis cage, be-\n[Ddim/C]tray your child The de-\nsire\n[Cm]that you once had\nto reveal yourself\n[Ddim/C]Forgot to\ncreate your own\n\n[Bridge]\n[Cm]life\nAnger,\nlies,\nde-\nnial\n\n[Brake]\n[Cm]\n\n[Verse 3]\n[Cm]This righteous anger\nboiling inside of us\nWon't last forever\nDon't fear to let it out\nBranches have grown through The\nwolf is your master\n\n[Interlude]\n[Cm]\n[Db]\n[Cm]\n[Cm]\n[Db]\n[G]The sky is\n[Cm]all\n[Db]\n[Cm]over\nme\n[Db]\n[G]\n[Cm]\n[Db]\n[Cm]I run on\n\n[Outro]\n[Cm]time",
+  "diagrams": {
+    "Cm": {
+      "catalog": [
+        "000231",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "x68886",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Ddim/C": {
+      "catalog": [
+        "012033"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "x02220",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "L'Enfant Sauvage",
+  "id": "728db0c6f17f5f1533ae86cdee6f65960f6f7a1f94b411f71cd61146e42d60ac",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 173,
+  "normalizedKey": "gojira|l enfant sauvage",
+  "playableChords": [
+    "Cm",
+    "Ddim/C",
+    "Db",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Brake"
+    },
+    {
+      "measure": 82,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 90,
+      "name": "Interlude"
+    },
+    {
+      "measure": 110,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "728db0c6f17f5f1533ae86cdee6f65960f6f7a1f94b411f71cd61146e42d60ac",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "L'Enfant Sauvage",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

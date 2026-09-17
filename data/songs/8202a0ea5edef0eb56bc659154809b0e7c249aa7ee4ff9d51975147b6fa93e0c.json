@@ -1,0 +1,158 @@
+{
+  "artist": "Franz Schubert",
+  "artistNormalized": "franz schubert",
+  "capo": "No capo",
+  "chordPositionCount": 46,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]Ave Ma-\n[D]ri-\n[Em]a\n[D][C]Gratia ple-\n[G]na Ma-\nria [Em]Gratia\n[F#]plena Ma-\n[F#m6]ria Gratia ple-\n[Em]na A-\n[D]ve, [E]ave domi-\n[D]nus [A]Dominus te-\n[D]cum Bene-\ndicta tu in muli-\n[G]eribus Et\n[D]benedic-\n[Em]tus Et\n[B][D]benedictus fructus\n[Am]ventris Ventris\n[C]tui [A]Je-\n[D]sus\n[G]Ave Ma-\n[D]ri-\n\n[Bridge]\n[G]a\n\n[Verse 2]\n[G]Ave Ma-\n[D]ri-\n[Em]a\n[D][C]Mater de-\n[G]i O-\nra pro [Em]nobis peca-\n[F#]toribus O-\n[F#m6]ra, ora pro no-\n[Em]bis O-\n[D]ra [E]ora pro no-\n[D]bis [A]pecatori-\n[D]bus Nunc\net in hora\n[G]mortis In\n[D]hora mortis no-\n[Em]strae, In\n[D]hora [B]mor tis, mortis\n[Am]nostrae In\n[C]hora [A]mortis no-\n[D]strae\n[G]Ave Ma-\n[D]ri-\n\n[Outro]\n[G]a!",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#m6": {
+      "catalog": [
+        "xx4242"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ave Maria",
+  "id": "8202a0ea5edef0eb56bc659154809b0e7c249aa7ee4ff9d51975147b6fa93e0c",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 146,
+  "normalizedKey": "franz schubert|ave maria",
+  "playableChords": [
+    "G",
+    "D",
+    "Em",
+    "C",
+    "F#",
+    "F#m6",
+    "E",
+    "A",
+    "B",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Bridge"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8202a0ea5edef0eb56bc659154809b0e7c249aa7ee4ff9d51975147b6fa93e0c",
+    "version": "BCFZ"
+  },
+  "tempo": 56,
+  "title": "Ave Maria",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

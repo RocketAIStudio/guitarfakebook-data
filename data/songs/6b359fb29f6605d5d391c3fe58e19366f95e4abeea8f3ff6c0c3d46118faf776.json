@@ -1,0 +1,151 @@
+{
+  "artist": "Gojira",
+  "artistNormalized": "gojira",
+  "capo": "No capo",
+  "chordPositionCount": 29,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[Dmadd9]\n[Dm6]\n\n[Verse 1]\n[Dmadd9]Indestructible\nOn this\nrock I lie But I'm a-\nlive for good And\nI just free myself\nnow From\nall what was wrong\nBreak the unbreakable\n\n[Bridge]\n[Dm6]\n\n[Verse 2]\n[Dmadd9]All the stars\nFear-\nlessly bright They\ncall me out there\nOrder me o face the wind\nMy\nstructure's alive\nMy body's on the way\nDon't bow down\nBe-\nfore the walls Of\nfear and madness\nThey try to counter me\nAnd\nstrike me\ndown To the ground again\n\n[Bridge]\n[Dm6]\n\n[Interlude]\n[Ddim]\n[F#dim]\n[Dmadd9]\n[Bb]\n[A]\n[Dmadd9]\n[F]  [Gm]\n[Dmadd9]\n[Bb]\n[A]\n[Dmadd9]\n[F]  [Gm]\n[F#dim]\n[Ddim]\n[Dmadd9]\n[Bb]\n[A]\n[Dmadd9]\n[F]  [Gm]\n[Dmadd9]\n[Bb]\n[A]\n[Dmadd9]\n[F]  [Gm]\n[Ddim]\n[Dmadd9]\n\n[Verse 3]\n[Dmadd9]Inexhaustible\nThe\nstrength of fire Is\nrunning through me\nSpine like beam of light\nWhat\nmortal could\never Break this force\nUnconstrained\nI\nsee at last\nMy backbone straightten\nThy serpent made of bones\nFinally rise up\nFrom the ground awaken\n\n[Bridge]\n[Dm6]\n\n[Outro]\n[Am]\nBeat your\nfeet On the ground now,\n[Dmadd9]go\n[Dm6]\n[Ddim]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x24442",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x24432",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x32010",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Ddim": {
+      "catalog": [
+        "67898x"
+      ],
+      "catalogCount": 1
+    },
+    "Dm6": {
+      "catalog": [
+        "02202x"
+      ],
+      "catalogCount": 1
+    },
+    "Dmadd9": {
+      "catalog": [
+        "022002"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "320003",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "F#dim": {
+      "catalog": [
+        "42040x"
+      ],
+      "catalogCount": 1
+    },
+    "Gm": {
+      "catalog": [
+        "x02210",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Backbone",
+  "id": "6b359fb29f6605d5d391c3fe58e19366f95e4abeea8f3ff6c0c3d46118faf776",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 149,
+  "normalizedKey": "gojira|backbone",
+  "playableChords": [
+    "Dmadd9",
+    "Dm6",
+    "Ddim",
+    "F#dim",
+    "Bb",
+    "A",
+    "F",
+    "Gm",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Bridge"
+    },
+    {
+      "measure": 51,
+      "name": "Interlude"
+    },
+    {
+      "measure": 120,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 136,
+      "name": "Bridge"
+    },
+    {
+      "measure": 144,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6b359fb29f6605d5d391c3fe58e19366f95e4abeea8f3ff6c0c3d46118faf776",
+    "version": "BCFZ"
+  },
+  "tempo": 182,
+  "title": "Backbone",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

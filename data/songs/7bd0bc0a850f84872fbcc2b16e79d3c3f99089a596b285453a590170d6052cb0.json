@@ -1,0 +1,132 @@
+{
+  "artist": "Frank Turner",
+  "artistNormalized": "frank turner",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[E]\n[Asus2]\n[E]\n[Asus2]\n\n[Chorus]\n[B7]You can dance,\n[G#]you can jive\n[C#m]Having the time of your\n[F#7]life Yeah,\n[Asus2]see that girl and\n[B7sus4/F#]watch that scene Digging the\n[E]dancing queen\n[Asus2]\n[E]\n[Asus2]It's\n\n[Verse 1]\n[E]friday night and the lights are low\n[Asus2]\n[E]Looking out for a place to go\n[C#m]  [C#sus2]\n[B7]Where they play the right music,\neverything is fine You came in to\n[C#m]looking for a king\n[E]Anybody could be that guy\n[Asus2]\n[E]Night is right and the music's high\n[C#m]  [C#sus2]\n[B7]Move onto another,\ngetting into the swing You're in the\n[C#m]mood for a dance\nAnd when you\n[B7sus4/F#]get the chance...\n[B7]You are the\n\n[Chorus]\n[E]dancing queen\n[Asus2]Young and sweet, only\n[E]seventeen\n[Asus2]\n[E]Dancing queen\n[Asus2]Feel the beat from the\n[E]tambourine, oh yeah\n[Asus2]\n[B7]You can dance,\n[G#]you can jive\n[C#m]Having the time of your\n[F#7]life Yeah,\n[Asus2]see that girl and\n[B7sus4/F#]watch that scene Digging the\n[E]dancing queen\n[Asus2]\n[E]\n[Asus2]\n\n[Verse 2]\n[E]You're a teaser, you turn 'em on\n[Asus2]\n[E]Set them burning and then you're gone\n[C#m]  [C#sus2]\n[B7]Move onto another,\nanyone will do You're in the\n[C#m]mood for a dance\nAnd when you\n[B7sus4/F#]get the chance...\n[B7]You are the\n\n[Chorus]\n[E]dancing queen\n[Asus2]Young and sweet, only\n[E]seventeen\n[Asus2]\n[E]Dancing queen\n[Asus2]Feel the beat from the\n[E]tambourine, oh yeah\n[Asus2]\n[B7]You can dance,\n[G#]you can jive\n[C#m]Having the time of your\n[F#7]life Yeah,\n[Asus2]see that girl and\n[B7sus4/F#]watch that scene Digging the\n[E]dancing queen\n\n[Outro]\n[Asus2]\n[E]\n[Asus2]Digging the\n[E]dancing queen",
+  "diagrams": {
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "B7sus4/F#": {
+      "catalog": [
+        "xx4200"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "C#sus2": {
+      "catalog": [
+        "x46644"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dancing Queen",
+  "id": "7bd0bc0a850f84872fbcc2b16e79d3c3f99089a596b285453a590170d6052cb0",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 259,
+  "normalizedKey": "frank turner|dancing queen",
+  "playableChords": [
+    "E",
+    "Asus2",
+    "B7",
+    "G#",
+    "C#m",
+    "F#7",
+    "B7sus4/F#",
+    "C#sus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7bd0bc0a850f84872fbcc2b16e79d3c3f99089a596b285453a590170d6052cb0",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Dancing Queen",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

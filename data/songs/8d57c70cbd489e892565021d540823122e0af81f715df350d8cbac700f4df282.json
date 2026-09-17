@@ -1,0 +1,80 @@
+{
+  "artist": "Groovie Ghoulies",
+  "artistNormalized": "groovie ghoulies",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E5]\n\n[Verse 1]\n[G5]I was living in a\n[C5]devil town [D5]\n[G5]Lived my life in a\n[C5]devil town [D5]\n[G5]Oh my lord it really\n[C5]brings me down [D5]About the\n[G5]devil town\n[C5][D5]And\n[G5]all my friends were vam-\n[C5]pires [D5]I\n[G5]didn't know they were vam-\n[C5]pires [D5]Un-\n[G5]til that I was a vam-\n[C5]pire too [D5]In a\n[G5]devil town\n[C5][D5]Hey\n\n[Bridge]\n[G5]\n[C5][D5]Hey\n[G5]\n[C5][D5]Hey\n[G5]\n[C5][D5]Hey\n[G5]\n[C5][D5]Hey\n\n[Verse 2]\n[G5]I was living in a\n[C5]devil town [D5]\n[G5]Lived my life in a\n[C5]devil town [D5]\n[G5]Oh my lord it really\n[C5]brings me down [D5]About the\n[G5]devil town\n[C5]Devil [D5]town\n\n[Outro]\n[G5]",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Devil Town",
+  "id": "8d57c70cbd489e892565021d540823122e0af81f715df350d8cbac700f4df282",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 103,
+  "normalizedKey": "groovie ghoulies|devil town",
+  "playableChords": [
+    "E5",
+    "G5",
+    "C5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8d57c70cbd489e892565021d540823122e0af81f715df350d8cbac700f4df282",
+    "version": "BCFZ"
+  },
+  "tempo": 200,
+  "title": "Devil Town",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

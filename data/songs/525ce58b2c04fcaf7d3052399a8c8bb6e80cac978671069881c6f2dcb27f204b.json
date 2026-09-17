@@ -1,0 +1,110 @@
+{
+  "artist": "Godsmack",
+  "artistNormalized": "godsmack",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F5]  [Ab5]\n[Eb5]  [Db]\n[F5]  [Ab5]\n[Eb5]  [Db]\n[F5]  [Ab5]\n[Eb5]  [Db5]  [Eb5]\n\n[Verse 1]\n[F5]Contemplating, isola-\n[Eb5]ting And it's [Db5]stressing me out\n[F5]Different visions, contradic-\n[Eb5]tions Why won't you [Db5]let me out?\n[F5]I need a\n[Eb5]way to [Db5]separate yeah\n[F5]But I promise you that\n[Eb5]I'll make sure you [Db5]never forget me\n\n[Chorus]\n[F5]Now that you want [Ab5]it Now that you need\n[Eb5]it I'm [Db]too far gone\n[F5]You're trying to blame [Ab5]me But I'm not break-\n[Eb5]ing I'm [Db]telling you, I'm\n[F5]bulletproof [Ab5]Believe me, I'm\n[Eb5]bulletproof [Db]You make me so\n[F5]bulletproof [Ab5]And now I'm\n[Eb5]too far gone [Db5][Eb5]\n\n[Verse 2]\n[F5]You're addicted and so\n[Eb5]twisted That it's [Db5]freaking me out\n[F5]Distant eyes, it's no surprise\n[Eb5]You can't do [Db5]anything now\n[F5]I need a\n[Eb5]way to [Db5]separate yeah\n[F5]But I'm telling you that\n[Eb5]nothing will ever be [Db5]the same\n\n[Chorus]\n[F5]Now that you want [Ab5]it Now that you need\n[Eb5]it I'm [Db]too far gone\n[F5]You're trying to [Ab5]blame me But I'm not break-\n[Eb5]ing I'm [Db]telling you, I'm\n[F5]bulletproof [Ab5]Believe me, I'm\n[Eb5]bulletproof [Db]You make me so\n[F5]bulletproof [Ab5]And now I'm\n[Eb5]too far gone [C5]\n\n[Solo]\n[Db5]\n[Eb5]\n[Db5]\n[Eb5]\n[Db5]\n[Eb5]\n[Db5]\n[C5]\n\n[Chorus]\n[F5]Now that you want [Ab5]it Now that you need\n[Eb5]it I'm [Db]too far\n[F5]gone You're trying to [Ab5]blame me But I'm not break-\n[Eb5]ing I'm [Db]telling you, I'm\n[F5]bulletproof [Ab5]Believe me, I'm\n[Eb5]bulletproof [Db]You make me so\n[F5]bulletproof [Ab5]And now I'm\n[Eb5]too far gone [Db5]\n\n[Outro]\n[F5]Bulletproof [Ab5]Believe me, I'm\n[Eb5]bulletproof [Db]You make me so\n[F5]bulletproof [Ab5]And now I'm\n[Eb5]too far gone [Db5]",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "8-8-8-10-11-x"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "00023x"
+      ],
+      "catalogCount": 1
+    },
+    "Db": {
+      "catalog": [
+        "x6888x",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Db5": {
+      "catalog": [
+        "11134x"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "33356x"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "55578x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bulletproof",
+  "id": "525ce58b2c04fcaf7d3052399a8c8bb6e80cac978671069881c6f2dcb27f204b",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 285,
+  "normalizedKey": "godsmack|bulletproof",
+  "playableChords": [
+    "F5",
+    "Ab5",
+    "Eb5",
+    "Db",
+    "Db5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Solo"
+    },
+    {
+      "measure": 48,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "525ce58b2c04fcaf7d3052399a8c8bb6e80cac978671069881c6f2dcb27f204b",
+    "version": "BCFZ"
+  },
+  "tempo": 81,
+  "title": "Bulletproof",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

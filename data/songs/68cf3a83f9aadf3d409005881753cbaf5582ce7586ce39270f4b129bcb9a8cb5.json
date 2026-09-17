@@ -1,0 +1,115 @@
+{
+  "artist": "Garth Brooks",
+  "artistNormalized": "garth brooks",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n[C]\n[D]\n[G]\nLookin' back\n\n[Verse 1]\n[G]on the me-\n[C]mory of The dance\n[D]we shared, beneath the stars\n[G]a bove [D]For a mo-\n[G]ment all the world\n[C]was right How could I\n[D]have known that you'd e-\n[C]ver say goodbye [D]And now,\n\n[Chorus]\n[C]I'm glad I didn't know\n[D]The way it all would end,\n[Bm]the way it all would go\n[C][D]Our lives\n[C]are better left to chance\n[D]I could have missed the pain,\n[Bm]but I'da had to miss\n[C][D]The\n[G]dance\nHolding you,\n\n[Verse 2]\n[G]I held e-\n[C]verything For a mo-\n[D]ment, wasn't I\n[G]the king [D]But if I'd on-\n[G]ly known how the king\n[C]would fall Hey, who's\n[D]to say, you know I might\n[C]have changed it all [D]And now,\n\n[Chorus]\n[C]I'm glad I didn't know\n[D]The way it all would end,\n[Bm]the way it all would go\n[C][D]Our lives\n[C]are better left to chance\n[D]I could have missed the pain,\n[Bm]but I'da had to miss\n[C][D]The\n[G]dance Yes, my life,\n[C]it's better left to chance\n[D]I could have missed the pain,\n[Bm]but I'da had to miss\n[C][D]The\n\n[Outro]\n[Em]dance\n[C]\n[D]\n[Em]\n[C]\n[D]\n[Em]\n\n[Fade Out]\n[Em]\n[C]\n[D]\n[Em]",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Dance",
+  "id": "68cf3a83f9aadf3d409005881753cbaf5582ce7586ce39270f4b129bcb9a8cb5",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 185,
+  "normalizedKey": "garth brooks|the dance",
+  "playableChords": [
+    "Em",
+    "C",
+    "D",
+    "G",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Outro"
+    },
+    {
+      "measure": 54,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "68cf3a83f9aadf3d409005881753cbaf5582ce7586ce39270f4b129bcb9a8cb5",
+    "version": "BCFZ"
+  },
+  "tempo": 66,
+  "title": "The Dance",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,80 @@
+{
+  "artist": "Gutalax",
+  "artistNormalized": "gutalax",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A5]\n[C5]\n[A5]\n[A#5]  [C#5]\n[A5]\n[C5]\n[A5]\n[A#5]  [C#5]\n[A5]\n\n[Verse]\n[A5]Yaaaaa\n[C5]Yaaaaa\n[A5]Yaaaaa-\n[C#5][A#5]aaaa\n[A5]Yaaaaa\n[C5]Yaaaaa-\n[A5]aaaa-\n[C#5][A#5]aaa\n\n[Chorus]\n[A5]Yaaaaaa\nYaaaaa\nYaaaaa-\naaaaa\nYaaaaa\nYaaaaa-\naaaaa-\na\n\n[Bridge]\n[A5]\nToi toi story\nDead with glory\n\n[Outro]\n[A5]Y [A#5]\n[A#5][A5]Yaa-\n[A5]a [A#5]\n[A5]  [A#5]\n[A5]\n[A5]  [A#5]\n[A5]  [A#5]\n[A5]  [A#5]\n[A5]\n[A5]  [A#5]\n[A5]  [A#5]\n[A#5][A5]Yaa-\n[A5]a [A#5]\n[A#5][A5]Yaa-\n[A5]a",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "111xxx"
+      ],
+      "catalogCount": 1
+    },
+    "A5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "444xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Toi Toi Story",
+  "id": "360c85146fa747dbd8eefd86f5f07a44cf95763ad04860352fb77fcfd881c4c9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 104,
+  "normalizedKey": "gutalax|toi toi story",
+  "playableChords": [
+    "A5",
+    "C5",
+    "A#5",
+    "C#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 43,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "360c85146fa747dbd8eefd86f5f07a44cf95763ad04860352fb77fcfd881c4c9",
+    "version": "BCFZ"
+  },
+  "tempo": 145,
+  "title": "Toi Toi Story",
+  "tuning": "A E A D F# B",
+  "variantRole": "primary"
+}

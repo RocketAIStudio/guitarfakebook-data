@@ -1,0 +1,116 @@
+{
+  "artist": "Foo Fighters",
+  "artistNormalized": "foo fighters",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n\n[Verse 1]\n[Am]If you\nwant to\nI'll make you feel something\nreal just to bother you\nNow I\ngot you\nUnder my thumb like a\ndrug, I will smother you\nI'll be the one, be the\nmoon, be the sun Be the\nrain in your song, go and\nput that record on\nIf you\nwant to\nI'll be the one, be the\ntongue that will swallow you\n\n[Bridge]\n[Am]Shame,\nshame,\nshame,\nshame\nShame,\nshame,\nshame,\nshame\n\n[Chorus]\n[Am]Another splinter un-\n[G]der the skin\n[F]Another season of\n[D]loneliness\n[Am]I found a reason and\n[G]buried it\n[F]Beneath a mountain of\n[D]emptiness Oh-oh--\n[Am]oh, oh-oh--\n[G]oh\n[F]Oh-oh,\n[D]oh-oh\n[Am]Oh, oh-oh--\n[G]oh\n[F]Oh-oh,\n[D]oh\n\n[Bridge]\n[Am]Shame,\nshame,\nshame,\nshame\n\n[Verse 2]\n[Am]Who, what,\nwhere, when\nJust move along, nothing\nwrong 'til we meet again\nI'll be\nthe end\nI'll be the war at your\ndoor, come and let me in\nI'll be the one, be the\nmoon, be the sun Be the\nrain in your song, go and\nput that record on\nIf you\nwant to\nI'll be the one, be the\ntongue that will swallow you\n\n[Chorus]\n[Am]Another splinter un-\n[G]der the skin\n[F]Another season of\n[D]loneliness\n[Am]I found a reason and\n[G]buried it\n[F]Beneath a mountain of\n[D]emptiness Oh-oh--\n[Am]oh, oh-oh--\n[G]oh\n[F]Oh-oh,\n[D]oh-oh\n[Am]Oh, oh-oh--\n[G]oh\n[F]Oh-oh,\n[D]oh\n\n[Bridge]\n[Am]Shame,\nshame,\nshame,\nshame\nShame,\nshame,\nshame,\nshame\n[G]Shame,\nshame,\nshame,\nshame\n[Am]Shame,\nshame,\nshame,\nshame\n\n[Chorus]\n[Am]Another splinter un-\n[G]der the skin\n[F]Another season of\n[D]loneliness\n[Am]I found a reason and\n[G]buried it\n[F]Beneath a mountain of\n[D]emptiness Oh-oh--\n[Am]oh, oh-oh--\n[G]oh\n[F]Oh-oh,\n[D]oh-oh\n[Am]Oh, oh-oh--\n[G]oh\n[F]Oh-oh,\n[D]oh\n\n[Outro]\n[Am]Shame,\nshame,\nshame,\nshame\nShame,\nshame,\nshame,\nshame",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Shame Shame",
+  "id": "1fb1e6b6689b0af7f826c147f42c71b06dcd5db2a965d08aadf654224c739b09",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 337,
+  "normalizedKey": "foo fighters|shame shame",
+  "playableChords": [
+    "Am",
+    "G",
+    "F",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Bridge"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 71,
+      "name": "Chorus"
+    },
+    {
+      "measure": 88,
+      "name": "Bridge"
+    },
+    {
+      "measure": 104,
+      "name": "Chorus"
+    },
+    {
+      "measure": 123,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1fb1e6b6689b0af7f826c147f42c71b06dcd5db2a965d08aadf654224c739b09",
+    "version": "BCFZ"
+  },
+  "tempo": 121,
+  "title": "Shame Shame",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

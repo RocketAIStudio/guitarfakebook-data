@@ -1,0 +1,73 @@
+{
+  "artist": "Groovie Ghoulies",
+  "artistNormalized": "groovie ghoulies",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n\"Hey Kepi,\nhow you doin'?\"\nI'm doin'\n\n[Verse]\n[G]fine I'm doin' fine,\n[C]so leave me alone,\n[G]so leave me alone,\n[D]I'm doin' fine\n[G]I'm doin' fine,\n[C]so leave me alone,\n[G]so leave me alone,\n[D]I'm doin' fine\n[G]I'm doin' fine,\n[C]so leave me alone,\n[G]so leave me alone,\n[D]I'm doin' fine\n[G]I'm doin' fine,\n[C]so leave me alone,\n[G]so leave me alone,\n[D]I'm doin'\n[G]fine",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Doin' Fine",
+  "id": "f149e755795da36c3844501684869cced111f4597b4b7e49f7983f9072340115",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 87,
+  "normalizedKey": "groovie ghoulies|doin fine",
+  "playableChords": [
+    "G",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f149e755795da36c3844501684869cced111f4597b4b7e49f7983f9072340115",
+    "version": "BCFZ"
+  },
+  "tempo": 212,
+  "title": "Doin' Fine",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

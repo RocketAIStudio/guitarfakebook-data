@@ -1,0 +1,117 @@
+{
+  "artist": "Ghost",
+  "artistNormalized": "ghost",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D5]\n\n[Verse 1]\n[D5]Lucifer!\nWe are here\nFor your praise\nEvil One\n[A#5]Our\n[A5]conjuration\n[D5]sings infernal\n[F#5]psalms\n[F5]And smear the\n[E5]smudge in bleeding\n[A5]palms\n[D5]\n[F5]  [C5]\n\n[Chorus]\n[A5]\nSiamo con\nclavi Siamo con\nDio Siamo con il\nnostro Dio\nScuro\n\n[Bridge 1]\n[D5]\n\n[Verse 2]\n[D5]Demigod!\nOur task\nBehind mask\nChosen Son\n[A#5]Oh, you\n[A5]rebel chief, Des-\n[D5]troyer of the\n[F#5]Earth\n[F5]Rise from\n[E5]precipice through\n[A5]birth\n[D5]\n[F5]  [C5]\n\n[Interlude]\n[D5]\n[F5]\n[D5]Sathanas\nWe are one\nOut of three\nTrinity!\n\n[Bridge 2]\n[D5]\n\n[Solo]\n[D5]\n[A#5]\n[A5]\n[D5]\n[F#5]\n[F5]\n[E5]\n[A5]\n[D5]\n[F5]  [C5]\n\n[Outro]\n[A5]\nSiamo con\nclavi Siamo con\nDio Siamo con il\nnostro Dio\nScuro Siamo con\nclavi Siamo con\nDio Siamo con il\nnostro Dio\nScuro Siamo con\nclavi Siamo con\nDio Siamo con il\nnostro Dio\nScuro Siamo con\nclavi Siamo con\nDio Siamo con il\nnostro Dio\nScuro",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "A5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Con Clavi Con Dio",
+  "id": "fc70c46d32a9cdf508fc5b4d741ee9ed04231d009fbe8e6b675bd8eca8e56303",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 178,
+  "normalizedKey": "ghost|con clavi con dio",
+  "playableChords": [
+    "D5",
+    "A#5",
+    "A5",
+    "F#5",
+    "F5",
+    "E5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge 1"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 67,
+      "name": "Interlude"
+    },
+    {
+      "measure": 79,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 81,
+      "name": "Solo"
+    },
+    {
+      "measure": 97,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fc70c46d32a9cdf508fc5b4d741ee9ed04231d009fbe8e6b675bd8eca8e56303",
+    "version": "BCFZ"
+  },
+  "tempo": 200,
+  "title": "Con Clavi Con Dio",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

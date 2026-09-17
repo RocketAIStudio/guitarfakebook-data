@@ -1,0 +1,107 @@
+{
+  "artist": "Glen Hansard",
+  "artistNormalized": "glen hansard",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n[C/F]\n[C]\n[C/F]\n\n[Verse 1]\n[C]I don't know you\n[C/F]But I want you\n[C]All the more for that\n[C/F]\n[C]Words fall through me\n[C/F]And always fool me\n[C]And I can't react\n[C/F]And\n[Am]games that [G]never a-\n[C/F]mount To [G]more than they're\n[Am]meant Will [G]play themselves\n[C/F]out\n\n[Chorus]\n[C]Take this sinking\n[Fsus2]boat and point it\n[Am]home We've still got\n[Fsus2]time\n[C]Raise your hopeful\n[Fsus2]voice you have a\n[Am]choice You'll make it\n[Fsus2]now\n\n[Verse 2]\n[C]Falling slowly,\n[C/F]eyes that know me\n[C]And I can't go back\n[C/F]\n[C]Moods that take me\n[C/F]and erase me\n[C]And I'm painted black\n[C/F]\n[Am]You have [G]suffered e-\n[C/F]nough And [G]warred with your-\n[Am]self It's [G]time that you\n[C/F]won\n\n[Chorus]\n[C]Take this sinking\n[Fsus2]boat and point it\n[Am]home We've still got\n[Fsus2]time\n[C]Raise your hopeful\n[Fsus2]voice you have a\n[Am]choice You'll make it\n[Fsus2]now\n[C]Falling slowly\n[Fsus2]sing your melo-\n[Am]dy I'll sing a-\n[Fsus2]long\n[C]\n[Fsus2]\n[Am]\n[Fsus2]\n\n[Bridge]\n[Fsus2]Take it all\nI played the cards\ntoo late\nNow you're gone\n\n[Outro]\n[C]\n[C/F]\n[C]\n[C/F]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x32013",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C/F": {
+      "catalog": [
+        "1x3010"
+      ],
+      "catalogCount": 1
+    },
+    "Fsus2": {
+      "catalog": [
+        "1x3013"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "32003x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Falling Slowly",
+  "id": "701365cb1995f67878abf213937933b604d30b39e113c7e7bfd0210cbb423bec",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 163,
+  "normalizedKey": "glen hansard|falling slowly",
+  "playableChords": [
+    "C",
+    "C/F",
+    "Am",
+    "G",
+    "Fsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "701365cb1995f67878abf213937933b604d30b39e113c7e7bfd0210cbb423bec",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "Falling Slowly",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

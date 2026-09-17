@@ -1,0 +1,124 @@
+{
+  "artist": "Fionn Regan",
+  "artistNormalized": "fionn regan",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[F#madd11]\n[D6]\n[F#madd11]\n[D6]\n\n[Verse 1]\n[F#madd11]\nThey're biting at you-\n[D6]r heels\n[F#madd11]\nCountry lanes lead to\n[D6]fields\n\n[Chorus]\n[F#madd11]\nWho was that fox caught\n[C#m7]in that trap? [D6]\nLaid with\n[C#m7]hunters map [D6]\nWhen the clou-\n[C#m7]d rolls [Dadd9]back, back,\nback\n[Bm]I'll mee-\n[D6]t you by the mi-\n[Eadd9]ll\n\n[Verse 2]\n[F#madd11]\nDepressions in your ne-\n[D6]ck\n[F#madd11]\nHe's just keeping you i-\n[D6]n check\n\n[Chorus]\n[F#madd11]\nWho was that fox caught\n[C#m7]in that trap? [D6]\nLaid with\n[C#m7]hunters map [D6]\nWhen the clou-\n[C#m7]d rolls [Dadd9]back, back,\nback\n[Bm]I'll mee-\n[D6]t you by the mi-\n[Eadd9]ll\nYou\n\n[Bridge]\n[D6]shake hands\nwith lightni-\nng For an\napple on a string You\nshake hands\nwith lightni-\nng For an\napple on a stri-\nng\n\n[Outro]\n[F#madd11]\n[D6]\n[F#madd11]\n[D6]\n[A6]\n[Esus2/G#]\n[F#madd11]\n[Eadd9]\n[A6]\n[Esus2/G#]\n[F#madd11]\n[Eadd9]\n[D6]\n[Eadd9]\n[D6]\n[F#madd11]",
+  "diagrams": {
+    "A6": {
+      "catalog": [
+        "7-7-11-6-6-x"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "9-9-12-8-8-x",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "C#m7": {
+      "catalog": [
+        "11-11-14-10-10-x",
+        "x-4-6-4-5-4",
+        "9-11-9-9-9-9",
+        "x-x-11-13-12-12",
+        "x-16-18-16-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "D6": {
+      "catalog": [
+        "00000x"
+      ],
+      "catalogCount": 1
+    },
+    "Dadd9": {
+      "catalog": [
+        "9-9-9-9-10-12"
+      ],
+      "catalogCount": 1
+    },
+    "Eadd9": {
+      "catalog": [
+        "22611x"
+      ],
+      "catalogCount": 1
+    },
+    "Esus2/G#": {
+      "catalog": [
+        "67955x"
+      ],
+      "catalogCount": 1
+    },
+    "F#madd11": {
+      "catalog": [
+        "44733x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hunters Map",
+  "id": "3a6f73ff9dd18469e1b66dbed608bf2eefbbce13588d5a4e74acbe26195d5eab",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 122,
+  "normalizedKey": "fionn regan|hunters map",
+  "playableChords": [
+    "F#madd11",
+    "D6",
+    "C#m7",
+    "Dadd9",
+    "Bm",
+    "Eadd9",
+    "A6",
+    "Esus2/G#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Bridge"
+    },
+    {
+      "measure": 60,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3a6f73ff9dd18469e1b66dbed608bf2eefbbce13588d5a4e74acbe26195d5eab",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "Hunters Map",
+  "tuning": "D A D F# B E",
+  "variantRole": "primary"
+}

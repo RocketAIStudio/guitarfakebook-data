@@ -1,0 +1,108 @@
+{
+  "artist": "Helmet",
+  "artistNormalized": "helmet",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E5]\n[D5]\n[E5]\n\n[Verse 1]\n[E5]Your contri-\nbution left un-\nnoticed some\nAssoci-\nation with an\nimage\nJust credit\ntime for showing\nup again\nAttention\nwandered I'm left\nwith it\n\n[Chorus]\n[D5]Gone\nby sin\n[E5]too\nslowly\n[C5]Can't\npass it\n[A5]up\n[D5]Then\nI thought\n[E5]nothing\nis right\n[C5]I\nturned it\n[A5]off\n\n[Breakdown]\n[D5]\n[E5]\n\n[Verse 2]\n[E5]To die un-\nsung would really\nbring you down\nAlthough wet\neyes would never\nsuit you\nWalk through no\narchetypal\nsuicide\nDie young is\nfar too boring\nthese days\n\n[Chorus]\n[D5]Your\nwill to\n[E5]speak\nclearly\n[C5]Ex-\nposed too\n[A5]much\n[C5]\n[D5]Un-\nsung once\n[E5]too\noften\n[C5]Could\nnot rub\n[A5]off\n\n[Breakdown]\n[A5]\n[D5]\n[D5]\n[E5]\n\n[Outro]\n[G5]\n[F5]\n[G5]\n[F5]\n[G5]\n[F5]\n[E5]\n[F5]\n[D5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "222xxx",
+        "2224xx",
+        "x799xx"
+      ],
+      "catalogCount": 3
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x-10-12-12-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Unsung *alt",
+  "id": "91208c3aa95b2086c51caad981f5357bed7f7c9ebe70d07fb92d78de4caa0231",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 117,
+  "normalizedKey": "helmet|unsung",
+  "playableChords": [
+    "E5",
+    "D5",
+    "C5",
+    "A5",
+    "G5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Breakdown"
+    },
+    {
+      "measure": 72,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 88,
+      "name": "Chorus"
+    },
+    {
+      "measure": 104,
+      "name": "Breakdown"
+    },
+    {
+      "measure": 142,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "91208c3aa95b2086c51caad981f5357bed7f7c9ebe70d07fb92d78de4caa0231",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Unsung",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

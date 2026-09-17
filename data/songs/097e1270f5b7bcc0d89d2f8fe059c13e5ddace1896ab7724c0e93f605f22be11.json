@@ -1,0 +1,104 @@
+{
+  "artist": "Hi-Standard",
+  "artistNormalized": "hi standard",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[B5]\n[F#5]  [B5]\n\n[Verse 1]\n[B5]Get out of the [F#5]way\n[B5]Hang your [E5]self\n[B5]pee on public\n[F#5]Asian [B5]Pride\n[B5]Get out of the [F#5]way\n[B5]Hang your [E5]self\n[B5]'Cuz he went Kamloops\n[F#5]Asian [B5]Pride\n\n[Verse 2]\n[G#5]All right [D#5]chump We\n[E5]not speak [A#5][B5]English\n[G#5]But we [D#5]wanna see\n[E5]the outside\n[F#5]world!\n[F#5]  [E5]  [D#5]  [C#5]\n\n[Verse 3]\n[B5]Get out of the [F#5]way\n[B5]Hang your [E5]self\n[B5]Can we all have the\n[F#5]Asian [B5]Pride\n\n[Outro]\n[B5]La la la la [F#5]laa laa\n[B5]La la laa [E5]laa\n[B5]La la la la la la la la\nLa la [F#5]la la [B5]laa",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx",
+        "799xxx"
+      ],
+      "catalogCount": 2
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx",
+        "x799xx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx",
+        "x-9-11-11-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "G#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Asian Pride",
+  "id": "097e1270f5b7bcc0d89d2f8fe059c13e5ddace1896ab7724c0e93f605f22be11",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 89,
+  "normalizedKey": "hi standard|asian pride",
+  "playableChords": [
+    "B5",
+    "F#5",
+    "E5",
+    "G#5",
+    "D#5",
+    "A#5",
+    "C#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 21,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "097e1270f5b7bcc0d89d2f8fe059c13e5ddace1896ab7724c0e93f605f22be11",
+    "version": "BCFZ"
+  },
+  "tempo": 214,
+  "title": "Asian Pride",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,104 @@
+{
+  "artist": "Grace VanderWaal",
+  "artistNormalized": "grace vanderwaal",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Chorus]\n[C]I don't know my name\n[F]\n[Am]I don't play by the\n[G]rules of the game So you\n[C]say I'm just\n[F]trying Just\n[Am]trying\n[G]So I\n\n[Verse 1]\n[C]heard you are my\n[F]sister's friend You\n[Am]get along quite\n[G]nicely You\n[C]ask me why I\n[F]cut my hair And\n[Am]changed myself comp-\n[G]letely\n\n[Chorus]\n[C]I don't know my\n[F]name\n[Am]I don't play by the\n[G]rules of the game So you\n[C]say I'm just\n[F]trying Just\n[Am]trying\n[G]I\n\n[Verse 2]\n[C]went from bland and\n[F]popular To\n[Am]joining the marching\n[G]band I\n[C]made the closest\n[F]friends I ever\n[Am]have in my\n[G]lifetime\n\n[Bridge]\n[F]I'm lost\n[Am]trying to get found\n[G]In an ocean of\npeople\nPlease don't ask me any\n[C]questions There won't\n[G]be a valid answer I'll just\n[F]say That\n\n[Chorus]\n[C]I don't know my\n[F]name\n[Am]I don't play by the\n[G]rules of the game So you\n[C]say I'm just\n[F]trying Just\n[Am]try-\n[G]ing\n\n[Outro]\n[C]I now know my\n[F]name!\n[Am]I don't play by the\n[G]rules of the game So you\n[C]say, I'm not\n[F]trying But I'm\n[Am]try-\n[G]ing To find my way\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Don't Know My Name",
+  "id": "12e7982ec7824d389095775795aafb5ec332d0405649296454449623155dade5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 192,
+  "normalizedKey": "grace vanderwaal|i don t know my name",
+  "playableChords": [
+    "C",
+    "F",
+    "Am",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Chorus"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "12e7982ec7824d389095775795aafb5ec332d0405649296454449623155dade5",
+    "version": "BCFZ"
+  },
+  "tempo": 67,
+  "title": "I Don't Know My Name",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

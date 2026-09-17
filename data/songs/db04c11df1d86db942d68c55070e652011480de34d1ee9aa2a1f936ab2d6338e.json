@@ -1,0 +1,103 @@
+{
+  "artist": "Fugazi",
+  "artistNormalized": "fugazi",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[G]Out [B]here\n[Em][C]Barely see my breath\n[B][G]Surrounded\n[Em]By [C]jealousy and death\n[G]I [B]can't be\n[Em]reached [C]Only had one call\n[G]Dragged [B]under-\n[Em]neath [C]Separate from you\n[G]all You\n[D]all\n\n[Verse 2]\n[G]This [B]time\n[Em][C]Lost my own return\n[G]In spite [B]of\n[Em][C]Everything I've learned\n[G]I [B]hid my\n[Em]tracks [C]Spit out all my air\n[G]Slipped [B]into\n[Em]cracks [C]Stripped of all my\n[G]cares My\n[D]cares\n\n[Solo]\n[G]  [B]\n[Em]  [C]\n[G]  [B]\n[Em]  [C]\n[G]  [B]\n[Em]  [C]\n[G]  [B]\n[Em]  [C]\n\n[Verse 3]\n[G]I'm [B]so\n[Em]tired [C]Sheep are counting me\n[G]No [B]more\n[Em]struggle [C]No more energy\n[G]No [B]more\n[Em]patient [C]You can write that down\n[G]It's all [B]too\n[Em]crazy [C]I'm not sticking\n[G]round",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I'm So Tired",
+  "id": "db04c11df1d86db942d68c55070e652011480de34d1ee9aa2a1f936ab2d6338e",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 109,
+  "normalizedKey": "fugazi|i m so tired",
+  "playableChords": [
+    "G",
+    "B",
+    "Em",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Solo"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "db04c11df1d86db942d68c55070e652011480de34d1ee9aa2a1f936ab2d6338e",
+    "version": "BCFZ"
+  },
+  "tempo": 74,
+  "title": "I'm So Tired",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,116 @@
+{
+  "artist": "Gordon Lightfoot",
+  "artistNormalized": "gordon lightfoot",
+  "capo": "2",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E5]\nI can\n\n[Verse 1]\n[E5]see her lyin' back In her\nsatin dress In a\n[B7sus4]room where you do What you\n[E5]don't confess\n\n[Chorus]\n[E5]Sundown you'd\n[A]better take care If I\n[D]find you been creepin' 'round\n[E5]My back stairs\nSundown you'd\n[A]better take care If I\n[D]find you been creepin' 'round\n[E5]My back stairs\nShe's been\n\n[Verse 2]\n[E5]lookin' like a queen In a\nsailor's dream And she\n[B7sus4]don't always say What she\n[E5]really means\n\n[Chorus]\n[E5]Sometimes I\n[A]think it's a shame When I\n[D]get feelin' better When I'm\n[E5]feelin' no pain\nSometimes I\n[A]think it's a shame When I\n[D]get feelin' better When I'm\n[E5]feelin' no pain\nI can\n\n[Verse 3]\n[E5]picture every move That a\nman could make Getting\n[B7sus4]lost in her lovin' Is your\n[E5]first mistake\n\n[Chorus]\n[E5]Sundown you'd\n[A]better take care If I\n[D]find you been creepin' 'round\n[E5]My back stairs\nSometimes I\n[A]think it's a sin When I\n[D]feel like I'm winnin' When I'm\n[E5]losin' again\n\n[Solo]\n[E5]\nI can\n\n[Verse 4]\n[E5]see her lookin' fast In her\nfaded jeans She's a\n[B7sus4]hard lovin' woman Got me\n[E5]feelin' mean\n\n[Chorus]\n[E5]Sometimes I\n[A]think it's a shame When I\n[D]get feelin' better When I'm\n[E5]feelin' no pain\nSundown you'd\n[A]better take care If I\n[D]find you been creepin' 'round\n[E5]My back stairs\n\n[Chorus]\n[E5]Sundown you'd\n[A]better take care If I\n[D]find you been creepin' 'round\n[E5]My back stairs\nSometimes I\n[A]think it's a sin When I\n[D]feel like I'm winnin' When I'm\n[E5]losin' again\n\n[Outro (Fade Out)]\n[E5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7sus4": {
+      "catalog": [
+        "x24200"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022400"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sundown",
+  "id": "03ae96097f08f55f74db3b7b7c7d8ce4ba1db5224b5bb004a0ba1f1d590272e2",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 284,
+  "normalizedKey": "gordon lightfoot|sundown",
+  "playableChords": [
+    "E5",
+    "B7sus4",
+    "A",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Solo"
+    },
+    {
+      "measure": 64,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 68,
+      "name": "Chorus"
+    },
+    {
+      "measure": 76,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "03ae96097f08f55f74db3b7b7c7d8ce4ba1db5224b5bb004a0ba1f1d590272e2",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "Sundown",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

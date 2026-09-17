@@ -1,0 +1,93 @@
+{
+  "artist": "GG Allin",
+  "artistNormalized": "gg allin",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[D]  [C]  [D]\n[D]  [C]  [D]\n\n[Verse 1]\n[A]Your god\nfucked me up the ass\nJesus Christ\nsucked my fucking ass\nYour bible\nis such a piece of trash\nI am the highest power,\nthe leader of the pack\n\n[Interlude]\n[D]  [C]  [D]\n[D]  [C]  [D]\n\n[Verse 2]\n[A]Hail Mary\nis so full of shit\nVirgin Mary\nI'll rape that fucking clit\nJesus Christ was the\nson of a bitch I\nam the highest power,\nthe leader of the pack\n\n[Interlude]\n[D]  [C]  [D]\n[D]  [C]  [D]\n\n[Verse 3]\n[A]Your church, let's\nburn it to the ground\nPriests and nuns,\nlet's put them in the ground\nWe don't need those lames to\nhold us back I\nam the highest power,\nthe leader of the pack\n\n[Outro]\n[D]  [C]  [D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x3555x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x5777x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Highest Power",
+  "id": "54e93b449391a6d2a324b0be927c67d7932b36d46bb240ea3305519ea042d338",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 113,
+  "normalizedKey": "gg allin|highest power",
+  "playableChords": [
+    "D",
+    "C",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Interlude"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Interlude"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 31,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "54e93b449391a6d2a324b0be927c67d7932b36d46bb240ea3305519ea042d338",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Highest Power",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

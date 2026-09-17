@@ -1,0 +1,118 @@
+{
+  "artist": "Fats Domino",
+  "artistNormalized": "fats domino",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E7]\n[B]\nI found my thrill\n\n[Verse 1]\n[E7]\nOn Blueberry Hill\n[B]\nOn Blueberry Hill\n[F#7]\nWhen I found\n[B]you\nThe moon stood still\n\n[Verse 2]\n[E7]\nOn Blueberry Hill\n[B]\nAnd lingered until\n[F#7]\nMy dream came\n[B]true\nThe [F#7]wind in the\n\n[Chorus]\n[B]willow played\nLove's sweet melo-\ndy\n[B7]But [A#7]all of those\n[D#m]vows you [A#7]made\n[D#m]Were [A#7]never to\n[D#m]be\n[B7]Though we're apart\n\n[Verse 3]\n[E7]\nYou're part of me still\n[B]\nFor you were my thrill\n[F#7]\nOn Blueberry Hill\n[B]\nThe wind in the\n\n[Chorus]\n[B]willow played\nLove's sweet melo-\ndy\n[B7]But [A#7]all of those\n[D#m]vows you [A#7]made\n[D#m]Were [A#7]never to\n[D#m]be\n[B7]Though we're apart\n\n[Verse 4]\n[E7]\nYou're part of me still\n[B]\nFor you were my thrill\n[F#7]\nOn Blueberry Hill\n[B]  [E7]\n[B]",
+  "diagrams": {
+    "A#7": {
+      "catalog": [
+        "x13131"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "xx1342"
+      ],
+      "catalogCount": 1
+    },
+    "E7": {
+      "catalog": [
+        "020130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Blueberry Hill",
+  "id": "ea7515fe30172ff06ec8f6fc9df893903dec70f43b8d06b4ffe00b95b5fc417a",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 124,
+  "normalizedKey": "fats domino|blueberry hill",
+  "playableChords": [
+    "E7",
+    "B",
+    "F#7",
+    "B7",
+    "A#7",
+    "D#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ea7515fe30172ff06ec8f6fc9df893903dec70f43b8d06b4ffe00b95b5fc417a",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "Blueberry Hill",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

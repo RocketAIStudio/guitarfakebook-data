@@ -1,0 +1,134 @@
+{
+  "artist": "Green day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\n[A]\n[Dm]\n[A]\n[Dm]\n\n[Verse 1]\n[A]She's an ex-\n[Dm]traordinary girl\n[A]In an\n[Dm]ordinary world\n[A]And she\n[G]can't seem to get away\n[A]\nHe lacks the\n[Dm]courage in his mind\n[A]Like a\n[Dm]child left behind\n[A]Like a\n[G]pet left in the rain\n[A]\n\n[Chorus]\n[F#m]She's all [D][E]alone\nagain [E][F#m]\nWiping the tears from [E]her [D]eyes\n[E]  [D]\nSome days he feels\n[E]like dying\n[D]She gets so\n[Dm]sick of crying\n\n[Bridge]\n[A]\n[Dm]\n[A]\n[Dm]\n\n[Verse 2]\n[A]She sees the\n[Dm]mirror of herself\n[A]An i-\n[Dm]mage she wants to sell\n[A]To a-\n[G]nyone willing to buy\n[A]\nHe steals the\n[Dm]image in her kiss\n[A]From her\n[Dm]heart's apocalypse\n[A]From the\n[G]one called \"whatsername\"\n[A]\n\n[Chorus]\n[F#m]She's all [D][E]alone\nagain [E][F#m]\nWiping the tears from [E]her [D]eyes\n[E]  [D]\nSome days he feels\n[E]like dying\n[D]She gets so\n[Dm]sick of crying\n\n[Solo]\n[A]\n[Dm]\n[A]\n[Dm]\n[A]\n[G]\n[A]\n[Dm]\n[A]\n[Dm]\n[A]\n[G]\n[A]\n\n[Chorus]\n[F#m]She's all [D][E]alone\nagain [E][F#m]\nWiping the tears from [E]her [D]eyes\n[E]  [D]\nSome days he feels\n[E]like dying\n[D]Some days it's not\n[E]worth trying\n[D]Now that they both\n[E]are finding\n[D]She gets so\n[Dm]sick of crying\n\n[Outro]\n[A]She's an ex-\n[Dm]traordinary girl\n[A]An ex-\n[Dm]traordinary girl\n[A]An ex-\n[Dm]traordinary girl\n[A]An ex-\n[Dm]traordinary girl\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x57765",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x79997",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-9-11-11-10-9",
+        "x-x-4-6-7-5",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Extraordinary Girl",
+  "id": "9b3b303a7571df0aa1a80c4c84f51bc8b9178da9d98a6f1faacd2f5c94aed600",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 213,
+  "normalizedKey": "green day|extraordinary girl",
+  "playableChords": [
+    "A",
+    "Dm",
+    "G",
+    "F#m",
+    "E",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Bridge"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Solo"
+    },
+    {
+      "measure": 91,
+      "name": "Chorus"
+    },
+    {
+      "measure": 104,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9b3b303a7571df0aa1a80c4c84f51bc8b9178da9d98a6f1faacd2f5c94aed600",
+    "version": "BCFZ"
+  },
+  "tempo": 109,
+  "title": "Extraordinary Girl",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

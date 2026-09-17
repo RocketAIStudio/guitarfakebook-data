@@ -1,0 +1,118 @@
+{
+  "artist": "Green day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[A5]\n[B5]\n[G5]  [E5]\n[B5]\n[D5]  [F#5]\n[B5]\n[G5]  [E5]\n[B5]\n[D5]  [F#5]\n\n[Verse 1]\n[B5]Concrete dream\n[E5]I'm gonna [F#5]make a scene\n[B5]Radio\n[E5]Covered in [F#5]gasoline\n[B5]Sleeping in reverse\n[A5]And everybody's bouncing off the\n[B5]walls [E5]\n[B5]  [A5]\n[B5]Bombs away\n[E5]It's just [F#5]another day\n[B5]Of idle threats\n[E5]The secret [A5]alphabet\n[B5]And I wouldn't sweat it\n[A5]And everybody's [F#5]bouncing off the\n[B5]walls [E5]\n[B5]  [A5]\n[B5]\n[G5][E5]Alright\n[B5]\n[D5]  [F#5]\n\n[Verse 2]\n[B5]Concrete kiss\n[E5]Come on and [F#5]do the twist\n[B5]TheRadio, my\n[E5]little [B5]exorcist We're\nall getting pissed And\n[A5]everybody's bouncing off the\n[B5]walls [E5]\n[B5]'Cause it's all\n\n[Chorus]\n[E5]that I want And I want\nto be free I got Sa-\n[B5]tan riding next to me\n'Cause we're all\n[Ab5]bloody freaks And we'll give\n[B5]you the creeps Chasing\n[A5]fireflies and ze-\n[F#5]ros\n\n[Solo]\n[B5]\n[G5]  [E5]\n[B5]\n[D5]  [F#5]\n[B5]\n[G5]  [E5]\n[B5]\n[C#5]\n[F#5]'Cause it's all\n\n[Chorus]\n[E5]that I want And I want\nto be free I got Sa-\n[B5]tan riding next to me\n'Cause we're all\n[Ab5]bloody freaks And we'll give\n[B5]you the creeps Chasing\n[A5]fireflies and ze-\n[F#5]ros\n\n[Outro]\n[B5]\n[G5]  [E5]\n[B5]\n[D5]\n[B5]\n[G5]  [E5]\n[B5]\n[D5]  [F#5]\n[B5]\n[G5]  [E5]\n[B5]\n[D5]  [F#5]\n[B5]\n[A5]\n[B5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Ab5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx",
+        "x-9-11-11-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bouncing off the wall",
+  "id": "255dd99a108d60b2171b628624ed4fc399170aa6beff5a48067a0d328fd77c56",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 183,
+  "normalizedKey": "green day|bouncing off the wall",
+  "playableChords": [
+    "A5",
+    "B5",
+    "G5",
+    "E5",
+    "D5",
+    "F#5",
+    "Ab5",
+    "C#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Solo"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "255dd99a108d60b2171b628624ed4fc399170aa6beff5a48067a0d328fd77c56",
+    "version": "BCFZ"
+  },
+  "tempo": 129,
+  "title": "Bouncing off the wall",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

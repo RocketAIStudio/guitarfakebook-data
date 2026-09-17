@@ -1,0 +1,133 @@
+{
+  "artist": "Her's",
+  "artistNormalized": "her s",
+  "capo": "2",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro 1]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]\n[D7]\n[G]\n\n[Intro 2]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n\n[Verse 1]\n[G]I wanna ride your\n[Am7]wave [D7]again\n[G]Don't tell me I can\n[Am7]just [D7]pretend\n[G]I love you, but there's\n[Am7]still a [D7]taste\n[G]Don't know if you'll al-\n[Am7]ways be [D7]amazed Right\n[Em]now\n[Am]I wanna love you to-\n[Am7]night\n[C]  [D]\n\n[Verse 2]\n[G]Why did you have to\n[Am7]say [D7]goodnight?\n[G]I love you but it\n[Am7]don't feel [D7]right\n[G]Nobody seems to\n[Am7]really [D7]know\n[G]This feeling's getting\n[D7][Am7]overgrown Slow\n[Em]down\n[Am]I wanna love you to-\n[Am7]night\n[C]  [D]\n\n[Outro]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n\n[Fade Out]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]\n[G]\n[Am7]  [D7]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Marcel",
+  "id": "2f45801fd57c679914eddcd4e5e50e6bbc2b9461d8922ffd1fe5050714cdd291",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 83,
+  "normalizedKey": "her s|marcel",
+  "playableChords": [
+    "G",
+    "Am7",
+    "D7",
+    "Em",
+    "Am",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 11,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Outro"
+    },
+    {
+      "measure": 69,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2f45801fd57c679914eddcd4e5e50e6bbc2b9461d8922ffd1fe5050714cdd291",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "Marcel",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

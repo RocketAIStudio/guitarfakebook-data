@@ -1,0 +1,134 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Em]\n[D]\n[Em]\n[D]\n\n[Verse 1]\n[Em]My mama said to me\n[D]\"You're gonna have your ene-\n[Em]mies\" \"Don't beg, don't fol-\n[D]low\"\n[Em]I've heard it all before\n[D]I smashed my fingers in the\n[Em]door My downward spi-\n[D]ral, oh yeah\n\n[Pre-Verse]\n[Em]\n[D]\n[Em]\n[D]\n\n[Verse 2]\n[Em]Rock 'n' roll tragedy\n[D]I think the next one could be\n[Em]me Heaven's my ri-\n[D]val\n[Em]I sing in revelry\n[D]I got my own conspira-\n[Em]cies What hides in sha-\n[D]dows? Oh yeah\n\n[Chorus]\n[G]Junkies on a [D]high\n[Em]Get back,\n[C]lay down, [Bm]go\n[Am]low\n[G]Subdivision [D]smile\n[Em]Drink it in,\n[C]dumb it down, [Bm]suck it up\n[Am]As we watch the world\n\n[Pre-Verse]\n[Em]burn\n[D]As we watch the world\n[Em]burn\n[D]\n\n[Verse 3]\n[Em]I'm not a soldier,\n[D]this ain't no new world or-\n[Em]der My path don't fol-\n[D]low\n[Em]My name is nobody\n[D]My pride is my pornogra-\n[Em]phy Koolaid's my mot-\n[D]to, \"Oh yeah!\"\n\n[Chorus]\n[G]Junkies on a [D]high\n[Em]Get back,\n[C]lay down, [Bm]go\n[Am]low\n[G]Subdivision [D]smile\n[Em]Drink it in,\n[C]dumb it down, [Bm]suck it up\n[Am]As we watch the world\n\n[Outro]\n[Em]burn\n[D]As we watch the world\n[Em]burn\n[D]Oh yeah,\n[Em]burn\n[D]As we watch the world\n[Em]burn\n[D]Oh yeah",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Junkies On A High",
+  "id": "48d7b3abc1c06d8100b56a56ef80f2f5f03732d929695aab4e8a6a001b3b7472",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 204,
+  "normalizedKey": "green day|junkies on a high",
+  "playableChords": [
+    "Em",
+    "D",
+    "G",
+    "C",
+    "Bm",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "48d7b3abc1c06d8100b56a56ef80f2f5f03732d929695aab4e8a6a001b3b7472",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Junkies On A High",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

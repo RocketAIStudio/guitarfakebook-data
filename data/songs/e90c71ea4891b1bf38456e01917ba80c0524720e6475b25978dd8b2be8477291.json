@@ -1,0 +1,96 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Ab5]  [Gb5]  [Db5]\n[Ab5]  [Gb5]  [Db5]\n[Ab5]  [Gb5]  [Db5]\n[Ab5]  [Gb5]  [Db5]\n\n[Verse 1]\n[Ab5]Somebody [Gb5]keep my [Db5]balance, I\n[Ab5]think I'm falling [Gb5]off [Db5]\n[Ab5]Into a [Gb5]state of re [Db5]gres-\n[Ab5]sion. [Gb5][Db5]\n[Ab5]The [Gb5]expiration [Db5]date ra-\n[Ab5]pidly coming [Gb5]up. [Db5]\n[Ab5]It's leaving [Gb5]me behind [Db5]to\n[Ab5]rank.\n\n[Chorus]\n[Db5]Always move forward,\nGoing straight will get you\n[Ab5]nowhere. [Gb5][Ab5]\n[Gb5]  [Ab5]\n[Db5]There is no progress,\nEvolution killed it\n[Eb5]all. I found my\nplace in nowhere.\n\n[Pre-Verse]\n[Ab5]  [Gb5]  [Db5]\n[Ab5]  [Gb5]  [Db5]\n\n[Verse 2]\n[Ab5]I'm taking [Gb5]one step [Db5]sideways,\n[Ab5]Leading with my [Gb5]crutch. [Db5]\n[Ab5]Got a fucked up [Gb5]equili [Db5]bri-\n[Ab5]um. [Gb5][Db5]\n[Ab5]Count down from [Gb5]nine to [Db5]five, hoo-\n[Ab5]ray! We're gonna [Gb5]die! [Db5]\n[Ab5]Blessed [Gb5]into our own [Db5]extinc-\n[Ab5]tion.\n\n[Chorus]\n[Db5]Always move forward,\nGoing straight will get you\n[Ab5]nowhere. [Gb5][Ab5]\n[Gb5]  [Ab5]\n[Db5]There is no progress,\nEvolution killed it\n[Eb5]all. I found my\nplace in nowhere.\n\n[Bridge]\n[Ab5]  [Gb5]  [Db5]\n[Ab5]  [Gb5]  [Db5]\n[Ab5]  [Gb5]  [Db5]\n[Ab5]  [Gb5]  [Db5]\n[Ab5]  [Gb5]  [Db5]\n[Ab5]  [Gb5]  [Db5]\n[Ab5]  [Gb5]  [Db5]\n[Ab5]\n\n[Chorus]\n[Db5]Always move forward,\nGoing straight will get you\n[Ab5]nowhere. [Gb5][Ab5]\n[Gb5]  [Ab5]\n[Db5]There is no progress,\nEvolution killed it\n[Eb5]all. I found my\nplace in nowhere.\n\n[Outro]\n[Ab5][Gb5][Db5]In\n[Ab5]nowhere, [Gb5][Db5]in\n[Db5][Gb5][Ab5]nowhere.\n[Ab5]  [Gb5]  [Db5]\n[Ab5]",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Db5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "Gb5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Jaded *alt",
+  "id": "e90c71ea4891b1bf38456e01917ba80c0524720e6475b25978dd8b2be8477291",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 186,
+  "normalizedKey": "green day|jaded",
+  "playableChords": [
+    "Ab5",
+    "Gb5",
+    "Db5",
+    "Eb5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e90c71ea4891b1bf38456e01917ba80c0524720e6475b25978dd8b2be8477291",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Jaded",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

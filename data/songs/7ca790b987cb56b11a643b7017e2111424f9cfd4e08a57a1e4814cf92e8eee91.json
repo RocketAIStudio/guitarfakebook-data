@@ -1,0 +1,100 @@
+{
+  "artist": "Halsey",
+  "artistNormalized": "halsey",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\n[G]\n[Em]\n[Bm]\n[C]\n[G]\n[Em]\n[Bm]\n\n[Verse 1]\n[C]Standing now,\n[G]in the mirror that I\n[Em]built myself\n[Bm]And I can't remember\n[C]why the decosion wasn't\n[G]mine But it seems I'm only\n[Em]clingin' to an idea\n[Bm]now Took my heart and\n[C]sold it out\n[G]to a vision that I\n[Em]wrote myself\n[Bm]And I don't wanna be some-\n[C]body in America just\n[G]fighting the hysteria I\n[Em]only wanna die some\n[Bm]days Someday, some-\n\n[Chorus]\n[C]day,\n[G]when I\n[Em]burst into flames\n[Bm]I'll leave you the\n[C]dust, my love\n[G]Hope a bit of it will\n[Em]be enough to help\n[Bm]remember the\n[C]Days\n[G]when we\n[Em]came to this place\n[Bm]I told you I'd\n[C]spill my guts,\n[G]I left you to\n[Em]clean it up I'm burst-\n[Bm]ing out of the\n\n[Verse 2]\n[C]\n[G]Seems like now\n[Em]it's impossible to\n[Bm]work this out\n[C]I'm so committed to an\n[G]old ghost town Is it\n[Em]really that strange if I\n[Bm]always wanna change? And if\n[C]only the\n[G]time and space between us wasn't\n[Em]lonely I'd dis-\n[Bm]integrate into a thousand\n[C]pieces Think I'm\n[G]makin' a mistake, but if\n[Em]I decide to break Who will\n[Bm]fill the empty space? So...\n\n[Chorus]\n[C]Now,\n[G]if I\n[Em]figure this out\n[Bm]Apart from my\n[C]beating heart\n[G]It's a muscle, but it's\n[Em]still not strong enough\n[Bm]to carry the\n[C]Weight\n[G]of the\n[Em]choices I've made\n[Bm]I told you I'd\n[C]ride this out\n[G]It's gettin' harder every\n[Em]day Somehow, I'm burst-\n[Bm]in' out of my-\n\n[Outro]\n[C]self\n[G]\n[Em]\n[Bm]\n[C]Ooh,\n[G]\n[Em]ooh\n[Bm]\n[C]Ooh,\n[G]ooh Too many guys\n[Em]think I'm a concept, or\n[Bm]I complete them, or I'm gonna make\n[C]them alive\n[G]I'm just a fucked up girl who's lookin' for my\n[Em]own peace of mind Don't as-\n[Bm]sign me yours",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ashley",
+  "id": "7ca790b987cb56b11a643b7017e2111424f9cfd4e08a57a1e4814cf92e8eee91",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 335,
+  "normalizedKey": "halsey|ashley",
+  "playableChords": [
+    "C",
+    "G",
+    "Em",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7ca790b987cb56b11a643b7017e2111424f9cfd4e08a57a1e4814cf92e8eee91",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "Ashley",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

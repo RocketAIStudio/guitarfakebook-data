@@ -1,0 +1,96 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[A#]Seventeen and strung\non a con-\n[Gm]fusion.\n[A#]Trapped inside a roll\nof disil-\n[Gm]lusion.\nI've\n\n[Chorus]\n[F]found out what it takes\nto be a man.\n[D#]\nWell,\n[F]Mom and Dad will ne-\nver understand.\n[D#]\n\n[Verse 2]\n[A#]Secrets collecting\ndust but never\n[Gm]forget.\n[A#]Skeletons come to\nlife in my\n[Gm]closet.\nI've\n\n[Chorus]\n[F]found out what it takes\nto be a man.\n[D#]\nWell,\n[F]Mom and Dad will ne-\nver understand.\n[D#]What's\nhappening to\n\n[Guitar Solo]\n[A#]me.\n[Gm]\n[A#]\n[Gm]\n[F]\n[D#]\n[F]\n[D#]\n\n[Verse 3]\n[A#]Seventeen and co-\nming clean for the\n[Gm]first time.\nI\n[A#]finally figured out\nmyself for the\n[Gm]first time.\nI've\n\n[Outro]\n[F]found out what it takes\nto be a man.\n[D#]\nWell,\n[F]Mom and Dad will ne-\nver understand.\n[D#]What's\nhappening to\n[A#]me.",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "x24442"
+      ],
+      "catalogCount": 1
+    },
+    "D#": {
+      "catalog": [
+        "022100"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "244322",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "466444",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Coming Clean *alt 2",
+  "id": "b8a120ec661f6387829c568f89890ad1c72e15127a1273b32613e8f58c6a817d",
+  "key": "G♯",
+  "keyIdentified": true,
+  "lyricEventCount": 136,
+  "normalizedKey": "green day|coming clean",
+  "playableChords": [
+    "A#",
+    "Gm",
+    "F",
+    "D#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b8a120ec661f6387829c568f89890ad1c72e15127a1273b32613e8f58c6a817d",
+    "version": "BCFZ"
+  },
+  "tempo": 175,
+  "title": "Coming Clean",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

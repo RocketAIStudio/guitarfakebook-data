@@ -1,0 +1,102 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F#5]  [E5]\n[B5]  [A5]\n[F#5]  [E5]\n[B5]  [A5]\n[F#5]  [E5]\n[B5]  [A5]\n[F#5]  [E5]\n[A5]\n\n[Verse 1]\n[F#5]What are the symp-\ntoms of our\n[A5]happiness and Ci-\n[B5]vil War?\n[F#5]Mano y ma-\nno in the\n[A5]stereo  without\n[B5]a cure\n[F#5]I've got a fe-\nver, a nonbelie-\n[A5]ver, and it's kil-\n[B5]ling me\n[F#5]Like a high school lo-\nser that will\n[A5]never ever, ever, ever\n[B5]fuck the prom queen\n\n[Chorus]\n[A5]I got the shakes\n[D5]and I'm on fire\n[A5]I got a feeling\n[D5]and it's dangerous\n[A5]I'm gonna dance\n[D5]to something wild\n[A5]I got a feeling\n[D5]and I need a rush\n[C#5]All hell is brea-\nking loose and\n[F#5]Heaven [E5]only [D5]knows\n[A5]I don't wanna be a\n[D5]Romeo\n[A5]I don't wanna be a\n[D5]Romeo\n[A5]I don't wanna be a\n[D5]Romeo, oh\n\n[Bridge]\n[F#5]no [E5]\n[B5]  [A5]\n[F#5]  [E5]\n[A5]\n\n[Verse 2]\n[F#5]  [E5]\nI'm hearing voices up in-\n[F#5]side my [E5]head\nOh, what you thinkin'?\n[F#5]  [E5]\nI need a sugar fix, it's\n[F#5]making me sick [E5]\nOh, what you drinkin'?\n[F#5]I wanna drink all the\npoison in the water\n[A5]I wanna choke like a\n[B5]dog that's on a collar\n[F#5]I am the child of coy-\note and bandito\n[A5]I'm drinking whiskey by the\n[B5]river doing\n\n[Chorus]\n[A5]I got the shakes\n[D5]and I'm on fire\n[A5]I got a feeling\n[D5]and it's dangerous\n[A5]I'm gonna\n[D5]dance to something wild\n[A5]I got a fee-\n[D5]ling and I need a rush\n[C#5]All hell is\nbreaking loose\n[F#5]and [E5]Heaven [D5]only\nknows\n[A5]I don't wanna be\n[D5]a Romeo\n[A5]I don't wanna be\n[D5]a Romeo\n[A5]I don't wanna be\n[D5]a Romeo,\n\n[Outro]\n[F#5]oh no [E5]\n[B5]  [A5]\n[F#5]  [E5]\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sugar Youth",
+  "id": "c8296fa203b2b85f7dce09ee9a051a27e8544036bc9dec169c10ffdb4fa5513f",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 300,
+  "normalizedKey": "green day|sugar youth",
+  "playableChords": [
+    "F#5",
+    "E5",
+    "B5",
+    "A5",
+    "D5",
+    "C#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Bridge"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c8296fa203b2b85f7dce09ee9a051a27e8544036bc9dec169c10ffdb4fa5513f",
+    "version": "BCFZ"
+  },
+  "tempo": 177,
+  "title": "Sugar Youth",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

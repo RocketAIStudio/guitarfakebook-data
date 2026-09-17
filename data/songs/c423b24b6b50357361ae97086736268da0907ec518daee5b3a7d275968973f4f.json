@@ -1,0 +1,102 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\nThe\nSimpsons\n[B]\n[E]O-\no-\no-\no-\no-\no-\no-\nh!\n[C]\n\n[Interlude]\n[D#]\n[E]Hey! Hey!\nHey! Hey!\nHey! Hey!\nHey! Hey!\nHey! Hey!\nHey! Hey!\nHey! Hey!\nHey! Hey!\n[C]Da, dun dun da\ndun Dun dun da\ndun dun dun dun!\nDa [F#m]da da [G]dun [B]dun…\n[C]Da da da da!",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "x68886"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Simpsons Theme",
+  "id": "c423b24b6b50357361ae97086736268da0907ec518daee5b3a7d275968973f4f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 48,
+  "normalizedKey": "green day|simpsons theme",
+  "playableChords": [
+    "C",
+    "B",
+    "E",
+    "D#",
+    "F#m",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c423b24b6b50357361ae97086736268da0907ec518daee5b3a7d275968973f4f",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Simpsons Theme",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

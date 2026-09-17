@@ -1,0 +1,159 @@
+{
+  "artist": "Foo Fighters",
+  "artistNormalized": "foo fighters",
+  "capo": "No capo",
+  "chordPositionCount": 41,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[Bm]  [A]\n[E]  [F#m]\n[G]  [D]\n[E]\n[Bm]  [A]\n[E]  [F#m]\n[G]  [D]\n\n[Verse 1]\n[Bm]Come and I'll take\n[D]you under\n[Bm]This beautiful bru-\n[D]ise's colors\n[Bm]everything fa-\n[A]des in time it's true\n[E]\n[Bm]wish that I had\n[D]another\n[Bm]stab at the un-\n[D]dercover\n[Bm]was it a cha-\n[A]nge in mind for you\n[E]\n[F#m]\n\n[Chorus]\n[G]it's impossible\n[D]I can't let it o-\n[G]ut you'll never know\n[D]am I selling you o-\n[G]ut sit and watch\n[D]your every\n[C]mood [C/B]\n[F]  [D]\n[C]mood [C/B]\n[F]  [D]\n\n[Verse 2]\n[Bm]your eyes still re-\n[D]mind me of\n[Bm]angels that ho-\n[D]ver above\n[Bm]eyes that can cha-\n[A]nge from blind to blue\n[E]\n[F#m]\n\n[Chorus]\n[G]it's impossible\n[D]I can't let it o-\n[G]ut you'll never know\n[D]am I selling you o-\n[G]ut sit and watch\n[D]your every\n[C]mood [C/B]\n[F]  [D]\n[C]mood [C/B]\n[F]  [D]\n[C]mood [C/B]\n[F]  [D]\n[C]mood [E]\n\n[Bridge]\n[Bm]  [A]\n[E]  [F#m]\n[Bm]  [A]\n[E]  [F#m]\n[Bm]  [A]\n[E]  [F#m]\n[G]  [D]\n[G]  [D]\n[G]  [F#m]\n\n[Verse 3]\n[Bm]now that I've fo-\n[D]und my reward\n[Bm]I'd throw it away\n[D]long before\n[Bm]I'd share a piece\n[A]of mine with you\n[E]\n[F#m]\n\n[Chorus]\n[G]it's impossible\n[D]I can't let it o-\n[G]ut you'll never know\n[D]am I selling you o-\n[G]ut sit and watch\n[D]your every\n[C]mood [C/B]\n[F]  [D]\n[C]mood [C/B]\n[F]  [D]\n[C]mood [C/B]\n[F]  [D]\n[C]mood [C/B]\n[F]  [D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/B": {
+      "catalog": [
+        "x22010"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "xx2100",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "xx3211",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "xx4222",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "xx5433",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hey, Johnny Park! *alt",
+  "id": "1261d5f6af272a0dfca1450f3e5f2b030c1458c1ffa688f9eb1d113b78753fde",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 188,
+  "normalizedKey": "foo fighters|hey johnny park",
+  "playableChords": [
+    "Bm",
+    "A",
+    "E",
+    "F#m",
+    "G",
+    "D",
+    "C",
+    "C/B",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1261d5f6af272a0dfca1450f3e5f2b030c1458c1ffa688f9eb1d113b78753fde",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Hey, Johnny Park!",
+  "tuning": "D A D G B E",
+  "variantRole": "alt"
+}

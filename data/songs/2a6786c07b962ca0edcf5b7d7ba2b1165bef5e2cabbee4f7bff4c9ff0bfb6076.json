@@ -1,0 +1,155 @@
+{
+  "artist": "Gojira",
+  "artistNormalized": "gojira",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[Csus2]\n[Cm]\n\n[Pre-Verse 1]\n[C5]\n\n[Verse 1]\n[C5]On the first light\nof the day, you\nmarch on\n[F5]  [Eb5]  [D5]\n[C5]Departure has ar-\nrived, don't look\nback\n[C5]Avoid the darkness,\nstay away, stay\nout of sight\n[F5]  [Eb5]  [D5]\n[C5]Until you feel the\nblast of a shooting\nstar\n\n[Interlude]\n[C5]\n\n[Verse 2]\n[C5]Following the\nspark like a rocket\nin the sky\n[F5]  [Eb5]  [D5]\n[C5]Between the bear and the\nscorpion, getting\nclose\n[C5]Headed north, frozen\nland where tigers\ngo to die\n[F5]  [Eb5]  [D5]\n[C5]Don't fear the cold, it'll\nnumb your memories\nout\n\n[Bridge]\n[Eb5]\nYou are\n[D5]higher\n[Eb5]\nin the sky\n[D5]\n\n[Verse 3]\n[C5]Learn the skill to\nstay alive, sur-\nvival\n[F5]  [Eb5]  [D5]\n[C5]The city is so\nmean, you're being\nwatched\n[C5]Reach the tunnel,\nlight the torch, you're\non the hunt\n[F5]  [Eb5]  [D5]\n[C5]Until the light calls you\nback into the\nwild\n\n[Solo]\n[C5]\n\n[Verse 4]\n[C5]When you get to the\nother side, please,\nsend a sign\n[F5]  [Eb5]  [D5]\n[C5]It'll fly through the\natmosphere in\ntime\n[C5]And if you\nhold the truth with-\nin your hands\n[F5]  [Eb5]  [D5]\n[C5]You won't be sent back,\nthrough the rain, re-\nborn\n\n[Chorus]\n[C5]\n[Bbsus2]\n[C5]\n[Bbsus2]\n[C5]\n[Bbsus2]\n[C5]\n[Bbsus2]\n[C5]\n[Bbsus2]\n[C5]\n[Bbsus2]\n[C5]\n[Bbsus2]\n[C5]\n[Bbsus2]\n[C5]Everlasting\n[Bbsus2]love is ever\n[C5]growing,\n[Bbsus2]growing\n[C5]Hang on to what you\n[Bbsus2]have and let it\n[C5]grow\n[Bbsus2]\n[C5]Everlasting\n[Bbsus2]love is ever\n[C5]dying,\n[Bbsus2]dying\n[C5]It's in the past, you\n[Bbsus2]have to let it\n[C5]go\n[Bbsus2]\n\n[Outro]\n[Cm]\n[Bb]\n[Ab]\n[Cm]\n\n[Fade Out]\n[Cm]\n[Bb]\n[Ab]\n[Cm]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x1333x",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x3555x",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bbsus2": {
+      "catalog": [
+        "x30013"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Cm": {
+      "catalog": [
+        "000231",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "Csus2": {
+      "catalog": [
+        "000230"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Shooting Star",
+  "id": "2a6786c07b962ca0edcf5b7d7ba2b1165bef5e2cabbee4f7bff4c9ff0bfb6076",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 221,
+  "normalizedKey": "gojira|the shooting star",
+  "playableChords": [
+    "Csus2",
+    "Cm",
+    "C5",
+    "F5",
+    "Eb5",
+    "D5",
+    "Bbsus2",
+    "Bb",
+    "Ab"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Pre-Verse 1"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 52,
+      "name": "Interlude"
+    },
+    {
+      "measure": 60,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 76,
+      "name": "Bridge"
+    },
+    {
+      "measure": 84,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 100,
+      "name": "Solo"
+    },
+    {
+      "measure": 116,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 132,
+      "name": "Chorus"
+    },
+    {
+      "measure": 164,
+      "name": "Outro"
+    },
+    {
+      "measure": 172,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2a6786c07b962ca0edcf5b7d7ba2b1165bef5e2cabbee4f7bff4c9ff0bfb6076",
+    "version": "BCFZ"
+  },
+  "tempo": 126,
+  "title": "The Shooting Star",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

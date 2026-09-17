@@ -1,0 +1,162 @@
+{
+  "artist": "Gorgoroth",
+  "artistNormalized": "gorgoroth",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 14,
+  "content": "[Riff 1]\n[C#5]\n[A]\n[C#5]\n[A]\n[C#5]\n[A]\n[C#5]\n[C#m]  [F#m]\n[C#5]\n[A]\n[C#5]\n[A]\n[C#5]\n[A]\n[C#5]\n[E5]  [D#5]  [D5]\n[C#5]\n[A]\n[C#5]\n[A]\n[C#5]\n[A]\n[C#5]\n[C#m]  [F#m]\n[C#5]There is a god in man,\n[A]\n[C#5]and in nature.\n[A]\n[C#5]He, who sits in the dark,\n[A]\n[C#5]is the bringer of light\n[E5]  [D#5]  [D5]\n\n[Riff 2]\n[C#5]\n[G5]\n\n[Riff 1]\n[C#5]\n[A]\n[C#5]\n[A]\n[C#5]\n[A]\n[C#5]\n[C#m]\n[C#5]\n[A]This beauty,\n[C#5]\nthe [A]sign of an open eye.\n[C#5]\n[A]\n[C#5]\n[E5]  [D#5]  [D5]\n\n[Riff 3]\n[D#5]\n[D#dim]\n[C#5]\n[F#5]\n[F5]\n[Edim]  [D#dim]\n\n[Riff 4]\n[C#sus2]  [C#madd9]\n[C#sus2]  [G5]\n[C#sus2]  [C#madd9]\n[C#5]  [D5]\n[C#sus2]  [C#madd9]\n[C#sus2]  [G5]\n[C#sus2]  [C#madd9]\n[C#5]  [D5]\n[C#sus2]Call him, [C#madd9]to\n[C#sus2]black flame [G5]\n[C#sus2]Call him, [C#madd9]\n[C#5]bringer of light [D5]\n[C#sus2]Call him, [C#madd9]to\n[C#sus2]black flame [G5]\n[C#sus2]Call him, [C#madd9]\n[C#5]call him, [D5]\n[C#5]call him",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "032xxx",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "322xxx",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "C#madd9": {
+      "catalog": [
+        "0240xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#sus2": {
+      "catalog": [
+        "024xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D#dim": {
+      "catalog": [
+        "2342xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Edim": {
+      "catalog": [
+        "3453xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "532xxx",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "F5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x133xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sign Of An Open Eye",
+  "id": "7a5ad19784a61e45aedd0ca52d0f340ffa9d06dba71497740420b022fe913e64",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 53,
+  "normalizedKey": "gorgoroth|sign of an open eye",
+  "playableChords": [
+    "C#5",
+    "A",
+    "C#m",
+    "F#m",
+    "E5",
+    "D#5",
+    "D5",
+    "G5",
+    "D#dim",
+    "F#5",
+    "F5",
+    "Edim",
+    "C#sus2",
+    "C#madd9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Riff 1"
+    },
+    {
+      "measure": 33,
+      "name": "Riff 2"
+    },
+    {
+      "measure": 37,
+      "name": "Riff 1"
+    },
+    {
+      "measure": 53,
+      "name": "Riff 3"
+    },
+    {
+      "measure": 63,
+      "name": "Riff 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7a5ad19784a61e45aedd0ca52d0f340ffa9d06dba71497740420b022fe913e64",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Sign Of An Open Eye",
+  "tuning": "C# F# B E G# C#",
+  "variantRole": "primary"
+}

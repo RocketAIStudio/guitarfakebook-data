@@ -1,0 +1,130 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\n[E]\n\n[Verse 1]\n[A]Wherever you go\nYou know I'll\n[D]be there\n[A]If you go far,\nYou know I'll\n[E]be there\nI'll go\n[D]anywhere,\nSo I'll\n[A]see you there\n\n[Verse 2]\n[A]You place the name\nYou know I'll\n[D]be there\n[A]You name the time\nYou know I'll\n[E]be there\nI'll go\n[D]anywhere,\nSo I'll\n[A]see you there\n[A]I [E]don't\n\n[Chorus]\n[F#m]care if you don't [E]mind\n[D]I'll [A]be\n[E]there not far [D]behind\nI [A]will\n[E]dare Keep in [D]mind\nI'll be there for\n[A]you\n[E]\n\n[Verse 2]\n[A]Where there's truth\nYou know I'll\n[D]be there\n[A]Amongst the lies\nYou know I'll\n[E]be there\nI'll go\n[D]anywhere,\nSo I'll\n[A]see you there\nI [E]don't\n\n[Chorus]\n[F#m]care if you don't [E]mind\n[D]I'll [A]be\n[E]there not far [D]behind\nI [A]will\n[E]dare Keep in [D]mind\nI'll be there for\n[A]you\nAll right\n\n[Interlude]\n[F#m]\n[E]  [A]\n[D]\n[D]  [C#5]  [A]\n[F#m]\n[E]  [A]\n[D]\n[A/D]  [D]\n[E]\n\n[Verse 3]\n[A]If you should fall\nYou know I'll\n[D]be there\n[A]To catch the call\nYou know I'll\n[E]be there\nI'll go\n[D]anywhere,\nSo I'll\n[A]see you there\nI [E]don't\n\n[Chorus]\n[F#m]care if you don't [E]mind\n[D]I'll [A]be\n[E]there not far [D]behind\nI [A]will\n[E]dare Keep in [D]mind\nI [A]don't\n[E]care\nI'll be there for\n\n[Outro]\n[A]you\nI'll [E]be there for\n[A]you\nI'll [E]be there for\n[A]you\n[E]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "577655",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A/D": {
+      "catalog": [
+        "x5765x"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "x5777x",
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "x7999x",
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Poprocks & Coke",
+  "id": "142653f37516788a23a706d1a07f92717ab0f00032a8d28dcec6458608af5135",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 201,
+  "normalizedKey": "green day|poprocks coke",
+  "playableChords": [
+    "A",
+    "E",
+    "D",
+    "F#m",
+    "C#5",
+    "A/D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Interlude"
+    },
+    {
+      "measure": 78,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 90,
+      "name": "Chorus"
+    },
+    {
+      "measure": 98,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "142653f37516788a23a706d1a07f92717ab0f00032a8d28dcec6458608af5135",
+    "version": "BCFZ"
+  },
+  "tempo": 163,
+  "title": "Poprocks & Coke",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

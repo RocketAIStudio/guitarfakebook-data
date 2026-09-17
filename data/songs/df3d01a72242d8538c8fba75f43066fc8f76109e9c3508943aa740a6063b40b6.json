@@ -1,0 +1,115 @@
+{
+  "artist": "Gary Numan",
+  "artistNormalized": "gary numan",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\n\n[Interlude]\n[E]\n[D]\n[E]\n[D]\n[E]\n[D]\n[E]\n[D]\n\n[Verse 1]\n[Am]\n[C]I don't like the film\nI don't like the film\n[Am]Play it all back\nPlay it all back\n[C]And I don't like the scenery\nAnd I don't like the set so\n[Am]Pull it all down\nPull it all down\n[C]But I like the actors\nAnd I like the... [Dm]\n\n[Interlude]\n[E]\n[D]\n[E]\n[D]\n[E]\n[D]\n[E]\n[D]\n\n[Verse 2]\n[Am]\n[C]We're so exposed\nWe're so exposed\n[Am]Anything can happen\nAnything can happen\n[C]And don't let them see\nAnd don't let them know\n[Am]And you wonder why\nAnd you wonder why\n[C]Turn off the lights\nAnd turn off the... [Dm]\n\n[Interlude]\n[E]\n[D]\n[E]\n[D]\n[E]\n[D]\n[E]\n[D]\n\n[Outro]\n[E]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Films",
+  "id": "df3d01a72242d8538c8fba75f43066fc8f76109e9c3508943aa740a6063b40b6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 99,
+  "normalizedKey": "gary numan|films",
+  "playableChords": [
+    "E",
+    "D",
+    "Am",
+    "C",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Interlude"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 70,
+      "name": "Interlude"
+    },
+    {
+      "measure": 86,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "df3d01a72242d8538c8fba75f43066fc8f76109e9c3508943aa740a6063b40b6",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Films",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

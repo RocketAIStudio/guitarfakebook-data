@@ -1,0 +1,123 @@
+{
+  "artist": "Hank Williams",
+  "artistNormalized": "hank williams",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]\n[D]  [G]  [D]\n[G6]I\n\n[Verse 1]\n[G]wandered so aimless\nlife filled with sin\n[C]I wouldn't let my dear\n[C7]saviour in [G]\nThen Jesus came like a\nstranger in the night\nPraise the Lord\n[D]I saw the [G]light.\n\n[Chorus]\n[G]I saw the light,\nI saw the light\n[C]No more darkness\n[C7]no more [G]night\nNow I'm so happy no\nsorrow in sight\nPraise the Lord\n[D]I saw the [G]light.\n\n[Intrelude]\n[D]  [G]  [D]\n[G6]\n\n[Verse 2]\n[G]Just like a blind man I\nwandered along\n[C]Worries and fears I\n[C7]claimed for my [G]own\nThen like the blind man that\nGod gave back his sight\nPraise the Lord\n[D]I saw the [G]light.\n\n[Chorus]\n[G]I saw the light,\nI saw the light\n[C]No more darkness\n[C7]no more [G]night\nNow I'm so happy no\nsorrow in sight\nPraise the Lord\n[D]I saw the [G]light.\n\n[Solo]\n[G]\n[C]\n[C7]  [G]\n[D]  [G]\n\n[Verse 3]\n[G]I was a fool to\nwander and a stray\n[C]Straight is the gate and\n[C7]narrow the [G]way\nNow I have traded the\nwrong for the right\nPraise the Lord\n[D]I saw the [G]light.\n\n[Chorus]\n[G]I saw the light,\nI saw the light\n[C]No more darkness\n[C7]no more [G]night\nNow I'm so happy no\nsorrow in sight\nPraise the Lord\n[D]I saw the [G]light.\n\n[Outro]\n[D]  [G]  [D]\n[G6]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320430"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Saw the Light",
+  "id": "494c4f02a6162f7109be7186e4c7ecd990f7b3de5a7c5802b473646220de6686",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 205,
+  "normalizedKey": "hank williams|i saw the light",
+  "playableChords": [
+    "G",
+    "D",
+    "G6",
+    "C",
+    "C7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Solo"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 72,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "494c4f02a6162f7109be7186e4c7ecd990f7b3de5a7c5802b473646220de6686",
+    "version": "BCFZ"
+  },
+  "tempo": 102,
+  "title": "I Saw the Light",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

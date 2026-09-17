@@ -1,0 +1,77 @@
+{
+  "artist": "Good Riddance",
+  "artistNormalized": "good riddance",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[B5]  [E5]\n[A5]  [E5]\n[B5]  [E5]\n[A5]  [E5]\n\n[Verse]\n[B5]I can't [E5]take just\n[A5]one more day [E5]\n[B5]To [E5]figure out why we\n[A5]act this way [E5]\n[B5]Gone on [E5]too long,\n[A5]we know it's wrong [E5]But this\n[B5]might not [E5]be—see how\n[A5]far we've [E5]gone? I'm\n\n[Chorus]\n[F#5]scared for all\nthe deadenders [E5]\n[F#5]Same satis-\nfaction [E5]\n[F#5]But now [E5]we've [F#5]grown to [E5]like\n[F#5]it [E5][E5]\n[F#5]\"What's [E5]this?\" [E5]\n\n[Outro]\n[F#5]said [A5]La-\n[B5]mar [E5]\n[A5]  [E5]\n[E5]I'm still here\n[B5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Overcoming Learned Behavior",
+  "id": "df6f0daf39bcfea0688cbc4024694e262b3d77c40b56374061a03b3ede8bac57",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 60,
+  "normalizedKey": "good riddance|overcoming learned behavior",
+  "playableChords": [
+    "B5",
+    "E5",
+    "A5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "df6f0daf39bcfea0688cbc4024694e262b3d77c40b56374061a03b3ede8bac57",
+    "version": "BCFZ"
+  },
+  "tempo": 215,
+  "title": "Overcoming Learned Behavior",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

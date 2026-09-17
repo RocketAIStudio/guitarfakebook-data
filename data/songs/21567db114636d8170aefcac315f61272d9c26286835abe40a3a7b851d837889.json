@@ -1,0 +1,97 @@
+{
+  "artist": "Gene Vincent",
+  "artistNormalized": "gene vincent",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "Well,\n\n[Chorus]\n[E]be bop a lula,\nshe's my babe.\nBe bop a lula I\ndon't mean maybe.\n[A]Be bop a lula,\nshe's my babe.\n[E]Be bop a lula I\ndon't mean maybe.\n[B7]Be bop a lula she\n[A]is my baby\n[E]love, my baby love, my baby\nlove. Well,\n\n[Verse 1]\n[E]she's the girl in the\nred blue jeans.\nShe's the queen of\nall the teens.\nShe's the one\nthat I know.\nShe's the one that\nloves me so. Say\n\n[Chorus]\n[A]be bop a lula,\nshe's my babe.\n[E]Be bop a lula I\ndon't mean mabe.\n[B7]Be bop a lula she\n[A]is my babe\n[E]love, my babe love, my babe\nlove.\n\n[Solo 1]\n[E]\n[A]\n[E]\n[B7]\n[A]\n[E]\nWell,\n\n[Verse 2]\n[E]she's the one that\ngots that beat.\nShe's the one with the\nflyin' feet.\nShe's the one that walks a-\nround the store.\nShe's the one that gets\nmore, more, more, more.\n\n[Chorus]\n[A]Be bop a lula,\nshe's my babe.\n[E]Be bop a lula I\ndon't mean mabe.\n[B7]Be bop a lula she\n[A]is my babe\n[E]love, my babe love, my babe\nlove.\n\n[Solo 2]\n[E]\n[A]\n[E]\n[B7]\n[A]\n[E]\nWell,\n\n[Verse 3]\n[E]be bop a lula,\nshe's my babe.\nBe bop a lula I\ndon't mean maybe.\n[A]Be bop a lula,\nshe's my babe.\n[E]Be bop a lula I\ndon't mean maybe.\n[B7]Be bop a lula she\n[A]is my baby\n[E]love, my baby love, my baby\nlove.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Be-Bop-A-Lula",
+  "id": "21567db114636d8170aefcac315f61272d9c26286835abe40a3a7b851d837889",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 264,
+  "normalizedKey": "gene vincent|be bop a lula",
+  "playableChords": [
+    "E",
+    "A",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Chorus"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 70,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "21567db114636d8170aefcac315f61272d9c26286835abe40a3a7b851d837889",
+    "version": "BCFZ"
+  },
+  "tempo": 124,
+  "title": "Be-Bop-A-Lula",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

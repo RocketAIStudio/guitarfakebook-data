@@ -1,0 +1,130 @@
+{
+  "artist": "Foo Fighters",
+  "artistNormalized": "foo fighters",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E5]  [C#5]\n[E5]  [C#5]\n[E5]  [C#5]\n[E5]  [C#5]\n[E5]  [C#5]\n[E5]  [C#5]\n[E5]  [C#5]\n[E5]  [C#5]\n[F#5]  [C#5]\n\n[Verse 1]\n[E5]Too [C#5]alar-\nmin' now to\n[E5]talk about [C#5]\n[E5]Take your [C#5]pic-\ntures down and\n[E5]shake it out [C#5]\n[E5]Truth or [C#5]con-\nsequence,\n[E5]say it [C#5]aloud\n[E5]Use that [C#5]e-\nvidence,\n[E5]race it [C#5]around\n\n[Chorus]\n[A5]There\ngoes my he-\nro\nWatch him as he goes\n[E5]\n[B5]\n[A5]There\ngoes my he\nro He's\nordinary\n[E5]\n[B5]\n\n[Interlude]\n[F#5]  [A5]\n\n[Verse 2]\n[E5]Don't the [C#5]best\nof them bleed\n[E5]it out [C#5]\n[E5]While the [C#5]rest\nof them pe-\n[E5]ter out? [C#5]\n[E5]Truth or [C#5]con-\nsequence,\n[E5]say it [C#5]aloud\n[E5]Use that [C#5]e-\nvidence,\n[E5]race it [C#5]around\n\n[Chorus]\n[A5]There\ngoes my he-\nro\nWatch him as he goes\n[E5]\n[B5]\n[A5]There\ngoes my he\nro He's\nordinary\n[E5]\n[B5]\n\n[Interlude]\n[F#5]  [A5]\n[E]\n[C#m]\n[E]\n[C#m]\n[E5]\n\n[Bridge]\n[E5]Kudos, my [C#5]he-\nro,\n[E5]leavin' all the [C#5]best\n[E5]You know my [C#5]he-\nro,\n[E5]the one that's on [C#5]\n\n[Chorus]\n[A5]There\ngoes my he-\nro\nWatch him as he goes\n[E5]\n[B5]\n[A5]There\ngoes my he\nro He's\nordinary\n[E5]\n[B5]\n[A5]There\ngoes my he-\nro\nWatch him as he goes\n[E5]\n[B5]\n[A5]There\ngoes my he\nro He's\nordinary\n[E5]\n[B5]\n\n[Outro]\n[F#5]  [A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx",
+        "x022xx"
+      ],
+      "catalogCount": 2
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "x4665x",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "0221xx",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "My Hero *alt",
+  "id": "e425d4bfb5f4fa240ac20e32f2b5eda9d458d5c39e5f0cd2b1a18218b78068aa",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 179,
+  "normalizedKey": "foo fighters|my hero",
+  "playableChords": [
+    "E5",
+    "C#5",
+    "F#5",
+    "A5",
+    "B5",
+    "E",
+    "C#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Interlude"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 75,
+      "name": "Chorus"
+    },
+    {
+      "measure": 91,
+      "name": "Interlude"
+    },
+    {
+      "measure": 109,
+      "name": "Bridge"
+    },
+    {
+      "measure": 117,
+      "name": "Chorus"
+    },
+    {
+      "measure": 149,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e425d4bfb5f4fa240ac20e32f2b5eda9d458d5c39e5f0cd2b1a18218b78068aa",
+    "version": "BCFZ"
+  },
+  "tempo": 154,
+  "title": "My Hero",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

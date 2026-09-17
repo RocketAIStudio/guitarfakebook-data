@@ -1,0 +1,126 @@
+{
+  "artist": "Fountains of Wayne",
+  "artistNormalized": "fountains of wayne",
+  "capo": "3",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am]\n[C]\n[Fmaj7/C]\n[C]\n\n[Verse 1]\n[Am]I used to know you when\n[C]we were young\n[Fmaj7/C]You were in all my dreams\n[C]  [E]\n[Am]We sat together in\n[C]Period One\n[Fmaj7/C]Fridays at eight fifteen\n[C][E]Now\n[Am]I see your face in the\n[C]strangest places\n[Fmaj7/C]Movies and magazines\n[C]  [E]\n[Am]I saw you talking to\n[C]Christopher Walken\n[Fmaj7/C]On my T V screen\n[C]But\n\n[Chorus]\n[Fmaj7/C]I will wait for you\n[C]As\n[Fmaj7/C]long as I need to\n[Em][G6]And if you\n[Am]ever get back to\n[C]Hackensack\n[Fmaj7/C]I'll be here for you\n[C]\n\n[Bridge]\n[Am]\n[C]\n[Fmaj7/C]\n[C]\n\n[Verse 2]\n[Am]I used to work in a\n[C]record store\n[Fmaj7/C]Now I work for my dad\n[C]  [E]\n[Am]Scraping the paint off the\n[C]hardwood floors The\n[Fmaj7/C]hours are pretty bad\n[C]  [E]\n[Am]Sometimes I wonder\n[C]where you are\n[Fmaj7/C]Probably in L. A\n[C]  [E]\n[Am]That seems to be where\n[C]Everybody else\n[Fmaj7/C]ends up these days\n[C]But\n\n[Chorus]\n[Fmaj7/C]I will wait for you\n[C]As\n[Fmaj7/C]long as I need to\n[Em][G6]And if you\n[Am]ever get back to\n[C]Hackensack\n[Fmaj7/C]I'll be here for you\n[C]\n\n[Interlude]\n[Fmaj7/C]\n[C]\n[E]\n[Fmaj7/C]\n[C]\n[E]\n[Fmaj7/C]\n[C]\n[G6]\n[E]And\n\n[Chorus]\n[Fmaj7/C]I will wait for you\n[C]As\n[Fmaj7/C]long as I need to\n[Em][G6]And if you\n[Am]ever get back to\n[C]Hackensack\n[Fmaj7/C]I'll be here for you\n[C]If you\n[Am]ever get back to\n[C]Hackensack\n[Fmaj7/C]I'll be here for you\n[C]\n\n[Outro]\n[Am]\n[C]\n[Fmaj7/C]\n[C]Oh",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7/C": {
+      "catalog": [
+        "x33210"
+      ],
+      "catalogCount": 1
+    },
+    "G6": {
+      "catalog": [
+        "320000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hackensack",
+  "id": "a9e3e19c2bd7e9c6afaad53464c997d9dabde666ac76d9c46de8e5cdae9aba2e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 223,
+  "normalizedKey": "fountains of wayne|hackensack",
+  "playableChords": [
+    "Am",
+    "C",
+    "Fmaj7/C",
+    "E",
+    "Em",
+    "G6"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Interlude"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a9e3e19c2bd7e9c6afaad53464c997d9dabde666ac76d9c46de8e5cdae9aba2e",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Hackensack",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

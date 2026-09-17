@@ -1,0 +1,130 @@
+{
+  "artist": "Foo Fighters",
+  "artistNormalized": "foo fighters",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D7M]\n[Bsus2]\n[Gsus2]\n[Bsus2]\n[D7M]\n[Bsus2]\n[Gsus2]\n[Bsus2]\n[D7M]\n[Bsus2]\n[Gsus2]\n[Bsus2]\n\n[Verse 1]\n[D7M]Hello,\nI've\n[Bsus2]waited here for you\n[Gsus2]ever-\n[Bsus2]long.\n[D7M]Tonight\nI've\n[Bsus2]thrown myself into,\n[Gsus2]And out of the red,\n[Bsus2]Out of her head\nshe sang.\n\n[Interlude]\n[D7M]\n[Bsus2]\n[Gsus2]\n[Bsus2]\n\n[Verse 2]\n[D7M]Come down\nand\n[Bsus2]waste away with me,\n[Gsus2]Down with\n[Bsus2]me.\n[D7M]Slow, how\nyou\n[Bsus2]wanted it to be.\n[Gsus2]I'm over my head,\n[Bsus2]Out of her head\nshe sang.\n\n[Pre-Chorus]\n[D7M]\n[A5]\nAnd I\n[D7M]wonder,\n[A5]\nWhen I sing along\n[D7M]with you,\n[B5]\n\n[Chorus]\nIf everything could [G5]ever\nfeel this real [D5]fore-\nver,\n[B5]\nIf anything could [G5]ever\nbe this good a-\n[D5]gain.\n[B5]\nThe only thing I'll [G5]ever\nask of you, [D5]\nYou've got to promise not [A5]to\nstop when I say\n[G5]when,\nShe sang.\n\n[Interlude]\n[D7M]\n[Bsus2]\n[Gsus2]\n[Bsus2]\n\n[Verse 3]\n[D7M]Breathe out\nso\n[Bsus2]I can breathe you in,\n[Gsus2]Hold you\n[Bsus2]in.\n[D7M]And now\nI\n[Bsus2]know you've always been\n[Gsus2]Out of your head,\n[Bsus2]out of my head\nI sang.\n\n[Pre-Chorus]\n[D7M]\n[A5]\nAnd I\n[D7M]wonder,\n[A5]\nWhen I sing along\n[D7M]with you,\n[B5]\n\n[Chorus]\nIf everything could [G5]ever\nfeel this real [D5]fore-\nver,\n[B5]\nIf anything could [G5]ever\nbe this good a-\n[D5]gain.\n[B5]\nThe only thing I'll [G5]ever\nask of you, [D5]\nYou've got to promise not [A5]to\nstop when I say\n[G5]when,\nShe sang.\n\n[Break]\n[D7M]\n[Bsus2]\n[Gsus2]\n[Bsus2]\n[D7M]\n[Bsus2]\n[Gsus2]\n[Bsus2]\n[D7M]\nAnd I\nwonder,\n[B5]\n\n[Chorus]\nIf everything could [G5]ever\nfeel this real [D5]fore-\nver,\n[B5]\nIf anything could [G5]ever\nbe this good a-\n[D5]gain.\n[B5]\nThe only thing I'll [G5]ever\nask of you, [D5]\nYou've got to promise not [A5]to\nstop when I say\n[G5]when.\n[G5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "999xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bsus2": {
+      "catalog": [
+        "9-9-11-11-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D7M": {
+      "catalog": [
+        "8-9-11-11-x-x",
+        "3446xx"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gsus2": {
+      "catalog": [
+        "5577xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Everlong *alt 2",
+  "id": "c5e48a0d3bf94a5e1c627cdabd46ecd6ca71c732b10543e98f6666280fb0fb6d",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 271,
+  "normalizedKey": "foo fighters|everlong",
+  "playableChords": [
+    "D7M",
+    "Bsus2",
+    "Gsus2",
+    "A5",
+    "B5",
+    "G5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 36,
+      "name": "Interlude"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Interlude"
+    },
+    {
+      "measure": 86,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 100,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 108,
+      "name": "Chorus"
+    },
+    {
+      "measure": 122,
+      "name": "Break"
+    },
+    {
+      "measure": 142,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c5e48a0d3bf94a5e1c627cdabd46ecd6ca71c732b10543e98f6666280fb0fb6d",
+    "version": "BCFZ"
+  },
+  "tempo": 158,
+  "title": "Everlong",
+  "tuning": "D A D G B E",
+  "variantRole": "alt"
+}

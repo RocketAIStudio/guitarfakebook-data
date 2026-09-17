@@ -1,0 +1,99 @@
+{
+  "artist": "H2O",
+  "artistNormalized": "h2o",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D5]  [C5]\n[B5]\n[B5]  [D5]  [C5]  [B5]\n\n[Verse 1]\n[G5]Where were you\n[G5]You weren't here [D5][C5][B5]\n[G5]I screamed and shouted But you\n[G5]disappeared [D5][C5][B5]\n[G5]Where is the shoulder that\n[G5]made me cry [D5][C5][B5]\n[G5]You went away but I\ndon't know why\n\n[Chorus]\n[D5]Where,\n[D5]\n[A5]were\n[C5]you? [D5]When [C5]I [B5]\n\n[Verse 2]\n[G5]needed somebody to\n[G5]trust [D5]When [C5]I [B5]\n[G5]needed somebody to stand\n[G5]by [D5]I [B5][C5]never\n[G5]wanted all that\n[G5]much [D5]Why [C5]did [B5]you\n[G5]leave? Why did you\nlie?\n\n[Chorus]\n[D5]Where\n[D5]\n[A5]were\n[C5]you? [D5]I [C5]used [B5]to\n\n[Verse 3]\n[G5]love you But I want to pre-\n[G5]tend [D5]Your [B5][C5]fucking\n[G5]game I won't play a-\n\n[Bridge]\n[G5]gain\n[D5]Where\nwere\nyou?\n[C5]\n[D5]When [C5]I [B5]\n\n[Verse 4]\n[G5]needed somebody to\nhold [D5]When [C5]I [B5]\n[G5]needed somebody to\nlove",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Gen-Eric",
+  "id": "6dcfc9df260c8575e5b32d17ec390790d3ee98430134c93d8b11eb0644d7c955",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 113,
+  "normalizedKey": "h2o|gen eric",
+  "playableChords": [
+    "D5",
+    "C5",
+    "B5",
+    "G5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Chorus"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 31,
+      "name": "Bridge"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6dcfc9df260c8575e5b32d17ec390790d3ee98430134c93d8b11eb0644d7c955",
+    "version": "BCFZ"
+  },
+  "tempo": 198,
+  "title": "Gen-Eric",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

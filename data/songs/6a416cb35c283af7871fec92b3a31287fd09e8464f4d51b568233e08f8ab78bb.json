@@ -1,0 +1,108 @@
+{
+  "artist": "Foo Fighters",
+  "artistNormalized": "foo fighters",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[B5]\n[E5]\n[B5]\n[E5]\n\n[Verse 1]\n[B5]What have we do-\nne with innocen-\n[E5]ce?\n[B5]It disappear-\ned with time, it\n[E5]never made much se-\nnse\n[B5]Adoles-\ncent reside-\n[E5]ent\n[B5]Wasting ano-\nther night on\n[E5]planning my reven-\nge\n\n[Bridge]\n[E5]One in te-\nen\nOne in te-\nen\nOne in te-\nen\n\n[Chorus]\n[B5]Don't wanna be-\n[G#5]e your monkey wre-\n[E5]ench\n[B5]One more inde-\n[G#5]cent accidee-\n[E5]ent\n[B5]I'd rather lea-\n[G#5]ve than suffer thi-\n[E5]is\n[B5]I'll never be-\n[G#5]e your monkey wre-\n[E5]ench\n[B5]\n[E5]\n[B5]\n[E5]\n\n[Verse 2]\n[B5]All this ti-\nme to make ame-\n[E5]ends\n[B5]What do you do-\no when all your\n[E5]enemies are fri-\nends?\n[B5]Now and the-\nen I'll try to be-\n[E5]end\n[B5]Under pressu-\nre, wind up snap-\n[E5]ping in the ee-\nend\n\n[Bridge]\n[E5]One in te-\nen\nOne in te-\nen\nOne in te-\nen\n\n[Chorus]\n[B5]Don't wanna be-\n[G#5]e your monkey wre-\n[E5]ench\n[B5]One more inde-\n[G#5]cent accidee-\n[E5]ent\nI'd rather lea-\nve than suffer thi-\nis\nI'll never be-\ne your monkey wre-\nench\n\n[Bridge 2]\n[G#5]\n[G5]Te-\n[E5]em-\nper\n[G#5]\n[G5]Te-\n[E5]em-\nper\n[G#5]\n[G5]Te-\n[E5]em-\nper\n[G#5]\n[G5]\n[E5]\n\n[Verse 3]\n[B5]One last thing be-\nfore I quit! I\n[E5]never wanted\nany more than I\n[B5]could fit into\nmy head! I still\n[E5]remember e-\nvery single word\n[B5]you said, And all\nthe shit that some-\n[E5]how came along\nwith it! Still, there's\n[B5]one thing that com-\nforts me Since I\n[E5]was always caged\nand now I'm fre-\n\n[Bridge]\n[E5]\ne\n\n[Chorus]\n[B5]Don't wanna be-\n[G#5]e your monkey wre-\n[E5]ench\n[B5]One more inde-\n[G#5]cent accidee-\n[E5]ent\n[B5]I'd rather lea-\n[G#5]ve than suffer thi-\n[E5]is\n[B5]I'll never be-\n[G#5]e your monkey wre-\n[E5]ench\n\n[Outro]\n[B5]Don't wanna be-\ne your monkey wre-\n[E5]ench\n[B5]Don't wanna be-\ne your monkey wre-\n[E5]ench\n[B5]Don't wanna be-\ne your monkey wre-\n[E5]ench\n[B5]Don't wanna be-\ne your monkey wre-\n[E5]ench",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "666xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Monkey Wrench *alt",
+  "id": "6a416cb35c283af7871fec92b3a31287fd09e8464f4d51b568233e08f8ab78bb",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 349,
+  "normalizedKey": "foo fighters|monkey wrench",
+  "playableChords": [
+    "B5",
+    "E5",
+    "G#5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge"
+    },
+    {
+      "measure": 79,
+      "name": "Chorus"
+    },
+    {
+      "measure": 95,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 113,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 129,
+      "name": "Bridge"
+    },
+    {
+      "measure": 135,
+      "name": "Chorus"
+    },
+    {
+      "measure": 151,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6a416cb35c283af7871fec92b3a31287fd09e8464f4d51b568233e08f8ab78bb",
+    "version": "BCFZ"
+  },
+  "tempo": 178,
+  "title": "Monkey Wrench",
+  "tuning": "D A D G B E",
+  "variantRole": "alt"
+}

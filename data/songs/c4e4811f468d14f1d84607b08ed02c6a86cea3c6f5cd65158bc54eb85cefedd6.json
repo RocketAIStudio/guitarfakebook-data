@@ -1,0 +1,104 @@
+{
+  "artist": "Gallows",
+  "artistNormalized": "gallows",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\nIf it\n\n[Verse]\n[Bb5]looks like a\nsnake\n[Ab5][G5][F5]When [E5]it\n[Bb5]moves like a\nsnake\n[Ab5][G5][F5]If [E5]it\n[Bb5]lies like a\nsnake\n[Ab5][G5][F5]Then [E5]\n[Bb5]all the\nworld knows\nit's a\n[Ab5]snake. [G5][F5][E5]\n\n[Chorus]\nTrue [Db5][C5]\ncolors, [Db5][C5]\nshining [Db5][C5]\nthrough Your\n[Db5]true [C5]\ncolours, [Db5][C5]\nshining [Db5][C5]\nthrough\nTrue [Db5][C5]\ncolours, [Db5][C5]\nshining [Db5][C5]\nthrough Your\n[Db5]true [C5]\ncolours, [Db5][C5]\nshining [Db5][C5]\nthrough Like the\n\n[Outro]\n[Eb5]four of ju-\nly,\nLike the\nfour of ju-\nly,\nLike the\nfour of ju-\nly,\nLike the\nfour of\njuly,",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "666xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bb5": {
+      "catalog": [
+        "x133xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "Db5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "111xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "True Colours",
+  "id": "c4e4811f468d14f1d84607b08ed02c6a86cea3c6f5cd65158bc54eb85cefedd6",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 77,
+  "normalizedKey": "gallows|true colours",
+  "playableChords": [
+    "Bb5",
+    "Ab5",
+    "G5",
+    "F5",
+    "E5",
+    "Db5",
+    "C5",
+    "Eb5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c4e4811f468d14f1d84607b08ed02c6a86cea3c6f5cd65158bc54eb85cefedd6",
+    "version": "BCFZ"
+  },
+  "tempo": 302,
+  "title": "True Colours",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

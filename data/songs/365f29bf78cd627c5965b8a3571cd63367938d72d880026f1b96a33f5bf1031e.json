@@ -1,0 +1,143 @@
+{
+  "artist": "Frank Sinatra",
+  "artistNormalized": "frank sinatra",
+  "capo": "No capo",
+  "chordPositionCount": 41,
+  "chordSymbolCount": 9,
+  "content": "[Verse 1]\n[Am]Fly me [A7]to the mo-\n[Dm]on Let me pla-\n[G7]y among the star-\n[C]s\n[F]Let me see what\n[Bm7b5]spring is like On\n[E7]Jupiter and Mar-\n[Am]s In\n[Dm]other word-\n[G7]s, hold m-\n[C]y hand\n[Em][A7]In\n[Dm]other words,\nba\n[C]by, kiss m-\n[Bm7b5]e [E7]\n\n[Verse 2]\n[Am]Fill my [A7]heart with son-\n[Dm]g And let me sin-\n[G7]g for ever mo-\n[C]re\n[F]You are all I\n[Bm7b5]long for All I\n[E7]worship and adore\n[Am]In\n[Dm]other words,\n[G7]please be\n[C]true\n[Em][A7]In\n[Dm]other words,\nI\n[C]love you\n[Bm7b5]  [E7]\n\n[Bridge]\n[Am]  [A7]\n[Dm]\n[G7]\n[C]\n[F]\n[Bm7b5]\n[E7]\n[Am]\n[Dm]\n[G7]\n[C]\n[Em]  [A7]\n[Dm]\n[C]\n[E7]\n\n[Verse 3]\n[Am]Fill my [A7]heart with son-\n[Dm]g Let me sing\n[G7]for ever mo-\n[C]re\n[F]You are all I\n[Bm7b5]long for All I\n[E7]worship and adore\n[Am]In\n[Dm]other words,\n[G7]be true\n[C]\n[Am]In\n[Dm]other wor-\n[G7]ds, In\n[F]other words,\n[A7]\n[G7]I\nlove\n[C]you",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7b5": {
+      "catalog": [
+        "x2323x"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Fly Me To The Moon",
+  "id": "365f29bf78cd627c5965b8a3571cd63367938d72d880026f1b96a33f5bf1031e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 135,
+  "normalizedKey": "frank sinatra|fly me to the moon",
+  "playableChords": [
+    "Am",
+    "A7",
+    "Dm",
+    "G7",
+    "C",
+    "F",
+    "Bm7b5",
+    "E7",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "365f29bf78cd627c5965b8a3571cd63367938d72d880026f1b96a33f5bf1031e",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Fly Me To The Moon",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

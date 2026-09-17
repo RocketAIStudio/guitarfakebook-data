@@ -1,0 +1,74 @@
+{
+  "artist": "Foals",
+  "artistNormalized": "foals",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n[Bm7]  [Dmaj7]\n[Bm7]  [Dmaj7]\n[Bm7]  [Dmaj7]\n[Bm7]  [Dmaj7]\n[Bm7]  [Dmaj7]\n[Bm7]  [Dmaj7]\n[Bm7]  [Dmaj7]\n[Bm7]  [Dmaj7]\n[Bm7]  [Dmaj7]\n[Bm7]  [Dmaj7]\n[Bm7]  [Dmaj7]\n\n[Verse 1]\n[Bm7]I walked [Dmaj7]into the\n[Bm7]desert [Dmaj7]\n[Bm7]I walked out [Dmaj7]of the past\n[Bm7]  [Dmaj7]\n[Bm7]You were [Dmaj7]riding on black\n[Bm7]horse [Dmaj7]\n[Bm7]To sing the songs [Dmaj7]at the\n[Bm7]table, again [Dmaj7]\n\n[Verse 2]\n[Bm7]I walked [Dmaj7]into the\n[Bm7]desert [Dmaj7]\n[Bm7]I walked [Dmaj7]into the dawn\n[Bm7]  [Dmaj7]\n[Bm7]You came to [Dmaj7]me on black horse\n[Bm7]  [Dmaj7]\n[Bm7]To remind all [Dmaj7]I've said and done\n[Bm7]  [Dmaj7]\n\n[Verse 3]\n[Bm7]Be [Dmaj7]lightweight when I roam\n[Bm7]  [Dmaj7]\n[Bm7]Be [Dmaj7]lightweight when I go\n[Bm7]  [Dmaj7]\n[Bm7]Be [Dmaj7]lightweight when I roam\n[Bm7]  [Dmaj7]\n[Bm7]Be [Dmaj7]lightweight when I go\n[Bm7]  [Dmaj7]\n\n[Outro]\n[Bm7][Dmaj7]Roam\n[Bm7]  [Dmaj7]\n[Bm7][Dmaj7]Roam\n[Bm7]  [Dmaj7]\n[Bm7]  [Dmaj7]\n[Bm7]  [Dmaj7]\n[Bm7]  [Dmaj7]\n[Bm7]",
+  "diagrams": {
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Dmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9",
+        "10-12-11-11-10-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Moonlight",
+  "id": "74124c7d59c76ad677b96e1e7fb856a4ee24a3d6c184aa5156e7a8a733547959",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 84,
+  "normalizedKey": "foals|moonlight",
+  "playableChords": [
+    "Bm7",
+    "Dmaj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 36,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "74124c7d59c76ad677b96e1e7fb856a4ee24a3d6c184aa5156e7a8a733547959",
+    "version": "BCFZ"
+  },
+  "tempo": 62,
+  "title": "Moonlight",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

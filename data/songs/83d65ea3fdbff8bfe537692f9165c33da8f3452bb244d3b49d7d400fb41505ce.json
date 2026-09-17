@@ -1,0 +1,76 @@
+{
+  "artist": "Groovie Ghoulies",
+  "artistNormalized": "groovie ghoulies",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[A5]I need you like\nthe flowers need the rain\n[G5]I need you like\n[D5/A]zombies need brains\n[A5]I need you like a\nwitch needs a hat\n[G5]I need you like\n[D5/A]black needs a cat I need\n\n[Chorus]\n[C5/G]you\nAnd that's\n[A5]that\nI need\n[C5/G]you\nAnd that's\n[A5]that\n\n[Verse 2]\n[A5]I need you like\nthe flowers need the rain\n[G5]I need you like\n[D5/A]zombies need brains\n[A5]I need you like a\nwitch needs a hat\n[G5]I need you like\n[D5/A]black needs a cat I need\n\n[Chorus]\n[C5/G]you\nAnd that's\n[A5]that\nI need\n[C5/G]you\nAnd that's\n[A5]that",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5/G": {
+      "catalog": [
+        "335xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5/A": {
+      "catalog": [
+        "557xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "That's That",
+  "id": "83d65ea3fdbff8bfe537692f9165c33da8f3452bb244d3b49d7d400fb41505ce",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 92,
+  "normalizedKey": "groovie ghoulies|that s that",
+  "playableChords": [
+    "A5",
+    "G5",
+    "D5/A",
+    "C5/G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "83d65ea3fdbff8bfe537692f9165c33da8f3452bb244d3b49d7d400fb41505ce",
+    "version": "BCFZ"
+  },
+  "tempo": 224,
+  "title": "That's That",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

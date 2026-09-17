@@ -1,0 +1,115 @@
+{
+  "artist": "George Ezra",
+  "artistNormalized": "george ezra",
+  "capo": "3",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]  [Fmaj7/C]\n[C]  [Fmaj7/C]\n[C]  [Fmaj7/C]\n[C][Fmaj7/C]The\n\n[Verse 1]\n[C]garden was blessed by the\nGods of me and you\nWe headed West for to\nfind ourselves some truth, oh\n[Am]What you're waiting\n[Fmaj7/C]for? What you're waiting for?\n[C]  [Fmaj7/C]\n[C][Fmaj7/C]We\n[C]counted all our reasons, ex-\ncuses that we made We\nfound ourselves some treasure, and\nthrew it all away [G6/B]\n[Am]What you're waiting\n[Fmaj7/C]for? What you're waiting\n[C]for?\n[Am]What you're waiting\n[Fmaj7/C]for? What you're waiting\n[G]for?\nWhen I dance a-\n\n[Chorus]\n[Fmaj7/C]lone, and the Suns's bleeding\n[C]down Blame it on\n[G]me\nWhen I lose con-\n[Fmaj7/C]trol and the veil's overused\n[C]Blame it on\n[G]me\n\n[Bridge]\n[Am]What you're waiting\n[Fmaj7/C]for? What you're waiting\n[C]for? [Fmaj7/C]\n[C][Fmaj7/C]Caught\n\n[Verse 2]\n[C]in the tide of blossom, caught\nin the carnival Your\nconfidence forgotten, I\nsee the gypsies run [G6/B]\n[Am]What you're waiting\n[Fmaj7/C]for? What you're waiting\n[C]for?\n[Am]What you're waiting\n[Fmaj7/C]for? What you're waiting\n[G]for?\nWhen I dance a-\n\n[Chorus]\n[Fmaj7/C]lone, and the Suns's bleeding\n[C]down Blame it on\n[G]me\nWhen I lose con-\n[Fmaj7/C]trol and the veil's overused\n[C]Blame it on\n[G]me\n\n[Bridge]\n[Am]What you're waiting\n[Fmaj7/C]for? What you're waiting\n[C]for?\n[Am]What you're waiting\n[Fmaj7/C]for? What you're waiting\n[G]for?\nWhen I dance a-\n\n[Chorus]\n[Fmaj7/C]lone, and the Suns's bleeding\n[C]down Blame it on\n[G]me\nWhen I lose con-\n[Fmaj7/C]trol and the veil's overused\n[C]Blame it on\n[G]me\nWhen I dance a-\n[Fmaj7/C]lone, I know I'll\n[C]go Blame it on me\n[G]oh\nWhen I'll lose cont-\n[Fmaj7/C]rol, I know I'll\n[C]go Blame it on me\n[G]\noh\n\n[Outro]\n[Am]What you're waiting\n[Fmaj7/C]for? What you're waiting\n[C]for?\n[Am]What you're waiting\n[Fmaj7/C]for? What you're waiting\n[G]for?",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7/C": {
+      "catalog": [
+        "x33210"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G6/B": {
+      "catalog": [
+        "x20000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Blame It On Me",
+  "id": "4eed8dba82751ca055c26e6d2d698f1f5b8d2aeb2380e92af8c6458ed885dc00",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 294,
+  "normalizedKey": "george ezra|blame it on me",
+  "playableChords": [
+    "C",
+    "Fmaj7/C",
+    "Am",
+    "G6/B",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Bridge"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Bridge"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 78,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4eed8dba82751ca055c26e6d2d698f1f5b8d2aeb2380e92af8c6458ed885dc00",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "Blame It On Me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,146 @@
+{
+  "artist": "Fionn Regan",
+  "artistNormalized": "fionn regan",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\n[Bm]\n[Am]\n[D7]\n[G]\n[Bm]\n[Am]\n[D7]\n\n[Verse 1]\n[G]If you happen to read\n[Bm]this,\n[Am]Rose was\n[D7]born\n[G]Child act-\n[Bm]ress,\n[Am]on the fifth day of the\n[D7]snow\n\n[Chorus]\n[Am]Be [Cadd9/B]good or be go-\n[C]ne [Cadd9/B]\n[Am]Be [Cadd9/B]good or\n[C]be, be\n\n[Post-Chorus]\n[G]gone\n\n[Verse 2]\n[G]The range is staggeri-\n[Bm]ng,\n[Am]movement a-\n[D7]nd timing\n[G]Frame by fra-\n[Bm]me\n[Am]it did u-\n[D7]nfold\n\n[Chorus]\n[Am]Be [Cadd9/B]good or be go-\n[C]ne [Cadd9/B]\n[Am]Be [Cadd9/B]good or\n[C]be, be\n\n[Post-Chorus]\n[G]gone\n\n[Verse 3]\n[G]I'll read to you o-\n[Bm]n Saturdays,\n[Am]museum has clo-\n[D7]sed down\n[G]Sell all you-\n[Bm]r things\n[Am]at the end of the\n[D7]drive\n\n[Chorus]\n[Am]Be [Cadd9/B]good or be go-\n[C]ne [Cadd9/B]\n[Am]Be [Cadd9/B]good or\n[C]be, be\n\n[Post-Chorus]\n[G]gone\n\n[Verse 4]\n[G]I have be-\n[Bm]come\n[Am]an aeria-\n[D7]l view\n[G]Of a coastal\n[Bm]town\n[Am]that you once kne-\n[D7]w\n\n[Chorus]\n[Am]Be [Cadd9/B]good or be go-\n[C]ne [Cadd9/B]\n[Am]Be [Cadd9/B]good or\n[C]be, be\n\n[Outro]\n[G]gone",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9/B": {
+      "catalog": [
+        "x20010"
+      ],
+      "catalogCount": 1
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Be Good Or Be Gone",
+  "id": "b8d853da9ae8174de9f07857c652a6dfbdd3b76a534e6b20247b2c8373ed8cf0",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 140,
+  "normalizedKey": "fionn regan|be good or be gone",
+  "playableChords": [
+    "G",
+    "Bm",
+    "Am",
+    "D7",
+    "Cadd9/B",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b8d853da9ae8174de9f07857c652a6dfbdd3b76a534e6b20247b2c8373ed8cf0",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Be Good Or Be Gone",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

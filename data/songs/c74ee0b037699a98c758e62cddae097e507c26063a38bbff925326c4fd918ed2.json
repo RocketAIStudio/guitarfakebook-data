@@ -1,0 +1,115 @@
+{
+  "artist": "George Ezra",
+  "artistNormalized": "george ezra",
+  "capo": "5",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]Come home in the\nmorning light My mot-\n[Am]her says when you gonna\nstart living right\n[F]Oh mother dear we're not the\nfortunate ones And\n[Am]girls just [G]wanna have\n[F]fun Oh\n[Am]girls just [G]wanna have\n\n[Bridge]\n[C]\n[Am]\n[F]  [G]\n[C]\n\n[Verse 1]\n[C]The phone rings in the\nmiddle of the night My dad-\n[Am]dy yells what you gonna\ndo with your life\n[F]Oh daddy dear you know you're\nstill number one And\n[Am]girls just [G]wanna have\n[F]fun Oh\n[Am]girls just [G]wanna have\n\n[Verse 2]\n[C]That's what they really want\n[Am]To have fun, oh\n[F]When the working day is\ndone These\n[Am]girls just [G]want to have\n[F]fun Oh\n[Am]girls just [G]want to have\n\n[Chorus]\n[C]Just wanna Just,\njust wanna\n[Am]Just wanna Just,\njust [F]wanna [G]\n[C]Just wanna Just,\njust wanna\n[Am]Just wanna Just,\njust [F]wanna [G]have\n\n[Bridge]\n[C]\n[Am]\n[F]  [G]\n[C]\n[Am]\n[F]  [G]\n\n[Interlude]\n[C]Some boys will find themselves a\nbeautiful girl And then hide\nthem away from the\nrest of the world\n[C]I wanna be the one to\ndance in the sun And\n[Am]girls just [G]wanna have\n[F]fun Oh,\n[Am]Ezra [G]wants to have\n\n[Chorus]\n[C]Just wanna Just,\njust wanna\n[Am]Just wanna Just,\njust [F]wanna [G]\n[C]Just wanna Just,\njust wanna\n[Am]Just wanna Just,\njust [F]wanna [G]have\n[C]Just wanna Just,\njust wanna\n[Am]Just wanna Just,\njust [F]wanna [G]\n[C]Just wanna Just,\njust wanna\n[Am]Just wanna Just,\njust [F]wanna [G]have\n[C6]fun",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C6": {
+      "catalog": [
+        "x35555"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Girls Just Wanna Have Fun",
+  "id": "c74ee0b037699a98c758e62cddae097e507c26063a38bbff925326c4fd918ed2",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 254,
+  "normalizedKey": "george ezra|girls just wanna have fun",
+  "playableChords": [
+    "C",
+    "Am",
+    "F",
+    "G",
+    "C6"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Bridge"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    },
+    {
+      "measure": 50,
+      "name": "Interlude"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c74ee0b037699a98c758e62cddae097e507c26063a38bbff925326c4fd918ed2",
+    "version": "BCFZ"
+  },
+  "tempo": 87,
+  "title": "Girls Just Wanna Have Fun",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

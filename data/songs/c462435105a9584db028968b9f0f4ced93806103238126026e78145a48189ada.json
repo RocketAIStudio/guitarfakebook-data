@@ -1,0 +1,134 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[F]\n\n[Intro]\n[G]\n[F]\n[G]\n[F]\n\n[Verse 1]\n[G]Hey can you\nhear me? I'm\ncalling your\nname, hel-\n[F]lo?\nIs this good-\n[G]bye?\nThe\ngleam in your\neyes, It\ntroubles my\nbrain. Will\n[F]I\nsee it a-\n[G]gain?\nSo\n\n[Chorus]\n[Bb]I can\n[Am]rest [F]my\n[G]head.\n[F]\n\n[Bridge]\n[G]\n\n[Verse 2]\n[G]Angel!\nDancing a-\nway, As\n[F]all of my\nthoughts get\n[G]rearranged.\n[G]Angel!\nTurning a-\nway,\n[F]Just when\nthings\n[G]seem to have\nchanged. So\n\n[Chorus]\n[Bb]I can\n[Am]rest [F]my\n[G]head.\n\n[Interlude]\n[Bb]\n[Am]\n[Bb]\n[Am]\n[Bb]\n[C]\n[D]\n[F]\n\n[Verse 3]\n[G]Hey can you\nhear me? I'm\ncalling your\nname, hel-\n[F]lo?\nIs this good-\n[G]bye?\nThe gleam\nin your eyes,\nIt\ntroubles my\nbrain. Will\n[F]I\nsee it a-\n[G]gain?\nSo\n\n[Outro]\n[Bb]I can\n[Am]rest [F]my\n[G]head.\nSo\n[Bb]I can\n[Am]rest [F]my\n[G]head.",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rest",
+  "id": "c462435105a9584db028968b9f0f4ced93806103238126026e78145a48189ada",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 116,
+  "normalizedKey": "green day|rest",
+  "playableChords": [
+    "F",
+    "G",
+    "Bb",
+    "Am",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Bridge"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Interlude"
+    },
+    {
+      "measure": 68,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 84,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c462435105a9584db028968b9f0f4ced93806103238126026e78145a48189ada",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "Rest",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

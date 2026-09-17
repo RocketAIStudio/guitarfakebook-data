@@ -1,0 +1,77 @@
+{
+  "artist": "Fear Factory",
+  "artistNormalized": "fear factory",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Am]\n[G]\n[F]\n\n[Verse]\n[Am]I’ve felt\n[G]dark-\n[F]ness\n[Am]Closing\n[G]in on\n[F]me\n[Am]Chilling\n[G]sha-\n[F]dows\n[Am]Sur-\n[G]rounding\n[F]me\n[Am]I've had the\n[G]poison Leak\n[F]into my\nskin And it\n[Am]corroded\n[G]My heart a-\n[F]way\n[Am]Bled\n[G]a-\n[F]way\n[Am]Cut\n[G]a-\n[F]way\n\n[Outro]\n[Am]Dark\n[G]night of my\n[F]soul\n[Am]Dark\n[G]night of my\n[F]soul\n[Am]Dark\n[G]night of my\n[F]soul\n[Am]Dark\n[G]night of my\n[F]soul",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Timelessness",
+  "id": "56f506911e49e34c9dbf7d82a51de6aaae7eb5e23e072a6c3610f349de1576fb",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 62,
+  "normalizedKey": "fear factory|timelessness",
+  "playableChords": [
+    "Am",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "56f506911e49e34c9dbf7d82a51de6aaae7eb5e23e072a6c3610f349de1576fb",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "Timelessness",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

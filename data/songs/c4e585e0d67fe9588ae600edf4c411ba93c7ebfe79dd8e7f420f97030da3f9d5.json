@@ -1,0 +1,141 @@
+{
+  "artist": "Fuel",
+  "artistNormalized": "fuel",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[A]\nHad a bad day aga-\n\n[Chorus]\n[A]in\nShe said I would not understa-\n[A/F#]nd\nShe left a note that said I'm\n[D]sorry, I\n[Dm]I had a bad day aga-\n[A]in\nShe spilled her coffee broke a shoe-\n\n[Verse 1]\n[A]lace\nSmeared the lipstick on her fa-\n[A/F#]ce\nSlammed the door and said I'm\n[D]sorry, I\n[Dm]I had a bad day aga-\n[A]in\nAnd she swe-\n\n[Pre Chorus]\n[D]ars there's [E]nothing [F#m]wro-\nng I [E]hear her play-\n[D]ing that same [E]old [F#m]so-\nng She [E]puts me u-\n[D]p and puts me [Bm]o-\nn\nHad a bad day aga-\n\n[Chorus]\n[A]in\nShe said I would not understa-\n[A/F#]nd\nLeft a note and said I'm\n[D]sorry I\n[Dm]I had a bad day aga-\n[A]in No,\n\n[Solo]\n[A]\n[A/F#]\n[D]\n[Dm]\n[A]\nAnd she swe-\n\n[Pre Chorus]\n[D]ars there's [E]nothing [F#m]wro-\nng I [E]hear her play-\n[D]ing that same [E]old [F#m]so-\nng She [E]puts me u-\n[D]p and puts me [Bm]o-\nn O-\nh I had a bad day aga-\n\n[Chorus]\n[A]in\nShe said I would not understa-\n[A/F#]nd\nShe left a note that said I'm\n[D]sorry, I\n[Dm]I had a bad da-\n[A]y again\nShe left a note that said I'm\n\n[Break]\n[Bm]sorry, I\n[Dm]Had a bad da-\ny\n\n[Outro]\n[A]\n[A/F#]\n[D]\n[Dm]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A/F#": {
+      "catalog": [
+        "202220"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bad Day *alt",
+  "id": "c4e585e0d67fe9588ae600edf4c411ba93c7ebfe79dd8e7f420f97030da3f9d5",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 214,
+  "normalizedKey": "fuel|bad day",
+  "playableChords": [
+    "A",
+    "A/F#",
+    "D",
+    "Dm",
+    "E",
+    "F#m",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Chorus"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Pre Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Solo"
+    },
+    {
+      "measure": 42,
+      "name": "Pre Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Break"
+    },
+    {
+      "measure": 60,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c4e585e0d67fe9588ae600edf4c411ba93c7ebfe79dd8e7f420f97030da3f9d5",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "Bad Day",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

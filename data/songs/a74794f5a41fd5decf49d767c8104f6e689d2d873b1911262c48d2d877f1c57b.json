@@ -1,0 +1,96 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n[G]\n[D]\n[G]I was a-\n\n[Verse 1]\n[D]lone\n[G]I was all by my-\n[D]self\n[G]No one was\n[D]looking\n[G]I was thinkin' of\n[D]you\n[G]Oh yeah did I\n[D]mention\n[G]I was all by my-\n\n[Chorus]\n[E]self\n[A]All by my-\n[E]self\n[A]All by my-\n[E]self\n[A]All by my-\n[E]self\n[A]I went to your\n\n[Verse 2]\n[D]house\n[G]But no one was\nthere\nI went in your\nroom\nI was all by my-\n[D]self\n[G]\n\n[Chorus]\n[E]You and me had\n[A]Such\n[E]wonderful times\n[A]When I'm all by my-\n[E]self\n[A]All by my-\n[E]self\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "All By Myself *alt",
+  "id": "a74794f5a41fd5decf49d767c8104f6e689d2d873b1911262c48d2d877f1c57b",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 85,
+  "normalizedKey": "green day|all by myself",
+  "playableChords": [
+    "D",
+    "G",
+    "E",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a74794f5a41fd5decf49d767c8104f6e689d2d873b1911262c48d2d877f1c57b",
+    "version": "BCFZ"
+  },
+  "tempo": 119,
+  "title": "All By Myself",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

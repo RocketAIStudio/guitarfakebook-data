@@ -1,0 +1,122 @@
+{
+  "artist": "Fleetwood Mac",
+  "artistNormalized": "fleetwood mac",
+  "capo": "4",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]\n[A7]\n[D]\n\n[Verse 1]\n[D]She broke down and let me in\n[A7]\n[D]\nMade me see where I've been\n[A7]\n[D]\n\n[Chorus]\n[D5]Been down one\ntime Been down two\ntimes\n[Bm7][F#m]I'm [Bm7]never going [A]back a-\n[D]gain\nMmm\n[A7]\n[D]\n\n[Interlude]\n[D]\n[A7]\n[D]\n[A7]\n[D]\n[D5]\n[Bm7]Mmm [F#m][Bm7][A]You\n\n[Verse 2]\n[D]don't know what it means to win\n[A7]\n[D]\nCome down and see me 'gain\n[A7]\n[D]\n\n[Chorus]\n[D5]Been down one\ntime Been down two\ntimes\n[Bm7]Mmm, [F#m]I'm [Bm7]never going [A]back a-\n\n[Outro]\n[D]gain\nMmm\n[A7]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x05252",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "004232",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "6-6-7-7-10-10"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "444222",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Never Going Back Again *alt 2",
+  "id": "68365bd9b995fb361e47f063a8d0888c26b676d46f18acc5231bdcf4a61a8a40",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 64,
+  "normalizedKey": "fleetwood mac|never going back again",
+  "playableChords": [
+    "D",
+    "A7",
+    "D5",
+    "Bm7",
+    "F#m",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "68365bd9b995fb361e47f063a8d0888c26b676d46f18acc5231bdcf4a61a8a40",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "Never Going Back Again",
+  "tuning": "D A D G B E",
+  "variantRole": "alt"
+}

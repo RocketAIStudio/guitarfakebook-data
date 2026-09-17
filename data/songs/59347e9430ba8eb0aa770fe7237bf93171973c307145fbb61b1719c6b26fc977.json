@@ -1,0 +1,160 @@
+{
+  "artist": "Guns N' Roses",
+  "artistNormalized": "guns n roses",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 12,
+  "content": "[Verse 1]\n[F#]When you were [A#m]young and your heart\n[B]Was an [C#]open book [A#/C#]\n[F#]You used to [A#m]say live and let\n[B]live (You know you [C#]did) (You know you [A#/C#]did) (You know you\n[F#]did) But if this [A#m]ever changin' world\n[B]In which we live [G#m]in Makes you\n[C#]give in and cry\nSay live and let\n\n[Bridge]\n[F#]die [F#sus4]\n[F#5][F#]Live and let\n[F#]die [F#sus4]\n[F#5]\n[F#m]\n\n[Chorus]\nWhat did it matter to ya\n[F#]When you got a job to do you got to\n[C#]do it well You got to\n[D#m]give the other fella\n[E]hell\n\n[Bridge]\n[F#m]\n\n[Verse 2]\n[F#]  [A#m]\n[B]  [C#]  [A#/C#]\n[F#]You used to [A#m]say live and let\n[B]live (You know you [C#]did) (You know you [A#/C#]did) (You know you\n[F#]did) But if this [A#m]ever changin' world\n[B]In which we live [G#m]in Makes you\n[C#]give in and cry\nSay live and let\n[F#]die [F#sus4]\n[F#5][F#]Live and let\n[F#]die [F#sus4]\n[F#5]\n\n[Outro]\n[F#m]\n[G#]",
+  "diagrams": {
+    "A#/C#": {
+      "catalog": [
+        "xx0442"
+      ],
+      "catalogCount": 1
+    },
+    "A#m": {
+      "catalog": [
+        "x24432"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x32010",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "022000"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "133211",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "355433",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "F#5": {
+      "catalog": [
+        "3456xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "355333",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#sus4": {
+      "catalog": [
+        "335533"
+      ],
+      "catalogCount": 1
+    },
+    "G#": {
+      "catalog": [
+        "577655"
+      ],
+      "catalogCount": 1
+    },
+    "G#m": {
+      "catalog": [
+        "x02210"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Live And Let Die *alt 3",
+  "id": "59347e9430ba8eb0aa770fe7237bf93171973c307145fbb61b1719c6b26fc977",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 138,
+  "normalizedKey": "guns n roses|live and let die",
+  "playableChords": [
+    "F#",
+    "A#m",
+    "B",
+    "C#",
+    "A#/C#",
+    "G#m",
+    "F#sus4",
+    "F#5",
+    "F#m",
+    "D#m",
+    "E",
+    "G#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "59347e9430ba8eb0aa770fe7237bf93171973c307145fbb61b1719c6b26fc977",
+    "version": "BCFZ"
+  },
+  "tempo": 62,
+  "title": "Live And Let Die",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

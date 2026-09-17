@@ -1,0 +1,112 @@
+{
+  "artist": "Gorillaz",
+  "artistNormalized": "gorillaz",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro 1]\n[D]\n[A]\n[Bm]\n[G]\n[A]\n[G]\n[A]\n\n[Intro 2]\n[D]\n[A]\n[Bm]\n[G]\n[A]\n[G]\n[A]\n\n[Verse 1]\n[D]Up on melancholy\nhill There's a plastic\n[A]tree\nAre you here with\n[Bm]me\nJust\n[G]looking out on the day\n[A]Of another dream\n[G]\n[A]Well\n[D]you can't get what you want\nBut you can get\n[A]me\nSo let's set out to\n[Bm]sea\n'Cause\n[G]you are my medicine\n[A]When you're close to\n[G]me\n[A]When you're close to\n\n[Chorus]\n[D]me\n[A]\n[Bm]\n[G]\n[A]\n[G]\n[A]So\n\n[Verse 2]\n[D]call in the submarines\n'Round the world will\n[A]go\nDoes anybody\n[Bm]know her\nIf we're\n[G]looking out on the day\n[A]Of another dream\n[G]\n[A]\n\n[Chorus]\n[D]\n[A]\n[Bm]\nIf\n[G]you can't get what you want\n[A]Then you come with\n[G]me\n[A]\n\n[Verse 3]\n[D]Up on melancholy\nhill\n[A]\nSits a manatee\n[Bm]\nJust\n[G]looking out for the day\n[A]When you're close to\n[G]me\n[A]When you're close to\n\n[Chorus]\n[D]me\n[A]\n[Bm]\n[G]\n[A]\n[G]\n[A]When you're close to\n\n[Outro]\n[D]me\n[A]\n[Bm]\n[G]\n[A]\n[G]\n[A]\n[D]\n[A]\n[Bm]\n[G]\n[A]\n[G]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "On Melancholy Hill",
+  "id": "7d00a3bee909e28f76fa690ae0bc97e2b5de8ea8422a0cfea3b23ab1b0bbf594",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 142,
+  "normalizedKey": "gorillaz|on melancholy hill",
+  "playableChords": [
+    "D",
+    "A",
+    "Bm",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 11,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 71,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 81,
+      "name": "Chorus"
+    },
+    {
+      "measure": 91,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7d00a3bee909e28f76fa690ae0bc97e2b5de8ea8422a0cfea3b23ab1b0bbf594",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "On Melancholy Hill",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

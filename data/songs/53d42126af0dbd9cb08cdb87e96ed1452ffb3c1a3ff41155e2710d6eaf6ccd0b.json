@@ -1,0 +1,129 @@
+{
+  "artist": "Fleetwood Mac",
+  "artistNormalized": "fleetwood mac",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D]\n[A6]\n[Gm]\n[D]\n[A6]\n[Em/G]\n[Bm]\nShall I\n\n[Verse 1]\n[D]tell you about my life\n[A6]They\n[Gm]say I'm a man of the\n[D]world I've\nflown across every tide\n[A6]\n[Em/G]And I've seen lots of pretty\n[Bm]girls\n[Gm]\n[D]\nI guess I've\n\n[Verse 2]\n[D]got everything I need\n[A6]\n[Gm]I wouldn't ask for more\n[D]And there's\nno one I'd rather be\n[A6]\n[Em/G]But I just wish that I'd\n[Bm]never been born\n[Gm]\n[D]\n\n[Solo]\n[D]\n[A6]\n[Gm]\n[D]\n[A6]\n[Gm]\n[D]And I need a good\n\n[Bridge]\n[F#m]woman\nTo make me feel like a\n[Em]good man should\n[F#m]I don't say I'm a good man\nOh, but I would be\n[Em]if I could\n[A6]I could\n\n[Verse 3]\n[D]tell you about my life\n[A6]And\n[Gm]keep you amused I'm sure\n[D]A-\nbout all the times I've cried\n[A6]\n[Em/G]And how I don't want to be\n[Bm]sad anymore\n[Gm]\n[D]\n\n[Outro]\n[F#m]\n[Em]\n[F#m]\n[Em]\n[D]",
+  "diagrams": {
+    "A6": {
+      "catalog": [
+        "x02222"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em/G": {
+      "catalog": [
+        "322000"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Man of the World",
+  "id": "53d42126af0dbd9cb08cdb87e96ed1452ffb3c1a3ff41155e2710d6eaf6ccd0b",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 126,
+  "normalizedKey": "fleetwood mac|man of the world",
+  "playableChords": [
+    "D",
+    "A6",
+    "Gm",
+    "Em/G",
+    "Bm",
+    "F#m",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Solo"
+    },
+    {
+      "measure": 40,
+      "name": "Bridge"
+    },
+    {
+      "measure": 48,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "53d42126af0dbd9cb08cdb87e96ed1452ffb3c1a3ff41155e2710d6eaf6ccd0b",
+    "version": "BCFZ"
+  },
+  "tempo": 87,
+  "title": "Man of the World",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

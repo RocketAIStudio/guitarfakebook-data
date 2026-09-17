@@ -1,0 +1,98 @@
+{
+  "artist": "Foals",
+  "artistNormalized": "foals",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Asus4]\n[F5]  [C/E]\n[C5]  [A5]\n[F5]  [C/E]\n[C5]  [A5]\n[F5]  [C/E]\n[C5]  [A5]\n[F5]  [C/E]\n[C5]  [A5]\n[F5]  [C/E]\n[C5]  [A5]\n[F5]  [C/E]\n[C5]  [A5]\n[F5]  [C/E]\n[C5]  [A5]\n[F5]  [C/E]\n[C5]  [A5]\n\n[Verse]\n[F5]There's a [C/E]thing called\n[C5]  [A5]\n[F5]There's this [C/E]thing called\n[C5]  [A5]\n[F5]We fly [C/E]balloons on this\n[C5]fuel called [A5]\n[F5]We fly [C/E]balloons on this\n[C5]fueled called [A5]love\n[F5]Why don't you [C/E]take a chance?\n[C5]  [A5]\n[F5]What's the [C/E]fuel called\n[C5]  [A5]\n[F5]Fair weather [C/E]storms are\n[C5]in your head [A5]\n[F5]Fair weather [C/E]storms are\n[C5]in your head [A5]\n\n[Chorus]\n[F5]We fly [C/E]balloons on this\n[C5]fuel called love [A5]\n[F5]We fly [C/E]balloons on this\n[C5]fuel called love [A5]\n[F5]We fly [C/E]balloon on this\n[C5]fuel called [A5]\n[F5]We fly [C/E]balloons on this\n[C5]fuel called love [A5]\n\n[Bridge]\n[D5]\nThere's a thing called\nThere's a thing called\nThere's a thing called\nThere's a thing called\nThere's a thing called\nThere's a thing called\nThere's a thing called\nThere's a thing called\n\n[Chorus]\n[F5]We fly [C/E]balloons on this\n[C5]fuel called love [A5]\n[F5]We fly [C/E]balloons on this\n[C5]fuel called love [A5]\n[F5]We fly [C/E]balloon on this\n[C5]fuel called [A5]\n[F5]We fly [C/E]balloons on this\n[C5]fuel called love [A5]\n[F5]We fly [C/E]balloons on this\n[C5]fuel called love [A5]\n[F5]We fly [C/E]balloons on this\n[C5]fuel called love [A5]\n[F5]We fly [C/E]balloon on this\n[C5]fuel called [A5]\n[F5]We fly [C/E]balloons on this\n[C5]fuel called love [A5]\n\n[Outro]\n[F5]  [C/E]\n[C5]  [A5]\n[F5]  [C/E]\n[C5]  [A5]\n[F5]  [C/E]\n[C5]  [A5]\n[F5]  [C/E]\n[C5]  [A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "Asus4": {
+      "catalog": [
+        "x0223x"
+      ],
+      "catalogCount": 1
+    },
+    "C/E": {
+      "catalog": [
+        "x-7-10-9-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "0002xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Balloons",
+  "id": "4d0fcabf4b0e996b2f04bb8b9911e70f1cea50959d2cb22252d047b61d385015",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 198,
+  "normalizedKey": "foals|balloons",
+  "playableChords": [
+    "Asus4",
+    "F5",
+    "C/E",
+    "C5",
+    "A5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 37,
+      "name": "Verse"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Bridge"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    },
+    {
+      "measure": 101,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4d0fcabf4b0e996b2f04bb8b9911e70f1cea50959d2cb22252d047b61d385015",
+    "version": "BCFZ"
+  },
+  "tempo": 154,
+  "title": "Balloons",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

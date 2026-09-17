@@ -1,0 +1,131 @@
+{
+  "artist": "Halestorm",
+  "artistNormalized": "halestorm",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n[C]  [Am]\n[Em]\n[C]  [Am]\n\n[Verse 1]\n[Em]Little girl\n[C]You like [Am]it loud\n[Em]Come alive in the\n[C]middle of [Am]a crowd\n[Em]You wanna scream\n[C]You [Am]wanna shout\n[Em]Get excited when the\n[C]lights [Am]go down At the\n\n[Chorus]\n[C]rock show\nYou'll be right in the\n[Em]front row\nHeart and soul, they\n[G]both know\nIt's where you gotta\n[D]be\n\n[Break]\n[Em]\n[C]  [Am]\n\n[Verse 2]\n[Em]Little girl,\n[C]there [Am]you are\n[Em]All the lighters looking\n[C]just like [Am]stars\n[Em]Sing along,\n[C]feel [Am]the sound\n[Em]Take a ride on the\n[C]hands of [Am]the crowd\n\n[Verse 3]\n[Em]And here it comes,\n[C]the [Am]moment when\n[Em]You know you'll never be the\n[C]same [Am]again\n[Em]Power chord,\n[C]you see [Am]the light\n[Em]You found your place in the\n[C]world [Am]tonight At the\n\n[Chorus]\n[C]rock show\nYou'll be right in the\n[Em]front row\nHeart and soul, they\n[G]both know\nIt's where we gotta\n[D]be\nYeah at the\n[C]rock show\nGetting high on the\n[Em]solo\nSo what if it's\n[G]crazy?\nThat's gonna be\n[D]me\n\n[Solo]\n[C]\n[Em]\n[G]\n[D]\n\n[Bridge]\n[C]This goes out to any-\n[Em]one Whose heart beats like a\n[C]kick drum When a bitchin'\n[Em]riff comes Knows the words to\n[C]every line, every time\n[Em]And you know you gotta go and\n[C]get some, get pumped\n[Em]Find yourself and lose it At the\n\n[Chorus]\n[C]rock show\nI'm looking at the\n[Em]front row\nHeart and soul, we\n[G]both know\nIt's where we gotta\n[D]be\nYeah at the\n[C]rock show\nWe're reaching for the\n[Em]high notes\nSo what if we're\n[G]crazy?\nYou're coming with\n[D]me\nYou're coming with\n\n[Outro]\n[C]me\nYou're coming with\n[Em]me\nSo what if it's\n[G]crazy?\nIt's where we gotta\n[D]be\nAt the\n[C]rock show",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "679987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rock Show",
+  "id": "2c5e216c2e66513f407d934d6f52fd9e72e5dbda095e8d84d6be18cb01efc259",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 295,
+  "normalizedKey": "halestorm|rock show",
+  "playableChords": [
+    "Em",
+    "C",
+    "Am",
+    "G",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Break"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Solo"
+    },
+    {
+      "measure": 63,
+      "name": "Bridge"
+    },
+    {
+      "measure": 71,
+      "name": "Chorus"
+    },
+    {
+      "measure": 87,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2c5e216c2e66513f407d934d6f52fd9e72e5dbda095e8d84d6be18cb01efc259",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Rock Show",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

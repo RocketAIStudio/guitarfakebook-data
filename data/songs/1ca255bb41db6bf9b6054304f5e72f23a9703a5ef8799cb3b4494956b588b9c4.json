@@ -1,0 +1,128 @@
+{
+  "artist": "Hi-Standard",
+  "artistNormalized": "hi standard",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 8,
+  "content": "[Intro Vocal]\n[A]\n[F#/A#]\n[Bm]\n[E]\n\n[Intro]\n[A5]  [F#5]\n[B5]  [E5]\n[A5]  [F#5]\n[B5]  [E5]\n\n[Pre-Verse]\n[A5]  [F#5]\n[B5]  [E5]\n[A5]  [F#5]\n[B5]  [E5]\n\n[Verse 1]\n[A5]Catch a [F#5]wave Catch that\n[B5]lovely [E5]girl\n[A5]She is [F#5]mine I'm in\n[B5]love [E5]I'm in\n\n[Bridge]\n[A5]love [F#5]Oha\n[B5][E5]Oha Oha\n[A5][F#5]Oha\n[B5][E5]Oha Oha\n[A5]  [F#5]\n[B5]  [E5]\n[A5]  [F#5]\n[B5]  [E5]\n\n[Verse 2]\n[A5]Catch a [F#5]wave Catch that\n[B5]lovely [E5]girl\n[A5]I don't [F#5]wanna wipe\n[B5]out [E5]I need\n\n[Outro]\n[A5]love. [F#5]Oha\n[B5][E5]Oha Oha\n[A5][F#5]Oha\n[B5][E5]Oha Oha\n[A5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "799777",
+        "x-2-4-4-3-2",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#/A#": {
+      "catalog": [
+        "698676"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Catch A Wave",
+  "id": "1ca255bb41db6bf9b6054304f5e72f23a9703a5ef8799cb3b4494956b588b9c4",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 58,
+  "normalizedKey": "hi standard|catch a wave",
+  "playableChords": [
+    "A",
+    "F#/A#",
+    "Bm",
+    "E",
+    "A5",
+    "F#5",
+    "B5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro Vocal"
+    },
+    {
+      "measure": 11,
+      "name": "Intro"
+    },
+    {
+      "measure": 15,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Bridge"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1ca255bb41db6bf9b6054304f5e72f23a9703a5ef8799cb3b4494956b588b9c4",
+    "version": "BCFZ"
+  },
+  "tempo": 116,
+  "title": "Catch A Wave",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

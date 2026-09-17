@@ -1,0 +1,95 @@
+{
+  "artist": "Grouplove",
+  "artistNormalized": "grouplove",
+  "capo": "2",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]Back in the '90s,\nI was in a very famous\n\n[Verse]\n[G]TV show\nOoh\n[Em]I'm BoJack the Horse,\nBoJack the Horse Don't act like\n[G]you don't know\n\n[Outro]\n[Am]And I'm [D]trying to\n[G]hold on to my [Em]past\n[Am]It's been so long [D]I don't\n[G]think I'm gonna [Em]last\n[Am]I guess [D]I'll just try And\n[G]make you [Em]understand That\n[Am]I'm more [D]horse than a\n[G]man Or\n[Am]I'm more [D]man than a\n[G]horse [G][Cadd9]BoJack!",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Back in the 90's",
+  "id": "e85922f0ba8e06ad0fa6cee3f84c722b4593ba9025d6b8e05bc87e989977a9c0",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 79,
+  "normalizedKey": "grouplove|back in the 90 s",
+  "playableChords": [
+    "Em",
+    "G",
+    "Am",
+    "D",
+    "Cadd9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse"
+    },
+    {
+      "measure": 9,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e85922f0ba8e06ad0fa6cee3f84c722b4593ba9025d6b8e05bc87e989977a9c0",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "Back in the 90's",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

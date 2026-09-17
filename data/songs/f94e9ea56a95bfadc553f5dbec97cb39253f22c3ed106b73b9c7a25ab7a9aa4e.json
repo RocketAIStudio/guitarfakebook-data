@@ -1,0 +1,123 @@
+{
+  "artist": "Foo Fighters",
+  "artistNormalized": "foo fighters",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n\n[Verse 1]\n[Bsus4]Run and tell all of the angels\n[F#m11]\n[E5]this could take all night.\n[E5]\n[Bsus4]Thinkin' it in time will help\n[F#m11]me get things right.\n[E5]\n[E5]\n[Bsus4]Hook me up to a new revolution\n[F#m11]'cause\n[E5]this one is a lie.\n[E5]I\n[Bsus4]sat around laughing and watched\n[F#m11]the last one die.\n\n[Chorus]\nI'm\nlookin' to the sky to save me,\nlookin' for sign of life.\nI'm\nlookin' for something to help \nme burn out bright.\nI'm\nlookin' for a complication,\nlookin'  'cause I'm tired of lyin' (tryin') .\nMake my back home\nwhen I learn to fly\n\n[Interlude]\nhigh.\n\n[Verse 2]\nI\n[Bsus4]think I'm dyin' missing patience,\n[F#m11]\n[Esus2]it can wait one one night.\nGive it all away if you give\nme one last try.\nWe'll live happily\never trapped if you\njust save my life.\nRunnin' down the angels and\neverything's all\nright.\nI'm\n\n[Chorus]\nlookin' to the sky to save me,\nlookin' for sign of life.\nI'm\nlookin' for something to help \nme burn out bright.\nI'm\nlookin' for a complication,\nlookin'  'cause I'm tired of lyin' (tryin') .\nMake my way back home\nwhen I learn to fly\nhigh.\nMake my way back home\nwhen I learn to...\n\n[Bridge]\nFly along\nwith me, I can't\nquite make it alone.\nTry to make this life\nmy own.\nmy own. I'm\n\n[Chorus]\nlookin' to the sky to save me,\nlookin' for sign of life.\nI'm\nlookin' for something to help \nme burn out bright.\nI'm\nlookin' for a complication,\nlookin'  'cause I'm tired of lyin' (tryin') .\nMake my way back home\nwhen I learn to..\n\n[Outro Chorus]\nlookin' to the sky to save\nme,\nlookin' for a sign of life.\nI'm\nlookin for somethin' to help\nme burn out bright.\nlookin' for a complication,\nlookin'  'cause I'm tired of lyin' (tryin') .\nMake my back home\nwhen I learn to fly\nhigh.\nMake my way back home\nwhen I learn to fly.\nMake my back home\nwhen I learn to...\n\n[Outro]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bsus4": {
+      "catalog": [
+        "x22452"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Esus2": {
+      "catalog": [
+        "022452"
+      ],
+      "catalogCount": 1
+    },
+    "F#m11": {
+      "catalog": [
+        "202424"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Learn To Fly",
+  "id": "f94e9ea56a95bfadc553f5dbec97cb39253f22c3ed106b73b9c7a25ab7a9aa4e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 79,
+  "normalizedKey": "foo fighters|learn to fly",
+  "playableChords": [
+    "Bsus4",
+    "F#m11",
+    "E5",
+    "Esus2",
+    "G",
+    "Asus4",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Interlude"
+    },
+    {
+      "measure": 48,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 82,
+      "name": "Bridge"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus"
+    },
+    {
+      "measure": 103,
+      "name": "Outro Chorus"
+    },
+    {
+      "measure": 123,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gp3",
+    "sha256": "f94e9ea56a95bfadc553f5dbec97cb39253f22c3ed106b73b9c7a25ab7a9aa4e",
+    "version": "FICHIER GUITAR PRO v3.00"
+  },
+  "tempo": 136,
+  "title": "Learn To Fly",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

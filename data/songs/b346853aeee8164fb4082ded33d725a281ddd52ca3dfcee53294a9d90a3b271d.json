@@ -1,0 +1,137 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Verse 1]\n[E]Another senti-\n[B]mental argu-\n[A]ment and bitter\n[E]love.\n[A]Fucked without a\n[E]kiss again\n[A]dragged it through the\n[B]mud.\n[E]Yelling at brick\n[B]walls and punching\n[A]windows made of\n[E]stone. The\n[A]worry rock has\n[E]turned to dust\n[A]fallen on our\n[B]pride.\n\n[Chorus]\n[C#m]A knocked down\n[G#m]dragged out fight,\n[A]Fat lips and open\n[E]wounds.\n[C#m]Another\n[G#m]wasted night and\n[F#]noone will take the\n[B]fall.\n\n[Verse 2]\n[E]Where do we go\n[B]from here, And what\n[A]did you do with the di-\n[E]rections.\n[A]Promise me no\n[E]dead end streets,\n[A]And I'll guaran-\n[Am]tee we'll have the\n[E]road.\n[B]\n\n[Guitar Solo 1]\n[E]\n[B]\n[A]\n[E]\n[A]\n[E]\n[A]\n[B]\n\n[Guitar Solo 2]\n[E]\n[B]\n[A]\n[E]\n[A]\n[E]\n[A]\n[B]\n\n[Chorus]\n[C#m]A knocked down\n[G#m]dragged out fight,\n[A]Fat lips and open\n[E]wounds.\n[C#m]Another\n[G#m]wasted night\n[F#]no one will take the\n[B]fall.\n\n[Verse 3]\n[E]Another senti-\n[B]mental argu-\n[A]ment and bitter\n[E]love.\n[A]Fucked without a\n[E]kiss again\n[A]dragged it through the\n[B]mud.\n[E]Where do we go\n[B]from here, And what\n[A]did you do with the di-\n[E]rections.\n[A]Promise me no\n[E]dead end streets,\n[A]And I'll guaran-\n[Am]tee we'll have the\n[E]road.\n\n[Outro]\n[A]And I'll guaran-\n[Am]tee we'll have the\n[E]road.\n[A]And I'll guaran-\n[Am]tee we'll have the\n[E]road.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Worry Rock",
+  "id": "b346853aeee8164fb4082ded33d725a281ddd52ca3dfcee53294a9d90a3b271d",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 209,
+  "normalizedKey": "green day|worry rock",
+  "playableChords": [
+    "E",
+    "B",
+    "A",
+    "C#m",
+    "G#m",
+    "F#",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Guitar Solo 1"
+    },
+    {
+      "measure": 43,
+      "name": "Guitar Solo 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 77,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b346853aeee8164fb4082ded33d725a281ddd52ca3dfcee53294a9d90a3b271d",
+    "version": "BCFZ"
+  },
+  "tempo": 145,
+  "title": "Worry Rock",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

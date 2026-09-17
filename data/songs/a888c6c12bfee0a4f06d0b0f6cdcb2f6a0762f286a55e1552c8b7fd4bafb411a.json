@@ -1,0 +1,114 @@
+{
+  "artist": "Ghost BC",
+  "artistNormalized": "ghost bc",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro 1]\nIl\n[Dm]padre Il\n[F]filio Et lo\n[C]spiritus\n[Gm]malum [F]Omnis\n[Dm]caelestis\n[F]Delenda\n[C]est\n[Dm]Anti Cris-\n[F]tus Il\n[C]filio de\n[F][Gm]Satha-\n[Dm]nas: In-\n[F]festissu-\n[C]mam!\n[Dm]Il\n\n[Intro 2]\n[Dm]padre Il\n[F]filio Et lo\n[C]spiritus\n[Gm]malum [F]Omnis\n[Dm]caelestis\n[F]Delenda\n[C]est\n[Dm]Anti Cris-\n[F]tus Il\n[C]filio de\n[F][Gm]Satha-\n[Dm]nas: In-\n[F]festissu-\n[C]mam!\n\n[Solo 1]\n[Gm]\n[Bb]Il\n[Dm]padre Il\n[F]filio Et lo\n[C]spiritus\n[Gm]malum [F]Omnis\n[Dm]caelestis\n[F]Delenda\n[C]est\n[Dm]Anti Cris-\n[F]tus Il\n[C]filio de\n[F][Gm]Satha-\n[Dm]nas: In-\n[F]festissu-\n[C]mam!\n[Gm]\n[Bb]\n[C]\n[Gm]\n[Bb]\n\n[Solo 2]\n[Dm]\n[F]\n[C]\n[Gm]  [F]\n[Dm]\n[F]\n[C]\n[Dm]\n[F]\n[C]\n[Gm]  [F]\n[Dm]In-\n[F]festissu-\n[Db]mam!",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x32010",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "xx0232",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "x68886",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "022000",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "320033",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "x02210",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Infestissumam",
+  "id": "a888c6c12bfee0a4f06d0b0f6cdcb2f6a0762f286a55e1552c8b7fd4bafb411a",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 121,
+  "normalizedKey": "ghost bc|infestissumam",
+  "playableChords": [
+    "Dm",
+    "F",
+    "C",
+    "Gm",
+    "Bb",
+    "Db"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 18,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 34,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 58,
+      "name": "Solo 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a888c6c12bfee0a4f06d0b0f6cdcb2f6a0762f286a55e1552c8b7fd4bafb411a",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "Infestissumam",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

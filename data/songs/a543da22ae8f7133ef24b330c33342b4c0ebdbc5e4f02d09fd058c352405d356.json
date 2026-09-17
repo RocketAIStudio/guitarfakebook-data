@@ -1,0 +1,89 @@
+{
+  "artist": "Harry and the Potters",
+  "artistNormalized": "harry and the potters",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Chorus]\n[E]Harry Potter Harry Potter\n[A]Harry [B]Potter\n[E]Harry Potter Harry Potter\n[A]Harry [B]Potter\n[E]Harry Potter Harry Potter\n[A]Harry [B]Potter\n[E]Harry Potter Harry Potter\n[A]Harry [B]Potter\n\n[Verse 1]\n[E]Voldemort\nVoldemort\nVoldemort\nRon\n\n[Chorus]\n[E]Harry Potter Harry Potter\n[A]Harry [B]Potter\n[E]Harry Potter Harry Potter\n[A]Harry [B]Potter\n[E]Harry Potter Harry Potter\n[A]Harry [B]Potter\n[E]Harry Potter Harry Potter\n[A]Harry [B]Potter\n\n[Verse 2]\n[E]Voldemort\nVoldemort\nDumbledore\nRon\n\n[Chorus]\n[E]Harry Potter Harry Potter\n[A]Harry [B]Potter\n[E]Harry Potter Harry Potter\n[A]Harry [B]Potter\n[E]Harry Potter Harry Potter\n[A]Harry [B]Potter\n[E]Harry Potter Harry Potter\n[A]Harry [B]Potter\n\n[Verse 3]\n[E]Voldemort\nArgus Filch\nMcGonagall\nRon\nHermione\nHagrid\nRon\nHarry\nPotter\nThat's me",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Harry Potter",
+  "id": "a543da22ae8f7133ef24b330c33342b4c0ebdbc5e4f02d09fd058c352405d356",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 181,
+  "normalizedKey": "harry and the potters|harry potter",
+  "playableChords": [
+    "E",
+    "A",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Chorus"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a543da22ae8f7133ef24b330c33342b4c0ebdbc5e4f02d09fd058c352405d356",
+    "version": "BCFZ"
+  },
+  "tempo": 245,
+  "title": "Harry Potter",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

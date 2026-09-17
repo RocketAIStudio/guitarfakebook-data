@@ -1,0 +1,104 @@
+{
+  "artist": "FIDLAR",
+  "artistNormalized": "fidlar",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[D]  [A]  [G]\n[D]  [E]\n[G]\n[D]  [A]  [G]\n[D]  [E]\n[G]\n[D]  [A]  [G]\n[D]  [E]\n[G]\n[D]  [A]  [G]\n[D]  [E]\n\n[Verse 1]\n[G]So you're just a kid\n[E]When will you get, get, get, get?\n[G]Always askin ques-\ntions\n[E]When will you get, get, get, get?\nBut I wait\n[G]and I wait\nAnd I wait\n[E]and I wait\nAnd you're go-\n[G]ne so I wait\nAnd you're go-\n[E]ne anyway\nway way way\n\n[Chorus]\n[G]\n[D]  [A]  [G]\n[D]  [E]\n[G]\n[D]  [A]  [G]\n[D]  [E]\n\n[Verse 2]\n[G]Cold cock\n[E]And shaky hands\n[G]Never get the mo-\nney\n[E]To the man, man, man, man, man\nMake him wait\n[G]make him wait\nMake him wait\n[E]make him wait\nAnd you're go-\n[G]ne so I wait\nAnd you're go-\n[E]ne anyway\nway way way...\n\n[Solo]\n[D]  [A]\n[E]\n[D]  [A]\n[E]\n[D]  [A]\n[E]\n[D]  [A]\n[E]\n\n[Chorus]\n[G]\n[D]  [A]  [G]\n[D]  [E]\n[G]\n[D]  [A]  [G]\n[D]  [E]\n[G]\n[D]  [A]  [G]\n[D]  [E]\n[G]\n[D]  [A]  [G]\n[D]  [E]\n\n[Outro]\n[D]  [E]\n[D]  [A]  [G]\n[D]  [E]\n[D]  [A]  [G]\n[D]  [E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wait For The Man",
+  "id": "1eede1a44503b61c390e822338a1f672fcfc36fcf4e4340346fa3fc997dc17cb",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 102,
+  "normalizedKey": "fidlar|wait for the man",
+  "playableChords": [
+    "G",
+    "D",
+    "A",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    },
+    {
+      "measure": 82,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1eede1a44503b61c390e822338a1f672fcfc36fcf4e4340346fa3fc997dc17cb",
+    "version": "BCFZ"
+  },
+  "tempo": 172,
+  "title": "Wait For The Man",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

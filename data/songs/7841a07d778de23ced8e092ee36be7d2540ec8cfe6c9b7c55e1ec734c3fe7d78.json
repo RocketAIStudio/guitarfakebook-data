@@ -1,0 +1,115 @@
+{
+  "artist": "Gorillaz",
+  "artistNormalized": "gorillaz",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D]\n[G]\n[A#]\n[Am]  [C]\n[D]\n[G]\n[A#]\n[Am]  [C]\n\n[Verse 1]\n[D]Oscillate your-\n[G]self tonight\n[A#]When you're in your\n[Am]bed [C]\n[D]Assimilate the\n[G]dopamine\n[A#]Passing through your\n[Am]head [C]\n[D]When you get back on\n[G]Saturday night And your\n[A#]head is caving in\n[Am][C]Do you\n[D]look like me, do you\n[G]feel like me Do you\n[A#]turn into your\n[C][Am]effigy? Do you\n\n[Chorus]\n[D]dance like this?\n[G]Fo-\n[A#]rever\n[Am]  [C]\n[D]\n[G]\n[A#]\n[Am]  [C]\n\n[Verse 2]\n[D]See yourself with\n[G]cupid's flame\n[A#]Chipped in your\n[Am]head [C]Pay them\n[D]a cake, the\n[G]satellites\n[A#]Passing by the\n[Am]edge [C]\n[D]When you get back on\n[G]Saturday night And your\n[A#]head is caving in\n[Am][C]Do you\n[D]look like me, do you\n[G]feel like me Do you\n[A#]turn into your\n[C][Am]effigy? Do you\n\n[Chorus]\n[D]dance like this?\n[G]Fo-\n[A#]rever\n[Am][C]Do you\n[D]dance like this?\n[G]Fo-\n[A#]rever\n[Am]  [C]\n[D]\n[G]\n[A#]\n[Am]  [C]\n[D]\n[G]\n[A#]\n[Am][C]Do you\n\n[Bridge]\n[D]look like me Do you\n[G]burn like me Do you\n[A#]look like me Do you\n[Am]burn like [C]me Do you\n[D]look like me Do you\n[G]burn like me Do you\n[A#]turn into your\n[C][Am]effigy? Do you\n\n[Chorus]\n[D]dance like this?\n[G]Fo-\n[A#]rever\n[Am][C]Do you\n[D]dance like this?\n[G]Fo-\n[A#]rever\n[Am][C]Do you\n\n[Outro]\n[D]dance\n[G]Do you\n[A#]dance\n[Am][C]Do you\n[D]dance\n[G]Do you\n[A#]dance\n[Am]  [C]",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "x13331"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tranz",
+  "id": "7841a07d778de23ced8e092ee36be7d2540ec8cfe6c9b7c55e1ec734c3fe7d78",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 209,
+  "normalizedKey": "gorillaz|tranz",
+  "playableChords": [
+    "D",
+    "G",
+    "A#",
+    "Am",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Bridge"
+    },
+    {
+      "measure": 75,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7841a07d778de23ced8e092ee36be7d2540ec8cfe6c9b7c55e1ec734c3fe7d78",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "Tranz",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

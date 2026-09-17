@@ -1,0 +1,141 @@
+{
+  "artist": "Foreigner",
+  "artistNormalized": "foreigner",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Ebm]\n\n[Verse 1]\n[Ebm]You're as cold\nas ice\n[B]You're willing to\nsacrifice our lo-\n[Ebm]ve\n[B]\n[Ebm]You never\ntake advice\n[B]Someday you'll\npay the price, I\n[Abm]know I've\n\n[Chorus]\n[Gb]seen it before It happens\n[Faug]all the time The\n[Abm]closing the door You leave the\n[B]world behind You're\n[Gb]digging for gold Yet\n[Faug]throwing away A\n[Abm]fortune in feelings But\n[Bb]someday you'll pay\n\n[Bridge]\n[Ebm]\n[B]\n\n[Verse 2]\n[Ebm]You're as cold\nas ice\n[B]You're willing to\nsacrifice our love\n[Ebm]\n[B]\n[Ebm]You want\nparadise\n[B]But someday you'll\npay the price, I\n[Abm]know I've\n\n[Chorus]\n[Gb]seen it before It happens\n[Faug]all the time The\n[Abm]closing the door You leave the\n[B]world behind You're\n[Gb]digging for gold Yet\n[Faug]throwing away A\n[Abm]fortune in feelings But\n[Bb]someday you'll pay\n\n[Solo]\n[B]\n[Ebm]\n[B]\n[Abm]\n[Gb]  [Bb7]\n\n[Verse 3]\n[Ebm]\n[Faug]\n[Bb7]You know\nthat you are\n[Ebm]Cold,\n[Faug]as\n[Bb7]ice As cold\nas ice to me\n[Ebm]\n[Faug]\n[Bb7]\n[B]\n\n[Outro]\n[Ebm]\n[B]\n[Ebm]\n[B]\n[Ebm]\n[B]\n[Ebm]\n[B]\n[Ebm]\n[B]",
+  "diagrams": {
+    "Abm": {
+      "catalog": [
+        "466444",
+        "x-x-6-8-9-7",
+        "x-11-13-13-12-11",
+        "16-18-18-16-16-16",
+        "x-x-18-20-21-19"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "79987x",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "68876x",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bb7": {
+      "catalog": [
+        "x1313x",
+        "x-1-3-1-3-1",
+        "6-5-3-3-3-4",
+        "6-8-6-7-6-6",
+        "x-x-8-10-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "Ebm": {
+      "catalog": [
+        "x6887x",
+        "x-x-1-3-4-2",
+        "x-6-8-8-7-6",
+        "11-13-13-11-11-11",
+        "x-x-13-15-16-14"
+      ],
+      "catalogCount": 5
+    },
+    "Faug": {
+      "catalog": [
+        "xx3221"
+      ],
+      "catalogCount": 1
+    },
+    "Gb": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Cold as Ice",
+  "id": "8560baaf181875ec18a6ab33de2b698927427b36a73553532828e751907906f1",
+  "key": "C♭",
+  "keyIdentified": true,
+  "lyricEventCount": 159,
+  "normalizedKey": "foreigner|cold as ice",
+  "playableChords": [
+    "Ebm",
+    "B",
+    "Abm",
+    "Gb",
+    "Faug",
+    "Bb",
+    "Bb7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Bridge"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Solo"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8560baaf181875ec18a6ab33de2b698927427b36a73553532828e751907906f1",
+    "version": "BCFZ"
+  },
+  "tempo": 131,
+  "title": "Cold as Ice",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

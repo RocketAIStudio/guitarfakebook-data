@@ -1,0 +1,86 @@
+{
+  "artist": "Hank Williams",
+  "artistNormalized": "hank williams",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n[G7]\n[C]\n\n[Verse 1]\n[C]Goodbye Joe\nme gotta\ngo me oh my\n[G7]oh\nMe gotta\ngo pole the\npirogue down the\n[C]bayou\nMy Yvonne\nthe sweetest one\nme oh my\n[G7]oh\nSon of me gun\nwe'll have big\nfun on the\n[C]bayou\n\n[Chorus]\n[C]Jambalaya\nand a crawfish\npie on a file gum-\n[G7]bo\n'Cause tonight\nI'm gonna see\nmy ma cher a-\n[C]mio\nPick guitar,\nfilled fruit\njar and be gay-\n[G7]o\nSon of a gun\nwe'll have big\nfun on the\n[C]bayou\n\n[Violin Solo 1]\n[C]\n[G7]\n[C]\n[G7]\n[C]\n\n[Verse 2]\n[C]Thibodaux\nFontaineaux\nthe place is\n[G7]buzzin'\nKinfolk come\nto see Y-\nvonne by the\n[C]dozen\nDressed in style\nand go hog wild,\nme oh my\n[G7]oh\nSon of me gun\nwe'll have big\nfun on the\n[C]bayou\n\n[Chorus]\n[C]Jambalaya\nand a crawfish\npie on a file gum-\n[G7]bo\n'Cause tonight\nI'm gonna see\nmy ma cher a-\n[C]mio\nPick guitar,\nfilled fruit\njar and be gay-\n[G7]o\nSon of a gun\nwe'll have big\nfun on the\n[C]bayou\n\n[Violin Solo 2]\n[C]\n[G7]\n[C]\n[G7]\n[C]\n\n[Chorus]\n[C]Jambalaya\nand a crawfish\npie on a file gum-\n[G7]bo\n'Cause tonight\nI'm gonna see\nmy ma cher a-\n[C]mio\nPick guitar,\nfilled fruit\njar and be gay-\n[G7]o\nSon of a gun\nwe'll have big\nfun on the\n[C]bayou",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Jambalaya",
+  "id": "b71609bd3cccd04424a946d20ab7666f15f07a32ac934c71e414e5fa0f2861e3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 232,
+  "normalizedKey": "hank williams|jambalaya",
+  "playableChords": [
+    "G7",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Violin Solo 1"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 86,
+      "name": "Violin Solo 2"
+    },
+    {
+      "measure": 101,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b71609bd3cccd04424a946d20ab7666f15f07a32ac934c71e414e5fa0f2861e3",
+    "version": "BCFZ"
+  },
+  "tempo": 164,
+  "title": "Jambalaya",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

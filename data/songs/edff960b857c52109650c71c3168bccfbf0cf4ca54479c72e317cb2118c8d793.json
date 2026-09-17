@@ -1,0 +1,100 @@
+{
+  "artist": "Green Day",
+  "artistNormalized": "green day",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A#]\n[D#]  [A#]\n[A#]\n[F]  [A#]\n[A#]\n[D#]  [A#]\n[A#]\n[F]  [A#]\n[A#]\n[D#]  [A#]\n[A#]\n[F]  [A#]\n[A#]\n[D#]  [A#]\n[A#]\n[F]  [A#]\n\n[Verse]\n[A#]Another one down at the\n[D#]mining [A#]town\n[A#]Breakin' it down for the\n[F]lame [A#]wager\n[A#]Callin' the shots from the\n[A#][D#]capital\n[A#]All that we got was the\n[F]banks of [A#]hope\n\n[Chorus]\n[A#]Are [F]we the\n[D#]last [A#]forgotten?\n[A#]Are [F]we the\n[D#]long lost [A#]love?\n[A#]Are [F]we the\n[D#]last [A#]forgotten?\n[A#]Are [F]we the\n[D#]long lost [A#]love?\n\n[Verse 2]\n[A#]This city isn't\nbig enough for\n[Cm]dreamers\nWe were all be\n[D#]lie vers\n[F]It's the perfect crime\n[A#]\n[A#]Another black kid was shot\n[D#]in town [A#]\n[A#]Man with the badge and a\n[F]daytime [A#]show\n[A#]Darkness falls on Graf-\n[A#][D#]fitia\n[A#]Death of a town in the\n[A#][F]afterglow\n\n[Chorus]\n[A#]Are [F]we the\n[D#]last [A#]forgotten?\n[A#]Are [F]we the\n[D#]long lost [A#]love?\n[A#]Are [F]we the\n[D#]last [A#]forgotten?\n[A#]Are [F]we the\n[D#]long lost [A#]love?\n\n[Bridge]\n[A#]All souls go\nto heaven in Graf-\n[Cm]fitia\nSinging Halle-\n[D#]lujah\n[F]It's the perfect crime\n[A#]\n[A#]\nIf we're goin'\n[Cm]down for a\ngood time\n[D#]Life during\n[F]wartime\n[A#]It's the perfect crime\n\n[Chorus]\n[A#]Are [F]we the\n[D#]last [A#]forgotten?\n[A#]Are [F]we the\n[D#]long lost [A#]love?\n[A#]Are [F]we the\n[D#]last [A#]forgotten?\n[A#]Are [F]we the\n[D#]long lost [A#]love?\n[A#]Are [F]we the\n[D#]last [A#]forgotten?\n[A#]Are [F]we the\n[D#]long lost [A#]love?\n[A#]Are [F]we the\n[D#]last [A#]forgotten?\n[A#]Are [F]we the\n[D#]long lost [A#]love?\n\n[Outro]\n[A#]\n[D#]  [A#]\n[A#]\n[F]  [A#]\n[A#]Another one down at the\n[D#]mining [A#]town\n[A#]Are we the\n[F]last [A#]forgotten?\n[A#]Callin' the shots from the\n[A#][D#]capital\n[A#]Are we the\n[F]last [A#]forgotten?\n[A#]Another one down at the\n[D#]mining [A#]town\n[A#]Are we the\n[F]last [A#]forgotten?",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "x24442"
+      ],
+      "catalogCount": 1
+    },
+    "Cm": {
+      "catalog": [
+        "x46654",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "022100"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "244322",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Graffitia",
+  "id": "edff960b857c52109650c71c3168bccfbf0cf4ca54479c72e317cb2118c8d793",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 282,
+  "normalizedKey": "green day|graffitia",
+  "playableChords": [
+    "A#",
+    "D#",
+    "F",
+    "Cm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Bridge"
+    },
+    {
+      "measure": 74,
+      "name": "Chorus"
+    },
+    {
+      "measure": 90,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "edff960b857c52109650c71c3168bccfbf0cf4ca54479c72e317cb2118c8d793",
+    "version": "BCFZ"
+  },
+  "tempo": 131,
+  "title": "Graffitia",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

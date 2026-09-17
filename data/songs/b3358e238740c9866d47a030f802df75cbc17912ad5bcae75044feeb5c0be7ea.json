@@ -1,0 +1,146 @@
+{
+  "artist": "Garth Brooks",
+  "artistNormalized": "garth brooks",
+  "capo": "No capo",
+  "chordPositionCount": 34,
+  "chordSymbolCount": 10,
+  "content": "[Verse 1]\n[G]\nSometimes late at night\n[Am]\n[D]I lie awake and watch her slee-\n[C/G]ping [G]\n[Am/G][G]She's lost\n[D]in peaceful dreams [Am7]So I turn out\n[D]the lights and [C]lay there in the dark\n[G]\nAnd the thought crosses my\n[Am]mind\n[D]If I never wake up in the\n[C/G]morning [G]\n[Am/G]  [G]\n[D]Would she ever doubt [Am7]the way\n[D]I feel About [C]her in my\n[G]heart?\n\n[Chorus]\n[G]If tomorrow never\n[C]comes\nWill she know how much I\n[G]loved her?\nDid I try in every way\n[D]to [Am7]show her every day\n[D]That [C]she's my only one?\n[G]\nAnd if my time [G/A]on [G/B]earth\n[C]were through\nAnd she must face this [D]world\n[Em]without me\nIs the love I gave her in the past\n[Am7]Gonna be enough to last\n[D]If tomorrow never comes?\n[G]\n'Cause I've lost loved ones in my\n\n[Verse 2]\n[Am]life\n[D]Who never knew how much I loved\n[C/G]them [G]\n[Am/G][G]Now I\n[D]live with the regret [Am7]That my true fee-\n[D]lings for them [C]never were re-\n[G]vealed [C/G]\n[G]So I made a promise to my-\n[Am]self\n[D]To say each day how much she means\n[C/G]to me [G]\n[Am/G][G]And a-\n[D]void that circumstance [Am7]Where there's no se-\n[D]cond chance to [C]tell her how I\n[G]feel\n\n[Chorus]\n[G]'Cause if [G/A]tomorrow [G/B]never\n[C]comes\nWill she know how much I\n[G]loved her?\nDid I try in every way\n[D]to [Am7]show her every day\n[D]That [C]she's my only one?\n[G]\nAnd if my time [G/A]on [G/B]earth\n[C]were through\nAnd she must face this [D]world\n[Em]without me\nIs the love I gave her in the past\n[Am7]Gonna be enough to last\n[D]If tomorrow never comes?\n[G]\n\n[Outro]\n[G]So tell that someone that you love\n[Am7]Just what you're thinkin' of\n[D]If tomorrow never comes\n[C]  [G/B]  [Am]\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am/G": {
+      "catalog": [
+        "302210"
+      ],
+      "catalogCount": 1
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/A": {
+      "catalog": [
+        "x00003"
+      ],
+      "catalogCount": 1
+    },
+    "G/B": {
+      "catalog": [
+        "x20003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "If Tomorrow Never Comes",
+  "id": "b3358e238740c9866d47a030f802df75cbc17912ad5bcae75044feeb5c0be7ea",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 308,
+  "normalizedKey": "garth brooks|if tomorrow never comes",
+  "playableChords": [
+    "G",
+    "Am",
+    "D",
+    "C/G",
+    "Am/G",
+    "Am7",
+    "C",
+    "G/A",
+    "G/B",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b3358e238740c9866d47a030f802df75cbc17912ad5bcae75044feeb5c0be7ea",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "If Tomorrow Never Comes",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}
