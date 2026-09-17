@@ -1,0 +1,92 @@
+{
+  "artist": "M83",
+  "artistNormalized": "m83",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]  [Em]\n[Bm]  [G]\n[D]\n[D]  [Em]\n[Bm]  [G]\n[D]\n[D]  [Em]\n[Bm]  [G]\n[D]\n[D]  [Em]\n[Bm]  [G]\n[D]\n\n[Verse]\n[D]  [Em]\n[Bm]  [G]\n[D]\n[D]  [Em]\n[Bm]I'm the [G]king of my own\n[D]land\n[D]Facing [Em]tempests of\n[Bm]dust, I'll [G]fight until the\n[D]end\n[D]Creatures of my dreams raise [Em]up and\n[Bm]dance with me! [G]\n[D]\n[D]Now and forever, [Em]\n[Bm]I [G]am your\n[D]king!\n\n[Bridge]\n[D]  [Em]\n[Bm]  [G]\n[D]\n[D]  [Em]\n[Bm]  [G]\n[D]\n[D]  [Em]\n[Bm]  [G]\n[D]\n[D]  [Em]\n[Bm]  [G]\n[D]\n\n[Outro]\n[D]  [Em]\n[Bm]  [G]\n[D]\n[D]  [Em]\n[Bm]  [G]\n[D]\n[D]  [Em]\n[Bm]  [G]\n[D]",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Outro",
+  "id": "bc0f45cc607718cbd9b9228933e90602b75585fe99eafa2e99a7a1bc414c4ec7",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 39,
+  "normalizedKey": "m83|outro",
+  "playableChords": [
+    "D",
+    "Em",
+    "Bm",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bc0f45cc607718cbd9b9228933e90602b75585fe99eafa2e99a7a1bc414c4ec7",
+    "version": "BCFZ"
+  },
+  "tempo": 54,
+  "title": "Outro",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

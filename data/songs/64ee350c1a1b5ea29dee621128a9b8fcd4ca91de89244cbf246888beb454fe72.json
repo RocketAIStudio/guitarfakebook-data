@@ -1,0 +1,112 @@
+{
+  "artist": "Mazzy Star",
+  "artistNormalized": "mazzy star",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n[E]\n[Bm]\n[A]\n[E]\n[Bm]\n\n[Verse 1]\n[A]I want to\n[E]hold the hand in-\n[Bm]side you\n[A]I want to\n[E]take the breath that's\n[Bm]true\n[A]I look to\n[E]you and I see\n[Bm]nothing\n[A]I look to\n[E]you to see the\n[Bm]truth\n\n[Verse 2]\n[A]You live your\n[E]life, you go in\n[Bm]shadows\n[A]You'll come a-\n[E]part and you'll go\n[Bm]black\n[A]Some kind of\n[E]night into your\n[Bm]darkness\n[A]Colors your\n[E]eyes with what's not\n[Bm]there\n\n[Chorus]\n[A]Fade\n[E]in-\n[Bm]to you\n[A]Strange\n[E]you ne-\n[Bm]ver knew\n[A]Fade\n[E]in-\n[Bm]to you\n[D]\n[A]I think it's strange\n[E]you never\n[Bm]knew\n\n[Solo]\n[A]\n[E]\n[Bm]\n[A]\n[E]\n[Bm]\n[A]\n[E]\n[Bm]\n[D]\n[A]\n[E]\n[Bm]\n\n[Verse 3]\n[A]A stranger's\n[E]light comes on\n[Bm]slowly\n[A]A stranger's\n[E]heart without a\n[Bm]home\n[A]You put your\n[E]hands into your\n[Bm]head\n[A]And then it\n[E]smiles cover your\n[Bm]heart\n\n[Chorus]\n[A]Fade\n[E]in-\n[Bm]to you\n[A]Strange\n[E]you ne-\n[Bm]ver knew\n[A]Fade\n[E]in-\n[Bm]to you\n[D]\n[A]I think it's strange\nyou never\n[Bm]knew\n\n[Outro]\n[A]Fade\n[E]in-\n[Bm]to you\n[A]Strange\n[E]you ne-\n[Bm]ver knew\n[A]Fade\n[E]in-\n[Bm]to you\n[D]\n[A]I think it's strange\n[E]you never\n[Bm]knew\n\n[Fade Out]\n[A]I think it's strange\n[E]you never\n[Bm]knew",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Fade Into You",
+  "id": "64ee350c1a1b5ea29dee621128a9b8fcd4ca91de89244cbf246888beb454fe72",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 171,
+  "normalizedKey": "mazzy star|fade into you",
+  "playableChords": [
+    "A",
+    "E",
+    "Bm",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 73,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus"
+    },
+    {
+      "measure": 105,
+      "name": "Outro"
+    },
+    {
+      "measure": 121,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "64ee350c1a1b5ea29dee621128a9b8fcd4ca91de89244cbf246888beb454fe72",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Fade Into You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

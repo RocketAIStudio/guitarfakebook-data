@@ -1,0 +1,126 @@
+{
+  "artist": "Led Zeppelin",
+  "artistNormalized": "led zeppelin",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E5]\n[A5]\n[G5]\n[E5]\n[A5]\n[G5]\n[E5]\n\n[Verse 1]\n[E5]Oh\nbaby it's\ncryin' time\nOh\nbaby I\ngot to fly\n[A5]Got to try to find\n[G5]a way\n[E5]Got\nto try to get away\n[A5]\n[G5]'Cause you know I gotta get away\n[E5]from you babe\n\n[Verse 2]\n[E5]Oh\nbaby\nthe river's red,\nah\nbaby\nin my head\n[A5]There's a funny feelin'\n[G5]goin' on\n[E5]\nI\n[A5]don't think I can hold out long\n[G5]\n\n[Chorus]\n[G6/D]\nAnd when the owls cry\nin the night\n[Asus2]Oh\nbaby, baby when the\npines begin to cry\nBa-\nby, baby, baby how\ndo you feel?\n[G6/D]If\nthe river runs dry,\nbaby, how do you feel?\n\n[Riff]\n[E5]\n[A5]\n[G5]\n[E5]\n[A5]\n[G5]\n[E5]\n\n[Verse 3]\n[E5]Craze,\nbaby, the rain-\nbow's end,\nmmm, ba-\nby, it's\n[A5]just a den For those\n[G5]who hide,\n[E5]hide their love to\ndepths of life\n[A5]And ruin dreams that we\n[G5]all knew so, babe\n\n[Chorus]\n[G6/D]\nAnd when the owls cry\nin the night\n[Asus2]Oh\nbaby when the pines\nbegin to cry\nOh\nbaby, baby, how\ndo you feel?\n[G6/D]\nIf the\nriver runs dry, baby,\nhow do you feel?\n\n[Bridge]\n[G6/D]\n[Asus2]\n[G6/D]\nBaby how do\nyou feel?\n\n[Interlude]\n[A]\n\n[Verse 4]\n[E5]Ooh\nyeah, brave\nI endure\nOoh\nyeah, strong\nshields and\nlore\n[A5]They can't hold the wrath\n[G5]of those who walk\n[E5]An' the\nboots of those who march\n[A5]Baby, through\n[G5]the roads of time so long a-\n[E5]go\n\n[Outro]\n[E5]\n\n[Fade Out]\n[E5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "57xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "Asus2": {
+      "catalog": [
+        "x67966"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "6799xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G6/D": {
+      "catalog": [
+        "x55400"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Four Sticks *alt",
+  "id": "b54a7dace7c2531be0390e17cfbc1a55ad8d66fb3adb9cecec1e48145718e716",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 233,
+  "normalizedKey": "led zeppelin|four sticks",
+  "playableChords": [
+    "E5",
+    "A5",
+    "G5",
+    "G6/D",
+    "Asus2",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Riff"
+    },
+    {
+      "measure": 76,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 88,
+      "name": "Chorus"
+    },
+    {
+      "measure": 104,
+      "name": "Bridge"
+    },
+    {
+      "measure": 120,
+      "name": "Interlude"
+    },
+    {
+      "measure": 136,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 154,
+      "name": "Outro"
+    },
+    {
+      "measure": 170,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b54a7dace7c2531be0390e17cfbc1a55ad8d66fb3adb9cecec1e48145718e716",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "Four Sticks",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

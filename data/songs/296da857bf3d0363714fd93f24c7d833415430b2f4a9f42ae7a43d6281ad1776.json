@@ -1,0 +1,126 @@
+{
+  "artist": "Lauren Daigle",
+  "artistNormalized": "lauren daigle",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\n[D]\n[C]\n[D]\n\n[Verse 1]\n[C]I am guilty\n[D]\n[C]Ashamed of what I've done,\n[D]what I've become\n[C]These hands are dirty\n[D]\n[C]I dare not lift them up\n[D]to the Holy one\n[C]\n[D]\n\n[Chorus]\n[G]You plead my cause\n[Am7]You right my wrongs\n[G/B]You break my chains\n[C]You overcome\n[G]You gave Your life\n[Am7]To give me mine\n[G/B]You say that I am free\n[C]How [D]can it be\n[G]\n[Am7]How can it be\n[G/B]\n[C]\n\n[Verse 2]\n[C]I've been hiding\n[D]\n[C]Afraid I've let you down,\n[D]inside I doubt\n[C]That You still love me\n[D]\n[C]But in Your eyes there's on-\n[D]ly grace now\n[C]\n[D]\n\n[Chorus]\n[G]You plead my cause\n[Am7]You right my wrongs\n[G/B]You break my chains\n[C]You overcome\n[G]You gave Your life\n[Am7]To give me mine\n[G/B]You say that I am free\n[C]How [D]can it be\n[G]\n[Am7]How can it be\n[G/B]\n[C]\n\n[Interlude]\n[G/B]Though I [C]fall, You can\n[D]make me new\n[G/B]From this [C]death I will\n[D]rise with You\n[G/B]Oh the [C]grace reaching\n[D]out for me\n[G/B]How can [C]it be\n[D]\n[G/B]How can [C]it be\n[D]\n\n[Chorus]\n[G]You plead my cause\n[Am7]You right my wrongs\n[Em]You break my chains\n[D]You overcome\n[G]You gave Your life\n[Am7]To give me mine\n[G/B]You say that I am free\n[C]  [D]\n[G]You plead my cause\n[Am7]You right my wrongs\n[G/B]You break my chains\n[C]You overcome\n[D]You gave Your life\n[Em]To give me mine\n[G/B]You say that I am free\n[C]How [D]can it be\n[G]\n[Am7]How can it be\n[G/B]\n[C]\n\n[Outro]\n[C]\n[D]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02213",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x2543x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "How Can It Be",
+  "id": "296da857bf3d0363714fd93f24c7d833415430b2f4a9f42ae7a43d6281ad1776",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 234,
+  "normalizedKey": "lauren daigle|how can it be",
+  "playableChords": [
+    "C",
+    "D",
+    "G",
+    "Am7",
+    "G/B",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Interlude"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 80,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "296da857bf3d0363714fd93f24c7d833415430b2f4a9f42ae7a43d6281ad1776",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "How Can It Be",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

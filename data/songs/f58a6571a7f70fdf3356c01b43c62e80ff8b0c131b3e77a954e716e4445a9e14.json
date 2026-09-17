@@ -1,0 +1,115 @@
+{
+  "artist": "Linkin Park",
+  "artistNormalized": "linkin park",
+  "capo": "5",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]  [G]\n[C]\n[Am]  [G]\n[C]\n\n[Verse 1]\n[Am]Mama always told [G]me don’t you\n[C]run Don’t you run with scis\n[Am]sors, son [G]You’re gonna\n[C]hurt someone\n[Am]Mama told me look [G]before you\n[C]leap Always think before\n[Am]you speak, [G]and watch the\n[C]friends you keep\n[F]Stay along the beaten path,\n[G]never listened when she said\n\n[Chorus]\n[C]Sharp [G]edges have\n[Am]consequences I\n[Dm]guess that I [G]had to\n[Am]find out for myself\n[C]Sharp [G]edges have\n[Am]consequences Now\n[Dm]every scar [G]is a\n[Am]story I can tell\n[Am]  [G]\n[C]\n\n[Verse 2]\n[Am]Should ’ve played [G]safer from the\n[C]start Loved you like a hou-\n[Am]se of cards [G]Let it fall\n[C]apart\n[Am]But all the things I [G]couldn’t under-\n[C]stand Never could\n[Am]’ve planned [G]They made me\n[C]who I am\n[F]Put your nose on paperbacks\n[G]Instead of smoking cigarettes\n[Am]These years you ’re [G]never getting\n[C]back\n[F]Stay along the beaten path,\n[G]never listened when she said\n\n[Chorus]\n[C]Sharp [G]edges have\n[Am]consequences I\n[Dm]guess that I [G]had to\n[Am]find out for myself\n[C]Sharp [G]edges have\n[Am]consequences Now\n[Dm]every scar [G]is a\n[Am]story I can tell\n\n[Interlude]\n[C]We [G]all fall\n[Am]down We live some-\n[Dm]how We [G]learn what\n[Am]doesn’t kill us makes us stronger\n[C]We [G]all fall\n[Am]down We live some-\n[Dm]how We [G]learn what\n[Am]doesn’t kill us makes us stronger\n[C]  [G]\n[Am]\n[Dm]  [G]\n[Am]\n[F]Stay along the beaten path,\n[G]never listened when she said\n\n[Chorus]\n[C]Sharp [G]edges have\n[Am]consequences I\n[Dm]guess that I [G]had to\n[Am]find out for myself\n[C]Sharp [G]edges have\n[Am]consequences Now\n[Dm]every scar [G]is a\n[Am]story I can tell\n[C]We [G]all fall\n[Am]down We live some-\n[Dm]how We [G]learn what\n[Am]doesn’t kill us makes us stronger\n[C]We [G]all fall\n[Am]down We live some-\n[Dm]how We [G]learn what\n[Am]doesn’t kill us makes us stronger\n[C]  [G]\n[Am]\n[Dm]  [G]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sharp Edges",
+  "id": "f58a6571a7f70fdf3356c01b43c62e80ff8b0c131b3e77a954e716e4445a9e14",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 343,
+  "normalizedKey": "linkin park|sharp edges",
+  "playableChords": [
+    "Am",
+    "G",
+    "C",
+    "F",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 48,
+      "name": "Interlude"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f58a6571a7f70fdf3356c01b43c62e80ff8b0c131b3e77a954e716e4445a9e14",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "Sharp Edges",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

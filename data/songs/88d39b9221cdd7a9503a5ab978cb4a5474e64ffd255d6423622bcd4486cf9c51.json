@@ -1,0 +1,138 @@
+{
+  "artist": "Kraftwerk",
+  "artistNormalized": "kraftwerk",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n\n[Verse 1]\n[Am]She's a model and she's\n[Em]looking good.\n[Am]\n[Em]I'd\n[Am]like to take her home that's\n[Em]under stood.\n[Am]\n[Em]She\n[Am]plays hard to get, she smiles from\n[Em]time to time.\n[Am]\n[Em]It\n[Am]only takes a camera to\n[Em]change her mind.\n[Am]\n[Em]\n\n[Bridge]\n[C]\n[Bm]\n[G]\n[C]\n[Bm]\n[E]\nShe's\n\n[Verse 2]\n[Am]going out to night, p'haps drin king\n[Em]just champagne.\n[Am]\n[Em]And\n[Am]she has been checking nearly\n[Em]all the men.\n[Am]\n[Em]She's\n[Am]playing her game, and you can\n[Em]hear them say:\n[Am]\n[Em]\n[Am]\"She's looking good, for beauty\n[Em]we will pay.\"\n[Am]\n[Em]\n\n[Bridge]\n[C]\n[Bm]\n[G]\n[C]\n[Bm]\n[E]\n\n[Intrelude]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n\n[Bridge]\n[C]\n[Bm]\n[G]\n[C]\n[Bm]\n[E]\nShe's\n\n[Verse 3]\n[Am]posing for consumer products\n[Em]now and then.\n[Am]\n[Em]For\n[Am]every camera she gives the\n[Em]best she can.\n[Am]\n[Em]I\n[Am]saw her on the cover of a\n[Em]magazine.\n[Am]\n[Em]Now\n[Am]she's a big success I want to\n[Em]meet her a gain.\n[Am]\n[Em]\n\n[Intrelude]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n\n[Outro]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Model",
+  "id": "88d39b9221cdd7a9503a5ab978cb4a5474e64ffd255d6423622bcd4486cf9c51",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 135,
+  "normalizedKey": "kraftwerk|the model",
+  "playableChords": [
+    "Am",
+    "Em",
+    "C",
+    "Bm",
+    "G",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 97,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 105,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "88d39b9221cdd7a9503a5ab978cb4a5474e64ffd255d6423622bcd4486cf9c51",
+    "version": "BCFZ"
+  },
+  "tempo": 124,
+  "title": "The Model",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

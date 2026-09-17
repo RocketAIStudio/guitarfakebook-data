@@ -1,0 +1,127 @@
+{
+  "artist": "La Luz",
+  "artistNormalized": "la luz",
+  "capo": "1",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\n[A]\n[Am]\n[A]\nIn\n\n[Verse 1]\n[Am]air so hot and sweet\n[A]\nwe\n[Am]heard it in the breeze\n[A]\nMe-\n[Am]tallic simmering\n[A]\nof\n[Am]invisible things\n[A]\nWill we e-\n\n[Chorus]\n[G]ver\nhave our own\n[F]house?\nWill we e-\n[G]ver\nbe in one\n[F]place long?\nLong enough\n[G]to\nknow all the\n[F]sounds\nTo at least\n[G]know our\nway around?\n\n[Interlude]\n[E]\n[F]\n[E]\n[F]\n\n[Bridge]\n[Am]\n[A]\n[Am]\n[A]\n\n[Solo]\n[Am]\n[A]\n[Am]\n[A]\n[G]\n[A]\n[E]\n[A]\nWhen you said\n\n[Chorus]\n[G]that you'd\nlove me bet-\n[F]ter\nWith eve-\n[G]ry\npassing\n[F]day\nHow could that\n[G]go\non fore-\n[F]ver\nWhen I'm\n[G]different\nevery-\nday\n\n[Interlude]\n[E]\n[F]\n[E]\n[F]\n\n[Bridge]\n[Am]\n[A]\n[Am]\n[A]\nIn\n\n[Outro]\n[Am]air so hot and sweet\n[A]\nwe\n[Am]heard in the breeze\n[A]\nMe-\n[Am]tallic simmering\n[A]\nof\n[Am]invisible things\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Cicada",
+  "id": "0f08159a0722866b36beb0b51110f8db91b2d206ab4651c9aacd47425f40c63a",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 109,
+  "normalizedKey": "la luz|cicada",
+  "playableChords": [
+    "Am",
+    "A",
+    "G",
+    "F",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Interlude"
+    },
+    {
+      "measure": 97,
+      "name": "Bridge"
+    },
+    {
+      "measure": 105,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0f08159a0722866b36beb0b51110f8db91b2d206ab4651c9aacd47425f40c63a",
+    "version": "BCFZ"
+  },
+  "tempo": 153,
+  "title": "Cicada",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

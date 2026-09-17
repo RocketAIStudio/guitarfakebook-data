@@ -1,0 +1,99 @@
+{
+  "artist": "Manchester Orchestra",
+  "artistNormalized": "manchester orchestra",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 5,
+  "content": "[C#]\n\n[Verse]\n[C#]I am the on-\nly\none that\nthinks I'm going\n[F#]crazy And I\ndon't know what to do\n[C#]\nAnd\nI am the o-\nnly\nson of a\npastor I\n[F#]know Who\ndoes the things I do\n[C#]\n\n[Chorus]\n[C#]But if it was\n[G#5]you I don't think that\n[A#5]it would [F#5]matter\n[C#]\nOh, and if it was tru-\n[G#5]e Then I just\n[A#5]wouldn't [F#5]matter\n[C#]\n\n[Verse 2]\n[C#]I was a-\nmazed at the\ncolor and\nshapes you\n[F#]do A\npaper part for two\n[C#]\nI am the on-\nly\nson of a\nbastard I\n[F#]know That\nknows the bastard too\n[C#]\n\n[Chorus]\n[C#]Because it was\n[G#5]you I called it a\n[A#5]different [F#5]story\n[C#]\nBut if I was\n[G#5]you I'd make this a\n[A#5]simpler [F#5]story\n[C#]\n\n[Bridge]\n[C#]I bet you did what you\ndid When you did it To\n[F#]do it again By the\ntime you were done with it\n[C#]\nI bet you did what you\ndid When you did Just to\n[F#5]tell every friend that you\nhave That the Lord did it\n[C#]\n\n[Ending]\n[C#]I finally\n[G#5]knew that I simply\n[A#5]couldn't [F#5]matter\n[C#]\nYou finally\n[G#5]knew that you simply\n[A#5]couldn't [F#5]matter\n[C#]\nI guess it's\n[G#5]true you never knew\nThe passive\n[F#5]power of the truth\nWould let me lo-\n[C#]se\nIf I could write\n[G#5]another phrase\nWe might be\n[F#5]better off this way\nBut there's no us-\n[C#]e\nHoney, there's no us-\ne",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Only One",
+  "id": "e4c4f5db4325cb19ec13479d6fcc1690b9701d631321be4a0c11cb0ae45f7e6e",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 258,
+  "normalizedKey": "manchester orchestra|the only one",
+  "playableChords": [
+    "C#",
+    "F#",
+    "G#5",
+    "A#5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 7,
+      "name": "Verse"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Bridge"
+    },
+    {
+      "measure": 68,
+      "name": "Ending"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e4c4f5db4325cb19ec13479d6fcc1690b9701d631321be4a0c11cb0ae45f7e6e",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "The Only One",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

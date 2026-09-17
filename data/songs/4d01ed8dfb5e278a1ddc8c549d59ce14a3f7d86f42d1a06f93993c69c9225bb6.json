@@ -1,0 +1,104 @@
+{
+  "artist": "Lord Huron",
+  "artistNormalized": "lord huron",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F#m]\n[E]\n[A]\n[F#m]\n[A]\n[D]\n[F#m]\n[E]\n[A]\n[F#m]\n[A]\n[D]\n\n[Verse 1]\n[F#m]I am not the\n[E]only\n[A]traveler\n[F#m]Who has not re-\n[A]paid his\n[D]debt\nI've been\n[F#m]searching for a\n[E]trail to\n[A]follow again\nTake me back\n[F#m]to the\n[A]night we\n[D]met\nAnd then I\n\n[Verse 2]\n[F#m]can\n[A]tell my-\n[D]self\nWhat the hell\n[F#m]I'm\n[A]supposed to\n[D]do\nAnd then I\n[F#m]can\n[A]tell my-\n[D]self\nNot to ride\n[F#m]a-\n[A]long with\n[D]you\nI had\n\n[Chorus]\n[F#m]all and then most of you,\n[E]some and now\n[A]none of you\nTake me back\n[F#m]to the\n[A]night we\n[D]met\nI don't\n[F#m]know what I'm supposed to do,\n[E]haunted by the\n[A]ghost of you\nOh, take me back\n[F#m]to the\n[A]night we\n[D]met\nWhen the night\n\n[Verse 3]\n[F#m]was\n[A]full of\n[D]terrors\nAnd your eyes\n[F#m]were\n[A]filled with\n[D]tears\nWhen you had\n[F#m]not\n[A]touched me\n[D]yet\nOh, take me back\n[F#m]to the\n[A]night we\n[D]met\nI had\n\n[Chorus]\n[F#m]all and then most of you,\n[E]some and now\n[A]none of you\nTake me back\n[F#m]to the\n[A]night we\n[D]met\nI don't\n[F#m]know what I'm supposed to do,\n[E]haunted by the\n[A]ghost of you\nTake me back\n[F#m]to the\n[A]night we\n[D]met\n\n[Outro]\n[F#m]\n[A]\n[D]\n[F#m]\n[A]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Night We Met",
+  "id": "4d01ed8dfb5e278a1ddc8c549d59ce14a3f7d86f42d1a06f93993c69c9225bb6",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 196,
+  "normalizedKey": "lord huron|the night we met",
+  "playableChords": [
+    "F#m",
+    "E",
+    "A",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 81,
+      "name": "Chorus"
+    },
+    {
+      "measure": 97,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4d01ed8dfb5e278a1ddc8c549d59ce14a3f7d86f42d1a06f93993c69c9225bb6",
+    "version": "BCFZ"
+  },
+  "tempo": 87,
+  "title": "The Night We Met",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

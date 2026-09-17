@@ -1,0 +1,107 @@
+{
+  "artist": "Lauv",
+  "artistNormalized": "lauv",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\nWhen we\n[Eadd9]met, I wasn't\n[G#m7]me I was so\n[B]numb, yeah, I was so\n[F#add11]lonely Out on the\n[Eadd9]run, I wasn't\n[G#m7]free And you came a-\n[B]long, but you couldn't\n[F#add11]save me\n\n[Pre-Chorus]\n[Eadd9]My hesitation and holdin' my breath\n[G#m7]I led you into the garden of my loneli-\n[B]ness Wished that you left before it\n[F#add11]all burned down Oh,\n\n[Chorus]\n[Eadd9]Julia I'm sorry what I\n[G#m7]do to ya I push and pull and\n[B]mess with your head Then get in your bed 'cause I'm\n[F#add11]weak deep down Oh,\n[Eadd9]Julia I wish I never\n[G#m7]lied to ya I never meant to\n[B]hurt you like that And if I could go back, I'd\n[F#add11]leave you alone When I\n\n[Verse 2]\n[Eadd9]left, I wasn't\n[G#m7]sure That I could\n[B]love, love any-\n[F#add11]more But\n\n[Pre-Chorus]\n[Eadd9]my hesitation and holdin' my breath\n[G#m7]I led you into the garden of my loneli-\n[B]ness Wished that you left before it\n[F#add11]all burned down Oh,\n\n[Chorus]\n[Eadd9]Julia I'm sorry what I\n[G#m7]do to ya I push and pull and\n[B]mess with your head Then get in your bed 'cause I'm\n[F#add11]weak deep down Oh,\n[Eadd9]Julia I wish I never\n[G#m7]lied to ya I never meant to\n[B]hurt you like that And if I could go back, I'd\n[F#add11]leave you alone I won't lie to you no\n\n[Interlude]\n[Eadd9]more I won't lie to you no\n[G#m7]more 'Cause I know I did\n[B]before Hope you find what you're looking\n[F#add11]for\n\n[Outro]\n[Eadd9]\n[G#m7]\n[B]\n[F#add11]\n[E]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Eadd9": {
+      "catalog": [
+        "022102"
+      ],
+      "catalogCount": 1
+    },
+    "F#add11": {
+      "catalog": [
+        "xx4302"
+      ],
+      "catalogCount": 1
+    },
+    "G#m7": {
+      "catalog": [
+        "464474"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Julia",
+  "id": "cd2fb7b6660adb109b660a298030f9b673e4b57a3bd7e5a23ac2b4352ec6ff6e",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 271,
+  "normalizedKey": "lauv|julia",
+  "playableChords": [
+    "Eadd9",
+    "G#m7",
+    "B",
+    "F#add11",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Interlude"
+    },
+    {
+      "measure": 42,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cd2fb7b6660adb109b660a298030f9b673e4b57a3bd7e5a23ac2b4352ec6ff6e",
+    "version": "BCFZ"
+  },
+  "tempo": 55,
+  "title": "Julia",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,119 @@
+{
+  "artist": "Matthew And The Atlas",
+  "artistNormalized": "matthew and the atlas",
+  "capo": "4",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]  [F]\n[C]\n[Fsus2]  [G]\n[Am]\n[Am]  [F]\n[C]\n[Fsus2]  [G]\n[Am]In the\n\n[Verse 1]\n[Am]palace there was hope [F]and\n[C]joy In the\n[Fsus2]palace there was hope [G]and\n[Am]joy\n[Am]See the demon [F]in the night\n[C]The\n[Fsus2]shape of it covers [G]the light\n[Am]\n[Am]Feathers touch upon [F]the\n[C]skin When\n[Fsus2]no one else would [G]let you\n[Am]in\n[Am]Skies are black [F]immensi-\n[C]ty\n[Fsus2]Ready for you [G]and\n[Am]me\n\n[Chorus]\n[C][F]Baby\n[G]You were bound [Am][C]to go\n[C][F]crazy\n[G]Is it now [Am][C]or just\n[C][F]lately\n[G]Things are [Am]getting a [C]little\n[C][F]ha-\n[G]zy\n\n[Bridge]\n[Am]  [F]\n[C]\n[Fsus2]  [G]\n[Am]\n\n[Verse 2]\n[Am]Flashing light above [F]me\n[C]shone The\n[Fsus2]rain falls like an [G]old\n[Am]song\n[Am]Take a drug to [F]calm the pain\n[C]I\n[Fsus2]know that you [G]feel the\n[Am]same\n[Am]Crimson moon [F]above to-\n[C]night\n[Fsus2]Soon it will be [G]out of\n[Am]sight\n[Am]Now can you [C][F]see it\n[C]through There is\n[Fsus2]someone that [G]waits for\n[Am]you\n\n[Chorus]\n[C][F]Baby\n[G]You were bound [Am][C]to go\n[C][F]crazy\n[G]Is it now [Am][C]or just\n[C][F]lately\n[G]Things are [Am]getting a [C]little\n[C][F]ha-\n[G]zy\n\n[Bridge]\n[Am]  [F]\n[C]\n[Fsus2]  [G]\n[Am]  [G]  [F]\n[C]\n[F]  [G]\n[Am]\n\n[Chorus]\n[C][F]Baby\n[G]You were bound [Am][C]to go\n[C][F]crazy\n[G]Is it now [Am][C]or just\n[C][F]lately\n[G]Things are [Am]getting a [C]little\n[C][F]ha-\n[G]zy\n\n[Outro]\n[Am]  [F]\n[C]\n[Fsus2]  [G]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fsus2": {
+      "catalog": [
+        "133011"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Palace",
+  "id": "e278f26bda34057a64887556222f805d095dadd87712f4aabee6052625c94520",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 191,
+  "normalizedKey": "matthew and the atlas|palace",
+  "playableChords": [
+    "Am",
+    "F",
+    "C",
+    "Fsus2",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Bridge"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e278f26bda34057a64887556222f805d095dadd87712f4aabee6052625c94520",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "Palace",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

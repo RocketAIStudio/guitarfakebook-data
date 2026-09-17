@@ -1,0 +1,137 @@
+{
+  "artist": "Kings of Leon",
+  "artistNormalized": "kings of leon",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Em7]\n[Cmaj9]\n[G]\nShe said call\n[Em7]me now baby,\n[Cmaj9]and I'd come a running.\n[G]\nShe said call\n[Em7]me now baby, and I'd\n[Cmaj9]come a running.\n[G]\nIf you'd call\n[Em7]me now, baby then\n[Cmaj9]I'd come a running.\n[Em7]\n[Bm]\n[G]\n[Bm]\n[G]\n[Bm]\n\n[Verse 1]\n[G]I'm on call,\n[Bm]to be there.\n[G]One and all,\n[Bm]to be there.\n[G]And When I fall,\n[Bm]to pieces.\n[G]Lord you know,\n[Bm]I'll be there waiting.\n\n[Chorus]\n[G]\n[Bm]To be there.\n[G]\n[Bm]To be there.\n\n[Verse 2]\n[G]I'm on call,\n[Bm]to be there.\n[G]One and all,\n[Bm]to be there.\n[G]And When I fall,\n[Bm]to pieces.\n[G]Lord you know,\n[Bm]I'll be there waiting.\n\n[Chorus]\n[G]I'm gon' brawl,\n[Bm]so be there.\n[G]One for all,\n[Bm]I'll be there.\n[G]And when they fall,\n[Bm]to pieces.\n[G]Lord you know,\n[Bm]I'll be there laug hing.\n\n[Guitar Solo]\n[G]I'd\ncome a running.\n[C]I'd\ncome a running.\n[D]I'd\ncome a running.\n[Em]\n[G]\n[C]\n[D]\n\n[Pre-Chorus]\n[G]\n[Bm]\n[G]\n[Bm]\n\n[Chorus]\n[G]\n[Bm]To be there.\n[G]\n[Bm]To be there.\n[G]I'm on call,\n[Bm]to be there.\n[G]I'm on call,\n[Bm]to be there.\n[G]I'm on call,\n[Bm]to be there.\n[G]I'm on call,\n[Bm]to be there.",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj9": {
+      "catalog": [
+        "x3243x"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "On Call",
+  "id": "a9639b704615a366c78dc7be0005a4b84b62716ad68d0ecd389d458bc6333ee7",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 165,
+  "normalizedKey": "kings of leon|on call",
+  "playableChords": [
+    "Em7",
+    "Cmaj9",
+    "G",
+    "Bm",
+    "C",
+    "D",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 65,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a9639b704615a366c78dc7be0005a4b84b62716ad68d0ecd389d458bc6333ee7",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "On Call",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

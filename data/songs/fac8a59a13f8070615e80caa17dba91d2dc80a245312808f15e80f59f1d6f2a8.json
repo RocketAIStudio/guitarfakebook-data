@@ -1,0 +1,74 @@
+{
+  "artist": "Les innocents",
+  "artistNormalized": "les innocents",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[Dm]\nSur les vieilles roses -----du couvre lit\n\n[couplet 1]\n-----j'entends les choses -------d'ici ------\nDehors explose --le genre humain ------\nsans m麥e une cause -----, pour rien\n-----dentelle----dentelle\n\n[refrain 1]\n[A]\n\n[couplet 2]\n\n[refrain 2]\n\n[refrain 2 bis]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "Dentelle",
+  "id": "fac8a59a13f8070615e80caa17dba91d2dc80a245312808f15e80f59f1d6f2a8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 36,
+  "normalizedKey": "les innocents|dentelle",
+  "playableChords": [
+    "Dm",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 6,
+      "name": "couplet 1"
+    },
+    {
+      "measure": 22,
+      "name": "refrain 1"
+    },
+    {
+      "measure": 39,
+      "name": "couplet 2"
+    },
+    {
+      "measure": 55,
+      "name": "refrain 2"
+    },
+    {
+      "measure": 70,
+      "name": "refrain 2 bis"
+    }
+  ],
+  "source": {
+    "format": "gp4",
+    "sha256": "fac8a59a13f8070615e80caa17dba91d2dc80a245312808f15e80f59f1d6f2a8",
+    "version": "FICHIER GUITAR PRO v4.06"
+  },
+  "tempo": 115,
+  "title": "Dentelle",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

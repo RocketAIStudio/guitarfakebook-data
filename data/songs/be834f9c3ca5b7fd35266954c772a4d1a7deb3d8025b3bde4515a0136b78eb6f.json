@@ -1,0 +1,104 @@
+{
+  "artist": "Lana Del Ray",
+  "artistNormalized": "lana del ray",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Fm7]  [Eb]\n[Bb]\n[Fm7]  [Eb]\n[Bb]\n[Fm7]  [Eb]\n[Bb]\n[Fm7]  [Eb]\n[Bb]\n[Fm7]  [Eb]\n[Bb]\n\n[Verse 1]\n[Fm7]Blue jeans, [Eb]white shirt\n[Bb]Walked into the room you know you made my eyes burn It was\n[Fm7]like James Dean, [Eb]for sure\n[Bb]You so fresh to death and sick as cacancer\n[Fm7]You/were sorta punk rock, [Eb]I grew up on hip hop But\n[Bb]you fit me better than my favorite sweater, and I know\n[Fm7]That love is mean, [Eb]and love hurts But\n[Bb]I still remember that day we met in December, oh baby\n\n[Chorus]\n[Fm7]I will love you [Eb]'til the end of\n[Bb]time I would wait a million years\n[Fm7]Promise you'll [Eb]remember that you're\n[Bb]mine Baby can you see through the te-\n[Fm7]ars? Love you more [Eb]Than those bitches before\n[Bb]Say you'll remember, oh baby, say you'll remember oh baby\n[Fm7]ooh I will love you [Eb]'til the end of\n[Bb]time\n\n[Verse 2]\n[Fm7]Big dreams, [Eb]gangster\n[Bb]Said you had to leave to start your life over I was\n[Fm7]like, no please, [Eb]stay here\n[Bb]We don't need no money we can make it all work But he\n[Fm7]headed out on Sunday, [Eb]said he'd come home Monday\n[Bb]I stayed up waitin', anticipatin' and pacin' but he was\n[Fm7]Chasing [Eb]paper\n[Bb]Caught up in the game, that was the last I heard\n\n[Chorus]\n[Fm7]I will love you [Eb]'til the end of\n[Bb]time I would wait a million years\n[Fm7]Promise you'll [Eb]remember that you're\n[Bb]mine Baby can you see through the te-\n[Fm7]ars? Love you more [Eb]Than those bitches before\n[Bb]Say you'll remember, oh baby, say you'll remember oh baby\n[Fm7]ooh I will love you [Eb]'til the end of\n[Bb]time\n\n[Bridge]\n[Fm]You went out every night And baby that's alright\nI told you that no matter what you did I'd be by your side\n[Eb]Cause Ima ride or die Whether you fail or fly\nWell shit, at least you tried But when you walked out that door,\n[Fm]a piece of me died Told you I wanted more\nnot what I had in mind Just want it like before\n[Eb]We were dancin' all night Then they took you away-\nstole you out of my life You just need to remem-\nber\n\n[Chorus]\n[Fm7]I will love you [Eb]'til the end of\n[Bb]time I would wait a million years\n[Fm7]Promise you'll [Eb]remember that you're\n[Bb]mine Baby can you see through the te-\n[Fm7]ars? Love you more [Eb]Than those bitches before\n[Bb]Say you'll remember, oh baby, say you'll remember oh baby\n[Fm7]ooh I will love you [Eb]'til the end of\n[Bb]time",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "688766",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "x-8-10-10-9-8",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "Fm7": {
+      "catalog": [
+        "x-8-10-8-9-8",
+        "1-3-1-1-1-1",
+        "x-x-3-5-4-4",
+        "13-15-13-13-13-13",
+        "x-20-22-20-21-20"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Blue Jeans",
+  "id": "be834f9c3ca5b7fd35266954c772a4d1a7deb3d8025b3bde4515a0136b78eb6f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 470,
+  "normalizedKey": "lana del ray|blue jeans",
+  "playableChords": [
+    "Fm7",
+    "Eb",
+    "Bb",
+    "Fm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Bridge"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "be834f9c3ca5b7fd35266954c772a4d1a7deb3d8025b3bde4515a0136b78eb6f",
+    "version": "BCFZ"
+  },
+  "tempo": 59,
+  "title": "Blue Jeans",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

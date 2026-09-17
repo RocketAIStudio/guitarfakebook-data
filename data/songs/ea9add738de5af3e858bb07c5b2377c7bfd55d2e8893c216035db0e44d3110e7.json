@@ -1,0 +1,144 @@
+{
+  "artist": "Madonna",
+  "artistNormalized": "madonna",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[D#m]\nI made it\n\n[Verse 1]\n[F#]through the wilderness\nSomehow I\nmade it through\n[G#m]Didn't know how lost\nI was Until I\n[F#]found you\nI was beat\nIncomplete\nI'd been had,\nI was sad\nand blue But you\n\n[Pre-Chorus]\n[G#m]made me feel [D#m]\nYeah, you\n[G#m]made me [D#m]feel\nShiny and new\n[C#sus4]\n[C#sus2][C#]Hoo, Like a\n\n[Chorus]\n[F#]virgin\nTouched for the\nvery first time\nLike a\n[G#m]virgin\nWhen your\n[F#]heart beats\nNext to mine Gonna give you\n\n[Verse 2]\n[F#]all my love, boy\nMy fear is\nfading fast\n[G#m]Been saving it all\nfor you 'Cause only\n[F#]love can last\nYou're so fine\nAnd you're mine\nMake me strong,\nyeah you make\nme bold Oh your\n\n[Pre-Chorus]\n[G#m]love thawed out [D#m]\nYeah, your\n[G#m]love thawed out [D#m]\nWhat was scared and cold\n[C#sus4]\n[C#sus2][C#]Like a\n\n[Chorus]\n[F#]virgin, hey\nTouched for the\nvery first time\nLike a\n[G#m]virgin\nWhen your\n[F#]heart beats\nNext to mine\n\n[Bridge]\n[D#m]\n[G#]Whoa\n[D#m]\n[G#]Whoa,\n[D#m]\n[G#]Whoa\n[D#m]\n[G#7]You're so fine\n\n[Verse 3]\n[F#]And you're mine\nI'll be yours\n'Till the end\nof time 'Cause you\n\n[Pre-Chorus]\n[G#m]made me feel [D#m]\nYeah, you\n[G#m]made me [D#m]feel\nI've nothing to hide\n[C#sus4]\n[C#sus2][C#]Like a\n\n[Chorus]\n[F#]virgin, hey\nTouched for the\nvery first time\nLike a\n[G#m]virgin\nWith your\n[F#]heartbeat\nNext to mine Like a\nvirgin,\nooh ooh Like a\nvirgin\nFeels so good inside\n[G#m]When you\nhold me, And your\n[F#]heart beats, And you\nlove me Oh\n\n[Outro]\n[F#]oh",
+  "diagrams": {
+    "C#": {
+      "catalog": [
+        "x4666x",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#sus2": {
+      "catalog": [
+        "x46644"
+      ],
+      "catalogCount": 1
+    },
+    "C#sus4": {
+      "catalog": [
+        "x4667x"
+      ],
+      "catalogCount": 1
+    },
+    "D#m": {
+      "catalog": [
+        "x68876"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    },
+    "G#7": {
+      "catalog": [
+        "464544"
+      ],
+      "catalogCount": 1
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Like A Virgin *alt",
+  "id": "ea9add738de5af3e858bb07c5b2377c7bfd55d2e8893c216035db0e44d3110e7",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 241,
+  "normalizedKey": "madonna|like a virgin",
+  "playableChords": [
+    "D#m",
+    "F#",
+    "G#m",
+    "C#sus4",
+    "C#sus2",
+    "C#",
+    "G#",
+    "G#7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 69,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Chorus"
+    },
+    {
+      "measure": 91,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ea9add738de5af3e858bb07c5b2377c7bfd55d2e8893c216035db0e44d3110e7",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Like A Virgin",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

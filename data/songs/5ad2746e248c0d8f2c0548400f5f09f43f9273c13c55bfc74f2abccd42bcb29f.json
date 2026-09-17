@@ -1,0 +1,117 @@
+{
+  "artist": "Lil Boom",
+  "artistNormalized": "lil boom",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Cadd9]\n[Bm7]  [B7/D#]\n[Em7]  [Ebm7]\n[Dm7]  [G6]\n[Cadd9]\n[Bm7]  [B7/D#]\n[Em7]OMAE WA MOU... [Ebm7]\n[G6][Dm7]SHINDEIRU\n\n[Verse 1]\n[Cadd9]Utsumuita kono odeko ton-\n[Bm7]ton tataita No [B7/D#]we kimi nano ka-\n[Em7]na? Chigau no kana? Me we [Ebm7]ake-\n[Dm7]tai no ni mada [G6]kowain da\n[Cadd9]yuuyake tte nan da ka\n[Bm7]samishii [B7/D#]Onegai,\n[Em7]matte Mou [Ebm7]sugu\n[Dm7]motto motto [G6]yobu kara\n\n[Verse 2]\n[Cadd9]Utsumuita kono odeko ton-\n[Bm7]ton tataita No [B7/D#]we kimi nano ka-\n[Em7]na? Chigau no kana? Me we [Ebm7]ake-\n[Dm7]tai no ni mada [G6]kowain da\n[Cadd9]yuuyake tte nan da ka\n[Bm7]samishii [B7/D#]Onegai,\n[Em7]matte Mou [Ebm7]sugu\n[Dm7]motto motto [G6]yobu kara\n\n[Verse 3]\n[Cadd9]Atarimae mitai na ko-\n[Bm7]toba nante [B7/D#]yamete yo\n[Em7]datte [Ebm7]hoshii no,\n[Dm7]Homo no [G6]kimochi dake\n[Cadd9]mada, mada, Kodomo dat-\n[Bm7]te iun desho [B7/D#]wakatteru\n[Em7]no Kawaritai no [Ebm7]dakedo ne\n[Dm7]sotto sotto [G6]oshiete\n[Cadd9]Atarashii sekai no ka-\n[Bm7]gi mawashite [B7/D#]Senaka wo\n[Em7]dakishimetai, [Ebm7]nante ne\n[Dm7]Chotto osanai [G6]tte shitteru\n\n[Outro]\n[Cadd9]\n[Bm7]  [B7/D#]\n[Em7]  [Ebm7]\n[Dm7]  [G6]\n[Cadd9]\n[Bm7]  [B7/D#]\n[Em7]  [Ebm7]\n[Dm7]  [G6]",
+  "diagrams": {
+    "B7/D#": {
+      "catalog": [
+        "xx1202"
+      ],
+      "catalogCount": 1
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "Dm7": {
+      "catalog": [
+        "xx0211",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Ebm7": {
+      "catalog": [
+        "xx1322",
+        "x-6-8-6-7-6",
+        "11-13-11-11-11-11",
+        "x-x-13-15-14-14",
+        "x-18-20-18-19-18"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "xx2433",
+        "0-2-0-0-0-0",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12",
+        "x-19-21-19-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Already Dead (Omae Wa Mou)",
+  "id": "5ad2746e248c0d8f2c0548400f5f09f43f9273c13c55bfc74f2abccd42bcb29f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 250,
+  "normalizedKey": "lil boom|already dead omae wa mou",
+  "playableChords": [
+    "Cadd9",
+    "Bm7",
+    "B7/D#",
+    "Em7",
+    "Ebm7",
+    "Dm7",
+    "G6"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5ad2746e248c0d8f2c0548400f5f09f43f9273c13c55bfc74f2abccd42bcb29f",
+    "version": "BCFZ"
+  },
+  "tempo": 93,
+  "title": "Already Dead (Omae Wa Mou)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

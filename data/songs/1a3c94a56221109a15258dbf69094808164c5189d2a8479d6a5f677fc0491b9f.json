@@ -1,0 +1,120 @@
+{
+  "artist": "Kings of Leon",
+  "artistNormalized": "kings of leon",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E]\n[A]\n[C#m]\n[B]\n[E]\n[A]\n[C#m]\n[B]\n\n[Verse 1]\n[E]I got a notion that says it doesn't feel\n[A]right Got the answer in your story today\n[C#m]You gave me a sign that didn't feel\n[B]right no\n\n[Chorus]\n[E]So don't knock it, don't knock it, you been here before\n[A]\n[C#m]So don't knock it, don't knock it, you been here before\n[B]\n\n[Bridge]\n[E]\n[A]\n[C#m]\n[B]\n\n[Verse 2]\n[E]I just wanted to know if i could go\n[A]home Been rambling day after\n[C#m]day Everyone says they don't\n[B]know\n\n[Chorus]\n[E]So don't knock it, don't knock it, you been here before\n[A]\n[C#m]So don't knock it, don't knock it, you been here before\n[B]\n\n[Solo]\n[E]\n[A]\n[C#m]\n[B]\n\n[Verse 3]\n[E]I got a notion that says it doesn't feel\n[A]right I just wanted to know if i could\n[C#m]go home\n[B]\n\n[Chorus]\n[E]So don't knock it, don't knock it, you been here before\n[A]\n[C#m]So don't knock it, don't knock it, you been here before\n[B]\n\n[Bridge]\n[E]\n[A]\n[C#m]\n[B]\n\n[Chorus]\n[E]So don't knock it, don't knock it,\n[A]\n[C#m]So don't knock it, don't knock it,\n[B]\n[E]So don't knock it, don't knock it, you been here before\n[A]\n[C#m]So don't knock it, don't knock it, you been here before\n[B]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Notion",
+  "id": "1a3c94a56221109a15258dbf69094808164c5189d2a8479d6a5f677fc0491b9f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 189,
+  "normalizedKey": "kings of leon|notion",
+  "playableChords": [
+    "E",
+    "A",
+    "C#m",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Solo"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1a3c94a56221109a15258dbf69094808164c5189d2a8479d6a5f677fc0491b9f",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "Notion",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

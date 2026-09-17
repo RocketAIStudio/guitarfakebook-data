@@ -1,0 +1,94 @@
+{
+  "artist": "Lagwagon",
+  "artistNormalized": "lagwagon",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[C#]How do you suf-\n[G#]fer, feel the\n[Bbm/F]pain Feel sor-\n[C#]row for any-\n[F#]thing All those\n[C#]bodies in your\n[G#]wake\n[C#]I see you hang-\n[G#]ing by your\n[Bbm/F]noose Deliver\n[C#]diviine ex-\n[F#]cuse, Drowning\n[C#]sirens in your\n[G#]lake\n\n[Chorus]\n[F#]It's a son-\n[Ab]net, but there's no\n[C#]way to [C#maj7/C]puut a\n[Bbm/F]ribbon [G#]on it\n[F#]True believ-\n[G#]ing, you will\n[C#]never [C#maj7/C]fiind the stre-\n[Bbm/F]ength in [G#]grieving\n[F#]The burden of\n[G#]proof lies on\n[C#]you",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x02220",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm/F": {
+      "catalog": [
+        "224432"
+      ],
+      "catalogCount": 1
+    },
+    "C#": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#maj7/C": {
+      "catalog": [
+        "x40232"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "320033",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "x02220"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Burden of Proof",
+  "id": "ccc44d4e3b6544fb7355fb24e483d0cc4d40a843afc97eaf85b07f9c1ba86363",
+  "key": "D♭",
+  "keyIdentified": true,
+  "lyricEventCount": 85,
+  "normalizedKey": "lagwagon|burden of proof",
+  "playableChords": [
+    "C#",
+    "G#",
+    "Bbm/F",
+    "F#",
+    "Ab",
+    "C#maj7/C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ccc44d4e3b6544fb7355fb24e483d0cc4d40a843afc97eaf85b07f9c1ba86363",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Burden of Proof",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

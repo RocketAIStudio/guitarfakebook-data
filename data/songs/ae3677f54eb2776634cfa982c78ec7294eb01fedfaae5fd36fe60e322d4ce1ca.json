@@ -1,0 +1,105 @@
+{
+  "artist": "Kula Shaker",
+  "artistNormalized": "kula shaker",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[D]\n[C]  [G]\n\n[Verse 1]\n[D]Govinda Jaya Jaya\nGopala Jaya Jaya\nRadharamanahari\nGovinda Jaya Jaya\nGovinda Jaya Jaya\nGopala Jaya Jaya\nRadharamanahari\nGovinda Jaya Jaya\n\n[Interlude]\nGokula ram janakha-\nda\nGo-\npala\n\n[Verse 2]\n[D]Govinda Jaya Jaya\nGopala Jaya Jaya\nRadharamanahari\nGovinda Jaya Jaya\nGovinda Jaya Jaya\nGopala Jaya Jaya\nRadharamanahari\nGovinda Jaya Jaya\n\n[Chorus]\n[D]Nrsingadeva Jaya Nr-\nsingadeva Nrsinga\nNrsingadeva Jaya Nr-\nsingadeva Nrsinga\nNrsingadeva Jaya Nr-\nsingadeva Nrsinga\nNrsingadeva\n\n[Solo]\n[D]\n\n[Verse 3]\n[D]Govinda Jaya Jaya\nGopala Jaya Jaya\nRadharamanahari\nGovinda Jaya Jaya\nGovinda Jaya Jaya\nGopala Jaya Jaya\nRadharamanahari\nGovinda Jaya Jaya\n\n[Chorus]\n[D]  [C]  [D]\n[C]  [G]\n[C][D]Gaura [D]Gaura Gau-\n[D][C]ra [D]Hari\n[D]  [C]  [D]\n[C][G]Prabhup-\n[D]da [C][D]\n[C][D]Gaura [D]Hari, yeah\n\n[Outro]\n[D][C][D]Prabhupda,\n[C][G]yeah\n[D][C][D]Prabhup-\n[D]da [C][D]\n[D]  [C]  [D]\n[C]  [G]\n[D]  [C]  [D]\n[D]  [C]  [D]  [G]  [C]  [G]  [C]\n[D]Go-\nvin-\n\n[Fade Out]\ndam",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Govinda",
+  "id": "ae3677f54eb2776634cfa982c78ec7294eb01fedfaae5fd36fe60e322d4ce1ca",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 248,
+  "normalizedKey": "kula shaker|govinda",
+  "playableChords": [
+    "D",
+    "C",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Solo"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 71,
+      "name": "Outro"
+    },
+    {
+      "measure": 81,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ae3677f54eb2776634cfa982c78ec7294eb01fedfaae5fd36fe60e322d4ce1ca",
+    "version": "BCFZ"
+  },
+  "tempo": 87,
+  "title": "Govinda",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

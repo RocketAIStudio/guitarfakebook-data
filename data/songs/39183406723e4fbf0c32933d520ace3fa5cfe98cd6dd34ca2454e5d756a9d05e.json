@@ -1,0 +1,133 @@
+{
+  "artist": "Kenny Chesney",
+  "artistNormalized": "kenny chesney",
+  "capo": "6",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D5]\n[Gadd11/D]\n[C]\n\n[Verse 1]\n[D5]I ain't lonely,\n[Gadd11/D]but I spend a lot of time alo-\n[C]ne\n[D5]More than I'd like to,\n[Gadd11/D]but I'm okay with staying home\n[C]\n\n[Pre-Chorus]\n[Fsus2]By how the [C]last few months have changed\n[G]\n[Fsus2]I'm smilin' more [C]despite the pain\n[G]\n\n[Chorus]\n[C]I breathe in,\n[G/B]I breathe out\n[Am7]Got friends to call who let me\n[Fsus2]talk about\n[C]What ain't working,\n[G/B]what's still hurtin'\n[Am7]All the things I feel like\n[Fsus2]cussing out\n[D5]Now and then I let [C]it go I\n[Fsus2]ride the waves I can't [C]control I'm lear-\n[D5]ning how to build [G/B]a better boat\n[C]\n\n[Verse 2]\n[D5]I hate waiting,\n[Gadd11/D]ain't no patience in these hands\n[C]\n[D5]I'm not complaining,\n[Gadd11/D]sometimes it's hard to change a man\n[C]\n\n[Pre-Chorus]\n[Fsus2]I think I'm [C]stronger than I was,\n[G]\n[Fsus2]I let God [C]do what he does\n[G]\n\n[Chorus]\n[C]I breathe in,\n[G/B]I breathe out\n[Am7]Got friends to call who let me\n[Fsus2]talk about\n[C]What ain't working,\n[G/B]what's still hurtin'\n[Am7]All the things I feel like\n[Fsus2]cussing out\n[D5]Now and then I let [C]it go I\n[Fsus2]ride the waves I can't [C]controll I'm lear-\n[D5]ning how to build [G/B]a better boat\n[C]\n\n[Bridge]\n[D5]\n[Fsus2]\n\n[Chorus]\n[C]I breathe in,\n[G]I breathe out\n[Am7]Got friends to call who let me\n[Fsus2]talk about\n[C]What ain't working,\n[G/B]what's still hurtin'\n[Am7]All the things I feel like\n[Fsus2]cussing out\n[D5]Now and then I let [C]it go I\n[Fsus2]ride the waves I can't [C]control\n[D5]If it's working [C]I don't know When\n[Fsus2]I get done the thing [C]may not float But I'm\n[D5]learning how to build [G]a better boat\n[C]\n\n[Outro]\n[D5]  [Gadd11/D]\n[C]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x0201x",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x3201x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "xx023x"
+      ],
+      "catalogCount": 1
+    },
+    "Fsus2": {
+      "catalog": [
+        "xx301x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x2003x"
+      ],
+      "catalogCount": 1
+    },
+    "Gadd11/D": {
+      "catalog": [
+        "x5550x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Better Boat",
+  "id": "39183406723e4fbf0c32933d520ace3fa5cfe98cd6dd34ca2454e5d756a9d05e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 275,
+  "normalizedKey": "kenny chesney|better boat",
+  "playableChords": [
+    "D5",
+    "Gadd11/D",
+    "C",
+    "Fsus2",
+    "G",
+    "G/B",
+    "Am7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "39183406723e4fbf0c32933d520ace3fa5cfe98cd6dd34ca2454e5d756a9d05e",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "Better Boat",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

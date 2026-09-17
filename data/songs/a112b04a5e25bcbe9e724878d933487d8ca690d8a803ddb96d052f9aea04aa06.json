@@ -1,0 +1,148 @@
+{
+  "artist": "Kent",
+  "artistNormalized": "kent",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[C]\n[Am]  [Asus2]\n[F7M]\n[F7M/5-/C]\n[C]\n[Am]  [Asus2]\n[F7M]\n[F7M/5-/C]\n\n[Verse 1]\n[C]Down under water\n[Am]I'm [Asus2]pale blue\n[F7M]\n[F7M/5-/C]\n[C]Deep down the chlorine\n[Am]smells like you [Asus2]\n[Dm]  [F]\n[G]Was it you that held too [F]\n\n[Bridge]\n[Am]tight ?   Was it me that was too weak ? [G]\n[C]I will leave you where you lay [F]\n[Am]While I slip and slide away [G]\n[F7M]\n\n[Verse 2]\n[C]Behind my wristwatch\n[Am]the skin is white [Asus2]\n[F7M]\n[F7M/5-/C]\n[C]Behind my wristwatch\n[Am]where winter hides [Asus2]\n[Dm]  [F]\n[G]Was it you that held too tight ? [F]\n\n[Bridge]\n[Am]Was it me that was too weak ? [G]\n[C]I will leave you where you lay [F]\n[Am]While I slip and slide away [G]\n[F7M]\n[F7M]The little things\n\n[Chorus]\n[Am]that she [G]says\n[F][C]The little things\n[Am]that she [G]does\n[F][C]The little things\n[Am]that she [G]says\n[F][C]The little things\n[Am]that she [G]does\n[F7M]\n\n[Solo]\n[G]\n[Dm]\n[Am]  [Asus2]\n[G]\n[G]\n[Dm]\n[F7M]  [F/5-/C]\n[F7M]  [F/5-/C]\n[C]\n[Am]  [Asus2]\n[F7M]\n[F7M/5-/C]\n[C]\n[Am]  [Asus2]\n[F7M]\n[F7M/5-/C]The little things\n\n[Chorus]\n[Am]that she [G]says\n[F][C]The little things\n[Am]that she [G]does\n[F][C]The little things\n[Am]that she [G]says\n[F][C]The little things\n[Am]that she [G]does\n[F7M]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Asus2": {
+      "catalog": [
+        "x02200",
+        "x0220x"
+      ],
+      "catalogCount": 2
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "032010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F/5-/C": {
+      "catalog": [
+        "x3320x"
+      ],
+      "catalogCount": 1
+    },
+    "F7M": {
+      "catalog": [
+        "x33210"
+      ],
+      "catalogCount": 1
+    },
+    "F7M/5-/C": {
+      "catalog": [
+        "x33200"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "x2x033",
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Things She Said",
+  "id": "a112b04a5e25bcbe9e724878d933487d8ca690d8a803ddb96d052f9aea04aa06",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 57,
+  "normalizedKey": "kent|things she said",
+  "playableChords": [
+    "C",
+    "Am",
+    "Asus2",
+    "F7M",
+    "F7M/5-/C",
+    "Dm",
+    "F",
+    "G",
+    "F/5-/C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Solo"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gp3",
+    "sha256": "a112b04a5e25bcbe9e724878d933487d8ca690d8a803ddb96d052f9aea04aa06",
+    "version": "FICHIER GUITAR PRO v3.00"
+  },
+  "tempo": 80,
+  "title": "Things She Said",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

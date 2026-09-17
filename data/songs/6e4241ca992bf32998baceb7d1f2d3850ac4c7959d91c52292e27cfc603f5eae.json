@@ -1,0 +1,115 @@
+{
+  "artist": "Little Big Town",
+  "artistNormalized": "little big town",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\nI got a\n\n[Verse 1]\n[C]girl crush,\nhate to ad-\n[Em]mit it but\nI got a\n[F]heart rush,\nain't slowin'\n[G]down\nI got it\n[C]real bad,\nwant everything\n[Em]she has\nThat smile and the\n[F]midnight laugh\nshe's givin' you\n[G]now\nI wanna\n\n[Chorus]\n[Am]taste her\nlips, yeah, 'cause they\n[F]taste like\nyou I wanna\n[C]drown my-\nself in a bottle of\n[G]her per-\nfume I want her\n[Am]long blonde\nhair, I want her\n[F]magic\ntouch Yeah, 'cause\n[C]maybe\nthen you'd want me\n[G]just as\nmuch I got a\n[Am]girl crush,\n[F]\n[C]\n[G]I got a\n[Am]girl crush\n[F]\n[C]\n[G]I don't\n\n[Verse 2]\n[C]get no\nsleep, I don't\n[Em]get no\npeace Thinkin' a-\n[F]bout her\nunder your\n[G]bed sheets\nThe way that she's\n[C]whispe-\nrin', the way that she's\n[Em]pullin' you in\nLord knows I've\n[F]tried,\nI can't get her\n[G]off my mind\nI wanna\n\n[Chorus]\n[Am]taste her\nlips, yeah, 'cause they\n[F]taste like\nyou I wanna\n[C]drown my-\nself in a bottle of\n[G]her per-\nfume I want her\n[Am]long blonde\nhair, I want her\n[F]magic\ntouch Yeah, 'cause\n[C]maybe\nthen you'd want me\n[G]just as\nmuch I got a\n\n[Solo]\n[Am]girl crush\n[F]\n[C]\n[G]\n[Am]\n[F]\n[C]\n[G]I got a\n\n[Outro]\n[C]girl crush,\nhate to ad-\n[Em]mit it but\nI got a\n[F]heart rush,\nit ain't slowin'\ndown",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Girl Crush",
+  "id": "6e4241ca992bf32998baceb7d1f2d3850ac4c7959d91c52292e27cfc603f5eae",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 222,
+  "normalizedKey": "little big town|girl crush",
+  "playableChords": [
+    "C",
+    "Em",
+    "F",
+    "G",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Solo"
+    },
+    {
+      "measure": 85,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6e4241ca992bf32998baceb7d1f2d3850ac4c7959d91c52292e27cfc603f5eae",
+    "version": "BCFZ"
+  },
+  "tempo": 116,
+  "title": "Girl Crush",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

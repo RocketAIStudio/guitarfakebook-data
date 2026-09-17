@@ -1,0 +1,119 @@
+{
+  "artist": "Linkin Park",
+  "artistNormalized": "linkin park",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C#m]\n\n[Chorus]\n[C#]Crawling in my\n[A]skin These\n[E]wounds, they will not\n[B]heal\n[C#]Fear is how I\n[A]fall Con-\n[E]fusing what is\n[B]real\n\n[Pre-Verse]\n[C#]\n[A]\n[E]\n[B]\n\n[Verse 1]\n[C#]There's something inside me That\n[A]pulls beneath the surface\n[E]Consuming,\n[B]confusing\n[C#]This lack of self control I\n[A]fear, is never ending\n[E]Controlling,\n[B]I can't seem\n[A]To find myself again\n[B]My walls are closing in\n[C#m]\n[E]\n[A]I've felt this way before\n[B], so inse-\n[C#m]cure\n\n[Chorus]\n[C#]Crawling in my\n[A]skin These\n[E]wounds, they will not\n[B]heal\n[C#]Fear is how I\n[A]fall Con-\n[E]fusing what is\n[B]real\n\n[Verse 2]\n[C#]Discomfort, endlessly has\n[A]pulled itself upon me\n[E]Distracting,\n[B]reacting\n[C#]Against my will I stand be-\n[A]side my own reflection\n[E]It's haunting, How\n[B]I can't seem\n\n[Pre-Chorus]\n[A]To find myself again\n[B]My walls are closing in\n[C#m]\n[E]\n[A]I've felt this way before\n[B]_, so inse-\n[C#m]cure\n\n[Chorus]\n[C#]Crawling in my\n[A]skin These\n[E]wounds, they will not\n[B]heal\n[C#]Fear is how I\n[A]fall Con-\n[E]fusing what is re-\n[B]al\n[C#]Crawling in my\n[A]skin These\n[E]wounds, they will not\n[B]heal\n[C#]Fear is how I\n[A]fall Con-\n[E]fusing, con-\n[B]fusing what is re-\n[C#]al\n[A]\n[E]Con-\n[B]fusing what is re-\n[C#]al\n[A]\n[E]Con-\n[B]fusing what is re-\nal",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Crawling *alt 2",
+  "id": "c1fefdd49e87b2530c932b631c524751855e6ddf070a1d82c031215ae670f0c7",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 228,
+  "normalizedKey": "linkin park|crawling",
+  "playableChords": [
+    "C#m",
+    "C#",
+    "A",
+    "E",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 55,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c1fefdd49e87b2530c932b631c524751855e6ddf070a1d82c031215ae670f0c7",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "Crawling",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "alt"
+}

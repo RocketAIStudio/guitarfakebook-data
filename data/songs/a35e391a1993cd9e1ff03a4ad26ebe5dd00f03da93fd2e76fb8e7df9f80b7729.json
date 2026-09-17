@@ -1,0 +1,140 @@
+{
+  "artist": "Led Zeppelin",
+  "artistNormalized": "led zeppelin",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Am]\n[C/G]\n[Am]\n[G]  [D]\n[Am]\n[G]  [D]  [C]\n[G]\n[Am]  [G]  [D]\n\n[Verse 1]\n[D][Am]Measuring a\n[D][G]summer's day\n[Am]Ionly find it\n[G]slips [D]away [C]to\ngrey [G]\n[Am]The hours [C]they [D]bring\nme pain\n[C]  [D]  [G]\n\n[Chorus]\n[D][G]Tangerine [C]\n[D]Tangerine [G]\nliving [D]reflection [C]\nfrom a dream [D][G]\nI was her love [D][C]oh\nshe was my [D]queen [G]\nand now a thousand years\n[D]between\n\n[Verse 2]\n[Am]Thinking how it\n[G]used [D]to be\n[Am]does she still re-\n[D][G]member times [C]like\nthese [G]\n[Am]to think [G]of us [D]a-\ngain\nand i do\n\n[Solo]\n[Am]\n[G6]\n[D]\n[F]\n[E]  [F]  [E]\n[F]\n[C]  [G]\n[D]\n[C]  [D]  [G]\n\n[Chorus]\n[D][G]Tangerine [C]\n[D]Tangerine [G]\nliving [D]reflection [C]\nfrom a dream [D][G]\nI was her love [D][C]\nshe was my [D]queen [G]\nand now a thousand years\n[D]between\n\n[Outro]\n[D]\n[Am]\n[G]\n[F]\n[C]  [G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tangerine *alt 2",
+  "id": "a35e391a1993cd9e1ff03a4ad26ebe5dd00f03da93fd2e76fb8e7df9f80b7729",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 108,
+  "normalizedKey": "led zeppelin|tangerine",
+  "playableChords": [
+    "Am",
+    "C/G",
+    "G",
+    "D",
+    "C",
+    "G6",
+    "F",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Solo"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a35e391a1993cd9e1ff03a4ad26ebe5dd00f03da93fd2e76fb8e7df9f80b7729",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Tangerine",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

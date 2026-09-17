@@ -1,0 +1,121 @@
+{
+  "artist": "Mac DeMarco",
+  "artistNormalized": "mac demarco",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G#m7]  [D#m7]\n[G#m7]  [D#m7]\n[A6]  [Amaj7/E]\n[A6]  [Amaj7/E]\n[G#m7]  [D#m7]\n[G#m7]  [D#m7]\n[A6]  [Amaj7/E]\n[A6]  [Amaj7/E]\n\n[Verse 1]\n[G#m7]Brother's hands [D#m7]\n[G#m7]This [D#m7]time it's in\n[A6]brother's hands [Amaj7/E]\n[Amaj7/E][A6]Baby, are you sa-\n[G#m7]tisfied? [D#m7]\n[G#m7]Is this [D#m7]all that you had\n[A6]in mind? [Amaj7/E]\n[A6]  [Amaj7/E]\n\n[Break]\n[G#m7]  [D#m7]\n[G#m7]  [D#m7]\n[A6]  [Amaj7/E]\n[A6]  [Amaj7/E]\n[G#m7]  [D#m7]\n[G#m7]  [D#m7]\n[A6]  [Amaj7/E]\n[A6]  [Amaj7/E]\n\n[Chorus]\n[G#m7]On the square\n[Gmaj7]Live a life that is-\n[F#7sus4]n't there Square\n[G#m7]it up\n[Gmaj7]Call me once you've had\n[F#7sus4]enough\n[F#7]\n\n[Verse 2]\n[G#m7]Brother's hands [D#m7]\n[G#m7]Feel [D#m7]the grip of\n[A6]brother's hands [Amaj7/E]\n[Amaj7/E][A6]Maybe it's been rec-\n[G#m7]tified [D#m7]\n[G#m7]Locked [D#m7]outside and left\n[A6]to die [Amaj7/E]\n[A6]  [Amaj7/E]\n\n[Break]\n[G#m7]  [D#m7]\n[G#m7]  [D#m7]\n[A6]  [Amaj7/E]\n[A6]  [Amaj7/E]\n[G#m7]  [D#m7]\n[G#m7]  [D#m7]\n[A6]  [Amaj7/E]\n[A6]  [Amaj7/E]\n\n[Chorus]\n[G#m7]On the square\n[Gmaj7]Live a life that is-\n[F#7sus4]n't there Square\n[G#m7]it up\n[Gmaj7]Call me once you've had\n[F#7sus4]enough On\n[G#m7]the square\n[Gmaj7]Live a life that is-\n[F#7sus4]n't there Square\n[G#m7]it up\n[Gmaj7]Call me once you've had\n[F#7sus4]enough\n\n[Outro]\n[F#7]",
+  "diagrams": {
+    "A6": {
+      "catalog": [
+        "x02222"
+      ],
+      "catalogCount": 1
+    },
+    "Amaj7/E": {
+      "catalog": [
+        "002224"
+      ],
+      "catalogCount": 1
+    },
+    "D#m7": {
+      "catalog": [
+        "xx1322"
+      ],
+      "catalogCount": 1
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#7sus4": {
+      "catalog": [
+        "242422"
+      ],
+      "catalogCount": 1
+    },
+    "G#m7": {
+      "catalog": [
+        "464444"
+      ],
+      "catalogCount": 1
+    },
+    "Gmaj7": {
+      "catalog": [
+        "354433",
+        "3-2-0-0-0-2",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7",
+        "x-10-12-11-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "On The Square",
+  "id": "a4ded55220aefbd396ae84246785187f8c9a681938f826b9e45eae05f151c16f",
+  "key": "G♯",
+  "keyIdentified": true,
+  "lyricEventCount": 109,
+  "normalizedKey": "mac demarco|on the square",
+  "playableChords": [
+    "G#m7",
+    "D#m7",
+    "A6",
+    "Amaj7/E",
+    "Gmaj7",
+    "F#7sus4",
+    "F#7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Break"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Break"
+    },
+    {
+      "measure": 48,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a4ded55220aefbd396ae84246785187f8c9a681938f826b9e45eae05f151c16f",
+    "version": "BCFZ"
+  },
+  "tempo": 77,
+  "title": "On The Square",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

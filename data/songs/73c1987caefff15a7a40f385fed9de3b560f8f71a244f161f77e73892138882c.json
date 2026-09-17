@@ -1,0 +1,128 @@
+{
+  "artist": "Mac Demarco",
+  "artistNormalized": "mac demarco",
+  "capo": "2",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Em/C#]\n[C7M]\n\n[Verse 1]\n[Em/C#]Vice roy, [C7M]\n[G7/D][G]early in the\n[Em/C#]morning, [C7M]\n[G]Just [G7/D]tryna let the\n[Em/C#]sun in [C7M]\n[G]and [G7/D]open up my\n[Em/C#]eyes. [C7M]\n[G]  [G7/D]\n[Em/C#]Viceroy [C7M]\n[G]as [G7/D]it's gettin'\n[Em/C#]later [C7M]\n[G7/D][G]headin' For the\n[Em/C#]corner [C7M]\n[G7/D][G]already runnin'\n[Em/C#]dry [C7M]\n[G]\n\n[Chorus]\n[Cmaj7]oh Don't let\n[Bm7]me see you cryin\n[E7M]  [Cmaj7]\n[D]\n[Cmaj7]oh Honey i'll smoke\n[Bm7]you til' i'm dyin'\n[E7M]  [Cmaj7]\n[D]\n[Bm7]\n[Cmaj7]\n\n[Verse 2]\n[Em/C#]Vice roy, [C7M]\n[G]don't [G7/D]take me for a\n[Em/C#]fool now [C7M]\n[G]I'm [G7/D]only tryna'\n[Em/C#]calm down [C7M]\n[G]just [G7/D]tryna keep it\n[Em/C#]cool [C7M]\n[G]  [G7/D]\n[Em/C#]Viceroy, [C7M]\n[G]as [G7/D]it's gettin\n[Em/C#]later [C7M]\n[G7/D][G]Headin' for the\n[Em/C#]corner, [C7M]\n[G]I'm [G7/D]leavin it to\n[Em/C#]you. [C7M]\n[G]\n\n[Chorus]\n[Cmaj7]Oh don't let\n[Bm7]me see you cryin'\n[E7M]  [Cmaj7]\n[D]\n[Cmaj7]Oh honey i'll smoke\n[Bm7]you til' i'm dyin'\n[E7M]  [Cmaj7]\n[D]\n[Bm7]\n[Cmaj7]\n\n[Outro (Fade Out)]\n[G]  [C7M]\n[G7/D]\n[G]  [C7M]\n[G7/D]\n[G]  [C7M]\n[G7/D]\n[G]  [C7M]\n[G7/D]\n[G]  [C7M]\n[G7/D]\n[G]  [C7M]\n[G7/D]\n[G]  [C7M]\n[G7/D]\n[G]  [C7M]\n[G7/D]\n[G]  [C7M]\n[G7/D]\n[G]  [C7M]\n[G7/D]\n[G]  [C7M]\n[G7/D]",
+  "diagrams": {
+    "Bm7": {
+      "catalog": [
+        "x2423x",
+        "x-2-4-2-3-2",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "C7M": {
+      "catalog": [
+        "x32000"
+      ],
+      "catalogCount": 1
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x35453",
+        "x-3-2-0-0-0",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7M": {
+      "catalog": [
+        "679897"
+      ],
+      "catalogCount": 1
+    },
+    "Em/C#": {
+      "catalog": [
+        "x42000"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7/D": {
+      "catalog": [
+        "x53433"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ode to Viceroy",
+  "id": "73c1987caefff15a7a40f385fed9de3b560f8f71a244f161f77e73892138882c",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 119,
+  "normalizedKey": "mac demarco|ode to viceroy",
+  "playableChords": [
+    "Em/C#",
+    "C7M",
+    "G",
+    "G7/D",
+    "Cmaj7",
+    "Bm7",
+    "E7M",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "73c1987caefff15a7a40f385fed9de3b560f8f71a244f161f77e73892138882c",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "Ode to Viceroy",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

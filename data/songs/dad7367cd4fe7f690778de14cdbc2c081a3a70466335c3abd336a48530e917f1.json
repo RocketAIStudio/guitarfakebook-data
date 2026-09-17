@@ -1,0 +1,129 @@
+{
+  "artist": "Lera Lynn",
+  "artistNormalized": "lera lynn",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Dm]\n[Dm]\n[Dm]\n[Dm]\n[A]\n[Gm]\n[Dm]\n\n[Verse 1]\n[A]This is my [A7]least favorite\n[Dm]life The\n[A]one where you [A7]fly and I\n[Dm]don’t A\n[A]kiss holds a [A7]million de-\n[Dm]ceits And a lifetime goes\n[Gm]up in\n[A7]smoke\n[A]This is my [A7]least favorite\n[Dm]you Who\n[A]floats far [A7]above earth and\n[Dm]stone The\n[A]nights that I [A7]twist on the\n[Dm]rack Is the time that I\n[Gm]feel most at\n[A7]home We're\n\n[Chorus]\n[A#]wandering in the\n[Dm]shade And the\n[A#]rustle of fallen\n[Dm]leaves A\n[A]bird on the [A7]edge of a\n[Dm]blade Lost now fo-\n[A#]rever, my\n[C]love, in a [C#dim]sweet memo-\nry\n\n[Bridge]\n[Dm]\n[Dm]\n[Dm]\n[Dm]The\n\n[Verse 2]\n[A]station pulls [A7]away from the\n[Dm]train The\n[A]blue pulls [A7]away from the\n[Dm]sky The\n[A]whisper of [A7]two broken\n[Dm]wings May be they’re\n[Gm]yours, maybe they’re\n[A7]mine\n[A]This is my [A7]least favorite\n[Dm]life The\n[A]one where I'm [A7]out of my\n[Dm]mind The\n[A]one where you are [A7]just out of\n[Dm]reach The one where I\n[Gm]stay and you\n[A7]fly I'm\n\n[Chorus]\n[A#]wandering in the\n[Dm]shade And the\n[A#]rustle of fallen\n[Dm]leaves A\n[A]bird on the [A7]edge of a\n[Dm]blade Lost now fo-\n[A#]rever, my\n[C]love, in a [C#dim]sweet memo-\n[Dm]ry\n\n[Outro]\n[Dm]\n[Dm]\n[Dm]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#": {
+      "catalog": [
+        "x13331"
+      ],
+      "catalogCount": 1
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C#dim": {
+      "catalog": [
+        "x4565x"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "My Least Favorite Life",
+  "id": "dad7367cd4fe7f690778de14cdbc2c081a3a70466335c3abd336a48530e917f1",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 200,
+  "normalizedKey": "lera lynn|my least favorite life",
+  "playableChords": [
+    "Dm",
+    "A",
+    "Gm",
+    "A7",
+    "A#",
+    "C",
+    "C#dim"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dad7367cd4fe7f690778de14cdbc2c081a3a70466335c3abd336a48530e917f1",
+    "version": "BCFZ"
+  },
+  "tempo": 60,
+  "title": "My Least Favorite Life",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,82 @@
+{
+  "artist": "Linkin Park",
+  "artistNormalized": "linkin park",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n[Dm]\n[Dm9/C]\n[Dm]\n[Dm9/C]\n\n[Verse 1]\n[Dm]This is my\n[Dm9/C]December\nThis is my\ntime of the year\n[Dm]This is my\n[Dm9/C]December\nThis is all\nso clear\n[Dm]This is my\n[Dm9/C]December\nThis is my\nsnow covered home\n[Dm]This is my\n[Dm9/C]December\nThis is me\nalone And\n[Dm]I\n[Dm9/C]And\nI\nAnd\n[Dm]I\n[Dm9/C]And\nI\nAnd I\n\n[Chorus]\n[Dm]give it all away\n[Dm9/C]\nJust to have somewhere\nto go to\n[Dm]Give it all away\n[Dm9/C]\nTo have someone to\ncome home to\n\n[Verse 2]\n[Dm]This is my\n[Dm9/C]December\nThese are my\nsnow covered dreams\n[Dm]This is me\n[Dm9/C]pretending\nThis is all\nI need And\n[Dm]I\n[Dm9/C]And\nI\nAnd\n[Dm]I\n[Dm9/C]And\nI\nAnd I\n\n[Chorus]\n[Dm]give it all away\n[Dm9/C]\nJust to have somewhere\nto go to\n[Dm]Give it all away\n[Dm9/C]\nTo have someone to\ncome home to\n\n[Bridge]\n[Dm]This is my\n[Dm9/C]December\nThis is my\ntime of the year\n[Dm]This is my\n[Dm9/C]December\nThis is all\nso clear\n\n[Chorus]\n[Dm]Give it all away\n[Dm9/C]\nJust to have somewhere\nto go to\n[Dm]Give it all away\n[Dm9/C]\nTo have someone to\ncome home to\n[Dm]Give it all away\n[Dm9/C]\nJust to have somewhere\nto go to\n[Dm]Give it all away\n[Dm9/C]\nTo have someone to\ncome home to\n\n[Outro]\n[Dm]\n[Dm9/C]\n[Dm]\n[Dm9/C]\n[Dm]\n[Dm9/C]\n[Dm]\n[Dm9/C]\n[Dm]\n[Dm9/C]",
+  "diagrams": {
+    "Dm": {
+      "catalog": [
+        "022000",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm9/C": {
+      "catalog": [
+        "x54030"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "My December *alt 2",
+  "id": "065a2ced07bca77f5ab73866e1f276ad043cafd74901288634531b3ef781092a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 220,
+  "normalizedKey": "linkin park|my december",
+  "playableChords": [
+    "Dm",
+    "Dm9/C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "065a2ced07bca77f5ab73866e1f276ad043cafd74901288634531b3ef781092a",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "My December",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,116 @@
+{
+  "artist": "Leonard Cohen",
+  "artistNormalized": "leonard cohen",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Gm]\n[Cm]\n[Gm]\n[D7]\n[Gm]\n[Cm]\n[Gm]\n[D7]\n[Gm]\n\n[Verse 1]\n[Cm]Dance me to your\nbeauty with a\n[Gm]burning violin\n[Cm]Dance me through the\npanic 'til I'm\n[Gm]gathered safely in\n[Cm]Lift me like an o-\nlive branch and\n[Gm]be my homeward\ndove\n[D7]Dance me to the\nend of\n[Gm]love\n[D7]Dance me to the\nend of love\n[Gm]\nOh\n\n[Verse 2]\n[Cm]let me see your\nbeauty when the\n[Gm]witnesses are gone\n[Cm]Let me feel you mo-\nving like they\n[Gm]do in Babylon\n[Cm]Show me slowly\nwhat I only\n[Gm]know the limits of\nOh\n[D7]dance me to the\nend of\n[Gm]love\n[D7]Dance me to the\nend of\n[Gm]love\n\n[Violin Solo 1]\n[F]\n[Gm]\n[F]\n[Gm]\n\n[Verse 3]\n[Cm]Dance me to the\nwedding now, oh\n[Gm]dance me on and on\n[Cm]Dance me very\ntenderly and\n[Gm]dance me very long\nWe're\n[Cm]both of us be-\nneath our love, we're\n[Gm]both of us above\n[D7]Dance me to the\nend of\n[Gm]love\n[D7]Dance me to the\nend of\n[Gm]love\n\n[Verse 4]\n[Cm]Dance me to the\nchildren who are\n[Gm]asking to be born\n[Cm]Dance me through the cur-\ntains that our\n[Gm]kisses have outworn\n[Cm]Raise a tent of\nshelter now, though\n[Gm]every thread is torn\n[D7]Dance me to the\nend of\n[Gm]love\n\n[Violin Solo 2]\n[F]\n[Gm]\n[F]\n[Gm]\n\n[Refrain]\n[Cm]\n[Gm]\n[D7]\n[Gm]\n[Cm]\n[Gm]\n[D7]\n[Gm]\n\n[Verse 5]\n[Cm]Dance me to your\nbeauty with a\n[Gm]burning violin\n[Cm]Dance me through the pa-\nnic 'til I'm\n[Gm]gathered safely in\n[Cm]Touch me with your\nnaked hand,\n[Gm]touch me with your glove\n[D7]Dance me to the\nend of\n[Gm]love\n[D7]Dance me to the\nend of love\n[Gm]\n\n[Outro]\n[D7]Dance me to the\nend of\n[Gm]love",
+  "diagrams": {
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dance Me to the End of Love",
+  "id": "2a5b1bffddc46f112d6ae9f7499685bf96744489be4839d4aca61e17e2863198",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 267,
+  "normalizedKey": "leonard cohen|dance me to the end of love",
+  "playableChords": [
+    "Gm",
+    "Cm",
+    "D7",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 59,
+      "name": "Violin Solo 1"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 87,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 103,
+      "name": "Violin Solo 2"
+    },
+    {
+      "measure": 111,
+      "name": "Refrain"
+    },
+    {
+      "measure": 127,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 147,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2a5b1bffddc46f112d6ae9f7499685bf96744489be4839d4aca61e17e2863198",
+    "version": "BCFZ"
+  },
+  "tempo": 133,
+  "title": "Dance Me to the End of Love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

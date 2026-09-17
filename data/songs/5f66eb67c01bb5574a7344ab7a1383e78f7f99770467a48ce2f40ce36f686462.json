@@ -1,0 +1,118 @@
+{
+  "artist": "Mac DeMarco",
+  "artistNormalized": "mac demarco",
+  "capo": "3",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E]\n[A]  [F#m]\n[A]\n[E]\n[A]  [F#m]\n[A]\n\n[Pre-Verse]\n[E]\n[A]  [F#m]\n[A]\n[E]\n[A]  [F#m]\n[A]Mom-\n\n[Verse 1]\n[E]my's in the kitchen\n[A][F#m]cooking up something\ngood [A]And\n[E]daddy's on the sofa,\n[A][F#m]pride of the neighbor-\nhood [A]My\n[E]brother's in the ballet,\n[A][F#m]it seems he's got it\nset [A]And\n[E]I'll be up at midnight\n[A][F#m]with my cigar-\nette [A]\n\n[Chorus]\n[E]Ooh, when\n[C6add9]life moves this [F]slowly\n[F]  [F#m]\n[E]Ooh, just\n[C6add9]try and let it [F]go\n[F]  [F#m]\n[E]Ooh, when\n[C6add9]life moves this [F]slowly\n[F]  [F#m]\n[E]Ooh, just\n[C6add9]try and let it [F]go\n[F][F#m]Dad-\n\n[Verse 2]\n[E]dy's in the basement\n[A][F#m]cooking up something\nfine [A]While\n[E]rick's out on the pavement,\n[A][F#m]flipping it for di-\nmes [A]If\n[E]there's anything redeeming\n[A][F#m]I haven't seen it\nyet [A]And\n[E]I'm still up at midnight\n[A][F#m]chewing nicoret-\nte [A]\n\n[Chorus]\n[E]Ooh, when\n[C6add9]life moves this [F]slowly\n[F]  [F#m]\n[E]Ooh, just\n[C6add9]try and let it [F]go\n[F]  [F#m]\n[E]Ooh, when\n[C6add9]life moves this [F]slowly\n[F]  [F#m]\n[E]Ooh, just\n[C6add9]try and let it [F]go\n[F]  [F#m]\n\n[Outro]\n[E]\n[C#dim/E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#dim/E": {
+      "catalog": [
+        "xx2020"
+      ],
+      "catalogCount": 1
+    },
+    "C6add9": {
+      "catalog": [
+        "x32230"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Cooking Up Something Good",
+  "id": "5f66eb67c01bb5574a7344ab7a1383e78f7f99770467a48ce2f40ce36f686462",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 151,
+  "normalizedKey": "mac demarco|cooking up something good",
+  "playableChords": [
+    "E",
+    "A",
+    "F#m",
+    "C6add9",
+    "F",
+    "C#dim/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5f66eb67c01bb5574a7344ab7a1383e78f7f99770467a48ce2f40ce36f686462",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Cooking Up Something Good",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

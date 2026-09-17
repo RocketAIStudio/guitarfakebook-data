@@ -1,0 +1,123 @@
+{
+  "artist": "Linkin Park",
+  "artistNormalized": "linkin park",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Fm]\n[C#]\n[A#m]\n[Fm]\n[C]\n\n[Verse 1]\n[Fm]\nTelling me to go\n[C#]\n[A#m]But\nhands beg me to stay\n[Fm]\n[C]\n[Fm]Your\nlips say that you love\n[C#]\n[A#m]Your\neyes say that you hate\n[Fm]\n[C]There's\n\n[Pre-Chorus]\n[Fm]truth in\nyour lies\n[C#]Doubt in\nyour faith\n[A#m]What you\nbuild you\n[Fm]lay to waste\n[C]There's\n[Fm]truth in\nyour lies\n[C#]Doubt in\nyour faith\n[A#m]All I've\ngot's what\n[Fm]you didn't take\n[C]So\n\n[Chorus]\n[Fm]I,\nI won't be the one\n[C#]\nBe the one to le-\n[G#]ave this\nIn\n[Fm]pieces\n[C]And\n[Fm]you,\nyou will be alone\n[C#]A-\nlone with all your se-\n[G#]crets\nAnd\n[Fm]regrets\n[C]Don't\n\n[Interlude]\n[Fm]lie\n[C#]\n[A#m]\n[Fm]\n[C]\n\n[Verse 2]\n[Fm]You\npromise me the sky\n[C#]\n[A#m]Then\ntoss me like a stone\n[Fm]\n[C]\n[Fm]You\nwrap me in your arms\n[C#]\n[A#m]And\nchill me to the bone\n[Fm]\n[C]There's\n\n[Pre-Chorus]\n[Fm]truth in\nyour lies\n[C#]Doubt in\nyour faith\n[A#m]All I've\ngot's what\n[Fm]you didn't take\n[C]So\n\n[Chorus]\n[Fm]I,\nI won't be the one\n[C#]\nBe the one to le-\n[G#]ave this\nIn\n[Fm]pieces\n[C]And\n[Fm]you,\nyou will be alone\n[C#]A-\nlone with all your se-\n[G#]crets\nAnd\n[Fm]regrets\n[C]Don't\n\n[Solo]\n[Fm]lie\n[C#]\n[A#m]\n[Fm]\n[C]\n[Fm]\n[C#]\n[A#m]\n[Fm]\n[C]So\n\n[Chorus]\n[Fm]I,\nI won't be the one\n[C#]\nBe the one to le-\n[G#]ave this\nIn\n[Fm]pieces\n[C]And\n[Fm]you,\nyou will be alone\n[C#]A-\nlone with all your se-\n[G#]crets\nAnd\n[Fm]regrets\n[C]Don't\n\n[Outro]\n[Fm]lie\n[C#]\n[A#m]\n[Fm]\n[C]",
+  "diagrams": {
+    "A#m": {
+      "catalog": [
+        "x24432"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x46664",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "xx4222",
+        "xx4675",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "x02220"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "In Pieces",
+  "id": "55db5c68cfe3238fbe731d806ba7c88026c2987ddb99edc008236935ea0f9604",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 209,
+  "normalizedKey": "linkin park|in pieces",
+  "playableChords": [
+    "Fm",
+    "C#",
+    "A#m",
+    "C",
+    "G#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Interlude"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 81,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus"
+    },
+    {
+      "measure": 105,
+      "name": "Solo"
+    },
+    {
+      "measure": 121,
+      "name": "Chorus"
+    },
+    {
+      "measure": 137,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "55db5c68cfe3238fbe731d806ba7c88026c2987ddb99edc008236935ea0f9604",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "In Pieces",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,100 @@
+{
+  "artist": "Mac DeMarco",
+  "artistNormalized": "mac demarco",
+  "capo": "3",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Cmaj7]\n[Fmaj7]\n[Cmaj7]\n[Fmaj7]\nPassin' around\n\n[Verse 1]\n[Cmaj7]\nYou blacken your [Fmaj7]bo-\ndy\nNo [Cmaj7]conversa-\ntion\nTo ease up your [Fmaj7]mind\nAnd nobody [Cmaj7]seems\nTo see the [Fmaj7]outside\nof it\n[Cmaj7]Preoccupied\nAnd nobody's [Fmaj7]hi-\nding it\nPreoccupied\n\n[Chorus]\n[Em]\nNobody's [Fmaj7]hi-\nding it\n[Em]Preoccupied\nNobody's [Fmaj7]hi-\nding it\n[G7]\n\n[Break]\n[Cmaj7]\n[Fmaj7]\n[Cmaj7]\n[Fmaj7]\nOpened your mind\n\n[Verse 2]\n[Cmaj7]\nFilled it with [Fmaj7]bull-\nshit\nLocked up your [Cmaj7]heart\nWithout even [Fmaj7]kno-\nwin' it\nMust be a [Cmaj7]sign\nThe days that we're [Fmaj7]living\nin\n[Cmaj7]Preoccupied\nAnd nobody's [Fmaj7]hi-\nding it\nPreoccupied\n\n[Chorus]\n[Em]\nAnd nobody's [Fmaj7]hi-\nding it\n[Em]Preoccupied\nAnd nobody's [Fmaj7]hi-\nding it\n[Em]Preoccupied,\nyeah\nAnd nobody's [Fmaj7]hi-\nding it\n[Em]Preoccupied\nAnd nobody's [Fmaj7]hi-\nding it\n[G7]",
+  "diagrams": {
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "xx3210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Preoccupied",
+  "id": "d3169b71b8de4188191c5c55c02c5d29b24d3c55b47762064b306247e4e23880",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 149,
+  "normalizedKey": "mac demarco|preoccupied",
+  "playableChords": [
+    "Cmaj7",
+    "Fmaj7",
+    "Em",
+    "G7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Break"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d3169b71b8de4188191c5c55c02c5d29b24d3c55b47762064b306247e4e23880",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Preoccupied",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

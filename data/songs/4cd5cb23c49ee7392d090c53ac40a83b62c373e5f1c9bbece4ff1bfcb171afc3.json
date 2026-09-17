@@ -1,0 +1,95 @@
+{
+  "artist": "Linkin Park",
+  "artistNormalized": "linkin park",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C#5]\n[E5]\n[A5]\n[F#5]  [G#5]  [E5]\n[C#5]\n[E5]\n[A5]\n[F#5][G#5][E5]I\n\n[Verse 1]\n[C#5]am a litte bit of loneliness, a\n[E5]little bit of disregard Handful of comp-\n[A5]laints but I can't help the fact That everyone can see\n[F#5]these [G#5]scars [E5]I\n[C#5]am what I want you to want, what\n[E5]I want you to feel But it's like\n[A5]no matter what I do, I can't convince you\n[F#5]To just believe this [G#5]is real [E5]So\n[C#5]I, let go watching you\n[E5]turn your back like you always do\n[A5]Face away and pretend I'm not But I'll be\n[F#5]here 'cause you're [G#5]all that [E5]I've got\n\n[Chorus]\n[C#5]I can't feel\n[E5]the way I did before\n[A5]Don't turn your back on me\n[F#5]I won't [G#5]be [E5]ignored\n[C#5]Time won't heal\n[E5]this damage anymore\n[A5]Don't turn your back on me\n[F#5]I won't [G#5]be [E5]ignored\nI\n\n[Verse 2]\n[C#5]am, a little bit insecure, a\n[E5]little unconfident 'Cause you don't\n[A5]understand I do what I can But some-\n[F#5]times I don't make [G#5]sense [E5]I\n[C#5]am, what you never want to say, but\n[E5]I've never had a doubt It's like\n[A5]no matter what I do I can't convince you\n[F#5]for once just to [G#5]hear me [E5]out So\n[C#5]I, let go watching you\n[E5]turn your back like you always do\n[A5]You face away and pretend I'm not But I'll\n[F#5]be here 'cause you're [G#5]all that [E5]I've got\n\n[Chorus]\n[C#5]I can't feel\n[E5]the way I did before\n[A5]Don't turn your back on me\n[F#5]I won't [G#5]be [E5]ignored\n[C#5]Time won't heal\n[E5]this damage anymore\n[A5]Don't turn your back on me\n[F#5]I won't [G#5]be [E5]ignored\n\n[Bridge]\n[C#5]You\nhear me out now\nYou're gonna listen to me\nlike it or not Right\nnow,\nhear me out now\nYou're gonna listen to me\nlike it or not Right\nI can't feel\nthe way I did before\nDon't turn your back on me\nI won't be ignored\n\n[Chorus]\n[C#5]I can't feel\n[E5]the way I did before\n[A5]Don't turn your back on me\n[F#5]I won't [G#5]be [E5]ignored\n[C#5]Time won't heal\n[E5]this damage anymore\n[A5]Don't turn your back on me\n[F#5]I won't [G#5]be [E5]ignored\n[C#5]I can't fe-\n[E5]el\n[A5]Don't turn your back on me\n[F#5]I won't [G#5]be [E5]ignored\n[C#5]Time won't he-\n[E5]al\n[A5]\n[F#5]Don't turn [G#5]your back [E5]on me\nI won't be ignored",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "888xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Faint *alt",
+  "id": "4cd5cb23c49ee7392d090c53ac40a83b62c373e5f1c9bbece4ff1bfcb171afc3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 420,
+  "normalizedKey": "linkin park|faint",
+  "playableChords": [
+    "C#5",
+    "E5",
+    "A5",
+    "F#5",
+    "G#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Bridge"
+    },
+    {
+      "measure": 74,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4cd5cb23c49ee7392d090c53ac40a83b62c373e5f1c9bbece4ff1bfcb171afc3",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "Faint",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "alt"
+}

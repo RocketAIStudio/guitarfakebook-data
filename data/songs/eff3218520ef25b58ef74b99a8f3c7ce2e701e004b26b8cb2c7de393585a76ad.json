@@ -1,0 +1,108 @@
+{
+  "artist": "Linkin Park",
+  "artistNormalized": "linkin park",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n[C]\n[Fmaj7]\n[Dm]\n[Am]\n[C]\n[Fmaj7]\n[Dm]I dreamed I was\n\n[Verse 1]\n[Am]missing You were so\n[C]scared But no one would\n[Fmaj7]listen Cause no one else\n[Dm]cared After my\n[Am]dreaming I woke with this\n[C]fear What am I\n[Fmaj7]leaving When I'm done\n[Dm]here? So, if you're\n[Fmaj7]asking me, I want you to know\n[Dm]When my\n\n[Chorus]\n[Am]time comes Forget the wrong that I've\n[C]done Help me leave behind\n[Fmaj7]some reasons to be missed\n[Dm]And don't re-\n[Am]sent me And when you're feeling em-\n[C]pty Keep me in your me-\n[Fmaj7]mory Leave out all the rest\n[Dm]Leave out all the rest\n\n[Verse 2]\n[Am]Don't be af-\n[C]raid I've taken my\n[Fmaj7]beating I've shared what I've\n[Dm]made I'm strong on the\n[Am]surface Not all the way\n[C]through I've never been\n[Fmaj7]perfect But neither have\n[Dm]you So, if you're\n[Fmaj7]asking me, I want you to know\n[Dm]When my\n\n[Chorus]\n[Am]time comes Forget the wrong that I've\n[C]done Help me leave behind\n[Fmaj7]some reasons to be missed\n[Dm]And don't re-\n[Am]sent me And when you're feeling em-\n[C]pty Keep me in your me-\n[Fmaj7]mory Leave out all the rest\n[Dm]Leave out all the rest\n\n[Bridge]\n[Fmaj7]Forgetting All the\n[Dm]hurt inside you've learned to hide so well\n[Am]Pretending Someone\n[C]else can come and save me from myself\n[Fmaj7]I can't be who you are\n[Dm]When my\n\n[Chorus]\n[Am]time comes Forget the wrong that I've\n[C]done Help me leave behind\n[Fmaj7]some reasons to be missed\n[Dm]And don't re-\n[Am]sent me And when you're feeling em-\n[C]pty Keep me in your me-\n[Fmaj7]mory Leave out all the rest\n[Dm]Leave out all the rest\n\n[Outro]\n[Am]Forgetting All the\n[C]hurt inside you've learned to hide so well\n[Fmaj7]Pretending Someone\n[Dm]else can come and save me from myself\n[Am]I can't be who you are\n[C]\n[Fmaj7]I can't be who you are\n[Dm]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "xx3210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Leave out all the rest",
+  "id": "eff3218520ef25b58ef74b99a8f3c7ce2e701e004b26b8cb2c7de393585a76ad",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 324,
+  "normalizedKey": "linkin park|leave out all the rest",
+  "playableChords": [
+    "Am",
+    "C",
+    "Fmaj7",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "eff3218520ef25b58ef74b99a8f3c7ce2e701e004b26b8cb2c7de393585a76ad",
+    "version": "BCFZ"
+  },
+  "tempo": 40,
+  "title": "Leave out all the rest",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,136 @@
+{
+  "artist": "Malukah",
+  "artistNormalized": "malukah",
+  "capo": "2",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Bm]\n[Gmaj7/B]\n[Bm]\n[Gmaj7/B]Our\n\n[Verse 1]\n[Bm]Hero, our Hero claims a\n[A]warrior's\n[Bm]heart\nI\ntell you, I tell you the\n[A]Dragonborn\n[Bm]comes\nWith a\nvoice wielding power of the\n[A]ancient Nord\n[Bm]Art\nBe-\nlieve, believe the\n[A]Dragonborn\n[Bm]comes\nIt's an\n\n[Verse 2]\nend to the evil, of\n[A]all Skyrim's\n[Bm]foes\nBe-\nware, beware the\n[A]Dragonborn\n[Bm]comes\nFor the\ndarkness has passed and the\n[A]legend yet\n[Bm]grows\nYou'll\nknoow, you'll knoow the\n[A]Dragonborn's\n[Bm]come\nAh ah\n\n[Pre Chorus]\n[Bm]ah ah ah\n[D]ah ah ah\n[A]ah ah ah\n[E]ah Ah ah\n[Bm]ah ah ah\n[D]ah ah ah\n[G]ah ah ah\n[E]ah Ah ah\n[Bm]ah ah ah\n[D]ah ah ah\n[G]ah ah ah\n[A]ah Dovah-\n\n[Chorus]\n[Bm]kiin [G]Dovahkiin Naal ok\n[A]zin los [E]vahriin waah\n[G]dein [E]vookul mahfae-\n[F#]raak ahst [Bm]vaal ahrk fin\n[Bm]norok paal [G]graan fod nust\n[A]hon zindro [E]zaan Dovah-\n[G]kiin faah [E]hin koo-\n[F#]gaan mu\n\n[Outro]\n[Bm]draal\n[Bmadd11]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Bmadd11": {
+      "catalog": [
+        "x24430"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7/B": {
+      "catalog": [
+        "x24032"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Dragonborn Comes",
+  "id": "03229f0b98f3fc7d517b9d6446d80ddce0f5f753ba6ce6b9117da267cf7904d7",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 173,
+  "normalizedKey": "malukah|the dragonborn comes",
+  "playableChords": [
+    "Bm",
+    "Gmaj7/B",
+    "A",
+    "D",
+    "E",
+    "G",
+    "F#",
+    "Bmadd11"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Pre Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "03229f0b98f3fc7d517b9d6446d80ddce0f5f753ba6ce6b9117da267cf7904d7",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "The Dragonborn Comes",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

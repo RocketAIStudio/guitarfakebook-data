@@ -1,0 +1,97 @@
+{
+  "artist": "Khruangbin",
+  "artistNormalized": "khruangbin",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Gm7]\n\n[Intro]\n[C7]\n[Dm7]\n[Gm7]\n[C7]\nShe was a queen\n\n[Verse 1]\n[Dm7]\nShe had a house\n[Gm7]\nShe was a fight-\n[C7]er\nShe was a queen\n[Dm7]\nHad a good dude\n\n[Verse 2]\n[Gm7]\nBought me a rab-\n[C7]bit\nShe was a queen\n[Dm7]\nWearing white\n[Gm7]\ngloves\n[C7]\nBut she kept 'em clean\n\n[Verse 3]\n[Dm7]\nClassy La-\n[Gm7]dy\nBut she wasn't qui-\n[C7]et\nShe was a queen\n[Dm7]\n\n[Bridge]\n[Gm7]\n[C7]\n[Dm7]\n[Gm7]\n[C7]\nOne day she was gone\n\n[Verse 4]\n[Dm7]\nShe died in a fight\n[Gm7]\nCause she was a fight-\n[C7]er\nShe was a queen\n[Dm7]\n\n[Bridge]\n[Gm7]\n[C7]\nShe was a queen\n[Dm7]\n[Gm7]\n[C7]\nShe was a queen\n[Dm7]\n[Gm7]\n[C7]\nShe was a queen\n[Dm7]\n\n[Outro (Fade Out)]\n[Gm7]\n[C7]",
+  "diagrams": {
+    "C7": {
+      "catalog": [
+        "x35353",
+        "x-3-2-3-1-0",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm7": {
+      "catalog": [
+        "x57565",
+        "x-x-0-2-1-1",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Gm7": {
+      "catalog": [
+        "353333",
+        "x-x-5-7-6-6",
+        "x-10-12-10-11-10",
+        "15-17-15-15-15-15",
+        "x-22-24-22-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "White Gloves",
+  "id": "69c16ec3857f9fb01bffc6bb7dbff3ff5d32f8cc80a261000eb489886a0f15a4",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 84,
+  "normalizedKey": "khruangbin|white gloves",
+  "playableChords": [
+    "Gm7",
+    "C7",
+    "Dm7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 5,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 75,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "69c16ec3857f9fb01bffc6bb7dbff3ff5d32f8cc80a261000eb489886a0f15a4",
+    "version": "BCFZ"
+  },
+  "tempo": 91,
+  "title": "White Gloves",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

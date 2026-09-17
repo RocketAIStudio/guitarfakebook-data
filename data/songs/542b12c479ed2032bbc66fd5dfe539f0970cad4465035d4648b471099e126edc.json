@@ -1,0 +1,116 @@
+{
+  "artist": "Lynyrd Skynyrd",
+  "artistNormalized": "lynyrd skynyrd",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n\n[Verse 1]\n[A]Life is so strange [C]when it's chang-\n[D]in', yes indeed [A]\n[A]Well I've seen the hard [C]times and the\n[G]pressure's been on me [A]\n[A]But I keep on [C]workin' like the\n[D]workin' man do [A]\n[A]And I've got my [C]act together, gonna\n[G]walk all over you [A]Gimme back my\n\n[Chorus]\n[A]bullets\n[D]Put 'em back [C]where they belong\n[A]\n[D]Ain't foolin' [C]around 'cause I\n[G]done had my fun [A]\n[D]Ain't gonna see [C]no\n[G]more damage [A]done Gimme back my\n[A]bullets\n\n[Verse 2]\n[A]Sweet talkin' [C]people done\n[D]ran me out of town [A]\n[A]And I drank enough [C]whiskey to float a\n[G]battleship [A]around\n[A]But I'm leavin' this [C]game one\n[D]step ahead of you [A]\n[A]And you will not [C]hear me cry 'cause I\n[G]do not sing the blues [A]Gimme back my\n\n[Chorus]\n[A]bullets\n[D]Put 'em back [C]where they belong\n[A]\n[D]Ain't foolin' [C]around 'cause I\n[G]done had my fun [A]\n[D]Ain't gonna see [C]no\n[G]more damage [A]done Gimme back, gimme back my\n[A]bullets\nOh, put 'em back\nwhere they belong\n\n[Guitar Solo]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n\n[Verse 3]\n[A]Been up and down [C]since I turned\n[D]seventeen [A]\n[A]Well I've been on top, [C]and then it seems\n[G]I lost my dream [A]\n[A]But I got it back, [C]I'm feelin'\n[D]better everyday [A]\n[A]Tell all those [C]pencil pushers,\n[G]better get out of my [A]way Gimme back my\n\n[Chorus]\n[A]bullets\n[D]Put 'em back [C]where they belong\n[A]\n[D]Ain't foolin' [C]around 'cause I\n[G]done had my fun [A]\n[D]Ain't gonna see [C]no\n[G]more damage [A]done Gimme back, gimme back my\n\n[Outro]\n[A]bullets\nOh, put 'em back\nwhere they belong\nGimme back my\n\n[Fade Out]\n[A]bullets",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x35553",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Gimme Back My Bullets",
+  "id": "542b12c479ed2032bbc66fd5dfe539f0970cad4465035d4648b471099e126edc",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 296,
+  "normalizedKey": "lynyrd skynyrd|gimme back my bullets",
+  "playableChords": [
+    "A",
+    "C",
+    "D",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    },
+    {
+      "measure": 69,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "542b12c479ed2032bbc66fd5dfe539f0970cad4465035d4648b471099e126edc",
+    "version": "BCFZ"
+  },
+  "tempo": 84,
+  "title": "Gimme Back My Bullets",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

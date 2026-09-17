@@ -1,0 +1,122 @@
+{
+  "artist": "Mastodon",
+  "artistNormalized": "mastodon",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D5]\n\n[Verse 1]\n[G5]I\nburned out my\n[D5]eyes\n[G5]I\ncut off my\n[D5]tongue\n[G5]I\nsealed them with\n[D5]all of the\nsilver\n[G5]And\nnow I have\n[D5]none\n\n[Intro]\nYou killed the\nlife\nYou took the\ndiamond\nYou killed the\nvine\nDeath of the\n\n[Verse 2]\n[G5]\nYou own the\n[D5]darkness\n[G5]And\ntaken my\n[D5]sight\n[G5]You\nburied the\n[D5]stars under\nground\n[G5]You've\nstolen the\n[D5]night\n\n[Chorus]\n[F5]  [C#5]\n[G#5][A#5]You can\nrun to the\n[F5]sea [C#5]\n[G#5][E5]You can\nrun to the\n[C#5][F5]forest\n[G#5][A#5]You can\nhide But you'll\n[F5]never [C#5]es-\ncape\n[G#5]  [E5]\n\n[Bridge]\n[D5]\n[A#5]You've [F5]\nrun out of\n[D5]lies\n[A#5]You've [F5]\nrun out of\n\n[Solo]\n[D5]time\n\n[Bridge]\n[G5]\n[D5]\n[G5]\n[D5]\n[G5]\n[D5]\n[G5]\n[D5]\n\n[Intro]\n[D5]\nYou killed the\nlife\nYou took the\ndiamond\nYou killed the\nvine\nDeath of the\n\n[Outro]\nsun",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "x355xx",
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "C#5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "x133xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Black Tongue",
+  "id": "10616df335a6a203e1d576a74ac96bd9ac6335a0c65975010deb70b89de99970",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 113,
+  "normalizedKey": "mastodon|black tongue",
+  "playableChords": [
+    "D5",
+    "G5",
+    "F5",
+    "C#5",
+    "G#5",
+    "A#5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Intro"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Bridge"
+    },
+    {
+      "measure": 105,
+      "name": "Solo"
+    },
+    {
+      "measure": 121,
+      "name": "Bridge"
+    },
+    {
+      "measure": 137,
+      "name": "Intro"
+    },
+    {
+      "measure": 161,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "10616df335a6a203e1d576a74ac96bd9ac6335a0c65975010deb70b89de99970",
+    "version": "BCFZ"
+  },
+  "tempo": 196,
+  "title": "Black Tongue",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

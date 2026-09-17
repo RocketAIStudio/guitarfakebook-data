@@ -1,0 +1,113 @@
+{
+  "artist": "Lamb Of God",
+  "artistNormalized": "lamb of god",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D5]\n[E5]\n[D5]\n\n[Verse 1]\n[D5]The\nknowledge\nthat\nseeking\nThe\nfavor of a-\nnother\n[D5]Means the [Ab5]murder [G5]of self\n[D5]\nThis is the resolution\nThe\nend of all progress\nThe\nend of evolution\n[D5]It bleeds [Ab5]all life [G5]away\n\n[Interlude 1]\n[D5]\nSilence speeds the\npath to the streams of\nsolace that run so\nfew and narrow\nBrooks that babble\nthe sounds of torture\nThe sounds of torture\nYou will one day rise\n\n[Interlude 2]\n[D5]\n[Eb5]To\nflood the banks of the\n[Dsus2]chosen\n[Ebsus2]\nThis is the art of\n[D5]ruin\nThis is a resolution\nThe\nend of all progress\nThe\ndeath of evolution\n[D5]It bleeds [Ab5]all life [G5]a-\n\n[Guitar Solo]\n[E5]way\nIt bleeds all life a-\n\n[Interlude 3]\n[D5]way\n\n[Breakdown]\nGo\n[D5]\n\n[Outro]\n[D5]Oh,\nI will show you\nall that I have mas-\ntered\nFear Pain\nHatred Power\nThis is the art of\nruin\nThis is the art of\nruin\nruin",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "666xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2": {
+      "catalog": [
+        "4579xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "111xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Ebsus2": {
+      "catalog": [
+        "x-6-8-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ruin",
+  "id": "686aac05a63522665f7f3a84e6c58d8ac1a105b631408f372de9f50060471e1c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 163,
+  "normalizedKey": "lamb of god|ruin",
+  "playableChords": [
+    "D5",
+    "E5",
+    "Ab5",
+    "G5",
+    "Eb5",
+    "Dsus2",
+    "Ebsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude 1"
+    },
+    {
+      "measure": 57,
+      "name": "Interlude 2"
+    },
+    {
+      "measure": 73,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 81,
+      "name": "Interlude 3"
+    },
+    {
+      "measure": 89,
+      "name": "Breakdown"
+    },
+    {
+      "measure": 112,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "686aac05a63522665f7f3a84e6c58d8ac1a105b631408f372de9f50060471e1c",
+    "version": "BCFZ"
+  },
+  "tempo": 200,
+  "title": "Ruin",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

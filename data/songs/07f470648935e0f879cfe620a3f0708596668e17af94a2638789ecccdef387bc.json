@@ -1,0 +1,98 @@
+{
+  "artist": "Mac DeMarco",
+  "artistNormalized": "mac demarco",
+  "capo": "3",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[Fmaj7/C]Sometimes my\n[G9]love may be\n[G7]put on\n[F]hold\n[Fmaj7/C]Sometimes my\n[G9]heart may seem\n[G7]awful cold\n[F]\n[Fmaj7/C]These times come\n[G9]and\n[G7]these times go\n[F]\n[Fmaj7/C]As long as I\n[G9]live, all you\n[G7]need to know\n[F]is\n\n[Chorus]\n[D9]This old dog\n[G7]ain't a-\n[C9]bout to forget\n[F]\n[D9]All we've had,\n[G7]and\n[C9]all that's next\n[F]\n[D9]'Long as my\n[G7]heart's beating\n[C9]in my chest\n[F]\n[D9]This old dog\n[G7]ain't a-\n[C9]bout to\n[F]forget\n\n[Verse 2]\n[Fmaj7/C]Often a heart\n[G9]tends to\n[G7]change its mind\n[F]\n[Fmaj7/C]New day des-\n[G9]cides on a\n[G7]new de-\n[F]sign\n[Fmaj7/C]A new day gets\n[G9]set on a-\n[G7]nother way\n[F]\n[Fmaj7/C]As long as I\n[G9]live, all I've\n[G7]got to say\n[F]is\n\n[Chorus]\n[D9]This old dog\n[G7]ain't a-\n[C9]bout to forget\n[F]\n[D9]All we've had,\n[G7]and\n[C9]all that's next\n[F]\n[D9]'Long as my\n[G7]heart's beating\n[C9]in my chest\n[F]\n[D9]This old dog\n[G7]ain't a-\n[C9]bout to\n[F]forget",
+  "diagrams": {
+    "C9": {
+      "catalog": [
+        "x3233x"
+      ],
+      "catalogCount": 1
+    },
+    "D9": {
+      "catalog": [
+        "x5455x"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7/C": {
+      "catalog": [
+        "x33210"
+      ],
+      "catalogCount": 1
+    },
+    "G7": {
+      "catalog": [
+        "3534xx",
+        "3-2-0-0-0-1",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G9": {
+      "catalog": [
+        "32320x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "This Old Dog",
+  "id": "07f470648935e0f879cfe620a3f0708596668e17af94a2638789ecccdef387bc",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 141,
+  "normalizedKey": "mac demarco|this old dog",
+  "playableChords": [
+    "Fmaj7/C",
+    "G9",
+    "G7",
+    "F",
+    "D9",
+    "C9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "07f470648935e0f879cfe620a3f0708596668e17af94a2638789ecccdef387bc",
+    "version": "BCFZ"
+  },
+  "tempo": 139,
+  "title": "This Old Dog",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

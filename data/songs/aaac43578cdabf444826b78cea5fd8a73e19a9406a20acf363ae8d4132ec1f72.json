@@ -1,0 +1,108 @@
+{
+  "artist": "Lauv",
+  "artistNormalized": "lauv",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[A]  [E]\n[Dsus2]\n\n[Verse 1]\n[A]To be young and in love [E]in New York\n[Dsus2]City\n[F#m]To not know who I am [E]but still know that I'm\n[Dsus2]good long as you're here with me\n[A]To be drunk and in love [E]in New York\n[Dsus2]City Midnight into\n[F#m]morning coffee, [E]burning through the\n[Dsus2]hours talking Damn\n\n[Chorus]\n[A]I like me better [E]when I'm with\n[Dsus2]you\n[F#m]I like me better [E]when I'm with\n[Dsus2]you\n[A]I knew from the first [E]time,\n[Dsus2]I'd stay for a long time, 'cause\n[F#m]I like me better [E]when,\n[Dsus2]I like me better when I'm with\n\n[Bridge]\n[A]you [E]\n[Dsus2]\n[F#m]  [E]\n[Dsus2]\n[A]  [E]\n[Dsus2]\n[F#m]  [E]\n[Dsus2]\n\n[Verse 2]\n[A]I don't know what it is [E]but I got that\n[Dsus2]feeling\n[F#m]Waking up in this bed [E]next to you swear the\n[Dsus2]room, yeah, it got no ceiling\n[A]If we lay, let the day [E]just pass us\n[Dsus2]by I might get to\n[F#m]too much talking, [E]I might have to\n[Dsus2]tell you something Damn\n\n[Chorus]\n[A]I like me better [E]when I'm with\n[Dsus2]you\n[F#m]I like me better [E]when I'm with\n[Dsus2]you\n[A]I knew from the first [E]time,\n[Dsus2]I'd stay for a long time, 'cause\n[F#m]I like me better [E]when,\n[Dsus2]I like me better when I'm with\n\n[Bridge]\n[A]you [E]\n[Dsus2]\n[F#m]  [E]\n[Dsus2]\n[A]  [E]\n[Dsus2]\n[F#m]  [E]\n[Dsus2]\n\n[Break]\n[A]Stay awhile, stay [E]awhile\n[Dsus2]Stay here with me\n[F#m]Stay awhile, stay [E]awhile, oh\n[Dsus2]\n[A]Stay awhile, stay [E]awhile\n[Dsus2]Stay here with me\n[F#m]Lay here with [E]me,\n[Dsus2]ooh\n\n[Chorus]\n[A]I like me better [E]when I'm with\n[Dsus2]you yes I do, yes I do, babe\n[F#m]I like me better [E]when I'm with\n[Dsus2]you oh no\n[A]I knew from the first [E]time,\n[Dsus2]I'd stay for a long time, 'cause\n[F#m]I like me better [E]when,\n[Dsus2]I like me better when I'm with\n\n[Outro]\n[A]you [E]\n[Dsus2]\n[F#m]  [E]\n[Dsus2]I like me, I like me\n[A]Look [E]who you made\n[Dsus2]me, made me, oh\n[F#m]no Better [E]when\n[Dsus2]I like me better when I'm with\nyou",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "2442xx",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Like Me Better",
+  "id": "aaac43578cdabf444826b78cea5fd8a73e19a9406a20acf363ae8d4132ec1f72",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 323,
+  "normalizedKey": "lauv|i like me better",
+  "playableChords": [
+    "A",
+    "E",
+    "Dsus2",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Bridge"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Bridge"
+    },
+    {
+      "measure": 52,
+      "name": "Break"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 68,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "aaac43578cdabf444826b78cea5fd8a73e19a9406a20acf363ae8d4132ec1f72",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "I Like Me Better",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

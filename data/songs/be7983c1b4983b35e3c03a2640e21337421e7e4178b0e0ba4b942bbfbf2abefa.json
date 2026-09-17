@@ -1,0 +1,122 @@
+{
+  "artist": "Lauv",
+  "artistNormalized": "lauv",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Gmaj7]\n[Bm]\n[A]\n\n[Verse 1]\n[Gmaj7]Outlines of your eyes and\nvisions of you\n[Bm]Girl, I think I need a minute To\n[A]figure out what is, what isn't These\n[Gmaj7]choices and voices, they're\nall in my head Some-\n[Bm]times you make me feel crazy Some-\n[A]times I swear I think you hate me like,\n\n[Pre-Chorus]\n[Gmaj7]uh I need a\nwalk, I need a walk I need to get outta\n[Bm]here 'Cause I need to\n[A]know\n\n[Chorus]\n[Gmaj7]Who are\nyou? 'Cause you're not the\n[Bm]girl I fell in\n[A]love with, baby\n[Gmaj7]Who are\nyou? 'Cause something has\n[Bm]changed, you're not the\n[A]same, I hate it\n[Gmaj7]I,\nI'm sick of waiting for\n[Bm]love,\n[A]love\n[Gmaj7]I,\nI know that you're not the\n[Bm]one,\n[A]one\n\n[Verse 2]\n[Gmaj7]Feelin'\n[Asus2]hypnotized by the words that you\n[F#m7]said Don't\n[Bm]lie to me, I just [D/A]get in my\n[Gmaj7]head When the\n[Asus2]morning comes you're still in my\n[F#m7]bed But it's\n[Bm]so, so [D/A]cold\n\n[Pre-Chorus]\n[Gmaj7]Who are\nyou? 'Cause you're not the\n[Bm]girl I fell in\n[A]love with\n\n[Chorus]\n[Gmaj7]Who are\nyou? 'Cause you're not the\n[Bm]girl I fell in\n[A]love with, baby\n[Gmaj7]Who are\nyou? 'Cause something has\n[Bm]changed, you're not the\n[A]same, I hate it\n[Gmaj7]I,\nI'm sick of waiting for\n[Bm]love,\n[A]love\n[Gmaj7]I,\nI know that you're not the\n[Bm]one,\n[A]one\n\n[Outro]\n[Gmaj7]\n[Bm]\n[A]\n[Gmaj7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x00232"
+      ],
+      "catalogCount": 1
+    },
+    "F#m7": {
+      "catalog": [
+        "2x2222",
+        "2-4-2-2-2-2",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7": {
+      "catalog": [
+        "320002",
+        "3-5-4-4-3-3",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7",
+        "x-10-12-11-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Who (feat. BTS)",
+  "id": "be7983c1b4983b35e3c03a2640e21337421e7e4178b0e0ba4b942bbfbf2abefa",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 222,
+  "normalizedKey": "lauv|who feat bts",
+  "playableChords": [
+    "Gmaj7",
+    "Bm",
+    "A",
+    "Asus2",
+    "F#m7",
+    "D/A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "be7983c1b4983b35e3c03a2640e21337421e7e4178b0e0ba4b942bbfbf2abefa",
+    "version": "BCFZ"
+  },
+  "tempo": 71,
+  "title": "Who (feat. BTS)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,133 @@
+{
+  "artist": "Marvin Gaye",
+  "artistNormalized": "marvin gaye",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Emaj7]\n\n[Verse 1]\n[Emaj7]Mother, mother\nThere's too many\n[C#m7]of you crying\n[Emaj7]Brother, brother, brother\nThere's far too many\n[C#m7]of you dying\nYou know we've\n[F#m7]got to find a way\nTo bring some\n[A/B]loving here today\n[B13]\n\n[Verse 2]\n[Emaj7]Father, father\nWe don't need to\n[C#m7]escalate\nYou see,\n[Emaj7]war is not the answer\nFor only love can\n[C#m7]conquer hate\nYou know we've\n[F#m7]got to find a way\nTo bring some\n[A/B]loving here today\n[B13]\n\n[Pre-Chorus]\n[A/F#]Picket lines and\n[A/B]picket signs Don't\n[A/F#]punish me with bru-\n[A/B]tality\n[A/F#]Talk to me, so\n[A/B]you can see [B13]Oh, what's\n\n[Chorus]\n[Emaj7]going on What's\n[C#m7]going on Ya, what's\n[Emaj7]going on Ah, what's\n[C#m7]going on\n\n[Bridge]\n[Am9]\nRight on, baby\nRight on Right on\n[A/B]\n[B13]\n\n[Verse 3]\n[Emaj7]Mother, Mother\neverybody\n[C#m7]thinks we're wrong\nOh, but\n[Emaj7]who are they to judge us\nSimply because our\n[C#m7]hair is long\nOh, you know we've\n[F#m7]got to find a wa-\ny To bring some under-\n[A/B]standing here today\n[B13]Oh\n\n[Pre-Chorus]\n[A/F#]Picket lines and\n[A/B]picket signs Don't\n[A/F#]punish me with bru-\n[A/B]tality Come on\n[A/F#]talk to me, so\n[A/B]you can see [B13]Oh, what's\n\n[Chorus]\n[Emaj7]going on Yeah What's\n[C#m7]going on Tell me what's\n[Emaj7]going on I will tell you\n[C#m7]what's going on\n\n[Outro]\n[Am9]\nRight on baby\n[A/B]\n[B13]\n[Am9]\n[A/B]\n[B13]",
+  "diagrams": {
+    "A/B": {
+      "catalog": [
+        "7x765x"
+      ],
+      "catalogCount": 1
+    },
+    "A/F#": {
+      "catalog": [
+        "2x2220"
+      ],
+      "catalogCount": 1
+    },
+    "Am9": {
+      "catalog": [
+        "xx5557"
+      ],
+      "catalogCount": 1
+    },
+    "B13": {
+      "catalog": [
+        "7x789x"
+      ],
+      "catalogCount": 1
+    },
+    "C#m7": {
+      "catalog": [
+        "x4645x",
+        "x-4-6-4-5-4",
+        "9-11-9-9-9-9",
+        "x-x-11-13-12-12",
+        "x-16-18-16-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "Emaj7": {
+      "catalog": [
+        "x7644x",
+        "x7989x",
+        "0-2-1-1-0-0",
+        "x-x-2-4-4-4",
+        "x-7-6-4-4-4"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "xx425x",
+        "2-4-2-2-2-2",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Whats Going On",
+  "id": "47fd0360a1433f3cb2356e8c01cecfae7fb7af1b584d69b13b38ef9684b7e9e4",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 238,
+  "normalizedKey": "marvin gaye|whats going on",
+  "playableChords": [
+    "Emaj7",
+    "C#m7",
+    "F#m7",
+    "A/B",
+    "B13",
+    "A/F#",
+    "Am9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 63,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "47fd0360a1433f3cb2356e8c01cecfae7fb7af1b584d69b13b38ef9684b7e9e4",
+    "version": "BCFZ"
+  },
+  "tempo": 101,
+  "title": "Whats Going On",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

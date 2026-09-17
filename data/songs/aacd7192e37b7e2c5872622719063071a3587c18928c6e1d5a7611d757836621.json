@@ -1,0 +1,108 @@
+{
+  "artist": "Led Zeppelin",
+  "artistNormalized": "led zeppelin",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n\n[Verse 1]\n[G]Spent my days with a\nwoman unkind\nSmoked my stuff and\ndrank\n[D]all my wine.\n[G]Made up my mind\nmake a new start\nGoing To California with an\naching\n[D]in my heart.\n[G]Someone told me there's a\ngirl out there With\nlove in her eyes and\nflowers\n[D]in her hair.\n\n[Bridge]\n[Dm]\n[G]\n[D]\n[Dm]\n[G]\n[D]\n\n[Verse 2]\n[G]Took my chances on a\nbig jet plane\nNever let them tell you that they're\nall the same.\n[D]\nThe\n[G]sea was red and the sky\nwas grey\nWondered how tomorrow\ncould ever fol-\n[D]low today.\n[G]Mountains and the canyons started to\ntremble and shake\nChildren of the sun began\nto awake.\n[D]\nWatch out\n\n[Interlude]\n[Dm]Seems that the wrath of the Gods\nGot a punch on the nose\nand it started to flow;\nI think I might be\n[A]sinking.\n[Dm]Throw me a line if I reach\nit in time\nMeet you up there where the path\nRuns straight and\n[A]high.\n[D]\nTo\n\n[Verse 3]\n[G]find a queen without\na king; They say she\nplays guitar and cri-\nes and\n[D]sings.\nLa la la la\n[G]Ride a white mare in the\nfootsteps of dawn\nTryin' to find a woman who's\nnever, never, never\n[D]been born.\n[G]Standing on a hill in my\nmountain of dreams,\nTelling myself it's not as\nhard, hard, hard\n[D]as it seems\n\n[Bridge]\n[Dm]\n[G]\n[D]\n[Dm]\n[G]\n[D]\n\n[Outro]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02222",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "000234",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "000233",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "xx5435",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Going To California *alt",
+  "id": "aacd7192e37b7e2c5872622719063071a3587c18928c6e1d5a7611d757836621",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 246,
+  "normalizedKey": "led zeppelin|going to california",
+  "playableChords": [
+    "D",
+    "G",
+    "Dm",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 67,
+      "name": "Interlude"
+    },
+    {
+      "measure": 87,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 111,
+      "name": "Bridge"
+    },
+    {
+      "measure": 119,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "aacd7192e37b7e2c5872622719063071a3587c18928c6e1d5a7611d757836621",
+    "version": "BCFZ"
+  },
+  "tempo": 152,
+  "title": "Going To California",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

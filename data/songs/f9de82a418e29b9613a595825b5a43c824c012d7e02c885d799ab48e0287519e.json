@@ -1,0 +1,124 @@
+{
+  "artist": "Kyuss",
+  "artistNormalized": "kyuss",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 4,
+  "content": "[Intro 1]\n[C#m]\n\n[Intro 2]\n[C#m]\n\n[Intro 3]\n[E5/B]  [Dbm6]\n[E5]\n[C#m]\n[E5/B]  [Dbm6]\n[E5]\n[C#m]\n\n[Verse 1]\n[E5/B]I'm standing [Dbm6]alone\non the [E5]cliffs of the world\n[C#m]\n[E5/B]No one [Dbm6]e-\nver tends [E5]to me\n[C#m]\n[E5/B]Sitting [Dbm6]alone,\n[E5]covered in rays\n[C#m]\n[E5/B]Some things [Dbm6]are\nso my [E5]mind can breath\n[C#m]\n\n[Interlude]\n[C#m]\n\n[Chorus]\n[C#m]Waiting is hard,\nfucking takes so long\nDraped in sun,\nhands in sand\nEarth acid clean-\nses me, cleanses me clean\nBut the world\nit never comes\nIt never comes\n\n[Post-Chorus]\n[E5/B]It never [Dbm6]comes\n[E5]\n[C#m]\n[E5/B]It never [Dbm6]comes\n[E5]\n[C#m]\n\n[Interlude]\n[C#m]\n\n[Solo]\n\n[Interlude]\n[C#m]\n\n[Verse 2]\n[E5/B]I lay on my [Dbm6]side\nin the [E5]edge of the room\n[C#m]\n[E5/B]She never [Dbm6]expects\n[E5]anything from me\n[C#m]\n[E5/B]When all the [Dbm6]days,\nthe [E5]days of the year\n[C#m]\n[E5/B]I know I [Dbm6]miss\nthat [E5]part of me\n[C#m]\n\n[Interlude]\n[C#m]\n\n[Chorus]\n[C#m]Waiting is hard,\nfucking takes so long\nDraped in sun,\nhands in sand\nEarth acid clean-\nses me, cleanses me clean\nBut the world\nit never comes\nIt never comes\n\n[Post-Chorus]\n[E5/B]It never [Dbm6]comes\n[E5]\n[C#m]\n[E5/B]It never [Dbm6]comes\n[E5]\n[C#m]\n\n[Outro]\n[E5/B]It never [Dbm6]comes\n[E5]\n[C#m]\n[E5/B]It never [Dbm6]comes\n[E5]\n[C#m]",
+  "diagrams": {
+    "C#m": {
+      "catalog": [
+        "022000",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "Dbm6": {
+      "catalog": [
+        "x7x68x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5/B": {
+      "catalog": [
+        "x5x78x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Space Cadet",
+  "id": "f9de82a418e29b9613a595825b5a43c824c012d7e02c885d799ab48e0287519e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 168,
+  "normalizedKey": "kyuss|space cadet",
+  "playableChords": [
+    "C#m",
+    "E5/B",
+    "Dbm6",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 11,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 23,
+      "name": "Intro 3"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 55,
+      "name": "Interlude"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 71,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Interlude"
+    },
+    {
+      "measure": 83,
+      "name": "Solo"
+    },
+    {
+      "measure": 99,
+      "name": "Interlude"
+    },
+    {
+      "measure": 103,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 119,
+      "name": "Interlude"
+    },
+    {
+      "measure": 123,
+      "name": "Chorus"
+    },
+    {
+      "measure": 135,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 143,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f9de82a418e29b9613a595825b5a43c824c012d7e02c885d799ab48e0287519e",
+    "version": "BCFZ"
+  },
+  "tempo": 86,
+  "title": "Space Cadet",
+  "tuning": "C# F# B E G# C#",
+  "variantRole": "primary"
+}

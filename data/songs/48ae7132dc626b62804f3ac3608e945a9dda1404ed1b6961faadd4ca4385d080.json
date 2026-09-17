@@ -1,0 +1,138 @@
+{
+  "artist": "Liza Miskovsky",
+  "artistNormalized": "liza miskovsky",
+  "capo": "7",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]  [F]\n[C]  [G]\n[C]  [F]\n[C]  [G]\n\n[Verse 1]\n[C]Sverige, Sverige, [Dm]älskade vän\n[G]En [Em]tiger som skäms\n[Am]Jag [Dm]vet hur det känns\n[G]När\n[C]allvaret har [Dm]blivit ett skämt\n[G]När [Em]tystnaden skräms\n[Am]Vad [Dm]är det som\n[G]hänt\n\n[Chorus]\n[F]Välkommen, [G]välkommen hit\n[Am][F]Vem du än är,\n[C][G]var du än är\n\n[Bridge]\n[C]  [F]\n[C]  [G]\n[C]  [F]\n[C]  [G]\n\n[Verse 2]\n[C]Duka din [Dm]veranda till fest\n[G]För en [Em]långväga gäst\n[Am]I landet [Dm]lagom\n[G]är bäst Vi\n[C]skålar för en [Dm]midsommar till\n[G]Färsk [Em]potatis\n[Am]och sill Som om [Dm]tiden stått\n[G]still\n\n[Chorus]\n[F]  [G]\n[Am]  [F]\n[C]  [G]\n\n[Bridge]\n[C]  [F]\n[C]  [G]\n[C]  [F]\n[C]  [G]\n\n[Verse 3]\n[C]Regnet slår mot [Dm]rutorna nu\n[G]Men [Em]natten är ljus\n[Am]i ett [Dm]land utan ljud\n[G]Och\n[C]glasen glittrar [Dm]tyst på vårt bord\n[G]Lika [Em]tomma som ord\n[Am]Visst [Dm]är kärleken stor\n[G]\n\n[Chorus]\n[F]  [G]\n[Am]  [F]\n[C]  [G]\n[Am]\n[F]  [G]\n[Am]  [F]\n[C]  [G]\n\n[Outro]\n[C]  [F]\n[C]  [G]\n[C]  [F]\n[C]  [G]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sverige (Cover Kent)",
+  "id": "48ae7132dc626b62804f3ac3608e945a9dda1404ed1b6961faadd4ca4385d080",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 133,
+  "normalizedKey": "liza miskovsky|sverige cover kent",
+  "playableChords": [
+    "C",
+    "F",
+    "G",
+    "Dm",
+    "Em",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 16,
+      "name": "Bridge"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "48ae7132dc626b62804f3ac3608e945a9dda1404ed1b6961faadd4ca4385d080",
+    "version": "BCFZ"
+  },
+  "tempo": 73,
+  "title": "Sverige (Cover Kent)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,97 @@
+{
+  "artist": "Led Zeppelin",
+  "artistNormalized": "led zeppelin",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[A]\n[E]\nYou know you\n\n[Verse 1]\n[E]shook me\nYou shook me all night long.\nYou know you shook\n[A]me, baby\nYou shook me all night long.\n[E]\nYou shook me\n[B]so hard baby\n[A]Baby, baby, please come\n[E]home.\nI have a bird\n\n[Verse 2]\n[E]that whistles\nAnd I have birds that sing.\nI have a bird\n[A]that whistles\nAnd I have birds that sing.\n[E]\nI have a\n[B]baby, won't do nothing oh!\n[A]Oh, oh,\n[E]buy a diamond ring.\n\n[Organ Solo]\n[E]\n[A]\n[E]\n[B]\n[A]\n[E]\n\n[Harmonica Solo]\n[E]\n[A]\n[E]\n[B]\n[A]\n[E]\n\n[Guitar Solo]\n[E]\n[A]\n[E]\n[B]\n[A]\n[E]\nYou know you\n\n[Verse 3]\n[E]shook me, baby\nYou shook me all night long.\nI know you really, really, did baby. I said you shook\n[A]me, baby.\nYou shook me all night long.\n[E]\nYou shook me\n[B]so hard, baby.\n\n[Outro]\n[A]\nYou shook me all\nnight\nlong\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You Shook Me *alt",
+  "id": "b0fcc05ac1a31c7d9e454653e6479ce7bb553c2810bc888e4ac6a50940324061",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 128,
+  "normalizedKey": "led zeppelin|you shook me",
+  "playableChords": [
+    "A",
+    "E",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Organ Solo"
+    },
+    {
+      "measure": 42,
+      "name": "Harmonica Solo"
+    },
+    {
+      "measure": 54,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 66,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 75,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b0fcc05ac1a31c7d9e454653e6479ce7bb553c2810bc888e4ac6a50940324061",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "You Shook Me",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

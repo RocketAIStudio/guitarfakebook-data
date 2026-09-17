@@ -1,0 +1,126 @@
+{
+  "artist": "M.A.G.S.",
+  "artistNormalized": "m a g s",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Emaj7]\n[Gb6]\n[Emaj7]\n[Gb6]\n\n[Verse 1]\n[Emaj7]I saw you\nstaring down the\n[Gb6]hallway\nAnd you,\n[Emaj7]you never\nsaid you'd love me\n[Gb6]always\n[Emaj7]I waited\nso long just\n[Gb6]to remind\nyou,\n[Emaj7]\nyou\n[Gb6]\n\n[Chorus]\n[Dbm]But its\n[Gb]just a shame\n[B]You look\n[Abm]good in those hi-\n[Dbm]tops With my\n[Gb]hands around your\n[B]waist And your\n[Abm]cigarette smile\n[Dbm]I'll be\n[Gb]gone before you\n[B]know that I\n[Abm]\n[Dbm]Was on\n[Gb]your side\n\n[Bridge]\n[Emaj7]\n[Gb6]\n[Emaj7]\n[Gb6]\n\n[Pre-Verse]\n[Emaj7]I was o-\nver\n[Gb6]You way o-\nver\n[Emaj7]I was o-\nver\n[Gb6]You way o-\nver\n\n[Verse 2]\n[Emaj7]I saw you\nstaring down the\n[Gb6]hallway\nAnd you,\n[Emaj7]you never\nsaid you'd love me\n[Gb6]always\nThere's not much\n[Emaj7]left\nThere's nothing left,\n[Gb6]\nThere's not much\n[Emaj7]left\nThere's nothing left\n[Gb6]\n\n[Chorus]\n[Dbm]But its\n[Gb]just a shame\n[B]You look\n[Abm]good in those hi-\n[Dbm]tops With my\n[Gb]hands around your\n[B]waist And your\n[Abm]cigarette smile\n[Dbm]I'll be\n[Gb]gone before you\n[B]know that I\n[Abm]\n[Dbm]Was on\n[Gb]your side\n[B]\n[Abm]\n\n[Outro]\n[Dbm]I'll be\n[Gb]gone before you\n[B]know that I\n[Abm]\n[Dbm]Was on\n[Gb]your side\n[B]",
+  "diagrams": {
+    "Abm": {
+      "catalog": [
+        "x02210",
+        "4-6-6-4-4-4",
+        "x-x-6-8-9-7",
+        "x-11-13-13-12-11",
+        "16-18-18-16-16-16"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x32010",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Dbm": {
+      "catalog": [
+        "xx0231",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "Emaj7": {
+      "catalog": [
+        "xx3210",
+        "0-2-1-1-0-0",
+        "x-x-2-4-4-4",
+        "x-7-6-4-4-4",
+        "x-7-9-8-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "320003",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "Gb6": {
+      "catalog": [
+        "xx5430"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hi Tops",
+  "id": "86ba5be2ee766db3591cacea10ea5c4acb84773dc3461fbb4bd23817d2bf69db",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 172,
+  "normalizedKey": "m a g s|hi tops",
+  "playableChords": [
+    "Emaj7",
+    "Gb6",
+    "Dbm",
+    "Gb",
+    "B",
+    "Abm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 47,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 71,
+      "name": "Chorus"
+    },
+    {
+      "measure": 87,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "86ba5be2ee766db3591cacea10ea5c4acb84773dc3461fbb4bd23817d2bf69db",
+    "version": "BCFZ"
+  },
+  "tempo": 147,
+  "title": "Hi Tops",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

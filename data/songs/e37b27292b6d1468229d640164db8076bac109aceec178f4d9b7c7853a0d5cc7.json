@@ -1,0 +1,117 @@
+{
+  "artist": "Led Zeppelin",
+  "artistNormalized": "led zeppelin",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[E7]\nI should have quit\n\n[Verse 1]\n[E7]you,\na long time ago\nOhh,\n[A7]yeah,\nlong time ago\n[E7]\nI wouldn't\n[B7]be here, my children\n[A7]Down on this killing floor\n[E7]\nI should have\n\n[Verse 2]\n[E7]listened, baby,\nto my second\nmind\nOh,\n[A7]I should have listened, baby,\nto my\n[E7]second mind\n[B7]Everytime I go away and leave you, darling\n[A7]You send me the blues way\n[E7]down the line\n\n[Bridge]\n[E7]\n[A7]\n[E7]\n[B7]\n[A7]\n[E7]\n\n[Solo 1]\n[E7]\n[A7]\n[E7]\n[B7]\n[A7]\n[E7]\n[A7]\n[E7]\n[B7]\n[A7]\n[E7]\n\n[Interlude]\n[E7]Baby,\nyeah\n[A7]\nGive it to me, baby\n[E7]\n[B7]\n[A7]My, my, my,\n[E7]my Take it\ndown a bit\n\n[Verse 3]\n[E7]Give it to me, baby\nKeep me satisfied\nTryin' worry bout me, baby but I'd never\nget you with myself Keep\n[A7]on worrying, baby\nCan't keep you satis-\n[E7]fied\nLet me tell you,\n[B7]baby You ain't no-\n[A7]thing but a twobit no good\n[E7]jive\n\n[Verse 4]\n[E7]I went to sleep last night,\nI worked as hard as I can\nI bring home my money You take my money\nGive it to another man I\n[A7]should have quit you, baby\nOh, such a long time\n[E7]ago, oh\n[B7]I wouldn't be here with all my troubles\n[A7]Down on this killing\n[E7]floor\n\n[Verse 5]\n[E7]Squeeze me baby,\ntill the juice runs\ndown my leg\n[A7]Squeeze me baby,\ntill the juice runs down my\n[E7]leg\n[B7]The way you squeeze my lemon, ah\n[A7]I'm gonna fall right out of bed\n[E7]Bed, bed, bed, yeah\n\n[Solo 2]\n[E7]\n[A7]\n[E7]\n[B7]\n[A7]\n[E7]\n\n[Interlude 2]\n[E7]Hey,\nhey,\nhey, hey,\nhey, hey, hey, hey\n[A7]Baby, baby, ba-\nby, baby, baby, baby, baby, baby,\n[E7]baby, baby, baby,\n[B7]\n[A7]\n[E7]\n\n[Bridge]\n[E7]\n[A7]\n[E7]\n[B7]\n[A7]\n[E7]\n\n[Outro]\n[E7]\n[A7]\n[E7]\n...to\n[B7]leave my children\n[A7]down on this killing\n[E7]floor",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Lemon Song *alt",
+  "id": "e37b27292b6d1468229d640164db8076bac109aceec178f4d9b7c7853a0d5cc7",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 291,
+  "normalizedKey": "led zeppelin|the lemon song",
+  "playableChords": [
+    "E7",
+    "A7",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 69,
+      "name": "Interlude"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 93,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 105,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 117,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 129,
+      "name": "Interlude 2"
+    },
+    {
+      "measure": 141,
+      "name": "Bridge"
+    },
+    {
+      "measure": 153,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e37b27292b6d1468229d640164db8076bac109aceec178f4d9b7c7853a0d5cc7",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "The Lemon Song",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,124 @@
+{
+  "artist": "Mazzy Star",
+  "artistNormalized": "mazzy star",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[D5]\n[Cadd9]\n[G/B]\n[D5]\n[Cadd9]\n[G/B]\n[D5]\n\n[Verse 1]\n[Cadd9]Still\n[G/B]fal-\n[D5]ling\n[Cadd9]Breathless and\n[G/B]on again\n[D5]\n[Cadd9]Inside\n[G/B]today\n[D5]\n[Cadd9]Inside\n[G/B]me today\n[D5]\n[Cadd9]Around\n[G/B]broken in\n[D5]two\nTil your eyes\n[Cadd9]share\n[G/B]into\n[D5]dust\nLike two\n[Cadd9]strangers\n[G/B]turning into\n[D5]dust\nTil my hand\n[Cadd9]shook with the\n[G/B]weight of\n[D5]fear\n\n[Bridge]\n[F]\n[Em]\n[D5]\n[Cadd9]\n[G/B]\n[D5]\n\n[Verse 2]\n[Cadd9]I could\n[G/B]possibly be\n[D5]fading\nOr\n[Cadd9]have\n[G/B]something more to\n[D5]gain\nI could feel\n[Cadd9]myself\n[G/B]growing col-\n[D5]der\nI could feel\n[Cadd9]myself\n[G/B]under your\n[D5]fate\n[Cadd9]\n[G/B]Under\n[A#6]\nyour\n[D5]fate\n[Cadd9]\n[G/B]\n[D5]\nIt was you,\n\n[Chorus]\n[Cadd9]\n[G/B]breathless and\n[D5]torn\nI could feel\n[Cadd9]my eyes\n[G/B]turning into\n[D5]dust\nAnd two\n[Cadd9]strangers,\n[G/B]turning into\n[D5]dust\n[Cadd9]\n[G/B]Turning into\n[D5]dust\n[F]\n[Em]\n[D5]\n[Cadd9]\n[G/B]\n[D5]\n[Cadd9]\n[G/B]\n[D5]\n\n[Outro]\n[G/D]\n[Dm7]\n[G/D]\n[Dm7]\n[D5]",
+  "diagrams": {
+    "A#6": {
+      "catalog": [
+        "x1303x"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9": {
+      "catalog": [
+        "x3203x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "xx023x"
+      ],
+      "catalogCount": 1
+    },
+    "Dm7": {
+      "catalog": [
+        "xx4565",
+        "x-x-0-2-1-1",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "02200x",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "13321x",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x2003x"
+      ],
+      "catalogCount": 1
+    },
+    "G/D": {
+      "catalog": [
+        "xx6787"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Into Dust",
+  "id": "cee07f9c64970dd2ea9af6c61ed124ef189ae76b63fd76efcfd07e9e4ec537f9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 117,
+  "normalizedKey": "mazzy star|into dust",
+  "playableChords": [
+    "D5",
+    "Cadd9",
+    "G/B",
+    "F",
+    "Em",
+    "A#6",
+    "G/D",
+    "Dm7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 79,
+      "name": "Chorus"
+    },
+    {
+      "measure": 107,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cee07f9c64970dd2ea9af6c61ed124ef189ae76b63fd76efcfd07e9e4ec537f9",
+    "version": "BCFZ"
+  },
+  "tempo": 84,
+  "title": "Into Dust",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

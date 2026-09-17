@@ -1,0 +1,162 @@
+{
+  "artist": "Louis Armstrong",
+  "artistNormalized": "louis armstrong",
+  "capo": "No capo",
+  "chordPositionCount": 50,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[C]\n\n[Solo]\n[C]\n[Dm]  [G]\n[Dm]\n[G7]\n[Dm]  [G7]\n[C]  [F]  [Fm]\n[C]\n[F]\n[Fm]\n[C]\n[D7]\n[Dm]  [G]\n[C]\n[Dm]  [G7]\n[C]\n\n[Interlude]\n[C]\n\n[Verse]\n[C]Hold me close and hold me\nfast The magic spell you\ncast This is La Vie E-\n[Dm]n [G]Rose\n[Dm]When you kiss me heaven\n[G7]sighs And though I close my\n[Dm]eyes I [G7]see La Vie E-\n[C]n [F]Rose [Fm]\n[C]When you press me to your\nheart I'm in a world a-\npart A world where roses\n[F]bloom And\n[Fm]when you speak angels\n[C]sing from above\n[D7]Everyday words seem\n[Dm]to turn into love [G]songs\n[C]Give your heart and soul to\nme And life will always\n[Dm]be [G7]La Vie\n[C]En Rose\n\n[Outro]\n[F]  [Bbm]\n[Am]  [Dm]\n[G7]\n[C]\n[F]\n[Am]  [Dm]\n[Gm]\n[C]\n[F]  [Bbm]\n[F]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm": {
+      "catalog": [
+        "x13321",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13",
+        "18-20-20-18-18-18"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "La Vie En Rose",
+  "id": "8ac7ad351ce6c43496f1406f197835405834c6ef67a580ede3d02c7d137b1bad",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 106,
+  "normalizedKey": "louis armstrong|la vie en rose",
+  "playableChords": [
+    "C",
+    "Dm",
+    "G",
+    "G7",
+    "F",
+    "Fm",
+    "D7",
+    "Bbm",
+    "Am",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Solo"
+    },
+    {
+      "measure": 25,
+      "name": "Interlude"
+    },
+    {
+      "measure": 29,
+      "name": "Verse"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8ac7ad351ce6c43496f1406f197835405834c6ef67a580ede3d02c7d137b1bad",
+    "version": "BCFZ"
+  },
+  "tempo": 113,
+  "title": "La Vie En Rose",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

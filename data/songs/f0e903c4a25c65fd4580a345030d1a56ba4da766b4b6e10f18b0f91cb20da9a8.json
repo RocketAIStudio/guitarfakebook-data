@@ -1,0 +1,123 @@
+{
+  "artist": "Linkin Park",
+  "artistNormalized": "linkin park",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Abm]\n[Gb/Bb]\n[E]\n\n[Verse 1]\n[Abm]I close both\n[Gb/Bb]locks below the win-\n[E]dow\n[Abm]I close both\n[Gb/Bb]blinds and turn away\n[E]\n[Abm]Sometimes solu-\n[Gb/Bb]tions aren't so sim-\n[E]ple\n[Abm]Sometimes goodbye's\n[Gb/Bb]the only\n[E]way, oh\nAnd the sun\n\n[Chorus]\n[B]\n[Dbm]will set for you\n[Abm]\n[E]The sun\n[B]\n[Dbm]will set for you\n[Abm]\n[E]And the sha-\n[B]dow of the day\n[Dbm]Will embrace\n[Abm]the world in gray\n[E]And the sun\n[B]\n[Dbm]will set for you\n[Abm]\n[E]\n[Abm]\n[Gb/Bb]\n[E]\n\n[Verse 2]\n[Abm]In cards and flo-\n[Gb/Bb]wers on your win-\n[E]dow\n[Abm]Your friends all\n[Gb/Bb]plead for you to stay\n[E]\n[Abm]Sometimes begin-\n[Gb/Bb]nings aren't so sim-\n[E]ple\n[Abm]Sometimes goodbye's\n[Gb/Bb]the only way,\n[E]oh\nAnd the sun\n\n[Chorus]\n[B]\n[Dbm]will set for you\n[Abm]\n[E]The sun\n[B]\n[Dbm]will set for you\n[Abm]\n[E]And the sha-\n[B]dow of the day\n[Dbm]Will embrace\n[Abm]the world in gray\n[E]And the sun\n[B]\n[Dbm]will set for you\n[Abm]\n[E]\n\n[Solo 1]\n[Abm]\n[Gb/Bb]\n[E]\n[Abm]\n[Gb/Bb]\n[E]\nAnd the sha-\n\n[Chorus]\n[B]dow of the day\n[Dbm]Will embrace\n[Abm]the world in gray\n[E]And the sun\n[B]\n[Dbm]will set for you\n[Abm]\n[E]\n\n[Solo 2]\n[B]\n[Dbm]\n[Abm]\n[E]\n[B]\n[Dbm]\n[Abm]\n[E]And the sha-\n\n[Chorus]\n[B]dow of the day\n[Dbm]Will embrace\n[Abm]the world in gray\n[E]And the sun\n[B]\n[Dbm]will set for you\n[Abm]\n[E]\n\n[Outro]\n[B]",
+  "diagrams": {
+    "Abm": {
+      "catalog": [
+        "466444",
+        "x-x-6-8-9-7",
+        "x-11-13-13-12-11",
+        "16-18-18-16-16-16",
+        "x-x-18-20-21-19"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Dbm": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Gb/Bb": {
+      "catalog": [
+        "6446xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Shadow Of The Day",
+  "id": "f0e903c4a25c65fd4580a345030d1a56ba4da766b4b6e10f18b0f91cb20da9a8",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 180,
+  "normalizedKey": "linkin park|shadow of the day",
+  "playableChords": [
+    "Abm",
+    "Gb/Bb",
+    "E",
+    "B",
+    "Dbm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 87,
+      "name": "Chorus"
+    },
+    {
+      "measure": 95,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 103,
+      "name": "Chorus"
+    },
+    {
+      "measure": 111,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f0e903c4a25c65fd4580a345030d1a56ba4da766b4b6e10f18b0f91cb20da9a8",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Shadow Of The Day",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

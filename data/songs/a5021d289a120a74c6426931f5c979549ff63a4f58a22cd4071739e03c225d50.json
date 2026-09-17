@@ -1,0 +1,123 @@
+{
+  "artist": "Lit",
+  "artistNormalized": "lit",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\n[B]  [A]\n[E]\n[B]  [A]\n[E]\n[B]  [A]\n[E]\n[B]  [A]\n\n[Verse 1]\n[E]Can we forget about the things\nI said when I [B]was drunk? [A]\n[E]I didn't mean to\ncall you that [B][A]\n[E]I can't remember what was said\nor what you threw [B]at me [A]\n[E]Please tell me...\nPlease tell [B][A]me\n\n[Chorus]\n[E]why\n[F#m]my car is in the front\n[A]yard, And\n[B/F#]I'm sleeping with my clothes\n[E]on\n[F#m]I came in through the win-\n[A]dow last\n[B/F#]night And you're\n\n[Bridge]\n[E]gone,\ngone [B][A]\n[E]\n[B]  [A]\n\n[Verse 2]\n[E]It's no surprise to me I am\nmy own worst [B]enemy [A]\n[E]'Cause every now and then I kick\nthe living shit out [B]of me [A]\n[E]The smoke alarm is going off,\nand there's a [B]cigarette [A]\n[E]Still burning,\nPlease tell [B][A]me\n\n[Chorus]\n[E]why\n[F#m]my car is in the front\n[A]yard, And\n[B/F#]I'm sleeping with my clothes\n[E]on\n[F#m]I came in through the win-\n[A]dow last\n[B/F#]night And you're\n\n[Solo]\n[E]gone,\ngone [B][A]\n[E]\n[B]  [A]\n[E]\n[B]  [A]\n[E]\nPlease tell [B][A]me\n\n[Chorus]\n[E]why\n[F#m]my car is in the front\n[A]yard, And\n[B/F#]I'm sleeping with my clothes\n[E]on\n[F#m]I came in through the win-\n[A]dow last\n[B/F#]night\n\n[Interlude]\n[E]It's no surprise to me I am\n[F#m]my own worst enemy\n[A]'Cause every now and then I kick\n[B/F#]the living shit out of me\n[E]Can we forget about the things\n[F#m]I said when I was drunk?\n[A]I didn't mean to call\n[B/F#]you that\n\n[Outro]\n[E]\n[B]  [A]\n[E]\n[B]  [A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x13331",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x35553",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B/F#": {
+      "catalog": [
+        "335553"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "133211",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "355333",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "My Own Worst Enemy *alt",
+  "id": "a5021d289a120a74c6426931f5c979549ff63a4f58a22cd4071739e03c225d50",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 228,
+  "normalizedKey": "lit|my own worst enemy",
+  "playableChords": [
+    "E",
+    "B",
+    "A",
+    "F#m",
+    "B/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Solo"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Interlude"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a5021d289a120a74c6426931f5c979549ff63a4f58a22cd4071739e03c225d50",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "My Own Worst Enemy",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

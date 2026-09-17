@@ -1,0 +1,112 @@
+{
+  "artist": "Maren Morris",
+  "artistNormalized": "maren morris",
+  "capo": "2",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[C]  [G]\n[D7]I've\n\n[Verse 1]\n[G]cussed on a Sunday I've\n[C]cheated and I've [G]lied I've\nfallen down from grace A few\n[D7]too many times But I fi-\n[G]nd holy redemption When I\n[C]put this car in [G]drive Roll the\nwindows down and [D7]turn up the\n[C]dial [G]Can I get a\n\n[Chorus]\n[G]hallelujah\n[C]Can I get an [G]amen Feels like the\nHoly Ghost running through ya When I\n[D7]play the highway FM I fi-\n[G]nd my soul revival Si-\n[C]nging every single [Em]verse\n[C]Yeah I [G]guess that's\n[D7]my [G]church When\n\n[Verse 2]\n[G]Hank bring the sermon\n[C]And Cash leads the [G]choir It ge-\nts my cold, cold heart burning Ho-\n[D7]tter than a ring of fire When this wo-\n[G]nderful world gets heavy And I nee-\n[C]d to find my [Em]esca-\npe I just keep\n[G]the wheels rolling, [D7]radio scrolling\n[C]'Til my sins wash [G]away Can I get a\n\n[Chorus]\n[G]hallelujah\n[C]Can I get an [G]amen Feels like the\nHoly Ghost running through ya When I\n[D7]play the highway FM I fi-\n[G]nd my soul revival Si-\n[C]nging every single [Em]verse\n[C]Yeah I [G]guess that's\n[D7]my [G]church\n\n[Solo]\n[G]\n[C]  [Em]\n[C]  [G]\n[D7][G]Can I get a\n\n[Break]\n[G]hallelujah\n[C]Can I get an [G]amen Feels like the\nHoly Ghost running through ya When I\n[D7]play the highway FM I fi-\n[G]nd my soul revival Si-\n[C]nging every single [Em]verse\n[C]Yeah I [G]guess that's\n[D7]my [G]church Hey, can I get a\n\n[Chorus]\n[G]hallelujah\n[C]Can I get an [G]amen Feels like the\nHoly Ghost running through ya When I\n[D7]play the highway FM I fi-\n[G]nd my soul revival Si-\n[C]nging every single [Em]verse\n[C]Yeah I [G]guess that's\n[D7]my [Em]church\n\n[Outro]\n[C]Yeah I [G]guess that's\n[D7]my [Em]church\n[C]Yeah I [G]guess that's\n[D7]my [G]church.",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "My Church",
+  "id": "5f8501f60bdf0dcf11b3f48c30d5452707f96c571ded7eebf4099f09eec7c8b4",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 375,
+  "normalizedKey": "maren morris|my church",
+  "playableChords": [
+    "G",
+    "C",
+    "D7",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Solo"
+    },
+    {
+      "measure": 42,
+      "name": "Break"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5f8501f60bdf0dcf11b3f48c30d5452707f96c571ded7eebf4099f09eec7c8b4",
+    "version": "BCFZ"
+  },
+  "tempo": 77,
+  "title": "My Church",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

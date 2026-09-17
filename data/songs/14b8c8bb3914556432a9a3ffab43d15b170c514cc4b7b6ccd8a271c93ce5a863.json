@@ -1,0 +1,130 @@
+{
+  "artist": "Matthew Good",
+  "artistNormalized": "matthew good",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Bm]\n[F#m]\n[E]\n[Bm]\n[F#m]\n[E]\n[Bm]\n[F#m]\n[E]\n[Bm]\n[F#m]\n[E]\n\n[Verse 1]\n[Bm]Little fish,\n[F#m]boat's too full,\n[E]down you go\n[Bm]Breathing in\n[F#m]salt and fuel,\n[E]tiny gulps\nSta-\n[Bm]tistically it's\n[F#m]commonplace, you're\n[E]not alone\nSo\n[Bm]end like this\n[F#m]instead of shot\n[E]back at home\n\n[Chorus]\n[D]The world\n[A]is a strange\n[E]place\n[Bm]Quiet like\n[F#m]bullets in a brief-\n[E]case\nWhy do I\n[D]feel\n[A]like I'm in the wrong\n[E]place?\n[Bm]Quiet like\n[F#m]bullets in a brief-\n[E]case\n[Bm]Quiet like\n[F#m]bullets in a brief-\n[E]case\n\n[Bridge]\n[Em]\n[Bm]\n[F#m]\n[E]\n[Em]\n[Bm]\n[F#m]\n[E]\n\n[Verse 2]\n[Bm]Little man,\n[F#m]Northern France,\n[E]winter's cold\nEight\n[Bm]hundred hours, four\n[F#m]thousand miles,\n[E]feet alone\nNo\n[Bm]one I know would\n[F#m]even dare it,\n[E]let alone\n[Bm]Shanty town\n[F#m]bleeding out in\n[E]the shadows\n\n[Chorus]\n[D]The world\n[A]is a strange\n[E]place\n[Bm]Quiet like\n[F#m]bullets in a brief-\n[E]case\nWhy do I\n[D]feel\n[A]like I'm in the\n[E]wrong place?\n[Bm]Quiet like\n[F#m]bullets in a brief-\n[E]case\n[Bm]Quiet like\n[F#m]bullets in a brief-\n[E]case\n\n[Interlude]\n[Bm]\n[F#m]\n[A]\n[E]\n[Bm]\n[F#m]\n[A]\n[E]\n[Bm]\n[F#m]\n[A]\n[E]\n[Bm]\n[F#m]\n[A]\n[E]\n[Bm]\n[F#m]\n[A]\n[E]\n\n[Outro]\n[Bm]\n[F#m]\n[A]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x79997",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bullets in a Briefcase",
+  "id": "14b8c8bb3914556432a9a3ffab43d15b170c514cc4b7b6ccd8a271c93ce5a863",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 165,
+  "normalizedKey": "matthew good|bullets in a briefcase",
+  "playableChords": [
+    "Bm",
+    "F#m",
+    "E",
+    "D",
+    "A",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus"
+    },
+    {
+      "measure": 109,
+      "name": "Interlude"
+    },
+    {
+      "measure": 149,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "14b8c8bb3914556432a9a3ffab43d15b170c514cc4b7b6ccd8a271c93ce5a863",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Bullets in a Briefcase",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

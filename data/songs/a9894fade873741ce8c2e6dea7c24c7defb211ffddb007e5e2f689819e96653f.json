@@ -1,0 +1,72 @@
+{
+  "artist": "Less Than Jake",
+  "artistNormalized": "less than jake",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F5]\n\n[Verse 1]\n[F5]Life's like a movie,\nwrite your own ending\nKeep believing,\nkeep pretending\nWe've done just what\nwe set [D5]out to\n\n[Chorus]\n[D5]do\nThanks to the\n[Bb5]lovers, the\n[C5]dreamers and\n[F5]you",
+  "diagrams": {
+    "Bb5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Life Is A Movie",
+  "id": "a9894fade873741ce8c2e6dea7c24c7defb211ffddb007e5e2f689819e96653f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 37,
+  "normalizedKey": "less than jake|life is a movie",
+  "playableChords": [
+    "F5",
+    "D5",
+    "Bb5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a9894fade873741ce8c2e6dea7c24c7defb211ffddb007e5e2f689819e96653f",
+    "version": "BCFZ"
+  },
+  "tempo": 146,
+  "title": "Life Is A Movie",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

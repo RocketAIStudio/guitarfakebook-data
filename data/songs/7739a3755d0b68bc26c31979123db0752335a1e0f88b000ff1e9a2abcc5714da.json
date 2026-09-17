@@ -1,0 +1,107 @@
+{
+  "artist": "Mac DeMarco",
+  "artistNormalized": "mac demarco",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\n[D#m]\n[D]\n[D#m]\n[E]\n[D#m]\n[D]\n[D#m]\n\n[Verse 1]\n[E]Feelin' so confused Yo-\n[D#m]u dont know what to do Af-\n[D]raid she might not love you anymo-\n[D#m]re\n[E]And though she says she does and\n[D#m]hasnt lost your trust W-\n[D]ho could there be knockin at her do-\n[D#m]or\n\n[Chorus]\n[D]Must be [C#m]another one\n[B]  [E]\n[D]Must be [C#m]another one she loves\n[B]  [E]\n[D]Must be [C#m]another one\n[B]  [E]\n[D]Must be [C#m]another one she loves\n[B]\n\n[Interlude]\n[E]\n[D#m]\n[D]\n[D#m]\n[E]\n[D#m]\n[D]\n[D#m]\n\n[Verse 2]\n[E]The feelin' never stops A-\n[D#m]nd neither does the clock W-\n[D]ishin' for tomorrow toda-\n[D#m]y\n[E]She still says shes true So\n[D#m]you start comin' to Ju-\n[D]st as that old knockin' comes to sta-\n[D#m]y\n\n[Chorus]\n[D]Must be [C#m]another one\n[B]  [E]\n[D]Must be [C#m]another one she loves\n[B]  [E]\n[D]Must be [C#m]another one\n[B]  [E]\n[D]Must be [C#m]another one she loves\n[B]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "9-11-11-9-9-9",
+        "x-4-6-6-5-4",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "x68876"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Another One",
+  "id": "7739a3755d0b68bc26c31979123db0752335a1e0f88b000ff1e9a2abcc5714da",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 226,
+  "normalizedKey": "mac demarco|another one",
+  "playableChords": [
+    "E",
+    "D#m",
+    "D",
+    "C#m",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Interlude"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7739a3755d0b68bc26c31979123db0752335a1e0f88b000ff1e9a2abcc5714da",
+    "version": "BCFZ"
+  },
+  "tempo": 74,
+  "title": "Another One",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

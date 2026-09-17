@@ -1,0 +1,114 @@
+{
+  "artist": "Mac DeMarco",
+  "artistNormalized": "mac demarco",
+  "capo": "3",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[E]Honey, the\n[Gm6]stars keep on calling my\n[F#m7]name\n[B7]But don't\n[E]worry, I've\n[Gm6]told you again and a-\n[F#m7]gain\n[B7]When I'm\n[E]down, you're\n[Gm6]always the first one to\n[F#m7]know\n[B7]Skipping\n[E]town, I'll\n[Gm6]take you wherever I\n[F#m7]go\n[B7]\nAnd\n\n[Chorus]\n[A]I just wanna go\n[G#m7]\n[B7]\n[E]\n[A]I just wanna go\n[G#m7]\n[B7]\n[E]\n\n[Verse 2]\n[E]Honey, this\n[Gm6]town’s really taking it’s\n[F#m7]toll\n[B7]But don’t\n[E]worry, I’m\n[Gm6]all through with feeling this\n[F#m7]old\n[B7]When I’m\n[E]down, you’re\n[Gm6]always the first on my\n[F#m7]mind\n[B7]Skipping\n[E]town, let’s\n[Gm6]get out and see what we\n[F#m7]find\n[B7]\nAnd\n\n[Chorus]\n[A]I just wanna go\n[G#m7]\n[B7]\n[E]\n[A]I just wanna go\n[G#m7]\n[B7]\n[E]\n[A]I just wanna go\n[G#m7]\n[B7]\n[E]\n[A]I just wanna go\n[G#m7]\n[B7]\n[E]\n\n[Guitar Solo]\n[E]\n[Gm6]\n[F#m7]\n[B7]\n[E]\n[Gm6]\n[F#m7]\n[B7]\n[E]\n[Gm6]\n[F#m7]\n[B7]\n[E]\n[Gm6]\n[F#m7]\n[B7]\n\n[Outro]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "242252",
+        "2-4-2-2-2-2",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m7": {
+      "catalog": [
+        "464474"
+      ],
+      "catalogCount": 1
+    },
+    "Gm6": {
+      "catalog": [
+        "3x23xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The stars keep on calling my name",
+  "id": "21d414785a3f2a5eea94c903d2dc416c3d97fda83741ea35872ca4c812a886b5",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 120,
+  "normalizedKey": "mac demarco|the stars keep on calling my name",
+  "playableChords": [
+    "E",
+    "Gm6",
+    "F#m7",
+    "B7",
+    "A",
+    "G#m7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 78,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "21d414785a3f2a5eea94c903d2dc416c3d97fda83741ea35872ca4c812a886b5",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "The stars keep on calling my name",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

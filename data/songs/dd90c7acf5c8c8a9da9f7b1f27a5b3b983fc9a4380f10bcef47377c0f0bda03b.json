@@ -1,0 +1,108 @@
+{
+  "artist": "Kings Of Leon",
+  "artistNormalized": "kings of leon",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F#m7]\n[A]\n[F#m7]\n[A]\n\n[Verse 1]\n[F#m7]He's so the purity,\na shaven and a\n[A]mourning,\nAnd\n[F#m7]standing on a pigeon toe,\nin his disarray\n[A]\n[F#m7]Straight in the picture pose\nHe's coming round to meet\n[A]you\nAnd\n[F#m7]screaming like a battle cry,\nit's more if I stay\n[A]\n\n[Chorus]\n[C#m]Me and your cold, driving in the snow, Let the\n[D]good times roll let the good times\n[A]roll,\n[C#m]Cowgirl king of the rodeo let the\n[D]good times roll, Let the good times\n[A]roll\n\n[Bridge]\n[F#m7]\n[A]\n\n[Verse 2]\n[F#m7]How dare you come to me\nlike Withnail for a\n[A]favor,\nOh\n[F#m7]hold on not my fairy tale\nyou're trying to start\n[A]\n[F#m7]Take off your overcoat\nyou're staying for the\n[A]weekend,\nAnd\n[F#m7]swaying like a smokey grey,\na drink in the park\n[A]\n\n[Chorus]\n[C#m]Me and your cold, driving in the snow, Let the\n[D]good times roll let the good times\n[A]roll,\n[C#m]Cowgirl king of the rodeo let the\n[D]good times roll, Let the good times\n[A]roll\nGood time to roll on\n\n[Guitar Solo]\n[F#m7]\n[A]\n[F#m7]\n[A]\n\n[Outro]\n[C#m]Good time to roll on\n[D]Good time to roll on\n[A]Good time to roll on\nGood time to roll on\n[C#m]Good time to roll on\n[D]Good time to roll on\n[A]Good time to roll on\nGood time to roll on\n[C#m]Good time to roll on\n[D]Good time to roll on\n[A]Good time to roll on\nGood time to roll on\n[C#m]Good time to roll on\n[D]Good time to roll on\n[A]Good time to roll on\nGood time to roll on\n[C#m]Good time to roll on\n[D]Good time to roll on\n[A]Good time to roll on\nGood time to roll on",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "242222",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14",
+        "x-21-23-21-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "King of the Rodeo",
+  "id": "dd90c7acf5c8c8a9da9f7b1f27a5b3b983fc9a4380f10bcef47377c0f0bda03b",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 281,
+  "normalizedKey": "kings of leon|king of the rodeo",
+  "playableChords": [
+    "F#m7",
+    "A",
+    "C#m",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dd90c7acf5c8c8a9da9f7b1f27a5b3b983fc9a4380f10bcef47377c0f0bda03b",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "King of the Rodeo",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

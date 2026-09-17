@@ -1,0 +1,108 @@
+{
+  "artist": "Klaxons",
+  "artistNormalized": "klaxons",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F]\n[G]\n[F]\n[G]\n\n[Chorus]\n[F]Magick\nwithout tears\nMagick\nwithout tears\n[G]Magick\nwithout tears\nThe magi-\ncal veneer\n[F]The way to\nmother noose\nThe way to\nsuck an egg\n[G]The way to\ngolden dawn\nThe way to\nKoh Phangan The\n\n[Verse 1]\n[F]glitter on\nthe snow The\nplace to al\nways go Do\n[Db]what you will\nDo\n[Cm]what you will\n[F]The glitter on\nthe snow The\nplace to al\nways go Do\n[Db]what you will\nDo\n[Cm]what you will\n\n[Bridge]\n[F]\n\n[Chorus]\n[F]Magick\nwithout tears\nMagick\nwithout tears\n[G]Magick\nwithout tears\nThe magi-\ncal veneer\n[F]The way to\nmother noose\nThe way to\nsuck an egg\n[G]The way to\ngolden dawn\nThe way to\nKoh Phangan\n\n[Verse 2]\n[F]The glitter on\nthe snow The\nplace to al\nways go Do\n[Db]what you will\nDo\n[Cm]what you will\n[F]The glitter on\nthe snow The\nplace to al\nways go Do\n[Db]what you will\nDo\n[Cm]what you will\n\n[Interlude]\n[Db]The vision and\nthe voice The\n[Cm]view from de\nvil's tower\n[Db]The snake with tail\non tongue The\n[Cm]broken sil\nver one The\n[Db]glitter on\nthe snow The\n[Cm]place to al\nways go Do\n[Db]what you will\nDo\n[Cm]what you will\n\n[Outro]\n[F]\n[G]\n[F]Magick\nwithout tears\nMagick\nwithout tears\n[G]Magick\nwithout tears\nThe magi-\ncal veneer",
+  "diagrams": {
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Magick",
+  "id": "71d7b2d28ef5504c393e633916c3a737b67d5dca98e0eca038493a999b235f19",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 227,
+  "normalizedKey": "klaxons|magick",
+  "playableChords": [
+    "F",
+    "G",
+    "Db",
+    "Cm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 59,
+      "name": "Bridge"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 101,
+      "name": "Interlude"
+    },
+    {
+      "measure": 117,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "71d7b2d28ef5504c393e633916c3a737b67d5dca98e0eca038493a999b235f19",
+    "version": "BCFZ"
+  },
+  "tempo": 153,
+  "title": "Magick",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

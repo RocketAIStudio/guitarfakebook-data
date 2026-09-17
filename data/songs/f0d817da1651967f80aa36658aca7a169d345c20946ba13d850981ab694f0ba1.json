@@ -1,0 +1,88 @@
+{
+  "artist": "Madball",
+  "artistNormalized": "madball",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F5]  [Gm]\n[A#]  [C]\n[F5]  [Gm]\n[A#][C]Kick it!\n[F5]  [Gm]\n[A#]  [C]\n[F5]  [Gm]\n[A#]  [C]\n\n[Verse 1]\n[F5]It's my [Gm]life and I'll\n[A#]do what i [C]want\n[F5]It's my [Gm]life and I'll\n[A#]say what I [C]want\n[F5]Its my [Gm]life and I'll\n[A#]do what I [C]care\n[F5]It's my [Gm]life and I'll\n[A#]shave my [C]hair You\n\n[Chorus]\n[A#]turn it [Gm]around you\n[A#]turn it [Gm]around Your\n[A#]turn in my life up side\n[Gm]down So say\n\n[Verse 2]\n[F5]It's my [Gm]life and I'll\n[A#]do what i [C]want\n[F5]It's my [Gm]life and I'll\n[A#]say what I [C]want\n[F5]Its my [Gm]life and I'll\n[A#]do what I [C]care\n[F5]It's my [Gm]life and I'll\n[A#]shave my [C]hair You\n\n[Chorus]\n[A#]turn it [Gm]around you\n[A#]turn it [Gm]around Your\n[A#]turn in my life up side\n[Gm]down\nIt's my life It's my life\nAh!",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "x3555x"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x5777x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "F5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gm": {
+      "catalog": [
+        "5775xx",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "It's My Life *alt",
+  "id": "f0d817da1651967f80aa36658aca7a169d345c20946ba13d850981ab694f0ba1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 117,
+  "normalizedKey": "madball|it s my life",
+  "playableChords": [
+    "F5",
+    "Gm",
+    "A#",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f0d817da1651967f80aa36658aca7a169d345c20946ba13d850981ab694f0ba1",
+    "version": "BCFZ"
+  },
+  "tempo": 148,
+  "title": "It's My Life",
+  "tuning": "D G C F A D",
+  "variantRole": "alt"
+}

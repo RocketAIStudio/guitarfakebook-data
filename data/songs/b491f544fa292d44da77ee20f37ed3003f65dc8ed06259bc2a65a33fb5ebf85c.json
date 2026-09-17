@@ -1,0 +1,111 @@
+{
+  "artist": "Mac DeMarco",
+  "artistNormalized": "mac demarco",
+  "capo": "2",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Ab]\n\n[Verse 1]\n[E]Someday I'll [G]find her\n[E]and I'm still [G]reminded\n[E]Maybe she's [G]best in dreams,\n[E]she's still the [G]best I've seen\n\n[Chorus]\n[Bm][C#m7]Dreaming,\n[Bm][C#m7]dreaming,\n[Bm][C#m7]dreaming,\n[C#m7]baby, I'm [Bm]dreaming\n\n[Interlude]\n[Ab]\n\n[Verse 2]\n[E]Out on her [G]windowsill\n[E]baby [G]remember\n[E]Maybe I'm [G]out of luck,\n[E]maybe it's [G]running still\n\n[Chorus]\n[Bm][C#m7]Dreaming,\n[Bm][C#m7]dreaming,\n[Bm][C#m7]dreaming,\n[C#m7]baby, I'm [Bm]dreaming\n\n[Outro]\n[Ab]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "666666",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x20020",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "C#m7": {
+      "catalog": [
+        "x42222",
+        "x-4-6-4-5-4",
+        "9-11-9-9-9-9",
+        "x-x-11-13-12-12",
+        "x-16-18-16-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "222222",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "555555",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dreaming",
+  "id": "b491f544fa292d44da77ee20f37ed3003f65dc8ed06259bc2a65a33fb5ebf85c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 71,
+  "normalizedKey": "mac demarco|dreaming",
+  "playableChords": [
+    "Ab",
+    "E",
+    "G",
+    "C#m7",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Interlude"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b491f544fa292d44da77ee20f37ed3003f65dc8ed06259bc2a65a33fb5ebf85c",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "Dreaming",
+  "tuning": "D A D F# A D",
+  "variantRole": "primary"
+}

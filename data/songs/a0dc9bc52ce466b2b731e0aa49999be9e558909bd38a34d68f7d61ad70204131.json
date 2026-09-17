@@ -1,0 +1,110 @@
+{
+  "artist": "Lana Del Rey",
+  "artistNormalized": "lana del rey",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[G#m]Love,\n[G#m/G]I said real\nlove is like\n[G#m/F#]feelin' no fear When\nyou're standin' in the face of danger\n[G#m/G]'Cause you just want it so\nmuch A\n[G#m]touch\nfrom\n[G#m/G]your real\nlove Is\n[G#m/F#]like heaven takin' the place of somethin'\nevil\n[F#m]And lettin' it burn off from the rush,\nyeah, yeah Fuck!\n\n[Chorus]\n[E]Darlin', darlin',\ndarlin' I fall to\n[G#m]pieces when I'm with\n[F#]you, I fall to\n[E]pieces\nMy cherries and\n[G#m]wine, rosemary and\n[F#]thyme And all of my\n\n[Verse 2]\n[G#m]peaches are ruined\nLove,\n[G#m/G]is it rea-\nl love? It's\n[G#m/F#]like smilin' when the firin' squad's a-\ngainst you And you just\n[F#m]stay lined up,\nyeah Fuck!\n\n[Chorus]\n[E]Darlin', darlin',\ndarlin' I fall to\n[G#m]pieces when I'm with\n[F#]you, I fall to\n[E]pieces\nbitch My cherries and\n[G#m]wine, rosemary and\n[F#]thyme And all of my\n[E]peaches are ruined\nbitch My rose garden\n[G#m]dreams, set on fire by\n[F#]fiends And all my black\n[E]beaches\nare ruined My celluloid\n[G#m]scenes are torn at the\n[F#]seams And I fall to\n\n[Bridge]\n[E]pieces\nbitch I fall to\npieces when I'm with\nyuo\n\n[Outro]\n[G#m]Why? 'Cause I love you so\n[F#]much, I fall to\n[E]pieces\nMy cherries and\n[G#m]wine, rosemary and\n[F#]thyme And all of my\n[E]peaches are ruined\nbitch Are ruined\n[E]bitch, are ruined\nfuck!",
+  "diagrams": {
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    },
+    "G#m/F#": {
+      "catalog": [
+        "xx4444"
+      ],
+      "catalogCount": 1
+    },
+    "G#m/G": {
+      "catalog": [
+        "xx5444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Cherry",
+  "id": "a0dc9bc52ce466b2b731e0aa49999be9e558909bd38a34d68f7d61ad70204131",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 281,
+  "normalizedKey": "lana del rey|cherry",
+  "playableChords": [
+    "G#m",
+    "G#m/G",
+    "G#m/F#",
+    "F#m",
+    "E",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a0dc9bc52ce466b2b731e0aa49999be9e558909bd38a34d68f7d61ad70204131",
+    "version": "BCFZ"
+  },
+  "tempo": 62,
+  "title": "Cherry",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,111 @@
+{
+  "artist": "Linkin Park",
+  "artistNormalized": "linkin park",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[Dm]My in-\nsides all turned to ash,\n[F]so\n[C]slow\n[Dm]And blew a-\nway as I collapsed,\n[F]so\n[C]cold\n[Dm]A black\nwind took them away\n[F]from\n[C]sight\n[Dm]And held the\ndarkness over day,\n[F]that\n[C]night And the clouds\n\n[Bridge]\n[Bb]above move clo-\n[C]ser Looking so\n[F]dissatisfied\n[C]But the heart-\n[Bb]less wind kept blow-\n[C]ing, blowing\n\n[Verse 2]\n[Dm]I used to\nbe my own protec-\n[F]tion, but not\n[C]now\n[Dm]'Cause my\npath has lost direc-\n[F]tion, some-\n[C]how\n[Dm]A black\nwind took you away\n[F]from\n[C]sight\n[Dm]And held the\ndarkness over day,\n[F]that\n[C]night And the clouds\n\n[Bridge]\n[Bb]above move clo-\n[C]ser Looking so\n[F]dissatisfied\n[C]And the ground\n[Bb]below grew col-\n[C]der As they put\n[F]you down inside\n[C]But the heart-\n[Bb]less wind kept blow-\n[C]ing, blowing\n\n[Interlude]\n[Bb]\n[C]\n[F]\n[Am]\n[Bb]\n[C]\n[F]\n[Am]\n[Bb]So now, you're gone\n[C]and I was wrong\n[F]I never knew\n[Am]what it was like\n[Bb]to be alone\n[C]On a\n\n[Chorus]\n[Dm]Valentine's day,\non a\n[F]Valentine's day\n[C]On a\n[Dm]Valentine's day,\non a\n[F]Valentine's day\n[C]On a\n[Dm]Valentine's day,\non a\n[F]Valentine's day\n[C]On a\n[Dm]Valentine's day,\non a\n[F]Valentine's day\n[C]On a\n[Dm]Valentine's day,\non a\n[F]Valentine's day\n[C]On a\n[Dm]Valentine's day,\non a\n[F]Valentine's day\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "000231",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "333565",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Valentine's Day",
+  "id": "2535263874a8dde626ae35594b59c1c62116f5421c73eb19fee7811faf2731e6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 236,
+  "normalizedKey": "linkin park|valentine s day",
+  "playableChords": [
+    "Dm",
+    "F",
+    "C",
+    "Bb",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2535263874a8dde626ae35594b59c1c62116f5421c73eb19fee7811faf2731e6",
+    "version": "BCFZ"
+  },
+  "tempo": 108,
+  "title": "Valentine's Day",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

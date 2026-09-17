@@ -1,0 +1,104 @@
+{
+  "artist": "Luca Prodan",
+  "artistNormalized": "luca prodan",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Bm]\n[C#m]\n[Amaj7]\n[F#m]\n[Bm]\n[C#m]\n[Amaj7]\n[F#m]\n\n[Verse 1]\n[Bm]It's strange the way that past seems\n[C#m]always fine While the\n[Amaj7]present wears me down and\n[F#m]time and time And time lies\n[Bm]heavy over me as it\n[C#m]does over you And the\n[Amaj7]distance and what you said I\n[F#m]know it wasn't true\n[Bm]Every hour, every minute is\n[C#m]like a hundred years And the\n[Amaj7]pain I feel is measured not in\n[F#m]inches but in tears So\n[Bm]close, so woman, friend or foe\n[C#m]Just\n[Amaj7]hold me close and\n[F#m]please don't let me go\n\n[Bridge]\n[Bm]\n[C#m]\n[Amaj7]\n[F#m]Well, my\n\n[Verse 2]\n[Bm]life now is ok in the\n[C#m]morning in the day But the\n[Amaj7]night is long the night is sad\n[F#m]And\n[Bm]that’s when I have the\n[C#m]dreams I know you never had I\n[Amaj7]know that I was wrong, I\n[F#m]know that I was bad So\n[Bm]baby, baby, baby, baby, ba-\n[C#m]by, baby, baby\n[Amaj7]Won't you\n[F#m]come this way?\n\n[Bridge]\n[Bm]\n[C#m]\n[Amaj7]\n[F#m]I'm\n\n[Verse 4]\n[Bm]walking down the street\n[C#m]I see the people that\n[Amaj7]meet each other They kiss and talk and talk\n[F#m]and kiss and talk But I\n[Bm]feel so alone\n[C#m]And the\n[Amaj7]world is made of stone And\n[F#m]everybody’s freezing\n[Bm]to the bones\n[C#m]Even known\n[Amaj7]it might be warm Even known\n[F#m]it isn't cold It's\n[Bm]strange the way that past seems\n[C#m]always fine While the\n[Amaj7]present wears me down and\n[F#m]time and time And time lies\n[Bm]heavy over me as it\n[C#m]does over you And the\n[Amaj7]distance and what you said I\n[F#m]know it wasn't true\n\n[Outro (Fade out)]\n[Bm]\n[C#m]\n[Amaj7]\n[F#m]\n[Bm]\n[C#m]\n[Amaj7]\n[F#m]\n[Bm]",
+  "diagrams": {
+    "Amaj7": {
+      "catalog": [
+        "x02120",
+        "5-4-2-2-2-4",
+        "5-7-6-6-5-5",
+        "x-x-7-9-9-9",
+        "x-12-11-9-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lament",
+  "id": "64aaedc49929655698dea5fe75e07f56c8c97942b186ac7b9f14df0e0afd0b56",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 272,
+  "normalizedKey": "luca prodan|lament",
+  "playableChords": [
+    "Bm",
+    "C#m",
+    "Amaj7",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Bridge"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 66,
+      "name": "Outro (Fade out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "64aaedc49929655698dea5fe75e07f56c8c97942b186ac7b9f14df0e0afd0b56",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "Lament",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

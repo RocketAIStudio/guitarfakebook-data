@@ -1,0 +1,116 @@
+{
+  "artist": "Lynyrd Skynyrd",
+  "artistNormalized": "lynyrd skynyrd",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[E]\n[A]\n[D]\n[G]\n[E]\n[D]\n[A]\n[D]\nI was\n\n[Verse 1]\n[D]cutting the rug Down at a\nplace called The Jug With a\n[A]girl named Linda Lu\nWhen\n[D]in walked a man With a\ngun in his hand And he was\n[E]looking for you know who\n[A]He said, he-\n[D]y there fellow With the\nhair colored yellow\n[G]What you trying to pro-\n[E]ve? 'Cause that's\n[D]my woman there And I'm a\nman who cares And this\n[A]might be all for you\n[D]\n\n[Bridge]\n[D]\n[A]\n[D]\n[A]\n[D]\nI was\n\n[Verse 2]\n[D]scared and fearing\nfor my life I was\n[A]shaking like a leaf on a tree\n'Cause he was\n[D]lean, mean\nBig and bad, Lord\n[E]Pointing that gun at me\n[A]Oh,\n[D]wait a minute, mister I di-\ndn't even kiss her\n[G]Don't want no trouble with you\n[E]And I know\n[D]you don't owe me But I\nwish you would let me\n[A]Ask one favor from you\n[D]\nOh, won't you\n\n[Chorus]\n[D]give me three steps Gimme\nthree steps mister Gimme\n[A]three steps towards the doo-\nr?\n[D]Gimme three steps Gimme\nthree steps mister And you'll\n[A]never seea me no mo-\n[D]re\nFor sure!\n\n[Post-Chorus]\n[D]\n[A]\n[D]\n[E]\n[A]\n[D]\n[G]\n[E]\n[D]\n[A]\n[D]\nWell the\n\n[Verse 3]\n[D]crowd cleared away And I be-\ngan to pray As the wa-\n[A]ter fell on the floo-\nr And I'm\n[D]telling you son Well, it ai-\nn't no fun Staring\n[E]straight down a fortyfou-\n[A]r Well he tu-\n[D]rned and screamed at\nLinda Lu And that's the\n[G]break I was looking fo-\n[E]r And you could\n[D]hear me screaming a mi-\nle away As I was\n[A]headed out towards the doo-\n[D]r\nOh, won't you\n\n[Chorus]\n[D]give me three steps Gimme\nthree steps mister Gimme\n[A]three steps towards the doo-\nr?\n[D]Gimme three steps Gimme\nthree steps mister And you'll\n[A]never seea me no mo-\n[D]re\nShow me the back door\n\n[Outro]\n[D]\n[A]\n[D]\n[E]\n[A]\n[D]\n[G]\n[E]\n\n[(Fade out)]\n[D]\n[A]\n[D]\n[D]\n[A]\n[D]\n[E]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Gimme Three Steps *alt",
+  "id": "fce5b21cf0e6e05b81b111da685c90d12f935563a399de7132ad8b64c661d1b5",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 344,
+  "normalizedKey": "lynyrd skynyrd|gimme three steps",
+  "playableChords": [
+    "D",
+    "A",
+    "E",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 44,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 70,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 96,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 113,
+      "name": "Chorus"
+    },
+    {
+      "measure": 122,
+      "name": "Outro"
+    },
+    {
+      "measure": 134,
+      "name": "(Fade out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fce5b21cf0e6e05b81b111da685c90d12f935563a399de7132ad8b64c661d1b5",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "Gimme Three Steps",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

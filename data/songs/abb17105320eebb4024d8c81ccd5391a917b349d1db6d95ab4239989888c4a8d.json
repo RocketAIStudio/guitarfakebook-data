@@ -1,0 +1,143 @@
+{
+  "artist": "Led Zeppelin",
+  "artistNormalized": "led zeppelin",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A5]\n[E]\n\n[Verse 1]\n[E]Let me [D]take\nyou [G]to [D]the [A]mo-\n[E]vies. Can I [D]take\nyou [G]to [D]the [A]show?\n[E]Let me [D]be\nyours [D][G]ever [A]tru-\n[E]ly. Can I [D]make\nyour [D][G]garden [A]grow?\n\n[Bridge]\n[A5]\n[E]\n\n[Verse 2]\n[E]From the [D]hou-\nses [G]of [D]the [A]ho-\n[E]ly We can [D]watch\nthe [G]white [D]doves [A]go.\n[E]From the [D]door\ncomes [D][G]Satan's [A]dau-\n[E]ghter. And it [D]o-\nnly [G]goes [D]to [A]show.\n[E]And you know.\n\n[Bridge]\n[A5]\n[E]\n\n[Verse 3]\n[E]There's an [D]an-\ngel [G]on [D]my [A]shou-\n[E]lder. In my [D]hand\na [G]sword [D]of [A]gold.\n[E]Let me [D]wa-\nnder [G]in [D]your [A]ga-\n[E]rden. And the [D]seeds\nof [G]love [D]I'll [A]sow.\n\n[Bridge]\n[A5]You know.\n[E]\n\n[Verse 4]\n[E]So the [D]world\nis [D][G]spinning [A]fa-\n[E]ster. Are you [D]di-\nzzy [G]when [D]you [A]stall?\n[E]Let the [D]mu-\nsic [G]be [D]your [A]ma-\n[E]ster. Will you [D]heed\nthe [D][G]master's [A]call?\n[E]Oh\n\n[Bridge]\n[A5]\nSatan and man.\n[E]\n\n[Verse 5]\n[E]Said there [D]ain't\nno [G]use [D]in [A]cry-\ning [E]'Cause it [D]will\nonly, [G]only drive [D]you [A]mad.\n[E]Does it [D]hurt\n[G]to hear [D]them [A]ly-\ning? [E]Was this [D]the\n[G]only world [D]you [A]had?\n\n[Bridge]\n[A5]Oh\n[E]\n\n[Verse 6]\n[E]So let [D]me\ntake you, take [G]you to [D]the [A]mo-\n[E]vie. Can I [D]take\nyou, [G]baby, to [D]the [A]show?\n[E]Why don't [D]you\nlet me be [G]yours [D]ever [A]tru-\nly? [E]Can I [D]make\nyour [D][G]garden [A]grow?\n[E]You know\n\n[Bridge]\n[A5]\nthat's right.\n\n[Solo]\n[A5]\n\n[Outro (Fade-Out)]\n[A5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Led Zeppelin - Houses Of The Holy",
+  "id": "abb17105320eebb4024d8c81ccd5391a917b349d1db6d95ab4239989888c4a8d",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 206,
+  "normalizedKey": "led zeppelin|led zeppelin houses of the holy",
+  "playableChords": [
+    "A5",
+    "E",
+    "D",
+    "G",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Bridge"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 67,
+      "name": "Bridge"
+    },
+    {
+      "measure": 75,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 83,
+      "name": "Bridge"
+    },
+    {
+      "measure": 91,
+      "name": "Verse 6"
+    },
+    {
+      "measure": 100,
+      "name": "Bridge"
+    },
+    {
+      "measure": 108,
+      "name": "Solo"
+    },
+    {
+      "measure": 116,
+      "name": "Outro (Fade-Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "abb17105320eebb4024d8c81ccd5391a917b349d1db6d95ab4239989888c4a8d",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Led Zeppelin - Houses Of The Holy",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

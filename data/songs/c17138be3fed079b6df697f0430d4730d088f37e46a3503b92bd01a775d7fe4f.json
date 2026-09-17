@@ -1,0 +1,146 @@
+{
+  "artist": "King Crimson",
+  "artistNormalized": "king crimson",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 14,
+  "content": "[Intro]\n[Ebmadd13]\n[Bmaj7/Eb]\n[Ebmadd13]\n[Bsus2/D]\n[Ebmadd13]\n[Bmaj7/Eb]\n[Ebmadd13]\n[Bsus2/D]  [Dm/F]\n[F#madd13]\n[Dmaj7/F#]\n[F#madd13]\n[Ddim/F]\n\n[Verse 1]\n[Ebmadd13]Autumn has\n[Bmaj7/Eb]come to\n[Ebmadd13]rest In her\n[Bsus2/D]garden.\n[Ebmadd13]Come to paint the trees with\n[Bmaj7/Eb]emptyness\n[Ebmadd13]And no\n[Dm/F][Bsus2/D]pardon.\n[F#madd13]So many things have\n[Dmaj7/F#]come undone\n[F#madd13]Like the leaves on the\n[Ddim/F]ground And\n[F#madd13]suddenly she be-\n[Dmaj7/F#]gins to cry\n[F#madd13]But she doesn't know\n[Ddim/F]why. [Edim/G]\n\n[Intrelude]\n[G#madd13]\n[Emaj7/G#]\n[G#madd13]\n[Edim/G]  [Gdim/Bb]\n\n[Verse 2]\n[Bmadd13]Heavy are the words that\n[Gmaj7/B]fall through the air\n[Bmadd13]To burden her\n[F#/A#]shoulders.\n[Bmadd13]Caught up in the tree Her\n[Gmaj7/B]soliloguy,\n[Bmadd13]\"Don't leave me a-\n[Gdim/Bb]lone\"",
+  "diagrams": {
+    "Bmadd13": {
+      "catalog": [
+        "9-9-12-12-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Bmaj7/Eb": {
+      "catalog": [
+        "1243xx"
+      ],
+      "catalogCount": 1
+    },
+    "Bsus2/D": {
+      "catalog": [
+        "1246xx"
+      ],
+      "catalogCount": 1
+    },
+    "Ddim/F": {
+      "catalog": [
+        "356xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Dm/F": {
+      "catalog": [
+        "3577xx"
+      ],
+      "catalogCount": 1
+    },
+    "Dmaj7/F#": {
+      "catalog": [
+        "4576xx"
+      ],
+      "catalogCount": 1
+    },
+    "Ebmadd13": {
+      "catalog": [
+        "1144xx"
+      ],
+      "catalogCount": 1
+    },
+    "Edim/G": {
+      "catalog": [
+        "578xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Emaj7/G#": {
+      "catalog": [
+        "6798xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#/A#": {
+      "catalog": [
+        "x1432x"
+      ],
+      "catalogCount": 1
+    },
+    "F#madd13": {
+      "catalog": [
+        "4477xx"
+      ],
+      "catalogCount": 1
+    },
+    "G#madd13": {
+      "catalog": [
+        "6699xx"
+      ],
+      "catalogCount": 1
+    },
+    "Gdim/Bb": {
+      "catalog": [
+        "8-10-11-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Gmaj7/B": {
+      "catalog": [
+        "9-10-12-11-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Inner Garden Pt. 1",
+  "id": "c17138be3fed079b6df697f0430d4730d088f37e46a3503b92bd01a775d7fe4f",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 82,
+  "normalizedKey": "king crimson|inner garden pt 1",
+  "playableChords": [
+    "Ebmadd13",
+    "Bmaj7/Eb",
+    "Bsus2/D",
+    "Dm/F",
+    "F#madd13",
+    "Dmaj7/F#",
+    "Ddim/F",
+    "Edim/G",
+    "G#madd13",
+    "Emaj7/G#",
+    "Gdim/Bb",
+    "Bmadd13",
+    "Gmaj7/B",
+    "F#/A#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c17138be3fed079b6df697f0430d4730d088f37e46a3503b92bd01a775d7fe4f",
+    "version": "BCFZ"
+  },
+  "tempo": 137,
+  "title": "Inner Garden Pt. 1",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

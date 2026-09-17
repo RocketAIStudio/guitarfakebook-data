@@ -1,0 +1,114 @@
+{
+  "artist": "Mac DeMarco",
+  "artistNormalized": "mac demarco",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]  [F]\n[G]  [Bb]  [F/A]\n[G]\n[F]\n[G]  [Bb]  [F/A]\n[G]\n\n[Verse 1]\n[G]Hope you had your fun [F]All\n[G]those days are [F/A][Bb]over now\n[G]\nThe\nsunset's at the [F]skyline Say\n[G]goodnight and [Bb]kindly take [F/A]your bow\n[G]\nMarch on,\n\n[Chorus]\n[Em][C7]little dog-\n[G]gy March on,\n[Em][C7]little dog\n[G]\n\n[Verse 2]\n[G]Hope you had your fun [F]All\n[G]those days are [F/A][Bb]over now\n[G]\nThe\nriver's all dammed up [F]So\n[G]fill your cup and [Bb]kindly take [F/A]your bow\n[G]\nMarch on,\n\n[Chorus]\n[Em][C7]little dog-\n[G]gy March on,\n[Em][C7]little dog\n[G]March on,\n[Em][C7]little dog-\n[G]gy March on,\n[Em][C7]little dog\n[G]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x3201x",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "xx0212",
+        "x-3-2-3-1-0",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "244222",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "320003",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "F/A": {
+      "catalog": [
+        "x2000x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "x02220",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Little Dogs March",
+  "id": "15380357fbf4d4769301d8467c0dcc2accc907db02190196b115529610ecd481",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 89,
+  "normalizedKey": "mac demarco|little dogs march",
+  "playableChords": [
+    "G",
+    "F",
+    "Bb",
+    "F/A",
+    "Em",
+    "C7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "15380357fbf4d4769301d8467c0dcc2accc907db02190196b115529610ecd481",
+    "version": "BCFZ"
+  },
+  "tempo": 62,
+  "title": "Little Dogs March",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

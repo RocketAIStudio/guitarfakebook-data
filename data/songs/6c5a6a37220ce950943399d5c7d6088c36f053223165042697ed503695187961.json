@@ -1,0 +1,112 @@
+{
+  "artist": "Led Zeppelin",
+  "artistNormalized": "led zeppelin",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "With a\n\n[Verse 1]\n[A]purple umberella and a\nfifty cent hat\n[G]  [A]  [G]  [A]\n[A][D][A]Missus\n[A]cool rides out in her aged\nCadillac\n[G]  [A]  [G]  [A]\n[A]  [D]  [A]\n\n[Chorus]\n[D]Come on babe on the\nroundabout\n[A]ride on the merry go ro-\nund\n[D]We all know what your\nname is so you\n[E]better lay your money do-\nwn\n\n[Verse 2]\n[A]\n[G]  [A]  [G]  [A]\n[A]  [D]  [A]\n[A]Alimony alimony\npayin' your bills\n[G]  [A]  [G]  [A]\n[A][D][A]When your\n[A]conscience hits you knock it\nback with pills\n[G]  [A]  [G]  [A]\n[A]  [D]  [A]\n\n[Chorus]\n[D]Come on babe on the\nroundabout\n[A]ride on the merry goro-\nund\n[D]We all know what your\nname  is so you\n[E]better lay your money dow-\nn\n\n[Verse 3]\n[A]Tellin' tall tales of how \nit used to be\n[G]  [A]  [G]  [A]\n[A][D][A]With the\n[A]butler and the maid and\nthe servants three\n[G][A]Ah [G][A]get it\nnow [A]She's a [A][D]woman\n\n[Solo]\n[D]\n[A]\n[D]\n[E]Oh\nyou got\n\n[Verse 4]\n[A]\n[G]  [A]  [G]  [A]\n[A]  [D]  [A]\n[A]Nobody hears a single\nword you say\n[G]  [A]  [G]  [A]\n[D][A]But you\n[A]keep on talkin' till your\ndyin' day\n[G]  [A]  [G]  [A]\n[D]  [A]\n\n[Chorus]\n[D]Come on babe on the\nroundabout\n[A]ride on the merry goro-\nund\n[D]We all know what your\nname is so you\n[E]better lay your money do-\nwn\n\n[Outro]\n[A]\n[G]  [A]  [G]  [A]\n[A]  [D]  [A]\n[A]\n[A][G]Livin' livin' [A][G]lovin' lovin'\n[A]she's just a [A][D]woman\n[A]\n[G]Lu lu lu lu lu lu lu lu lu lu lu\n[A]  [D]  [A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Living Loving Maid *alt 2",
+  "id": "6c5a6a37220ce950943399d5c7d6088c36f053223165042697ed503695187961",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 229,
+  "normalizedKey": "led zeppelin|living loving maid",
+  "playableChords": [
+    "A",
+    "G",
+    "D",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 79,
+      "name": "Chorus"
+    },
+    {
+      "measure": 88,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6c5a6a37220ce950943399d5c7d6088c36f053223165042697ed503695187961",
+    "version": "BCFZ"
+  },
+  "tempo": 151,
+  "title": "Living Loving Maid",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

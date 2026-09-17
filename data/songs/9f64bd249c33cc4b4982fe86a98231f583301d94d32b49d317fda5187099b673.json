@@ -1,0 +1,110 @@
+{
+  "artist": "mac demarco",
+  "artistNormalized": "mac demarco",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C7]\n[Dm7]\n[Gm7]\n[C7/E]\n[C7]\n[Dm7]\n[Gm7]\n[C7/E]\n[C7]\n\n[Verse 1]\n[C7]watching my life, passing right in front\n[Dm7]of my eyes hell of a story,\n[Gm7]oh is it boring?\n[C7/E]can't claim\n[C7]to care, never been reluctant to\n[Dm7]share passing out pieces of me,\n[Gm7]don't you know nothing comes free? what\n[C7/E]mom don't know has tak-\n[C7]en\n\n[Chorus]\n[D9]its toll on me\nit's all i've seen that can't be wiped\n[Bb/A]\nclean\n[D9]it's hard to be-\nlieve what is made of me pass-\n[Bb/A]ing my life, living it out\n[C7]in her sight\n\n[Verse 2]\n[C7]listening closely, hearing her most-\n[Dm7]ly can't shake concern, seems that e-\n[Gm7]v'rytime that i turn\n[C7/E]i'm pass-\n[C7]ing out pieces of me, don't you know\n[Dm7]nothing comes free? what mom don't know has\n[Gm7]taken its toll on me it's all\n[C7/E]i've seen that can't be\n[C7]wiped\n\n[Chorus]\n[D9]clean it's hard to\nbelieve what is made of me\n[Bb/A]\n[D9]\n[Bb/A]\n[C7]\n\n[Outro]\n[C7]\n[Dm7]\n[Gm7]\n[C7/E]\n[C7]\n[Dm7]\n[Gm7]\n[C7/E]\n[C7]",
+  "diagrams": {
+    "Bb/A": {
+      "catalog": [
+        "x0333x"
+      ],
+      "catalogCount": 1
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7/E": {
+      "catalog": [
+        "032310"
+      ],
+      "catalogCount": 1
+    },
+    "D9": {
+      "catalog": [
+        "x54530"
+      ],
+      "catalogCount": 1
+    },
+    "Dm7": {
+      "catalog": [
+        "xx0211",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Gm7": {
+      "catalog": [
+        "3x3331",
+        "3-5-3-3-3-3",
+        "x-x-5-7-6-6",
+        "x-10-12-10-11-10",
+        "15-17-15-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "passing out pieces",
+  "id": "9f64bd249c33cc4b4982fe86a98231f583301d94d32b49d317fda5187099b673",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 156,
+  "normalizedKey": "mac demarco|passing out pieces",
+  "playableChords": [
+    "C7",
+    "Dm7",
+    "Gm7",
+    "C7/E",
+    "D9",
+    "Bb/A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9f64bd249c33cc4b4982fe86a98231f583301d94d32b49d317fda5187099b673",
+    "version": "BCFZ"
+  },
+  "tempo": 81,
+  "title": "passing out pieces",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,108 @@
+{
+  "artist": "M83",
+  "artistNormalized": "m83",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[Bm]\n[A]\n[Em7]\n[G]\n[Bm]\n[A]\n[Em7]\n[G]\n[Bm]\n[A]\n[Em7]\n[G]\n[Bm]\n[A]\n[Em7]\n\n[Verse 1]\n[G]Waiting in the\n[Bm]car\n[A]Waiting for the\n[Em7]ride in the da-\n[G]rk At night the city\n[Bm]grows\n[A]Look at the ho-\n[Em7]rizon glo-\n\n[Chorus]\n[G]w\n[Bm]\n[A]\n[Em7]\n[G]\n[Bm]\n[A]\n[Em7]\n\n[Verse 2]\n[G]Waiting in the\n[Bm]car\n[A]Waiting for the\n[Em7]ride in the da-\n[G]rk Drinking in the\n[Bm]lights\n[A]Following the\n[Em7]neon si-\n[G]gns Waiting for a\n[Bm]word\n[A]Looking at the\n[Em7]mutated skyline\n[G]The city is my\n[Bm]church\n[A]It wraps me in its\n[Em7]blinding twili-\n\n[Chorus]\n[G]ght\n[Bm]\n[A]\n[Em7]\n[G]\n[Bm]\n[A]\n[Em7]\n\n[Bridge]\n[G]\n[Bm]\n[A]\n[Em7]\n[G]Waiting in the\n[Bm]car\n[A]Waiting for the\n[Em7]ride in the da-\n[G]rk Waiting in the\n[Bm]car\n[A]Waiting for the\n[Em7]ride in the da-\n[G]rk Waiting in the\n[Bm]car\n[A]Waiting for the\n[Em7]ride in the da-\n\n[Chorus]\n[G]rk\n[Bm]\n[A]\n[Em7]\n[G]\n[Bm]\n[A]\n[Em7]\n\n[Outro]\n[G]\n[Bm]\n[A]\n[Em7]\n[G]\n[Bm]\n[A]\n[Em7]\n[G]\n[Bm]\n[A]\n[Em7]\n[G]\n[Bm]\n[A]\n[Em7]\n[G]\n[Bm]\n[A]\n[Em7]\n[G]\n[Bm]\n[A]\n[Em7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "020000",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12",
+        "x-19-21-19-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Midnight City",
+  "id": "4a1b80885f82634dcc0764218daed77138ba8a27f2920b8a3eac345c643e3bc6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 128,
+  "normalizedKey": "m83|midnight city",
+  "playableChords": [
+    "G",
+    "Bm",
+    "A",
+    "Em7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4a1b80885f82634dcc0764218daed77138ba8a27f2920b8a3eac345c643e3bc6",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "Midnight City",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,94 @@
+{
+  "artist": "Korn",
+  "artistNormalized": "korn",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[B]\n\n[Verse 1]\n[B]It looks like it's a-\nbout to begin\n[Am]I'm lying down in a\n[D#dim]pool of sin now\n[B]So why does it feel so\ngood within?\n[Am]Letting go,\n[D#dim]giving in!\n\n[Chorus]\n[Am]Tell me what you want? Tell me what you want?\nFuck you go away!\nTell me what you want? Tell me what you want?\nFuck you go away!\nTell me what you want? Tell me what you want?\nFuck you go away!\nGo away and\nnever come back!\n[B]\n\n[Verse 2]\n[B]I'm gonna cry to\ndive right in\n[Am]I'm gonna fight un-\n[D#dim]til I win now\n[B]I'm running down in a\npool of sin\n[Am]Letting go,\n[D#dim]giving in!\n\n[Chorus]\n[Am]Tell me what you want? Tell me what you want?\nFuck you go away!\nTell me what you want? Tell me what you want?\nFuck you go away!\nTell me what you want? Tell me what you want?\nFuck you go away!\nGo away and\nnever come back!\n\n[Bridge]\n[Am]\nNever come back\nNever come back!\nGo away and\nnever come back!\n\n[Break]\n[Am]\nGo away!\n[Fdim]  [A#dim]\n[Am]Go a-\nway!\n[Fdim]  [A#dim]\n\n[Chorus]\n[Am]Tell me what you want? Tell me what you want?\nFuck you go away!\nTell me what you want? Tell me what you want?\nFuck you go away!\nTell me what you want? Tell me what you want?\nFuck you go away!\nGo away and\nnever come back!\n\n[Outro]\n[Am]\nNever come back!\nNever come back!\n[B5]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "Tell Me What You Want",
+  "id": "a0f376ac02392658a7d5140feecf2ad0618293f230d65e811090dc944f186d91",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 256,
+  "normalizedKey": "korn|tell me what you want",
+  "playableChords": [
+    "B",
+    "Am",
+    "D#dim",
+    "Fdim",
+    "A#dim",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Break"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 71,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a0f376ac02392658a7d5140feecf2ad0618293f230d65e811090dc944f186d91",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "Tell Me What You Want",
+  "tuning": "A D G C F A D",
+  "variantRole": "primary"
+}

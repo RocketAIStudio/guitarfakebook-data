@@ -1,0 +1,126 @@
+{
+  "artist": "Korn",
+  "artistNormalized": "korn",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am]\n\n[Verse 1]\n[Am]You bumped into me I was\ndown, and you took me up past the ceiling\n[C]You are the disease I'm the\n[C]remedy that numbs [Bb]all your feelings\n[Am]You come looking for me I'm the\nonly one that keeps you sound\n[C]Bring it down to your knees 'Cause I'm the\n[C]only one that [Bb]makes you, you,\nyou, you\n\n[Chorus]\n[Am]Take [Bb]me!\nPlease\n[Am]take [Bb]me!\n[G]It's the\n[Am]only way! [Bb]\nPlease\n[Am]take [Bb]me!\n[G]\n\n[Verse 2]\n[Am]You came after me I'm not\nworth anything if I'm not inside you\n[C]Only you can truly see All the\n[C]hell you put me through and the [Bb]vicious feeding\n[Am]Can't really be free 'Cause every\ntime I run away you hunt me down\n[C]I can't ever blame me 'Cause every\n[C]time I turn around it's [Bb]you, you, you,\nit's you\n\n[Chorus]\n[Am]Take me! [Bb]\nPlease\n[Am]take [Bb]me!\n[G]It's the\n[Am]only way! [Bb]\nPlease\n[Am]take me! [Bb]\n[G]I feel it\n\n[Interlude]\n[Am]calling I feel it\n[D#m]holding me It's\n[Am]taking everything I love a-\n[E]way from me I feel it\n[Am]ripping I feel it\n[D#m]scaring me That\n[Am]shit has made me blind to all re-\n[E]ality I feel it\n[Am]calling\n[D#m]I feel it\n[Am]calling\n[D#m]It's\n[E]calling me\n\n[Bridge]\n[Am]\n\n[Chorus]\n[Am]  [Bb]\n[Am]  [Bb]\n[G]\n[Am]  [Bb]\n[Am]  [Bb]\n[G]\n[Am]  [Bb]\n[Am]  [Bb]\n[G]\n[Am]  [Bb]\n[Am]  [Bb]\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x24432",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x32010",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "xx0232",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "133111"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "244322",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "x02220",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Take Me",
+  "id": "192a7a4caab0ce5108a93d4ce1494441d697daff9eacdeebbd3ace2fb02d7fd6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 223,
+  "normalizedKey": "korn|take me",
+  "playableChords": [
+    "Am",
+    "C",
+    "Bb",
+    "G",
+    "D#m",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 54,
+      "name": "Bridge"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "192a7a4caab0ce5108a93d4ce1494441d697daff9eacdeebbd3ace2fb02d7fd6",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "Take Me",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

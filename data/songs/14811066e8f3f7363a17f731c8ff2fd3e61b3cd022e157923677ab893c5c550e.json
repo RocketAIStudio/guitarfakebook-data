@@ -1,0 +1,100 @@
+{
+  "artist": "Led Zeppelin",
+  "artistNormalized": "led zeppelin",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[A]Oh\n,\nI can't quit you , ba-\nby\n[D]\nSo I'm gonna put you dow-\n[A]n for awhile\nI said\n[D]I can't quit you, ba-\nby\nI guess I'm gotta put you dow-\n[A]n for awhile\n[E]Said you messed up\nmy happy horme\n[D]\nMade me mistreat my on-\n\n[Bridge]\n[A]ly child\n[A#]Yes sir you did!\n[A]\n[A#]Oh\n\n[Verse 2]\n[A]Said you know I love you,\nbaby\n[D]\nMy love for you I coul-\n[A]d never hide\nOh,\n[D]you know I\nlove you, baby\nMy lo-\nve for you I could ne-\n[A]ver hide\n[E]Oh, when I feel you\nnear me, little girl\n[D]\nI know you are my one desi-\n\n[Bridge]\n[A]re\n[A#]Oh\n[A]\n[A#]Oh\n\n[Solo]\n[A]\n[D]\n[A]\n[D]\n[A]\n[E]\n[D]\n[A]\n[A#]\n[A]\n[A#]\n[A]\n[D]\n[A]\n[E]\n[D]\n[A]\n[A#]\n[A]\n[A#]\n\n[Verse 3]\n[A]When you hear me moaning and\ngroaning, baby\n[D]\nYou know it hurts me deep dow-\n[A]n inside\nOh\n[D], when you hear me moaning and groaning, ba-\nby\nYou know it hurts me deep down i-\n[A]nside\nOh\n[E]oh, when you hear me holler,\nbaby\n[D]You know\nyou're my one desire\n\n[Outro]\n[A]\n[A#]Yes, you are\n[A]\n[A#]Oh .\n[A]\n[A#]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#": {
+      "catalog": [
+        "x13331"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Can't Quit You Baby *alt",
+  "id": "14811066e8f3f7363a17f731c8ff2fd3e61b3cd022e157923677ab893c5c550e",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 194,
+  "normalizedKey": "led zeppelin|i can t quit you baby",
+  "playableChords": [
+    "A",
+    "D",
+    "E",
+    "A#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Bridge"
+    },
+    {
+      "measure": 51,
+      "name": "Solo"
+    },
+    {
+      "measure": 99,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 119,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "14811066e8f3f7363a17f731c8ff2fd3e61b3cd022e157923677ab893c5c550e",
+    "version": "BCFZ"
+  },
+  "tempo": 81,
+  "title": "I Can't Quit You Baby",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,166 @@
+{
+  "artist": "Led Zeppelin",
+  "artistNormalized": "led zeppelin",
+  "capo": "No capo",
+  "chordPositionCount": 38,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[E5]\nIn the\n\n[Verse 1]\n[E5]days of my youth, I was\n[D]told What it means [A]to be a man.\n[E5]\n[D][A]And\n[E5]now I've reached that age I've tried to do\n[D]All those [A]things the best I\n[E5]can\n[D][A]No\n[E5]matter how I try I find my\n[D]way into the [A]same old\n[E5]jam.\n[D]  [A]\n\n[Chorus]\n[A]Good times, [D]bad [G]times, you\n[A]know I've had my share. [G][D]Well, my\n[B]woman left home for a [A]brown eyed man, [E]But I\n[B]still don't seem to care.\n\n[Verse 2]\n[F#5]Sixteen I fell in love with a\ngirl as sweet as could be. It\nonly took a couple of days 'till\nshe was rid of me She\nswore that she would be all mine and\nlove me 'till the end, But\nwhen I whispered in her ear I\nlost another friend. Oh!\n\n[Chorus]\n[B]Good times, [A]bad [E]times, you\n[B]know I've had my [A]share. [E]Well, my\n[C#]woman left home for a [F#sus4]brown eyed [F#m]man, But I\n[C#]still don't seem to care.\n[C#]\n\n[Solo]\n[E]  [D]  [A]\n[E]  [D]  [A]\n[E]  [D]  [A]\n[E]  [D]  [A]\n[E]  [D]  [A]\n[E]  [D]  [A]\n[E]  [D]  [A]\n[E]  [D]  [A]\n\n[Chorus]\n[A]Good times, [G]bad [D]times, you\n[A]know I've had my [G]share. [D]Well, my\n[B]woman left home for a [A]browneyed [E]man, but I\n[B]still don't seem to care.\n\n[Verse 3]\n[E5]\n[D]  [A]\n[E5]I know what it means to be alone,\n[D]  [A]\n[E5]I sure do wish I was at\n[D]home. [A]\n[E5]I don't care what the neighbors\n[D]say, [A]\n[E5]I'm gonna love you each\n[D]and ev'ry day. [A]\n\n[Outro]\n[E5]\n[D]You can feel the beat [A]within my\n[E5]heart.\n[D]Realize sweet [A]babe we ain't nev-\n[E5]er gonna part.\n[D]  [A]\n[E5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x2444x",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x4666x",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "F#sus4": {
+      "catalog": [
+        "224422"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Good Times, Bad Times *alt",
+  "id": "fa26684797a9f40112db954a3181665acec340623fa41314dc274a18a377e3d5",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 251,
+  "normalizedKey": "led zeppelin|good times bad times",
+  "playableChords": [
+    "E5",
+    "D",
+    "A",
+    "G",
+    "B",
+    "E",
+    "F#5",
+    "C#",
+    "F#sus4",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Solo"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fa26684797a9f40112db954a3181665acec340623fa41314dc274a18a377e3d5",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "Good Times, Bad Times",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,116 @@
+{
+  "artist": "Linkin Park",
+  "artistNormalized": "linkin park",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G5]\n[G5]\n[Bb5]\n[F5]\n[C5]\n[G5]\n[Bb5]\n[F5]\n[C5]\n[G5]\n[Bb5]\n[F5]\n[C5]\n[G5]\n[Bb5]\n[F5]\n[C5]\n\n[Bridge]\n[G5]\nIn this fare-\n\n[Verse 1]\n[G5]well there's no bl-\n[Bb5]ood There's no a-\n[F5]libi\n[C5]Cause I've drawn reg-\n[G5]ret from the tru-\n[Bb5]th Of a thou-\n[F5]sand lies\n[C5]So let mercy\n[G5]come And\n[Bb5]wash a-\n[F5]way\n[C5]What I've\n\n[Chorus]\n[G5]done I'll\n[Bb5]face myself\n[F5]To cross out what\n[C5]I've be-\n[G5]come E-\n[Bb5]rase myself\n[F5]And let go of\n[C5]what I've\n\n[Verse 2]\n[G5]done Put to rest\n[Bb5]what you tho-\n[F5]ught of me\n[C5]While I clean this\n[G5]slate With the ha-\n[Bb5]nds of uncer-\n[F5]tainty\n[C5]So let mercy\n[G5]come And\n[Bb5]wash a-\n[F5]way\n[C5]What I've\n\n[Chorus]\n[G5]done I'll\n[Bb5]face myself\n[F5]To cross out what\n[C5]I've be-\n[G5]come E-\n[Bb5]rase myself\n[F5]And let go of\n[C5]what [D5]\n[Eb5]I've [F5]\n\n[Solo]\n[G5]done\n[Bb5]\n[F5]\n[C5]\n[G5]\n[Bb5]\n[F5]\n[C5][D5]For\n[Eb5]what [F5]I've\n\n[Bridge]\n[G5]done I\n[Bb5]start again\n[F5]And whatever\n[C5]pain may\n[G5]come To-\n[Bb5]day this ends\n[F5]I'm forgiving\n[C5]what\nI've\n\n[Chorus]\n[G5]done! I'll\n[Bb5]face myself\n[F5]To cross out what\n[C5]I've be-\n[G5]come E-\n[Bb5]rase myself\n[F5]And let go of\n[C5]what I've\n\n[Outro]\n[G5]done\n[Bb5]\n[F5]\n[C5]What I've\n[G5]done\n[Bb5]\n[F5]Forgiving\n[C5]what I've\n[G5]done",
+  "diagrams": {
+    "Bb5": {
+      "catalog": [
+        "8-8-8-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "10-10-10-12-x-x",
+        "x355xx"
+      ],
+      "catalogCount": 2
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "3335xx",
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "5557xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "What I've Done",
+  "id": "48c0265e36fef3dab984ca074dbf204753640182c57ff491cc2313ad40fcb65a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 176,
+  "normalizedKey": "linkin park|what i ve done",
+  "playableChords": [
+    "G5",
+    "Bb5",
+    "F5",
+    "C5",
+    "D5",
+    "Eb5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Solo"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge"
+    },
+    {
+      "measure": 82,
+      "name": "Chorus"
+    },
+    {
+      "measure": 90,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "48c0265e36fef3dab984ca074dbf204753640182c57ff491cc2313ad40fcb65a",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "What I've Done",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,97 @@
+{
+  "artist": "Mary Timony",
+  "artistNormalized": "mary timony",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Em]\n[G]  [Am]\n[Em]\n[G]  [Am]\n\n[Verse 1]\n[Em]I fire myself ten times a\n[G]day [Am]\n[Em]I throw myself in a watery\n[G]grave [Am]\n[Em]With fourteen horses on\n[G]top of [Am]my head\n[Em]I hear the voice a-\n[G]gain and a-\n[Am]gain\n\n[Verse 2]\n[Em]I walk through the everlasting\n[G]pit [Am]By the\n[Em]mountain of fire and the\n[G]fountain of [Am]spit\n[Em]The pilgrims beside me just\n[G]talk talk [Am]talk\n[Em]I am the goblin and the\n[G]mangled [Am]hawk\n\n[Bridge]\n[Em]\n[G]  [Am]\n[Em]\n[G]  [Am]\n[Em]\n[G]  [Am]\n[Em]\n[G]  [Am]\n\n[Interlude]\n[Em]\n[G]  [Am]\n[Em]\n[G]  [Am]\n\n[Verse 3]\n[Em]A demon lured me to his\n[G]bed [Am]\n[Em]Where I fell into a poison\n[G]sleep [Am]\n[Em]I dreamed of a river of\n[G]ants [Am]inside me\n[Em]And they were sad and\n[G]started to\n[Am]bleed\n\n[Verse 4]\n[Em]In the dawn the demon\n[G]spoke [Am]In the\n[Em]saddest voice, in the\n[G]saddest [Am]voice He said,\n[Em]\"Can you see love through a\n[Am][G]telescope?\"\n[Em]The end of fear, and the\n[G]beginning of\n[Am]hope\n\n[Bridge]\n[Em]\n[G]  [Am]\n[Em]\n[G]  [Am]\n[Em]\n[G]  [Am]\n[Em]\n[G]  [Am]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Fire Myself",
+  "id": "910d8af076b6e49ebb66982f1b4ef02ed09e0f8f9d539345d3ea7968054c5a95",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 154,
+  "normalizedKey": "mary timony|i fire myself",
+  "playableChords": [
+    "Em",
+    "G",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Bridge"
+    },
+    {
+      "measure": 32,
+      "name": "Interlude"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 56,
+      "name": "Bridge"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "910d8af076b6e49ebb66982f1b4ef02ed09e0f8f9d539345d3ea7968054c5a95",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "I Fire Myself",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

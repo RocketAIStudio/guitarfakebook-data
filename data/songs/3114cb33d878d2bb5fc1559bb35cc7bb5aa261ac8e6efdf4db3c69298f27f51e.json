@@ -1,0 +1,133 @@
+{
+  "artist": "Linda Ronstadt",
+  "artistNormalized": "linda ronstadt",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D#]\n[E]I've been\ncheated [D#]\n[E]Been mis-\ntreated [D#]\n[E]When will\nI be\n1 loved?\n[A]  [B]\n\n[Chorus]\n[E]I've been\n[A]put down [B]\n[E]I've been\n[A]pushed 'round [B]\n[E]When will\n[A]I [B]be\n[E]loved?\n[D]\n\n[Verse 1]\n[Aadd9]When I find [B]a\nnew man [Aadd9]\nThat I want for [E]\nmine [Aadd9]He\nalways breaks my\n[B]heart in two It\n[C#m]happens every\n[B]time\n\n[Chorus]\n[E]I've been\n[A]made blue [B]\n[E]I've been\n[A]lied to [B]\n[E]When will\n[A]I [B]be\n[E]loved?\n\n[Solo]\n[E]\n[A]  [B]\n[E]\n[A]  [B]\n[E]\n[A]  [B]\n[E]\n[D]\n\n[Verse 2]\n[Aadd9]When I find [B]a\nnew man [Aadd9]\nThat I want for [E]\nmine [Aadd9]He\nalways breaks my\n[B]heart in two It\n[C#m]happens every\n[B]time\nOh,\n\n[Chorus]\n[E]I've been\n[A]cheated [B]\n[E]Been mist-\n[A]reated [B]\n[E]When will\n[A]I [B]be\n[E]loved?\n[A]  [B]\n[E]When will\n[A]I [B]be\n[E]loved?\n[A][B]Tell me,\n\n[Outro]\n[E]when will\nI\nbe\nloved?",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Aadd9": {
+      "catalog": [
+        "577644"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "9-11-11-9-9-9",
+        "x-4-6-6-5-4",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "x68886"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "When Will I Be Loved",
+  "id": "3114cb33d878d2bb5fc1559bb35cc7bb5aa261ac8e6efdf4db3c69298f27f51e",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 116,
+  "normalizedKey": "linda ronstadt|when will i be loved",
+  "playableChords": [
+    "D#",
+    "E",
+    "A",
+    "B",
+    "D",
+    "Aadd9",
+    "C#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Solo"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3114cb33d878d2bb5fc1559bb35cc7bb5aa261ac8e6efdf4db3c69298f27f51e",
+    "version": "BCFZ"
+  },
+  "tempo": 129,
+  "title": "When Will I Be Loved",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,126 @@
+{
+  "artist": "Lewis Capaldi",
+  "artistNormalized": "lewis capaldi",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[B]\n\n[Verse 1]\n[B]I'm waitin' up,\nsavin' all My\n[D#7]precious time\n[E]Losin' light,\nI'm missin' My\n[B]same old us\nBefore we learned our\n[D#7]truth too late\nRe-\n[E]signed to fate,\nfadin' away\n\n[Pre-Chorus]\n[G#m]So tell me, can you\n[B]turn around?\n[F#]I need someone\nto tear me down\n[G#m]Oh, tell me, can you\n[B]turn around?\n[F#]But either way\n\n[Chorus]\n[F#]Hold me while you\n[B]wait I\nwish that I was good enough\n[D#7]If\nonly I could wake you up\n[G#m]My love, my\nlove, my love, my\n[F#]love Won't you\nstay a while?\n[B]\n\n[Verse 2]\n[B]Tell me more,\ntell me something\n[D#7]I don't know\nCould\n[E]we come close\nto havin' it all?\n\n[Pre-Chorus]\n[G#m]If you're gonna\n[B]waste my time\n[F#]Let's waste it right\n\n[Chorus]\n[F#]And hold me while you\n[B]wait I\nwish that I was good enough\n[D#m7]If\nonly I could wake you up\n[G#m]My love, my\nlove, my love, my\n[F#]love Won't you\nstay a while?\n[B]I\nwish you cared a little more\n[D#m7]I\nwish you'd told me this before\n[G#m]My love, my\nlove, my love, my\n[F#]love Won't you\nstay a while?\n\n[Bridge]\n[E]This is you, this is\n[F#]me, this is All we need\n[G#m]Is it true? My faith is\n[B]shaken, But I [D#7]still believe\n[E]This is you, this is\n[F#]me, this is All we need\n[G#m]So won't you\n\n[Chorus]\n[G#m]stay And hold me while you\n[B]wait I\nwish that I was good enough\n[D#m7]If\nonly I could wake you up\n[G#m]My love, my\nlove, my love, my\n[F#]love Won't you\nstay a while?\n[B]I\nwish you cared a little more\n[D#m7]I\nwish you'd told me this before\n[G#m]My love, my\nlove, my love, my\n[F#]love Won't you\nstay a while?\n\n[Outro]\n[B]\nStay a while\n[D#m7]\nStay a while\n[G#m]My\nlove, my love, my\n[F#]love Won't you\nstay a while?",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "D#7": {
+      "catalog": [
+        "x68686"
+      ],
+      "catalogCount": 1
+    },
+    "D#m7": {
+      "catalog": [
+        "x68676"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hold Me While You Wait",
+  "id": "8b86c1a0997db99596f8a750c82cbdb80632a4ece4742442924698facf27c6f8",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 313,
+  "normalizedKey": "lewis capaldi|hold me while you wait",
+  "playableChords": [
+    "B",
+    "D#7",
+    "E",
+    "G#m",
+    "F#",
+    "D#m7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 82,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8b86c1a0997db99596f8a750c82cbdb80632a4ece4742442924698facf27c6f8",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "Hold Me While You Wait",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

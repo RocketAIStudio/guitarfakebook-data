@@ -1,0 +1,144 @@
+{
+  "artist": "Linkin Park",
+  "artistNormalized": "linkin park",
+  "capo": "No capo",
+  "chordPositionCount": 28,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[C#5]\n\n[Verse 1]\n[C#5]Take me down to the river bend\nTake me down to the fighting end\n[B5]Wash the poison from off my skin\n[C#5]Show me how to be whole again\n[C#5]Fly me up on a silver wing\nPast the black where the sirens sing\n[B5]Warm me up in a nova's glow\n[C#5]And drop me down to the dream below\n'Cause I'm\n\n[Chorus]\n[A]only a\n[E]crack in this\n[B]castle of\n[C#m]glass Hardly\n[A]anything\n[E]there for you to see\n[B]\nFor you to\n[C#m]see\n[B]  [F#m]\n[C#m]\n[B]  [F#m]\n\n[Verse 2]\n[C#m]Bring me home in a blinding dream,\nThrough the secrets that I have see-\nn\n[B]Wash the sorrow from off my skin\nAnd\n[C#m]show me how to be whole again\n'Cause I'm\n\n[Chorus]\n[A]only a\n[E]crack in this\n[B]castle of\n[C#m]glass Hardly\n[A]anything\n[E]there for you to see\n[B]\nFor you to see\n\n[Bridge]\n[A]  [E]\n[B]  [F#m]\n[C#m]\n[A]  [E]\n[B]  [F#m]\n[C#m]\n'Cause I'm\n\n[Break]\n[A]only a\n[E]crack in this\n[B]castle of\n[C#m]glass Hardly\n[A]anything\n[E]else I need to be\n[B]\n'Cause I'm\n\n[Chorus]\n[A]only a\n[E]crack in this\n[B]castle of\n[C#m]glass Hardly\n[A]anything\n[E]there for you to see\n[B]\nFor you to see\n\n[Outro]\n[A]  [E]\n[B]  [F#m]\n[A]  [E]\n[B][F#m]For you to see\n[C#sus2]\n.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "C#sus2": {
+      "catalog": [
+        "x4664x"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "x76454",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Castle Of Glass",
+  "id": "64389d4b3cb4730f5e44d8a3fcdeaceb93a019f8688bc39a71a5433e428a1b2a",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 210,
+  "normalizedKey": "linkin park|castle of glass",
+  "playableChords": [
+    "C#5",
+    "B5",
+    "A",
+    "E",
+    "B",
+    "C#m",
+    "F#m",
+    "C#sus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Bridge"
+    },
+    {
+      "measure": 70,
+      "name": "Break"
+    },
+    {
+      "measure": 78,
+      "name": "Chorus"
+    },
+    {
+      "measure": 86,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "64389d4b3cb4730f5e44d8a3fcdeaceb93a019f8688bc39a71a5433e428a1b2a",
+    "version": "BCFZ"
+  },
+  "tempo": 108,
+  "title": "Castle Of Glass",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,130 @@
+{
+  "artist": "KISS",
+  "artistNormalized": "kiss",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C5]\n[Ab5]\n[Bb5]\n[C5]\n[Ab5]\n[Bb5]\nI\n\n[Verse 1]\n[C5]feel uptight on a\nSaturday night\n[Eb5]Nine o' clock, the\nradio's the only light\n[Bb5]\n[F5]I\n[C5]hear my song and it\npulls me through\n[Eb5]Comes on strong,\ntells me what I got to do\n[Bb5]I got\n[F5]to Get [Ab5]up\n\n[Chorus]\nEverybody's going\nmove their feet Get [Bb5]down\nEverybody's going\nleave their seat\n[C5]You\ngotta lose your mind in Det-\nroit Rock\nCity Get [Ab5]up\nEverybody's going\nmove their feet Get [Bb5]down\nEverybody's going\nleave their seat\n\n[Verse 2]\n[C5]Getting late I\njust can't wait\n[Eb5]Ten o'clock and I\nknow I gotta hit the road\n[Bb5]\n[F5]\n[C5]First I drink,\nthen I smoke\n[Eb5]Start up the car, and I\ntry to make the midnight show\n[Bb5]\n[F5]Get [Ab5]up\n\n[Chorus]\nEverybody's going\nmove their feet Get [Bb5]down\nEverybody's going\nleave their seat\n\n[Bridge]\n[C5]\n[D5]\n[C5]\n[F5]\n[Eb5]  [Ab5]\n[Bb5]\n\n[Verse 3]\n[C5]Moving fast, down\nninety five\n[Eb5]I hit top speed but I'm\nstill moving much too slow\n[Bb5]\n[F5]I\n[C5]feel so good, I'm\nso alive\nI\n[Eb5]hear my song\nplaying on the radio\n[Bb5]It goes\n[F5]Get [Ab5]up\n\n[Chorus]\nEverybody's going\nmove their feet Get [Bb5]down\nEverybody's going\nleave their seat [C5]\n\n[Bridge]\n\n[Solo]\nYou\ngotta lose your mind in Det-\nroit Rock\nCity\n\n[Verse 4]\n[C#5]Twelve o'clock, I\ngot to rock\nThere's a\n[Eb5]truck ahead,\nlights staring at my eyes\n[Bb5]\n[F5]\n[C5]Oh my God, no\ntime to turn\nI\n[Eb5]got to laugh because\nI know I'm going to\n[Bb5]die Why\n[F5]Get [Ab5]up\n\n[Chorus]\nEverybody's going\nmove their feet Get [Bb5]down\n[C5]\nGet [Ab5]up\nEverybody's going\nmove their feet Get down",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bb5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x466xx",
+        "9-11-11-x-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "D5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-9-11-11-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Detroit Rock City *alt",
+  "id": "3491c1ce6e37ab652e2a3bcdaa18e5c4ba04b1ad4efc1aeb844b15f152f60136",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 295,
+  "normalizedKey": "kiss|detroit rock city",
+  "playableChords": [
+    "C5",
+    "Ab5",
+    "Bb5",
+    "Eb5",
+    "F5",
+    "D5",
+    "C#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 90,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 106,
+      "name": "Chorus"
+    },
+    {
+      "measure": 110,
+      "name": "Bridge"
+    },
+    {
+      "measure": 114,
+      "name": "Solo"
+    },
+    {
+      "measure": 142,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 158,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3491c1ce6e37ab652e2a3bcdaa18e5c4ba04b1ad4efc1aeb844b15f152f60136",
+    "version": "BCFZ"
+  },
+  "tempo": 184,
+  "title": "Detroit Rock City",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

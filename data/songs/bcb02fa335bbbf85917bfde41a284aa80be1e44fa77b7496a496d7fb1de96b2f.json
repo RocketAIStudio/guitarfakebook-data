@@ -1,0 +1,118 @@
+{
+  "artist": "Los Retros",
+  "artistNormalized": "los retros",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Bm7]\n[E7]\n[Bm7]\n[E7]\n[A]  [E]\n[A]  [E]\n\n[Verse 1]\n[Bm7]Wake up alone\n[E7]\n[Bm7]In the morning\n[E7]With no one at my\n[A]side [E]\n[A]  [E]\n[Bm7]Could it be?\n[E7]\n[Bm7]I've waited too long\n[E7]\n[A][E]Waiting for the\n[A]lucky one [E]\n\n[Chorus]\n[Bm7]My sweet heart,\n[E]Where are you?\n[C#m7]I need someone\n[F#7]To spend time\n[Bm7]with To\n[E7]give and share All my\n[E][A]lo-\n[A]  [E]\n\n[Verse 2]\n[Bm7]ve Back in bed\n[E7]\n[Bm7]It's three am\n[E7]With no one at my\n[A]side [E]\n[A]  [E]\n[Bm7]It gets real cold\n[E7]\n[Bm7]Because these blankets\n[E7]Will never warm my\n[A]heart [E]\n[A]  [E]\n\n[Chorus]\n[Bm7]My sweet heart,\n[E]Where are you?\n[C#m7]I need someone\n[F#7]To spend time\n[Bm7]with To\n[E7]give and share All my\n[E][A]lo-\n[A]  [E]\n[Bm7]ve My sweet heart,\n[E]Where are you?\n[C#m7]I need someone\n[F#7]To spend time\n[Bm7]with To\n[E7]give and share All my\n[E][A]lo-\n[A]  [E]\n[Bm7]ve My sweet heart,\n[E]Where are you?\n[C#m7]I need someone\n[F#7]To spend time\n[Bm7]with To\n[E7]give and share All my\n[E][A]lo-\n[A]  [E]\n[A]  [E]\n[A]ve",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#m7": {
+      "catalog": [
+        "x46454",
+        "9-11-9-9-9-9",
+        "x-x-11-13-12-12",
+        "x-16-18-16-17-16",
+        "21-23-21-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Someone To Spend Time With",
+  "id": "bcb02fa335bbbf85917bfde41a284aa80be1e44fa77b7496a496d7fb1de96b2f",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 144,
+  "normalizedKey": "los retros|someone to spend time with",
+  "playableChords": [
+    "Bm7",
+    "E7",
+    "A",
+    "E",
+    "C#m7",
+    "F#7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bcb02fa335bbbf85917bfde41a284aa80be1e44fa77b7496a496d7fb1de96b2f",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Someone To Spend Time With",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

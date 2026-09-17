@@ -1,0 +1,84 @@
+{
+  "artist": "Kuzu Mellow",
+  "artistNormalized": "kuzu mellow",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F]\n[C/G]\n[Gadd11]\n[Am7]\n[F]\n[C/G]\n[Gadd11]\n[Am7]\n\n[Verse 1]\n[F]We've been dancing for so\n[C/G]long under the stars\n[Gadd11]I feel as the grass will\n[Am7]cut through my skin\n[F]All the pills we take have\n[C/G]seem to prolong\n[Gadd11]Our existence but I\n[Am7]don't feel alright\n[F]I would rather be a-\n[C/G]lone than have you\n[Gadd11]Every time I speak I\n[Am7]feel myself fall\n[F]Do you wish to find the\n[C/G]truth in my lies\n[Gadd11]Sorry darlin there's no\n[Am7]truth here No\n\n[Verse 2]\n[F]It's just the\n[C/G]two of us, my\n[Gadd11]dear Listen\n[Am7]to me don't you\n[F]hear I only\n[C/G]fell for you\n[Gadd11]I only\n[Am7]fell for you ba\n[F]by Don't you\n[C/G]let them see your\n[Gadd11]fear Promise\n[Am7]not to shed a\n[F]tear I only\n[C/G]fell for you\n[Gadd11]I only\n[Am7]fell for you ba\n\n[Outro]\n[F]by\n[C/G]\n[Gadd11]\n[Am7]\n[F]\n[C/G]\n[Gadd11]\n[Am7]\n[F]\n[C/G]\n[Gadd11]\n[Am7]\n[F]\n[C/G]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "575555",
+        "x-0-2-0-1-0",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gadd11": {
+      "catalog": [
+        "335433"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sunflower Feelings",
+  "id": "1f2b4e4f17c19738a593bedc78909839651e9685a8ce932a738d753b87d64fe0",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 139,
+  "normalizedKey": "kuzu mellow|sunflower feelings",
+  "playableChords": [
+    "F",
+    "C/G",
+    "Gadd11",
+    "Am7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1f2b4e4f17c19738a593bedc78909839651e9685a8ce932a738d753b87d64fe0",
+    "version": "BCFZ"
+  },
+  "tempo": 129,
+  "title": "Sunflower Feelings",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

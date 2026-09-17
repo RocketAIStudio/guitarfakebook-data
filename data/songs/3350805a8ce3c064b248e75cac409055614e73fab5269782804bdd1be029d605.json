@@ -1,0 +1,118 @@
+{
+  "artist": "Linkin Park",
+  "artistNormalized": "linkin park",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G#m]  [B]\n[E]\n[G#m]  [B]\n[F#]\n[C#m]  [G#m]\n[D#]  [G#m]\n[D#]\n[G#m]\n\n[Verse 1]\n[G#m]Weep not for [B]roads un-\n[E]traveled\n[G#m]Weep not for [B]paths left\n[F#]lone 'Cause be-\n[C#m]yond every [G#m]bend is a\n[D#]long blinding [G#m]end It's the\nworst kind of [D#]pain I've\n[G#m]known\n\n[Verse 2]\n[G#m]Give up your [B]heart left\n[E]broken And\n[G#m]let that [B]mistake pass\n[F#]on 'Cause the\n[C#m]love that you [G#m]lost wasn't\n[D#]worth what it [G#m]cost And in\ntime you'll be [D#]glad it's\n[G#m]gone\n\n[Pre-Chorus]\n[G#m]  [B]\n[E]\n[G#m]  [B]\n[F#]\n[C#m]  [G#m]\n[D#]  [G#m]\n[D#]\n[G#m]\n\n[Chorus]\n[G#m]  [B]\n[E]\n[G#m]  [B]\n[F#]\n[C#m]  [G#m]\n[D#]  [G#m]\n[D#]\n[G#m]\n\n[Verse 3]\n[G#m]Weep not for [B]roads un-\n[E]traveled\n[G#m]Weep not for [B]sights un-\n[F#]seen May your\n[C#m]love never [G#m]end and if\n[D#]you need a [G#m]friend, There's a\nseat here [D#]alongside\n[G#m]me\n\n[Chorus]\n[G#m]  [B]\n[E]\n[G#m]  [B]\n[F#]\n[C#m]  [G#m]\n[D#]  [G#m]\n[D#]\n[G#m]\n[C#m]  [G#m]\n[D#]  [G#m]\n[D#]\n[G#m]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "x6534x"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Roads Untraveled",
+  "id": "3350805a8ce3c064b248e75cac409055614e73fab5269782804bdd1be029d605",
+  "key": "G♯",
+  "keyIdentified": true,
+  "lyricEventCount": 102,
+  "normalizedKey": "linkin park|roads untraveled",
+  "playableChords": [
+    "G#m",
+    "B",
+    "E",
+    "F#",
+    "C#m",
+    "D#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 27,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3350805a8ce3c064b248e75cac409055614e73fab5269782804bdd1be029d605",
+    "version": "BCFZ"
+  },
+  "tempo": 67,
+  "title": "Roads Untraveled",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

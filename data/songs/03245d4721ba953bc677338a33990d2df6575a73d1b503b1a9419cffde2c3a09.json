@@ -1,0 +1,149 @@
+{
+  "artist": "Kiss",
+  "artistNormalized": "kiss",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro 1]\n[Abm]Out on the street for a liv\ning\n[E]Picture's only begun\n[Gb]\n[Abm]\n[E]Got you under their\n[Abm]thumb\nHit it\n\n[Intro 2]\n[Abm]\n[E]\n[Gb]\n[Abm]\n[E]\n[Gb]\n\n[Verse 1]\n[Abm]Out on the streets for a living\n[E]Picture's only begun\n[Gb]\n[Abm]Your day is sorrow and mad\nness\n[E]Got you under their\n[Abm]thumb\n\n[Chorus]\n[E]\n[Gb]Black diamond\n[Abm]\n[E]\n[Gb]Black diamond\n\n[Intrelude]\n[Abm]\n[E]\n[Gb]\n\n[Verse 2]\n[Abm]Darkness will fall on the city\n[E]It seems to follow you too\n[Gb]\n[Abm]And though you don't ask for\npity\n[E]There's nothin' that you can\n[Abm]do, no, no\n\n[Chorus]\n[E]\n[Gb]Black diamond\n[Abm]\n[E]\n[Gb]Black diamond\n\n[Bridge]\n[Abm]\n[E]\n[Gb]\n[Abm]\n[E]\n[Gb]\n\n[Solo 1]\n[Abm]\n[E]\n[Gb]\n[Abm]\n[E]\n[Gb]\n\n[Verse 3]\n[Abm]Out on the streets for a liv\ning\n[E]Picture's only begun\n[Gb]\n[Abm]Your day is sorrow and mad\nness\n[E]Got you under their\n[Abm]thumb\n\n[Chorus]\n[E]\n[Gb]Black diamond\n[Abm]\n[E]\n[Gb]Black diamond\n[Abm]\n\n[Solo 2]\n[Abm]\n[Emaj7]\n[Abm]\n[Emaj7]\n[Abm]\n[Emaj7]\n[Eb7#9]\n[Db5/Ab]\n\n[Outro]\n[Ab5]",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "Abm": {
+      "catalog": [
+        "x02210",
+        "4-6-6-4-4-4",
+        "x-x-6-8-9-7",
+        "x-11-13-13-12-11",
+        "16-18-18-16-16-16"
+      ],
+      "catalogCount": 5
+    },
+    "Db5/Ab": {
+      "catalog": [
+        "x0023x"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "133211",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Eb7#9": {
+      "catalog": [
+        "576785"
+      ],
+      "catalogCount": 1
+    },
+    "Emaj7": {
+      "catalog": [
+        "133210",
+        "0-2-1-1-0-0",
+        "x-x-2-4-4-4",
+        "x-7-6-4-4-4",
+        "x-7-9-8-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "320003",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Black Diamond *alt",
+  "id": "03245d4721ba953bc677338a33990d2df6575a73d1b503b1a9419cffde2c3a09",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 132,
+  "normalizedKey": "kiss|black diamond",
+  "playableChords": [
+    "Abm",
+    "E",
+    "Gb",
+    "Emaj7",
+    "Eb7#9",
+    "Db5/Ab",
+    "Ab5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 10,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Bridge"
+    },
+    {
+      "measure": 58,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 66,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 74,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 117,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "03245d4721ba953bc677338a33990d2df6575a73d1b503b1a9419cffde2c3a09",
+    "version": "BCFZ"
+  },
+  "tempo": 103,
+  "title": "Black Diamond",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

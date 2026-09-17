@@ -1,0 +1,120 @@
+{
+  "artist": "Lewis Capaldi",
+  "artistNormalized": "lewis capaldi",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\nI've\n[E]said a [C#m]thousand things before\n[B][A]I've\n[E]fallen in [C#m]and out of love\n[B][A]I\n[E]couldn't walk [C#m]but tried to run\n[B][A]At night, the\n[E]weight of [C#m]expectation seems to\n[B]keep me [E]up A\n\n[Verse 2]\n[E]thousand times, [C#m]I said too much\n[B][A]Always\n[E]second guess [C#m]before I jump\n[B][A]I\n[E]gave my all, [C#m]but not enough\n[B][A]And with the\n[E]weight of [C#m]expectation, I'll be\n[B]sleeping [E]rough\n\n[Pre-Chorus]\n[A]How come I'm the only one who\never seems to get in my way?\n[E]\n[A]Lately, I've been fucking up a\ngood thing any chance I can get\n[E]\n[B]Somebody to lean\n\n[Chorus]\n[E]on, somebody to hold\nIt's just another to lead,\n[C#m]though, before I let go\nAnd I ain't trying to be lone-\n[B]ly, solely But e-\nverything I touch turns to stone\n[A]May-\nbe you're better off on my own\n\n[Break]\n[E]  [C#m]\n[B][A]A\n\n[Verse 3]\n[E]thousand times, [C#m]I've heard the same\n[B][A]I've heard some\n[E]other [C#m]voices in my head\n[B][A]Let me as-\n[E]sure you that [C#m]my mind's in check\n[B][A]I just can't\n[E]put my faith [C#m]in something we might\n[B]live to [E]regret\n\n[Pre-Chorus]\n[A]How come I'm the only one who\never seems to get in my way?\n[E]\n[A]Lately, I've been fucking up a\ngood thing any chance I can get\n[E]\n[B]Somebody to lean\n\n[Chorus]\n[E]on, somebody to hold\nIt's just another to lead,\n[C#m]though, before I let go\nAnd I ain't trying to be lone-\n[B]ly, solely But e-\nverything I touch turns to stone\n[A]May-\nbe you're better off on my own\n\n[Bridge]\n[E]E-\nverything that I touch turns to stone\nMay-\nbe you're better off on my own\nE-\nverything that I touch turns to stone\nMay-\nbe you're better off on my own\n\n[Pre-Chorus]\n[A]How come I'm the only one who\never seems to get in my way?\n[E]\n[A]Lately, I've been fucking up a\ngood thing any chance I can get\n[E]\n[B]Somebody to lean\n\n[Chorus]\n[E]on, somebody to hold\nIt's just another to lead,\n[C#m]though, before I let go\nAnd I ain't trying to be lone-\n[B]ly, solely But e-\nverything I touch turns to stone\n[A]May-\nbe you're better off on my own",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Maybe",
+  "id": "7de0846f38093c80108ec242db77896775293019f5e83147cff41cdfea873464",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 408,
+  "normalizedKey": "lewis capaldi|maybe",
+  "playableChords": [
+    "E",
+    "C#m",
+    "B",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 18,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Break"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 44,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Bridge"
+    },
+    {
+      "measure": 68,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 76,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7de0846f38093c80108ec242db77896775293019f5e83147cff41cdfea873464",
+    "version": "BCFZ"
+  },
+  "tempo": 97,
+  "title": "Maybe",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

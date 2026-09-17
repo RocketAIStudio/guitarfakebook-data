@@ -1,0 +1,97 @@
+{
+  "artist": "Led Zeppelin",
+  "artistNormalized": "led zeppelin",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[E7]\n\n[Verse 1]\n[E7]Ba-\nby\nMmm\nba-\nby\n'M gonna\nbring it on home to\nyou\nI've\ngot my ticket, I've\ngot that load\nGone up,\ngo higher,\nall aboard\n[A7]'M'take my seat,\na'right way back,\nooooh yeah\n[E7]Watch this train goin'\ndown the track\nGonna\n[B7]bring it on home\n[A7]Bring it on home to yo-\n[E7]u Watch out, watch\nout, man move\n[B7]\n[A7]\n[E7]\n\n[Break]\n[E7]\n\n[Verse 2]\n[E7]Try'to tell you baby\nWhat you tryin' to do\nTryin' to love me baby\nLove some other man too Bring it on\nhome, bring it on\nhome\nWent 'n a little walk downtown,\nah yeah Missed 'n got back late\nFound a note there waiting An' it\nsaid, Daddy, I just can't wait Bring it on\nhome, bring it on\nhome Bring it back\nhome, bring it back\nhome to me baby\n\n[Break]\n[E7]\n\n[Verse 4]\n[E7]Tell you, pretty baby\nYou'love to mess me 'roun'\nI'm gonna give you lovin', baby Gonna\nmove you outta town Bring it on\nhome, bring it on\nhome\nSweetest little baby\nDaddy ever saw\nI'm gonna keep you lovin' baby\nI'm gonna give you more Bring it on\nhome, bring it on\nhome Bring it on\nhome, al-\nright\n\n[Break]\n[E7]\n\n[Outro]\n[B7]Bring it on home\n[A7]Bring it on home to y-\n[E7]ou\n[B7]\n[A7]\n[E7]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "xx2434",
+        "022130",
+        "0-2-0-1-0-0",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bring It On Home *alt",
+  "id": "493bdc9446cc06b64ca0d01f1da38b688e1327ef16b1845a4f89c65254dc64a1",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 249,
+  "normalizedKey": "led zeppelin|bring it on home",
+  "playableChords": [
+    "E7",
+    "A7",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 50,
+      "name": "Break"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 72,
+      "name": "Break"
+    },
+    {
+      "measure": 80,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 94,
+      "name": "Break"
+    },
+    {
+      "measure": 104,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "493bdc9446cc06b64ca0d01f1da38b688e1327ef16b1845a4f89c65254dc64a1",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Bring It On Home",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

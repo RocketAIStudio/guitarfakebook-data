@@ -1,0 +1,108 @@
+{
+  "artist": "Led Zeppelin",
+  "artistNormalized": "led zeppelin",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C#m]\n[Aadd9]\n[G#m]\n[C#m]\n[E]\n[C#m]\n[E]\n[C#m]\n[E]\n[C#m]\n[E]\n[C#m]\n\n[Verse 1]\n[C#m]Close the door, put out the light\nYou know they won't be home tonight\nThe snow falls hard and don't you know?\nThe winds of Thor are blowing cold\nThey're wearing steel that's bright and true\n\n[Pre-Chorus]\n[Aadd9]\nThey carry news that must get through\n[G#m]\nThey choose the path where noone\n\n[Chorus]\n[C#m]goes\n[E]They hold\n[C#m]no quarter\n[E]They hold\n[C#m]no qua-\n[E]rter\n[C#m]\n[E]\n[C#m]\n\n[Interlude]\n[C#m]\n\n[Solo]\n[C#m]\n\n[Verse 2]\n[C#m]Walking side by side with death\nThe devil mocks their every step\nThe snow drives back the foot that's slow\nThe dogs of doom are howling more\nThey carry news that must get through\n\n[Pre-Chorus]\n[Aadd9]\nTo build a dream for me and you\n[G#m]\nThey choose the path where noone\n\n[Chorus]\n[C#m]goes\n[E]\n[C#m]\n[E]They hold\n[C#m]no qua-\n[E]rter They ask no\n[C#m]qua-\n[E]rter They hold\n\n[Outro]\n[C#m]no qua-\n[E]rter They ask no\n[C#m]qua-\n[E]rter They hold\n[C#m]no qua-\n[E]rter They ask no\n[C#m]qua-\n[E]rter They hold\n[C#m]no qua-\n[E]rter They ask no\n[C#m]quarter",
+  "diagrams": {
+    "Aadd9": {
+      "catalog": [
+        "x02420"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "No Quarter *alt 2",
+  "id": "9ae5b5df3b78145109485cd16f1d40866f0f0e3fcafda30bd7d17ffc689afc06",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 160,
+  "normalizedKey": "led zeppelin|no quarter",
+  "playableChords": [
+    "C#m",
+    "Aadd9",
+    "G#m",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 39,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Interlude"
+    },
+    {
+      "measure": 68,
+      "name": "Solo"
+    },
+    {
+      "measure": 84,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 93,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 97,
+      "name": "Chorus"
+    },
+    {
+      "measure": 105,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9ae5b5df3b78145109485cd16f1d40866f0f0e3fcafda30bd7d17ffc689afc06",
+    "version": "BCFZ"
+  },
+  "tempo": 65,
+  "title": "No Quarter",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

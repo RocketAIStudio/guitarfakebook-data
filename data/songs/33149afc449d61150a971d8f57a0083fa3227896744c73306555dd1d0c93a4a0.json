@@ -1,0 +1,81 @@
+{
+  "artist": "Mac Miller",
+  "artistNormalized": "mac miller",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[E]  [A]\n[E]  [A]\n[E]  [A]\n[D]\n[E]  [A]\n[E]  [A]\n[E]  [A]\n[D]\n[E]  [A]\n[E]  [A]\n[E]  [A]\n\n[Verse 1]\n[D]Well, this is what it\n[E]look like [A]right before you\n[E]fall [A]Stumblin' a-\n[E]round, you've been guessing [A]your direction Next step, you can't see at\n[D]all\n[E]And I don't [D]have a name, I don't have a name,\n[E][D]no\n[E]Who am [D]I to blame? Who am I to blame\n[A]though?\n[E]And I [D]cannot be changed, I cannot be changed,\n[E]no [D]Trust me, I've\n[E]tried [D]I just end up\n[A]right at the start of the line Drawin'\n[E]circles [A]\n[E][A]Mmm\n[E]  [A]\n\n[Verse 2]\n[D]Well, I drink my\n[E]whiskey, [A]and you sip your\n[E]wine [A]We're doing\n[E]well, sittin', watchin' [A]the world fallin' down, its dec-\n[D]line\n[E]And I can [A]keep you safe, I can keep you safe,\n[E][A]mmm\n[E]Do not [A]be afraid, do not be afraid\n[D]You're feeling\n[E]sorry, [D]I'm feeling\n[E]fine [D]Don't you put\n[E]any more stress on [D]yourself, it's one day at a\n[A]time\n[E]It's gettin' [D]pretty late, gettin' pretty late\n[E][D]Damn, and I\n[E]find [D]It goes around like the\n[A]hands that keep countin' the time Drawin'\n\n[Outro]\n[E]circles [D]\n[E]  [D]\n[E]  [D]\n[A]\n[E]  [A]\n[E]  [A]\n[E]  [A]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Circles",
+  "id": "33149afc449d61150a971d8f57a0083fa3227896744c73306555dd1d0c93a4a0",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 188,
+  "normalizedKey": "mac miller|circles",
+  "playableChords": [
+    "E",
+    "A",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "33149afc449d61150a971d8f57a0083fa3227896744c73306555dd1d0c93a4a0",
+    "version": "BCFZ"
+  },
+  "tempo": 76,
+  "title": "Circles",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

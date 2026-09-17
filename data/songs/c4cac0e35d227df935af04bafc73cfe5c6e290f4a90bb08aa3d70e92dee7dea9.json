@@ -1,0 +1,126 @@
+{
+  "artist": "Led Zeppelin",
+  "artistNormalized": "led zeppelin",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n\n[Verse 1]\n[D]Singing in the [C]sunshin e [A]\nlaughing in [D]the rain\nHitting on [C]the moonshine [A]\nrocking [D]in the brain.\nGot no time [C]to pack my [A]bag\nmy foots [D]outside the door\nI got a date, [C]I can't be [A]late for the\nhigh hopes [D]hailla ball.\n\n[Break]\n\n[Verse 2]\n[D]Singing to an [C]ocean [A]I can\nhear the [D]ocean's roar [F]\n[D]Play for free [C]and play for [A]me\nand play a [D]whole lot more [F]more.\n[D]Singing about [C]the good things [A]and the\nsun that [D]lights the day [F]\n[D]I used to sing on [C]the mountains [A]has\nthe [D]ocean lost its way\n\n[Solo]\n[A]\n\n[Bridge]\n[A]\nSitting around singing songs 'til\n\n[Verse 3]\n[D]Sitting around [C]singing songs [A]'til the\nnight turns [D]into [F]daay\n[D]Used to sing on [C]the mountains [A]but the\nmountains [D]washed away [F]\n[D]Now I'm [C]singing all my [A]songs to the\ngirl who [D]won my heart [F]\n[D]She is [C]only three years [A]old and it's a\nreal fine [D]way to start\n\n[Outro]\n[D]\n[E]\n[D]\n[E]\n[D]\n[E]\n[D]\n[E]\n[A]  [D5]  [E]\n[A]  [E]\n[A]  [D5]  [E]\n[A]  [E]\n[D]\n[E]\n[D]\n[E]\n[D]\n[E]\n[D]\n[E]\n[A]  [D5]  [E]\n[A]  [E]\n[A]  [D5]  [E]\n[A]  [E]\n[D]\n[E]\n[D]\n[E]\n[D]\n[E]\n[D]\n[E]\n[A]  [D5]  [E]\n[A]  [E]\n[A]  [D5]  [E]\n[A]  [E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x3555x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x5777x",
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "xx023x"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "x7999x",
+        "0221xx",
+        "x76454",
+        "022100",
+        "x-x-2-4-5-4"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "x-8-10-10-10-x",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Ocean *alt 3",
+  "id": "c4cac0e35d227df935af04bafc73cfe5c6e290f4a90bb08aa3d70e92dee7dea9",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 207,
+  "normalizedKey": "led zeppelin|the ocean",
+  "playableChords": [
+    "D",
+    "C",
+    "A",
+    "F",
+    "E",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Break"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Solo"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c4cac0e35d227df935af04bafc73cfe5c6e290f4a90bb08aa3d70e92dee7dea9",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "The Ocean",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

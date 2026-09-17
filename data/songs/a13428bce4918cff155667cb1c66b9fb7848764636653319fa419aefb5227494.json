@@ -1,0 +1,110 @@
+{
+  "artist": "Leonard Cohen",
+  "artistNormalized": "leonard cohen",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "Like a\n\n[Verse 1]\n[A]bird on the\n[E]wire Like a\n[A]drunk in a midnight\n[D]choir I have\n[A]tried in my\n[E]way to be\n[A]free [Asus4]\n[A]Like a\n[A]worm on a\n[E]hook Like a\n[A]knight from some old fashioned\n[D]book I have\n[A]saved all my\n[E]ribbons for\n[A]thee [Asus4]\n[A]\n\n[Chorus]\n[D]If I,\nif I have been un-\n[A]kind\n[Bm]I hope that you\ncan just let it go\n[A]by\n[D]If I,\nif I have been un-\n[A]true\n[Bm]I hope you know\nit was never\n[E]to you [Esus4]\n[E]Like a ba-\n\n[Verse 2]\n[A]by, still-\n[E]born Like a bea-\n[A]st with his\n[D]horn I have\n[A]torn every-\n[E]one who reached out for\n[A]me [Asus4]\n[A]But I\n[A]swear by this\n[E]song And by\n[A]all that I have done\n[D]wrong\n[A]I will make it\n[E]all up to\n[A]thee [Asus4]\n[A]\n\n[Chorus]\n[D]I saw a beggar\nleaning on his wooden\n[A]crutch\n[Bm]He said to me,\n\"You must not ask for\n[A]so mu-\nch.\"\n[D]And a pretty woman\nleaning in her darkened\n[A]door\n[Bm]She cried to me,\n\"Hey, why not ask\n[E]for more?\" [Esus4]\n[E]Oh like a\n\n[Outro]\n[A]bird on the\n[E]wire Like a dru-\n[A]nk in a midnight\n[D]choir I have\n[A]tried in my\n[E]way to be\n[D]free. [A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Esus4": {
+      "catalog": [
+        "022200"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bird on the Wire *alt",
+  "id": "a13428bce4918cff155667cb1c66b9fb7848764636653319fa419aefb5227494",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 207,
+  "normalizedKey": "leonard cohen|bird on the wire",
+  "playableChords": [
+    "A",
+    "E",
+    "D",
+    "Asus4",
+    "Bm",
+    "Esus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a13428bce4918cff155667cb1c66b9fb7848764636653319fa419aefb5227494",
+    "version": "BCFZ"
+  },
+  "tempo": 63,
+  "title": "Bird on the Wire",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

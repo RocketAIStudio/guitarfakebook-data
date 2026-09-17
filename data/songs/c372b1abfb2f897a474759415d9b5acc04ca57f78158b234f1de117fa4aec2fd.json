@@ -1,0 +1,126 @@
+{
+  "artist": "Kings Of Leon",
+  "artistNormalized": "kings of leon",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]\n[Bm]\n[C#dim]\n[A]\n[Bm]\n[C#dim]\n[A]\n\n[Verse 1]\n[Bm]Sal-\n[C#dim]ty leave,\n[A]\n[Bm]sal-\n[C#dim]ty leave\n[A]\n[Bm]Tell me the one about the friend you knew,\n[C#dim]And the last goodnight that we toasted too.\n[A]\n[Bm]Sal-\n[C#dim]ty leave,\n[A]\n\n[Verse 2]\n[Bm]Stay\n[C#dim]for me,\n[A]\n[Bm]stay\n[C#dim]for me\n[A]\n[Bm]We drank wine in the matinee And the\n[C#dim]spotlight showed what I chased away\n[A]\n[Bm]Stay\n[C#dim]for me\n[A]\n\n[Chorus]\n[Bm]She saw my comb o-\n[C#dim]ver, her hourglass bo-\n[D]dy She had problems with\ndrinking milk and being school tar-\n[Bm]dy She'll loan you her tooth-\n[C#dim]brush She'll bartend you party\n[Bm]\n\n[Bridge]\n[Em]\n[F#m]\n[D]\n[Em]\n[F#m]\n[D]\n\n[Verse 3]\n[Bm]Kill\n[C#dim]me,\n[A]\n[Bm]Kill\n[C#dim]me\n[A]\n[Bm]I called and I called, but I can't get through, Said\n[C#dim]he's on his own, but his own is you\n[A]\n[Bm]Kill\n[C#dim]me\n[A]\n\n[Chorus]\n[Bm]She saw my comb o-\n[C#dim]ver, her hourglass bo-\n[D]dy She had problems with\ndrinking milk and being school tar-\n[Bm]dy She'll loan you her tooth-\n[C#dim]brush She'll bartend you party\n[D]\n[Bm]She saw my comb o-\n[C#dim]ver, her hourglass bo-\n[D]dy She had problems with\ndrinking milk and being school tar-\n[Bm]dy She'll loan you her tooth-\n[C#dim]brush She'll bartend you party\n[Bm]\n\n[Outro]\n[Em]\n[F#m]\n[D]\n[Em]\n[F#m]\n[D]\n[Em]\n[F#m]\n[D]\n[Em]\n[F#m]\n[D]\n[Em]\n[F#m]\n[D]\n[Bm]\n[C#dim]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#dim": {
+      "catalog": [
+        "x456xx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Milk",
+  "id": "c372b1abfb2f897a474759415d9b5acc04ca57f78158b234f1de117fa4aec2fd",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 189,
+  "normalizedKey": "kings of leon|milk",
+  "playableChords": [
+    "D",
+    "Bm",
+    "C#dim",
+    "A",
+    "Em",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 48,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Bridge"
+    },
+    {
+      "measure": 64,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 80,
+      "name": "Chorus"
+    },
+    {
+      "measure": 96,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c372b1abfb2f897a474759415d9b5acc04ca57f78158b234f1de117fa4aec2fd",
+    "version": "BCFZ"
+  },
+  "tempo": 121,
+  "title": "Milk",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

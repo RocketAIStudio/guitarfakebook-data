@@ -1,0 +1,119 @@
+{
+  "artist": "Linkin Park",
+  "artistNormalized": "linkin park",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F]\n[Am]\n[C]\n[G]\n[F]\n[Am]\n[C]\n[G]\n[F]\n[Am]\n[C]\n[G]\n\n[Verse 1]\n[Am]Separate,\n[Dm]sifting through the wreckage I can't\n[G]concentrate,\n[Am]searching for a message In that\n[Am]fear and pain,\n[Dm]broken down and waiting For the\n[G]chance to feel a-\n[Am]live Now, in\n\n[Chorus]\n[F]my rema-\n[Am]ins Are\n[C]promises that never ca-\n[G]me Set this\n[F]silence\n[Am]free To\n[C]wash away the worst of\n[G]me\n\n[Verse 2]\n[Am]Come apart,\n[Dm]falling in the cracks Of every\n[G]broken heart\n[Am]Digging through the wreckage of your\n[Am]disregard\n[Dm]Sinking down and waiting for the\n[G]chance to feel a-\n[Am]live Now, in\n\n[Chorus]\n[F]my rema-\n[Am]ins Are\n[C]promises that never ca-\n[G]me Set this\n[F]silence\n[Am]free To\n[C]wash away the worst of\n[G]me\n\n[Bridge]\n[Am]\n[Am]\n[Am]\n[Am]Like an\n[Dm]army\n[Am]falling,\n[C]one by one by\n[G]one Like an\n[Dm]army\n[Am]falling,\n[C]one by one by\n[G]one Like an\n[Dm]army\n[Am]falling,\n[C]one by one by\n[G]one Like an\n[Dm]army\n[Am]falling,\n[C]one by one by\n[G]one Now, in\n\n[Chorus]\n[F]my rema-\n[Am]ins Are\n[C]promises that never ca-\n[G]me Set this\n[F]silence\n[Am]free To\n[C]wash away the worst of\n[G]me Like an\n\n[Outro]\n[Dm]army\n[Am]falling,\n[C]one by one by\n[G]one Like an\n[Dm]army\n[Am]falling,\n[C]one by one by\n[G]one",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "In My Remains",
+  "id": "282115363d08db0034d8378e80f7385a1eac56316073165439b892a1270ab083",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 241,
+  "normalizedKey": "linkin park|in my remains",
+  "playableChords": [
+    "F",
+    "Am",
+    "C",
+    "G",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Bridge"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "282115363d08db0034d8378e80f7385a1eac56316073165439b892a1270ab083",
+    "version": "BCFZ"
+  },
+  "tempo": 101,
+  "title": "In My Remains",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

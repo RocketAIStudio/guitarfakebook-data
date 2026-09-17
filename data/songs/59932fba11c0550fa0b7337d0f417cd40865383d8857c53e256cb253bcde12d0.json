@@ -1,0 +1,108 @@
+{
+  "artist": "Los Enanitos Verdes",
+  "artistNormalized": "los enanitos verdes",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\nMe\n\n[Verse 1]\n[Em]quieren agitar, me in-\ncitan a gritar Soy\n[Bm]como una roca, pa-\nlabras no me tocan A-\n[Am]dentro hay un volcán, que\npronto va a estallar\n[Em]Yo quiero estar tran-\n[B7]quilo Es\n[Em]mi situación, u-\nna desolación\n[Bm]Soy como un lamento, la-\nmento boliviano Que\n[Am]un día empezó y\nno va a terminar\n[Em]Y a nadie hace\n[B7]daño\n\n[Pre-Chorus]\n[Em]Ooh,\nyo-\n[Bm]yo, yo-\nohoh\n[Am]Eheheheh,\nyeh\n[Em]\n[B7]Y yo estoy a-\n\n[Chorus]\n[Em]quí,\nborracho y lo-\n[Bm]co\nY mi cora-\n[Am]zón idiota\nsiempre brilla-\n[Em]rá\n[B7]Y yo te ama-\n[Em]ré,\nte amaré por siemp-\n[Bm]re\nNena, no te\n[Am]peines en la cama\nQue los viajantes\n[Em]se van a atrasar\n[B7]\n\n[Solo]\n[Em]\n[Bm]\n[Am]\n[Em]\n[B7]\n[Em]\n[Bm]\n[Am]\n[Em]\n[B7]\n\n[Pre-Chorus]\n[Em]Ooh,\nyo-\n[Bm]yo, yo-\nohoh\n[Am]Eheheheh,\nyeh\n[Em]\n[B7]Y yo estoy a-\n\n[Chorus]\n[Em]quí,\nborracho y lo-\n[Bm]co\nY mi cora-\n[Am]zón idiota\nsiempre brilla-\n[Em]rá\n[B7]Y yo te ama-\n[Em]ré,\nte amaré por siemp-\n[Bm]re\nNena, no te\n[Am]peines en la cama\nQue los viajantes\n[Em]se van a atrasar\n[B7]Y yo estoy a-\n[Em]quí,\nborracho y lo-\n[Bm]co\nY mi cora-\n[Am]zón idiota\nsiempre brilla-\n[Em]rá\n[B7]Y yo te ama-\n[Em]ré,\nte amaré por siemp-\n[Bm]re\nNena, no te\n[Am]peines en la cama\nQue los viajantes\n[Em]se van a atrasar\n[B7]\n\n[Outro]\n[Em]\n[Bm]\n[Em]\n[Bm]\n[Am]\n[Bm]\n[Em]\n[Bm]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lamento Boliviano",
+  "id": "59932fba11c0550fa0b7337d0f417cd40865383d8857c53e256cb253bcde12d0",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 293,
+  "normalizedKey": "los enanitos verdes|lamento boliviano",
+  "playableChords": [
+    "Em",
+    "Bm",
+    "Am",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 48,
+      "name": "Solo"
+    },
+    {
+      "measure": 64,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 72,
+      "name": "Chorus"
+    },
+    {
+      "measure": 104,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "59932fba11c0550fa0b7337d0f417cd40865383d8857c53e256cb253bcde12d0",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Lamento Boliviano",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

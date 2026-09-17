@@ -1,0 +1,108 @@
+{
+  "artist": "Kina",
+  "artistNormalized": "kina",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C#m]  [A]\n[E]  [B]\n\n[Verse 1]\n[C#m]I tried to reach [A]you, I can't hide\n[E]How strong's the [B]feeling when we dive\n[C#m]I crossed the [A]ocean of my mind\n[E]My wounds are [B]healing with the salt\n[C#m]All my [A]senses intensified\n[E]Whenever you [B]and I, we dive\n[C#m]I crossed the [A]ocean of my mind\n[E]But in the end I drown [B]You push me down, down\n\n[Interlude]\n[C#m][A]Push me down, down\n[E][B]Push me down, down\n[C#m][A]Push me down, down\n[E]  [B]\n\n[Chorus]\n[C#m]  [A]\n[E]  [B]\n[C#m]  [A]\n[E]  [B]\n[C#m]  [A]\n[E]  [B]\n[C#m]  [A]\n[E]  [B]\n\n[Interlude]\n[C#m]  [A]\n[E]  [B]\n\n[Verse 2]\n[C#m]All [A]the\n[E]shame [B]When you\n[C#m]called [A]my name\n[E]  [B]\n[C#m]I [A]felt\n[E]pain [B]\n[C#m]When [A]you\n[E]came [B]\n\n[Chorus]\n[C#m]  [A]\n[E]  [B]\n[C#m]  [A]\n[E]  [B]\n[C#m]  [A]\n[E]  [B]\n[C#m]  [A]\n[E]  [B]\n\n[Outro]\n[C#m]  [A]\n[E]  [B]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Can We Kiss Forever",
+  "id": "9ab07ad6bb371d1909a0ff898a53ee9ab8b67e951c65143c9b05df2484f9728f",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 93,
+  "normalizedKey": "kina|can we kiss forever",
+  "playableChords": [
+    "C#m",
+    "A",
+    "E",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Interlude"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Interlude"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9ab07ad6bb371d1909a0ff898a53ee9ab8b67e951c65143c9b05df2484f9728f",
+    "version": "BCFZ"
+  },
+  "tempo": 55,
+  "title": "Can We Kiss Forever",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,133 @@
+{
+  "artist": "mac demarco",
+  "artistNormalized": "mac demarco",
+  "capo": "2",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Em]\n[D]Oh ba-\n\n[Verse 1]\n[Cmaj7]by\n[Am7]Oh man\n[G]\n[Em]You're [D]making me cra-\n[Cmaj7]zy\nReally [Am7]driving me mad\n[G]\n[Em][D]But it's alright\n[Cmaj7]with me\nIt's [Am7]really no fuss\n[G]\n[Em]As [D]long as you're next\n[Cmaj7]to me\nJust the [Am7]two of us\n[G]\n[Em]You're\n\n[Chorus]\n[G]my, [Am7]my,\n[Bm7]my, [C7M]my kind of wo-\n[Am7]man\n[G]My [Am7]oh my,\n[Bm7][C7M]what a girl\n[Am7]\nYou're\n[G]my, [Am7]my,\n[Bm7]my, [C7M]my kind of wo-\n[Am7]man\nAnd\n[G]i'm down on my hands [Am7]and knees\n[Bm7]Begging you please [C7M]baby,\n[Am7]show me your world\n\n[Interlude]\n[Em]\n[D]Oh bro-\n\n[Verse 2]\n[Cmaj7]ther\n[Am7]Sweetheart\n[G]\n[Em]I'm [D]feeling so\n[Cmaj7]tired\nReally [Am7]falling apart\n[G]\n[Em]And it [D]just don't make sense\n[Cmaj7]to me\nI [Am7]really don't know\n[G]\n[Em]Why [D]you stick right next\n[Cmaj7]to me\nOr [Am7]wherever I go\n[G]\n[Em]You're\n\n[Chorus]\n[G]my, [Am7]my,\n[Bm7]my, [C7M]my kind of wo-\n[Am7]man\n[G]My [Am7]oh my,\n[Bm7][C7M]what a girl\n[Am7]\nYou're\n[G]my, [Am7]my,\n[Bm7]my, [C7M]my kind of wo-\n[Am7]man\nAnd\n[G]i'm down on my hands [Am7]and knees\n[Bm7]Begging you please [C7M]baby,\n[Am7]show me your world\n\n[Outro]\n[Em]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C7M": {
+      "catalog": [
+        "x32000"
+      ],
+      "catalogCount": 1
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "my kind of woman",
+  "id": "c54b6a0b4b0b6f4d28311144e65b683dd15fee27c5da4a04ce5dc871f8f8cedb",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 161,
+  "normalizedKey": "mac demarco|my kind of woman",
+  "playableChords": [
+    "Em",
+    "D",
+    "Cmaj7",
+    "Am7",
+    "G",
+    "Bm7",
+    "C7M"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Interlude"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c54b6a0b4b0b6f4d28311144e65b683dd15fee27c5da4a04ce5dc871f8f8cedb",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "my kind of woman",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

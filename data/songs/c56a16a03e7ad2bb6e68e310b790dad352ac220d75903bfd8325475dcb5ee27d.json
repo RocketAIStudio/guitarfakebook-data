@@ -1,0 +1,126 @@
+{
+  "artist": "Lisa Loeb",
+  "artistNormalized": "lisa loeb",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\n[Em]\n[Am]  [Am/B]\n[C]\n\n[Verse 1]\n[G]You say\n[Em]I only hear what I want to\n[Am]  [Am/B]\n[C]\n[G]And you say\n[Em]I talk so all the time,\n[Am]so [Am/B]\n[C]\n\n[Chorus]\n[C]And I thought [G]what I felt was simple\n[C]And I thought [G]that I don't belong\n[C]And now [G]that I am leaving\n[C]Now I know [G]that I did something wrong 'Cause I\n[C]missed you\n[Cm]Yeah I\n[C]missed you [G]\n[C]  [G]\n\n[Verse 2]\n[G]And you say\n[Em]I only hear what I want to I\n[Am]don't listen hard [Am/B]I don't pay attention To the\n[C]distance That you're running or [G]to Anyone anywhere\n[Am]I don't understand [Am/B]if you really care I'm\n[C]only hearing negative, no no no no,\nbad So I,\n\n[Chorus]\n[C]I turned the [G]radio on, I turned the radio up\n[C]And this woman [G]was singing my song\n[C]Lovers in love [G]and the other's run away\n[C]Lover is crying [G]'cause the other won't stay\n[C]And some of us [G]hover when we weep For the other who was\n[C]dying Since the day [G]they were born, well Well,\n[C]this is not that [G]I think that I'm throwing But\n[C]I'm thrown [G]And I\n\n[Bridge]\n[Am]thought I'd live forever But now I'm not so sure You try to\n[C]tell me that I'm clever But that won't take me anyhow\n[Am]Or anywhere, [G]With you\n[C]\n\n[Chorus]\n[C]And you said [G]that I was naive\n[C]And I thought that [G]I was strong\n[C]I thought, \"hey, I [G]can leave, I can leave\" Oh\n[C]but now I know [G]that I was wrong 'Cause I\n[C]missed you\n[Cm]Yeah,\n[C]missed you [G]\n[C][G]You said, \"you\n[Am]caught me cause you want me And one day I'll let you go\" You try to\n[C]give away a keeper Or keep me 'cause you know you're just so\n[Am]Scared to lose [Am/B]\n[C]And you say,\n\n[Outro]\n[G]\n[Em]\"Stay\"\n[Am]  [Am/B]\n[C]\n[G]You say\n[Em]I only hear what I want to\n[Am]  [Am/B]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am/B": {
+      "catalog": [
+        "x22210"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Stay *alt",
+  "id": "c56a16a03e7ad2bb6e68e310b790dad352ac220d75903bfd8325475dcb5ee27d",
+  "key": "D♭",
+  "keyIdentified": true,
+  "lyricEventCount": 329,
+  "normalizedKey": "lisa loeb|stay",
+  "playableChords": [
+    "G",
+    "Em",
+    "Am",
+    "Am/B",
+    "C",
+    "Cm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Bridge"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c56a16a03e7ad2bb6e68e310b790dad352ac220d75903bfd8325475dcb5ee27d",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Stay",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

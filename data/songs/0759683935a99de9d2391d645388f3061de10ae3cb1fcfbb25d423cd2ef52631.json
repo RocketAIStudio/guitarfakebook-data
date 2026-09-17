@@ -1,0 +1,137 @@
+{
+  "artist": "Lynyrd Skynyrd",
+  "artistNormalized": "lynyrd skynyrd",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[A]\n\n[Chorus]\n[A]Call me the breeze\nI keep blowin' down the road\nWell now they\n[D]call me the breeze\nI keep blowin' down the road\n[A]\nI ain't\n[E]got me nobody\n[D]I don't carry me no\n[A]load\nAin't no\n\n[Verse 1]\n[A]change in the weather\nAin't no changes in me\nThere ain't no\n[D]change in the weather\nAin't no changes in me\n[A]\nAnd I ain't\n[E]hidin' from nobody\n[D]Nobody's hidin' from me\n[A]Oh,\nthat's the way its supposed to be\n\n[Solo 1]\n[A]\n[D]\n[A]\n[E]\n[D]\n[A]\n[A]\n[D]\n[A]\n[E]\n[D]\n[A]\nWell I got that\n\n[Verse 2]\n[A]green light baby\nI got to keep movin' on\nWell I got that\n[D]green light baby\nI got to keep movin' on\n[A]\nWell I might go\n[E]out to California\n[D]Might go down to Georgia I don't know\n[A]\n\n[Solo 2]\n[A]\n[D]\n[A]\n[E]\n[D]\n[A]\n[A]\n[D]\n[A]\n[E]\n[D]\n[A]\nWell I\n\n[Verse 3]\n[A]dig you Georgia peaches\nMakes me feel right at home\nWell now I\n[D]dig you Georgia peaches\nMakes me feel right at home\n[A]\nBut I don't\n[E]love me no one woman\n[D]So I can't stay in Georgia\n[A]long\nWell now they\n\n[Chorus]\n[A]call me the breeze\nI keep blowin' down the road\nWell now\n[D]they call me the\nbreeze I keep blowin' down the\n[A]road\nI ain't\n[E]got me nobody\n[D]I don't carry me no\n\n[Outro]\n[A]load [C#][D][D#]\n[E]Oooh\nMister Breeze\n[A#7]  [A7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x47655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#7": {
+      "catalog": [
+        "6567xx"
+      ],
+      "catalogCount": 1
+    },
+    "A7": {
+      "catalog": [
+        "5756xx",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "x68886"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Call me the breeze",
+  "id": "0759683935a99de9d2391d645388f3061de10ae3cb1fcfbb25d423cd2ef52631",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 231,
+  "normalizedKey": "lynyrd skynyrd|call me the breeze",
+  "playableChords": [
+    "A",
+    "D",
+    "E",
+    "C#",
+    "D#",
+    "A#7",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 70,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 94,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 106,
+      "name": "Chorus"
+    },
+    {
+      "measure": 116,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0759683935a99de9d2391d645388f3061de10ae3cb1fcfbb25d423cd2ef52631",
+    "version": "BCFZ"
+  },
+  "tempo": 97,
+  "title": "Call me the breeze",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

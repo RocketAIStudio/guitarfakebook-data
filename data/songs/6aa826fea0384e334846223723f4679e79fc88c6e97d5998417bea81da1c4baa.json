@@ -1,0 +1,96 @@
+{
+  "artist": "Linkin Park",
+  "artistNormalized": "linkin park",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[D5/A]\n[Em7]\n[Cadd9]\n[G]\n[D5/A]\n[Cadd9]\n\n[Verse 1]\n[G]When you feel you're alone\n[D5/A]\n[Em7]Cut off from this cruel\n[Cadd9]world\n[G]Your instincts tel-\n[D5/A]ling you to run\n[Cadd9]\n[G]Listen to your heart\n[D5/A]\n[Em7]Those angel voi-\n[Cadd9]ces\n[G]They'll sing to you\n[D5/A]They'll be your guide\n[Cadd9]Back\nhome When\n\n[Chorus]\n[G]life\n[D5/A]leaves us blind\n[Em7]\n[Cadd9]\n[G]Love\n[D5/A]keeps us kind\n[Cadd9]\nIt keeps us kind\n\n[Bridge]\n[G]\n[D5/A]\n[Em7]\n[Cadd9]\n[G]\n[D5/A]\n[Cadd9]\n\n[Verse 2]\n[G]When you've suffered enough\n[D5/A]\n[Em7]And your spirit is brea-\n[Cadd9]king\n[G]You're growing despe-\n[D5/A]rate from the fight\n[Cadd9]\n[G]Remember you're loved\n[D5/A]\n[Em7]And you always will\n[Cadd9]be\n[G]This melody\n[D5/A]will bring you right\n[Cadd9]Back\nhome When\n\n[Chorus]\n[G]life\n[D5/A]leaves us blind\n[Em7]\n[Cadd9]\n[G]Love\n[D5/A]keeps us kind\n[Cadd9]\nWhen\n[G]life\n[D5/A]leaves us blind\n[Em7]\n[Cadd9]\n[G]Love\n[D5/A]keeps us kind\n[Cadd9]\nOh\n\n[Outro]\n[G]\n[D5/A]Oh\n[Em7]\n[Cadd9]Oh\n[G]\n[D5/A]\n[Cadd9]\nOh\n[G]\n[D5/A]Oh\n[Em7]\n[Cadd9]Oh\n[G]\n[D5/A]\n[Cadd9]\n[G]",
+  "diagrams": {
+    "Cadd9": {
+      "catalog": [
+        "x3203x"
+      ],
+      "catalogCount": 1
+    },
+    "D5/A": {
+      "catalog": [
+        "x0023x"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "02203x",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "32003x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Messenger",
+  "id": "6aa826fea0384e334846223723f4679e79fc88c6e97d5998417bea81da1c4baa",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 119,
+  "normalizedKey": "linkin park|the messenger",
+  "playableChords": [
+    "G",
+    "D5/A",
+    "Em7",
+    "Cadd9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6aa826fea0384e334846223723f4679e79fc88c6e97d5998417bea81da1c4baa",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "The Messenger",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

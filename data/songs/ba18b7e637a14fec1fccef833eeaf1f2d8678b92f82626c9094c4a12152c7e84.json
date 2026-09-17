@@ -1,0 +1,103 @@
+{
+  "artist": "Leonard Cohen",
+  "artistNormalized": "leonard cohen",
+  "capo": "5",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[C]I remem-\nber you well [G]in the\n[F]Chelsea Hotel [C]You were tal-\nking so [G]brave and so sweet\n[Am]\n[C]Givin' me head [G]on the un-\n[F]made bed [C]While the\n[F]limousines wait in the street\n[G]Those\n[Am]were the reasons, that\n[F]was New York We were\n[C]runnin' for the [G/B]money and the\n[Am]flesh And\n[F]that was called love for the wor-\n[C]kers in song Probably\n[F]still is for those of them left\n[G]Yeah, but\n\n[Chorus]\n[F]you got away,\n[C]didn't you babe? You\njust turned your [G/B]back on the crowd\n[Am]When\n[F]you got away, I never once heard\n[C]you say I need\n[F]you I don't\n[C]need you I\n[F]need you I don't\n[C]need you And all\n[F]of that jivin' around\n[Am]\n[G]I re-\n\n[Verse 2]\n[C]member you well [G]in the Chel-\n[F]sea Hotel [C]You were fa-\nmous, your heart [G]was a le-\n[Am]gend You\n[C]told me again, [G]you preferred\n[F]handsome men [C]But for\n[F]me you would make an exception\n[G]And clen-\n[Am]ching your fist for the ones\n[F]like us Who are op-\n[C]pressed by the [G/B]figures of\n[Am]beauty You fixed\n[F]yourself, you said\n[C]\"Well nevermind We are\n[F]ugly but we have the\n[G]music\" And then you\n\n[Chorus]\n[F]got away didn't\n[C]you baby? You just\nturned your back [G/B]on the crowd\n[Am]When\n[F]you got away I never once heard\n[C]you say I need\n[F]you I don't\n[C]need you I\n[F]need you I don't\n[C]need you And all\n[F]of that jivin' around\n[Am]\n[G]I don't\n\n[Outro]\n[C]mean to suggest [G]That I loved you the\n[F]best [C]I can't\nkeep track of [G]each fallen ro-\n[Am]bin I re-\n[C]member you well [G]in the Chel-\n[F]sea Hotel [C]That's all,\n[F]I don't even think of you that of-\n[G]ten",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Chelsea Hotel No.2 *alt",
+  "id": "ba18b7e637a14fec1fccef833eeaf1f2d8678b92f82626c9094c4a12152c7e84",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 314,
+  "normalizedKey": "leonard cohen|chelsea hotel no 2",
+  "playableChords": [
+    "C",
+    "G",
+    "F",
+    "Am",
+    "G/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ba18b7e637a14fec1fccef833eeaf1f2d8678b92f82626c9094c4a12152c7e84",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "Chelsea Hotel No.2",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}
