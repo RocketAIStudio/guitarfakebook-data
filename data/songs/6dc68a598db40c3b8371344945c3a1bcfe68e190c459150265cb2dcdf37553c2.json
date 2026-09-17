@@ -1,0 +1,106 @@
+{
+  "artist": "XXXTENTACION",
+  "artistNormalized": "xxxtentacion",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Cmaj7]\n\n[Verse 1]\n[Cmaj7]Leave me alone, I\nwanna go home It's\n[Gmaj7]all in my head, I\nwon't be upset if\n[Cmaj7]Leave me alone, I\nwanna go home It's\n[Gmaj7]all in my head, I\nwon't be upset if\n\n[Verse 2]\n[Cmaj7]Heartbroken,\nmisspoken,\n[Gmaj7]breaking anything\nI touch\n[Cmaj7]I'm not in\nlove, I won't\n[Gmaj7]let you control what\nI want\n\n[Verse 3]\n[Cmaj7]Hate me, won't\nbreak me, I'm\n[Gmaj7]killing everyone\nI love\n[Cmaj7]Hate me, won't\nbreak me, I'm\n[Gmaj7]killing everyone\nI love\n\n[Bridge]\n[E5]Hey you,\nhey you,\n[G5]you won't\nhate enough\n[C5]Hey you,\nyou, why?\n[B5]You, you,\nyou\n\n[Outro]\n[Cmaj7]Hate me, won't\nbreak me, I'm\n[Gmaj7]killing everyone\nI love\n[Cmaj7]Hate me, won't\nbreak me, I'm\n[Gmaj7]killing everyone\nI love",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gmaj7": {
+      "catalog": [
+        "320002",
+        "3-5-4-4-3-3",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7",
+        "x-10-12-11-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "King",
+  "id": "6dc68a598db40c3b8371344945c3a1bcfe68e190c459150265cb2dcdf37553c2",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 134,
+  "normalizedKey": "xxxtentacion|king",
+  "playableChords": [
+    "Cmaj7",
+    "Gmaj7",
+    "E5",
+    "G5",
+    "C5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 37,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6dc68a598db40c3b8371344945c3a1bcfe68e190c459150265cb2dcdf37553c2",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "King",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,113 @@
+{
+  "artist": "Uncle Acid & The Deadbeats",
+  "artistNormalized": "uncle acid the deadbeats",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E5]  [G#5]\n[C#5]\n[E5]  [G#5]\n[C#5]  [B5]  [C#5]  [E5]\n[E5]  [G#5]\n[C#5]\n[E5]  [G#5]\n[C#5]  [B5]  [C#5]  [E5]\n\n[Verse 1]\n[E5]Just like a [G#5]china do-\n[C#5]ll\n[E5]Her face was [G#5]glazed and cle-\n[C#5]ar [B5][C#5][E5]\n[E5]I knew I [G#5]had them al-\n[C#5]l\n[E5]Under my [G#5]spell of fe-\n[C#5]ar [B5][C#5][E5]\n\n[Chorus]\n[F#5]Valley of the dolls\n[C#5]\n[F#5]Valium blood walls\n[C#5]\n[F#5]Valley of the dolls\n[C#5]\n[F#5]Valium blood walls\n[C#5]\n\n[Verse 2]\n[E5]And then I [G#5]sent them off\n[C#5]\n[E5]In darkest [G#5]danger nig-\n[C#5]ht [B5][C#5][E5]\n[E5]Into the [G#5]piggy trough\n[C#5]\n[E5]All dressed in [G#5]vinyl whi-\n[C#5]te [B5][C#5][E5]\n\n[Chorus]\n[F#5]Valley of the dolls\n[C#5]\n[F#5]Valium blood walls\n[C#5]\n[F#5]Valley of the dolls\n[C#5]\n[F#5]Valium blood walls\n[C#5]\n\n[Solo]\n[E5]  [G#5]\n[C#5]\n[E5]  [G#5]\n[C#5]  [B5]  [C#5]  [E5]\n[E5]  [G#5]\n[C#5]\n[E5]  [G#5]\n[C#5]  [B5]  [C#5]  [E5]\n\n[Chorus]\n[F#5]Valley of the dolls\n[C#5]\n[F#5]Valium blood walls\n[C#5]\n[F#5]Valley of the dolls\n[C#5]\n[F#5]Valium blood walls\n[C#5]\n\n[Bridge]\n[C#5]Beyond the valley of the\ndolls\nBeyond the valley of the\ndolls\nBeyond the valley of the\ndolls\nBeyond the valley of the\ndolls\n\n[Outro]\n[A5]\n[C#5]\n[A5]\n[C#5]\n[A5]\n[C#5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x799xx",
+        "022xxx",
+        "6799xx"
+      ],
+      "catalogCount": 3
+    },
+    "E5": {
+      "catalog": [
+        "355xxx",
+        "x-10-12-12-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Valley Of The Dolls",
+  "id": "756ba009d65603cb730b62a5cb5116d3f38efb2aa20424fadcd18d1e9f81bc05",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 146,
+  "normalizedKey": "uncle acid the deadbeats|valley of the dolls",
+  "playableChords": [
+    "E5",
+    "G#5",
+    "C#5",
+    "B5",
+    "F#5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Solo"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "756ba009d65603cb730b62a5cb5116d3f38efb2aa20424fadcd18d1e9f81bc05",
+    "version": "BCFZ"
+  },
+  "tempo": 50,
+  "title": "Valley Of The Dolls",
+  "tuning": "C# F# B E G# C#",
+  "variantRole": "primary"
+}

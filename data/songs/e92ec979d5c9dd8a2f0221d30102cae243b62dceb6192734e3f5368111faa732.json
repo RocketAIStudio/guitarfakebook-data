@@ -1,0 +1,115 @@
+{
+  "artist": "Tremonti",
+  "artistNormalized": "tremonti",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Bm]\n[G5]\n[D5]\n[A]\n[Bm]\n[G5]\n[D5]\n[A]\n\n[Verse 1]\n[Bm]Sit here and\n[G5]wait for\n[D5]What may never come\n[A]\n[Bm]These walls they\n[G5]hold me I\n[D5]pay for what I've done\n[A]\n[Bm]Long nights and\n[G5]dark days I\n[D5]face this world alone\n[A]\n[Bm]Shadows con-\n[G5]sume me I\n[D5]walk now on my own\n[A]\nYou are the\n\n[Chorus]\n[A]first and last, now e\n[Bm]verything is lost\n[G5]\n[D5]You are the\n[A]air I breathe, now all\n[Bm]my need is gone\n[G5]\n[D5]\n\n[Bridge 1]\n[Bm]\n[G5]\n[D5]\n[A]\n[Bm]\n[G5]\n[D5]\n[A]A-\n\n[Verse 2]\n[Bm]lone here but\n[G5]can't leave Can't\n[D5]tear myself away\n[A]\n[Bm]Here's where you\n[G5]left me So\n[D5]here I'm gonna stay\n[A]You are the\n\n[Chorus]\n[A]first and last, now e\n[Bm]verything is wrong\n[G5]\n[D5]You are the\n[A]air I breathe, now all\n[Bm]my need is gone\n[G5]\n[D5]You are the\n[A]heart that beats, within\n[Bm]my dying core\n[G5]\n[D5]You made me\n[A]thirst for life, you left\n[Bm]me wanting more\n[G5]\n[A]\n\n[Interlude]\n[G5]'Cause when you came\n[F#5]I swear\n[G5]I knew your name\n[D5]You where the\n[A]one to start You\n[F#5]broke my heart and then you\n[G5]left me\n[G5]And when you love\n[F#5]I swear\n[G5]it's not enough\n[D5]I was the\n[A]one to blame Got\n[F#5]carried away and then I\n[G5]hurt you\n\n[Bridge 2]\n[Bm]\n[G5]\n[D5]\n[A]\n[Bm]\n[G5]\n[D5]\n[A]You are the\n\n[Chorus]\n[A]first and last, now e\n[Bm]verything is wrong\n[G5]\n[D5]You are the\n[A]air I breathe, now all\n[Bm]my need is gone\n[G5]\n[D5]You are the\n[A]heart that beats, within\n[Bm]my dying core\n[G5]\n[D5]You made me\n[A]thirst for life, you left\n[Bm]me wanting more\n[G5]\n[A]\n\n[Outro]\n[Bm]\n[G5]\n[D5]\n[A]\n[Bm]\n[G5]\n[D5]\n[A]\n[Bm]\n[G5]\n[D5]\n[A]\n[Bm]\n[G5]\n[D5]\n[A]\n[Bm]\n[G5]\n[D5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "00023x"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "44467x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "55578x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The First The Last",
+  "id": "e92ec979d5c9dd8a2f0221d30102cae243b62dceb6192734e3f5368111faa732",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 239,
+  "normalizedKey": "tremonti|the first the last",
+  "playableChords": [
+    "Bm",
+    "G5",
+    "D5",
+    "A",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge 1"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Interlude"
+    },
+    {
+      "measure": 82,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 90,
+      "name": "Chorus"
+    },
+    {
+      "measure": 106,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e92ec979d5c9dd8a2f0221d30102cae243b62dceb6192734e3f5368111faa732",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "The First The Last",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

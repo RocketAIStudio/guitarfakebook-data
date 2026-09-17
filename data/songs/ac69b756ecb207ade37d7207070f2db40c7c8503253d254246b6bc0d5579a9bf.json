@@ -1,0 +1,130 @@
+{
+  "artist": "Weezer",
+  "artistNormalized": "weezer",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\n[E7]\n[Dm]\n[Am]\n[C]\n[Am]\n[E7]\nCrab\n\n[Verse 1]\n[Am]if you [F]want her She\n[Dm]won't be [E7]coming d\n[F]o wn, d\n[C]own, d\n[F]o wn, do-\n[E7]wn Crab\n[F]if you [C]want her She\n[F]won't be [G]coming down\n[C]\nCrab\n\n[Verse 2]\n[Am]if you [F]need it She\n[Dm]put her [E7]knickers o\n[F]n, o\n[C]n, o\n[F]n, o\n[E7]n Crab\n[F]if you [C]need it She\n[F]put her [G]knickers on\n[C]\nShe\n\n[Chorus]\n[C]said she's feeling lone\n[E7]ly And\n[Dm]I say that's Okay\n[Am]She\n[C]won't be coming back\n[Am]'round here, no way\n[E7]\n\n[Solo]\n[Am]  [F]\n[Dm]  [E7]\n[F]\n[C]\n[F]\n[E7]\n[F]  [C]\n[F]  [G]\n[C]\nShe\n\n[Chorus]\n[C]said she's feeling lone\n[E7]ly And\n[Dm]I say that's Okay\n[Am]She\n[C]won't be coming back\n[Am]'round here, no way\n[E7]\nCrab\n\n[Verse 3]\n[Am]at the [F]booty T'aint\n[Dm]gonna [E7]do no g-\n[F]ood, g-\n[C]ood, g-\n[F]ood, go-\n[E7]od Crab\n[F]at the [C]booty T'aint\n[F]gonna [G]do no good\n[C]\nNo, crab\n\n[Outro]\n[F]at the [C]booty T'aint\n[F]gonna [G]do no good\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Crab *alt",
+  "id": "ac69b756ecb207ade37d7207070f2db40c7c8503253d254246b6bc0d5579a9bf",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 165,
+  "normalizedKey": "weezer|crab",
+  "playableChords": [
+    "C",
+    "E7",
+    "Dm",
+    "Am",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Solo"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ac69b756ecb207ade37d7207070f2db40c7c8503253d254246b6bc0d5579a9bf",
+    "version": "BCFZ"
+  },
+  "tempo": 115,
+  "title": "Crab",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

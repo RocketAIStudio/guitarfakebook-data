@@ -1,0 +1,124 @@
+{
+  "artist": "Wire",
+  "artistNormalized": "wire",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[B5]\n[D5]  [A5]\n[E5]\n[B5]\n[D5]  [A5]\n[E5]\nThe\n\n[Verse 1]\n[B5]taste of champions\n[D5]The pace, [A5]the pace\n[E]\nThe\n[B5]speed, the need\n[D5]The need [A5]to seed\n[E]\nThe\n[B5]chance to die\n[D5]  [A5]\n[E]\nA-\n[B5]nother dead, don't cry\n[D5][A5]A-\n[E]nother dead, don't cry\n[A]You've still got speed\nYou'll\n[G]maybe bleed\n[F#]But there's\nless\ntime\n\n[Interlude]\n[B5]\n[D5]  [A5]\n[E5]\n[B5]\n[D5]  [A5]\n[E5]\nMore\n\n[Verse 2]\n[B5]speed than before\n[D5][A5]Less\n[E]time than before\nYou're\n[B5]rich, not poor\n[D5]What are [A5]you\n[E]doing it for?\nWant\n[B5]more, want more\n[D5]  [A5]\n[E]\nA-\n[B5]nother dead, don't cry\n[D5][A5]A-\n[E]nother dead, don't cry\nYou'-\n[A]ve still got speed\nTo\n[G]feed from speed\n[F#]Doing it\nall\nthe time\n\n[Outro]\n[B5]\n[D5]  [A5]\n[E5]\n[B5]\n[D5]\n[E5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Champs",
+  "id": "ed267ecd8d8aeef1470966f2e8e8820c25a2bc87529933f4078521b4fff3fd4d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 95,
+  "normalizedKey": "wire|champs",
+  "playableChords": [
+    "B5",
+    "D5",
+    "A5",
+    "E5",
+    "E",
+    "A",
+    "G",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ed267ecd8d8aeef1470966f2e8e8820c25a2bc87529933f4078521b4fff3fd4d",
+    "version": "BCFZ"
+  },
+  "tempo": 166,
+  "title": "Champs",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

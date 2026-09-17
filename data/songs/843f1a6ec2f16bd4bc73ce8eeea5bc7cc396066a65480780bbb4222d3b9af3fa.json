@@ -1,0 +1,95 @@
+{
+  "artist": "Wire",
+  "artistNormalized": "wire",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]  [B]\n[A]  [F#]\n[E]  [B]\n[A]  [F#]\nWell,\n\n[Verse]\n[E]I wonder what's go-\ning on\nSame old stuff suppopse\nNot quite right that\nStuff's the same, but seems\ndifferent to me\nSeems like the cancer in the\ncity has got to be\n[A]terminal,\n[F#]I Haven't got it\nthrough\n[B]Incidentally where\nare you? [A]\n[B]Thought you lived there\nThe bright lights have got\n[G]you\nI'd\n[E]rather be a sprat than a macke-\nrel, mackrel\nYou can the net\nIt's\n[F#]set\nIt\n[B]also takes one to\ncatch one",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Different To Me",
+  "id": "843f1a6ec2f16bd4bc73ce8eeea5bc7cc396066a65480780bbb4222d3b9af3fa",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 85,
+  "normalizedKey": "wire|different to me",
+  "playableChords": [
+    "E",
+    "B",
+    "A",
+    "F#",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "843f1a6ec2f16bd4bc73ce8eeea5bc7cc396066a65480780bbb4222d3b9af3fa",
+    "version": "BCFZ"
+  },
+  "tempo": 218,
+  "title": "Different To Me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

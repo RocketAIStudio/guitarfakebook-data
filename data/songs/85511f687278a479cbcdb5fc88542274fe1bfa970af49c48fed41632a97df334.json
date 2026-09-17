@@ -1,0 +1,126 @@
+{
+  "artist": "Twenty One Pilots",
+  "artistNormalized": "twenty one pilots",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[C]Oh, miss be-\nliever,\n[Dm]my pretty\n[Am]sleeper\n[F]Your twisted\n[C]mind is like\n[F]snow on the\n[Gsus4]road [G]\n[C]Your shaking\nshoulders\n[Dm]prove that it's\n[Am]colder\n[F]Inside your\n[C]head than the\n[F]winter of\n[Gsus4]dead [G]\n[C]I will\ntell you\n[Dm]I\n[Am]love you But the\n[F]muffs on your\n[C]ears will\n[F]cater your\n[Gsus4]fears [G]\n[C]My nose and\nfeet are\n[Dm]running as\n[Am]we start\n[F]travel through\n[C]snow To-\n[F]gether we\n[Gsus4]go [G]\n\n[Bridge]\n[F]\n[C]\n[Am]To-\n[G]gether we\n[F]go\n[C]\n[Am]\n[G]\n\n[Chorus]\n[F]We get colder\n[C]\n[Am]\n[G]As\n[F]we grow older\n[C]\n[Am]\n[G]\n[F]We will walk\n[C]\n[Am]\n[G]\n[F]So much slower\n[C]\n[Am]\n[G]\n\n[Bridge]\n[F]\n[C]\n[Am]\n[G]\n[F]\n[C]\n[Am]\n[G]\n[F]\n[C]\n[Am]\n[G]\n[F]\n[C]\n[Am]\n[G]\n\n[Verse 2]\n[C]Oh, miss be-\nliever,\n[Dm]my pretty\n[Am]weeper\n[F]Your twisted\n[C]thoughts are like\n[F]snow on the\n[G][Gsus4]rooftops\n[C]Please, take my\nhand, we're\n[Dm]in foreign\n[Am]land As\n[F]we travel through\n[C]snow To-\n[F]gether we\n[Gsus4]go [G]\n\n[Bridge]\n[F]\n[C]\n[Am]To-\n[G]gether we\n[F]go\n[C]\n[Am]\n[G]\n\n[Chorus]\n[F]We get colder\n[C]\n[Am]\n[G]As\n[F]we grow older\n[C]\n[Am]\n[G]\n[F]We will walk\n[C]\n[Am]\n[G]\n[F]So much slower\n[C]\n[Am]\n[G]\n\n[Outro]\n[C]\n[Dm]\n[Am]\n[F]\n[C]\n[F]\n[Gsus4]  [G]\n[C]\n[Dm]\n[Am]\n[F]\n[C]\n[F]\n[Gsus4]  [G]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus4": {
+      "catalog": [
+        "355533"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Oh ms believer",
+  "id": "85511f687278a479cbcdb5fc88542274fe1bfa970af49c48fed41632a97df334",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 153,
+  "normalizedKey": "twenty one pilots|oh ms believer",
+  "playableChords": [
+    "C",
+    "Dm",
+    "Am",
+    "F",
+    "Gsus4",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 89,
+      "name": "Bridge"
+    },
+    {
+      "measure": 97,
+      "name": "Chorus"
+    },
+    {
+      "measure": 113,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "85511f687278a479cbcdb5fc88542274fe1bfa970af49c48fed41632a97df334",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Oh ms believer",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

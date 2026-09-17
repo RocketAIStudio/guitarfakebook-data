@@ -1,0 +1,112 @@
+{
+  "artist": "Volbeat",
+  "artistNormalized": "volbeat",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[E]Counting days 'til it's\nover, my friends 'Til it's\nover, my friends, count a-\nlong\n[E]Counting days 'til it's\nover, my friends 'Til it's\nover, my friends, count a-\nlong\n[C#m]Feeling rich, feeling\npoor, feeling nothing more\nSelf destructive on a\nrollercoaster fireball\n[A]Cut her tongue,\ndon't believe a word she says\n[E]She's on a hunt, cooking\n[B]cooking cooking misery\n[C#m]Let my heart on the\nshelf for way too long\nSick and tired, picking\nup from the dirty floor\n[A]I saw the line of\nsnakes that came to me\n[B]\n[B]So innocent\n\n[Chorus]\n[E]was the days\nThe taste of good\n[C#m]memories\nA bag full of\n[A]hope that was\nonly for\n[B]me and you\n\n[Verse 2]\n[C#m]No more broken dreams I\nfeel like a loaded gun\nSpitting bullets at your\narmor of mind control\n[A]Cut her tongue,\ndon't believe a word she says\n[E]She's on a hunt, cooking\n[B]cooking cooking misery\n[C#m]Cannot think, cannot\ntalk, cannot do it right\nCan't call the doctor, he's as\nsick as you and I\n[A]I saw the line of\nsnakes that came to me\n[B]\n[B]So innocent\n\n[Chorus]\n[E]was the days\nThe taste of good\n[C#m]memories\nA bag full of\n[A]hope that was\nonly for\n[B]me and you\nSo innocent\n[E]was the days\nThe taste of good\n[C#m]memories\nA bag full of\n[A]hope that was\nonly for\n[B]me and you\n\n[Break]\n[E]\n\n[Verse 3]\nCounting days 'til it's\nover, my friends 'Til it's\nover, my friends, count a-\nlong\nCounting days 'til it's\nover, my friends 'Til it's\nover, my friends, count a-\nlong\nCounting days 'til it's\nover, my friends 'Til it's\nover, my friends, count a-\nlong\nCounting days 'til it's\nover, my friends 'Til it's\nover that thing called\nlove\n\n[Solo]\n[C#m]\n[A]\n[E]\n[C#m]\n[A]\n[B]\nSo innocent\n\n[Chorus]\n[E]was the days\nThe taste of good\n[C#m]memories\nA bag full of\n[A]hope that was\nonly for\n[B]me and you\nSo innocent\n[E]was the days\nThe taste of good\n[C#m]memories\nA bag full of\n[A]hope that was\nonly for\n[B]me and you\n[E]\n[C#m]\n[A]\n\n[Outro]\nPlease let it\ngrow,\nwhere it be-\nlongs\nThere in the\ndark where the\nshadows are\nborn\nLeave it al-\none.\nI'm sure it\nwill\nfind its way\nto rede-\nem and blos-\nsom\n'Cause I know,\nthe black rose\nwill find\nits\nhome",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Black Rose",
+  "id": "d777f390b8f4b456c7e6a2f8d1bebb22e7c81f72fc05191df8e85523a2e15c70",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 448,
+  "normalizedKey": "volbeat|black rose",
+  "playableChords": [
+    "E",
+    "C#m",
+    "A",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Break"
+    },
+    {
+      "measure": 69,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 85,
+      "name": "Solo"
+    },
+    {
+      "measure": 101,
+      "name": "Chorus"
+    },
+    {
+      "measure": 123,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d777f390b8f4b456c7e6a2f8d1bebb22e7c81f72fc05191df8e85523a2e15c70",
+    "version": "BCFZ"
+  },
+  "tempo": 162,
+  "title": "Black Rose",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

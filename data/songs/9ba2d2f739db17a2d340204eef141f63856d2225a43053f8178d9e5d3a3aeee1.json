@@ -1,0 +1,115 @@
+{
+  "artist": "Tom Petty",
+  "artistNormalized": "tom petty",
+  "capo": "5",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Fadd9]\n[C]\n[G]\n[C]\n[Fadd9]\n[C]\n[G]\n[C]\n\n[Chorus]\n[Fadd9]You be-\n[C]long a-\n[G]mong the wild-\n[C]flowers\n[Fadd9]You be-\n[C]long in a\n[G]boat out at\n[C]sea\n[Fadd9]Sail a-\n[C]way,\n[G]kill off the\n[C]hours\n[Fadd9]You be-\n[C]long some-\n[G]where you feel\n[C]free\n\n[Verse 1]\n[Fadd9]Run a-\n[C]way,\n[G]find you a\n[C]lover\n[Fadd9]Go a-\n[C]way some-\n[G]where all bright and new\n[Fadd9]I have\n[C]seen\n[G]no\n[C]other\n[Fadd9]Who com-\n[C]pares\n[G]with\n[C]you\n\n[Chorus]\n[Fadd9]You be-\n[C]long a-\n[G]mong the wild-\n[C]flowers\n[Fadd9]You be-\n[C]long in a\n[G]boat out at\nsea\n[Fadd9]You be-\n[C]long with your\n[G]love on your\n[C]arm\n[Fadd9]You be-\n[C]long somewhere\n[G]you feel\n[C]free\n\n[Interlude]\n[Fadd9]  [C]\n[Am7]  [D]\n[G]\n[Fadd9]\n[C]\n[G]\n[Fadd9]  [C]\n[Am7]  [D]\n[G]\n[Fadd9]\n[C]\n[G]\n\n[Verse 2]\n[Fadd9]Run a-\n[C]way,\n[G]go find a\n[C]lover\n[Fadd9]Run a-\n[C]way, let your\n[G]heart be your guide\n[C]\n[Fadd9]You de-\n[C]serve\n[G]the deepest of co-\n[C]ver\n[Fadd9]You belong\n[C]in that\n[G]home by and\n[C]by\n\n[Chorus]\n[Fadd9]You be-\n[C]long a-\n[G]mong the wild-\n[C]flowers\n[Fadd9]You be-\n[C]long some-\n[G]where close to\nme\n[Fadd9]Far a-\n[C]way from your\n[G]trouble and wor-\n[C]ry\n[Fadd9]You be-\n[C]long somewhere\n[G]you feel\n[C]free\n[Fadd9]You be-\n[C]long somewhere\n[G]you feel\n[C]free\n\n[Outro]\n[Fadd9]  [C]\n[Am7]  [D]\n[G]\n[Fadd9]\n[C]\n[G]\n[Fadd9]  [C]\n[Am7]  [D]\n[G]\n[Fadd9]\n[C]\n[G]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32013",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Fadd9": {
+      "catalog": [
+        "xx3213"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wildflowers",
+  "id": "9ba2d2f739db17a2d340204eef141f63856d2225a43053f8178d9e5d3a3aeee1",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 174,
+  "normalizedKey": "tom petty|wildflowers",
+  "playableChords": [
+    "Fadd9",
+    "C",
+    "G",
+    "Am7",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Interlude"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 97,
+      "name": "Chorus"
+    },
+    {
+      "measure": 120,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9ba2d2f739db17a2d340204eef141f63856d2225a43053f8178d9e5d3a3aeee1",
+    "version": "BCFZ"
+  },
+  "tempo": 174,
+  "title": "Wildflowers",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

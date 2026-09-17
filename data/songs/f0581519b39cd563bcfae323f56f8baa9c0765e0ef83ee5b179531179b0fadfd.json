@@ -1,0 +1,138 @@
+{
+  "artist": "Yardbirds",
+  "artistNormalized": "yardbirds",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Dm]\n\n[Verse 1]\n[Dm]Sick at heart and lone-\n[G]ly,\n[Bb]deep in dark despair\n[Dm]\n[Dm]When you want her on-\n[G]ly,\n[Bb]where is she tell me\n[Dm]where?\n[Dm]And if she says\n[G]to you,\n[Bb]she don't love\n[Dm]me\n[Dm]Just give her my message,\n[G]\n[Bb]tell her of my plea\n[Dm]And I know,\n\n[Chorus]\n[D]if I could\n[F]have her [G]back again,\n[D]well, I would\n[Bb]never [F]make her sad\n[D]I got a\n[A]heart\n[G]full of soul\n\n[Interlude]\n[Dm]\n\n[Solo]\n[Dm]\n[G]\n[Bb]\n[Dm]\n[Dm]\n[G]\n[Bb]\n[Dm]And I know,\n\n[Chorus]\n[D]if I could\n[F]have her [G]back again,\n[D]well, I would\n[Bb]never [F]make her sad\n[D]I got a\n[A]heart\n[G]full of soul\n\n[Interlude]\n[Dm]\n\n[Verse 2]\n[Dm]She's been gone such a\n[G]long time,\n[Bb]longer than I can bear\n[Dm]\n[Dm]But if she says she\n[G]wants me,\n[Bb]tell her that I'll be\n[Dm]there\n[Dm]And if she says\n[G]to you,\n[Bb]she don't love\n[Dm]me\n[Dm]Just give her my mes-\n[G]sage,\n[Bb]tell her of my\n[Dm]plea And I know,\n\n[Chorus]\n[D]if I could\n[F]have her [G]back again,\n[D]well, I would\n[Bb]never [F]make her sad\n[D]I got a\n[A]heart\n[G]full of soul\n\n[Outro]\n[Dm]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Heart Full Of Soul",
+  "id": "f0581519b39cd563bcfae323f56f8baa9c0765e0ef83ee5b179531179b0fadfd",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 172,
+  "normalizedKey": "yardbirds|heart full of soul",
+  "playableChords": [
+    "Dm",
+    "G",
+    "Bb",
+    "D",
+    "F",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 37,
+      "name": "Solo"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Interlude"
+    },
+    {
+      "measure": 56,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 72,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f0581519b39cd563bcfae323f56f8baa9c0765e0ef83ee5b179531179b0fadfd",
+    "version": "BCFZ"
+  },
+  "tempo": 143,
+  "title": "Heart Full Of Soul",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

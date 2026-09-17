@@ -1,0 +1,111 @@
+{
+  "artist": "Waylon Jennings",
+  "artistNormalized": "waylon jennings",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D]\nA\n\n[Verse 1]\n[D]long time forgotten our\ndreams that just fell by the\n[G]way\nAnd the\n[A]good life he promised\nain't what she's livin' today\n[D]\nBut she\nnever complains of the\nbad times Or the bad things he's\n[G]done, lord\nShe just\n[A]talks about the good times they've\nhad And all the good times to\n[D]come\nShe's a\n\n[Chorus]\n[D]good hearted woman in\nlove with a good timin'\n[G]man\nShe\n[A]loves him in spite of his\nways that she don't under-\n[D]stand\nThrough\nteardrops and laughter, they'll\npass through this world hand in\n[G]hand\n[A]A good hearted woman,\nlovin' her good timin'\n[D]man\n\n[Verse 3]\n[D]He likes the night life\nand bright lights and good timin'\n[G]friends\nWhen the\n[A]party's all over, she'll\nwelcome him back home again\n[D]\nLord knows she\ndon't understand him But\nshe does the best that she\n[G]can\n'Cause she's a good\n[A]hearted woman\nShe loves her good timin'\n[D]man\nShe's a\n\n[Chorus]\n[E]good hearted woman in\nlove with a good timin'\n[A]man\nShe\n[B7]loves him in spite of his\nwicked ways that she don't under-\n[E]stand\nThrough\nteardrops and laughter, they'll\npass through this world hand in\n[A]hand\n[B7]A good hearted woman,\nlovin' her good timin'\n[E]man\nShe's a\ngood hearted woman in\nlove with a good timin'\n[A]man\nShe\n[B7]loves him in spite of his\nwicked ways that she don't under-\n[E]stand\nThrough\n\n[Fade Out]\nteardrops and laughter, they'll\npass through this world hand in\n[A]hand\n[B7]A good hearted woman,\nlovin' her good timin'\n[E]man",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Good Hearted Woman",
+  "id": "8d0a6bfeaa4cd8dd89334eea84685582b5269608de641c6652e14a3407b0356d",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 293,
+  "normalizedKey": "waylon jennings|good hearted woman",
+  "playableChords": [
+    "D",
+    "G",
+    "A",
+    "E",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8d0a6bfeaa4cd8dd89334eea84685582b5269608de641c6652e14a3407b0356d",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Good Hearted Woman",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,121 @@
+{
+  "artist": "U2",
+  "artistNormalized": "u2",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C]\n[G]\n[D]\n[G]  [Cadd9]\n[G]Hold me now,\n\n[Verse 1]\n[G]\n[Cadd9]Oh hold me now\n[G]  [Cadd9]\n[G][G]'Til [Dsus4/F#]this\n[Em]hour\n[C]Has gone around\n[D]\nAnd I'm\n[Bm]gone\nOn the rising\n[Em]tide\n[C]For to face\n[G]\n[D]Van Diemen's\n[G]land [Cadd9]\n[G]It's a bitter pill\n\n[Verse 2]\n[G]\n[Cadd9]I swallow here\n[G]  [Cadd9]\n[G][G]To [Dsus4/F#]be\n[Em]rent\n[C]from one so\n[D]dear\nWe fought for\n[Bm]justice\nAnd not for\n[Em]gain\n[C]But the magistrate\n[G]\n[D]Sent me a-\n[G]way [Cadd9]\n[G]Now kings will\n\n[Verse 3]\n[G]rule\n[Cadd9]And the poor will\n[G]toil [Cadd9]\n[G]And [G]tear [Dsus4/F#]their\n[Em]hands\n[C]As they tear the\n[D]soil\nBut a day will\n[Bm]come\nIn this dawning\n[Em]age\n[C]When an honest man\n[G]\n[D]Sees an honest wage\n[G]  [Cadd9]\n[G]Hold me now,\n\n[Verse 4]\n[G]\n[Cadd9]Oh hold me now\n[G]  [Cadd9]\n[G][G]'Til [Dsus4/F#]this\n[Em]hour\n[C]Has gone around\n[D]\nAnd I'm\n[Bm]gone\nOn the rising\n[Em]tide\n[C]For to face\n[G]\n[D]Van Diemen's\n[G]land [Cadd9]",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus4/F#": {
+      "catalog": [
+        "200233"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Van Diemen's Land",
+  "id": "edc596670a3abcbbbc093685d83c950e2c5e87d1c8bef08609d97b72d8fcc284",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 130,
+  "normalizedKey": "u2|van diemen s land",
+  "playableChords": [
+    "C",
+    "G",
+    "D",
+    "Cadd9",
+    "Dsus4/F#",
+    "Em",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "edc596670a3abcbbbc093685d83c950e2c5e87d1c8bef08609d97b72d8fcc284",
+    "version": "BCFZ"
+  },
+  "tempo": 102,
+  "title": "Van Diemen's Land",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

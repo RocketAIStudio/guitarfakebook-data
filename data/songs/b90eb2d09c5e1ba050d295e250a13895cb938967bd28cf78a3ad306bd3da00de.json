@@ -1,0 +1,80 @@
+{
+  "artist": "Third Day",
+  "artistNormalized": "third day",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C/G]\n[C/G]\n[C/G]Your Love Oh Lord\n\n[Verse]\nReaches to the heavens\n[D/F]And Your Righteousness\n[Em7]\nStretches to the sky\n[D/F]And Your faithfulness\n[Em7]\nIs like the mighty mountain\nYeah\n[D/F]And Your justice flows\n[Em7]\nLike the ocean's tide\n[D/F]And I will lift my voice\n\n[Chorus]\nTo worship You my king\nAnd I will find my strength\nIn the shadows of Your wings\n[Am7]\nAnd oh yeah, yeah\n\n[Guitar Solo]\n[D/F]\n[Em7]\n[D/F]\n[D/F]And I will lift my \n\n[Chorus]\nVoice To worship You my king\nAnd I will find my strength\nIn the shadows\nOf Your wings\n[Am7]\nAnd I will lift my voice\nYour love oh Lord\n\n[Outro]\nReaches to the heavens\nAnd You faithfulness [Em7]\nStretches to the skies",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12",
+        "x-19-21-19-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "Your Love Oh Lord",
+  "id": "b90eb2d09c5e1ba050d295e250a13895cb938967bd28cf78a3ad306bd3da00de",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 25,
+  "normalizedKey": "third day|your love oh lord",
+  "playableChords": [
+    "C/G",
+    "D/F",
+    "Em7",
+    "Am7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gp3",
+    "sha256": "b90eb2d09c5e1ba050d295e250a13895cb938967bd28cf78a3ad306bd3da00de",
+    "version": "FICHIER GUITAR PRO v3.00"
+  },
+  "tempo": 90,
+  "title": "Your Love Oh Lord",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

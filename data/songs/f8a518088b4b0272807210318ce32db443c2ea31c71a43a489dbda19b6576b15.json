@@ -1,0 +1,92 @@
+{
+  "artist": "Young Marble Giants",
+  "artistNormalized": "young marble giants",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F#5]  [E5]\n[D5]\n[F#5]  [E5]\n[D5]\n[F#5]  [E5]\n[D5]\n[F#5]  [E5]\n[D5]\n[A5]\n[D5]\n[A5]\n[G5]\n[F#5]  [E5]\n[D5]\n[F#5]  [E5]\n[D5]When the\n\n[Verse 1]\n[F#5]rich die last [E5]Like the\n[D5]rabbits Running from a\n[F#5]lucky past [E5]Full of\n[D5]shadow cunning And the\n[A5]world lights up For the\n[D5]final day We will\n[A5]all be poor Having\n[G5]had our say\n\n[Interlude]\n[F#5]  [E5]\n[D5]\n[F#5]  [E5]\n[D5]\n[A5]\n[D5]\n[A5]\n[G5]\n[F#5]  [E5]\n[D5]\n[F#5]  [E5]\n[D5]Put a\n\n[Verse 2]\n[F#5]blanket up [E5]on the\n[D5]window pane When the\n[F#5]baby cries [E5]lulla-\n[D5]by again As the\n[A5]light goes out on the\n[D5]final day For the\n[A5]people who never\n[G5]had a say\n\n[Solo]\n[F#5]  [E5]\n[D5]\n[F#5]  [E5]\n[D5]\n[A5]\n[D5]\n[A5]\n[G5]\n[F#5]  [E5]\n[D5]\n[F#5]  [E5]\n[D5]There is\n\n[Verse 3]\n[F#5]so much noise [E5]There is\n[D5]too much heat And the\n[F#5]living floor [E5]Throws you\n[D5]off your feet As the\n[A5]final day falls in-\n[D5]to the night There is\n[A5]peace outside In the\n[G5]narrow light\n[F#5]  [E5]\n[D5]\n[F#5]  [E5]\n[D5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx",
+        "x57xxx"
+      ],
+      "catalogCount": 2
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Final Day",
+  "id": "f8a518088b4b0272807210318ce32db443c2ea31c71a43a489dbda19b6576b15",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 120,
+  "normalizedKey": "young marble giants|final day",
+  "playableChords": [
+    "F#5",
+    "E5",
+    "D5",
+    "A5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Interlude"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Solo"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f8a518088b4b0272807210318ce32db443c2ea31c71a43a489dbda19b6576b15",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Final Day",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,99 @@
+{
+  "artist": "Wilbur Soot",
+  "artistNormalized": "wilbur soot",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am7]\n[Fmaj7]\n[Am7]\n[Fmaj7]\n[Am7]\n[Am]\n[Fmaj7]\n[Am7]\n[Am]\n[Fmaj7]\n\n[Verse 1]\n[Am7]You know it\ntakes a lot to move\n[Fmaj7]me\n[Am7]So if you\nfigure it out, tell\n[Fmaj7]me\n[Am7]I trace\nfigures on your smile\n[Fmaj7]lines\n[Am7]Work a\nformula to cure\n[Fmaj7]me?\n[Am7]\n[Am]And I'm lone-\n[Fmaj7]ly\n[Am7]\n[Am]There I\n[Fmaj7]said it\n[Am7]\nNine million peo-\n[Fmaj7]ple\n[Am7]I always\nseem to add them up\n[Fmaj7]\n\n[Bridge]\n[Am7]\n[Fmaj9]\n[C6/G]\n[Fmaj7]\n[Am7]\n[Fmaj9]\n[C6/G]\n[Fmaj7]\n\n[Chorus]\n[Am7]I could go\n[Fmaj9]away\n[C6/G]\n[Fmaj7]I could\n[Am7]pack my things and be gone\n[Fmaj9]before you wake\n[C6/G]\n[Fmaj7]You know\n[Am7]I've tried\n[Fmaj9]hard to love me\n[C6/G]too\n[Fmaj7]It\n[Am7]always\n[Fmaj9]seems to fall in\n[C6/G]through\n[Fmaj7]\n\n[Verse 2]\n[Am7]Maybe\none day I'll live in La Jol-\n[Fmaj7]la\n[Am7]Drinking\ncocktails out over the wa-\n[Fmaj7]ter\n[Am7]My\n[Am]own personal sun-\n[Fmaj7]set\n[Am7]To give each\n[Am]day its own diplo-\n[Fmaj7]ma\n[Am7]And\nyou know it's fun-\n[Fmaj7]ny\n[Am7]Amid my\nbackseat taxi jaunts\n[Fmaj7]\n[Am7]I'm\n[Am]trying to ignore the sky-\n[Fmaj7]line\n[Am7]So I\n[Am]don't figure out where you\n[Fmaj7]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x04200",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x04000",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C6/G": {
+      "catalog": [
+        "204000"
+      ],
+      "catalogCount": 1
+    },
+    "Fmaj7": {
+      "catalog": [
+        "030200",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj9": {
+      "catalog": [
+        "004000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "La Jolla",
+  "id": "6c3ddae308656a35e3848055bc6e729e6bdc835adce652d4daceff07598f36b0",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 157,
+  "normalizedKey": "wilbur soot|la jolla",
+  "playableChords": [
+    "Am7",
+    "Fmaj7",
+    "Am",
+    "Fmaj9",
+    "C6/G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6c3ddae308656a35e3848055bc6e729e6bdc835adce652d4daceff07598f36b0",
+    "version": "BCFZ"
+  },
+  "tempo": 121,
+  "title": "La Jolla",
+  "tuning": "F A C G C E",
+  "variantRole": "primary"
+}

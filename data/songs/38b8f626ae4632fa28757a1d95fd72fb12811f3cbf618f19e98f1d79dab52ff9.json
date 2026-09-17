@@ -1,0 +1,128 @@
+{
+  "artist": "Unwound",
+  "artistNormalized": "unwound",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 9,
+  "content": "[A5]  [E5]  [A5]  [E5]\n[A5]  [E5]  [C5]  [D5]\n[A5]  [E5]  [A5]  [E5]\n[A5]  [E5]  [C5]  [D5]\n\n[Verse 1]\n[A5]You knew her [E5]from before [A5]She hid [E5]behind the door\n[A5]You never [E5]noticed that [C5]The hallways [D5]turned to black\n[A5]The stairway [E5]is a chance [A5]To fall and [E5]break your hands\n[A5]She just might [E5]push you down [C5]So never [D5]turn around\n\n[Chorus]\n[A5]She never [E5]had a chance [A5]She never [E5]had a chance\n[A5]So now she's [E5]coming back for [C5]you [D5]\n[A5]She never [E5]had a chance [A5]She never [E5]had a chance\n[A5]So now she's [E5]coming back for [C5]you [D5]\n\n[Verse 2]\n[A5]Watch out, she's [E5]fading fast [A5]You just might [E5]lose your chance\n[A5]Find out by [E5]accident [C5]The reason [D5]she is back\n[A5]So now you're [E5]scared of her [A5]Cause she might [E5]not return\n[A5]Mistook you [E5]for someone [C5]One look and [D5]now she's gone\n\n[Chorus]\n[A5]She never [E5]had a chance [A5]She never [E5]had a chance\n[A5]So now she's [E5]coming back for [C5]you [D5]\n[A5]She never [E5]had a chance [A5]She never [E5]had a chance\n[A5]So now she's [E5]coming back for [C5]you [D5]\n\n[Bridge]\n[C5]\n[C5]Look a ghost came through the door [A5]\n[C5]From a thousand years before [A5]\n[C5]Look a ghost came through the door [A5]\n[C5]From a thousand years before [A5]\n[C#5]  [C5]\n[B5]  [D5]\n[C5]Look a ghost came through the door [A5]\n[C5]From a thousand years before [A5]\n[C5]Look a ghost came through the door [A5]\n[C5]From a thousand years before [A5]\n[C#5]  [C5]\n[B5]  [D5]\n\n[Intrlude]\n[A5]\n[D5/C]  [G/B]  [G/B]  [C5]\n[A5]\n[D5/C]  [G/B]  [G/B]  [C5]\n\n[Chorus]\n[A5]She never [E5]had a chance [A5]She never [E5]had a chance\n[A5]So now she's [E5]coming back for [C5]you [D5]\n[A5]She never [E5]had a chance [A5]She never [E5]had a chance\n[A5]So now she's [E5]coming back for [C5]you [D5]\n\n[Outro]\n[A5]She never [E5]had a chance [A5]She never [E5]had a chance\n[A5]So now she's [E5]coming back for [C5]you [D5]\n[A5]She never [E5]had a chance [A5]She never [E5]had a chance\n[A5]So now she's [E5]coming back for [C5]you [D5]\n[G5]\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5/C": {
+      "catalog": [
+        "x302xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G/B": {
+      "catalog": [
+        "x200xx",
+        "x2543x"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Look a Ghost",
+  "id": "38b8f626ae4632fa28757a1d95fd72fb12811f3cbf618f19e98f1d79dab52ff9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 316,
+  "normalizedKey": "unwound|look a ghost",
+  "playableChords": [
+    "A5",
+    "E5",
+    "C5",
+    "D5",
+    "C#5",
+    "B5",
+    "D5/C",
+    "G/B",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 34,
+      "name": "Intrlude"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "38b8f626ae4632fa28757a1d95fd72fb12811f3cbf618f19e98f1d79dab52ff9",
+    "version": "BCFZ"
+  },
+  "tempo": 69,
+  "title": "Look a Ghost",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

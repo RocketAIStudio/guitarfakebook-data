@@ -1,0 +1,94 @@
+{
+  "artist": "Thirty Seconds to Mars",
+  "artistNormalized": "thirty seconds to mars",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[F#5]I believe in no-\n[C#]thing Not the\n[D#m]end and not the start\n[F#]\n[F#5]I believe in no-\n[C#]thing Not the\n[D#m]earth and not the stars\n[G#m]  [A#m]\n[F#5]I believe in no-\n[C#]thing Not the\n[D#m]day and not the dark\n[F#]\n[F#5]I believe in no-\n[C#]thing But the\n[D#m]beating of our hearts\n[G#m]  [A#m]\n\n[Verse 2]\n[F#5]I believe in no-\n[C#]thing One hundred\n[D#m]suns until we part\n[F#]\n[F#5]I believe in no-\n[C#]thing Not in\n[D#m]sin and not in God\n[G#m]  [A#m]\n[F#5]I believe in no-\n[C#]thing Not in\n[D#m]peace and not in war\n[F#]\n[F#5]I believe in no-\n[C#]thing But the\n[D#m]truth in who we are\n[G#m]  [A#m]\n\n[Outro]\n[F#5]Thank You guys!\n[C#]\n[D#m]\n[F#]\n[F#5]\n[C#]\n[D#m]",
+  "diagrams": {
+    "A#m": {
+      "catalog": [
+        "799777"
+      ],
+      "catalogCount": 1
+    },
+    "C#": {
+      "catalog": [
+        "x57775",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "x79987"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "x-10-12-12-12-10",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "F#5": {
+      "catalog": [
+        "355733"
+      ],
+      "catalogCount": 1
+    },
+    "G#m": {
+      "catalog": [
+        "577555"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "100 Suns",
+  "id": "7809f257701a3c1c4fea9a13a31fb2d5ceeb8ee413b63964161379f402bfcd26",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 109,
+  "normalizedKey": "thirty seconds to mars|100 suns",
+  "playableChords": [
+    "F#5",
+    "C#",
+    "D#m",
+    "F#",
+    "G#m",
+    "A#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7809f257701a3c1c4fea9a13a31fb2d5ceeb8ee413b63964161379f402bfcd26",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "100 Suns",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

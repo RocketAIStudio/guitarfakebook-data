@@ -1,0 +1,112 @@
+{
+  "artist": "Tom Petty and The Heartbreakers",
+  "artistNormalized": "tom petty and the heartbreakers",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Em]  [D]  [G]\n[Em]  [D]  [G]\nWell I\n\n[Verse 1]\n[Em]won't [D]back [G]down,\nno I\n[Em]won't [D]back [G]down\nYou could\n[Em]stand me [D]up at the\n[C]gates of hell But I\n[Em]won't [D]back [G]down\nNo i'll\n[Em]stand [D]my [G]gro-\nund, won't be\n[Em]turned [G][D]aro-\nund And I'll\n[Em]keep this [D]world from drag-\n[C]gin' me down Gonna\n[Em]stand [D]my [G]ground\nand I\n[Em]won't [D]back [G]down\n[C][G][C]Hey\n\n[Chorus]\n[D][G]ba-\nby, there [G][C]\nain't no easy [G]way out [D]\nHey [G][C]\n[G]I [D]\nwill stand\n[Em]my [D]ground [G]\nAnd I won't\n\n[Post-Chorus]\n[Em]back [D]down [G]\nWell I\n\n[Verse 2]\n[Em]know [D]what's [G]right,\nI got\n[Em]just [D]one [G]life\nIn a\n[Em]world that [D]keeps on\n[C]pushin' me around But I'll\n[Em]stand [D]my [G]ground\nand I\n[Em]won't [D]back [G]down\n[C][G][C]Hey\n\n[Chorus]\n[G][D]ba-\nby, [G][C]\nthere ain't no [G]easy way [D]out\n[G][C]Hey\n[G][D]I\nwill\n[Em]stand [D]my [G]ground\nAnd I\n\n[Post-Chorus]\n[Em]won't [D]back [G]down\n\n[Solo]\n[Em]  [D]  [G]\n[Em]  [D]  [G]\n[Em]  [D]\n[C]\n[Em]  [D]  [G]\n[Em]  [D]  [G]\n[C][G][C]Hey\n\n[Chorus]\n[G][D]ba-\nby, [G][C]\nthere ain't no [G]easy way [D]out\n[G][C]Hey\n[G][D]I\n[Em]won't [D]back [G]down\n[C][G][C]Hey\n[G][D]ba-\nby, [G][C]\nthere ain't no [G]easy way [D]out\n[G][C]Hey\n[G][D]I\nwill\n[Em]stand [D]my [G]ground\nAnd I\n[Em]won't [D]back [G]down\nWon't\n[Em][D]back [G]down",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Won't Back Down *alt",
+  "id": "893b132da905400897f44080879426a9e160db36887714b66276f1b0cb259b9d",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 169,
+  "normalizedKey": "tom petty and the heartbreakers|i won t back down",
+  "playableChords": [
+    "Em",
+    "D",
+    "G",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Solo"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "893b132da905400897f44080879426a9e160db36887714b66276f1b0cb259b9d",
+    "version": "BCFZ"
+  },
+  "tempo": 114,
+  "title": "I Won't Back Down",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

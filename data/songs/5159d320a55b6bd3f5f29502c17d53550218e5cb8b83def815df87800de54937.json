@@ -1,0 +1,126 @@
+{
+  "artist": "Twenty One Pilots",
+  "artistNormalized": "twenty one pilots",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\n[Am]\n[F]\n[G]\n[Am]\n[C]\n[Am]\n[F]\n[G]\n[Am]\n[C]\n[Am]\n[F]\n[G]\n[Am]\n[C]\n[Am]\n[F]\n[G]\n[Am]\n\n[Pre-Verse]\n[Am]\n\n[Verse 1]\n[Am]I know\n[C]you're not a liar and\n[Dm/A]I know\n[E]you could set fire this\n[Am]day\n[C]Go ahead and\n[Dm/A]make me look a-\n[E]way\n[Am]Strike me\n[C]down, I am calling your\n[Dm/A]Lightning\n[E]down from your dark hiding\n[Am]place\n[C]Go ahead and\n[Dm/A]show me your\n[E]face\n\n[Chorus]\n[C]Reign [F]down\nand des-\n[Am]troy [G]me\n[C]Reign [F]down\nand des-\n[Am]troy [G]me\n[F]Reign down\n\n[Pre-Verse]\n[Am]\n[Am]\n[C]\n[Dm/A]\n[E]\n\n[Verse 2]\n[Am]I mean\n[C]no disrespect I am\n[Dm/A]simply\n[E]very perplexed by your\n[Am]ways\n[C]Why would you\n[Dm/A]let us use your\n[E]name?\n\n[Chorus]\n[C]Reign [F]down\nand des-\n[Am]troy [G]me\n[C]Reign [F]down\nand des-\n[Am]troy [G]me\n[C]Reign [F]down\nand des-\n[Am]troy [G]me\n[C]Reign [F]down\nand des-\n[Am]troy [G]me\nReign\n[C]down [F]\nand des-\n[Am]troy [G]me\n[C]Reign [F]down\nand des-\n[Am]troy [G]me\n\n[Outro]\n[C]\n[Am]\n[F]\n[G]\n[Am]\n[C]\n[Am]\n[F]\n[G]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm/A": {
+      "catalog": [
+        "x00231"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Implicit Demand For Proof",
+  "id": "5159d320a55b6bd3f5f29502c17d53550218e5cb8b83def815df87800de54937",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 126,
+  "normalizedKey": "twenty one pilots|implicit demand for proof",
+  "playableChords": [
+    "C",
+    "Am",
+    "F",
+    "G",
+    "Dm/A",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 35,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 85,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 93,
+      "name": "Chorus"
+    },
+    {
+      "measure": 117,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5159d320a55b6bd3f5f29502c17d53550218e5cb8b83def815df87800de54937",
+    "version": "BCFZ"
+  },
+  "tempo": 107,
+  "title": "Implicit Demand For Proof",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

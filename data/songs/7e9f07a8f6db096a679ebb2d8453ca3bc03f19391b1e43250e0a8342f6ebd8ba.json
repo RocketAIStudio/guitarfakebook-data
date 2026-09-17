@@ -1,0 +1,74 @@
+{
+  "artist": "ZZ TOP",
+  "artistNormalized": "zz top",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[Bm]\n\n[Couplet 1]\nI done ran in - to my ba - by\nand finally found my old blue jean?\nI    done   ran into my ba - by __ [Em]\nand fi-nal-ly found _______ my    old  blue  jean_\nWell, Icoul tell   that they was mine __  from the\noil       and the gaso - line _______\n\n[Chorus Guitare 1]\n\n[Couplet 2]\nIf     i   ever get back my blue jean,\nLord   how   happy   could one man be ?______\n[Em]If     i   ever get back my blue jean,\nLord   how   happy   could one man be ?______\nCause if i get back those blue __ jean, you\nknow my ba - by be bring - in' 'em        home\nto me ______\n\n[Chorus Guitare 2]\n\n[Start fade]",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "Blue Jean Blues",
+  "id": "7e9f07a8f6db096a679ebb2d8453ca3bc03f19391b1e43250e0a8342f6ebd8ba",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 16,
+  "normalizedKey": "zz top|blue jean blues",
+  "playableChords": [
+    "Bm",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 5,
+      "name": "Couplet 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus Guitare 1"
+    },
+    {
+      "measure": 27,
+      "name": "Couplet 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus Guitare 2"
+    },
+    {
+      "measure": 49,
+      "name": "Start fade"
+    }
+  ],
+  "source": {
+    "format": "gp3",
+    "sha256": "7e9f07a8f6db096a679ebb2d8453ca3bc03f19391b1e43250e0a8342f6ebd8ba",
+    "version": "FICHIER GUITAR PRO v3.00"
+  },
+  "tempo": 66,
+  "title": "Blue Jean Blues",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

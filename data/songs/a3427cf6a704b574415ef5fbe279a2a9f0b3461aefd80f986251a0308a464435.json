@@ -1,0 +1,110 @@
+{
+  "artist": "Vampire Weekend",
+  "artistNormalized": "vampire weekend",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Bb]\n[Cm]\n[F]\n[Bb]\n[Eb]\n[F]\n[Bb]\n[Eb]\n[F]\n\n[Verse]\n[Bb]You take your\n[Eb]time\n[F]Young\nLi on\n[Bb]You take your\n[Eb]t ime\n[F]Young\nL ion\n[Bb]You take your\n[Eb]time\n[F]Young\nL ion\n[Bb]You take your\n[Eb]t ime\n[F]Young\nLi on\n\n[Outro]\n[Bb]\n[Eb]\n[F]\n[Bb]\n[Am]\n[Gm]\n[F]\n[Bb]\n[Eb]\n[F]\n[Bb]\n[Eb]\n[F]\n[Bb]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Young Lion",
+  "id": "a3427cf6a704b574415ef5fbe279a2a9f0b3461aefd80f986251a0308a464435",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 44,
+  "normalizedKey": "vampire weekend|young lion",
+  "playableChords": [
+    "Bb",
+    "Cm",
+    "F",
+    "Eb",
+    "Am",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse"
+    },
+    {
+      "measure": 33,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a3427cf6a704b574415ef5fbe279a2a9f0b3461aefd80f986251a0308a464435",
+    "version": "BCFZ"
+  },
+  "tempo": 124,
+  "title": "Young Lion",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

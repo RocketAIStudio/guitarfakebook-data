@@ -1,0 +1,130 @@
+{
+  "artist": "Vampire Weekend",
+  "artistNormalized": "vampire weekend",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]  [A7]  [D]  [A7]\n[Bm]  [F#m]  [G]  [A7]\n\n[Verse 1]\n[D]No [A7]time to [D]discuss it [A7]\n[Bm]Can't [F#m]speak when the [G]waves reach our [A7]house upon the\n[D]dunes Time [A7]cannot be [D]trusted [A7]When the\n[Bm]police [F#m]come, they [G]always [A7]come too\n\n[Verse 2]\n[D]soon Life [A7]felt like [D]heaven today [A7]Like a\n[Bm]foreign [F#m]car, though, [G]we are [A7]American\n[D]made I [A7]thought I'd [D]probably stay [A7]But be-\n[Bm]fore I [F#m]know, I [G]know [A7]My\n\n[Chorus]\n[D]Christian heart [G][A7]cannot withstand [D]The\n[Bm]thundering [A7][Em]areena [D]I'll\n[D]see you when [A7]the [G]violence ends [D]For\n[Bm]now, ciao ciao, [Em]Bambi [A7]na [D]\n\n[Verse 3]\n[D]No [A7]signs of [D]injustice [A7]\n[Bm]No [F#m]signs, but the [G]flames that are [A7]filling up the\n[D]room Fire [A7]cannot be [D]trusted [A7]When the\n[Bm]engines [F#m]come, they [G]always [A7]come too\n\n[Guitar Solo]\n[D]soon [A7][D][A7]\n[Bm]  [F#m]  [G]  [A7]\n[D]  [A7]  [D]  [A7]\n[Bm][F#m][G][A7]My\n\n[Chorus]\n[D]Christian heart [G][A7]cannot withstand [D]The\n[Bm]thundering [A7][Em]areena [D]I'll\n[D]see you when [A7]the [G]violence ends [D]For\n[Bm]now, ciao ciao, [Em]Bambi [A7]na [D]My\n[D]Christian heart [G][A7]cannot withstand [D]The\n[Bm]thundering [A7][Em]areena [D]I'll\n[D]see you when [A7]the [G]violence ends [D]For\n[Bm]now, ciao ciao, [Em]Bambi [A7]na [D]\n\n[Outro]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bambina",
+  "id": "30b5ee7462516a462cebb0d5a4e1f05517d30191c384426e98a2d91e41cf2461",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 200,
+  "normalizedKey": "vampire weekend|bambina",
+  "playableChords": [
+    "D",
+    "A7",
+    "Bm",
+    "F#m",
+    "G",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 19,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "30b5ee7462516a462cebb0d5a4e1f05517d30191c384426e98a2d91e41cf2461",
+    "version": "BCFZ"
+  },
+  "tempo": 75,
+  "title": "Bambina",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,137 @@
+{
+  "artist": "Weezer",
+  "artistNormalized": "weezer",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[G#]\n[C#]Gonna make my move\n\n[Verse 1]\n[F#]Gonna make it stay\n[A]Gonna make it last\n[E]Never mind the past [Bm]Living for today\n[D]Hey,\n[C#]hey, hey\n[Bm]You know what you want me to say\n[D]Right, right\n[C#]Fight, fight\n[Bm]We could start a glorious day\nGonna take my chance\n\n[Verse 2]\n[F#]Gonna rock and dance\n[A]Gonna hit the ground\n[E]With a brand new sound [Bm]Looking for romance\n[D]Hey,\n[C#]hey, hey\n[Bm]You know what you want me to say\n[D]Right, right\n[C#]Fight, fight\n[Bm]We could start a glorious day\n\n[Chorus]\n[A]Glorious chil\n[D]dren on my mind\n[A]Glorious wast\n[D]ings of my time\n[A]Glorious plans\n[D]we make up Forc\n[G#]ing things in line\n[C#]\n\n[Solo]\n[F#]\n[A]\n[E]  [Bm]\n\n[Bridge]\n[D]Hey,\n[C#]hey, hey\n[Bm]You know what you want me to say\n[D]Right, right\n[C#]Fight, fight\n[Bm]We could start a glorious day\n\n[Chorus]\n[A]Glorious chil\n[D]dren on my mind\n[A]Glorious wast\n[D]ings of my time\n[A]Glorious plans\n[D]we make up Forc\n[G#]ing things in line\n[C#]Gonna rock it out\n\n[Outro]\n[F#]Gonna scream and shout\n[A]Gonna do it right\n[E]Standing in the light [Bm]Flexing all our clout\n[D]Gonna do it right\n[E]Standing in the light [Bm]Flexing all our clout\n[D]Gonna do it right\n[E]Standing in the light [Bm]Flexing all our clout\n[D]Eh\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Glorious Day *alt",
+  "id": "a11489e28676ae1095e3931c0d1d02279808628385aa8c251427fabfd0bf3f34",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 237,
+  "normalizedKey": "weezer|glorious day",
+  "playableChords": [
+    "A",
+    "D",
+    "G#",
+    "C#",
+    "F#",
+    "E",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Solo"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a11489e28676ae1095e3931c0d1d02279808628385aa8c251427fabfd0bf3f34",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Glorious Day",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

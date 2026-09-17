@@ -1,0 +1,122 @@
+{
+  "artist": "Waylon Jennings",
+  "artistNormalized": "waylon jennings",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]\n\n[Verse 1]\n[D]Cowboys ain't easy to love And they're harder to\n[G]hold\n[A7]They'd rather give you a song Than diamonds or\n[D]gold\nLonestar belt buckles and old faded Levis And\n[G]each night begins a new day If you\n[A7]don't understand him and he don't die young\nHe'll probably just ride a-\n[D]way\n\n[Chorus]\n[D]Mamas, don't let your babies grow up to be\n[G]cowboys Don't\n[A7]let 'em pick guitars or drive them old trucks\nLet 'em be doctors and lawyers and\n[D]such\nMamas don't let your babies grow up to be\n[G]cowboys 'Cause they'll\n[A7]never stay home and they're always alone\nEven with someone they\n[D]love\n\n[Verse 2]\n[E]Cowboys like smoky old pool rooms And clear mountain mor-\n[A]nings\n[B7]Lit tle warm pup pies and children And girls of the night\n[E]\nThem that don't know him Won't like him and them that do\n[A]Sometimes won't know how to take him He ain't\n[B7]wrong, he's just different But his pride won't let him Do\nthings to make you think he's\n[E]right\n\n[Chorus]\n[E]Mamas, don't let your babies grow up to be\n[A]cowboys Don't\n[B7]let 'em pick guitars or drive them old trucks\nLet 'em be doctors and lawyers and\n[E]such\nMamas don't let your babies grow up to be\n[A]cowboys 'Cause they'll\n[B7]never stay home and they're always alone\nEven with someone they\n[E]love\n\n[Fade Out]\n[E]Mamas, don't let your babies grow up to be\n[A]cowboys Don't\n[B7]let 'em pick guitars or drive them old trucks\nLet 'em be doctors and lawyers and\n[E]such",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mammas Don’t Let Your Babies Grow Up to Be Cowboys",
+  "id": "b48f894abc8ac90b76989b7697c56a65d8bb379f171ed514fe4cc1ee75ac2469",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 297,
+  "normalizedKey": "waylon jennings|mammas don t let your babies grow up to be cowboys",
+  "playableChords": [
+    "D",
+    "G",
+    "A7",
+    "E",
+    "A",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b48f894abc8ac90b76989b7697c56a65d8bb379f171ed514fe4cc1ee75ac2469",
+    "version": "BCFZ"
+  },
+  "tempo": 93,
+  "title": "Mammas Don’t Let Your Babies Grow Up to Be Cowboys",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

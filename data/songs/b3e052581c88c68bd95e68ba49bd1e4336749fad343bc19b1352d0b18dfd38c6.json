@@ -1,0 +1,135 @@
+{
+  "artist": "U2",
+  "artistNormalized": "u2",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro 1]\n[A]\n\n[Intro 2]\n[B]\n[E]\n[A]\n[F#m]\n[B]\n[E]\n[A]\n[F#m]\n\n[Verse 1]\n[B]One man come in the name\n[E]of love\n[A]One man come and go\n[F#m]\n[B]One man come he to jus-\n[E]tify\n[A]One man to overthrow\n[F#m]In the name\n\n[Chorus]\n[B]of love\n[E]What more\n[A]in the name of love?\n[F#m]In the name\n[B]of love\n[E]What more\n[A]in the name of love?\n[F#m]\n\n[Verse 2]\n[B]One man caught on a\n[E]barbed wire fence\n[A]One man he resist\n[F#m]\n[B]One man washed on an\n[E]empty beach\n[A]One man betrayed with a kiss\n[F#m]In the name\n\n[Chorus]\n[B]of love\n[E]What more\n[A]in the name of love?\n[F#m]In the name\n[B]of love\n[E]What more\n[A]in the name of love?\n[F#m]\n\n[Solo]\n[B]\n[D]\n[E]\n[B]\n[D]\n[E]\n\n[Bridge]\n[B]\n[E]\n[A]\n[F#m]\n[B]\n[E]\n[A]\n[F#m]\n[B]\n[E]\n[A]\n[F#m]\n\n[Verse 3]\n[B]Early morning, A-\n[E]pril four\n[A]Shot rings out in the\n[F#m]Memphis sky\n[B]Free at last,\n[E]they took your life They\n[A]could not take your pride\n[F#m]In the name\n\n[Chorus]\n[B]of love\n[E]What more in\n[A]the name of love?\n[F#m]In the name\n[B]of love\n[E]What more\n[A]in the name of love?\n[F#m]In the name\n\n[Chorus]\n[B]of love\n[E]What more\n[A]in the name of\n[F#m]love? In the name\n[B]of love\n[E]What more\n[A]in the name of love?\n[F#m]\n[B]\n[E]\n[A]\n[F#m]\n[B]\n[E]\n[A]\n[F#m]\n\n[Fade Out]\n[B]\n[E]\n[A]\n[F#m]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pride (In The Name Of Love) *alt 2",
+  "id": "b3e052581c88c68bd95e68ba49bd1e4336749fad343bc19b1352d0b18dfd38c6",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 177,
+  "normalizedKey": "u2|pride in the name of love",
+  "playableChords": [
+    "A",
+    "B",
+    "E",
+    "F#m",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 6,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Solo"
+    },
+    {
+      "measure": 54,
+      "name": "Bridge"
+    },
+    {
+      "measure": 66,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 74,
+      "name": "Chorus"
+    },
+    {
+      "measure": 82,
+      "name": "Chorus"
+    },
+    {
+      "measure": 98,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b3e052581c88c68bd95e68ba49bd1e4336749fad343bc19b1352d0b18dfd38c6",
+    "version": "BCFZ"
+  },
+  "tempo": 103,
+  "title": "Pride (In The Name Of Love)",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

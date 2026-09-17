@@ -1,0 +1,104 @@
+{
+  "artist": "Ziggy Alberts",
+  "artistNormalized": "ziggy alberts",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E]  [B]\n[C#m]  [A]\n[E]  [B]\n[C#m]  [A]\n\n[Verse 1]\n[E]So nobody [B]puts heaven like I do.\n[C#m]  [A]\n[E]So nobody [B]else knows what’s really going on.\n[C#m]  [A]\n[E]And you’re kind of [B]like coffee, I\n[C#m]Know you ain’t [A]always good for me, but\n[E]You keep me up [B]for a long time, you\n[C#m]Keep me up [A]on those long drives.\n\n[Chorus]\n[E]I [B]won’t give you up.\n[C#m]  [A]\n[E]There’s things I [B]just don’t know how to say,\n[C#m]  [A]\n[E]These things [B]that I’m most worri-\n[C#m]ed [A]about, is Heaven might\n[C#m]come down and [B]steal you away,\n[A]Is heaven might\n[C#m]come down and [B]steal you away.\n[A]Heaven might\n[C#m]come down and [B]steal you away.\n\n[Pre-Verse]\n[E]  [B]\n[C#m]  [A]\n[E]  [B]\n[C#m]  [A]\n\n[Verse 2]\n[E]So love’s kind of [B]like the ocean. You just\n[C#m]got to learn [A]how to swim. Where goes\n[E]no one’s ever said [B]that it’s better off than a sin.\n[C#m]  [A]\n[E]And there hasn’t [B]been a time yet. When\n[C#m]I’ve been watching [A]you get undressed, that\n[E]Jaw doesn’t [B]drop to the floor, that My\n[C#m]jaw doesn’t [A]drop to the floor.\n\n[Chorus]\n[E]I [B]won’t give you up.\n[C#m]  [A]\n[E]There’s things I [B]just don’t know how to say,\n[C#m]  [A]\n[E]These things [B]that I’m most worri-\n[C#m]ed about, [A]is Heaven might\n[C#m]come down and [B]steal you away,\n[A]Is heaven might\n[C#m]come down and [B]steal you away.\n[A]Heaven might\n[C#m]come down and [B]steal you away.\n[A]Is heaven might\n[C#m]come down and [B]steal you away.\n\n[Outro]\n[E]  [B]\n[C#m]  [A]\n[E]  [B]\n[C#m]  [E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Heaven",
+  "id": "b0dbd512a070b2f20f77df83716e2053e082d08c100e688af461957a559f61c9",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 231,
+  "normalizedKey": "ziggy alberts|heaven",
+  "playableChords": [
+    "E",
+    "B",
+    "C#m",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b0dbd512a070b2f20f77df83716e2053e082d08c100e688af461957a559f61c9",
+    "version": "BCFZ"
+  },
+  "tempo": 81,
+  "title": "Heaven",
+  "tuning": "E A C# E B E",
+  "variantRole": "primary"
+}

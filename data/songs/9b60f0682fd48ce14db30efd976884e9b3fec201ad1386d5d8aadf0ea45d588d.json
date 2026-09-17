@@ -1,0 +1,77 @@
+{
+  "artist": "Wire",
+  "artistNormalized": "wire",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D5]  [E5]  [E5]  [D5]\n[E5]  [E5]\n[D5]  [E5]  [E5]  [D5]\n[D5]  [E5]  [E5]\n\n[Verse]\n[A]My mind is unwilling and your\nflesh is so weak\n[D5]  [E5]  [E5]  [D5]\n[E5][E5]Do my\n[A]movements betray the secrets\nI think?\n[D5]  [E5]  [E5]  [D5]\n[E5]  [E5]\n[A]I always stand by walls and\ntry to humour fools\n[D5]  [E5]  [E5]  [D5]\n[E5][E5]Am I\nmoving in a straight line? Am I\nmoving in a straight line? Am I\nmoving in a straight line? Am I\nmoving in a straight line?\n[D5]  [E5]  [E5]  [D5]\n[E5]  [E5]\n[D5]  [E5]  [E5]  [D5]\n[E5]  [E5]\n\n[Chorus]\n[D5]Oh, it's\n[A5]unlust and the\n[E5]onedimensional\n[A5]boy\n[D5]Oh, it's\n[A5]unlust and the\n[E5]onedimensional\n[A5]boy\n[D5]Oh, it's\n[A5]unlust and the\n[E5]onedimensional\n[A5]boy\n[D5]Oh, it's\n[A5]unlust and the\n[E5]onedimensional\n[A5]boy",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Straight Line",
+  "id": "9b60f0682fd48ce14db30efd976884e9b3fec201ad1386d5d8aadf0ea45d588d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 98,
+  "normalizedKey": "wire|straight line",
+  "playableChords": [
+    "D5",
+    "E5",
+    "A",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9b60f0682fd48ce14db30efd976884e9b3fec201ad1386d5d8aadf0ea45d588d",
+    "version": "BCFZ"
+  },
+  "tempo": 234,
+  "title": "Straight Line",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

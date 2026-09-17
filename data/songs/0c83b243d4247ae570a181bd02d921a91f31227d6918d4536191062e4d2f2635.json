@@ -1,0 +1,118 @@
+{
+  "artist": "Weezer",
+  "artistNormalized": "weezer",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Eb5]\n[Eb5]  [Gaug]\n[Ab5]\n[Eb5]  [Gaug]\n[Ab5]\n\n[Pre-Verse]\n[Eb5]\n\n[Verse 1]\n[Eb5][Bb5]Hey, [Ab5]Suzy, where you\nbeen [C5]today? [Bb5]\n[Eb5][Bb5]I'm [Ab5]looking for you\nevery [C5]way [Bb5]\n[Eb5][Bb5]No sign [Ab5]of you when\nI wake [C5]up [Bb5]I'm on\n[Eb5][Bb5]an [Ab5]island with\n[C5]no sun [Bb5]\n\n[Pre-Chorus]\n[Ab5]I feel [Gaug]like I've known you\n[Bb5]my whole [C5]life\n[Ab5]You got me [Gaug]cryin' like when\n[Bb5]Aslan [C5]died\n[Db5]Now you're\n[Bb5]gone The\n\n[Chorus]\n[Bb5][Eb5]melody [Ab5]can't find\n[C5]you [Bb5]I'm\n[Bb5][Eb5]incomplete [Ab5]without\n[C5]you [Bb5]I\n[Eb5]guess [Bb5]we've reached [Ab5]the end\n[C5]of [Bb5]the game\n[Eb5]\nOoh, hit me\n\n[Verse 2]\n[Eb5][Bb5]I know [Ab5]that you would\ncrank this [C5]song [Bb5]\n[Ab5][Eb5][Bb5]Airguitaring with your\nheadphones [C5]on [Bb5]\n[Eb5]We [Bb5]dig the same [Ab5]type of\n[C5]melodies [Bb5]The ones\n[Eb5][Bb5]to get [Ab5]you next\n[C5]to me [Bb5]\n\n[Pre-Chorus]\n[Ab5]I was [Gaug]Mick and you were\n[C5][Bb5]Marianne\n[Ab5]You would [Gaug]harmonize when\n[Bb5]I felt [C5]bad\n[Db5]But now you're\n[Bb5]gone\nThe\n\n[Chorus]\n[Bb5][Eb5]melody [Ab5]can't find\n[C5]you [Bb5]I'm\n[Bb5][Eb5]incomplete [Ab5]without\n[C5]you [Bb5]I\n[Eb5]guess [Bb5]we've reached [Ab5]the end\n[C5]of [Bb5]the game\n[Eb5]\nOoh, hit me\nOoh\n\n[Bridge]\n[Eb5]Am I your [Bb5]goto\n[C5]or am I [Ab5]uncool?\n[Eb5]With all of [Bb5]these ex-\n[C5]tremes that I [Ab5]go to all I\n[Eb5]want is to be [Bb5]wanted by you\n[C5][Ab5]All I\n[Eb5]want is to be [Bb5]wanted by you\n[C5]  [Ab5]\n[Eb5]  [Gaug]\n[Ab5]\n[Eb5]  [Gaug]\n[Ab5]But the\n\n[Chorus]\n[Bb5][Eb5]melody [Ab5]can't find\n[C5]you [Bb5]I'm\n[Bb5][Eb5]incomplete [Ab5]without\n[C5]you [Bb5]I\n[Eb5]guess [Bb5]we've reached [Ab5]the end\n[C5]of [Bb5]the\n\n[Outro]\n[Eb5]game\nOoh, hit me\nOoh, hit me\nOoh, hit me\nOoh, hit me",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "Bb5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "Db5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gaug": {
+      "catalog": [
+        "476xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The End of the Game",
+  "id": "0c83b243d4247ae570a181bd02d921a91f31227d6918d4536191062e4d2f2635",
+  "key": "D♭",
+  "keyIdentified": true,
+  "lyricEventCount": 238,
+  "normalizedKey": "weezer|the end of the game",
+  "playableChords": [
+    "Eb5",
+    "Gaug",
+    "Ab5",
+    "Bb5",
+    "C5",
+    "Db5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 48,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0c83b243d4247ae570a181bd02d921a91f31227d6918d4536191062e4d2f2635",
+    "version": "BCFZ"
+  },
+  "tempo": 119,
+  "title": "The End of the Game",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

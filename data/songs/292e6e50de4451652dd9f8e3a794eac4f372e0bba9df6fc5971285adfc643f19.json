@@ -1,0 +1,115 @@
+{
+  "artist": "Vampire Weekend",
+  "artistNormalized": "vampire weekend",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n[G]\n[Em]\n[G]\n\n[Verse 1]\n[Em]You've been checking\n[G]on my facts And\n[Em]I admit I\n[G]have been lax In\n[Em]double-screening\n[G]what I say It\n[Em]wasn't funny\n[G]anyway\n\n[Chorus]\n[G]I\n[Em]stand correc\n[C]ted\n[G]\n[G]I\n[Em]stand correc\n[C]ted\n[G]\n\n[Verse 2]\n[Em]No one cares when\n[G]you are wrong But\n[Em]I've been at this\n[G]far too long To\n[Em]act like that when\n[G]we should be In\n[C]perfect [D]har mony\n[G]\n\n[Chorus]\n[G]I\n[Em]stand correc\n[C]ted\n[G]\n[G]I oh I\n[Em]stand correc\n[C]ted\n[G]\n\n[Bridge]\n[Em]Lord knows I [D]haven't tried\nI'll take my [C]stand\n[A]One [G]last\n[D]time\n[Em]Forget the [D]protocol\nI'll take your [C]hand\n[A]Right [G]in\n[D]mine\n\n[Chorus]\n[G]I\n[Em]stand correc\n[C]ted\n[G]\n[G]I oh I\n[Em]stand correc\n[C]ted\n[G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Stand Corrected",
+  "id": "292e6e50de4451652dd9f8e3a794eac4f372e0bba9df6fc5971285adfc643f19",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 127,
+  "normalizedKey": "vampire weekend|i stand corrected",
+  "playableChords": [
+    "Em",
+    "G",
+    "C",
+    "D",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "292e6e50de4451652dd9f8e3a794eac4f372e0bba9df6fc5971285adfc643f19",
+    "version": "BCFZ"
+  },
+  "tempo": 79,
+  "title": "I Stand Corrected",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

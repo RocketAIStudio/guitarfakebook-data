@@ -1,0 +1,134 @@
+{
+  "artist": "Turnover",
+  "artistNormalized": "turnover",
+  "capo": "5",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\n[F]\n\n[Verse 1]\n[C]Carelessly you\npass the hours\nHumming songs you\nheard when you were\n[F]young.\n[C]Positively\nunattached,\nNaive and unat-\ntracted to the\n[F]buzz.\nE-\n[C]lated with your\nlack of interest\nWhat a wonder-\nful and different\n[F]song.\n[C]Show me why you're\nalways smiling.\nLaugh again and\nmake me fall in\n[F]love\n\n[Pre-Chorus]\n[C]\n[G7sus4/C]\n[Cadd11]\n\n[Chorus]\n[C]Oh just\ntake me where you\ngo.\nWhen it gets dark\n[G][F]without you [Am]I\nwon't [C]make it out\n[F]I [G]don't think [Am]I'll\nmake [C]it out a-\nlive.\nI wanna run\nand hide, With\nyou tonight I\n[F]know [G]that I [Am]can\nmake [C]it out With\n[F]you [G]I know [Am]I'll\nmake [C]it out a-\n\n[Pre-Verse]\n[C]live.\n[G7sus4/C]\n[Cadd11]\n\n[Verse 2]\n[C]Let me know your\nsecret Tell me\nhow you color\nall the empty\n[F]space.\n[C]Drawn outside the\nlines, Your words, a\nvibrant illus-\ntration you cre-\n[F]ate.\n\n[Pre-Chorus]\n[C]\n[G7sus4/C]\n[C]\n[Cadd11]\n[C]\n[G7sus4/C]\n[Cadd11]\n\n[Bridge]\n[Am]Chasing you,\nI'm\n[F]falling through\nthe\n[G]rabbit hole,\nDeep\n[Am]down into an\nold slope.\n[Am]Evenly,\nyou're\n[F]pulling me\never\n[G]faster as we\ngo,\n[Am]Spinning out of\ncontrol\n\n[Pre-Chorus]\n[C]\n[G7sus4/C]\n[Cadd11]\n\n[Chorus]\n[C]Oh just\ntake me where you\ngo.\nWhen it gets dark\n[G][F]without you [Am]I\nwon't [C]make it out\n[F]I [G]don't think [Am]I'll\nmake [C]it out a-\nlive. I\nwanna run and\nhide, With\nyou tonight I\n[F]know [G]that I [Am]can\nmake [C]it out With\n[F]you [G]I know [Am]I'll\nmake [C]it out a-\n[C]live. Just\ntake me where you\ngo. When\nit gets dark with-\n[F]out [G]you I [Am]won't\nmake [C]it out\n[F]I [G]don't think [Am]I'll\nmake [C]it out a-\nlive. I\nwanna run and\nhide, With\nyou tonight I\n[F]know [G]that I [Am]can\nmake [C]it out With\n[F]you [G]I know [Am]I'll\nmake [C]it out a-\n\n[Outro]\nlive.",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x3555x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd11": {
+      "catalog": [
+        "x3305x"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7sus4/C": {
+      "catalog": [
+        "x3303x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Humming",
+  "id": "449d9b8748569a562aeee889774180dbe101514187ac0a08d5e5d9c84ade7da9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 308,
+  "normalizedKey": "turnover|humming",
+  "playableChords": [
+    "C",
+    "F",
+    "G7sus4/C",
+    "Cadd11",
+    "G",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 42,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 66,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 82,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 90,
+      "name": "Bridge"
+    },
+    {
+      "measure": 106,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 110,
+      "name": "Chorus"
+    },
+    {
+      "measure": 142,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "449d9b8748569a562aeee889774180dbe101514187ac0a08d5e5d9c84ade7da9",
+    "version": "BCFZ"
+  },
+  "tempo": 155,
+  "title": "Humming",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

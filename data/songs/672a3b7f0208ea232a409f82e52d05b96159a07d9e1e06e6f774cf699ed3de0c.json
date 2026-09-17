@@ -1,0 +1,100 @@
+{
+  "artist": "Vampire Weekend",
+  "artistNormalized": "vampire weekend",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Eb]\n[Db]\n[Eb]\n[Db]\n[Eb]\n[Db]\n[Eb]\n[Db]\n\n[Bridge]\n[Eb]\n[Db]\n[Eb]\n[Db]\n\n[Verse 1]\n[Eb]Sunflower in the\n[Db]morning Standing in the\n[Eb]garden All before you\n[Db]wake\n[Eb]No power can com-\n[Db]pel you Out into the\n[Eb]daylight Let that evil\n[Db]wait\n\n[Pre-Chorus]\n[Eb6]Strange thought upon the pil\n[Db6]low\n[Eb6]\"What day demands a date?\"\n[Db6]Well I don't\n\n[Chorus]\n[Eb]know\n[Db]\n[Eb]\n[Db]\n[Eb]\n[Db]\n[Eb]\n[Db]\n\n[Verse 2]\n[Eb]Sunflower in the\n[Db]evening Standing in the\n[Eb]garden Taking up that\n[Db]space\n[Eb]No power can com-\n[Db]pel me Back into the\n[Eb]daylight Let that evil\n[Db]wait\n\n[Pre-Chorus]\n[Eb6]Strange thought upon the pil\n[Db6]low\n[Eb6]\"What day demands a date?\"\n[Db6]Well I don't\n\n[Chorus]\n[Eb]know\n[Db]\n[Eb]\n[Db]\n[Eb]\n[Db]\n[Eb]\n[Db]\n[Eb]",
+  "diagrams": {
+    "Db": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Db6": {
+      "catalog": [
+        "x46666"
+      ],
+      "catalogCount": 1
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Eb6": {
+      "catalog": [
+        "x68888"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sunflower",
+  "id": "672a3b7f0208ea232a409f82e52d05b96159a07d9e1e06e6f774cf699ed3de0c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 108,
+  "normalizedKey": "vampire weekend|sunflower",
+  "playableChords": [
+    "Eb",
+    "Db",
+    "Eb6",
+    "Db6"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Bridge"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "672a3b7f0208ea232a409f82e52d05b96159a07d9e1e06e6f774cf699ed3de0c",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Sunflower",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

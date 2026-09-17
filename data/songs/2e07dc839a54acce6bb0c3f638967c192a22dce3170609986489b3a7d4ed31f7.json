@@ -1,0 +1,117 @@
+{
+  "artist": "Three Days Grace",
+  "artistNormalized": "three days grace",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C5]  [G5]  [Eb5]  [D5]\n[C5]  [G5]  [Eb5]  [D5]\n[C5]  [G5]  [Eb5]  [D5]\n[F5]  [Eb5]\n\n[Verse 1]\n[C5]Your [G5]bottles' [Eb5]almost [D5]empty\n[C5]You [G5]know this [Eb5]can't go [D5]on\n[G5][C5]Because of [Eb5]you my [D5]mind is\n[F5]always [Eb5]racing\n[C5]The [G5]needles' [Eb5]breaking [D5]your skin\n[C5]The [G5]scar is [Eb5]sinking [D5]in\n[C5]And [G5]now your [Eb5]trip [D5]begins but\n[F5]It's all over for\n[Ab5]It's all over [Bb5]for\n\n[Chorus]\n[C5]You For\n[Ab5]you When you're\n[F5]on the edge and falling off\n[Bb5]It's all over [Eb5]for\n[C5]you For\n[Ab5]you When you're\n[F5]on the edge and falling off\n[Bb5]It's all [Eb5]over\n\n[Verse 2]\n[C5]I [G5]know what [Eb5]runs through [D5]your blood\n[C5]You [G5]do this [Eb5]all in [D5]vain\n[G5][C5]Because of [Eb5]you my [D5]mind is\n[F5]always [Eb5]racing\n[C5]And [G5]it gets [Eb5]under [D5]my skin\n[C5]To [G5]see you [Eb5]giving [D5]in\n[C5]And [G5]now your [Eb5]trip [D5]begins but\n[F5]It's all over for\n[Ab5]It's all over [Bb5]for\n\n[Chorus]\n[C5]You For\n[Ab5]you When you're\n[F5]on the edge and falling off\n[Bb5]It's all over [Eb5]for\n[C5]you For\n[Ab5]you When you're\n[F5]on the edge and falling off\n[Bb5]It's all [Eb5]over\n\n[Interlude]\n[C5]  [G5]  [Eb5]  [D5]\n[C5]  [G5]  [Eb5]  [D5]\n[C5]  [G5]  [Eb5]  [D5]\n[F5]  [Ab5]\n\n[Solo]\n[C5]\n[Ab5]\n[F5]\n[Bb5]  [Eb5]\n[C5]\n[Ab5]\n[F5]\n[Bb5]  [Eb5]\n\n[Interlude]\n[C5]And now you're dead inside\n[Ab5]Still you wonder why\n[F5]It's all\n[Bb5]over\n[C5]And now you're dead inside\n[Ab5]Still you wonder why\n[F5]It's all\n[Bb5]over [Eb5]\n\n[Chorus]\n[C5]\n[Ab5]When you're\n[F5]on the edge and falling off\n[Bb5]It's all over [Eb5]for\n[C5]you For\n[Ab5]you When you're\n[F5]on the edge and falling off\n[Bb5]It's all [Eb5]over\n[C5]And now you're dead inside\n[Ab5]Still you wonder wh-\n[F5]y\n[Bb5]  [Eb5]\n[C5]  [G5]  [Eb5]  [D5]",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "888xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bb5": {
+      "catalog": [
+        "10-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Its All Over",
+  "id": "2e07dc839a54acce6bb0c3f638967c192a22dce3170609986489b3a7d4ed31f7",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 257,
+  "normalizedKey": "three days grace|its all over",
+  "playableChords": [
+    "C5",
+    "G5",
+    "Eb5",
+    "D5",
+    "F5",
+    "Ab5",
+    "Bb5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 13,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Interlude"
+    },
+    {
+      "measure": 55,
+      "name": "Solo"
+    },
+    {
+      "measure": 63,
+      "name": "Interlude"
+    },
+    {
+      "measure": 71,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2e07dc839a54acce6bb0c3f638967c192a22dce3170609986489b3a7d4ed31f7",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Its All Over",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

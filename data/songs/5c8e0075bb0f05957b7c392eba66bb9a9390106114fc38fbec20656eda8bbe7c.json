@@ -1,0 +1,119 @@
+{
+  "artist": "Tom Jones",
+  "artistNormalized": "tom jones",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Cmaj7]\n[Dm7]\n[Cmaj7]\n[Dm7]\n\n[Verse 1]\n[Cmaj7]It's not unu-\nsual to be\n[Dm7]loved by anyone\n[G7]\n[Cmaj7]It's not unu-\nsual to have\n[Dm7]fun with anyone\n[Em7]But when I see\nyou hanging about\n[Dm7]with anyone\n[G7]It's not unu-\nsual to\n[Cmaj7]see me cry\nI\n[Dm7]wanna' die\n[G7]\n\n[Verse 2]\n[Cmaj7]It's not unu-\nsual to go\n[Dm7]out at any time\n[G7]\n[Cmaj7]But when I see\nyou out and about\n[Dm7]it's such a crime\n[Em7]If you should e-\nver want to be loved\n[Dm7]by anyone\n\n[Bridge]\n[G7]It's not unu-\nsual it\n[Cmaj7]happens every day\nNo\n[Dm7]matter what you say\n[G7]You find it\nhappens all the time\n[Cmaj7]\nLove will never do,\n[Dm7]what you want it to\n[G7]Why can't this\n[Dm7]crazy love be mine?\n[Em7]\n[Eb7]\n[Dm7]\n[G7]\n\n[Solo]\n[Cmaj7]\n[Dm7]\n[G7]\n[Cmaj7]\n[Dm7]\n[G7]\n\n[Verse 3]\n[Cmaj7]It's not unu-\nsual to be\n[Dm7]mad with anyone\n[G7]\n[Cmaj7]It's not unu-\nsual to be\n[Dm7]sad with anyone\n[Em7]But if I e-\nver find that you've\n[Dm7]changed at anytime\n\n[Outro]\n[G7]It's not unu-\nsual to\n[Cmaj7]find out that I'm in love\n[Dm7]with you Whoaoh-\n[Em7]ohohohoh\n[Dm7]Whoa-\n[Em7]ohoh\n[Dm7]Whoa-\n\n[Fade Out]\n[Em7]ohoh-\n[Dm7]ohoh Whoa\n[Em7]Whoa-\n[Dm7]oh Whoaoh",
+  "diagrams": {
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm7": {
+      "catalog": [
+        "xx0211",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Eb7": {
+      "catalog": [
+        "xx1323",
+        "x-6-5-6-4-3",
+        "x-6-8-6-8-6",
+        "11-10-8-8-8-9",
+        "11-13-11-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022033",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320031",
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "It's Not Unusual",
+  "id": "5c8e0075bb0f05957b7c392eba66bb9a9390106114fc38fbec20656eda8bbe7c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 208,
+  "normalizedKey": "tom jones|it s not unusual",
+  "playableChords": [
+    "Cmaj7",
+    "Dm7",
+    "G7",
+    "Em7",
+    "Eb7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 59,
+      "name": "Solo"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 79,
+      "name": "Outro"
+    },
+    {
+      "measure": 87,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5c8e0075bb0f05957b7c392eba66bb9a9390106114fc38fbec20656eda8bbe7c",
+    "version": "BCFZ"
+  },
+  "tempo": 184,
+  "title": "It's Not Unusual",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

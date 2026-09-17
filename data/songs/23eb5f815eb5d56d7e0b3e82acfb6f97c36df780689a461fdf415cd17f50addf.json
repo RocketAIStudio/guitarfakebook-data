@@ -1,0 +1,112 @@
+{
+  "artist": "Wham!",
+  "artistNormalized": "wham",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Dmaj7]\n[Bm7]\n[Em7]\n[A7]\n\n[Chorus]\n[Dmaj7]Last Christmas, I\ngave you my heart But the\n[Bm7]very next day you\ngave it away\n[Em7]This year, to\nsave me from tears I'll\n[A7]give it to someone spe\ncial\n[Dmaj7]Last Christmas, I\ngave you my heart But the\n[Bm7]very next day you\ngave it away\n[Em7]This year, to\nsave me from tears I'll\n[A7]give it to someone spe\ncial\n\n[Bridge]\n[Dmaj7]\n[Bm7]\n[Em7]\n[A7]\n\n[Verse 1]\n[Dmaj7]Once bitten and\ntwice shy\n[Bm7]I keep my distance But\nyou still catch my eye\n[Em7]Tell me, baby\nDo you recognize me?\n[A7]Well, it's been a year It\ndoesn't surprise me\n[Dmaj7](Merry Christmas!) I\nwrapped it up and sent it\n[Bm7]With a note saying, \"I\nlove you\" I meant it\n[Em7]Now, I know what a fool\nI've been But if you\n[A7]kissed me now I know you'd\nfool me again\n\n[Chorus]\n[Dmaj7]Last Christmas, I\ngave you my heart But the\n[Bm7]very next day you\ngave it away\n[Em7]This year, to\nsave me from tears I'll\n[A7]give it to someone spe\ncial\n[Dmaj7]Last Christmas, I\ngave you my heart But the\n[Bm7]very next day you\ngave it away\n[Em7]This year, to\nsave me from tears I'll\n[A7]give it to someone spe\ncial\n\n[Bridge]\n[Dmaj7]\n[Bm7]\n[Em7]\n[A7]\n\n[Verse 2]\n[Dmaj7]A crowded room,\nfriends with tired eyes\n[Bm7]I'm hiding from you,\nand your soul of ice\n[Em7]My god, I thought you were\nsomeone to rely on\n[A7]Me? I guess I was a\nshoulder to cry on A\n[Dmaj7]face on a lover with a\nfire in his heart A\n[Bm7]man under cover but you\ntore me apart\n[Em7]\nNow, I've\n[A7]found a real love you'll never\nfool me again\n\n[Chorus]\n[Dmaj7]Last Christmas, I\ngave you my heart But the\n[Bm7]very next day you\ngave it away\n[Em7]This year, to\nsave me from tears I'll\n[A7]give it to someone spe\ncial\n[Dmaj7]Last Christmas, I\ngave you my heart But the\n[Bm7]very next day you\ngave it away\n[Em7]This year, to\nsave me from tears I'll\n[A7]give it to someone spe\ncial A\n\n[Outro]\n[Dmaj7]face on a lover with a\nfire in his heart A\n[Bm7]man under cover but you\ntore me apart\n[Em7]Maybe next year I'll\ngive it to someone I'll\n[A7]give it to someone spe\ncial",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Dmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9",
+        "10-12-11-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "020000",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12",
+        "x-19-21-19-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Last Christmas",
+  "id": "23eb5f815eb5d56d7e0b3e82acfb6f97c36df780689a461fdf415cd17f50addf",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 411,
+  "normalizedKey": "wham|last christmas",
+  "playableChords": [
+    "Dmaj7",
+    "Bm7",
+    "Em7",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus"
+    },
+    {
+      "measure": 105,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "23eb5f815eb5d56d7e0b3e82acfb6f97c36df780689a461fdf415cd17f50addf",
+    "version": "BCFZ"
+  },
+  "tempo": 109,
+  "title": "Last Christmas",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

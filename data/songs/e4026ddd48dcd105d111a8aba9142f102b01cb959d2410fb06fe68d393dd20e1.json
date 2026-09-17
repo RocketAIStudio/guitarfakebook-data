@@ -1,0 +1,77 @@
+{
+  "artist": "Wire",
+  "artistNormalized": "wire",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[A5]\nUndeuxtroisgo!\n\n[Verse 1]\n[A5]Sitting in a\nsurgeon's world, a\nsurgeon's will A\nsurgeon's girl with\n[G5]me\n[A5]Standing on a\nriver bed, where\nweeds can be I'm\non my knee, to\n[G5]you\n\n[Chorus]\n[E]Well, I've seen you\nin glossy mags\nGlossy mags\nGlossy mags\nI've seen you in the\nglossy mags\nGo insane, go insane\nGo insane, go insane\nGo insane, go insane\nGo insane, go insane\nGo insane, go insane\nGo insane, go insane\nGo insane, yeah yeah\nyeah yeah yeah yeah-\nyeah\nI\n\n[Verse 2]\n[A5]\nSaid you weren't a\ntuna fish, put\nin a tin They're\nvery big, ha\n[G5]ha\n\n[Chorus]\n[E]I've seen in\nglossy mags\nGlossy mags\nGlossy mags\nI've seen you in the\nglossy mags\nGo insane, go insane\nGo insane, go insane\nGo insane, go insane\nGo insane, go insane\nGo insane, yeah yeah\nyeah yeah yeah yeah\nGo insane, go insane\nGo insane, go insane\nGo insane, go insane\nGo insane, go insane\nGo insane, go insane\nGo insane, go insane,\nme",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Surgeon's Girl",
+  "id": "e4026ddd48dcd105d111a8aba9142f102b01cb959d2410fb06fe68d393dd20e1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 178,
+  "normalizedKey": "wire|surgeon s girl",
+  "playableChords": [
+    "A5",
+    "G5",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e4026ddd48dcd105d111a8aba9142f102b01cb959d2410fb06fe68d393dd20e1",
+    "version": "BCFZ"
+  },
+  "tempo": 250,
+  "title": "Surgeon's Girl",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

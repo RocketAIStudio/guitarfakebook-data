@@ -1,0 +1,134 @@
+{
+  "artist": "Weezer",
+  "artistNormalized": "weezer",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F#m]\n[Em]\n\n[Verse 1]\n[A]Give me some love, give me some love Give me some,\n[E]I want you to know\n[F#m]Give me some love, give me some love Sugar, that's the\n[D]wrong, wrong way to go\n[A]Open your arms, open your arms Honey, you come\n[E]right back home to me\n[F#m]Give me some love, give me some love Sugar, that's the\n[D]wrong, wrong way to be\n\n[Chorus]\n[C#]Can't you see?\n[D]\nWe're to be\n[E]this time\n[A]Simple pa\n[E]ges on my mind\n[D]\n\n[Verse 2]\n[A]Kick it on back, kick it on back Kick it on\n[E]back to what you know\n[F#m]Give me some love, give me some love Sugar on the\n[D]hard rock radio\n[A]Where they play tunes, where they play tunes Where they play\n[E]riffs with the hard rock beat\n[F#m]Give me some love, give me some love, sugar From the\n[D]drop with the old school meet\n\n[Chorus]\n[C#]Can't you see?\n[D]\nWe're to be\n[E]this time\n[A]Simple pa\n[E]ges on my mind\n[D]\n\n[Pre-Solo]\n[F#m]Give me some\nthing I can believe,\n[Em]\noh baby\n\n[Solo]\n[A]\n[E]\n[F#m]\n[D]\n[A]\n[E]\n[F#m]\n[D]\n\n[Chorus]\n[C#]Can't you see?\n[D]\nWe're to be\n[E]this time\n[A]Simple pa\n[E]ges on my mind\n[D]\n\n[Outro]\n[A]Kick it on back, kick it on back Kick it on\n[E]back to what you know\n[F#m]Give me some love, give me some love Sugar on the\n[D]hard rock radio So give me some\n[A]love, give me some\n[E]love Give me some\n[F#m]love, give me some\n[D]love Give me some\n[A]Can't you see?\n[E]You're just me\n[F#m]Turn these pa\n[D]ges of my mind,\n[A]oh,\n[E]oh\n[F#m]\n[D]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Simple Pages *alt",
+  "id": "fbc1221a87fc7a51e5400d3690c40bbce07224b79691fecbb5c2d6c01da2bf06",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 264,
+  "normalizedKey": "weezer|simple pages",
+  "playableChords": [
+    "F#m",
+    "Em",
+    "A",
+    "E",
+    "D",
+    "C#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Pre-Solo"
+    },
+    {
+      "measure": 41,
+      "name": "Solo"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fbc1221a87fc7a51e5400d3690c40bbce07224b79691fecbb5c2d6c01da2bf06",
+    "version": "BCFZ"
+  },
+  "tempo": 103,
+  "title": "Simple Pages",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,91 @@
+{
+  "artist": "Tower of Talent",
+  "artistNormalized": "tower of talent",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C5]Absolutely bril-\nliant\nA fitting\ntribute\nPoetic ge-\nnius\nI'm at a loss\nfor words\n\n[Verse]\n[C5]When did you get so hand-\nsome\n[F5]When did you get so hot\n[C5]\nSay there boss have you\nbeen working\n[G5]out\nYou're\n[C5]like a young Ado-\nnis,\n[F5]Confident and\n[C5]sleek A\n[Eb5]walking ad for mas-\n[Bb5]culinity\n[F5]\nNow\n\n[Chorus]\n[C5]every-\nthing you\n[Ab5]touch turns into gold\n[C5]\nYour charmed\nlife is our good luck\n[G5]\n[Ab5]We're\n[C5]fortu-\nnate to\n[Ab5]bask here in the glow\n[C5]Of\nyour sen-\n[F5]sational gi-\n[Ab5]gantic\n[Bb5]tower of\n\n[Outro]\n[C5]talent",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bb5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx",
+        "x35xxx"
+      ],
+      "catalogCount": 2
+    },
+    "Eb5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Screeching Weasel",
+  "id": "c6e4211afb829351a34353291b75b6f5e051f8052fbfe19a7d40ac8187f53904",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 108,
+  "normalizedKey": "tower of talent|screeching weasel",
+  "playableChords": [
+    "C5",
+    "F5",
+    "G5",
+    "Eb5",
+    "Bb5",
+    "Ab5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c6e4211afb829351a34353291b75b6f5e051f8052fbfe19a7d40ac8187f53904",
+    "version": "BCFZ"
+  },
+  "tempo": 230,
+  "title": "Screeching Weasel",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

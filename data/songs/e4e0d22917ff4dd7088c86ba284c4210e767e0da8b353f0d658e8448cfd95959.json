@@ -1,0 +1,77 @@
+{
+  "artist": "Wire",
+  "artistNormalized": "wire",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[D]  [G]\n\n[Intro]\n[D]  [G]\n[D]  [G]\n[D]  [G]\n[D]  [G]\n[D]  [G]\n[D]  [G]\n[D]  [G]\n\n[Verse]\n[D]Display [G]austerity or a\n[G][D]supreme reality\n[D]  [G]\n[D]  [G]\n[D]Fog is [G]clearing,\n[D]on [G]a finely ground\n[D]land [G]\n[D]  [G]\n[D]Standing still with an [G]itchy feet\n[D]  [G]\n[D]Playing the odds and [G]moving beats\n[D]  [G]\n[D]Firm release on [G]our stance\n[D]  [G]\n[D]Seize the issue, take [G]the chance\n[D]  [G]\n\n[Chorus]\n[A]However much you care to buy\n[D]Feelings, [G]searching,\n[D]low [G]profile\n[A]What you think is perfectly clear\n[G]Touching, ca-\nressing Getting so\n[D]close [G]\n[D][G]So\n[D]close [G]\n[D][G]So\n[D]close [G]\n[D][G]So\n[D]close [G]\n[D]  [G]\n[A]However much you care to buy\n[D]Feelings, [G]searching,\n[D]low [G]profile\n[A]What you think is perfectly clear\n[G]Touching, ca-\n[D]close",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "No Romans",
+  "id": "e4e0d22917ff4dd7088c86ba284c4210e767e0da8b353f0d658e8448cfd95959",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 112,
+  "normalizedKey": "wire|no romans",
+  "playableChords": [
+    "D",
+    "G",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e4e0d22917ff4dd7088c86ba284c4210e767e0da8b353f0d658e8448cfd95959",
+    "version": "BCFZ"
+  },
+  "tempo": 187,
+  "title": "No Romans",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

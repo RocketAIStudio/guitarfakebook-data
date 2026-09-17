@@ -1,0 +1,133 @@
+{
+  "artist": "Three Days Grace",
+  "artistNormalized": "three days grace",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Emadd9]\n[D]\n[Cadd9]\n\n[Verse 1]\n[Emadd9]I walk a-\nlone, think of\nhome Memories\nof long a-\n[D]go No one\nknows I lost\n[Cadd9]my soul\nlong ago\n\n[Pre-Chorus]\n[Cadd9]Lied too\nmuch\nShe said that she's\nhad enough\n[D]Am I too\nmuch\n[Cadd9]She said that she's\nhad enough\n\n[Chorus]\n[Em]Standing on my own\n[Gm]Remembering the\n[Cadd9]one I left at home\n[Asus2]Forget about the\n[Em]life I used to know\n[Gm]Forget about the\n[Cadd9]one I left at home\n[Asus2]\n\n[Verse 2]\n[Emadd9]I need to\nrun far a-\nway Can't go\nback to that\n[D]place Like she\ntold me I'm\n[Cadd9]just a\nbig disgrace\n\n[Pre-Chorus]\n[Cadd9]Lied too\nmuch\nShe said that she's\nhad enough\n[D]Am I too\nmuch\n[Cadd9]She said that she's\nhad enough\n\n[Chorus]\n[Em]Standing on my [G]own\n[Gm]Remembering the\n[Cadd9]one I left at home\n[Asus2]Forget about the\n[Em]life I used to [G]know\n[Gm]Forget about the\n[Cadd9]one I left at home\n[Asus2]So now I'm\n[Em]standing here [G]alone\n[Gm]I'm learning how to\n[Cadd9]live life on my own\n[Asus2]\n\n[Bridge]\n[D]Lied too\nmuch\n[Cadd9]She said that she's\nhad enough\nAm I too\nmuch\nShe said that she's\nhad enough I'm\n\n[Chorus]\nstanding on my own\nRemembering the\none I left at home\nForget about the\nlife I used to know\nForget about the\none I left at home\nSo now I'm\nstanding here alone\nI'm learning how to\nlive life on my own\nForget about the\npast I'll never know\nForget about the\none I left at home",
+  "diagrams": {
+    "Asus2": {
+      "catalog": [
+        "x0220x"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32030"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Emadd9": {
+      "catalog": [
+        "022002"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "310033",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "On My Own",
+  "id": "23b1d0f71542ca1ec7a7cc41a1cd4c542014a6daae24eecd06235fcdcf7939cb",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 273,
+  "normalizedKey": "three days grace|on my own",
+  "playableChords": [
+    "Emadd9",
+    "D",
+    "Cadd9",
+    "Em",
+    "Gm",
+    "Asus2",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Bridge"
+    },
+    {
+      "measure": 70,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "23b1d0f71542ca1ec7a7cc41a1cd4c542014a6daae24eecd06235fcdcf7939cb",
+    "version": "BCFZ"
+  },
+  "tempo": 118,
+  "title": "On My Own",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

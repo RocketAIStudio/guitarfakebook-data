@@ -1,0 +1,118 @@
+{
+  "artist": "Waylon Jennings",
+  "artistNormalized": "waylon jennings",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[G]The only two things in life\n[D]that make it worth [G6]livin' Is\n[C]guitars that tune good and [D]firm feelin'\n[G]women\n[C]I don't need my name in the marquee\n[G]lights I\n[C]got my song and I [D]got you with me to-\n[G]night\nMaybe it's time we got\n[D]back to the basics of\n[G]love\nLet's go to\n\n[Chorus]\n[G]Luckenbach, Texas With\nWaylon and Willie and the\n[C]boys\nThis suc-\n[D]cessful life we're livin' Got us\nfeuding like the Hatfields and Mc-\n[G]Coys\nBetween\n[G7]Hank Williams' pain songs and\nNewbury's train songs and\n[C]Blue Eyes Cryin' in the Rain\n[Am]Out in\n[D]Luckenbach, Texas\nain't nobody feelin' no pain\n[G]\n[Am]\n[D]So\n\n[Verse 2]\n[G]baby, let's sell your diamond ring\n[Am]Buy some boots and [D]faded jeans and\n[G]go away\nThis\ncoat and tie is choking me\n[Am]In your high [D]society you\n[G]cry all day\n[G7]We've been so busy keepin' up\nwith the Jones\n[C]Four car garage and we're\n[Am]still building on\nMaybe it's time we got\n[D]back to the basics of\n[G]love\nLet's go to\n\n[Chorus]\n[G]Luckenbach, Texas With\nWaylon and Willie and the\n[C]boys\nThis suc-\n[D]cessful life we're livin' Got us\nfeuding like the Hatfields and Mc-\n[G]Coys\nBetween\n[G7]Hank Williams' pain songs and\nNewbury's train songs and\n[C]Blue Eyes Cryin' in the Rain\n[Am]Out in\n[D]Luckenbach, Texas\nain't nobody feelin' no pain\n[G]\nLet's go to\n\n[Chorus]\n[G]Luckenbach, Texas With\nWaylon and Willie and the boys\n[C]\nThis suc-\n[D]cessful life we're livin' Got us\nfeuding like the Hatfields and Mc-\n[G]Coys\nBetween\n[G7]Hank Williams' pain songs\nand And Jerry Jeff's train songs\n[C]and Blue Eyes Cryin' in\n[Am]the Rain Out in\n[D]Luckenbach, Texas ain't\nnobody feelin' no pain\n[G]\n\n[Outro (Fade Out)]\n[G]\n[C]\n[D]\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320000"
+      ],
+      "catalogCount": 1
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Luckenbach, Texas",
+  "id": "f9e2044d7892aa19fa5b741ae1533670353d254dfb7d58305682ed47d48ade1a",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 349,
+  "normalizedKey": "waylon jennings|luckenbach texas",
+  "playableChords": [
+    "G",
+    "D",
+    "G6",
+    "C",
+    "G7",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f9e2044d7892aa19fa5b741ae1533670353d254dfb7d58305682ed47d48ade1a",
+    "version": "BCFZ"
+  },
+  "tempo": 99,
+  "title": "Luckenbach, Texas",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

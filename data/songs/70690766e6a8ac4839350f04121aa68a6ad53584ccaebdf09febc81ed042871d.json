@@ -1,0 +1,134 @@
+{
+  "artist": "twenty one pilots",
+  "artistNormalized": "twenty one pilots",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]  [A]\n[F]  [C]\n[G]  [A]\n[F]  [C]\n\n[Chorus]\n[G][A]You were one of those classic o-\n[F]nes [C]Traveling around this\n[G]sun [A]You were one of those classic o-\n[F]nes [C]I wish she knew you\n[G][A]You were one of those classic o-\n[F]nes [C]Now everybody knows\n[G][A]You were one of those classic o-\n[F]nes, [C]yeah Al-\n\n[Post-Chorus]\n[C]right [Em]\n[Am]You're a [F]legend in my ow-\n[C]n mind [Em]\n[Am]My middle name [F]My goodbye\n\n[Verse]\n[C]You were [Em]here when I wrote\n[Am]this But the [F]masters and mi-\n[C]xes Will take [Em]too long to fi-\n[Am]nish To [F]show you\n[C]I'm sorry [Em]I did not vi-\n[Am]sit Did not [F]know how to take\n[C]it When your [Em]eyes did not know\n[Am]me Like I [F]know you\n\n[Chorus]\n[G][A]You were one of those classic o-\n[F]nes [C]Traveling around this\n[G]sun [A]You were one of those classic o-\n[F]nes [C]I wish she knew you\n[G][A]You were one of those classic o-\n[F]nes [C]Now everybody knows\n[G][A]You were one of those classic o-\n[F]nes, [C]yeah Al-\n\n[Post-Chorus]\n[C]right [Em]\n[Am]You're a [F]legend in my ow-\n[C]n mind [Em]\n[Am]My middle name [F]My goodbye\n[C]Goodbye, [Em]goodbye\n[Am], goodbye, [F]goodbye\n[C], [Em]oh\n[Am][F]Goodbye\n\n[Break]\n[C], goodbye, goodbye\n, goodbye, goodbye\nAl-\n\n[Bridge]\n[C]right [Em]\n[Am]You're a [F]legend in my ow-\n[C]n mind [Em]\n[Am]My middle name [F]My goodbye\n[C]  [Em]\n[Am]  [F]\n[C]  [Em]\n[Am]  [F]\n\n[Outro]\n[C]  [Em]\n[Am]  [F]\n[C]  [Em]\n[Am]  [F]\n[C]Then the [Em]day that it hap-\n[Am]pened I [F]recorded this last\n[C]bit I look [Em]forward to ha-\n[Am]ving A lunch [F]with you agai-\n[C]n.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Legend",
+  "id": "70690766e6a8ac4839350f04121aa68a6ad53584ccaebdf09febc81ed042871d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 271,
+  "normalizedKey": "twenty one pilots|legend",
+  "playableChords": [
+    "G",
+    "A",
+    "F",
+    "C",
+    "Em",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Break"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "70690766e6a8ac4839350f04121aa68a6ad53584ccaebdf09febc81ed042871d",
+    "version": "BCFZ"
+  },
+  "tempo": 86,
+  "title": "Legend",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

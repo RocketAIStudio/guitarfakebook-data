@@ -1,0 +1,92 @@
+{
+  "artist": "Unleashed",
+  "artistNormalized": "unleashed",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[B5]  [F5]\n[B5]  [F5]\n[B5]  [F5]\n[B5]  [F5]\n\n[Chorus]\n[B5]\n[G5]\n[C5]\n[F5]\n[B5]Your pain-\n[G5]\n[C5]my gain\n[F5]\n\n[Verse 1]\n[B5]So much\nhatred [C5][G5]\n[B5]Towards\nman [F5]\n[B5]A true\npsycho [C5][G5]\n[B5]Yes I\nam [F5]\n[B5]I will\nfeed you [C5][G5]\n[B5]With fake\ntrust [F5]\n[B5]But you'll\nmeet my [C5][G5]\n[B5]Morbid\nlust [F5]\n\n[Re-Intro]\n[B5]  [F5]\n[B5]  [F5]\n[B5]  [F5]\n[B5]  [F5]\n\n[Chorus]\n[B5]\n[G5]\n[C5]\n[F5]\n[B5]Your pain-\n[G5]\n[C5]my gain\n[F5]\n\n[Verse 2]\n[B5]Now I've\ngot you [C5][G5]\n[B5]On your\nknees [F5]\n[B5]And I'll\nuse you [C5][G5]\n[B5]As i\nplease [F5]\n[B5]When i\nkill you [C5][G5]\n[B5]Peace of\nmind [F5]\n[B5]A life\ntaken [C5][G5]\n[B5]I feel\nfine [F5]\n\n[Bridge]\n[B5]  [F5]\n[B5]  [F5]\n[B5]  [F5]\n\n[Outro]\n[B5]Aaaaah! [F5]\n[B5]  [F5]\n[B5]  [F5]",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Your Pain, My Gain",
+  "id": "934592c11c5eb364670255c52e1a76ecdc34f59b1450c6bea16f2bd8d10730db",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 65,
+  "normalizedKey": "unleashed|your pain my gain",
+  "playableChords": [
+    "B5",
+    "F5",
+    "G5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Re-Intro"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 71,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "934592c11c5eb364670255c52e1a76ecdc34f59b1450c6bea16f2bd8d10730db",
+    "version": "BCFZ"
+  },
+  "tempo": 194,
+  "title": "Your Pain, My Gain",
+  "tuning": "B E A D F# B",
+  "variantRole": "primary"
+}

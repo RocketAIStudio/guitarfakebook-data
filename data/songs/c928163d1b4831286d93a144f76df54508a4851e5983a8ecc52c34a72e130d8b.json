@@ -1,0 +1,88 @@
+{
+  "artist": "Volbeat",
+  "artistNormalized": "volbeat",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[D]Hey,\nit's back again now get it\noff my skin\nIt's back again now get it\n[G]off my skin\nMake it go\n[D]away\n\n[Verse 2]\nGo, go,\ngo all the way up to the\nfucking moon\nYeah all the way up to the\nfucking moon\nMake it go\naway\n'Cause\n\n[Chorus]\n[A]you're just\none [Ab]Little\n[G]parasite who don't\nknow Now your\n[D]time is up It's\n[A]hammer time today\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "799877",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Ab": {
+      "catalog": [
+        "688766",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x79997",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "577655",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Parasite",
+  "id": "c928163d1b4831286d93a144f76df54508a4851e5983a8ecc52c34a72e130d8b",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 76,
+  "normalizedKey": "volbeat|parasite",
+  "playableChords": [
+    "D",
+    "G",
+    "A",
+    "Ab"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c928163d1b4831286d93a144f76df54508a4851e5983a8ecc52c34a72e130d8b",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Parasite",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

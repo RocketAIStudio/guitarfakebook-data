@@ -1,0 +1,88 @@
+{
+  "artist": "Ultra Vomit",
+  "artistNormalized": "ultra vomit",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[B5]\n\n[Verse]\n[B5]Face to the oceans\nI should have been growing up\nMy face against the Earth\nI could have died\n\n[Chorus]\n[D5]Face a [E5]la mer\nJ'aurais du [C#5][D5]grandir\n[D5]Face [E5]contre Terre\nJ'aurais pu [C#5][D5]mourir\n[D5]Je me [E5]releve\nJe prends mon [C#5][D5]dernier reve\n[B5]\n\n[Bridge]\n[B5]\n[B5]\n\n[Break]\n\n[Chorus]\n[D5]Face a [E5]la mer\nJ'aurais du [C#5][D5]grandir\n[D5]Face [E5]contre Terre\nJ'aurais pu [C#5][D5]mourir\n[D5]Je me [E5]releve\nJe prends mon [C#5][D5]dernier reve\n[B5]\n\n[Outro]\n[B5]",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Calojira",
+  "id": "b8d479eb5d32ebc5fb52ea16242eaa17fe774224f4a700d64ea08eab2b955840",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 78,
+  "normalizedKey": "ultra vomit|calojira",
+  "playableChords": [
+    "B5",
+    "D5",
+    "E5",
+    "C#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Bridge"
+    },
+    {
+      "measure": 36,
+      "name": "Break"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b8d479eb5d32ebc5fb52ea16242eaa17fe774224f4a700d64ea08eab2b955840",
+    "version": "BCFZ"
+  },
+  "tempo": 89,
+  "title": "Calojira",
+  "tuning": "B F# B E G# C#",
+  "variantRole": "primary"
+}

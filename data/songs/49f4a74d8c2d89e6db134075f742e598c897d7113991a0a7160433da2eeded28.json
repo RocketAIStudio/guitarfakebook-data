@@ -1,0 +1,81 @@
+{
+  "artist": "XXXTENTACION",
+  "artistNormalized": "xxxtentacion",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Fmaj7]\n[G6]\n[C]\n[Fmaj7]\n[G6]\n[C]\nWhat are you\n\n[Chorus]\n[Fmaj7]so\n[G6]afraid\n[C]of?\nIs it love\n[Fmaj7]or was-\n[G6]ting your ti-\n[C]me?\nWhat are you\n[Fmaj7]so\n[G6]afraid\n[C]of?\nIs it love\n[Fmaj7]or was-\n[G6]ting your ti-\n[C]me?\n\n[Bridge]\n[Fmaj7]\n[G6]\n[C]\n[Fmaj7]\n[G6]\n[C]\nWhat are you\n\n[Chorus]\n[Fmaj7]so\n[G6]afraid\n[C]of?\nIs it love\n[Fmaj7]or was-\n[G6]ting your ti-\n[C]me?\nWhat are you\n[Fmaj7]so\n[G6]afraid\n[C]of?\nIs it love\n[Fmaj7]or was-\n[G6]ting your ti-\n[C]me?\n\n[Outro (Fade Out)]\n[Fmaj7]\n[G6]\n[C]\n[Fmaj7]\n[G6]\n[C]\n[Fmaj7]\n[G6]\n[C]\n[Fmaj7]\n[G6]\n[C]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "133210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "what are you so afraid of",
+  "id": "49f4a74d8c2d89e6db134075f742e598c897d7113991a0a7160433da2eeded28",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 64,
+  "normalizedKey": "xxxtentacion|what are you so afraid of",
+  "playableChords": [
+    "Fmaj7",
+    "G6",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "49f4a74d8c2d89e6db134075f742e598c897d7113991a0a7160433da2eeded28",
+    "version": "BCFZ"
+  },
+  "tempo": 103,
+  "title": "what are you so afraid of",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

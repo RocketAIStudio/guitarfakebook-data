@@ -1,0 +1,137 @@
+{
+  "artist": "Thirty Seconds To Mars",
+  "artistNormalized": "thirty seconds to mars",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C]\n[Am7]\n[G]  [Gsus4]\n[Fsus2]\n\n[Verse 1]\n[C]Never meant to cause you any\n[Am7]sorrow\n[G][Gsus4]Never meant to cause you any\n[Fsus2]pain\n[C]I only want one time to see you\n[Am7]laughing\n\n[Pre-Chorus]\n[G]Imagine all the people\n[G]living for [C]today We can be\n\n[Chorus]\n[A#add9]heroes, [F]just for one\n[C]day We can be he-\n[A#add9]roes, [F]just for one\n[C]day\nHoney, I know, I know I know times are chan-\n\n[Verse 2]\n[C]ging\n[Am7]\n[G]It's time we all reach out [Gsus4]For something new,\n[Am7]that means you\n[C]You say you want a leader\n[Am7]But you can't seem to make up your mind\n\n[Pre-Chorus]\n[G]Imagine all the people\nliving for [C]today We can be\n\n[Chorus]\n[A#add9]heroes, [F]just for one\n[C]day We can be he-\n[A#add9]roes, [F]just for one\n[C]day We can be\n[A#add9]heroes, [F]just for one\n[C]day Purple\n[A#add9]rain, [F]purple rain\n[C]\n\n[Bridge]\n[C]Freedom,\n[A#add9]freedom,\n[F]freedom Can i\n[C]give what you take\n[C]Freedom,\n[A#add9]freedom,\n[F]freedom Can I\n[C]give what you take We can be\n\n[Chorus]\n[A#add9]heroes, [F]just for one\n[C]day We can be he-\n[A#add9]roes, [F]just for one\n[C]day We can be\n[A#add9]heroes, [F]just for one\n[C]day Purple\n[A#add9]rain, [F]purple rain\n[C]\n\n[Outro]\n[A#add9]Crawling in [F]my skin These\n[C]wounds they will not heal Black hole\n[A#add9]sun, won't you come? [F]Won't you come?\n[C]\n[A#add9]Crawling in my [F]skin These\n[C]wounds they will not heal Black hole\n[A#add9]sun, won't you come [F]And\n[C]wash away the rain?",
+  "diagrams": {
+    "A#add9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "Am7": {
+      "catalog": [
+        "x2023x",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "xx0232",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "320033",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "Fsus2": {
+      "catalog": [
+        "3x023x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "x0222x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus4": {
+      "catalog": [
+        "x0223x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Tribute Song",
+  "id": "d8ac65f1c60b135c6a333bb0e664a3e0023e7af3eac1037912f59661b9b3657f",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 248,
+  "normalizedKey": "thirty seconds to mars|the tribute song",
+  "playableChords": [
+    "C",
+    "Am7",
+    "G",
+    "Gsus4",
+    "Fsus2",
+    "A#add9",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d8ac65f1c60b135c6a333bb0e664a3e0023e7af3eac1037912f59661b9b3657f",
+    "version": "BCFZ"
+  },
+  "tempo": 63,
+  "title": "The Tribute Song",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

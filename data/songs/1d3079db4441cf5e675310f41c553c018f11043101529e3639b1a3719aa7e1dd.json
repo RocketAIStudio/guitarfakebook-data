@@ -1,0 +1,104 @@
+{
+  "artist": "Yeah Yeah Yeahs",
+  "artistNormalized": "yeah yeah yeahs",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[D]\n[Em]  [C]\n[G]  [D]\n[Em]  [G]\n[G]  [D]\n[Em]  [C]\n[G]  [D]\n[Em]  [G]\n\n[Verse 1]\n[G]Things are [D]feelin pin\n[Em]Well i [C]know i know\n[G]Lost my [D]seed again\n[Em]Well i'll [G]go i'll go\n[G]Pushin' in [D]the pin\n[Em]Well i know [C]i know\n[G]We're gonna go [D]back in\nWe're gonna [G]go go go\n\n[Chorus]\n[D]\n[G]Bam bam bam bam bam bam bam bam\n[D]Duhna duhna duhna duhna\n[G]Bam bam bam bam bam bam bam bam\n[D]Duhna duhna duhna duhna\n[G]Bam bam bam bam bam bam bam bam\n[D]Duhna duhna duhna duhna\n[G]Bam bam bam bam bam bam bam bam\n\n[Interlude]\n[Em]bam\n[D]\n[Em]\n[D]\n[Em]\n\n[Verse 2]\n[G]I like to [D]sleep with them\n[Em]Pushin' [C]in the pin\n[G]I like to sleep [D]with them\n[Em]Well i know [G]i know\n[G]We're gonna go [D]back in\n[Em]We're gonna [C]go go go\n[G]We're gonna go [D]back in\nWe're gonna [G]go go go\n\n[Chorus]\n[D]\n[G]Bam bam bam bam bam bam bam bam\n[D]Duhna duhna duhna duhna\n[G]Bam bam bam bam bam bam bam bam\n[D]Duhna duhna duhna duhna\n[G]Bam bam bam bam bam bam bam bam\n[D]Duhna duhna duhna duhna\n[G]Bam bam bam bam bam bam bam bam\n\n[Outro]\n[Em]bam",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pin",
+  "id": "1d3079db4441cf5e675310f41c553c018f11043101529e3639b1a3719aa7e1dd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 202,
+  "normalizedKey": "yeah yeah yeahs|pin",
+  "playableChords": [
+    "G",
+    "D",
+    "Em",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1d3079db4441cf5e675310f41c553c018f11043101529e3639b1a3719aa7e1dd",
+    "version": "BCFZ"
+  },
+  "tempo": 109,
+  "title": "Pin",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

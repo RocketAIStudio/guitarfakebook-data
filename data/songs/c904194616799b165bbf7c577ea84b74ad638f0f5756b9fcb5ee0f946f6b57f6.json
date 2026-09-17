@@ -1,0 +1,123 @@
+{
+  "artist": "William Bolton",
+  "artistNormalized": "william bolton",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\n[Em]\n[Am]\n[Em7]\n[Am]\n[Em]\n[Am]\nIt's\n\n[Verse 1]\n[Am]4 AM, you're calling again\n[Em]So why can't we be friends?\n[Am]The cycle never ends,\n[Em7]oh oh And I can taste the\n[Am]alcohol Knowing that you don't\n[Em]care at all Telling me that you're\n[Am]still in love That's when I say goodbye\n[Em7]But I\n[Am]hate goodbyes Always seem to fake you\n[Em]by surprise 'Cause people coming in and\n[Am]out your life Never get the chance to\n[Em7]realize It's way too cold for\n[Am]midJuly Chilling by myself and\n[Em]getting high Don't know why I\n[Am]feel so low, woahohwoah You\n[Em7]hurt me more than you could know\n\n[Chorus]\n[Am7]Baby, you drive me crazy The\n[Em]only thing I think about lately Is\n[Am7]how I'm slowly fading,\n[Em]fading, fading\n[Am7]Baby, you drive me crazy The\n[Em]only thing I think about lately Is\n[Am7]how I'm slowly fading,\n[Em]fading, fading\n\n[Bridge]\n[Am]\n[Em]\n[Am]\n[Em7]\n[Am]\n[Em]\n[Am]\n[Em7]\n\n[Verse 2]\n[Am]Girl, you got me fading Yeah, I ain't even playing I\n[Em]know that I'd be drunk And probably should have said this But\n[Am]I don't love you no more Felt so\n[Em7]good when I closed that door I never\n[Am]knew that we'd get this far I never\n[Em]knew that it'd be this hard But\n[Am]everything it has to fall a-\n[Em7]part\n\n[Chorus]\n[Am]Baby, you drive me crazy The\n[C]only thing I think about lately Is\nhow I'm slowly fading,\nfading, fading\n[Am]Baby, you drive me crazy The\n[C]only thing I think about lately Is\nhow I'm slowly fading,\nfading, fading\n\n[Interlude]\n[Am]\n[C]\n[Am]\n[C]\n\n[Solo]\n[Am]\n[Em]\n[Am]\n[Em7]\n[Am]\n[Em]\n[Am]\n[Em7]\n\n[Chorus]\n[Am]Baby, you drive me crazy The\n[Em]only thing I think about lately Is\n[Am]how I'm slowly fading,\n[Em7]fading, fading\n[Am]Baby, you drive me crazy The\n[Em]only thing I think about lately Is\n[Am]how I'm slowly fading,\n[Em7]fading, fading",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Fading",
+  "id": "c904194616799b165bbf7c577ea84b74ad638f0f5756b9fcb5ee0f946f6b57f6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 357,
+  "normalizedKey": "william bolton|fading",
+  "playableChords": [
+    "Am",
+    "Em",
+    "Em7",
+    "Am7",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Interlude"
+    },
+    {
+      "measure": 67,
+      "name": "Solo"
+    },
+    {
+      "measure": 75,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c904194616799b165bbf7c577ea84b74ad638f0f5756b9fcb5ee0f946f6b57f6",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Fading",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

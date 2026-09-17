@@ -1,0 +1,100 @@
+{
+  "artist": "Wilbur Soot",
+  "artistNormalized": "wilbur soot",
+  "capo": "3",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]  [Cadd9]\n[Em7]\n[G]  [Cadd9]\n[Em7]\n[G]  [Cadd9]\n[Em7]\n[G]  [Cadd9]\n[Em7]\n\n[Verse 1]\n[G]He [Cadd9]never had cool sto-\n[Em7]ries He doesn't make your heart\n[G]beat [Cadd9]Used to love his mys-\n[Em7]tery But now he's just exhau-\n[G]sting [Cadd9]Another day spent\n[Em7]just laying in his room\n[G]The stench of [Cadd9]incense\n[Em7]And some undelivered\n\n[Bridge]\n[G]food [Cadd9]\n[Em7]\n[G]And [Cadd9]\n\n[Chorus]\n[G]And [Dsus4/F#]she\n[Em7]thought \"What if [Cadd9]he thinks I'm the one?\n[G]And I'll be [Dsus4/F#]forced to rot a-\n[Em7]way With [Cadd9]him and his obses-\n[G]sions With [Dsus4/F#]trivial things\n[Em7][Cadd9]Like the\n[G]amount of [Dsus4/F#]fucking love hearts I\n[Em7]finish a text [Cadd9]message with\"\n\n[Bridge]\n[G]  [Dsus4/F#]\n[Em7]\n[G]  [Cadd9]\n[Em7]\n\n[Verse 2]\n[G]And [Cadd9]when you hold his hands\n[Em7]It doesn't feel like\n[G]flying And [Cadd9]when you take his breath\n[Em7]away He might as well be dy-\n[G]ing And [Cadd9]you're dying to breathe\n[Em7]You're trapped in his cage\n[G][Cadd9]And it's\n[Em7]shrinking\n\n[Chorus]\n[G]And [Dsus4/F#]she\n[Em7]thought \"What if he [Cadd9]just never\n[G]leaves? Or if [Dsus4/F#]he doesn't get the mes-\n[Em7]sage? And he doesn't [Cadd9]hear my pleas?\"\n[G]So [Dsus4/F#]she just started\n[Em7]screaming [Cadd9]\n\n[Outro]\n[G]\"Why can't [Dsus4/F#]he just\n[Em7]bore [Cadd9]me to death?\"\n[G]\"Why can't [Dsus4/F#]he just\n[Em7]bore [Cadd9]me to death?\" \"Oh,\n[G]why can't [Dsus4/F#]he just\n[Em7]bore [Cadd9]me to death?\"\n[G]\"Why can't [Dsus4/F#]he just\n[Em7]bore [Cadd9]me to death?\" \"Oh,\n[G]why can't [Dsus4/F#]he just\n[Em7]bore [Cadd9]me to death?\"\n[G]\"Why can't [Dsus4/F#]he just\n[Em7]bore [Cadd9]me to death?\" \"Oh,\n[G]Why can't [Dsus4/F#]he just\n[Em7]bore [Cadd9]me to death?\"",
+  "diagrams": {
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus4/F#": {
+      "catalog": [
+        "200033"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "022033",
+        "020033",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Maybe I was Boring",
+  "id": "dd913c59aae3d831ce2084aaaf9fd6ff4518e5f4ec472228e33488704a1f2be4",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 226,
+  "normalizedKey": "wilbur soot|maybe i was boring",
+  "playableChords": [
+    "G",
+    "Cadd9",
+    "Em7",
+    "Dsus4/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dd913c59aae3d831ce2084aaaf9fd6ff4518e5f4ec472228e33488704a1f2be4",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Maybe I was Boring",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

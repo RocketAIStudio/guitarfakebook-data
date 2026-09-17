@@ -1,0 +1,101 @@
+{
+  "artist": "Wire",
+  "artistNormalized": "wire",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 8,
+  "content": "[A5]  [E5]\n[G5]  [E5]\n[G5]\n[A5]\n[E5]\n[G5]  [A5]  [G5]\n[E5]  [G5]\n[A5]\n\n[Verse]\n[A5]It's [E5]so\n[A5][G5]obvious, [E5]\nit's here, it's [G5]\n[A5]there\nIt's [E5]not\n[G5]just the [A5]colour [G5]\n[E5]It must be [G5]\n[A5]more, at\n[E5]Least [G5]seventeenthreescore\n[A5]\n[A5]This [E5]is\n[A5][G5]seventyseven, [G5]\n[E5]nearly [G5]\n[A5]heaven\nIt's [E5]black,\n[G5]white, [A5]and pink, [G5]\n[E5][G5]just\n[A5]think [G5]There's\n[E5]more [G5]to\n[A5]come [G5]Hum-\n[E5]hum, [G5]hum-\n[A5]hum [G5]It's so\n[G5][E5]obvi-\n\n[Chorus]\n[A5]ous [G5]Well\n[A5]it's alright,\nlisten Can't\n[B5]wait for seventy-\n[B5]eight [E5][F#5][A5]\n\n[Outro]\n[C5]God those\nRPM, can't\n[D5]wait for them\nDon't just watch,\n[E5]hours happen\nGet in there kid and\n[F5]snap them",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "10-12-12-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx",
+        "12-14-14-x-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "13-15-15-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "It's So Obvious",
+  "id": "2daf10ca5c19397dcd5d9d2273a6b331f16bf15cd484b893631d8faa7ac5e61a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 88,
+  "normalizedKey": "wire|it s so obvious",
+  "playableChords": [
+    "A5",
+    "E5",
+    "G5",
+    "B5",
+    "F#5",
+    "C5",
+    "D5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2daf10ca5c19397dcd5d9d2273a6b331f16bf15cd484b893631d8faa7ac5e61a",
+    "version": "BCFZ"
+  },
+  "tempo": 200,
+  "title": "It's So Obvious",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

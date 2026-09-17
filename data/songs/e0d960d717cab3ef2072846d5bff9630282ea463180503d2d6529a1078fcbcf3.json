@@ -1,0 +1,111 @@
+{
+  "artist": "Wire",
+  "artistNormalized": "wire",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\n\n[Chorus]\n[E5]Mary is a dyke [D5]\n[E5]Mary is a dyke [D5]\n[E5]Mary [D5]is a, [E5]Mary [D5]is a\n[E5]Mary [D5]is a [E5]dyke [D5]\n\n[Verse 1]\n[A5]Acting like a bear?\n[B5]Dolly in her hair?\n[A5]Talking to her brother?\n[B5]Going down the stairs?\n[A5]  [E5]  [D5]\n\n[Chorus]\n[E5]Mary is a dyke [D5]\n[E5]Mary is a dyke [D5]\n[E5]Mary [D5]is a, [E5]Mary [D5]is a\n[E5]Mary [D5]is a [E5]dyke [D5]\n\n[Verse 2]\n[A5]Finding no relief?\n[B5]Playing with the beat?\n[A5]Ladies know her action?\n[B5]You know she can be beat?\n[A5]  [E5]  [D5]\n\n[Bridge]\n[E5]  [D5]\n[E5]  [D5]\n[E5]  [D5]  [E5]  [D5]\n[E5]  [D5]  [E5]  [D5]\n\n[Interlude]\n[A5]\n[B5]\n[A5]\n[B5]\n[A5]  [E5]  [D5]\n\n[Chorus]\n[E5]Mary is a dyke [D5]\n[E5]Mary is a dyke [D5]\n[E5]Mary [D5]is a, [E5]Mary [D5]is a\n[E5]Mary [D5]is a [E5]dyke [D5]\n\n[Verse 3]\n[A5]Hurry in and get her?\n[B5]Take the fucking\n[A5]body? There is no heada-\n[B5]che? 'Cos I couldn't\n[A5]  [E5]  [D5]\n\n[Chorus]\n[E5]get a hallow? Mary [D5]\n[E5]is a dyke Mary [D5]\n[E5]is a [D5]dyke [E5]Mary [D5]\n[E5]is a [D5]dyke [E5]Mary [D5]\n[E5]is a dyke Mary [D5]\n[E5]is a dyke Mary [D5]\n[E5]is a dyke Mary\nis\na",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mary Is a Dyke",
+  "id": "e0d960d717cab3ef2072846d5bff9630282ea463180503d2d6529a1078fcbcf3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 169,
+  "normalizedKey": "wire|mary is a dyke",
+  "playableChords": [
+    "E",
+    "E5",
+    "D5",
+    "A5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 23,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Interlude"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e0d960d717cab3ef2072846d5bff9630282ea463180503d2d6529a1078fcbcf3",
+    "version": "BCFZ"
+  },
+  "tempo": 185,
+  "title": "Mary Is a Dyke",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

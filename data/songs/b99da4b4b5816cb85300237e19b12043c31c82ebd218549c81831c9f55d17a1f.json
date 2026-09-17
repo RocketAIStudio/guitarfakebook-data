@@ -1,0 +1,118 @@
+{
+  "artist": "Wipers",
+  "artistNormalized": "wipers",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A5]\n[A]  [B]\n[A5]\n[A]\n[B]\n\n[Verse 1]\n[E]You think I'm\n[F#m]retrospective\n[G#]Of someone you\n[A]used to [B]know\n[E]I think it's\n[F#m]indecision\n[G#]That leaves us a\n[A]long way to [B]go\n[A5]But you say It's\nnot that way Try to\nmake amends It will\n[A]never\n[B]end\n\n[Pre-Chorus]\n[E]You don't\ncare about it\n[F#m]You don't\ncare about it\n[E]You don't\ncare about it\n[F#m]You don't\ncare about it\n\n[Chorus]\n[A]Can't you\n[B]see\nIt's a\n[A]myste-\n[F#m]ry\n[B]\n\n[Verse 2]\n[E]I've always\n[F#m]tried to wonder\n[G#]How it must feel\n[A]to be [B]real\n[E]In one door\n[F#m]out the other\n[G#]Undercover Do\n[A]you think it [B]shows\n[A5]But you say It's\nnot that way Try to\nmake amends It will\n[A]never\n[B]end\n\n[Pre-Chorus]\n[E]You don't\ncare about it\n[F#m]You don't\ncare about it\n[E]You don't\ncare about it\n[F#m]You don't\ncare about it\n\n[Chorus]\n[A]Can't you\n[B]see\nIt's a\n[A]myste-\n[F#m]ry\n[B]  [A]\n[F#m]\n[B]  [A]\n[F#m]\n[B]  [A]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "x02255"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x2444x",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mystery",
+  "id": "b99da4b4b5816cb85300237e19b12043c31c82ebd218549c81831c9f55d17a1f",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 157,
+  "normalizedKey": "wipers|mystery",
+  "playableChords": [
+    "A5",
+    "A",
+    "B",
+    "E",
+    "F#m",
+    "G#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 54,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b99da4b4b5816cb85300237e19b12043c31c82ebd218549c81831c9f55d17a1f",
+    "version": "BCFZ"
+  },
+  "tempo": 165,
+  "title": "Mystery",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

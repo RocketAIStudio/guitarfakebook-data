@@ -1,0 +1,108 @@
+{
+  "artist": "Two Feet",
+  "artistNormalized": "two feet",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n[Dm]\n[F]\n[G]\n[Am]\nI'm\n\n[Verse 1]\n[Am]flyin',\nI'm flyin' high\n[Dm]like a bird\nBut my\n[F]fluttering wings can't\n[G]keep you from pullin' me\n[Am]down\nYour\n[Am]mama,\nyour mama says\n[Dm]I'm a fool\nAnd yeah,\n[F]maybe that's true 'cause\n[G]I can't stop thinkin' 'bout\n\n[Bridge]\n[Am]you\n\n[Break]\n[Dm]\n[F]\n[Am]\n[G]\n[Dm]\n[F]\n[Am]\n[G]\nI'm\n\n[Verse 2]\n[Am]tryin',\nI'm tryin' not to\n[Dm]forget my words\n'Cause\n[F]when I'm around you, I\n[G]tend to keep changin' my\n[Am]mind\nI\n[Am]promised,\nI promised my-\n[Dm]self not to slip\nback into old\n[F]habit 'Cause heartbreak is\n[G]savage and love is a\n\n[Bridge]\n[Am]bitch\n\n[Break]\n[Dm]\n[F]\n[Am]\n[G]\n[Dm]\n[F]\n[Am]\n[G]\n\n[Outro]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Love Is a Bitch",
+  "id": "257977adf08f36516a0fe2a4012332e45f4ba16e0cb269d8618511a36a81ed59",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 101,
+  "normalizedKey": "two feet|love is a bitch",
+  "playableChords": [
+    "Am",
+    "Dm",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Bridge"
+    },
+    {
+      "measure": 26,
+      "name": "Break"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 56,
+      "name": "Bridge"
+    },
+    {
+      "measure": 58,
+      "name": "Break"
+    },
+    {
+      "measure": 74,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "257977adf08f36516a0fe2a4012332e45f4ba16e0cb269d8618511a36a81ed59",
+    "version": "BCFZ"
+  },
+  "tempo": 75,
+  "title": "Love Is a Bitch",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

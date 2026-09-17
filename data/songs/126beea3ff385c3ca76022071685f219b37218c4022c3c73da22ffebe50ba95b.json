@@ -1,0 +1,113 @@
+{
+  "artist": "Tigers Jaw",
+  "artistNormalized": "tigers jaw",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Am]\n\n[Verse 1]\n[Am]Lie to me,\n[G]like you used\n[F]to Tell me\n[Am]everything is [G]how it should be\n[Am]Lie to me,\n[G]did you have\n[F]to? 'Cause in the\n[Am]end, it never [G]matters what I\n[D7sus2]think\nAnd I can\n[Am]barely tell the sky from the shore-\n[F]line And I can\n[Am]see myself reflected in your\n[F]eyes And this was all a dream\n\n[Chorus]\n[C]And it's coming back to me\n[Cadd9/B]A portrait in grey\n[Am]scale A perfect betray-\n[D7sus2]al And I can't even breathe\n[C]With this weighing on my\n[Cadd9/B]chest You knew me at my\n[Am]best Now, I can't even stand\n[D7sus2]on my own\n[F]\n[D7sus2]\n[Am]  [G]\n[Dsus4/F#]\n[F]\n\n[Guitar Solo]\n[F]\n[D7sus2]\n[Am]\n[G]\n[F]\n[D7sus2]\n[Am]\n[G]\n[F]\n[D7sus2]\n[Am]\n[G]\n[F]\n[D7sus2]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9/B": {
+      "catalog": [
+        "x20010"
+      ],
+      "catalogCount": 1
+    },
+    "D7sus2": {
+      "catalog": [
+        "xx0210"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus4/F#": {
+      "catalog": [
+        "200033"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Plane vs. Tank vs. Submarine",
+  "id": "126beea3ff385c3ca76022071685f219b37218c4022c3c73da22ffebe50ba95b",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 113,
+  "normalizedKey": "tigers jaw|plane vs tank vs submarine",
+  "playableChords": [
+    "Am",
+    "G",
+    "F",
+    "D7sus2",
+    "C",
+    "Cadd9/B",
+    "Dsus4/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Guitar Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "126beea3ff385c3ca76022071685f219b37218c4022c3c73da22ffebe50ba95b",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Plane vs. Tank vs. Submarine",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

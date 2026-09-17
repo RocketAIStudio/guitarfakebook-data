@@ -1,0 +1,118 @@
+{
+  "artist": "Twenty One Pilots",
+  "artistNormalized": "twenty one pilots",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\n[Am]\n[Em]\n[C]\n[Em]\n[Dsus4]\n[D]\n\n[Verse 1]\n[G]You will never know\n[Am]what's behind my skull\n[Em]So won't you say good night,\nso I can say goodbye\n[C]You will never know\n[Em]what's under my hair\n[Dsus4]So won't you say good night,\n[D]so I can say goodbye\n[G]You will never know\n[Am]what's under my skin\n[Em]So won't you say good night,\nso I can say goodbye\n[C]You will never know\n[Em]what is in my veins\n[Dsus4]So won't you say good night,\n[D]so I can say goodbye\n\n[Chorus]\n[G]Won't you go to\n[Am]someone else's dreams?\n[Em]Won't you go to\nsomeone else's head?\n[C]Haven't you ta-\n[Em]ken enough from me?\n[Dsus4]Won't you torture\n[D]someone else's sleep?\n\n[Verse 2]\n[G]And you will never know\n[Am]what I'm thinking of\n[Em]So won't you say good night,\nso I can say goodbye\n[C]And you will never un-\n[Em]derstand what I belie-\n[Dsus4]ve So won't you say good\n[D]night So I can say good-\n\n[Bridge]\n[Em]bye?\n[G]\n[Am]\n[C]\n[Em]\n[G]\n[Am]\n[C]\n[Em]Haven't you ta-\n[G]ken enough from me?\n[Am]Won't you torture\n[C]someone else's sleep?\n[Em]Won't you go to\n[G]someone else's dreams?\n[Am]Won't you go to\n[C]someone else's head?\n[Em]Haven't you ta-\n[G]ken enough from me?\n[Am]Won't you torture\n[C]someone else's sleep?\n\n[Verse 3]\n[Em]I start to part two halves of my heart in the dark and I\n[G]Don't know where I should go and the tears and the fears begin to multiply\n[Am]Taking time in a simple place, in my bed where my head rests on a pillowcase And it's\n[C]said that a war's lead but I forget that I let another day go by\n[Em]I want to be afraid but it seems that these days I'm caught under water and I'm falling farther\n[G]My heart's getting harder, I'm calling my father Am I screaming to an empty sky?\n[Am]Empty sky, no way, that's me cause one half of my heart is free\n[C]Empty sky, no way, that's me, cause the other half of my heart's asleep",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus4": {
+      "catalog": [
+        "xx0233"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Anathema",
+  "id": "bba70985f14db8281719facc41082bd978ec122666d6b27527de21d1c6492775",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 373,
+  "normalizedKey": "twenty one pilots|anathema",
+  "playableChords": [
+    "G",
+    "Am",
+    "Em",
+    "C",
+    "Dsus4",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bba70985f14db8281719facc41082bd978ec122666d6b27527de21d1c6492775",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "Anathema",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

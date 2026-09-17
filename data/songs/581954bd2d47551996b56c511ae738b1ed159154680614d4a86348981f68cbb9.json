@@ -1,0 +1,127 @@
+{
+  "artist": "Travis Tritt",
+  "artistNormalized": "travis tritt",
+  "capo": "4",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]\n[C]\n[G]\n[C]I can't hide\n\n[Verse 1]\n[G]the way I feel about\n[D]you Anymore\n[C]\n[D]I can't hold\n[G]the hurt inside, keep the pain\n[D]out of my eyes Anymore\n[C]\n[D]\n\n[Chorus]\n[C]My tears no longer wait-\n[D]ing\n[C]My resistance ain't that strong\n[D]\n[C]My mind keeps recrea-\n[D]ting A [B7]life with you alone\n[Em]And I'm\n[C]tired of [D]pretending\n[C]I don't [D]love you anymore\n\n[Break]\n[G]\n[C]Let me make\n\n[Verse 2]\n[G]one last appeal to show\n[D]you how I feel About you\n[C]\n[D]'Cause there's no\n[G]one else, I swear, holds a can-\n[D]dle anywhere Next to you\n[C]\n[D]\n\n[Chorus]\n[C]My heart can't take the beat-\n[D]ing\n[C]Not having you to hold\n[D]\n[C]A small voice keeps repea-\n[D]ting [B7]Deep inside my soul\n[Em]It says I\n[C]can't keep [D]pretending\n[C]I don't [D]love you anymore\n[G]\n\n[Bridge]\n[Em]I've got to take the chance or\n[C]let it pass by\n[Em]If I expect to get on\n[D]with my life\n\n[Solo]\n[G]\n[D]\n[C]\n[D]\n[G]\n[D]\n[C]\n[D]\n\n[Chorus]\n[C]My tears no longer wait-\n[D]ing\n[C]My resistance ain't that strong\n[D]\n[C]But my mind keeps recrea-\n[D]ting A [B7]life with you a-\n[Em]lone And I'm\n[C]tired of [D]pretending\n[C]I don't [D]love you anymore\n\n[Outro]\n[G]\n[C]Anymore\n[G]\n[C]Any-\n[G]more",
+  "diagrams": {
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Anymore",
+  "id": "581954bd2d47551996b56c511ae738b1ed159154680614d4a86348981f68cbb9",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 213,
+  "normalizedKey": "travis tritt|anymore",
+  "playableChords": [
+    "G",
+    "C",
+    "D",
+    "B7",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Break"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    },
+    {
+      "measure": 47,
+      "name": "Solo"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "581954bd2d47551996b56c511ae738b1ed159154680614d4a86348981f68cbb9",
+    "version": "BCFZ"
+  },
+  "tempo": 74,
+  "title": "Anymore",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,132 @@
+{
+  "artist": "Vashti Bunyan",
+  "artistNormalized": "vashti bunyan",
+  "capo": "No capo",
+  "chordPositionCount": 28,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\nAnd there's a\n\n[Verse 1]\n[Am/E][F]sunset\n[G]brimming over the\n[Cmaj7]sky [G/B]\n[Am]And there's a\n[Am/E][F]swallow\n[G]teaching it's young how to\n[Cmaj7]fly [G/D]\n[Em][G/D]Up on\n[Am]high\nSee how\n[F]fast the\n[G]summer passes\n[G]by\n[Cmaj7]  [G/D]\n[Em]  [G/D]\n[Am]And there's an\n\n[Verse 2]\n[F]oak [Am/E]leaf\n[G]turning green into\n[Cmaj7]brown [G/B]\n[Am]And there's a\n[F]pine [Am/E]so\n[G]proud of her evergreen\n[Cmaj7]gown [G/D]\n[Em][G/D]Looking\n[Am]down\nSee how\n[F]fast the\n[G]winter comes a-\n[G]round\n[Cmaj7]  [G/D]\n[Em]  [G/D]\n[Am]La la la\n\n[Interlude]\n[F]la [Am/E]la\n[G]la la la la la\n[Cmaj7]la [G/B]\n[Am]La la la\n[F]la [Am/E]la la\n[G]la la la la la la\n[Cmaj7]la [G/D]\n[Em][G/D]La la\n[Am]la\nla la\n[F]la la\n[G]la la la la\n[G]la\n[Cmaj7]  [G/D]\n[Em]  [G/D]\n[Am]And there's a\n\n[Verse 3]\n[F]rain [Am/E]cloud\n[G]passing over our\n[Cmaj7]heads [G/B]\n[Am]And there's a\n[F]cat [Am/E]on the\n[G]doorstep waiting to be\n[Cmaj7]fed [G/D]\n[Em][G/D]Milk and\n[Am]bread\nDay is\n[F]done and\n[G]now it's time for\n\n[Outro]\n[G]bed\n[Cmaj7]  [G/D]\n[Em]  [G/D]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am/E": {
+      "catalog": [
+        "002210"
+      ],
+      "catalogCount": 1
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20003"
+      ],
+      "catalogCount": 1
+    },
+    "G/D": {
+      "catalog": [
+        "xx0003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Swallow Song",
+  "id": "9518139daa3024863b2722ea1d2d0b08bd6e92a294a04c035b199026033cecc9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 142,
+  "normalizedKey": "vashti bunyan|swallow song",
+  "playableChords": [
+    "F",
+    "Am/E",
+    "G",
+    "Cmaj7",
+    "G/B",
+    "Am",
+    "G/D",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Interlude"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 62,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9518139daa3024863b2722ea1d2d0b08bd6e92a294a04c035b199026033cecc9",
+    "version": "BCFZ"
+  },
+  "tempo": 93,
+  "title": "Swallow Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

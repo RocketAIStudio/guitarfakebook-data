@@ -1,0 +1,135 @@
+{
+  "artist": "U2",
+  "artistNormalized": "u2",
+  "capo": "No capo",
+  "chordPositionCount": 29,
+  "chordSymbolCount": 9,
+  "content": "[Verse 1]\n[Asus2]\n[Gadd9]\n[Asus2]\n[Gadd9]  [Dm7]\n\n[Verse 2]\n[Asus2]\n[Gadd9]\n[Asus2]\n[Gadd9]  [Dm7]\n\n[Bridge]\n[G]\n[Fadd9]\n[Cadd9]  [C]\n[Cadd9]  [C]\n[Fadd9]  [Fmaj7]\nOc-\n\n[Verse 3]\n[Asus2]tober And the\ntrees are stripped bare Of\n[Gadd9]all they wear\nWhat do I care Oc-\n[Asus2]tober And\nkingdoms rise And\n[Gadd9]kingdoms fall [Dm7]But\nyou go on...\nand\n\n[Bridge]\n[G]on...\n[Am]\n[Dm7]\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32030"
+      ],
+      "catalogCount": 1
+    },
+    "Dm7": {
+      "catalog": [
+        "xx0211",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Fadd9": {
+      "catalog": [
+        "xx3213"
+      ],
+      "catalogCount": 1
+    },
+    "Fmaj7": {
+      "catalog": [
+        "xx3210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gadd9": {
+      "catalog": [
+        "320203"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "October *alt",
+  "id": "6e4d2b7e15f20fec6d6c457af85d1b2b385547aea146dbdbd70e184d3f9a369f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 34,
+  "normalizedKey": "u2|october",
+  "playableChords": [
+    "Asus2",
+    "Gadd9",
+    "Dm7",
+    "G",
+    "Fadd9",
+    "Cadd9",
+    "C",
+    "Fmaj7",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6e4d2b7e15f20fec6d6c457af85d1b2b385547aea146dbdbd70e184d3f9a369f",
+    "version": "BCFZ"
+  },
+  "tempo": 86,
+  "title": "October",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

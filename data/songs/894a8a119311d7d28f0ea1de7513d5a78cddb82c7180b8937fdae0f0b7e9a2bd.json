@@ -1,0 +1,112 @@
+{
+  "artist": "Thirty Seconds To Mars",
+  "artistNormalized": "thirty seconds to mars",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[B5]  [C#5]\n[G#5]\n[B5]  [C#5]\n[G#5]\n\n[Verse 1]\n[B5]I've been [C#5]thinking of e-\n[G#5]verything I used\n[B5]to want [C#5]to be\n[G#5]\n[B5]I've been [C#5]thinking of e-\n[G#5]verything Of me,\n[B5]of you [C#5]and me\n[G#5]This is the sto-\n\n[Chorus]\n[B5]ry of [C#5]my life\n[G#5]These are the lies\n[B5]I have [C#5]crea\n[G#5]ted This is the sto-\n[B5]ry of [C#5]my life\n[G#5]These are the lies\n[B5]I have [C#5]crea\n[G#5]ted\n\n[Bridge]\n[E5]\n[B/E]\n\n[Verse 2]\n[B5]I'm in the [C#5]middle of no-\n[G#5]thing And it's where\n[B5]I want [C#5]to be\n[G#5]\n[B5]I'm at the [C#5]bottom of e\n[G#5]verything And I final\n[B5]ly start [C#5]to leave\n[G#5]This is the sto-\n\n[Chorus]\n[B5]ry of [C#5]my life\n[G#5]These are the lies\n[B5]I have [C#5]crea\n[G#5]ted This is the sto-\n[B5]ry of [C#5]my life\n[G#5]These are the lies\n[B5]I have [C#5]crea\n[G#5]ted I've crea\nted\n\n[Bridge]\n[C#5]And I swear\n[E5]to god I'll find\n[G#5]myself In the end\n[F#5]\n[C#5]And I swear\n[E5]to god I'll find\n[G#5]myself In the end\n[F#5]\n[C#5]And I swear\n[E5]to god I'll find\n[G#5]myself In the end\n[F#5]In the end\n[C#5]And I swear\n[E5]to god I'll find\n[G#5]myself In the end\n[F#5]In the end\n[C#5]In the end\n[E5]In the end\n[G#5]In the end\n[F#5]\n\n[Interlude]\n[B5]  [C#5]\n[G#5]\n[B5]  [C#5]\n[G#5]\n[B5]  [C#5]\n[G#5]\n[B5]  [C#5]\n[G#5]This is the sto-\n\n[Chorus]\n[B5]ry of [C#5]my life\n[G#5]These are the lies\n[B5]I have [C#5]crea\n[G#5]ted This is the sto-\n[B5]ry of [C#5]my life\n[G#5]These are the lies\n[B5]I have [C#5]crea\n[G#5]ted This is the sto-\n[B5]ry of [C#5]my life\n[G#5]These are the lies\nI have crea\nted",
+  "diagrams": {
+    "B/E": {
+      "catalog": [
+        "x-8-10-9-8-x"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x577xx",
+        "000xxx"
+      ],
+      "catalogCount": 2
+    },
+    "E5": {
+      "catalog": [
+        "x-8-10-10-x-x",
+        "333xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Story",
+  "id": "894a8a119311d7d28f0ea1de7513d5a78cddb82c7180b8937fdae0f0b7e9a2bd",
+  "key": "G♯",
+  "keyIdentified": true,
+  "lyricEventCount": 255,
+  "normalizedKey": "thirty seconds to mars|story",
+  "playableChords": [
+    "B5",
+    "C#5",
+    "G#5",
+    "E5",
+    "B/E",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Bridge"
+    },
+    {
+      "measure": 60,
+      "name": "Interlude"
+    },
+    {
+      "measure": 68,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "894a8a119311d7d28f0ea1de7513d5a78cddb82c7180b8937fdae0f0b7e9a2bd",
+    "version": "BCFZ"
+  },
+  "tempo": 89,
+  "title": "Story",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "primary"
+}

@@ -1,0 +1,134 @@
+{
+  "artist": "Zac Brown Band",
+  "artistNormalized": "zac brown band",
+  "capo": "4",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\n[Am/F#]\n[F]\n[G]He was a giant\n\n[Verse 1]\n[C]And\n[F]I was just a [G]kid I was always trying\n[C]To do\n[F]everything he [G]did\n[Am]I can still remember every\n[C]lesson he [F]taught me\n[Fm]Growing up learning how to be\n[G]like my old man\n\n[Interlude]\n[C]\n[Am/F#]\n[F]\n[G]He was a lion\n\n[Verse 2]\n[C]We\n[F]were our father's [G]pride But I was defiant\n[C]When he\n[F]made me walk the [G]line\n[Am]He knew how to lift me up And\n[C]when to let [F]me fall\n[Fm]Looking back, he always had a plan\n[G]My old man\n[C]My old man\n\n[Chorus]\n[F]\nFeel the callous on his hands\n[C]And dusty o-\n[G]veralls My old man\n[F]\nNow I [Fm]finally understand\n[C]I have a\n[G]lot to learn From my old man\n\n[Interlude]\n[C]\n[Am/F#]\n[F]\n[G]Now I'm a giant\n\n[Verse 3]\n[C]Got a\n[F]son of my [G]own He's always trying\n[C]To go\n[F]everywhere I [G]go\n[Am]Do the best I can to raise him\n[C]up the [F]right way\n[Fm]Hoping that he someday wants to\n[G]be Like his old man\n[C]\n\n[Solo]\n[Am]  [G]\n[F]  [G]\n[Am]  [G]\n[F]  [G]\n[Am]  [G]\n[F]  [G]\n[Am]  [G]\n[F]My old man\n\n[Chorus]\n[F]\nI know one day we'll meet again\n[C]As he's look-\n[G]ing down My old man\n[F]\nI hope he's proud [Fm]of who I am\n[C]I'm trying to\n[G]fill the boot of my old man\n\n[Outro]\n[C]\n[Am/F#]My old man\n[F]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am/F#": {
+      "catalog": [
+        "2x2210"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "My Old Man",
+  "id": "7d67b4598d2506f642490a65682f48fea7182ac9d97a92c8465601a108243406",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 216,
+  "normalizedKey": "zac brown band|my old man",
+  "playableChords": [
+    "C",
+    "Am/F#",
+    "F",
+    "G",
+    "Am",
+    "Fm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Interlude"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Interlude"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 47,
+      "name": "Solo"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7d67b4598d2506f642490a65682f48fea7182ac9d97a92c8465601a108243406",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "My Old Man",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

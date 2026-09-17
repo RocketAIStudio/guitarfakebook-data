@@ -1,0 +1,123 @@
+{
+  "artist": "Tom Waits",
+  "artistNormalized": "tom waits",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]  [E]\n[Am]  [E]\n[Am]  [E]\n[Am]  [E]\n[Am]  [D]\n[E]\n[Am]  [C]\n[D]  [Am]\n[F]  [E]\n[Am][E]If you want\n\n[Verse 1]\n[Am]money in [E]your pocket and\n[Am]atop hat on your head [E]A\n[Am]hot meal on your table and [C]\n[E]a blanket on your bed\n\n[Chorus]\n[Am]Today is grey [C]skies\n[D]tomorrow is [Am]tears\n[F]you'll have to [E]waittill yesterday is\n[Am]here [E]Well I'm going\n\n[Verse 2]\n[Am]to New [E]York City and\n[Am]I'm leaning on a train And [E]if\n[Am]you want to stay behind [C]\n[E]and wait till I come back again\n\n[Chorus]\n[Am]Today is grey [C]skies\n[D]tomorrow is [Am]tears\n[F]you'll have to wait [E]till yesterday is\n[Am]here [E]\n\n[Bridge]\n[Am]If you want to go [F]where\n[Am]the rainbows [F]end You'll\n[Am]have to say [E]goodb-\n[Am]ye\n[Am]all our dreams come true [F]\n[Am]Baby up a head It's [F]out\n[Am]were your me [E]mories lie\n[F]\n\n[Verse 3]\n[Am]The road is out [E]before me\n[Am]the moon is shining bright [E]What\n[Am]I want you to [C]remember\n[E]as I disappear to night\n\n[Chorus]\n[Am]To day is grey [C]skies\n[D]tomorrow is [Am]tears\n[F]you'll have to wait [E]Till yesterday is\n[Am]here [E]\n[Am]to day is grey [C]skies\n[D]tomorrow is [Am]tears\n[F]You'll have to wait [E]till yes terday is\n[Am]here [E]\n\n[Outro]\n[F]you'll have to wait [E]till Yesterday is\n[Am]here [E]\n[F]you'll have to wait [E]till yes terday is\n[Am]here",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "13321x",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Yesterday is Here",
+  "id": "4f8b4c7a8183b566b8fedd65306a193fee17f787058e873a714a600158fbd11d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 200,
+  "normalizedKey": "tom waits|yesterday is here",
+  "playableChords": [
+    "Am",
+    "E",
+    "D",
+    "C",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Bridge"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 48,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4f8b4c7a8183b566b8fedd65306a193fee17f787058e873a714a600158fbd11d",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Yesterday is Here",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

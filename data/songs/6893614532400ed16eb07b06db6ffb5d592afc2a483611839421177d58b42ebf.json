@@ -1,0 +1,146 @@
+{
+  "artist": "Tom Petty",
+  "artistNormalized": "tom petty",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\nI\n\n[Verse 1]\n[C]dreamed you,\nI saw your\nface\nCaught my\nlifeline when\ndrifting through\nspace\nI saw an\n\n[Pre-Chorus]\n[Am]angel,\nI saw my\n[C]fate\nI can\n\n[Chorus]\n[F]only thank [C]god it was\n[G]not too [C]late\n\n[Bridge]\n[C]\nOver\n\n[Verse 2]\n[C]mountains\nI floated a-\nway\nAcross an\nocean\nI dreamed her\nname\nI followed an\n\n[Pre-Chorus]\n[Am]angel\ndown through the\n[C]gates\nI can\n\n[Chorus]\n[F]only thank [C]god it was\n[G]not too [C]late\n\n[Bridge]\n[C]\n\n[Interlude]\n[Am]Sing a little song [G]of loneliness\n[C]Sing one to make me [Fadd9]smile\n[Am]Another round for [G]everyone\n[C]I'm here for a little [F]while\n[Gsus4]\nNow I'm\n\n[Verse 3]\n[C]walking\nthis street on my\nown\nBut she's\nwith me\neverywhere I go\nYeah\nI found an\n\n[Pre-Chorus]\n[Am]angel,\nI found my\n[C]place\nI can\n\n[Chorus]\n[F]only thank [C]god it was\n[G]not too [C]late I can\n[F]only thank [C]god it was\n[G]not too [C]late I can\n[F]only thank [C]god it was\n[G]not too [C]late\n\n[Outro]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "xx321x",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "Fadd9": {
+      "catalog": [
+        "xx3213"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus4": {
+      "catalog": [
+        "3555xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Angel Dream (No. 2)",
+  "id": "6893614532400ed16eb07b06db6ffb5d592afc2a483611839421177d58b42ebf",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 163,
+  "normalizedKey": "tom petty|angel dream no 2",
+  "playableChords": [
+    "C",
+    "Am",
+    "F",
+    "G",
+    "Fadd9",
+    "Gsus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Bridge"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 55,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6893614532400ed16eb07b06db6ffb5d592afc2a483611839421177d58b42ebf",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Angel Dream (No. 2)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

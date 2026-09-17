@@ -1,0 +1,104 @@
+{
+  "artist": "Wire",
+  "artistNormalized": "wire",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "One, two, three, four,\nfive, six, seven, eight.\n\n[Intro]\n[E]\n[G]  [A]\n[E]\n[G]  [A]\n\n[Verse 1]\n[E]After midnight,\n[G]we're gonna [A]let it all hang\n[E]down\n[G]  [A]\n[E]After midnight,\n[G]we're gonna [A]chugalug\n[E]and shout\n[G]  [A]\n[E]We're gonna stimulate some action\n[G]We're gonna get some satisfaction\n[A]We're gonna find out what it is all\n[B]about\n\n[Verse 2]\n[E]After midnight, we're\n[G]gonna [A]let it all hang\n[E]down\n[G]  [A]\n[E]After midnight,\n[G]we're gonna [A]shake your\n[E]tambourine\n[G]  [A]\n[E]After midnight,\n[G]it's all gonna [A]be peaches\n[E]and cream\n[G]  [A]\n[E]We're gonna cause talk\n[G]and suspicion\n[A]We're gonna give an exhi-\n[B]bition\n\n[Verse 3]\n[E]We're gonna find\n[G]out what [A]it is all\n[E]about\n[G]  [A]\n[E]\n[G]  [A]\n[E]\n[G]  [A]\n[E]\n[G]  [A]\n[E]\n[G]  [A]\n[E]\n[G]\n[A]\n[B]\n\n[Interlude]\n[E]\n[G]  [A]\n[E]\n[G]  [A]\n\n[Verse 4]\n[E]After midnight,\n[G]we're [A]gonna let it all hang\n[E]down\n[G]  [A]\n[E]After midnight,\n[G]we're [A]gonna let it all hang\n[E]down\n[G]  [A]\n[E]We're gonna stimulate some action\n[G]We're gonna get some satisfaction\n[A]We're gonna find out what it is all\n[B]about\n\n[Outro]\n[E]After midnight,\n[G]we're [A]gonna let it all hang\n[E]down",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "After Midnight",
+  "id": "2778c539f0da6159cce93eef32ad08470c60164e1a12198f51a8a11ea6c01c90",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 130,
+  "normalizedKey": "wire|after midnight",
+  "playableChords": [
+    "E",
+    "G",
+    "A",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 51,
+      "name": "Interlude"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 67,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2778c539f0da6159cce93eef32ad08470c60164e1a12198f51a8a11ea6c01c90",
+    "version": "BCFZ"
+  },
+  "tempo": 200,
+  "title": "After Midnight",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

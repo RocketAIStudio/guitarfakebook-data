@@ -1,0 +1,127 @@
+{
+  "artist": "UB40",
+  "artistNormalized": "ub40",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[D]Wise [A]men\n[D]say [A]Only\n[G]fools [D]rush\n[A]in But\n[G]I [A]can't\n[D]help [G]Falling in\n[D]love [A]with\n[D]you\n\n[Interlude]\n[F#m]  [B]\n[F#m]  [B]\n[F#m]  [B]\n[G]\n[A]\n\n[Verse 2]\n[D]Wise [A]men\n[D]say [A]Only\n[G]fools [D]rush\n[A]in But\n[G]I [A]can't\n[D]help [G]Falling in\n[D]love [A]with\n[D]you\n\n[Verse 3]\n[D]Shall [A]I\n[D]stay? [A]Would it\n[G]be [D]a\n[A]sin?\n[G]I [A]can't\n[D]help [G]Falling in\n[D]love [A]with\n[D]you\n\n[Chorus]\n[F#m]As a river [B]flows\n[F#m]Gently to the [B]sea\n[F#m]Darling, so it [B]goes\n[G]Some things were meant to\nbe [A]\n\n[Verse 4]\n[D]Take [A]my\n[D]hand [A]Take my\n[G]whole [D]life,\n[A]too But\n[G]I [A]can't\n[D]help [G]Falling in\n[D]love [A]with\n[D]you\n\n[Chorus]\n[F#m]As a river [B]flows\n[F#m]Surely to the [B]sea\n[F#m]Darling, so it [B]goes\n[G]Some things were meant to\nbe [A]\n\n[Verse 5]\n[D]Take [A]my\n[D]hand [A]Take my\n[G]whole [D]life,\n[A]too\n[G]I [A]can't\n[D]help [G]Falling in\n[D]love [A]with\n[D]you\n\n[Outro]\n[G]I [A]can't\n[D]help [G]falling in\n[D]love [A]with\n[D]you\n[G]I [A]can't\n[D]help [G]falling in\n[D]love [A]with\n[D]you\n[G]I [A]can't\n[D]help [G]falling in\n[D]love [A]with\n[D]you\n\n[Fade Out]\n[G]  [A]\n[D]  [G]\n[D]  [A]\n[D]\n[G]  [A]\n[D]  [G]\n[D]  [A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Can't Help Falling In Love With You",
+  "id": "323a3b8dbfa505059b8ab38fabae7785bf729bd331213797d28001dbf11c082f",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 157,
+  "normalizedKey": "ub40|i can t help falling in love with you",
+  "playableChords": [
+    "D",
+    "A",
+    "G",
+    "F#m",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Interlude"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 48,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 56,
+      "name": "Outro"
+    },
+    {
+      "measure": 68,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "323a3b8dbfa505059b8ab38fabae7785bf729bd331213797d28001dbf11c082f",
+    "version": "BCFZ"
+  },
+  "tempo": 86,
+  "title": "I Can't Help Falling In Love With You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

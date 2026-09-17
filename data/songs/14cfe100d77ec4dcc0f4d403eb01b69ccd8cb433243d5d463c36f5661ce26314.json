@@ -1,0 +1,114 @@
+{
+  "artist": "X Ambassadors",
+  "artistNormalized": "x ambassadors",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Bm]Hold [Gsus2]Hold on\n[D]Hold on [Asus2]to me 'Cause I'm\n[Bm]a little unsteady [Gsus2]\n[D]A little unsteady [Asus2]\n[Bm]Hold [Gsus2]Hold on\n[D]Hold on [Asus2]to me 'Cause I'm\n[Bm]a little unsteady [Gsus2]\n[D]A little unsteady [Asus2]\n\n[Verse 1]\n[Bm]  [A]\n[G]  [D]\n[Bm]Mama, [A]come here\n[G]Approach, [D]appear\n[Bm]Daddy, [A]I'm alone\n[G]'Cause this house don't [D]feel like home\n[Bm]If you love [A]me, don't let go\n[G]  [D]\n[Bm]If you love [A]me, don't let go\n[G]  [D]\n\n[Chorus]\n[Bm]Hold [Gsus2]Hold on\n[D]Hold on [Asus2]to me 'Cause I'm\n[Bm]a little unsteady [Gsus2]\n[D]A little unsteady [Asus2]\n[Bm]Hold [Gsus2]Hold on\n[D]Hold on [Asus2]to me 'Cause I'm\n[Bm]a little unsteady [Gsus2]\n[D]A little unsteady [Asus2]\n\n[Verse 2]\n[Bm]Mother, [A]I know\n[G]That you're tired [D]of being alone\n[Bm]Dad, I [A]know you're trying\n[G]To fight when you feel [D]like flying\n[Bm]If you love [A]me, don't let go\n[G]  [D]\n[Bm]If you love [A]me, don't let go\n[G]  [D]\n\n[Chorus]\n[Bm]Hold [Gsus2]Hold on\n[D]Hold on [Asus2]to me 'Cause I'm\n[Bm]a little unsteady [Gsus2]\n[D]A little unsteady [Asus2]\n[Bm]Hold [Gsus2]Hold on\n[D]Hold on [Asus2]to me 'Cause I'm\n[Bm]a little unsteady [Gsus2]\n[D]A little unsteady [Asus2]\n\n[Outro]\n[Bm]Hold [Gsus2]Hold on\n[D]Hold on [Asus2]to me 'Cause I'm\n[Bm]a little unsteady [Gsus2]\n[D]A little unsteady [Asus2]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus2": {
+      "catalog": [
+        "300233"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Unsteady",
+  "id": "14cfe100d77ec4dcc0f4d403eb01b69ccd8cb433243d5d463c36f5661ce26314",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 190,
+  "normalizedKey": "x ambassadors|unsteady",
+  "playableChords": [
+    "Bm",
+    "Gsus2",
+    "D",
+    "Asus2",
+    "A",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "14cfe100d77ec4dcc0f4d403eb01b69ccd8cb433243d5d463c36f5661ce26314",
+    "version": "BCFZ"
+  },
+  "tempo": 58,
+  "title": "Unsteady",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,107 @@
+{
+  "artist": "Vampire Weekend",
+  "artistNormalized": "vampire weekend",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]  [Dm]  [C]\n[G]  [Am]\n[F][G]Boy,\n[C]boy\n\n[Verse 1]\n[C]Twenty twenty [Dm]one, will you [C]think about\n[G]me? I could wait a [Am]year, but I shouldn't wait\n[F]three, [G]boy I don't wanna be,\n[C]boy, mmm\nTwenty twenty [Dm]one, will you [C]think about\n[G]us? Copper goes [Am]green, steel beams go\n[F]rust, [G]boy It's a matter of,\n[C]boy\n\n[Break]\n[C]  [Dm]  [C]\n[G]  [Am]\n[F][G]Boy,\n[C]boy\n[Dm]  [C]\n[G]  [Am]\n[F][G]Boy,\n[C]boy\n\n[Verse 2]\n[C]Twenty twenty [Dm]one, will you [C]think about\n[G]me? I could wait a [Am]year, but I couldn't wait\n[F]three, [G]boy I don't wanna be,\n[C]boy\nTwenty twenty [Dm]one, will you [C]think about\n[G]us? Copper goes [Am]green, steel beams go\n[F]rust, [G]boy It's a matter of,\n[C]boy, mmm.\n\n[Outro]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "2021",
+  "id": "eae44b45c4d1d710484f61613a7e73369cd3b7a1c5d75158fa9c500658d15e44",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 122,
+  "normalizedKey": "vampire weekend|2021",
+  "playableChords": [
+    "C",
+    "Dm",
+    "G",
+    "Am",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Break"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "eae44b45c4d1d710484f61613a7e73369cd3b7a1c5d75158fa9c500658d15e44",
+    "version": "BCFZ"
+  },
+  "tempo": 74,
+  "title": "2021",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

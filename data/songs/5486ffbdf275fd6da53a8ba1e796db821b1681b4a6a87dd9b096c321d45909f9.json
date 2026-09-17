@@ -1,0 +1,130 @@
+{
+  "artist": "X",
+  "artistNormalized": "x",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E]  [C]  [D]  [G]\n[A]\n[E]  [C]  [D]  [G]\n[A]\n\n[Verse 1]\n[A]She\n[G]had to leave\n[D]\n[C]\n[A]Los Angeles\n[G]\n[D]\n[C]All her\n[A]toys wore out in\n[G]black And her boys had\n[C]too She\n[A]started to hate every\n[G]nigga and Jew\n[C]Every\n[A]Mexican that gave her a lotta\n[G]shit Every\n[C]homosexual and the\n[A]idle rich\n[G]\n[C]She had to\n\n[Chorus]\n[A]get out\n[G]\n[C]Get out\n[A]\n[G]Get out\n[C]\n[A]\n\n[Break]\n[C][A#]She gets\nconfused\n[C][A#]Flying\nover the dateline\n[C][A#]Her\nhands turn\n[D]red 'Cause the\n[E]days change at night\n[D]\n[E]Change in an in-\n[D]stant The\n[E]days change at night\n[D]\n[E]Change in an in-\n[D]stant\n[E]\n\n[Pre-Verse]\n[E]  [C]  [D]  [G]\n[A]\n\n[Verse 2]\n[A]She\n[G]had to\n[D]leave\n[C]\n[A]Los Angeles\n[G]\n[D]\n[C]She found it\n[A]hard to say Good-\n[G]bye to her own best\n[C]friend She bought a\n[A]clock on Hollywood\n[G]Boulevard the day she left\n[C]\n[A]It felt sad\n[G]It felt\n[C]sad\n[A]It felt\n[G]sad\n[C]She had to\n\n[Chorus]\n[A]get out\n[G]\n[C]Get out\n[A]\n[G]Get out\n[C]\n[A]\n\n[Break]\n[C][A#]She gets\nconfused\n[C][A#]Flying\nover the dateline\n[C][A#]Her\nhands turn\n[D]red 'Cause the\n[E]days change at night\n[D]\n[E]Change in an in-\n[D]stant The\n[E]days change at night\n[D]\n[E]Change in an in-\n[D]stant The\n[E]days change at night\n\n[Outro]\n[D]\n[E]Change in an in-\n[D]stant\n[E]\n[E]  [C]  [D]  [G]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#": {
+      "catalog": [
+        "x13331"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Los Angeles",
+  "id": "5486ffbdf275fd6da53a8ba1e796db821b1681b4a6a87dd9b096c321d45909f9",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 196,
+  "normalizedKey": "x|los angeles",
+  "playableChords": [
+    "E",
+    "C",
+    "D",
+    "G",
+    "A",
+    "A#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Break"
+    },
+    {
+      "measure": 54,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 80,
+      "name": "Chorus"
+    },
+    {
+      "measure": 88,
+      "name": "Break"
+    },
+    {
+      "measure": 104,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5486ffbdf275fd6da53a8ba1e796db821b1681b4a6a87dd9b096c321d45909f9",
+    "version": "BCFZ"
+  },
+  "tempo": 184,
+  "title": "Los Angeles",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

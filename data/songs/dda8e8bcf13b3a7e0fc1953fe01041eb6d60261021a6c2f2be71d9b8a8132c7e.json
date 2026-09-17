@@ -1,0 +1,133 @@
+{
+  "artist": "Tracy Chapman",
+  "artistNormalized": "tracy chapman",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D]\n[A7sus4]  [A7]\n[D]\n[A7sus4]  [A7]\n\n[Verse 1]\n[D]Sorry Is\n[A7sus4]all that [A7]you can't\n[Em]say\n[G]Years gone [A7]by and\n[D]still\n[A7sus4]Words don't [A7]come easi-\n[Em]ly Like\n[G]sorry like [A7]sorry\n[A7sus4]\n[A7]For-\n\n[Verse 2]\n[D]give me Is\n[A7sus4]all that [A7]you can't\n[Em]say\n[G]Years gone [A7]by and\n[D]still\n[A7sus4]Words don't [A7]come easi-\n[Em]ly Like for-\n[G]give me [A7]forgive me\n[A7sus4]\n[A7]But you can say\n\n[Chorus]\n[D]baby\n[Em]Baby can I hold [A]you to-\n[D]night?\n[Em]Maybe if I told [A]you the\n[Bm]right words At the right\n[A]time [G][A]you'd be mine\n[D]\n[Em][G][A7]I\n\n[Verse 3]\n[D]love you Is\n[A7sus4]all that [A7]you can't\n[Em]say\n[G]Years gone [A7]by and\n[D]still\n[A7sus4]Words don't [A7]come easi-\n[Em]ly Like I\n[G]love you I [A7]love you\n[A7sus4]\n[A7]But you can say\n\n[Chorus]\n[D]baby\n[Em]Baby can I [G]hold [A]you to-\n[D]night?\n[Em]Maybe if I [G]told [A]you the right\n[Bm]words Ooh, at the\n[A]right time [G][A]you'd be mine\n[D]\n[Em]Baby can I [G]hold [A]yo u to-\n[D]night?\n[Em]Maybe if I [G]told [A]you the\n[Bm]right words At the right\n[A]time [G][A]you'd be mine\n\n[Outro]\n[D]\n[A7sus4][A7]You'd be mine\n[D]\n[A7sus4][A7]You'd be mine\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7sus4": {
+      "catalog": [
+        "x02030"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Baby Can I Hold You Tonight",
+  "id": "dda8e8bcf13b3a7e0fc1953fe01041eb6d60261021a6c2f2be71d9b8a8132c7e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 171,
+  "normalizedKey": "tracy chapman|baby can i hold you tonight",
+  "playableChords": [
+    "D",
+    "A7sus4",
+    "A7",
+    "Em",
+    "G",
+    "A",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dda8e8bcf13b3a7e0fc1953fe01041eb6d60261021a6c2f2be71d9b8a8132c7e",
+    "version": "BCFZ"
+  },
+  "tempo": 73,
+  "title": "Baby Can I Hold You Tonight",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

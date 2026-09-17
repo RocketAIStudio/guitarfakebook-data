@@ -1,0 +1,72 @@
+{
+  "artist": "Tribute to the Mammal",
+  "artistNormalized": "tribute to the mammal",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Verse]\n[B5]Life can be\nso absurd\nBreak it into\ntwo separate words\n\"Li\" is for live stock And\n\"fe\" is for feed\nIs this the lifestyle that\nwe need to lead?\n\n[Chorus]\n[F#5]Feed the masses\n[G5]for today!\n[F#5]Test on the animals? Cause\n[G5]who's goin' to [A5]say...\n\n[Outro]\n[B5]...no?!",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Buck Wild",
+  "id": "6012b3a76ea19d6a1dde6e530804710603bce1bdde5e4eaf3fd2f3b99e972aec",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 54,
+  "normalizedKey": "tribute to the mammal|buck wild",
+  "playableChords": [
+    "B5",
+    "F#5",
+    "G5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6012b3a76ea19d6a1dde6e530804710603bce1bdde5e4eaf3fd2f3b99e972aec",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Buck Wild",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

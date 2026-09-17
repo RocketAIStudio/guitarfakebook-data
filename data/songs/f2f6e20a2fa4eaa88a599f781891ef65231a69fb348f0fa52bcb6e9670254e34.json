@@ -1,0 +1,101 @@
+{
+  "artist": "Waylon Jennings",
+  "artistNormalized": "waylon jennings",
+  "capo": "1",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[B7]\n[E]\n\n[Verse 1]\nJust a good old boys\nNever meanin' no harm\n[A]\nBeats all\n[E]you never saw Been in\n[B7]trouble with the law since the\nday they was born\n[E]\nStraightening the curves,\nyeah\nFlattenin' the hills\n[A]\nSomeday\n[E]the mountain might\n[B7]get 'em but the law never\n[E]will\nMakin' their way\n\n[Chorus]\n[B7]\nthe only way they know how\nThat's just a little bit more\nthan the law will allow\n[E]\n\n[Solo 1]\n[E]\n[A]\n[E]\n[B7]\n[E]\n\n[Break]\n[E]\n[A]\n[E]\n[B7]\n[E]\nMakin' their way\n\n[Chorus]\n[B7]\nthe only way they know how,\nyeah\nThat's just a little bit more\nthan the law will allow\n[E]\nI'm a good old boy\n\n[Verse 2]\n[E]\nYou know my mama loves\n[A]me\nBut she\n[E]don't understand They keep a-\n[B7]showing my hands and not my\n[E]face on TV, ha-\nha\n\n[Solo 2]\n[E]\n[A]\n[E]\n[B7]\n[E]\n\n[Outro (Fade Out)]\n[E]\n[A]\n[E]\n[B7]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Good Ol' Boys",
+  "id": "f2f6e20a2fa4eaa88a599f781891ef65231a69fb348f0fa52bcb6e9670254e34",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 136,
+  "normalizedKey": "waylon jennings|good ol boys",
+  "playableChords": [
+    "B7",
+    "E",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 38,
+      "name": "Break"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 62,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 70,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f2f6e20a2fa4eaa88a599f781891ef65231a69fb348f0fa52bcb6e9670254e34",
+    "version": "BCFZ"
+  },
+  "tempo": 144,
+  "title": "Good Ol' Boys",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

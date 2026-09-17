@@ -1,0 +1,89 @@
+{
+  "artist": "Tom Petty & The Heartbreakers",
+  "artistNormalized": "tom petty the heartbreakers",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[E7]\n\n[Verse 1]\n[E7]Why\nbe\nlonely\nWhy\nbe\nblue\n[A7]You\ngot\nme babe,\n[E7]I\ngot\nyou\nAnd I\n\n[Chorus]\n[G]can't stop thinkin' 'bout you How\n[A7]I dig rockin' around with\n[E7]you\n\n[Verse 2]\n[E7]I\nwas\nwaiting\nYou\ncame\nthrough\n[A7]You\nknew\nno one\n[E7]else\nwill\ndo\nAnd I\n\n[Chorus]\n[G]can't stop thinkin' 'bout you How\n[A7]I dig rockin' around with\n[E7]you\n\n[Outro]\n[A7]\n[E7]\nYou know\nI dig rockin' around You know\nI dig rockin' around You know\nI dig rockin' around You know\nI dig rockin' around You know\nI dig rockin' around You know\nI dig rockin' around",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rockin' Around With You",
+  "id": "d5fb35c5a19611684864be87ec2bb6284bd2e2ee1a3cc2d6f671bb9136a66bcd",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 110,
+  "normalizedKey": "tom petty the heartbreakers|rockin around with you",
+  "playableChords": [
+    "E7",
+    "A7",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d5fb35c5a19611684864be87ec2bb6284bd2e2ee1a3cc2d6f671bb9136a66bcd",
+    "version": "BCFZ"
+  },
+  "tempo": 121,
+  "title": "Rockin' Around With You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

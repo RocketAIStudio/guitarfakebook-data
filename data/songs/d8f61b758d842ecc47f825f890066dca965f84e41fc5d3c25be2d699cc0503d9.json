@@ -1,0 +1,129 @@
+{
+  "artist": "Weezer",
+  "artistNormalized": "weezer",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[D#5]\n[A#5]Give it all away\n[D#5]\n[A#5]Give it all away\n[D#5]\n[A#5]\n[D5]\n\n[Verse 1]\n[G5]Oh,\n[D5]oh\n[E5]Possibilities\n[C5]possibilities\n[G5]Take you home with\n[C5]me in your arms\n[D5]\n\n[Chorus]\n[A5]I never thought\nI'd do that\n[B5]\nTake me\n[C5]all the way\nAnd\n[D5]let your body stay\n\n[Verse 2]\n[G5]Oh,\n[A5]oh\n[E5]Take me by the hand\n[C5]take me by the hand\n[G5]Let me be the man\n[C5]in your arms\n[D5]\n\n[Chorus]\n[A5]I never thought\nI'd do that\n[B5]\nTake me\n[C5]all the way\nAnd\n[D5]let your body stay\n\n[Bridge]\n[D#5]Oh,\n[A#5]you're gone\n[D#5]Oh,\n[A#5]you're gone\n[D#5]You're gone\n[A#5]You're gone to stay\n[D5]\n\n[Solo]\n[G5]\n[D5]\n[E5]\n[C5]\n[G5]\n[C5]\n[D5]\n\n[Chorus]\n[A5]I never thought\nI'd do that\n[B5]\nTake me\n[C5]all the way\nAnd\n[D5]let your body stay\n\n[Bridge]\n[D#5]Oh,\n[A#5]you're gone\n[D#5]Oh,\n[A#5]you're gone\n[D#5]You're gone\n[A#5]You're gone to stay\n[D5]\n\n[Outro]\n[G5]Oh,\n[D5]oh\n[A5]Oh,\n[D5]oh\n[B5]Oh,\n[E5]oh\n[C5]I\nneed you\n[D5]I\nbleed you\n[G5]now\n[C5]\n[G5]",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x",
+        "x355xx"
+      ],
+      "catalogCount": 2
+    },
+    "D#5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Possibilities",
+  "id": "d8f61b758d842ecc47f825f890066dca965f84e41fc5d3c25be2d699cc0503d9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 140,
+  "normalizedKey": "weezer|possibilities",
+  "playableChords": [
+    "D#5",
+    "A#5",
+    "D5",
+    "G5",
+    "E5",
+    "C5",
+    "A5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Solo"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d8f61b758d842ecc47f825f890066dca965f84e41fc5d3c25be2d699cc0503d9",
+    "version": "BCFZ"
+  },
+  "tempo": 178,
+  "title": "Possibilities",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

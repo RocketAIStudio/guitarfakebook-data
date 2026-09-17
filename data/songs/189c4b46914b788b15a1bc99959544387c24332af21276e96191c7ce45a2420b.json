@@ -1,0 +1,100 @@
+{
+  "artist": "Two Feet",
+  "artistNormalized": "two feet",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\nI've\n[Am]been around, brought [Em]you down, it's true\n[F]I\n[Em]had some drinks and [G]said some things to you\n[Am]If I\n[Am]said too much, I [Em]know you're mine to lose\n[F]I\n[Em]had some drinks and [G]said some things to you\n[Am]\n\n[Main Riff]\n[Am]  [Em]\n[F]\n[Em]  [G]\n[Am]\n[Am]  [Em]\n[F]\n[Em]  [G]\n[Am]I\n\n[Verse 2]\n[Am]think too much, I'm [Em]outta touch, it's true\n[F]Don't\n[Em]give a fuck, yeah [G]actually I do\n[Am]If I\n[Am]said too much, I [Em]know you're mine to lose\n[F]Don't\n[Em]give a fuck, yeah [G]actually I do\n[Am]\n\n[Main Riff]\n[Am]  [Em]\n[F]\n[Em]  [G]\n[Am]\n[Am]  [Em]\n[F]\n[Em]  [G]\n[Am]I\n\n[Bridge]\n[Am]come my town I come my closest\nI come my lover too I\ncome my town I come my closest\nI come my lover too I\ncome my town I come my closest\nI come my lover too I\ncome my town I come my closest\nI come my lover too\n\n[Main Riff]\n[Am]  [Em]\n[F]\n[Em]  [G]\n[Am]\n[Am]  [Em]\n[F]\n[Em]  [G]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Had Some Drinks",
+  "id": "189c4b46914b788b15a1bc99959544387c24332af21276e96191c7ce45a2420b",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 140,
+  "normalizedKey": "two feet|had some drinks",
+  "playableChords": [
+    "Am",
+    "Em",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Main Riff"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Main Riff"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Main Riff"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "189c4b46914b788b15a1bc99959544387c24332af21276e96191c7ce45a2420b",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Had Some Drinks",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

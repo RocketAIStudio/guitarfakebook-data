@@ -1,0 +1,100 @@
+{
+  "artist": "Vampire Weekend",
+  "artistNormalized": "vampire weekend",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[F]I see a\nMansard Roof through the\ntrees,\nI see a sal\nty message\nwritten in the eves,\nThe\n[C]ground beneath my\nfeet, we are\n[F]garbage and con-\n[Dm]crete, And now the\n[Gm]tops of buildings\n[C]I can see them\n\n[Pre-Verse]\n[F]too!\n\n[Verse 2]\n[F]I see a\nMansard Roof through the\ntrees,\nI see a sal\nty message\nwritten in the eves,\nThe\n[C]ground beneath my\nfeet, we are\n[F]garbage and con-\n[Dm]crete, And now the\n[Gm]tops of buildings\n[C]I can see them\n[F]too!\n\n[Bridge]\n[F]\n[Gm]\n[C]\n[F]\n[Gm]\n[C]\n\n[Verse 3]\n[F]The Argentines\ncollapse in de-\nfeat,\nThe admiralty\nsurveys the\nremnants of the fleet,\nThe\n[C]ground beneath their\nfeet Is a\n[F]nautically map\n[Dm]sheet As thin as\n[Gm]paper While it\n[C]slips away from\n[F]you.\n\n[Outro]\n[F]\n[Gm]\n[C]\n[F]\n[Gm]\n[C]\n[F]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mansard Roof",
+  "id": "0cf1b5478329079b72405d515ad23401f5267b01c2b242d9186138133052c12b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 140,
+  "normalizedKey": "vampire weekend|mansard roof",
+  "playableChords": [
+    "F",
+    "C",
+    "Dm",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0cf1b5478329079b72405d515ad23401f5267b01c2b242d9186138133052c12b",
+    "version": "BCFZ"
+  },
+  "tempo": 158,
+  "title": "Mansard Roof",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

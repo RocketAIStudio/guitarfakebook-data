@@ -1,0 +1,125 @@
+{
+  "artist": "Wire",
+  "artistNormalized": "wire",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[A]  [G]  [E]  [G]\n[A]  [G]  [E]  [G]\n[A]  [G]  [E]  [G]\n[A]  [G]  [E]  [G]\n\n[Verse]\n[G]It's true darling [B]I'll walk you home\n[G]I'll be your date [B]forever\n[G]I love you girl I [B]love you\n[G]Until they split [B]the atom\n\n[Chorus]\n[D]So many times There's nothing left The-\nre's nothing left at all [B][C][C#]I\n[D]know I'm right 'Cause when you're gone There's\nnothing left at all\n\n[Outro]\n[A]  [G]  [E]  [G]\n[A]  [G]  [E]  [G]\n[A]  [G]  [E]  [G]\n[A]  [G]  [E]  [G]\n[D]Left right Left right Left right Left right\nLeft right Left right Salute",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "9-11-11-10-9-9",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "10-12-12-11-10-10",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Brazil",
+  "id": "1320b8e1f6a1e893428038f27ac8fcc9629583ab966b594b39a160065cb98e67",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 68,
+  "normalizedKey": "wire|brazil",
+  "playableChords": [
+    "A",
+    "G",
+    "E",
+    "B",
+    "D",
+    "C",
+    "C#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1320b8e1f6a1e893428038f27ac8fcc9629583ab966b594b39a160065cb98e67",
+    "version": "BCFZ"
+  },
+  "tempo": 107,
+  "title": "Brazil",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

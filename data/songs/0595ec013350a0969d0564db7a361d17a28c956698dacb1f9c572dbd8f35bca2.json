@@ -1,0 +1,108 @@
+{
+  "artist": "UB40",
+  "artistNormalized": "ub40",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\nRed, red\n[C#]wine [F#]\n[G#]goes [F#]to my\nhead [C#][F#]\n[G#]Makes [F#]me for-\nget [C#]that I [F#]\n[G#]Still [F#]need her\nso [G#]\n[F#]Red, [G#]red\n\n[Chorus]\n[C#]wine [F#]\n[G#]It's [F#]up to\nyou [C#][F#]\n[G#]All [F#]I can\ndo, [C#]I've done [F#]\n[F#][G#]Memories won't\ngo [G#]\n[G#][F#]Memories won't\n\n[Bridge]\ngo [C#][F#]\n[G#][F#]I just\n\n[Verse 2]\nthought, [G#]that with\n[C#]time\nThoughts [F#]of you would leave my\nhead [C#]I was\nwrong, [G#]now I\nfind [C#]Just one\nthing [F#]makes me forget\n[G#]Red, red\n\n[Chorus]\nwine [C#][F#]\n[G#]Stay [F#]close to\nme [C#][F#]\n[G#]Don't [F#]let me\nbe [C#]in love [F#]\n[G#]It's [F#]tearing a-\npart [G#]\n[F#]My blue, [G#]blue heart\n\n[Bridge]\n[C#]  [F#]\n[G#sus4]  [G#]\n[C#]  [F#]\n[G#sus4][G#]I just\n\n[Verse 3]\nthought, that with\n[C#]time\nThoughts [F#]of you would leave my\nhead [C#]I was\nwrong, [G#]now I\nfind [C#]Just one\nthing [F#]makes me forget\n[G#]Red, red\n\n[Chorus]\nwine [C#][F#]\n[G#]Stay [F#]close to\nme [C#][F#]\n[G#]Don't [F#]let me\nbe [C#]in love [F#]\n[G#]It's [F#]tearing a-\npart [G#]\n[F#]My blue, [G#]blue heart\n\n[Bridge]\n[C#]  [F#]\n[G#sus4]  [G#]\n[C#]  [F#]\n[G#sus4]Red, [G#]red\n\n[Chorus]\nwine [C#][F#]\n[G#]Stay [F#]close to\nme [C#][F#]\n[G#]Don't [F#]let me\nbe [C#]in love [F#]\n[G#]It's [F#]tearing a-\npart [G#]\n[F#]My blue, [G#]blue heart\n[C#]",
+  "diagrams": {
+    "C#": {
+      "catalog": [
+        "9-11-11-10-9-9",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "x-9-11-11-11-9",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 1
+    },
+    "G#sus4": {
+      "catalog": [
+        "x-11-13-13-14-11"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Red Red Wine",
+  "id": "0595ec013350a0969d0564db7a361d17a28c956698dacb1f9c572dbd8f35bca2",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 161,
+  "normalizedKey": "ub40|red red wine",
+  "playableChords": [
+    "C#",
+    "F#",
+    "G#",
+    "G#sus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Bridge"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Bridge"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 48,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Bridge"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0595ec013350a0969d0564db7a361d17a28c956698dacb1f9c572dbd8f35bca2",
+    "version": "BCFZ"
+  },
+  "tempo": 89,
+  "title": "Red Red Wine",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,133 @@
+{
+  "artist": "Thomas Marqueyssat",
+  "artistNormalized": "thomas marqueyssat",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C]  [A]\n[D]  [E]\n[G]  [B]\n[F]  [E]\n\n[Couplet]\n[C]I have a Kool [A]Band which\n[D]play music, [E]\n[G]lot of [B]admira-tors,\n[F]a lot of [E]chicks.\n[C]We do what we like [A]and\n[D]that for long [E]\n[G]Carrying our [B]lyrics\n[F]and our best [E]sound.\n\n[Refrain]\n[C]It's so [A]easy when your\n[D]friends are [E]behind you 'Coz\n[G]you know [B]what's right to\ndo. [F][E]\n\n[Couplet]\n[C]Higtest snag we'll [A]be\n[D]out dated, [E]\n[G]union makes force [B]this pro-\n[F]verb is not [E]vain\n[C]You wa-nna join [A]us?\n[D]open your eyes [E]\n[G]Take a guitar [B]and\n[F]play till [E]sunrise. you'll see.\n\n[Refrain]\n[C]It's so [A]easy when your\n[D]friends are [E]behind you 'Coz\n[G]you know [B]what's right to\ndo. [F][E]\n\n[Pont]\n[D]But some-\ntimes it's not as [C]ob-\nvious as it seems.\n[A]\nSo then\nget on\nscene.\n[C]It's so [A]easy when your\n[D]friends are [E]behind you 'Coz\n[G]you know [B]what's right to\ndo. [F][E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02225",
+        "xx2220",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32013",
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "xxx454",
+        "x22100",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "xx3211",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "320003",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Friends",
+  "id": "8941fc2912bf60fbfc4378b0be9715c2fba9fa623f5ad1795c96bc94d1805a12",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 146,
+  "normalizedKey": "thomas marqueyssat|friends",
+  "playableChords": [
+    "C",
+    "A",
+    "D",
+    "E",
+    "G",
+    "B",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Couplet"
+    },
+    {
+      "measure": 13,
+      "name": "Refrain"
+    },
+    {
+      "measure": 17,
+      "name": "Couplet"
+    },
+    {
+      "measure": 25,
+      "name": "Refrain"
+    },
+    {
+      "measure": 29,
+      "name": "Pont"
+    }
+  ],
+  "source": {
+    "format": "gp4",
+    "sha256": "8941fc2912bf60fbfc4378b0be9715c2fba9fa623f5ad1795c96bc94d1805a12",
+    "version": "FICHIER GUITAR PRO v4.00"
+  },
+  "tempo": 120,
+  "title": "Friends",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,154 @@
+{
+  "artist": "Turnover",
+  "artistNormalized": "turnover",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 10,
+  "content": "I con-\n\n[Verse 1]\n[Am7]fuse you with my [C]words\n[Am7]So you'll never [C]figure\nme out I\n[Am7]kinda like to [C]see you\nhurt 'Cause it's the\n[G]only thing that [Am7]makes\nme feel Like\nI can sleep at [C]night\nA-\n[Am7]lone in my [C]bed\nI\n\n[Pre-Chorus]\n[Am7]promise I will [C]let\nyou down I\n[Am7]promise I will [C]let\nyou down I\n[Am7]promise I will [C]let\nyou down I\n[Am7]promise I will [C]let\nyou down 'Cause I\n\n[Chorus]\n[A5]don't wanna be [C5]alone\nBut I\n[A5]don't wanna be in [C5]love\nAll the\n[A5]times I should have let you [C5]go\nAll the\n[D5]times that, times\nthat I should No I\n[A5]can't end up all [C5]alone\nBut I'm\n[A5]too proud to be in [C5]love\nSo I\n[A5]brought you [C5]up\njust to carry you\n[D5]down\n\n[Pre-Verse]\n[Am]\n[C]\n[Am]\n[C]\n[Am]\n[C]\n[D]\nSo I\n\n[Verse 2]\n[Am]called you from the lo-\n[C]west place I've been\n[Am]To tell you I\n[C]was wrong and\n[Am]apologize for al-\n[C]ways pulling you\n[D]down\n\n[Bridge]\n[Am7]\n[Csus2]\n[Am7]\n[Csus2]\n\n[Solo]\n[Am]\n[Csus2]\n[Am]\n[Csus2]\n[Am]\n[Csus2]\n[G5/D]\n\n[Outro]\n[C]Let me tell you about the [Am]lo-\nwest place I've been\n[C]About [Am]the lo-\nwest place I've been\n[C]About [Am]the lo-\nwest place I've been",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x0221x",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02213",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32013",
+        "x3555x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8"
+      ],
+      "catalogCount": 5
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "Csus2": {
+      "catalog": [
+        "x35533"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G5/D": {
+      "catalog": [
+        "x557xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Read My Mind",
+  "id": "17bb5354130e4e97efdd15222d9ca99caee92d18830cbf94948e72f14a149ba3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 188,
+  "normalizedKey": "turnover|read my mind",
+  "playableChords": [
+    "Am7",
+    "C",
+    "G",
+    "A5",
+    "C5",
+    "D5",
+    "Am",
+    "D",
+    "Csus2",
+    "G5/D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 54,
+      "name": "Bridge"
+    },
+    {
+      "measure": 62,
+      "name": "Solo"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "17bb5354130e4e97efdd15222d9ca99caee92d18830cbf94948e72f14a149ba3",
+    "version": "BCFZ"
+  },
+  "tempo": 136,
+  "title": "Read My Mind",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

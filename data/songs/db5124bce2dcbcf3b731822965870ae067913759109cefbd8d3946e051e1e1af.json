@@ -1,0 +1,101 @@
+{
+  "artist": "Wage War",
+  "artistNormalized": "wage war",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Verse 1]\n[Em]Let me tell you the sad-\ndest story\n[C]Love lost left\n[D]broken and empty\n[Em]Put my heart in the hands\nof another\n[C]Set a fire to the\n[D]past and watch me\n\n[Chorus]\n[Em]burn\n[C]\n[Em]\n[D]\n[Em]\n[C]\n[Em]\n[D]\n\n[Verse 2]\n[Em]Somehow I guess it's bet-\nter this way\n[C]Looking back was it\n[D]all just a mistake?\n[Em]Thought I could live in the arms\nof another\n[C]But I guess I\n[D]wasn't enough for her\n\n[Chorus]\n[Em]I wanna feel the love\nyou can't [C]live without\n[Em]The one that Johnny Cash\nwrote all his [D]songs about\n[Em]But I gave it all away\nfor [C]no return\n[Em]Guess it's just another lesson\nthat I'll [D]never learn\n\n[Verse 3]\n[Em]I've been putting myself\nthrough your Hell\n[C]Holding on to things that\n[D]don't even matter now\n[Em]You found your place in the arms\nof another\n[C]But now I see it's just the\n[D]way the Earth will turn\n\n[Chorus]\n[Em]I wanna feel the love\nyou can't [C]live without\n[Em]The one that Johnny Cash\nwrote all his [D]songs about\n[Em]But I gave it all away\nfor [C]no return\n[Em]Guess it's just another lesson\nthat I'll [D]never learn\n[Em]Can't seem to fill the void\nthat lives [C]in my chest\n[Em]Thought I was what you need\nbut I'm just [D]second best\n[Em]I'll never give it all away\n[C]again I swear\n[Em]Don't even look for a heart\nyou'll find there's [D]nothing\n\n[Bridge]\n[Em]there\n\n[Interlude]\n[Em]I [C]can't\ntake it back All the\n[Em]years that we spent [D]together\nhave come to an\n[Em]end Regret [C]is\nall I had\n[Em]Not sure I would if [D]I could\ndo it all over again\n[Em]I [C]can't\ntake it back The\n[Em]memories, the pictures, [D]I\nlove you's will wither\n[Em]Regret [C]is\nall I had\n[Em]But this is the last [D]song\nI'll write about you\n\n[Outro]\n[Em]\nForget my\nname\n[D]Forget my\n[C]face\nIt was all just emp-\n[Em]ty space\n[D]\n[C]Deadweight\n[D]No longer part of\nme\n[Em]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Johnny Cash (Stripped)",
+  "id": "db5124bce2dcbcf3b731822965870ae067913759109cefbd8d3946e051e1e1af",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 334,
+  "normalizedKey": "wage war|johnny cash stripped",
+  "playableChords": [
+    "Em",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Bridge"
+    },
+    {
+      "measure": 68,
+      "name": "Interlude"
+    },
+    {
+      "measure": 84,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "db5124bce2dcbcf3b731822965870ae067913759109cefbd8d3946e051e1e1af",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "Johnny Cash (Stripped)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

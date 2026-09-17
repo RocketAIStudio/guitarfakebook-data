@@ -1,0 +1,121 @@
+{
+  "artist": "Title Fight",
+  "artistNormalized": "title fight",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 9,
+  "content": "[Verse]\n[G5]The disappro-\n[B5]val's [E5]all I need\n[G5]  [B5]  [E5]\n[D]  [A]\n[G5]To keep my\n[E5][B5]conscience clean\n[G5]  [B5]  [E5]\n[C#5]  [B5]\n[D5]  [A5]\n[G5]\n[B5]Turn your [E5]back on me\n[G5]  [B5]  [E5]\n[D]  [A]\n[G5]\n[B5]Turn your [E5]back on me\n[G5]  [B5]  [E5]\n[D5]  [A5]\n\n[Chorus]\n[G5]  [B5]\nSo you tell me\n[G5]  [B5]\njust how to be\n[G5]  [B5]\nAnd I'll live my life\n[G5]  [B5]\n[D/F#]\n[G5][E5]Accordin-\n[G5]gly [B5]Fol-\n[G5]low blindly\n[D/F#]\n[E5]My [G5]conscience\n[G5]clean [B5]So-\n[G5]ciety\n[D/F#]\n[E5]  [D/F#]  [G5]\n[B5]  [G5]\n\n[Outro]\n[G5]\n[B5]  [E5]\n[G5]  [B5]  [E5]\n[D]  [A]\n[G5]\n[E5][B5]Socie-\n[G5]ty [B5][E5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "x022xx",
+        "x02xxx"
+      ],
+      "catalogCount": 2
+    },
+    "B5": {
+      "catalog": [
+        "x24xxx",
+        "x244xx",
+        "799xxx",
+        "79xxxx"
+      ],
+      "catalogCount": 4
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "x5777x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "254xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx",
+        "x57xxx"
+      ],
+      "catalogCount": 2
+    },
+    "E5": {
+      "catalog": [
+        "02xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "35xxxx",
+        "355xxx"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Society",
+  "id": "05a81a37e1ef3933a910c2b5805e195006a87773a69dfc94e31b24e39c3ff7ad",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 58,
+  "normalizedKey": "title fight|society",
+  "playableChords": [
+    "G5",
+    "B5",
+    "E5",
+    "D",
+    "A",
+    "C#5",
+    "D5",
+    "A5",
+    "D/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "05a81a37e1ef3933a910c2b5805e195006a87773a69dfc94e31b24e39c3ff7ad",
+    "version": "BCFZ"
+  },
+  "tempo": 118,
+  "title": "Society",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,85 @@
+{
+  "artist": "XXXTENTACION",
+  "artistNormalized": "xxxtentacion",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[F][Em]Yeah\n[Am]  [Em]\n[F]  [Em]\n[Am]Rest in peace to all the kids that lost their [Em]lives in the Parkland shooting,\n[F]This song is dedicated [Em]to you\n[Am]  [Em]\n[F]  [Em]\n[Am][Em]Okay,\n\n[Verse]\n[F]she keep cryin', she keep cryin' every [Em]single night\n[Am]Day and night, on my mind, please don't [Em]kill the vibe\n[F]Oh no, I swear to God, I be [Em]in my mind\n[Am]Swear I wouldn't die, yeah, when [Em]you cross my— Said I wanna\n\n[Chorus]\n[F]die, yuh, no, I'm not alright, [Em]yuh I might start a\n[Am]riot, I'm so fuckin' [Em]tired So what's up?\n[F]What you say? Feelin' good, I'm feelin' [Em]great Tired of the\n[Am]fuckin' hate, stackin' cheese all on my [Em]plate\n\n[Bridge]\n[F]So [Em]outside of my\n[Am]misery, I think [Em]I'll find\n[F]A way [Em]of en-\n[Am]visioning a [Em]better life\n[F]For the rest [Em]of us,\n[Am]the rest [Em]of us There's\n[F]hope for the rest [Em]of us,\n[Am]the rest [Em]of us\n\n[Outro]\n[F]  [Em]\n[Am]  [Em]\n[F]  [Em]\n[Am]  [Em]\n[F]  [Em]\n[Am]  [Em]\n[F]  [Em]\n[Am]  [Em]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hope",
+  "id": "819807e389ff25ba2bd766896d8a3369053ed081cc242dce534c52f2a31d4403",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 155,
+  "normalizedKey": "xxxtentacion|hope",
+  "playableChords": [
+    "F",
+    "Em",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "819807e389ff25ba2bd766896d8a3369053ed081cc242dce534c52f2a31d4403",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "Hope",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

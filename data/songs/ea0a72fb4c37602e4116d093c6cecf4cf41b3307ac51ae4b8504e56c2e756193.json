@@ -1,0 +1,115 @@
+{
+  "artist": "Vampire Weekend",
+  "artistNormalized": "vampire weekend",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D]\n\n[Verse 1]\n[D]Holiday, oh, a\nholiday! And the\n[Dsus4]best one of [D]the year\n[A]\n[D]Dozing off under-\nneath my sheets While I\n[Dsus4]cover both [D]my ears\n[A]But\n\n[Chorus]\n[G]if I wait [C#dim/G]for a\n[D]holiday [G]\n[G]Could it stop [C#dim/G]my fear?\n[D]To\n[G]go away [C#dim/G]on a\n[D]summer's day [G]\n[G]Never seemed [C#dim/G]so clear\n[D]\n\n[Verse 2]\n[D]Holiday, still so\nfar away Our re-\n[Dsus4]public on [D]the beach\n[A]I\n[D]can't forget just how\nbad it gets When I'm\n[Dsus4]counting on [D]my teeth\n[A]But\n\n[Chorus]\n[G]if I wait [C#dim/G]for a\n[D]holiday [G]\n[G]Could it stop [C#dim/G]my fear?\n[D]To\n[G]go away [C#dim/G]on a\n[D]summer's day [G]\n[G]Never seemed [C#dim/G]so clear\n[D]\n\n[Interlude]\n[G]\n[C#dim/G]\n[D]\n[G]\n[G]A vegetarian since\n[C#dim/G]the inva sion\n[D]She'd never seen the word\n[G]bombs\n[G]She'd never seen the word\n[C#dim/G]bombs blown up To\n[D]ninety six point futu-\n[G]ra\n[G]She'd never seen an a--\n[C#dim/G]k In a\n[D]yellowy day glo dis-\n[G]play A\n[G]t-shirt so lovely it turned\n[C#dim/G]all the history books\n[D]gray\n\n[Verse 3]\n[D]I've got wheels, I've got\ncutter spray And a\n[Dsus4]healthy sense [D]of worth\n[A]\n[D]Half of me is the\ngasoline But the\n[Dsus4]other half's [D]the surf\n[A]So\n\n[Chorus]\n[G]if I wait [C#dim/G]for a\n[D]holiday [G]\n[G]Could it stop [C#dim/G]my fear?\n[D]To\n[G]go away [C#dim/G]on a\n[D]summer's day [G]\n[G]Never seemed [C#dim/G]so clear\n\n[Outro]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#dim/G": {
+      "catalog": [
+        "xx5653"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus4": {
+      "catalog": [
+        "xx0233"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Holiday",
+  "id": "ea0a72fb4c37602e4116d093c6cecf4cf41b3307ac51ae4b8504e56c2e756193",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 241,
+  "normalizedKey": "vampire weekend|holiday",
+  "playableChords": [
+    "D",
+    "Dsus4",
+    "A",
+    "G",
+    "C#dim/G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Interlude"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 80,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ea0a72fb4c37602e4116d093c6cecf4cf41b3307ac51ae4b8504e56c2e756193",
+    "version": "BCFZ"
+  },
+  "tempo": 157,
+  "title": "Holiday",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,89 @@
+{
+  "artist": "Wire",
+  "artistNormalized": "wire",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[B]  [E]\n[A]\n[B]  [E]\n[A]Well I\n[B]hope you feel [E]better\n[A]Like a\n[B]'flight [E]A jetter'\n[A]And the\n[B]water [E]feels wetter\n[A]And a\n[B]girl, I [E]can get her\n[A]On TV\n\n[Verse 1]\n[B]\n[E]  [A]\n[B]\n[E][A]I could fly\n[B]to India\n[E]And [A]get\n[B]inside America\n[E][A]And the\n[B]place I want to meet\n[E][A]And the place\n[B]I want to see\n[E][A]On T-\n[B]V\n[E]  [A]\n[B]\n[E][A]I could\n\n[Verse 2]\n[B]make a million dollars\n[E][A]And\n[B]go real far\n[E][A]I could\n[B]be anyone\n[E][A]It's not\n[B]fun\n[E]  [A]\n\n[Chorus]\n[B]My TV\n[E][A]My T-\n[B]V\n[E][A]My T-\n[B]V\n[E][A]My T-\n[B]V\n[E][A]My T-\n[B]V\n[E]  [A]\n[B]\n[E][A]And\n\n[Verse 3]\n[B]where nobody know\n[E][A]I've\n[B]talked with Joe\n[E][A]Until\n[B]my ? ? ? me\n[E][A]It's\n[B]the only place to be\n[E][A]On T-\n\n[Outro]\n[B]V\n[E]On [A]TV\n[B]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "TV",
+  "id": "bdcbb1c5ade1b339c69b8a9066e3f83384b539dc1d33a4634a2609f7437a2152",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 123,
+  "normalizedKey": "wire|tv",
+  "playableChords": [
+    "B",
+    "E",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bdcbb1c5ade1b339c69b8a9066e3f83384b539dc1d33a4634a2609f7437a2152",
+    "version": "BCFZ"
+  },
+  "tempo": 166,
+  "title": "TV",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

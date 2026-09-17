@@ -1,0 +1,107 @@
+{
+  "artist": "Two Doors Cinema Club",
+  "artistNormalized": "two doors cinema club",
+  "capo": "9",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\n[C/B]\n[C]\n[F/A]\n[Am7]\n[Am]\n[C/B]\n[C]\n[F/A]\n[Am7]\n\n[Verse1]\n[Am]In a few weeks\nI will get time\n[C]To realize it's\nright before my eyes\n[F/A]And I can take it\nif it's\n[Am7]What I\nwant to do\n[Am]I am leaving\nthis is starting\n[C]To feel like it's\nright before my eyes\n[F/A]And I can taste it\nIt's my\n[Am7]sweet be-\nginning\n\n[Chorus]\n[Am]And I can\ntell just what [C/B]you\n[C]want You don't\nwant to be a-\n[F/A]lone You don't\nwant to be a-\n[Am7]lone\n[Am]And I can't\nsay it's what [C/B]you\n[C]know But you've\nknown it the whole\n[F/A]time Yeah, you've\nknown it the whole\n[Am7]time\n\n[Verse2]\n[Am]Maybe next year\nI'll have no time\n[C]To think about the\nquestions to address\n[F/A]Am I the one to\ntry to\n[Am7]Stop the\nfire?\n[Am]I wouldn't test you\nI'm not the best you\n[C]Could have attained\nwhy try anything?\n[F/A]I will get there\nJust re-\n[Am7]member\nI know\n\n[Chorus]\n[Am]And I can\ntell just what [C/B]you\n[C]want You don't\nwant to be a-\n[F/A]lone You don't\nwant to be a-\n[Am7]lone\n[Am]And I can't\nsay it's what [C/B]you\n[C]know But you've\nknown it the whole\n[F/A]time Yeah, you've\nknown it the whole\n[Am7]time\n\n[Bridge]\n[Am]\n[C]\n[Am]\n[C]\n[Am]\n[C]\n[Am]\n[C]\n\n[Outro]\n[Am]And I can\ntell just what [C/B]you\n[C]want You don't\nwant to be a-\n[F/A]lone You don't\nwant to be a-\n[Am7]lone\n[Am]And I can't\nsay it's what [C/B]you\n[C]know But you've\nknown it the whole\n[F/A]time Yeah, you've\nknown it the whole\n[Am7]time",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x0221x",
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x0201x",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x3201x",
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C/B": {
+      "catalog": [
+        "x2201x"
+      ],
+      "catalogCount": 1
+    },
+    "F/A": {
+      "catalog": [
+        "x0321x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "What You Know",
+  "id": "8637ea0ac808985cf597648d6b423e80b92ad7422b69ffa732f5a57010714094",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 248,
+  "normalizedKey": "two doors cinema club|what you know",
+  "playableChords": [
+    "Am",
+    "C/B",
+    "C",
+    "F/A",
+    "Am7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Verse2"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Bridge"
+    },
+    {
+      "measure": 91,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8637ea0ac808985cf597648d6b423e80b92ad7422b69ffa732f5a57010714094",
+    "version": "BCFZ"
+  },
+  "tempo": 138,
+  "title": "What You Know",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

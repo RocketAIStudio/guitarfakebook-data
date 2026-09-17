@@ -1,0 +1,115 @@
+{
+  "artist": "Van Morrison",
+  "artistNormalized": "van morrison",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]\n[C]\n[G]\n[D]\n[G]\n[C]\n[G]\n[D7]\n\n[Verse 1]\n[G]Hey where did we\n[C]go\n[G]Days when the rains\n[D]came\n[G]Down in the\n[C]hollow\n[G]Playin' a new\n[D7]game\n[G]Laughing and a\n[C]running hey, hey\n[G]Skipping and a\n[D]jumping\n[G]In the misty morn-\n[C]ing fog with\n[G]Our\n[D7]hearts a thumpin' and\n[C]you\n[D7]My brown-eyed girl\n[G]\n[Em]\n[C]You, my\n[D7]brown-eyed gi-\n[G]rl\n[D]\n\n[Verse 2]\n[G]Whatever hap-\n[C]pened\n[G]Tuesday and so\n[D]slow\n[G]Going down the old\n[C]mine With a\n[G]transistor ra-\n[D7]dio\n[G]Standing in the sun-\n[C]light laughin'\n[G]Hidin' behind a\n[D7]rainbow's wall\n[G]Slipping and slid-\n[C]ing\n[G]All along the\n[D7]waterfall, with you\n[C]\n[D]My brown-eyed girl\n[G]\n[Em]\n[C]You, my\n[D7]browneyed girl\n[G]\n[D]Do you remem-\n[D7]ber when\n[D7]we used to sing\n\n[Chorus]\n[G]Sha la la la\n[C]la la la la\n[G]la la la te da\n[D7]Just like that\n[G]Sha la la la\n[C]la la la la\n[G]la la la te da\n[D7]la te da\n[G]\n[G]\n[G]\n\n[Break]\n\n[Verse 3]\n[G]So hard to find\n[C]my way\n[G]Now that I'm all on\n[D]my own\n[G]I saw you just the\n[C]other day\n[G]My, how you have\n[D]grown\n[G]Cast my memo-\n[C]ry back there, Lord\n[G]Sometimes I'm over-\n[D]come thinking 'bout\n[G]Making love in the\n[C]green grass\n[G]Behind the\n[D]stadium with you\n[C]\n[D7]My brown-eyed girl\n[G]\n[Em]\n[C]You, my\n[D7]brown-eyed girl\n[G]\n\n[Chorus]\n[D]Do you remem-\n[D7]ber when\n[D7]we used to sing\n[G]Sha la la la\n[C]la la la la\n[G]la la la te da\n[D7]\n[G]Sha la la la\n[C]la la la la\n[G]la la la te da\n[D7]\n[G]Sha la la la\n[C]la la la la\n[G]la la la te da\n[D7]\nSha la la la\nla la la la\nla la la te da",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Brown Eyed Girl",
+  "id": "7da132741c4ff7e585907391a64958508f281986b9167c936edfc8e7cdc64327",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 291,
+  "normalizedKey": "van morrison|brown eyed girl",
+  "playableChords": [
+    "G",
+    "C",
+    "D",
+    "D7",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 72,
+      "name": "Break"
+    },
+    {
+      "measure": 76,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 99,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7da132741c4ff7e585907391a64958508f281986b9167c936edfc8e7cdc64327",
+    "version": "BCFZ"
+  },
+  "tempo": 149,
+  "title": "Brown Eyed Girl",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

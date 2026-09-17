@@ -1,0 +1,134 @@
+{
+  "artist": "Zac Brown & Sir Rosevelt",
+  "artistNormalized": "zac brown sir rosevelt",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C#m]\n[E]\n[B]\n[A]\n[C#m]\n[E]\n[B]\n[A]\n\n[Verse 1]\n[C#m]When your heart's on the edge\n[E]\n[B]Barely hanging on like a mid-\n[A]night cigarette\n[C#m]When the nights don't seem to end\n[E]And that\n[B]lonely wind is singing you to sleep\n[A]once again\n\n[Pre-Chorus]\n[C#m]I won't make a [B]promise I can't\n[A]keep Like a\n[C#m]river flows [B]to the ocean\n[A]deep It goes\n\n[Chorus]\n[C#m]on [B/D#]and\n[E]on\n[B]Bound to forever\n[A]Even when we're gone It goes\n[C#m]on and\n[E]on\n[B]We'll be together At the\n[A]rising of the dawn It goes\n\n[Interlude]\n[C#m]on [B]\n[A]\n[C#m]  [B]\n[A]\n\n[Verse 2]\n[C#m]When your mind's on the loose\n[E]\n[B]Slowly wearing out like a fa-\n[A]ded old tattoo\n[C#m]When the days all look the same\n[E]When that\n[B]lonely wind keeps singing only you\n[A]can ease the pain\n\n[Pre-Chorus]\n[C#m]That's the kind of bond [B]that you can't\n[A]break Like\n[C#m]looking up at all [B]the stars in\n[A]space It goes\n\n[Chorus]\n[C#m]on [B/D#]and\n[E]on\n[B]Bound to forever\n[A]Even when we're gone It goes\n[C#m]on and\n[E]on\n[B]We'll be together At the\n[A]rising of the dawn It goes\n[C#m]on\n\n[Bridge]\n[A]Digging through the sands of time to\n[E]find my way back home Your memo-\n[G#]ry's the thing that keeps me hanging on\n[C#m]To\n[A]know I'm not alone, we're stronger than\n[E]the bonds of blood Even on the\n[G#]darkest days together through the\nvalley of the gun\n[C#m]It goes\n\n[Chorus]\n[C#m]on and on\n[E]\n[B]Bound to forever\n[A]Even when we're gone It goes\n[C#m]on and on and on\n[E]\n[B]We'll be together At the\n[A]rising of the dawn\n\n[Outro]\n[G#]We'll be together At the\nrising of\nthe\n[C#m]dawn",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B/D#": {
+      "catalog": [
+        "x6987x"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "It Goes On",
+  "id": "3672f48b5df377ae9078a72dee8de59c1d4d275ba290dcbd5e6ee2eacc4a8026",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 292,
+  "normalizedKey": "zac brown sir rosevelt|it goes on",
+  "playableChords": [
+    "C#m",
+    "E",
+    "B",
+    "A",
+    "B/D#",
+    "G#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Bridge"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 71,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3672f48b5df377ae9078a72dee8de59c1d4d275ba290dcbd5e6ee2eacc4a8026",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "It Goes On",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

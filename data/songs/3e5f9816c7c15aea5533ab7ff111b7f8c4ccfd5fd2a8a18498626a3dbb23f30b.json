@@ -1,0 +1,101 @@
+{
+  "artist": "Yodelice",
+  "artistNormalized": "yodelice",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Em]\n\n[Verse 1]\n[Em]Mamma, wash the blood o-\nn my hands Sold my\nsoul to someo-\nne, I said\nMamma, wash the blood o-\nn my hands I've pull the\ntrigger and I mi-\nght be dead Wake me up\n\n[Chorus]\n[C]Wake me up\n[A]Wake me up\n[Em]\nWake me up\n[C]Wake me up\n[A]Wake me up\n[Em]\n\n[Interlude]\n[Em]\n\n[Verse 2]\n[Em]Mamma what's the cold i-\nn my veins Is it\n[C]dawn or [A]dusk I cou-\n[Em]ldn't tell\n[Em]Mamma, wish I don't die\ntoday 'Cos I'd\n[C]go go [A]go strai-\n[Em]ght to hell Wake me up\n\n[Chorus]\n[C]Wake me up\n[A]Wake me up\n[Em]\nWake me up\n[C]Wake me up\n[A]Wake me up\n[Em]\nWake me up\n[C]Wake me up\n[A]Wake me up\n[Em]\nWake me up\n[C]Wake me up\n[A]Wake me up\n\n[Break]\n[Em]\n\n[Bridge]\n[Em]\nWake me up\n\n[Chorus]\n[C]Wake me up\n[A]Wake me up\n[Em]\nWake me up\n[C]Wake me up\n[A]Wake me up\n[Em]\nWake me up\n[C]Wake me up\n[A]Wake me up\n[Em]\nWake me up\n[C]Wake me up.\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wake Me Up",
+  "id": "3e5f9816c7c15aea5533ab7ff111b7f8c4ccfd5fd2a8a18498626a3dbb23f30b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 161,
+  "normalizedKey": "yodelice|wake me up",
+  "playableChords": [
+    "Em",
+    "C",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Interlude"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Break"
+    },
+    {
+      "measure": 59,
+      "name": "Bridge"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3e5f9816c7c15aea5533ab7ff111b7f8c4ccfd5fd2a8a18498626a3dbb23f30b",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Wake Me Up",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

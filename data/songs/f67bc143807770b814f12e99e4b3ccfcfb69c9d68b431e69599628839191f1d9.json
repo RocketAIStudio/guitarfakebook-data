@@ -1,0 +1,136 @@
+{
+  "artist": "Van Halen",
+  "artistNormalized": "van halen",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Bm7]\n[F#m7]\n[Bm7]\n[F#m7]\n[Bm7]\n[F#m7]\n[Bm7]\n[F#m7]\n\n[Verse 1]\n[Bm7]They may talk about you cold when you were\n[F#m7]Headed for the skies\n[A5]But you were young and bold and baby didn't that\n[E5]Change with a wink of your eye\n[Bm7]Now no one's talkin' 'bout those\n[F#m7]Crazy days gone by\n[A5]No one talks about the\n[E5]Times you cried\n\n[Chorus]\n[Bm7]\n[F#m7]Little\n[Em7]dreamer\n[F#5]\n[Bm7]\n[F#m7]Uh, little drea-\n[Em7]mer\n[F#5]\n\n[Verse 2]\n[Bm7]And then they went and they voted you\n[F#m7]Least likely to succeed\n[A5]I hadda tell them baby, you were armed with\n[E5]All you'd need\n[G5]Seems no one's talkin' 'bout those\n[D5]Crazy days gone past\n[A5]Weren't they amazed when you were\n[F#5]Really last\n\n[Chorus]\n[Bm7]\n[F#m7]You are the lit-\n[Em7]tle dreamer\n[F#5]\n[Bm7]You were\n[F#m7]the little drea-\n[Em7]mer,\n[F#5]yeah, yeah\n\n[Solo]\n[Bm7]\n[F#m7]\n[Em7]\n[F#5]\n[Bm7]\n[F#m7]\n[Em7]\n[F#5]\n\n[Verse 3]\n[Bm7]Yeah they talk about you cold when you were\n[F#m7]Headed for the skies\n[A5]But you were young and bold and baby didn't that\n[E5]Change with a wink of your eye\n[G5]Seems no one's talkin' 'bout the\n[D5]Crazy days gone past\n[A5]Weren't they amazed when you were\n[F#5]Really last\n\n[Chorus]\n[Bm7]\n[F#m7]You are the lit-\n[Em7]tle dreamer\n[F#5]\n[Bm7]\n[F#m7]Little drea-\n[Em7]mer, yeah,\n[F#5]oh\n[Bm7]Yeah\n[F#m7]Little drea-\n[Em7]mer\n[F#5]\n[Bm7]\n[F#m7]Little drea-\nmer\n\n[Outro]\n[E5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bm7": {
+      "catalog": [
+        "x35343",
+        "x-2-4-2-3-2",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "131111",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#m7": {
+      "catalog": [
+        "353333",
+        "2-4-2-2-2-2",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Little Dreamer *alt",
+  "id": "f67bc143807770b814f12e99e4b3ccfcfb69c9d68b431e69599628839191f1d9",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 209,
+  "normalizedKey": "van halen|little dreamer",
+  "playableChords": [
+    "Bm7",
+    "F#m7",
+    "A5",
+    "E5",
+    "Em7",
+    "F#5",
+    "G5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Solo"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 72,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f67bc143807770b814f12e99e4b3ccfcfb69c9d68b431e69599628839191f1d9",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Little Dreamer",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

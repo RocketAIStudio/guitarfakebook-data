@@ -1,0 +1,122 @@
+{
+  "artist": "WILLOW",
+  "artistNormalized": "willow",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Abmaj7]\n[Fm7]\n[Bbm7]\n[Cm7]\n\n[Chorus]\n[Abmaj7]I had to tell\n[Fm7]her, just Stop mess-\n[Bbm7]ing with my head\n[Cm7]And love me instead\n[Abmaj7]It's not offi-\n[Fm7]cial, but I think\n[Bbm7]Its common sense\n[Cm7]Or am I insane\n[Abmaj7]I blew out the gas-\n[Fm7]light, now I feel\n[Bbm7]a different way\n[Cm7]I'll just love me instead\n[Abmaj7]Love me instead\n[Fm7]Love me inste-\n[Bbm7]ad\n[Cm7]\n\n[Verse 1]\n[Ab]I like you,\n[Fm7]you like me That's why\n[Db]I'm confused,\n[Bbm7]I can't read the signs\n[Ab]So why you gotta Treat\n[Fm7]me like this?\n[Db]I just need to breathe So I don't\n[Bbm7]go apeshit When I\n[Ab]wake up\n[Fm7]I see you at night\n[Db]In my dreams\n[Bbm7]Yeah that too, and I\n[Ab]I just\n[Fm7]need some closure,\n[Db]Can you hit my\n[Bbm7]line, yeah\n\n[Chorus]\n[Abmaj7]I had to tell\n[Fm7]her, just Stop mess-\n[Bbm7]ing with my head\n[Cm7]And love me instead\n[Abmaj7]It's not offi-\n[Fm7]cial, but I think\n[Bbm7]Its common sense\n[Cm7]Or am I insane\n[Abmaj7]I blew out the gas-\n[Fm7]light, now I feel\n[Bbm7]a different way\n[Cm7]I'll just love me instead\n[Abmaj7]Love me instead\n[Fm7]Love me inste-\n[Bbm7]ad\n[Cm7]\n\n[Verse 2]\n[Ab]Confused\n[Fm7]I'm right here, So what\n[Db]we gon' do?\n[Bbm7]Act like there's Some-\n[Ab]thing to lose\n[Fm7]But there ain't none,\n[Db]But there ain't no-\n[Bbm7]ne\n[Ab]You really try-\n[Fm7]na\n[Db]I need to get\n[Bbm7]you\n[Ab]We'll break the cy-\n[Fm7]cle\n[Db]\n[Bbm7]\n\n[Chorus]\n[Bbm7]ad\n[Cm7]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "466544",
+        "4-3-1-1-1-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "Abmaj7": {
+      "catalog": [
+        "4x554x",
+        "4-3-1-1-1-3",
+        "4-6-5-5-4-4",
+        "x-x-6-8-8-8",
+        "x-11-10-8-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm7": {
+      "catalog": [
+        "x13121",
+        "6-8-6-6-6-6",
+        "x-x-8-10-9-9",
+        "x-13-15-13-14-13",
+        "18-20-18-18-18-18"
+      ],
+      "catalogCount": 5
+    },
+    "Cm7": {
+      "catalog": [
+        "x35343",
+        "8-10-8-8-8-8",
+        "x-x-10-12-11-11",
+        "x-15-17-15-16-15",
+        "20-22-20-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm7": {
+      "catalog": [
+        "131111",
+        "x-x-3-5-4-4",
+        "x-8-10-8-9-8",
+        "13-15-13-13-13-13",
+        "x-20-22-20-21-20"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Gaslight",
+  "id": "2e923232a4a2c7615459a6c46de203209d205d1ce5856f835f0f21ba3a0f0a5f",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 232,
+  "normalizedKey": "willow|gaslight",
+  "playableChords": [
+    "Abmaj7",
+    "Fm7",
+    "Bbm7",
+    "Cm7",
+    "Ab",
+    "Db"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2e923232a4a2c7615459a6c46de203209d205d1ce5856f835f0f21ba3a0f0a5f",
+    "version": "BCFZ"
+  },
+  "tempo": 185,
+  "title": "Gaslight",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

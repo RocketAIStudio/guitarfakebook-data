@@ -1,0 +1,112 @@
+{
+  "artist": "Wallows",
+  "artistNormalized": "wallows",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n\n[Chorus]\n[F]Your way\n[C]I'm trying to understand\n[F]These days\n[C]I need to know if you're\n[F]feeling it Or I'm\n[C]wasting my time\n[F]Your way, or\n[C]mine You spent\n\n[Verse 1]\n[F]every second with him You're\n[C]taking what you're giving Your\n[F]mother don't approve of The\n[C]way that you've been living She\n[F]says he puts you through it You\n[C]shouldn't let him do it And\n[F]if there is a voice In your\n[C]head don't listen to it\n\n[Verse 2]\n[F]My mind is open wide I\n[C]think of it a [G]thousand times\n[F]That empty space left in my\n[C]bed From when you [G]stayed the night\n[F]We were fucked up but you still\n[C]made sure I slept [G]on my side\n[F]I still wake up wishing You're\n[C]there when I [G]open my eyes\n\n[Chorus]\n[F]Your way\n[C]I'm trying to understand\n[F]These days\n[C]I need to know if you're\n[F]feeling it Or I'm\n[C]wasting my time\n[F]Your way, or\n[C]mine You spend\n\n[Break]\n[F]every second with him You're\n[C]taking what you're giving Your\n[Am7]mother don't approve of The\n[C]way that you've been living She\n[F]says he puts you through it, you\n[C]shouldn't let him do it And\n[Am7]if there is a voice in your\n[C]head don't listen to it\n\n[Bridge]\n[F]\n[C]  [Am7]\n[F]\n[C]  [Am7]\n[F]\n[C]  [Am7]\n[F]\n[C]  [Am7]\n\n[Chorus]\n[F]Your way\n[C]I'm trying to [Am7]understand\n[F]These days\n[C]I need to [Am7]know if you're\n[F]feeling it Or I'm\n[C]wasting my [Am7]time\n[F]Your way\n[C]  [Am7]\n[F]Your way\n[C]I'm trying to [Am7]understand\n[F]These days\n[C]I need to [Am7]know if you're\n[F]feeling it Or I'm\n[C]wasting my [Am7]time\n[F]Your way\n[C]  [Am7]\n\n[Outro]\n[F]Your way\n[C]I'm trying to [Am7]understand\n[F]These days\n[C]I need to [Am7]know if you're\n[F]feeling it Or I'm\n[C]wasting my [Am7]time\n[F]Your way, or\n[C]mine.",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "These Days",
+  "id": "30de9e6ec1c5ca9577a332def3d41fe59f2df262d8dad3b0e3c37bc6de3839c6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 339,
+  "normalizedKey": "wallows|these days",
+  "playableChords": [
+    "F",
+    "C",
+    "G",
+    "Am7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Break"
+    },
+    {
+      "measure": 47,
+      "name": "Bridge"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 71,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "30de9e6ec1c5ca9577a332def3d41fe59f2df262d8dad3b0e3c37bc6de3839c6",
+    "version": "BCFZ"
+  },
+  "tempo": 93,
+  "title": "These Days",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,119 @@
+{
+  "artist": "Tom Petty & The Heartbreakers",
+  "artistNormalized": "tom petty the heartbreakers",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D]\n\n[Verse 1]\n[D]Well she was an A-\n[E]merican girl\n[G]Raised on\n[A]promises\n[D]She couldn't help\n[E]thinkin' that there Was a\n[G]little more to life\n[A]Somewhere else\nAfter all it was a\n[D]great big world\n[G]With lots of places to\n[E]run to\n[A]Yeah, if she had to die\nTryin' she\nhad one little promise\nShe was gonna keep\n\n[Chorus]\n[G]Oh yeah,\n[A]all right\n[D]Take it easy baby\n[Bm]Make it last all night\n[G]She was\n[A]an American\n[D]girl\n\n[Verse 2]\n[D]Well, It was kind of\n[E]cold that night\n[G]She stood alone on her\n[A]balcony\n[D]Yeh, she could hear the\n[E]cars roll by Out on\n[G]four fourty one Like\n[A]waves crashin' in on the beach\nAnd for one desperate\n[D]moment there\n[G]He crept back in her\n[E]memory\n[A]God it's so painful\nSomething that's so close\nAnd still so\nfar out of reach\n\n[Chorus]\n[G]Oh yeah,\n[A]all right\n[D]Take it easy baby\n[Bm]Make it last all night\n[G]She was\n[A]an American\n[D]girl\n\n[Interlude]\n[G]\n[A]  [D]\n[G]\n[A]  [D]\n[G]\n[A]  [D]\n[G]\n[A]\n[D]\n[E]\n[G]\n[A]\n[D]\n[E]\n[G]\n[A]\n\n[Outro]\n[D]\n[E]\n[G]\n[A]\n[D]\n[E]\n[G]\n[A]\n[D]\n[E]\n[G]\n[A]\n\n[Fade Out]\n[D]\n[E]\n[G]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "American Girl",
+  "id": "64402cb44424e738011e5e25298df2937908c7862e8744504ae7e0ad7f67ba33",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 188,
+  "normalizedKey": "tom petty the heartbreakers|american girl",
+  "playableChords": [
+    "D",
+    "E",
+    "G",
+    "A",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Interlude"
+    },
+    {
+      "measure": 85,
+      "name": "Outro"
+    },
+    {
+      "measure": 97,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "64402cb44424e738011e5e25298df2937908c7862e8744504ae7e0ad7f67ba33",
+    "version": "BCFZ"
+  },
+  "tempo": 114,
+  "title": "American Girl",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

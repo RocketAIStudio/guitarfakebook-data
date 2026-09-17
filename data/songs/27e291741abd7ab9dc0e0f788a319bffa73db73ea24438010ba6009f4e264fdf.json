@@ -1,0 +1,77 @@
+{
+  "artist": "Young Marble Giant",
+  "artistNormalized": "young marble giant",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[E]\n[A]\n[F#m]\n[E]\n[F#m]\n[A]\n\n[Verse]\nThink of\nsalad\ndays\nThey were\nfo-\nlly and\nfun\nThey were\ngood,\nthey were\nyoung\n\n[Outro]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Salad Days",
+  "id": "27e291741abd7ab9dc0e0f788a319bffa73db73ea24438010ba6009f4e264fdf",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 17,
+  "normalizedKey": "young marble giant|salad days",
+  "playableChords": [
+    "E",
+    "A",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 33,
+      "name": "Verse"
+    },
+    {
+      "measure": 45,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "27e291741abd7ab9dc0e0f788a319bffa73db73ea24438010ba6009f4e264fdf",
+    "version": "BCFZ"
+  },
+  "tempo": 142,
+  "title": "Salad Days",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

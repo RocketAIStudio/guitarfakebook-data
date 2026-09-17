@@ -1,0 +1,123 @@
+{
+  "artist": "Tom Petty",
+  "artistNormalized": "tom petty",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D5]\nI re-\n\n[Verse 1]\n[Am7]member [F]you [G]so\n[D5]clearly The\n[Am7]first one [F]through [G]the door\n[D5]I re-\n[Am7]turn to [F]find [G]you\n[D5]drifting\n[Am7]Too far [F]from [G]the\n[D5]shore\nI re-\n\n[Verse 2]\n[Am7]member [G][F]feeling\n[D5]this way You can\n[Am7]lose it [F]without [G]knowing\n[D5]You wake\n[Am7]up and [F]you [G]don't\n[D5]notice Which\n[Am7]way the [F]wind is [G]blowing\n[D5]\n\n[Chorus]\n[A#][F][G]Don't\n[A#][F][G]fade\n[A#]  [F]  [G]\nNo don't fade on\n[D5]me\nYou were the\n\n[Verse 3]\n[Am7]one who [F]made [G]things\n[D5]different You were the\n[Am7]one who [F]took me [G]in\n[D5]You were the\n[Am7]one thing [F]I [G]could\n[D5]count on Above\n[Am7]all you [F]were my [G]friend\n[D5]\n\n[Chorus]\n[A#][F][G]Don't\n[A#][F][G]fade\n[A#]  [F]  [G]\nNo don't fade on\n[D5]me\n\n[Interlude]\n[Am7]  [F]  [G]\n[D5]\n[Am7]  [F]  [G]\n[D5]\n[Am7]  [F]  [G]\n[D5]\n[Am7]  [F]  [G]\n[D5]\nWell your\n\n[Verse 4]\n[Am7]clothes hang [F]on [G]a\n[D5]wire And the\n[Am7]sun is [G][F]overhead\n[D5]But to-\n[Am7]day you [F]are [G]too\n[D5]weary\n[Am7]To even [F]leave [G]your\n[D5]bed\nWas it\n\n[Verse 5]\n[Am7]love that [F]took [G]you\n[D5]under? Or\n[Am7]did you [F]know too [G]much?\n[D5]Was it\n[Am7]something [F]you [G]could\n[D5]picture? But\n[Am7]never [F]could quite [G]touch?\n[D5]\n\n[Chorus]\n[A#][F][G]Don't\n[A#][F][G]fade\n[A#]  [F]  [G]\nNo don't fade on\n[D5]me\n[A#][F][G]Don't\n[A#]  [F]  [G]\n[A#]  [F]  [G]\nNo don't fade on\n[D5]me\n\n[Outro]\n[D5]",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "8x8766"
+      ],
+      "catalogCount": 1
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "00023x"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "303211",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "5x5433",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Don't Fade On Me",
+  "id": "48f2b5f4c3e25ce828badc15e4b44b3e55c8237b18d4c0e10ea48573df71d33c",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 171,
+  "normalizedKey": "tom petty|don t fade on me",
+  "playableChords": [
+    "D5",
+    "Am7",
+    "F",
+    "G",
+    "A#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 60,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 69,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 78,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "48f2b5f4c3e25ce828badc15e4b44b3e55c8237b18d4c0e10ea48573df71d33c",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Don't Fade On Me",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

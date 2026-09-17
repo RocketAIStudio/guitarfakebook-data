@@ -1,0 +1,131 @@
+{
+  "artist": "Two Door Cinema Club",
+  "artistNormalized": "two door cinema club",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[D]Ocean [Am]blue What\n[C]have I [Em]done to you?\n[D]Cut so [Am]deep Yet\n[C]growing [Em]through and through\n[D]  [Am]\n[C]  [Em]\n[D]  [Am]\n[C]\n\n[Bridge]\n[D]  [Am]\n[C]  [Em]\n[D]  [Am]\n[C]  [Em]\n\n[Verse 2]\n[D]Drawn [Am]apart New\n[C]York and [Em]London All\n[D]I see [Am]now are\n[C]distant [Em]drumlins The\n[D]roads I [Am]knew be-\n[C]came a [Em]city And\n[D]I [Am]wonder, will you wait\n[D]for me? Although\n\n[Chorus]\n[C]I'm far away\n[Am]I know I'll stay,\n[Em]I know I'll stay right there with you\n[G]Though\n[C]It might be too late\n[Am]What would you say?\n[Em]What would you say? What would you do?\n[G]\n\n[Bridge]\n[D]  [Am]\n[C]  [Em]\n[D]  [Am]\n[C][Em]I\n\n[Verse 3]\n[D]built a [Am]hive be-\n[C]came one [Em]with the bees But we\n[D]fell like [Am]rain got\n[C]lost [Em]into the sea If\n[D]I don't [Am]know the\n[C]wind will [Em]carry me So\n[D]just hold [Am]tight\n[D]Though\n\n[Chorus]\n[C]I'm far away\n[Am]I know I'll stay,\n[Em]I know I'll stay right there with you\n[G]Though\n[C]It might be too late\n[Am]What would you say?\n[Em]What would you say? What would you do?\n[G]\n\n[Interlude]\n[C]Over and over many\n[Em]setting suns I have run,\n[D]I have waited for the\n[Am]rain to come When\n[C]through that mist I see the\n[Em]shape of you And I know,\n[D]and I know that I'm in\n[Am]love with you\n\n[Pre-Chorus]\n[C]\n[Am]\n[Em]\n[G]\n[C]\n[Am]\n[Em]\n[G]Though\n\n[Chorus]\n[C]I'm far away\n[Am]I know I'll stay,\n[Em]I know I'll stay right there with you\n[G]Though\n[C]It might be too late\n[Am]What would you say?\n[Em]What would you say? What would you do?\n[G]\n\n[Outro]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sun",
+  "id": "c29f9177dac9cea83c312f2424039c220dbebf23300389c45bae4bb16ea26bce",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 238,
+  "normalizedKey": "two door cinema club|sun",
+  "playableChords": [
+    "D",
+    "Am",
+    "C",
+    "Em",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Bridge"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c29f9177dac9cea83c312f2424039c220dbebf23300389c45bae4bb16ea26bce",
+    "version": "BCFZ"
+  },
+  "tempo": 97,
+  "title": "Sun",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

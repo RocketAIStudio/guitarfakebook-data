@@ -1,0 +1,146 @@
+{
+  "artist": "Weezer",
+  "artistNormalized": "weezer",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]Do dodododododo\n[Dm]Do dodododododo, do\n\n[Verse 1]\n[C]Let's [A7]do\n[Dm]hard drugs\n[G]Fix [G7]our\n[C]problems\nLet [A7]me\n[Dm]swing by\n[G]Tears [G7]in\n[C]my eyes\n\n[Chorus]\n[Am]She cut me like a piece of cake\n[G]She cut me like a piece of cake\n[C]Oh, it can drive a man insane\n[Dm]She ate me up\n\n[Interlude 1]\n[Am]Do dodododododo\n[G]Do dodododododo, do\n[C]Do dodododododo\n[Dm]Do dodododododo, do\n\n[Verse 2]\n[C]Hop [A7]on\n[Dm]this trash\n[G]Be [G7]my\n[C]last chance\nWe'll [A7]eat\n[Dm]ice cream\n[G]Weep [G7]for\n[C]Betty\n\n[Chorus]\n[Am]She cut me like a piece of cake\n[G]She cut me like a piece of cake\n[C]Oh, it can drive a man insane\n[Dm]She ate me up\n\n[Interlude 2]\n[Am]Do dodododododo\n[G]Do dodododododo, do\n[C]Do dodododododo\n[Dm]Do dodododododo, do\n\n[Bridge]\n[Am]She was into me And then she\n[G]changed the dial like I'm grunge or gangsta\n[Dm]rap Now I'm hanging out With a\nkitty cat named Baudelaire on my\n[Am]lap I never\n[G]stopped her planets\n[Dm]turning\nNo\n\n[Interlude 3]\n[Am]Do dodododododo\n[G]Do dodododododo, do\n[C]Do dodododododo\n[Dm]Do dodododododo, do\n\n[Verse 3]\n[C]Hey [A7]man,\n[Dm]cheer up\n[G]Make [G7]your\n[C]own luck\nHave [A7]a\n[Dm]nice life\n[G]Have [G7]some\n[C]more Sprite\n\n[Chorus]\n[Am]She cut me like a piece of cake\n[G]She cut me like a piece of cake\n[C]Oh, it can drive a man insane\n[Dm]She ate me up\n[Am]She cut me like a piece of cake\n[G]She cut me like a piece of cake\n[C]Oh, it can drive a man insane\n[Dm]She ate me up\n\n[Outro]\n[Am]\n[G]\n[C]\n[Dm]\n[Am]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Piece Of Cake",
+  "id": "41b40790666ea1e00f458483ab3fe0b27dc9b6ef3b5aa2d5670add2e1e9ef37d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 312,
+  "normalizedKey": "weezer|piece of cake",
+  "playableChords": [
+    "C",
+    "Dm",
+    "A7",
+    "G",
+    "G7",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Interlude 1"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Interlude 2"
+    },
+    {
+      "measure": 35,
+      "name": "Bridge"
+    },
+    {
+      "measure": 43,
+      "name": "Interlude 3"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "41b40790666ea1e00f458483ab3fe0b27dc9b6ef3b5aa2d5670add2e1e9ef37d",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "Piece Of Cake",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

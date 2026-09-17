@@ -1,0 +1,124 @@
+{
+  "artist": "Wilbur Soot",
+  "artistNormalized": "wilbur soot",
+  "capo": "2",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[G]  [G7/F]\n[Em7]  [D#maj7]\n[G]  [G7/F]\n[Em7]  [D#maj7]\n[G]  [G7/F]\n[Em7]  [D#maj7]\n[G]  [G7/F]\n[Em7]  [D#maj7]\n\n[Verse 1]\n[G][G7/F]Wasting your\n[Em7]time [D#maj7]\n[G]You're [G7/F]wasting mine\n[Em7]  [D#maj7]\n[G]I [G7/F]hate to see you leav-\n[Em7]ing [D#maj7]\n[G]A [G7/F]fate worse than dy-\n[Em7]ing [D#maj7]\n\n[Bridge]\n[G]  [Gadd9]\n[Cmaj7sus2]\n[G]  [G7/F]\n[Cmaj7sus2]\n\n[Verse 2]\n[G]Your [G7/F]city gave me asth-\n[Em7]ma [D#maj7]\n[G]So that's [G7/F]why I'm fucking leav-\n[Em7]ing [D#maj7]\n[G]And your [G7/F]water gave me can-\n[Em7]cer [D#maj7]\n[G]And the [G7/F]pavement hurt my feel-\n[Em7]ings [D#maj7]\n[G][G7/F]Shout at the wall\n[Em7]  [D#maj7]\n[G]'Cause the [G7/F]walls don't fucking love\n[Em7]you [D#maj7]\n[G][G7/F]Shout at the wall\n[Em7]  [D#maj7]\n[G]'Cause the [G7/F]walls don't fucking love\n[Em7]you [D#maj7]\n\n[Interlude]\n[G]  [Gadd9]\n[Cmaj9]  [Cmmaj9]\n[G]  [Gadd9]\n[Cmaj9]  [Cmmaj9]\n[G]  [Gadd9]\n[Cmaj9]  [Cmmaj9]\n[G]  [Gadd9]\n[Cmaj9]  [Cmmaj9]\n\n[Verse 3]\n[G]There's a [Gadd9]reason\n[Cmaj9]That London puts [Cmmaj9]barriers on the tube\n[G]line There's a [Gadd9]reason\n[Cmaj9]That London puts [Cmmaj9]barriers on the rails\n[G]There's a [Gadd9]reason\n[Cmaj9]That London puts [Cmmaj9]barriers on the tube\n[G]line There's a [Gadd9]reason\n[Cmaj9]That London puts [Cmmaj9]barriers on the rails\n[G]There's a [Gadd9]reason\n[Cmaj9]That London puts [Cmmaj9]barriers on the tube\n\n[Outro]\n[G]line There's a [Gadd9]reason they\n[Cmaj9]fail",
+  "diagrams": {
+    "Cmaj7sus2": {
+      "catalog": [
+        "000000"
+      ],
+      "catalogCount": 1
+    },
+    "Cmaj9": {
+      "catalog": [
+        "898888"
+      ],
+      "catalogCount": 1
+    },
+    "Cmmaj9": {
+      "catalog": [
+        "787777"
+      ],
+      "catalogCount": 1
+    },
+    "D#maj7": {
+      "catalog": [
+        "300040"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "400000",
+        "400050",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "766666",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G7/F": {
+      "catalog": [
+        "500000"
+      ],
+      "catalogCount": 1
+    },
+    "Gadd9": {
+      "catalog": [
+        "988888"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Jubilee Line",
+  "id": "63ead56295b94bf44f12b4860816a7e930b6d01bf3ff26910ce98d2c4a947f3a",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 156,
+  "normalizedKey": "wilbur soot|jubilee line",
+  "playableChords": [
+    "G",
+    "G7/F",
+    "Em7",
+    "D#maj7",
+    "Gadd9",
+    "Cmaj7sus2",
+    "Cmaj9",
+    "Cmmaj9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 55,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "63ead56295b94bf44f12b4860816a7e930b6d01bf3ff26910ce98d2c4a947f3a",
+    "version": "BCFZ"
+  },
+  "tempo": 75,
+  "title": "Jubilee Line",
+  "tuning": "C G D G B D",
+  "variantRole": "primary"
+}

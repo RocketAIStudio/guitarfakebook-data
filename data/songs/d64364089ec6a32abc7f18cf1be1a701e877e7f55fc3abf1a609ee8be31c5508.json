@@ -1,0 +1,118 @@
+{
+  "artist": "Velvet Revolver",
+  "artistNormalized": "velvet revolver",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Ebm7]\n[Gb]\n[Ebm7]\n[Gb]\n[Ebm7]\n[Ab7sus4]\n[Ebm7]\n[Ab7sus4]\n[Gb]\n[Ebm7]\n[Gb]\n[Ebm7]\n[Gb]\n[Ebm7]\n[Ab7sus4]\n[Ebm7]\n[Ab7sus4]\n[Gb]\n\n[Verse 1]\n[B]So, so you think you can tell\n[Db/F]Heaven from hell\n[Abm]Blue skies from pain\n[Gb]Can you tell a green\n[Db/F]field From a cold steel\n[B]rail? A smile from a\n[Abm]veil? Do you think you can tell?\n[Gb]Did they get you to trade\n[B]Your heroes for\n[Db/F]ghosts? Hot ashes for trees?\n[Abm]Hot air for a cool\n[Gb]breeze? Cold comfort for change?\n[Db/F]Did you exc-\n[B]hange A walk on part in the war\n[Abm]For a lead role in a cage?\n[Gb]\n\n[Solo]\n[Ebm7]\n[Gb]\n[Ebm7]\n[Gb]\n[Ebm7]\n[Ab7sus4]\n[Ebm7]\n[Ab7sus4]\n[Gb]\n\n[Verse 2]\n[B]How I wish, how I wish you were here\n[Db/F]We're just\n[Abm]two lost souls Swimming in a fish bowl\n[Gb]Year after year\n[Db/F]Running over the same old ground\n[B]And how we found The same old\n[Abm]fears Wish you were here\n[Gb]\n\n[Bridge]\n[Ebm7]\n[Gb]\n[Ebm7]\n[Gb]\n[Ebm7]\n[Ab7sus4]\n[Ebm7]\n[Ab7sus4]\n[Gb]\n\n[Verse 3]\n[B]How I wish, how I wish you were here\n[Db/F]We're just\n[Abm]two lost souls Swimming in a fish bowl\n[Gb]Year after year\n[Db/F]Running over the same old ground\n[B]And how we found The same old\n[Abm]fears Wish you were here\n[Gb]\n[B]How I wish, how I wish you were here\n[Db/F]We're just\n[Abm]two lost souls Swimming in a fish bowl\n[Gb]Year after year\n[Db/F]Running over the same old ground\n[B]And how we found The same old\n[Abm]fears Wish you were here\n[Gb]\n\n[Outro]\n[B]How I wish, how I wish you were here\n[Db/F]We're just\n[Abm]two lost souls Swimming in a fish bowl\n[Gb]Year after year\n[Db/F]Running over the same old ground\n[B]And how we found The same old\n[Abm]fears Wish you were here\n[Gb]",
+  "diagrams": {
+    "Ab7sus4": {
+      "catalog": [
+        "x02033"
+      ],
+      "catalogCount": 1
+    },
+    "Abm": {
+      "catalog": [
+        "x02210",
+        "4-6-6-4-4-4",
+        "x-x-6-8-9-7",
+        "x-11-13-13-12-11",
+        "16-18-18-16-16-16"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x32010",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Db/F": {
+      "catalog": [
+        "200232"
+      ],
+      "catalogCount": 1
+    },
+    "Ebm7": {
+      "catalog": [
+        "022033",
+        "x-x-1-3-2-2",
+        "x-6-8-6-7-6",
+        "11-13-11-11-11-11",
+        "x-x-13-15-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "320033",
+        "320003",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wish You Were Here",
+  "id": "d64364089ec6a32abc7f18cf1be1a701e877e7f55fc3abf1a609ee8be31c5508",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 259,
+  "normalizedKey": "velvet revolver|wish you were here",
+  "playableChords": [
+    "Ebm7",
+    "Gb",
+    "Ab7sus4",
+    "B",
+    "Db/F",
+    "Abm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 68,
+      "name": "Solo"
+    },
+    {
+      "measure": 77,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 85,
+      "name": "Bridge"
+    },
+    {
+      "measure": 94,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 110,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d64364089ec6a32abc7f18cf1be1a701e877e7f55fc3abf1a609ee8be31c5508",
+    "version": "BCFZ"
+  },
+  "tempo": 81,
+  "title": "Wish You Were Here",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

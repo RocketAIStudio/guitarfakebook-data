@@ -1,0 +1,73 @@
+{
+  "artist": "Volbeat",
+  "artistNormalized": "volbeat",
+  "capo": "No capo",
+  "chordPositionCount": 3,
+  "chordSymbolCount": 3,
+  "content": "[Verse]\n[D5]Bring your hammer Pound the nails\nDrag that coffin down in hell\n\n[Main Riff 1]\n[D5]  [D#5]\n[D5]\n[D5]  [D#5]\n[D5]\n[D5]  [D#5]\n[D5]\n[D5]  [D#5]\n[D5]\n\n[Bridge]\n[D5]\n[D#5]\n\n[Main Riff 2]\n[D5]  [D#5]\n[D5]\n[D5]  [A#5]\n[D5]\n[D5]  [D#5]\n[D5]\n[D5]  [D#5]\n[D5]\n\n[Outro]\n[D5]  [D#5]\n[D5]",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Slaytan",
+  "id": "e3c7889f55a39d1348515a5402fb8e62cd119030d46916c3ebb01ac0f19e765b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 14,
+  "normalizedKey": "volbeat|slaytan",
+  "playableChords": [
+    "D5",
+    "D#5",
+    "A#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse"
+    },
+    {
+      "measure": 3,
+      "name": "Main Riff 1"
+    },
+    {
+      "measure": 11,
+      "name": "Bridge"
+    },
+    {
+      "measure": 13,
+      "name": "Main Riff 2"
+    },
+    {
+      "measure": 21,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e3c7889f55a39d1348515a5402fb8e62cd119030d46916c3ebb01ac0f19e765b",
+    "version": "BCFZ"
+  },
+  "tempo": 93,
+  "title": "Slaytan",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

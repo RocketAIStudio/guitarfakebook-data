@@ -1,0 +1,101 @@
+{
+  "artist": "Tom Petty",
+  "artistNormalized": "tom petty",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n\n[Refrain]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n\n[Verse 1]\n[Am]It's [G]alright if you\n[Am]love [G]\n[Am]It's [G]alright if you\n[Am]don't [G]\n[Am]I'm not [G]afraid of you\n[Am]runnin' [G]away, honey\n[Am]I get the [G]feeling you\n[Fmaj7]won't\n\n[Verse 2]\n[Am]There is no [G]sense in pre-\n[Am]tend [G]\n[Am]Your eyes [G]give you a-\n[Am]way [G]\n[Am]Something [G]inside you is\n[Am]feeling like [G]I do\n[Am]We said all [G]there is to\n[Fmaj7]say\nBaby,\n\n[Chorus]\n[G][Am]breakdown,\n[Am]go and [G]give it to me\n[G][Am]Breakdown, and,\n[Am]take me through the night [G]\n[G][Am]Breakdown, now I'm\n[Am]standin' here, [G]can't you see?\n[G][Am]Breakdown, it's all\n[Fmaj7]right\nIt's all\n[Fmaj7]right\nIt's all\n\n[Break]\n[Am]right [G]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n\n[Refrain]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n[Fmaj7]\n\n[Chorus]\n[G][Am]Breakdown,\n[Am]go and [G]give it to me\n[G][Am]Breakdown, and,\n[Am]take me through the night [G]\n[G][Am]Breakdown, now I'm\n[Am]standin' here, [G]can't you see?\n[G][Am]Breakdown, it's all\n[Fmaj7]right\nIt's all\n[Fmaj7]right\nIt's all\n\n[Outro]\n[Am]right [G]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n\n[Fade Out]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "1x3210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Breakdown",
+  "id": "848a112a66ea0d8feba9c27eefd3521f37679f7aa2dfe3c8846247374893e50c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 138,
+  "normalizedKey": "tom petty|breakdown",
+  "playableChords": [
+    "Am",
+    "G",
+    "Fmaj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 9,
+      "name": "Refrain"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Break"
+    },
+    {
+      "measure": 50,
+      "name": "Refrain"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    },
+    {
+      "measure": 75,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "848a112a66ea0d8feba9c27eefd3521f37679f7aa2dfe3c8846247374893e50c",
+    "version": "BCFZ"
+  },
+  "tempo": 114,
+  "title": "Breakdown",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

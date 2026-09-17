@@ -1,0 +1,136 @@
+{
+  "artist": "Wire",
+  "artistNormalized": "wire",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[B]  [A]  [B]\n[B]  [A]  [B]\n[B]  [A]  [B]\n[B]  [A]  [B]\n[B]  [A]  [B]\n[B]  [A]  [B]\n[B]  [A]  [B]\n[B]  [A]  [B]\n\n[Verse 1]\n[B]Think of a [B][A]number Di-\n[B]vide it by [A]two [B]\n[B]Something is [B][A]nothing\n[B]Nothing is [B][A]nothing\n[B]Open a [A]box [B]\n[B]Tear off the [A]lid [B]Then\n[B]think of a [B][A]number Don't\n[B]think of an [B][A]answer\n[B]Open your [A]eyes [B]\n[B]Think of a [B][A]number\n[B]Don't get swept [B][A]under A\n[B]number's a [B][A]number\n\n[Chorus]\n[E]A chance en-\n[F#]counter you want to a-\n[A]void\n[B5]The [B5][A5]inevitable\n[E]So you\n[F#]do, [F#]oh [G]yes you\n[Ab]do\nThe impossible\n\n[Interlude]\n[B]  [A]  [B]\n[B]  [A]  [B]\n[B]  [A]  [B]\n[B][A][B]Now\n\n[Verse 2]\n[B]you ain't got a [B][A]number You\n[B]just want to [B][A]rhumba And there\n[B]ain't no [A][B]way you're\n[B]gonna go [B][A]under Go\n\n[Chorus]\n[E]under, go under Go\n[F#]under, go under You\n[G]tear me assunder Go\n[A]under, go under Go\n[B]under,\nyeah",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Ab": {
+      "catalog": [
+        "466544",
+        "4-3-1-1-1-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Three Girl Rhumba",
+  "id": "87321f5f4f9eb9936fb426c11cb41485e1855db62ba84821e4ef4b8cd11dc00f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 138,
+  "normalizedKey": "wire|three girl rhumba",
+  "playableChords": [
+    "B",
+    "A",
+    "E",
+    "F#",
+    "B5",
+    "A5",
+    "G",
+    "Ab"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "87321f5f4f9eb9936fb426c11cb41485e1855db62ba84821e4ef4b8cd11dc00f",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Three Girl Rhumba",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

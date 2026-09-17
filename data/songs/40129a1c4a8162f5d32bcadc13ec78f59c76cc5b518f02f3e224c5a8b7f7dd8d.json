@@ -1,0 +1,123 @@
+{
+  "artist": "Trancred",
+  "artistNormalized": "trancred",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D5]  [F#5]  [D5]\n[Dsus4/F#]  [F#5]  [D5]\n[Dsus4/F#]  [F#5]  [D5]\n[Dsus4/F#]  [F#5]  [D5]\n\n[Verse 1]\n[D5]I don't [A5]quite know\n[A#5]you [F5]yet\n[D5]But you're [A5]sleeping in\n[A#5]my [F5]bed If you\n[D5]can't see, [A5]I will\n[A#5]not [F5]break Inside\n[D5]your claws, [A5]a mil\n[A#5]lion [F5]snakes\n\n[Bridge]\n[D5]  [F5]\n[D5]  [G5]\n[D5]  [F5]\n[D5]  [G5]\n[A5]Do I sink or swim?\n\n[Chorus]\n[D5]I don't really [F5]know\n[A5]Am I the witch you hunt?\n[D5]Hang me, throw your [F5]stones\n[A#5]I never [G5]thought\nyou could be\n[A#5]Something [G5]wret\nched, ug ly\n[A#5]I never [G5]thought\nyou could be\n\n[Bridge]\n[D5]  [F5]\n[D5]  [G5]\n[D5]  [F5]\n[D5]  [G5]\n\n[Verse 2]\n[D5]I can [A5]see it makes\n[A#5]you [F5]mad\n[D5]See you [A5]claw and spit, it's\n[A#5]just too [F5]bad\n[D5]See your mark, [A5]your bran\n[A#5]ded [F5]wound I feel\n[D5]so [A5]little, can't\n[A#5]feel [F5]you\n[A5]Do I sink or swim?\n\n[Chorus]\n[D5]I don't really [F5]know\n[A5]Am I the witch you hunt?\n[D5]Hang me, throw your [F5]stones\n[A#5]I never [G5]thought\nyou could be\n[A#5]Something [G5]wret\nched, ug ly\n[A#5]I never [G5]thought\nyou could be\n\n[Interlude]\n[D5]  [F#5]  [A#5]\n[D5]  [F#5]  [A#5]\n[D5]  [F#5]  [A#5]\n[D5]  [F#5]  [A#5]\n[D5]  [F#5]  [A#5]\n[D5]  [F#5]  [A#5]\n[D5]  [F#5]  [A#5]\n[D5]  [F#5]  [A#5]\n[D5]\n\n[Chorus]\n[A#5]I never [G5]thought\nyou could be\n[A#5]Not ever, [G5]e\nver to me\n[A#5]I wouldn't [G5]bet\nmy mo ney\n[A#5]Light a [G5]match\nand burn me\n\n[Outro]\n[D5]  [F#5]  [D5]\n[Dsus4/F#]  [F#5]  [D5]\n[Dsus4/F#]  [F#5]  [D5]\n[Dsus4/F#]  [F#5]  [D5]\n[Dsus4/F#]  [F#5]  [D5]\n[Dsus4/F#]",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "888xxx"
+      ],
+      "catalogCount": 1
+    },
+    "A5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "12-12-12-x-x-x",
+        "x577xx",
+        "000xxx"
+      ],
+      "catalogCount": 3
+    },
+    "Dsus4/F#": {
+      "catalog": [
+        "x9778x"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "444xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hang Me",
+  "id": "40129a1c4a8162f5d32bcadc13ec78f59c76cc5b518f02f3e224c5a8b7f7dd8d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 182,
+  "normalizedKey": "trancred|hang me",
+  "playableChords": [
+    "D5",
+    "F#5",
+    "Dsus4/F#",
+    "A5",
+    "A#5",
+    "F5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Bridge"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Bridge"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Interlude"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 72,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "40129a1c4a8162f5d32bcadc13ec78f59c76cc5b518f02f3e224c5a8b7f7dd8d",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Hang Me",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

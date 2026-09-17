@@ -1,0 +1,121 @@
+{
+  "artist": "Weezer",
+  "artistNormalized": "weezer",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Verse 1]\n[F#]Yester [D#m]day I went out\n[B]side With my [C#]momma's mason\n[F#]jar. Caught a [D#m]lovely butter-\n[B]fly.\n[F#]When I [D#m]woke up to-\n[B]day, Looked in [C#]on my fairy\n[F#]pet. She had [D#m]withered all a-\n[B]way. No more [G#m]sighing in her\n\n[Chorus]\n[C#]breast. I'm sorry for what I\n[F#]did. I did [D#m]what my body\n[G#m7]told me to. I [C#]didn't mean to do you\n[F#]harm. Ev'ry [F#7]time I pin down\n[B]what I think I [C#]want It slips a-\n[F#]way. The [D#m]ghost slips a -\n[G#m7]way.\n\n[Verse 2]\n[F#]Smell you [D#m]on my hands for\n[B]days. I can't [C#]wash away your\n[F#]scent. If I'm [D#m]a dog then you're\n[B]bitch.\n[F#]I guess [D#m]you're as real as\n[B]me, Maybe [C#]I can live with\n[F#]that. Maybe [D#m]I need fanta-\n[B]sy. Life of [G#m]chasing butter-\n\n[Chorus]\n[C#]fly. I'm sorry for what I\n[F#]did. I did [D#m]what my body\n[G#m7]told me to. I [C#]didn't mean to do you\n[F#]harm. Ev'ry [F#7]time I pin down\n[B]what I think I [C#]want It slips a-\n[F#]way. The [D#m]ghost slips a -\n[G#m7]way.\n\n[Verse 3]\n[F#]I told [D#m]you I would re-\n[B]turn When the [C#]robin make his\n[F#]nest. But I ain't [D#m]never coming\n[B]back.\n\n[Outro]\n[F#]I'm\n[C#]sorry. I'm\n[D#m]Sorry. I'm\n[B]sor -\n[F#]ry.",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x32010",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "022000"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "320033",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "320001",
+        "2-4-2-3-2-2",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "x02210"
+      ],
+      "catalogCount": 1
+    },
+    "G#m7": {
+      "catalog": [
+        "x02010"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Butterfly",
+  "id": "fb920556e32f250ddd1b775b943305d8ad6f2549f9c6b6d53d5ea8bfef65ceb6",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 219,
+  "normalizedKey": "weezer|butterfly",
+  "playableChords": [
+    "F#",
+    "D#m",
+    "B",
+    "C#",
+    "G#m",
+    "G#m7",
+    "F#7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 39,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fb920556e32f250ddd1b775b943305d8ad6f2549f9c6b6d53d5ea8bfef65ceb6",
+    "version": "BCFZ"
+  },
+  "tempo": 64,
+  "title": "Butterfly",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

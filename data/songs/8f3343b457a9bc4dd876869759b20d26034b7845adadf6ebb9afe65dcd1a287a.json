@@ -1,0 +1,127 @@
+{
+  "artist": "Whitney",
+  "artistNormalized": "whitney",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n\n[Verse 1]\n[Em]I left drinking on the\n[A6]city train\nTo\n[A]spend some time on the road\n[Gmaj7]\n[Em]Then one morning I woke\n[A6]up in LA\n[A]Caught my breath on the coast\n[Gmaj7]\n\n[Pre-Chorus]\n[Em]I've been going through a\n[A6]chan ge\n[A]I might never be sure\n[Gmaj7]\n[Em]I'm just walking in a\n[A6]ha ze\n[A]I'm not ready to turn\n[Gmaj7]\nNo\n\n[Chorus]\n[Em]Wo man\n[D]\nNo\n[Em]Wo man\n[D]\n\n[Bridge]\n[Em]\n[D]\n[Em]\n[D]\n\n[Verse 2]\n[Em]Midnight driving through the\n[A6]bay\n[A]Going back on the road\n[Gmaj7]\n[Em]Coming up and I\n[A6]wish I could stay\n[A]I've been sleeping alone\n[Gmaj7]\n\n[Pre-Chorus]\n[Em]I've been going through a\n[A6]chan ge\n[A]I might never be sure\n[Gmaj7]\n[Em]I'm just walking in a\n[A6]ha ze\n[A]I'm not ready to turn\n[Gmaj7]\nNo\n\n[Chorus]\n[Em]Wo man\n[D]\nNo\n[Em]Wo man\n[D]\n\n[Bridge]\n[Em]\n[D]\n[Em]\n[D]\n\n[Solo]\n[Em]\n[D]\n[Em]\n[D]\n[Em]\n[D]\n[Em]\n[D]\n\n[Outro]\n[Em]I left drinking on the\n[A6]city train\nTo\n[A]spend some time on the road\n[Gmaj7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A6": {
+      "catalog": [
+        "x04220"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7": {
+      "catalog": [
+        "xx5432",
+        "3-2-0-0-0-2",
+        "3-5-4-4-3-3",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "No Woman",
+  "id": "8f3343b457a9bc4dd876869759b20d26034b7845adadf6ebb9afe65dcd1a287a",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 150,
+  "normalizedKey": "whitney|no woman",
+  "playableChords": [
+    "Em",
+    "A6",
+    "A",
+    "Gmaj7",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Bridge"
+    },
+    {
+      "measure": 89,
+      "name": "Solo"
+    },
+    {
+      "measure": 106,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8f3343b457a9bc4dd876869759b20d26034b7845adadf6ebb9afe65dcd1a287a",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "No Woman",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

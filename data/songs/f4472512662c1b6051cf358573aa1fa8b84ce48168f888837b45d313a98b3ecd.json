@@ -1,0 +1,106 @@
+{
+  "artist": "Vader",
+  "artistNormalized": "vader",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D#5]  [C#5]\n[D#5]  [C#5]\n[D#5]  [C#5]\n[D#5]  [C#5]\n[D#5]  [G5]\n[D#5]  [G5]\n[D#5]  [G5]\n[D#5]  [G5]\n[C#5]\n\n[Verse 1]\n[C#5]Since your rebirth I am\nalways with you\nDeep in your mind Cre-\native, protective\n\n[Bridge]\n[D#5]And [C#5]never forget it\n[D#5]  [G5]\n[D#5]  [G5]\n[D#5][G5]I\n\n[Verse 2]\n[C#5]was and I am In your\nthoughts and your breath I\ndwell in your dreams I am\nyour life and your\n\n[Solo]\n[G#5]death [E5]\n[G#5]  [D5]\n[G#5]  [E5]\n[G#5]  [D5]\n[D#5]  [G5]\n[D#5]  [G5]\n[D#5]  [G5]\n[D#5][G5]I\n\n[Verse 3]\n[C#5]stay with you Every\nday, every night You\nhear my whispers I\nam your guide\n\n[Bridge]\n[D#5]So [G5]never again\n[D#5]Say my [G5]name aloud\n[G5][D#5]Protect what you've got\n[D#5]And [G5]keep it away from the\n\n[Outro]\n[D#5]crowd [C#5]\n[D#5][C#5]Away from the\n[D#5]crowd [C#5]\n[D#5]  [G5]\n[C#5]",
+  "diagrams": {
+    "C#5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x133xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Never Say My Name",
+  "id": "f4472512662c1b6051cf358573aa1fa8b84ce48168f888837b45d313a98b3ecd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 95,
+  "normalizedKey": "vader|never say my name",
+  "playableChords": [
+    "D#5",
+    "C#5",
+    "G5",
+    "G#5",
+    "E5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Bridge"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Solo"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 38,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f4472512662c1b6051cf358573aa1fa8b84ce48168f888837b45d313a98b3ecd",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Never Say My Name",
+  "tuning": "C# F# B E G# C#",
+  "variantRole": "primary"
+}

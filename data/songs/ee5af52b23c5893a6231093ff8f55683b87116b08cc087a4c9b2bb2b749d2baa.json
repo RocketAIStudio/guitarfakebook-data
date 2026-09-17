@@ -1,0 +1,110 @@
+{
+  "artist": "Two Door Cinema Club",
+  "artistNormalized": "two door cinema club",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]  [E7]\n[Am]\n[Dm7]\n[Gsus4]  [G]\n[C]  [E7]\n[Am]\n[Dm7]\n[Gsus4]  [G]\n\n[Verse 1]\n[C]If I could [E7]break down the wall\n[Am]I could\n[Dm7]see myself as someone I didn't\n[Gsus4]know [G]\n[C]I could [E7]shape rock and roll\n[Am]But\n[Dm7]all I get a louder echo\n[Gsus4][G]So I\n\n[Verse 2]\n[C]disappeared [E7]into another\n[Am]day But what can I\n[Dm7]do? Is it 'cause I'm\n[Gsus4]too [G]lazy? I can\n[C]think until I've [E7]nothing left to\n[Am]say So what should I\n[Dm7]do? Is it too late\n[Gsus4]to [G]save me?\n\n[Outro]\n[Gsus4]  [G]\n[Gsus4]  [G]\n[Gsus4]Save [G]me,\n[Gsus4]oh save [G]me\n[Gsus4]  [G]\n[Gsus4]  [G]\n[Gsus4]  [G]\n[Gsus4]too late [G]too late\n[Gsus4]Is it [G]too late?\n[Gsus4]Too [G]late\n[Gsus4]Is it [G]too late,\n[Gsus4]too [G]late?\n[Gsus4]  [G]\n[Gsus4]  [G]\n[Gsus4]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm7": {
+      "catalog": [
+        "xx0211",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus4": {
+      "catalog": [
+        "355533"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Break",
+  "id": "ee5af52b23c5893a6231093ff8f55683b87116b08cc087a4c9b2bb2b749d2baa",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 101,
+  "normalizedKey": "two door cinema club|break",
+  "playableChords": [
+    "C",
+    "E7",
+    "Am",
+    "Dm7",
+    "Gsus4",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ee5af52b23c5893a6231093ff8f55683b87116b08cc087a4c9b2bb2b749d2baa",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Break",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}
