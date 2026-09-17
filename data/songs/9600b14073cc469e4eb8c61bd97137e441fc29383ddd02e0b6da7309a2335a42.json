@@ -1,0 +1,68 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A5]  [C5]\n[A5]  [D5]  [C5]\n[A5]Juice Head [C5]\n[A5]  [D5]  [A5]  [C5]\n[A5]Juice Head [C5]\n[A5]  [D5]  [A5]  [C5]\n[A5]Juice Head [A5][C5]\n[A5][D5][A5]Juice\n\n[Outro]\n[F5]Head\nJuice Head\n[A5]  [C5]  [A5]  [F5]\n[A5][C5][A5]Juice Head",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Juice Head",
+  "id": "9600b14073cc469e4eb8c61bd97137e441fc29383ddd02e0b6da7309a2335a42",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 12,
+  "normalizedKey": "nofx|juice head",
+  "playableChords": [
+    "A5",
+    "C5",
+    "D5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9600b14073cc469e4eb8c61bd97137e441fc29383ddd02e0b6da7309a2335a42",
+    "version": "BCFZ"
+  },
+  "tempo": 162,
+  "title": "Juice Head",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

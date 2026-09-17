@@ -1,0 +1,143 @@
+{
+  "artist": "My Chemical Romance",
+  "artistNormalized": "my chemical romance",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[Em]\n[Cmmaj7/E]\n[Em]\n[Cmmaj7/E]\n\n[Verse 1]\n[Em]We hold in our\nhearts The sword and the\n[Cmmaj7/E]faith\n[Em]Swelled up from the rain-\nclouds Move like\n[Cmmaj7/E]a wreath\nWell after all\n\n[Pre-Chorus]\n[G]We'll\nlie another day\n[C]\nAnd through it all\n[G]We'll\nfind some other way\n[C]\nTo carry on\n[Em]Through\ncartilage and fluid\n[C7M]\nAnd did you come\n[Em]To\nstare Or wash a-\n[C7M]way the blood?\nWell to-\n\n[Chorus]\n[G]night, well to-\n[D/F#]night Will it\n[Em]ever come?\nSpend the rest of\n[C]your days rocking out,\n[G/B]just for\n[Asus2]the dead\nWell to-\n[G]night,\n[D/F#]will it\n[Em]ever come?\nI can see you\n[C]awake any time\n[G/B]in my\n[Asus2]head\nDid we\n\n[Bridge]\n[C]all fall\ndown? Did we\nall fall\ndown? Did we\n[Am]all fall\ndown? Did we\nall fall\ndown? From the lights to the pave-\n\n[Solo]\n[C]ment\nFrom the van to the floor\nFrom backstage to the doc-\n[Am]tor\nFrom the earth to the morgue,\nmorgue,\nmorgue, morgue\n\n[Chorus]\n[G]Well to-\n[D/F#]night, will it\n[Em]ever come?\nSpend the rest of\n[C]your days rocking out,\n[G/B]just for\n[Asus2]the dead\nWell to-\n[G]night,\n[D/F#]will it\n[Em]ever come?\nI can see you\n[C]awake any time\n[G/B]in my\n[Asus2]head\nAll fall\ndown, well after all\n\n[Outro]\n[Em]\n[Cmmaj7/E]\n[Em]\n[Cmmaj7/E]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7M": {
+      "catalog": [
+        "x32000"
+      ],
+      "catalogCount": 1
+    },
+    "Cmmaj7/E": {
+      "catalog": [
+        "031000"
+      ],
+      "catalogCount": 1
+    },
+    "D/F#": {
+      "catalog": [
+        "20023x"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x2003x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Desert Song",
+  "id": "bb4bc255df0566d1ac0ebc4b0f891f6fa310dce8e833f98c002e8e25f848265f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 203,
+  "normalizedKey": "my chemical romance|desert song",
+  "playableChords": [
+    "Em",
+    "Cmmaj7/E",
+    "G",
+    "C",
+    "C7M",
+    "D/F#",
+    "G/B",
+    "Asus2",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Bridge"
+    },
+    {
+      "measure": 59,
+      "name": "Solo"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bb4bc255df0566d1ac0ebc4b0f891f6fa310dce8e833f98c002e8e25f848265f",
+    "version": "BCFZ"
+  },
+  "tempo": 74,
+  "title": "Desert Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

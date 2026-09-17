@@ -1,0 +1,109 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[C5]  [A5]\n[G5]  [F5/C]\n[C5]  [A5]\n[G5]  [F5/C]\n[C5]  [A5]\n[G5]  [F5/C]\n[C5]  [A5]\n[G5]  [F5/C]\n[C5]  [A5]\n[G5]  [F5/C]\n[C5]  [A5]\n[G5]  [F5/C]\n[E5]\n[G5]  [F5]\n\n[Verse 1]\n[C5]You better watch\n[F5]out, you better not\n[C5]cry\n[G/B]You\n[A5]better put out\n[G5/D]records DI-\n[F5/C]Y\nCause\n[C5]it's not what you've\n[F5/C]done it's what you've\n[C5]been\nIf\n[A5]you fuck up,\nI'm\n[F5/C]telling Tim\n\n[Bridge]\n[C5]  [A5]\n[G5]  [F5/C]\n[C5]  [A5]\n[G5]  [F5/C]\n[C5]  [A5]\n[G5]  [F5/C]\n[E5]\n[G5]  [F5]\n\n[Verse 2]\n[C5]Take you out of book\n[F5]your own life part\n[C5]six\n[G/B]\n[A5]You won't play a-\n[G5/D]gain at AB-\n[F5/C]C\nYou're\n[C5]gonna get os-\n[F5/C]tracized like Law-\n[C5]rence\nWhen\n[A5]I tell Tim,\nI'm\n[F5/C]telling Tim\nI'm telling\n\n[Outro]\n[C5]Tim, [A5]\n[G5]I'm [F5/C]telling\n[C5]Tim [A5]\n[G5]  [F5/C]\n[C5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "F5/C": {
+      "catalog": [
+        "8-8-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G/B": {
+      "catalog": [
+        "7-10-9-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx",
+        "x-10-12-12-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "G5/D": {
+      "catalog": [
+        "10-10-12-x-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I'm Telling Tim *alt 2",
+  "id": "f35ed725af4c6fe328117891bfb9308c2037403f868e6b4efcdf360d68bb2c4c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 83,
+  "normalizedKey": "nofx|i m telling tim",
+  "playableChords": [
+    "C5",
+    "A5",
+    "G5",
+    "F5/C",
+    "E5",
+    "F5",
+    "G/B",
+    "G5/D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 31,
+      "name": "Bridge"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 55,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f35ed725af4c6fe328117891bfb9308c2037403f868e6b4efcdf360d68bb2c4c",
+    "version": "BCFZ"
+  },
+  "tempo": 216,
+  "title": "I'm Telling Tim",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

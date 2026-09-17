@@ -1,0 +1,107 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]  [E7]\n[A7]\n[F]  [G]\n[C]\n\n[Verse 1]\n[C]Have you [E7]ever gone to\n[A7]sleep with Bo Derek And\n[F]woke up with [G]Bo Didley?\n[C]\n[C]Have you [E7]ever gone to\n[A7]sleep with Bo Derek And\n[F]woke up with [G]Bo Did-\n[C]ley? You\n\n[Verse 2]\n[C]got so loaded, you\n[E7]thought that she Was the most\n[A7]beautiful girl that\n[F]you ever [G]did see\n[C]Have you [E7]ever gone to\n[A7]sleep with Bo Derek And\n[F]woke up with [G]Bo Did-\n[C]ley?\n\n[Bridge]\n[C]  [E7]\n[A7]\n[F]  [G]\n[C]\n[C]  [E7]\n[A7]\n[F]  [G]\n[C]\n[C]\n[E7]\n[A7]\n[F]  [G]\n[C]  [E7]\n[A7]\n[F]  [G]\n[C]\n[A7]\n[F]  [G]\n[C]\n\n[Verse 3]\n[C]Woke up in the morning, to\n[E7]your surprise A\n[A7]couple melons in tube socks, and\n[F]buggley eyes [G]\n[C]Have you [E7]ever gone to\n[A7]sleep with Bo Derek And\n[F]woke up with [G]Bo Did-\n[C]ley?",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Buggley Eyes",
+  "id": "833aa241233b02d83eb3da2063846e65d16573a653487e502fd8dbb7b4553dbf",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 117,
+  "normalizedKey": "nofx|buggley eyes",
+  "playableChords": [
+    "C",
+    "E7",
+    "A7",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "833aa241233b02d83eb3da2063846e65d16573a653487e502fd8dbb7b4553dbf",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Buggley Eyes",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

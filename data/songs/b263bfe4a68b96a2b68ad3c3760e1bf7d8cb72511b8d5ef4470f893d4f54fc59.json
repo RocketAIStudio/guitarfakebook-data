@@ -1,0 +1,122 @@
+{
+  "artist": "Mike Posner",
+  "artistNormalized": "mike posner",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]\n[A]\n[Bm7]\n[G]\n\n[Verse 1]\n[D]I wish Tracy Chapman was my\n[A]friend\n[Bm7]She would know exactly what to\n[G]say Be-\n[D]ginnings always hide themselves in\n[A]ends At\n[Bm7]some point, I will be o-\n[G]kay I got\n\n[Pre-Chorus]\n[Asus4]high when I met\n[Bm]you I got\n[G]high to forget\nyou I feel\n[Asus4]pain, I don't want\n[Bm]to But I have\n[G]to, yeah, I have\nto If I want to\n\n[Chorus]\n[D]move on\n[A]Move on\n[Bm7]Move on\n[G]Move on If I want to\n[D]move on\n[A]Move on\n[Bm7]Move on\n[G]Move on If I want to\n[D]move on (move on)\n[A]Move on (move on)\n[Bm7]Move on (move on)\n[G]Move on If I want to\n[D]move on (move on)\n[A]Move on (move on)\n[Bm7]Move on (move on)\n[G]Move on\n\n[Verse 2]\n[D]Went to see some shaman in Ma\n[A]lay To\n[Bm7]hear some things I wanted to\n[G]hear\n[D]Everyone just wants to feel\n[A]good\n[Bm7]Everyone just wants to disap-\n[G]pear\n[D]Call up girls that live in my home-\n[A]town To\n[Bm7]help fill up the minutes\n[G]\n[D]Lit a match and saged my house\n[A]down It\n[Bm7]didn't make a differen-\n[G]ce So I got\n\n[Pre-Chorus]\n[Asus4]high when I met\n[Bm]you I got\n[G]high to forget\nyou I feel\n[Asus4]pain, I don't want\n[Bm]to But I have\n[G]to, yeah, I have\nto If I want to\n\n[Chorus]\n[D]move on\n[A]Move on\n[Bm7]Move on\n[G]Move on If I want to\n[D]move on\n[A]Move on\n[Bm7]Move on\n[G]Move on If I want to\n[D]move on (move on)\n[A]Move on (move on)\n[Bm7]Move on (move on)\n[G]Move on If I want to\n[D]move on (move on)\n[A]Move on (move on)\n[Bm7]Move on (move on)\n[G]Move on",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Move On",
+  "id": "b263bfe4a68b96a2b68ad3c3760e1bf7d8cb72511b8d5ef4470f893d4f54fc59",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 284,
+  "normalizedKey": "mike posner|move on",
+  "playableChords": [
+    "D",
+    "A",
+    "Bm7",
+    "G",
+    "Asus4",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b263bfe4a68b96a2b68ad3c3760e1bf7d8cb72511b8d5ef4470f893d4f54fc59",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Move On",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

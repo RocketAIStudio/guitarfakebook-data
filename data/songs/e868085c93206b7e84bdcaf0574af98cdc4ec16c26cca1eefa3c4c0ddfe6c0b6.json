@@ -1,0 +1,81 @@
+{
+  "artist": "Megadeth",
+  "artistNormalized": "megadeth",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Em]  [F/E]\n[Em]\n[Em]  [F/E]\n[Em]  [Am]\n[Em]  [F/E]\n[Em]\n[Em]  [F/E]\n[Em]  [Am]  [Em]\n\n[Verse 1]\n[Em]Thermal count is [F/E]rising In per-\n[Em]petual writhing The pri-\n[Em]mordial [F/E]ooze And the\n[Em]sanity they [Am]lose A-\n[Em]wakened in the [F/E]morning To\n[Em]more air pollution warnings Still\n[Em]we sleepwalk off [F/E]to work While our\n[Am][Em]nnnnervous [Em]systems\n\n[Bridge]\n[Em]jerk [F/E]\n[Em]\n[Em]  [F/E]\n[Em][Am]Pre-\n\n[Verse 2]\n[Em]tending not to [F/E]notice How\n[Em]history had forebode us With the\n[Em]greenhouse in [F/E]effect Our en-\n[Em]vironment was [Am][Em]wrecked\n[Em]Now I can only laugh [F/E]As I\n[Em]read our epitaph We\n[Em]end our lives as [F/E]moles In the\n[Em]dark of dawn [Am]patrol\n\n[Outro]\n[Em]  [F/E]\n[Em]\n[Em]  [F/E]\n[Em]  [Am]  [Em]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F/E": {
+      "catalog": [
+        "033211"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dawn Patrol *alt",
+  "id": "e868085c93206b7e84bdcaf0574af98cdc4ec16c26cca1eefa3c4c0ddfe6c0b6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 112,
+  "normalizedKey": "megadeth|dawn patrol",
+  "playableChords": [
+    "Em",
+    "F/E",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Bridge"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e868085c93206b7e84bdcaf0574af98cdc4ec16c26cca1eefa3c4c0ddfe6c0b6",
+    "version": "BCFZ"
+  },
+  "tempo": 75,
+  "title": "Dawn Patrol",
+  "tuning": "C F A# D# G C",
+  "variantRole": "alt"
+}

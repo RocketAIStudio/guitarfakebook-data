@@ -1,0 +1,130 @@
+{
+  "artist": "My Chemical Romance",
+  "artistNormalized": "my chemical romance",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C#m]Long a-\ngo Just like the\n[E]hearse, you\n[B]die to get [G#m]in again\n[A]We\nare so\n[C#m]far from\n[B]you\n\n[Verse 1]\n[C#m]Burning\non just like a\n[E]match you\n[B]strike to [G#m]incinerate\n[A]The\nlives of ev'ry-\n[C#m]one you\n[B]know And what's the\n\n[Pre-Chorus]\n[G#m]worst you\n[A]take From every\n[C#m]heart you\n[B]break And like the\n[G#m]blade you\n[A]stain Well, I've been\n[C#m]holding\n[B]on tonight\n\n[Chorus]\n[E]What's the\nworst that I can say?\n[B]Things are\n[Cdim]better if I stay\n[C#m]So long\nand goodnight\n[Cdim]So long\nand goodnight\n[E]\n\n[Verse 2]\n[C#m]Came a\ntime When every\n[E]star fall\n[B]brought you to [G#m]tears again\n[A]We\nare the very\n[C#m]hurt you\n[B]sold And what's the\n\n[Pre-Chorus]\n[G#m]worst you\n[A]take From every\n[C#m]heart you\n[B]break And like the\n[G#m]blade you\n[A]stain Well, I've been\n[C#m]holding\n[B]on tonight\n\n[Chorus]\n[E]What's the\nworst that I can say?\n[B]Things are\n[Cdim]better if I stay\n[C#m]So long\nand goodnight\n[Cdim]So long\nand goodnight\n[E]And if you\ncarry on this way\n[B]Things are\n[Cdim]better if I stay\n[C#m]So long\nand goodnight\n[Cdim]So long\nand goodnight\n[E]\n\n[Bridge]\n[C#m]Can\n[A]you\n[B]hear\n[B]me?\n[C#m]Are\n[A]you\n[B]near\n[B]me? Can\n[C#m]we pre-\n[A]tend To\n[B]leave and\n[B]then We'll\n[C#m]meet a-\n[A]gain When\n[B]both our\n[B]cars collide.\n\n[Chorus]\n[E]What's the\nworst that I can say?\n[B]Things are\n[Cdim]better if I stay\n[C#m]So long\nand goodnight\n[Cdim]So long\nand goodnight\n[E]And if you\ncarry on this way\n[B]Things are\n[Cdim]better if I stay\n[C#m]So long\nand goodnight\n[Cdim]So long\nand goodnight\n\n[Outro]\n[C#m]\n[E]\n[B]  [G#m]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "Cdim": {
+      "catalog": [
+        "x3454x"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Helena",
+  "id": "294f8434be760fd55951e5fc4d4939c1a5f6a5d939f5bb12cb23193bd054c32f",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 264,
+  "normalizedKey": "my chemical romance|helena",
+  "playableChords": [
+    "C#m",
+    "E",
+    "B",
+    "G#m",
+    "A",
+    "Cdim"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 68,
+      "name": "Bridge"
+    },
+    {
+      "measure": 84,
+      "name": "Chorus"
+    },
+    {
+      "measure": 100,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "294f8434be760fd55951e5fc4d4939c1a5f6a5d939f5bb12cb23193bd054c32f",
+    "version": "BCFZ"
+  },
+  "tempo": 126,
+  "title": "Helena",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

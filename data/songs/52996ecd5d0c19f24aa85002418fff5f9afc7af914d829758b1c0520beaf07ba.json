@@ -1,0 +1,123 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n[Em]\n[Am]\n[G]\n[C]\n[Em]\n[Am]\n[G]\n[C]\n[Em]\n[Am]\n[G]I'm not insane,\n\n[Verse 1]\n[C]\nI'm not bummed out\n[Em]\nI got no one to blame,\n[Am]nothing to change\n[G]I got no evil to fight\n[F]\n[G]One thing's for sure,\n[C]\nI'm all outta angst\n[Em]\nSo-\n\n[Bridge]\n[Am]ciety don't\n[G]bother me And\n[F]there's something wrong with that\n[G]So I'm off to\n\n[Verse 2]\n[C]Pakistan,\n[Em]\n[Am]learn the laws of\nIslam [C]Funda-\nmentalism,\n[Em]for-\n[Am]get that rocknroll\n[C]No\ncigarette, no drink,\n[Em]in fact It's\n[Am]difficult to think\nabout [C]getting l-\naid\n[Em]When you don't\n[Am]even get to see her face\nI'm not [C]insane\n\n[Interlude]\n[C]\n[Em]\n[Am]\n[G]\n[C]\n[Em]\n[Am]\n[G]I'm not insane,\n\n[Verse 3]\n[C]\nI'm not liquored\n[Em]\nI got nothin' to do,\n[Am]nothin' to lose\n[G]I got no place to call home\n[F]\n[G]One thing's for sure,\n[C]\nI'm all outta angst\n[Em]\nSo-\n\n[Bridge]\n[Am]ciety don't\n[G]bother me And\n[F]there's something wrong with that\n[G]Next stop Mon-\n\n[Verse 4]\n[C]golia\n[Em]\n[Am]Don't get to golf\nor fuck [C]or\nbowl with 'ya\n[Em]Throw\n[Am]out that handicap\n[C]No\nstepping out, till spring,\n[Em]in fact it's\n[Am]Difficult to sing\nwhen it's [C]twenty below\n[Em]And\n[Am]that's during the day\nI'm not [C]insane\n\n[Outro]\n[C]\n[Em]\n[Am]\n[G]\n[C]\n[Em]\n[Am]\n[G]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "All Outta Angst *alt",
+  "id": "52996ecd5d0c19f24aa85002418fff5f9afc7af914d829758b1c0520beaf07ba",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 206,
+  "normalizedKey": "nofx|all outta angst",
+  "playableChords": [
+    "C",
+    "Em",
+    "Am",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Interlude"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 69,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 85,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "52996ecd5d0c19f24aa85002418fff5f9afc7af914d829758b1c0520beaf07ba",
+    "version": "BCFZ"
+  },
+  "tempo": 204,
+  "title": "All Outta Angst",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

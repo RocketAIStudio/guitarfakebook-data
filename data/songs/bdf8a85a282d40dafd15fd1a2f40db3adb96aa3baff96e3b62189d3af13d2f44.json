@@ -1,0 +1,155 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 37,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[Em]\n[C]\n[Em]\n[C]\n[Em]\n[C]\n[Em]\n[C]You\n\n[Verse 1]\n[Em]know it (know it, know it) When it's\n[D#m]over (over, over) Doors are\n[D]closing (closing, closing) Feel the\n[C#m]sober (sober, sober) Staring\n[C]at you (at you, at you) You know\nyou'd better take one last good look\n\n[Chorus]\n[G]One more [F]round then it's [C]bottles to the [G]ground Sma\n[G]shing of the [F]glass what a [C]supersonic [G]sound Got\n[G]ta pull [F]the plug when [C]it's time to [G]die A\n[A]wo wo wo [C]Bottles to the ground\n\n[Bridge]\n[Em]\n[C]\n[Em]\n[C]Theres a\n\n[Verse 2]\n[Em]suitcase (suitcase, suitcase) On the\n[D#m]sidewalk (sidewalk, sidewalk) Theres some\n[D]records (records, records) In a\n[C#m]milkcrate (milkcrate, milkcrate) She'll be\n[C]staying (staying, staying) You'll be\nthrowing whiskeys over one lip\n\n[Chorus]\n[G]One more [F]round then it's [C]bottles to the [G]ground Sma\n[G]shing of the [F]glass what a [C]supersonic [G]sound Got\n[G]ta pull [F]the plug when [C]it's time to [G]die A\n[A]wo wo wo [C]Bottles to the ground\n\n[Interlude]\n[G]One more round then it's bottles to the ground\n[A]One more round then it's bottles to the ground\n[C]One more round then it's bottles to the ground One\n[G]more round then it's bottles to the ground One\n[A]more round then it's bottles to the ground One\n[C]more round then it's bottles to the ground One more\n[G]round then it's bottles to the ground One more\n[D#]round then it's bottles to the ground\n\n[Outro]\n[F]One more [C]round then it's bottles to the ground\n[F]One more [C]round then it's bottles to the ground\n[F]One more [C]round then it's bottles to the ground\n[F]One more [C]round then it's bottles to the ground\n[F]One more [C]round then it's bottles to the ground\n[F]One more round then it's bottles to the ground",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x35553",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "x68886"
+      ],
+      "catalogCount": 1
+    },
+    "D#m": {
+      "catalog": [
+        "x68876"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x79987",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bottles To The Ground *alt",
+  "id": "bdf8a85a282d40dafd15fd1a2f40db3adb96aa3baff96e3b62189d3af13d2f44",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 327,
+  "normalizedKey": "nofx|bottles to the ground",
+  "playableChords": [
+    "Em",
+    "C",
+    "D#m",
+    "D",
+    "C#m",
+    "G",
+    "F",
+    "A",
+    "D#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bdf8a85a282d40dafd15fd1a2f40db3adb96aa3baff96e3b62189d3af13d2f44",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Bottles To The Ground",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

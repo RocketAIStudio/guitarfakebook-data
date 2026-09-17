@@ -1,0 +1,174 @@
+{
+  "artist": "My Chemical Romance",
+  "artistNormalized": "my chemical romance",
+  "capo": "No capo",
+  "chordPositionCount": 38,
+  "chordSymbolCount": 14,
+  "content": "[Intro]\n[E]\n[B]\n[E]\n[B]\n\n[Verse 1]\n[E]Turn away\n[B]If you could get me a drink\n[C#m]Of water 'cause my\n[Am]lips are chapped and faded Call my\n[E]aunt Marie\n[B]Help her gather all my things\n[C#m]And bury me In\n[Am]all my favorite colors My\n[A]sisters and my [A#dim]brothers, still\n[B]I [Cdim]will not kiss\n[C#m]you\n[Am]'Cause the\n\n[Chorus]\n[F#m]hardest part of this\n[B]Is leaving you\n[E]\nNow\n\n[Verse 2]\n[E]turn away\n[B]'Cause I'm awful just to see\n[C#m]'Cause all my hair's a-\n[Am]bandoned all my body All my\n[E]agony\n[B]Know that I will never mar-\n[C#m]ry Baby I'm just\n[Am]soggy from the chemo But\n[A]counting down the days [A#dim]to go\n[B]It [Cdim]just ain't li-\n[C#m]ving And I just hope\n[Am]you know That\n\n[Chorus]\n[E]if you say Good-\n[Eaug]bye today I'd\n[C#m]ask you to be tru-\n[C#m/G#]e [E/G#][A/E][C#m/E]'Cause the\n[F#m]hardest part of thi-\n[B]s Is leaving yo-\n[C#m]u [Ab/C]\n[B][A#dim]'Cause the\n[F#m]hardest part of thi-\n[B]s Is leaving you\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#dim": {
+      "catalog": [
+        "x12320"
+      ],
+      "catalogCount": 1
+    },
+    "A/E": {
+      "catalog": [
+        "xx2220"
+      ],
+      "catalogCount": 1
+    },
+    "Ab/C": {
+      "catalog": [
+        "x3654x"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "C#m/E": {
+      "catalog": [
+        "xx2120"
+      ],
+      "catalogCount": 1
+    },
+    "C#m/G#": {
+      "catalog": [
+        "xx6654"
+      ],
+      "catalogCount": 1
+    },
+    "Cdim": {
+      "catalog": [
+        "x3454x"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E/G#": {
+      "catalog": [
+        "xx6454"
+      ],
+      "catalogCount": 1
+    },
+    "Eaug": {
+      "catalog": [
+        "03211x"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Cancer",
+  "id": "00b54fde91eb1015d4f7283904d276f4d4dcc74e82d8d41e36614ac96597642e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 172,
+  "normalizedKey": "my chemical romance|cancer",
+  "playableChords": [
+    "E",
+    "B",
+    "C#m",
+    "Am",
+    "A",
+    "A#dim",
+    "Cdim",
+    "F#m",
+    "Eaug",
+    "C#m/G#",
+    "E/G#",
+    "A/E",
+    "C#m/E",
+    "Ab/C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "00b54fde91eb1015d4f7283904d276f4d4dcc74e82d8d41e36614ac96597642e",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "Cancer",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

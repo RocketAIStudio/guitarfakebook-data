@@ -1,0 +1,87 @@
+{
+  "artist": "Misc Cartoons",
+  "artistNormalized": "misc cartoons",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[A]\n[E]Well,\n\n[Verse 1]\n[A]everyone knows Jua-\nnita Her\neyes each a different\n[E]color Her\nteeth stick [E7/G#]out and her\n[A]chin goes in\nAnd her\n[D]knuckles they [D/F#]drag on the\n[E]floor Her\n\n[Verse 2]\n[A]hair is like a\nbrier She\nstands in a bowlegged\n[E]stance And\nif I [E7/G#]weren't so\n[A]ugly\nShe'd\n[D]possibly\n[E]me a\n[A]chance",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "xx4232"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7/G#": {
+      "catalog": [
+        "420100"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Everyone knows juanita",
+  "id": "4fa3962b16dd12712ebc032440dc2981633cfc475bcf9aedf15539ba178f0357",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 65,
+  "normalizedKey": "misc cartoons|everyone knows juanita",
+  "playableChords": [
+    "A",
+    "E",
+    "E7/G#",
+    "D",
+    "D/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4fa3962b16dd12712ebc032440dc2981633cfc475bcf9aedf15539ba178f0357",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Everyone knows juanita",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

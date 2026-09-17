@@ -1,0 +1,99 @@
+{
+  "artist": "Misc Christmas",
+  "artistNormalized": "misc christmas",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[F]Deck the hall with\nboughs of holly,\nFa, la, la, la, la, la,\n[C]la, la, [F]la!\n'Tis the season\nto be jolly,\nFa, la, la, la, la, la,\n[C]la, la, [F]la!\n[C]Fill the meadcup,\n[F]drain the barrel,\nFa, la, la, [Dm]la, la, la,\n[G]la, la, [C]la!\n[F]Troul the ancient\nChristmas carol,\n[Bb]Fa, la, la, la, [F]la, la,\n[C]la, la,\n[F]la!\n\n[Verse 2]\n[F]See the flowing\nbowl before us,\nFa, la, la, la, la, la,\n[C]la, la, [F]la!\nStrike the harp and\njoin the chorus.\nFa, la, la, la, la, la,\n[C]la, la, [F]la!\n[C]Follow me in\n[F]merry measure,\nFa, la, la, [Dm]la, la, la,\n[G]la, la. [C]la!\n[F]While I sing of\nbeauty's treasure,\n[Bb]Fa, la, la, la, [F]la, la,\n[C]la, la,\n[F]la!\n\n[Verse 3]\n[F]Fast away the\nold year passes,\nFa, la, la, la, la, la,\n[C]la, la, [F]la!\nHail the new, ye\nlads and lasses!\nFa, la, la, la, la, la,\n[C]la, la, [F]la!\n[C]Laughing, quaffing\n[F]all together,\nFa, la, la, [Dm]la, la, la,\n[G]la, la, [C]la!\n[F]Heedless of the\nwind and weather,\n[Bb]Fa, la, la, la, [F]la, la,\n[C]la, la,\n[F]la!",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Deck The Halls",
+  "id": "792eba7a91f823e251bc1342005d1fdce5331c096047a08cd8dd6d6e99334917",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 204,
+  "normalizedKey": "misc christmas|deck the halls",
+  "playableChords": [
+    "F",
+    "C",
+    "Dm",
+    "G",
+    "Bb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "792eba7a91f823e251bc1342005d1fdce5331c096047a08cd8dd6d6e99334917",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Deck The Halls",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

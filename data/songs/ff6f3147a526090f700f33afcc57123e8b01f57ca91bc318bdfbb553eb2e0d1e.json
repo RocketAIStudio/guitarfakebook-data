@@ -1,0 +1,108 @@
+{
+  "artist": "Minutemen",
+  "artistNormalized": "minutemen",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n[G]\n[D]\n[G]\n[D]\n[G]\n[D]\n[G]\n\n[Verse 1]\n[G]The\n[Bm]People will survive\n[D]\n[G]In\n[Bm]Their enviroment\n[D]\n\n[Chorus]\n[Am]The\n[D]dirt scarcityy\n[G]and the emptiness\n[Bm]Of our\n[D]south\n\n[Verse 2]\n[G]The in-\n[Bm]justive of our\n[D]greed\n[G]The\n[Bm]practice we inhe-\n[D]rit\n\n[Chorus]\n[Am]The\n[D]dirt scarcityy\n[G]and the emptiness\n[Bm]Of our\n[D]south\n\n[Verse 3]\n[G]There\n[Bm]oon the\n[D]beach\n[G]I could\n[Bm]see it in her eyes\n[D]\n\n[Chorus]\n[Am]I\n[D]only had a co-\n[G]rona\n[Bm]Five cent de-\n[D]posit\n\n[Outro]\n[D]\n[G]\n[D]\n[G]\n[D]\n[G]\n[D]\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Jackass Theme",
+  "id": "ff6f3147a526090f700f33afcc57123e8b01f57ca91bc318bdfbb553eb2e0d1e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 81,
+  "normalizedKey": "minutemen|jackass theme",
+  "playableChords": [
+    "D",
+    "G",
+    "Bm",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ff6f3147a526090f700f33afcc57123e8b01f57ca91bc318bdfbb553eb2e0d1e",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Jackass Theme",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

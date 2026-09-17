@@ -1,0 +1,103 @@
+{
+  "artist": "Mitski",
+  "artistNormalized": "mitski",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A5]  [D5]\n[G5]  [F#5]\n[D5]  [A5]  [D5]\n[G5]  [A5]  [D5]\n\n[Verse 1]\n[A5]If I could, [D5]I'd\n[G5]be your little [F#5]spoon And\n[A5]kiss your [D5]fingers for-\n[G5]evermore [F#5]\n[A5]But, big spoon, [D5]you\n[G5]have so much to [F#5]do And\n[D5]I have [A5]nothing [D5]a-\n[G5]head [A5]of\n[D5]me [A5]\n[D5]  [A5]\n\n[Verse 2]\n[D5][A5]You're the sun,\n[D5]you've [G5]never seen the\n[F#5]night But you [A5]hear its song\n[D5]from the [G5]morning birds\n[F#5]Well I'm [A5]not the moon,\n[D5]I'm [G5]not even a\n[F#5]star But [D5]awake at night\n[G5]I'll be [A5]singing to the\n[D5]birds\n\n[Bridge]\n[G5]Don't [A5]wait\n[B5]for [F#5]me,\n[G5]I [A5]can't come\n[D5]\n\n[Chorus]\n[D5]Your mother [G5]wouldn't approve\n[A5]Of how my [B5]mother raised me\n[D5]But I do, [G5]Oh I think\n[A5]I do And\n[D5]you're an all [G5]American boy\n[A5]I guess I [B5]couldn't help trying\n[D5]To be [G5]your best Ame-\n[A5]rican girl\n[D5]  [A5]\n[D5]  [A5]\n[D5]\n[F#5]  [G5]\n\n[Verse 3]\n[G5][A5]You're the one\n[D5]You're [G5]all I ever\n[F#5]wanted I think [D5]I'll regret\n[A5]this\n\n[Refrain]\n[D5]  [G5]\n[A5]  [B5]\n[D5]  [G5]  [A5]\n\n[Chorus]\n[G5]Your mother [A5]wouldn't approve\n[B5]Of how my [F#5]mother raised me\n[G5]But I do, [D5]Oh I fi-\n[A5]nally do And\n[G5]you're an all [A5]American boy\n[B5]I guess I [F#5]couldn't help trying\n[G5]To be [D5]your best Ame-\n[A5]rican girl [D5]\n\n[Outro]\n[D5]Your mother [G5]wouldn't approve\n[A5]Of how my [B5]mother raised me\n[D5]But I do, [G5]I think\n[A5]I do [D5]\n[G5]  [D5]\n[B5]  [F#5]\n[G5]  [A5]\n[D5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "999xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "444xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Your Best American Girl",
+  "id": "5ce0c5f316d9aa3af622ae0376bdc0066c7e7d2c497b63c8e3c116687028027b",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 215,
+  "normalizedKey": "mitski|your best american girl",
+  "playableChords": [
+    "A5",
+    "D5",
+    "G5",
+    "F#5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Bridge"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 45,
+      "name": "Refrain"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5ce0c5f316d9aa3af622ae0376bdc0066c7e7d2c497b63c8e3c116687028027b",
+    "version": "BCFZ"
+  },
+  "tempo": 77,
+  "title": "Your Best American Girl",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

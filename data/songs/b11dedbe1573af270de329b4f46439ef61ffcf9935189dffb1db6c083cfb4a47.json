@@ -1,0 +1,103 @@
+{
+  "artist": "Minor Threat",
+  "artistNormalized": "minor threat",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A5]  [G5]  [E5]  [D5]\n[A5]  [G5]  [E5]  [D5]\n[A5]  [G5]  [E5]  [D5]\n[A5]  [G5]  [E5]  [D5]\n[C5]  [G5]  [A5]  [E5]\n[F5]  [D5]  [C5]\n[C5]  [G5]  [A5]  [E5]\n[F5]  [D5]  [C5]\n\n[Verse 1]\n[C5]You see [G5]me and [A5][E5]\n[F5]you [D5]laugh out loud [C5]\n[C5]Taunt me [G5]from [A5]safe [E5]\n[D5][F5]inside your crowd [C5]\n[C5]My looks, [G5]they [A5][E5]\n[F5]must [D5]threaten you [C5]\n[C5]Make you [G5]act [A5][E5]\n[F5]the [D5]way you do [C5]\n\n[Chorus]\n[A5]Red, [G5]I'm [D5][E5]seeing\n[A5]red [G5]I'm [D5][E5]seeing\n[A5]red [G5]I'm [D5][E5]seeing\n[A5]red [G5]I'm [D5][E5]seeing\n\n[Bridge]\n[C5]red [G5][A5][E5]\n[F5]  [D5]  [C5]\n[C5]  [G5]  [A5]\n[F5]  [D5]\n\n[Verse 2]\n[C5]You see [G5]me and [A5][E5]\n[F5]you [D5]think I'm a jerk [C5]\n[C5]First [A5][G5]impressions [E5]\n[D5][F5]without a word\n[C5]You can't [A5][G5]believe [E5]\n[F5]your [D5]eyes at first [C5]But\n[C5]now you [G5]know [A5][E5]\n[F5]you've [D5]seen the worst\n\n[Chorus]\n[A5]Red, [G5]I'm [D5][E5]seeing\n[A5]red [G5]I'm [D5][E5]seeing\n[A5]red [G5]I'm [D5][E5]seeing\n[A5]red [G5]I'm [D5][E5]seeing\nred\n\n[Outro]\n[A5]Red, [G5]I'm [D5][E5]seeing\n[A5]red [G5]I'm [D5][E5]seeing\n[A5]red [G5]I'm [D5][E5]seeing\n[A5]red",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Seeing Red",
+  "id": "b11dedbe1573af270de329b4f46439ef61ffcf9935189dffb1db6c083cfb4a47",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 108,
+  "normalizedKey": "minor threat|seeing red",
+  "playableChords": [
+    "A5",
+    "G5",
+    "E5",
+    "D5",
+    "C5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b11dedbe1573af270de329b4f46439ef61ffcf9935189dffb1db6c083cfb4a47",
+    "version": "BCFZ"
+  },
+  "tempo": 166,
+  "title": "Seeing Red",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

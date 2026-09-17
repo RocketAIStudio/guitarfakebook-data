@@ -1,0 +1,106 @@
+{
+  "artist": "Metallica",
+  "artistNormalized": "metallica",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D5]\n[D(b5)]\n[G5]\n[D(b5)]\n[G5]\n[D(b5)]\n[G5]  [D(b5)]\n[G5]  [D(b5)]\n[G5]  [D(b5)]\n[G5]\n\n[Verse 1]\n[D5]Yeah, [F5][D5]I feel you\ntoo [F5][D5]\nFeel [F5][D5]those things you do\n[F5]  [D5]\n[F5]In your eyes I see a\nfire that burns To free the you\n[D5][F5][D5]That's running through\n[F5]  [D5]\n[F5]Deep inside you know The\n[E5]seeds I plant will grow [D(b5)]\n[G5]  [D(b5)]\n[G5]\n\n[Chorus]\n[Ab5]One day you will see\n[D5][F5]And\n[Ab5]dare to come down to me\n[D5][F5]Yeah,\n[Ab5]come on, come on now take the chance\n[D5][F5]That's right,\n[D(b5)]let's dance\n[G5]  [D(b5)]\n[G5]  [D(b5)]\n[G5]  [D(b5)]\n[G5]\n\n[Verse 2]\n[D5]Snake, [F5]I [D5]am the\nsnake [F5][D5]\nTempting [F5][D5]that bite you\ntake [F5][D5]\n[F5]Let me make your mind\nLeave yourself behind\n[D5][F5][D5]Be not a-\nfraid [F5][D5]\n[F5]I've got what you need Your\n[E5]hunger I will feed [D(b5)]\n[G5]  [D(b5)]\n[G5]\n\n[Chorus]\n[Ab5]One day you will see\n[D5][F5]And\n[Ab5]dare to come down to me\n[D5][F5]Yeah,\n[Ab5]come on, come on now take the chance\n[D5][F5]Ha, ha,\n[D(b5)]come dance, ah\n[D5]\nYeah, come dancin'\n\n[Solo]\n[F5]\n[D5]  [F5]  [D5]\n[F5]  [D5]\n[F5]  [D5]\n[F5]  [D5]\n[Ab5]One day you will see\n[D5][F5]And\n[Ab5]dare to come down to me\n[D5][F5]Yeah,\n[Ab5]come on, come on now take the chance\n[D5]  [F5]\n[D(b5)]\n[G5]\n[D(b5)]\n[G5]\n[D(b5)]\n[G5]  [D(b5)]\n[G5]  [D(b5)]\n[G5]  [D(b5)]\n\n[Verse 3]\n[D5]Yeah, [F5][D5]I feel you\ntoo [F5][D5]\nFeel [F5][D5]those things you do\n[F5]  [D5]\n[F5]In your eyes I see a\nfire that burns To free the you\n[D5][F5][D5]That's running through\n[F5]  [D5]\n[F5]Deep inside you know The\n[E5]seeds I plant will grow [D(b5)]\n[G5]  [D(b5)]\n[G5]\n\n[Chorus]\n[Ab5]One day you will see\n[D5][F5]And\n[Ab5]dare to come down to me\n[D5][F5]Yeah,\n[Ab5]come on, come on now take the chance\n[D5][F5]That's right,\n[D(b5)]let's dance\n[G5]  [D(b5)]\nMmm, it's\n[Ab5]nice to see you here\n[D5][F5]Ha, ha\n[D(b5)]",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D(b5)": {
+      "catalog": [
+        "677xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Devil's Dance *alt",
+  "id": "8b9350fe18fbd59435f13103717efc57dc608ad477a3b506c191de9b5a0dc0fa",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 222,
+  "normalizedKey": "metallica|devil s dance",
+  "playableChords": [
+    "D5",
+    "D(b5)",
+    "G5",
+    "F5",
+    "E5",
+    "Ab5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 76,
+      "name": "Solo"
+    },
+    {
+      "measure": 99,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 111,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8b9350fe18fbd59435f13103717efc57dc608ad477a3b506c191de9b5a0dc0fa",
+    "version": "BCFZ"
+  },
+  "tempo": 93,
+  "title": "Devil's Dance",
+  "tuning": "D G C F A D",
+  "variantRole": "alt"
+}

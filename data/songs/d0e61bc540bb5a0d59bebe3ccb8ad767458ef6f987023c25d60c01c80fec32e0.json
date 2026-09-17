@@ -1,0 +1,141 @@
+{
+  "artist": "Nirvana",
+  "artistNormalized": "nirvana",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C]  [D]\n[C]  [D]\nGoodbye my friend, it's hard to\n\n[Verse 1]\n[D]die\nWhen all the birds are singing\n[E]in the sky\nAnd all the flowers are every-\n[D]where\nPretty girls are every-\n[E]where\n[A]Think of me and I'll be\n[D]there\n[C]\n[D]Goodbye Papa, please pray for\n\n[Verse 2]\n[D]me\nI was the black sheep of the\n[E]family\nAnd I don't know all these\n[D]words\nI had boggy\n[E]turds\n[A]With my BB gun I would kill\n[D]birds\nWe had\n\n[Chorus]\n[D]joy, we had fun We had\n[E]seasons in the sun But the\n[A]hills that we climbed Were just\nseasons out of\n[D]time\nAll our\nlives, we had fun We had\n[E]seasons in the sun But the\n[A]world that we reached Were just\nstarfish on the [D]beach\n[C]\n[D]\nGoodbye Michelle, my little\n\n[Verse 3]\n[D]one\nI was the apple of the\n[E]shining sun\nAnother apple out of\n[D]reach\nAll my tears are sal-\n[E]ty\n[A]I think now I was taught to\n[D]weep\nWe had\n\n[Chorus]\n[D]joy, we had fun We had\n[E]seasons in the sun But the\n[A]hills that we climb Were just\nseasons out of\n[D]time\nWe had\njoy, we had fun We had\n[E]seasons in the sun But the\n[A]hill on the beach Were just\nstarfish on the\n[D]beach\nWe had\n\n[Chorus]\n[Eb]joy, we had fun We had\n[F]seasons in the sun But the\n[Bb]hills that we climb Were just\nseasons out of\n[Eb]time\nOh the\njoy, we had fun We had\n[F]seasons in the sun But the\n[Bb]stars that we reached Were just\nstarfish on the\n[Eb]beach\n\n[Outro]\n[D]  [Eb]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "x-8-10-10-10-8",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Seasons In The Sun",
+  "id": "d0e61bc540bb5a0d59bebe3ccb8ad767458ef6f987023c25d60c01c80fec32e0",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 277,
+  "normalizedKey": "nirvana|seasons in the sun",
+  "playableChords": [
+    "C",
+    "D",
+    "E",
+    "A",
+    "Eb",
+    "F",
+    "Bb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d0e61bc540bb5a0d59bebe3ccb8ad767458ef6f987023c25d60c01c80fec32e0",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Seasons In The Sun",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

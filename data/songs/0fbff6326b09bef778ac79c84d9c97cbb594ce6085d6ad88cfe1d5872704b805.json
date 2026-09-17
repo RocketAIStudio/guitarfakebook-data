@@ -1,0 +1,128 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Em]\n\n[Verse]\nOnly\n[C]twelve years old\n[G]and al-\n[Bm]ready so alo-\n[C]ne Left a-\n[D]bandoned on a tra-\n[Em]in\n[C]You've got a\n[D]lot to learn\n[G5][F#5]but you'll\n[Em]never learn Powde-\n[C]rs can't get\n[Cm]rid of all your pa-\n[G]in\n[Em]Chased by\n[C]Keystone Cops\n[G]through L-\n[Bm]A's endless backdro-\n[C]ps You be-\n[D]came loved by the wo-\n[Em]rld\n[C]But the\n[D]biggest star\n[G5][F#5]is gonna\n[Em]leave the biggest sc-\n[C]ar On that\n[Cm]pregnant tarnished gi-\n[G]rl\nFa-\n\n[Chorus]\n[Em]tty,\nFat-\n[C]ty\nThe\n[D]world can turn pineap-\nple upside do-\n[G5]wn cake\n[F#5]Fa-\n[Em]tty,\n[Em]Fat-\n[C]ty\nAfter\n[D]so many proud fa-\nlls this is your pro-\n[G5]udest\n[F#5]Fa-\n[Em]tty,\nFat-\n[C]ty\nYour\n[D]friends will turn on yo-\nu in a split s-\n[G5]econd\n[F#5]Fa-\n[Em]tty,\nFat-\n[C]ty\nThere's\n[D]no place for the f-\nattest man to h-\n[G5]ide out\n[F#5]Fa-\n\n[Outro]\n[Em]tty,\nFat-\n[C]ty\nFa-\n[Em]tty,\nFat-\n[C]ty\nFat-\n[Em]ty",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "022000",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I, Fatty",
+  "id": "0fbff6326b09bef778ac79c84d9c97cbb594ce6085d6ad88cfe1d5872704b805",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 169,
+  "normalizedKey": "nofx|i fatty",
+  "playableChords": [
+    "Em",
+    "C",
+    "G",
+    "Bm",
+    "D",
+    "G5",
+    "F#5",
+    "Cm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0fbff6326b09bef778ac79c84d9c97cbb594ce6085d6ad88cfe1d5872704b805",
+    "version": "BCFZ"
+  },
+  "tempo": 195,
+  "title": "I, Fatty",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

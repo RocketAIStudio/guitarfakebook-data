@@ -1,0 +1,125 @@
+{
+  "artist": "Moon OA",
+  "artistNormalized": "moon oa",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\nOh no, I hope I don't fall\n[Abm]  [Ebm7]\n[B]  [Dbadd11]  [Abm]\n[Ebm7]\n[B]  [Dbadd11]  [Abm]\n\n[Main Theme]\n[Abm]  [Ebm7]\n[B]  [Dbadd11]  [Abm]\n[Ebm7]\n[B]  [Dbadd11]  [Abm]\n[Ebm7]\n[B]  [Dbadd11]  [Abm]\n[Ebm7]\n[B]  [Dbadd11]  [Abm]\n[Ebm7]\n[B]  [Dbadd11]  [Abm]\n[Ebm7]\n[B]  [Dbadd11]  [Abm]\n\n[Re-Intro]\n[Abm]  [Ebm7]\n[B]  [Dbadd11]  [Abm]\n[Ebm7]\n[B]  [Dbadd11]  [Abm]\n\n[Main Theme (Reprise)]\n[Abm]  [Ebm7]\n[B]  [Dbadd11]  [Abm]\n[Ebm7]\n[B]  [Dbadd11]  [Abm]\n[Ebm7]\n[B]  [Dbadd11]  [Abm]\n[Ebm7]\n[B]  [Dbadd11]  [Abm]\n[Ebm7]\n[B]  [Dbadd11]  [Abm]\n[Ebm7]\n[B]  [Dbadd11]  [Abm]\n[Ebm7]\n[B]  [Dbadd11]  [Abm]\n[Ebm7]\n[B]  [Dbadd11]  [Abm]\n\n[Interlude]\n[Abm]  [Ebm7]\n[B]  [Dbadd11]  [Abm]\n[Ebm7]\n[B]  [Dbadd11]  [Abm]\n\n[Second Theme]\n[Ebm7]  [Db6]\n[Bbm7]  [Ab]\n[Ebm7]  [Db6]\n[Bbm7]  [Ab]\n[Ebm7]  [Db6]\n[Bbm7]  [Ab]\n[Ebm7]  [Db6]\n[Bbm7]  [Ab]\n[Ebm7]  [Db6]\n[Bbm7]  [Ab]\n[Ebm7]  [Db6]\n[Bbm7]  [Ab]\n[Ebm7]  [Db6]\n[Bbm7]  [Ab]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "577655",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Abm": {
+      "catalog": [
+        "x47555",
+        "4-6-6-4-4-4",
+        "x-x-6-8-9-7",
+        "x-11-13-13-12-11",
+        "16-18-18-16-16-16"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x32010",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm7": {
+      "catalog": [
+        "797777",
+        "x-1-3-1-2-1",
+        "6-8-6-6-6-6",
+        "x-x-8-10-9-9",
+        "x-13-15-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Db6": {
+      "catalog": [
+        "x57777"
+      ],
+      "catalogCount": 1
+    },
+    "Dbadd11": {
+      "catalog": [
+        "x54033"
+      ],
+      "catalogCount": 1
+    },
+    "Ebm7": {
+      "catalog": [
+        "x75757",
+        "x-x-1-3-2-2",
+        "x-6-8-6-7-6",
+        "11-13-11-11-11-11",
+        "x-x-13-15-14-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Oh No I Hope I Don't Fall",
+  "id": "f3933647e2d9a5433161424e11c2eb6799c1e5ad35d483ec39cd22e28fd40542",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 7,
+  "normalizedKey": "moon oa|oh no i hope i don t fall",
+  "playableChords": [
+    "Abm",
+    "Ebm7",
+    "B",
+    "Dbadd11",
+    "Db6",
+    "Bbm7",
+    "Ab"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Main Theme"
+    },
+    {
+      "measure": 18,
+      "name": "Re-Intro"
+    },
+    {
+      "measure": 22,
+      "name": "Main Theme (Reprise)"
+    },
+    {
+      "measure": 38,
+      "name": "Interlude"
+    },
+    {
+      "measure": 42,
+      "name": "Second Theme"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f3933647e2d9a5433161424e11c2eb6799c1e5ad35d483ec39cd22e28fd40542",
+    "version": "BCFZ"
+  },
+  "tempo": 106,
+  "title": "Oh No I Hope I Don't Fall",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

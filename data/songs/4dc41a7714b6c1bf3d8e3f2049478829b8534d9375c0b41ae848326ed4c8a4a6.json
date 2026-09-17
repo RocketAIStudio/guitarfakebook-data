@@ -1,0 +1,95 @@
+{
+  "artist": "Misfits",
+  "artistNormalized": "misfits",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[B]I wanna be a New\nYork [F#][G#m](Ranger!)\n[B]I wanna live the life\nof [F#][G#m](Danger!)\n[B]I wanna be a New\nYork [F#][G#m](Ranger!)\n[B]I wanna live the life\nof [F#][G#m](Danger!)\n\n[Chorus]\n[E]Whoa-\n[F#]oh-\n[B]oh!\n[E]Whoa-\n[F#]oh-\n[B]oh!\n[E]Whoa-\n[F#]oh!\n[B]Ran [A]-\n[G#m]ger [F#]\n\n[Outro]\n[E]from\n[F#]New\n[B]York!",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "NY Ranger",
+  "id": "4dc41a7714b6c1bf3d8e3f2049478829b8534d9375c0b41ae848326ed4c8a4a6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 50,
+  "normalizedKey": "misfits|ny ranger",
+  "playableChords": [
+    "B",
+    "G#m",
+    "F#",
+    "E",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4dc41a7714b6c1bf3d8e3f2049478829b8534d9375c0b41ae848326ed4c8a4a6",
+    "version": "BCFZ"
+  },
+  "tempo": 210,
+  "title": "NY Ranger",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

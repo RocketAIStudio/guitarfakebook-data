@@ -1,0 +1,160 @@
+{
+  "artist": "Mustard Service",
+  "artistNormalized": "mustard service",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[E]  [C#m]\n[B]  [A]\n[E]  [C#m]\n[B]  [A]\n\n[Verse 1]\n[E]I'm going [C#m]down,\n[B]I gotta buy with the [A]things you left around\n[E]Taking up [C#m]space,\n[B]but i'll keep it [A]here now just in case\n[E]You never [C#m]died,\n[B]I tried to shoot [A]you down you're still alive,\n[E]Taking up [C#m]space\n[B]in my heart, [A]and on my face\n\n[Bridge]\n[E]\n[C#m]\n[A]  [B]\n[E]It was al-\n\n[Chorus]\n[E]ways the same\n[C#m]old dream,\n[A][B]for you and\n[E]me\n\n[Bridge]\n[E]  [C#m]\n[B]  [A]\n[E]  [C#m]\n[B]  [A]\n\n[Verse 2]\n[E]I'm feeling [C#m]fine,\n[B]I got another [A]heart seems to be mine\n[E]It treats me [C#m]good,\n[B]I don't deserve it [A]don't feel like i should\n[E]Brings lunch to [C#m]work,\n[B]can't help but [A]feeling like a jerk\n[E]What can I [C#m]do,\n[B]I'm still [A]singing songs for you\n\n[Bridge]\n[E]\n[C#m]\n[A]  [B]\n[E]It was al-\n\n[Chorus]\n[E]ways the same\n[C#m]old dream\n[A]  [B]\n[E]It was al-\n[E]ways the same\n[C#m]old dream,\n[A][B]for you and\n[E]me\n\n[Interlude]\n[F#dim7]\n[Emaj7]  [Emmaj7]\n[D]\n[A]\n[F#dim7]\n[Emaj7]  [Emmaj7]\n[D]\n[A]\n[E]  [C#m]\n[B]  [A]\n[E]  [C#m]\n[B]  [A]\n\n[Solo]\n[E]  [C#m]\n[B]  [A]\n[E]  [C#m]\n[B]  [A]\n[E]  [C#m]\n[B]  [A]\n[E]  [C#m]\n[B]  [A]\n\n[Bridge]\n[E]\n[C#m]\n[A]  [B]\n[E]It was al-\n\n[Chorus]\n[E]ways the same\n[C#m]old dream\n[A]  [B]\n[E]It was al-\n[E]ways the same\n[C#m]old dream\n[A]  [B]\n[E]It was al-\n[E]ways the same\n[C#m]old dream,\n[A][B]for you and\n[E]me It was al-\n[E]ways the same\n[C#m]old dream\n[A]  [B]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x2444x",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x4665x",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x5777x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x7999x",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Emaj7": {
+      "catalog": [
+        "x7989x",
+        "0-2-1-1-0-0",
+        "x-x-2-4-4-4",
+        "x-7-6-4-4-4",
+        "x-7-9-8-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Emmaj7": {
+      "catalog": [
+        "x7988x"
+      ],
+      "catalogCount": 1
+    },
+    "F#dim7": {
+      "catalog": [
+        "x-9-10-8-10-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Taking Up Space",
+  "id": "248990b8cf32fdefb0da0c0a2ef12bfacb7949598fdbd8cfc34dd6f6cbd02789",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 172,
+  "normalizedKey": "mustard service|taking up space",
+  "playableChords": [
+    "E",
+    "C#m",
+    "B",
+    "A",
+    "F#dim7",
+    "Emaj7",
+    "Emmaj7",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Bridge"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Bridge"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Interlude"
+    },
+    {
+      "measure": 58,
+      "name": "Solo"
+    },
+    {
+      "measure": 66,
+      "name": "Bridge"
+    },
+    {
+      "measure": 70,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "248990b8cf32fdefb0da0c0a2ef12bfacb7949598fdbd8cfc34dd6f6cbd02789",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Taking Up Space",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

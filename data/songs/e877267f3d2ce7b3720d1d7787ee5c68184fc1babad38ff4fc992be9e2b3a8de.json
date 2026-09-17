@@ -1,0 +1,95 @@
+{
+  "artist": "Misc Cartoons",
+  "artistNormalized": "misc cartoons",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A6]\n\n[Verse]\n[A6]Two lovers, forbidden from\none another A war\ndivides their\n[E]people And a\nmountain divides them a-\n[F#m]part\nBuilt a path to\nbe to-\n[C#m]gether\nYeah, and I forget the next couple of lines, but eh,\nthen it goes...\n\n[Chorus]\n[A]Secret tunnel!\n[F#m]Secret tunnel!\nThrough the mountain!\n[E]Secret, secret, secret, secret\n[A]tunnel! Yeah",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A6": {
+      "catalog": [
+        "x04220"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Avatar The Last Airbender - Secret Tunnel",
+  "id": "e877267f3d2ce7b3720d1d7787ee5c68184fc1babad38ff4fc992be9e2b3a8de",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 74,
+  "normalizedKey": "misc cartoons|avatar the last airbender secret tunnel",
+  "playableChords": [
+    "A6",
+    "E",
+    "F#m",
+    "C#m",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e877267f3d2ce7b3720d1d7787ee5c68184fc1babad38ff4fc992be9e2b3a8de",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "Avatar The Last Airbender - Secret Tunnel",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

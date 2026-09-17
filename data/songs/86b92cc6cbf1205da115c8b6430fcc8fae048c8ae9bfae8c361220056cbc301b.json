@@ -1,0 +1,144 @@
+{
+  "artist": "Meg & Dia",
+  "artistNormalized": "meg dia",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[F#m]\n[D]\n[F#sus2]\n[Dsus2]\n\n[Verse 1]\n[F#m]His little whispers,\n[Dsus2]\"Love me, love me\n[F#sus2]That's all I ask for\n[Dsus2]Love me, love me.\"\n[F#m]He battered his\n[A]tiny fists to\n[Dsus2]feel [A]something [E]\n[F#m]\n[F#m]Wondered what it's\n[A]like to touch and\n[Dsus2]feel [B][A]somethi-\nng\n\n[Chorus]\n[F#m]Monster, How should\n[D]I feel? Creatures\n[A]lie here Looking\n[E]through the [D]window\n[F#m]\n[D]\n[F#sus2]\n[Dsus2]\n\n[Verse 2]\n[F#m]That night he caged her\n[Dsus2]Bruised and broke her\n[F#sus2]He struggled closer\n[Dsus2]Then he stole her\n[F#m]Violet wrists and\n[A]then her ankles\n[Dsus2]Silent [A]pain [E]\n[F#m]\n[F#m]Then he slowly\n[A]saw their nightmares\n[Dsus2]were his [B][A]drea-\nms\n\n[Chorus]\n[F#m]Monster, How should\n[D]I feel? Creatures\n[A]lie here Looking\n[C#m]through the windows\n[F#m]Time will Hear their\n[D]voices I'm a\n[A]glass child, I am\n[E]Hannah's regrets\n\n[Bridge]\n[F#m]  [E]\n[F#m]  [A]\n[D]  [A]\n[D]  [E]\n[F#m]  [E]\n[F#m]  [A]\n[D]  [A]\n[D]  [E]\n\n[Break]\n[F#m]Monster, How should\n[D]I feel? Turn the\n\n[Chorus]\n[A]sheets down Murder\n[C#m]ears with pillow lace There's\n[F#m]bath [E]tubs [A]Full of\n[D]glow flies Bathed in\n[A]kerosene Their words\n[E]tattooed in his\n[F#m]ve-\nins, yeah!",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "F#sus2": {
+      "catalog": [
+        "xx4674"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Monster",
+  "id": "86b92cc6cbf1205da115c8b6430fcc8fae048c8ae9bfae8c361220056cbc301b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 181,
+  "normalizedKey": "meg dia|monster",
+  "playableChords": [
+    "F#m",
+    "D",
+    "F#sus2",
+    "Dsus2",
+    "A",
+    "E",
+    "B",
+    "C#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Bridge"
+    },
+    {
+      "measure": 55,
+      "name": "Break"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "86b92cc6cbf1205da115c8b6430fcc8fae048c8ae9bfae8c361220056cbc301b",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Monster",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

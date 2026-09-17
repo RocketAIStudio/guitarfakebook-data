@@ -1,0 +1,136 @@
+{
+  "artist": "Miranda Lambert",
+  "artistNormalized": "miranda lambert",
+  "capo": "3",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[D]\n[G/D]  [D]\nI know they sa-\n\n[Verse 1]\n[D]y you can't go home aga-\nin.\n[F#m/C#]I just had to come back one last\ntime.\n[G/D]Ma'am I know you don't know me from\nAdam. But these\n[D]hand prints on the front steps are mi-\n[Asus2]ne. [Asus4][A]Up those sta-\n[D]irs, in that little back\nbedroom Is where I\n[F#m/C#]did my homework and I learned to play guita-\nr. And I\n[G/D]bet you didn't know\nunder that live oak My\n[D]favorite dog is buried in the ya-\n[Asus2]rd. [Asus4][A]I\n\n[Chorus]\n[G/D]thought if I could touch this place or\n[D]feel it This\n[Em]brokenness inside me might start\n[D]healing. Out\n[G/D]here it's like I’m someone else, I\n[Bm]thought that maybe I could find m-\n[G/D]yself If\n[D]I could just come in I swear I'll le-\n[G/D]ave. Won't take nothing but a\n[D]memory From the ho-\n[A]use that [Asus4]bui-\n[D]lt me.\nMama\n\n[Verse 2]\n[D]cut out pictures of houses for ye-\nars. From\n[F#m/C#]'Better Homes and Garden' magazine.\nPlans were dra-\n[G/D]wn, concrete poured, And nail by\nnail and board by board\n[D]Daddy gave life to mama's dream.\n[Asus2][Asus4][A]I\n\n[Chorus]\n[G/D]thought if I could touch this place or\n[D]feel it This\n[Em]brokenness inside me might start\n[D]healing. Out\n[G/D]here it's like I’m someone else, I\n[Bm]thought that maybe I could find m-\n[G/D]yself If\n[D]I could just come in I swear I'll le-\n[G/D]ave. Won't take nothing but a\n[D]memory From the ho-\n[Asus4]use that [A]bui-\n[D]lt me.\nYou\n\n[Bridge]\n[Bm]leave home, you move on and you\n[D]do the best you can.\n[Em]I got lost in this old world and for-\n[G/D]got who I\n[Asus4]am. [A]I\n\n[Chorus]\n[G/D]thought if I could touch this place or\n[D]feel it This\n[Em]brokenness inside me might start\n[D]healing. Out\n[G/D]here it's like I’m someone else, I\n[Bm]thought that maybe I could find m-\n[G/D]yself If\n[D]I could just come in I swear I'll le-\n[G/D]ave. Won't take nothing but a\n[D]memory From the ho-\n[Asus4]use that [A]bui-\n[G/D]lt me.\n[D]\n\n[Outro]\n[Em]  [Asus4]  [A]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "000232",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "222000",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m/C#": {
+      "catalog": [
+        "x44222"
+      ],
+      "catalogCount": 1
+    },
+    "G/D": {
+      "catalog": [
+        "x55433"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The House That Built Me",
+  "id": "84f1eced1ce366cb271e59138f4ae8d199c61afe1a7433d2a17b1f84fb25baef",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 370,
+  "normalizedKey": "miranda lambert|the house that built me",
+  "playableChords": [
+    "D",
+    "G/D",
+    "F#m/C#",
+    "Asus2",
+    "Asus4",
+    "A",
+    "Em",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Bridge"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 76,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "84f1eced1ce366cb271e59138f4ae8d199c61afe1a7433d2a17b1f84fb25baef",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "The House That Built Me",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

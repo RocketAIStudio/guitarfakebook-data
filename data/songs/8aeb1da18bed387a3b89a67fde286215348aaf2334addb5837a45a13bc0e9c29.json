@@ -1,0 +1,108 @@
+{
+  "artist": "Modest Mouse",
+  "artistNormalized": "modest mouse",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]  [A]\n[Bm]  [G]\n[D]  [A]\n[G]  [D]\n\n[Verse 1]\n[D]Polar [A]opposites don't\n[Bm]push [G]away, It's the same\n[D]on the [A]weekends as the\n[G]rest of the [D]days. And I know,\n[D]I should [A]go but I would\n[Bm]probably [G]stay, and that's all\n[D]you can [A]do about\n[G]somethings. [D]\n\n[Chorus]\n[D]I'm [A]tryin'.\n[G]I'm [D]tryin' to,\n[D]drink [A]away the part of the day that\n[G]I cannot sleep [D]away.\n[D]I'm [A]tryin'.\n[G]I'm [D]tryin' to,\n[D]drink away [A]the part of the day that I\n[G]cannot sleep [D]away.\n\n[Solo]\n[D]  [A]\n[Bm]  [G]\n[D]  [A]\n[G]  [D]\n\n[Verse 2]\n[D]Two one eyed [A]dogs, they're\n[Bm]lookin' at [G]stereos. HiFi gods\n[D]try so [A]hard\n[G]to make their [D]cars low to the ground.\n[D]These [A]vibrations,\n[Bm]oil it [G]steep. Primer grey\n[D]is the [A]colour when you're done\n[G]dyin'. [D]\n\n[Chorus]\n[D]I'm [A]tryin'.\n[G]I'm [D]tryin' to,\n[D]drink [A]away the part of the day that\n[G]I cannot sleep [D]away.\n[D]I'm [A]tryin'.\n[G]I'm [D]tryin' to,\n[D]drink away [A]the part of the day that I\n[G]cannot sleep [D]away.\n\n[Bridge]\n[D]  [A]\n[G]  [D]\n\n[Outro]\n[D]  [A]\n[Bm]  [G]\n[D]  [A]\n[G]  [D]\n[D]  [A]\n[Bm]  [G]\n[D]  [A]\n[G]  [D]\n[D]  [A]\n[Bm]  [G]\n[D]  [A]\n[G]  [D]\n[D]  [A]\n[Bm]  [G]\n[D]  [A]\n[G]  [D]\n[D]  [A]\n[Bm]  [G]\n[D]  [A]\n[G]  [D]\n[D]  [A]\n[Bm]  [G]\n[D]  [A]\n[G]  [D]\n[D]  [A]\n[Bm]  [G]\n[D]  [A]\n[G]  [D]\n[D]  [A]\n[Bm]  [G]\n[D]  [A]\n[G]  [D]\n[D]  [A]\n[Bm]  [G]\n[D]  [A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Polar Opposites",
+  "id": "8aeb1da18bed387a3b89a67fde286215348aaf2334addb5837a45a13bc0e9c29",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 178,
+  "normalizedKey": "modest mouse|polar opposites",
+  "playableChords": [
+    "D",
+    "A",
+    "Bm",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Solo"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    },
+    {
+      "measure": 44,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8aeb1da18bed387a3b89a67fde286215348aaf2334addb5837a45a13bc0e9c29",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Polar Opposites",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

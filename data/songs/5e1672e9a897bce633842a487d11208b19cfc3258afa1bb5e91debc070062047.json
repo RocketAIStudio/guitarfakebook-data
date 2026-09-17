@@ -1,0 +1,115 @@
+{
+  "artist": "Motorama",
+  "artistNormalized": "motorama",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D#5]  [C#/F]\n[Fm7]\n[D#5]  [C#/F]\n[Fm7]\n[D#5]  [C#/F]\n[Fm7]\n[D#5]  [C#/F]\n[Fm7]\n\n[Verse 1]\n[D#5]Slowly float over the [C#/F]seas\nwith the belief\n[Fm7]\nAnd your heart\n[D#5]is in the middle, [C#/F]heart\nis in the middle of it\n[Fm7]\n[D#5]Slowly float over the [C#/F]seas\nwith the belief,\n[Fm7]but\nShe has no\n[D#5]time, [C#/F]no\ntime, honestly\n[Fm7]\n\n[Chorus]\n[F#]She's still awake\nin bed in her white\n[Fm]dress\n[F#]She cannot fall\nasleep all night\n[Fm]\n[F#]Hold tight\nyour will,\n[Fm]no warmth,\nno heat\n[F#]No love,\nonly cold li-\n[Fm]ghts\n\n[Interlude]\n[D#5]  [C#/F]\n[Fm7]\n[D#5]  [C#/F]\n[Fm7]\n[D#5]  [C#/F]\n[Fm7]\n[D#5]  [C#/F]\n[Fm7]\nIn the\n\n[Verse 2]\n[D#5]dark of her room she's [C#/F]\nstill thinking of\n[Fm7]you\nAll her\n[D#5]memories gone but she's [C#/F]\nstill thinking of you\n[Fm7]\nIn her\n[D#5]heart there's no place for [C#/F]no-\nbody but\n[Fm7]you\nAll her\n[D#5]memories gone but she's [C#/F]\nstill thinking of you\n[Fm7]\n\n[Chorus]\n[F#]She's still awake\nin bed in her white\n[Fm]dress\n[F#]She cannot fall\nasleep all night\n[Fm]\n[F#]Hold tight\nyour will,\n[Fm]no warmth,\nno heat\n[F#]No love,\nonly cold li-\n[Fm]ghts\n\n[Solo]\n[Fm7]\n\n[Interlude]\n[D#5]  [C#/F]\n[Fm7]\n[D#5]  [C#/F]\n[Fm7]\n[D#5]  [C#/F]\n[Fm7]\n[D#5]  [C#/F]\n[Fm7]\n\n[Outro]\n[D#5]  [C#/F]\n[Fm7]\n[D#5]  [C#/F]\n[Fm7]\n[D#5]  [C#/F]\n[Fm7]\n[D#5]  [C#/F]\n[Fm7]",
+  "diagrams": {
+    "C#/F": {
+      "catalog": [
+        "x-8-11-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "x-9-11-11-11-x",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "x-8-10-10-9-x",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm7": {
+      "catalog": [
+        "x-8-10-8-9-x",
+        "1-3-1-1-1-1",
+        "x-x-3-5-4-4",
+        "x-8-10-8-9-8",
+        "13-15-13-13-13-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Letter Home",
+  "id": "5e1672e9a897bce633842a487d11208b19cfc3258afa1bb5e91debc070062047",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 160,
+  "normalizedKey": "motorama|letter home",
+  "playableChords": [
+    "D#5",
+    "C#/F",
+    "Fm7",
+    "F#",
+    "Fm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 81,
+      "name": "Chorus"
+    },
+    {
+      "measure": 97,
+      "name": "Solo"
+    },
+    {
+      "measure": 113,
+      "name": "Interlude"
+    },
+    {
+      "measure": 129,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5e1672e9a897bce633842a487d11208b19cfc3258afa1bb5e91debc070062047",
+    "version": "BCFZ"
+  },
+  "tempo": 146,
+  "title": "Letter Home",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,117 @@
+{
+  "artist": "Modest Mouse",
+  "artistNormalized": "modest mouse",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E5]\n[C5]\n[E5]\n[C5]\n[A5]  [C5]  [B5]  [G5]\n[F5]  [G5]\n[A5]  [C5]  [B5]  [G5]\n[G5]\n\n[Chorus]\n[A5]I [C5][B5][G5]\n[F5]might [G5]And\n[A5]you [C5][B5][G5]\n[G5]might But\n[A5]neither [C5]of us [G5]do,\n[F5]though [G5]And\n[C5][A5]neither of [G5]us\n[G5]will\n\n[Verse 1]\n[D]I broke every bone in my goddamn jaw\nThat's a lot, it's the last one I\never got\n\n[Bridge]\n[A5]  [C5]  [G5]\n[F5]  [G5]\n[A5]  [C5]  [G5]\n[G5]\n\n[Chorus]\n[A5]I [C5][G5]\n[F5]might [G5]And\n[A5]you [C5][G5]\n[G5]might But\n[A5]neither [C5]of us [G5]do,\n[F5]though [G5]And\n[C5][A5]neither of [G5]us\n[G5]will\n\n[Verse 2]\n[D]Yesterday night I broke every bone in my jaw\nThought so hard, it's the last thing I\never thought\n\n[Bridge]\n[A5]  [C5]  [G5]\n[F5]  [G5]\n[A5]  [C5]  [G5]\n[G5]\n\n[Outro]\n[E5]\n[C5]\n[E5]\n[C5]\n[G5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Might",
+  "id": "88a56cbb6ad5fe0a6c8f3e40cc881bbcb81ed71f745a6cb4429cfe805f9a104a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 71,
+  "normalizedKey": "modest mouse|might",
+  "playableChords": [
+    "E5",
+    "C5",
+    "A5",
+    "B5",
+    "G5",
+    "F5",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "88a56cbb6ad5fe0a6c8f3e40cc881bbcb81ed71f745a6cb4429cfe805f9a104a",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Might",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

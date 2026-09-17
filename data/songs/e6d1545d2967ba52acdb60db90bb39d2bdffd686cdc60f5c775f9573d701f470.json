@@ -1,0 +1,122 @@
+{
+  "artist": "Metallica",
+  "artistNormalized": "metallica",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n\n[Verse 1]\n[C]I got something to s-\nay, [F][G]\n[C]I killed your\nbaby today [F]and [G]it\n[F]Doesn't matter mu-\n[D5]ch to me, as\n[C]long as it's de-\nad [F][G]\n[C]\n[F]  [G]\n\n[Verse 2]\n[C]I got something to s-\nay, [F][G]\n[C]I raped your\nmother today [F]and [G]it\n[F]Doesn't matter mu-\n[D5]ch to me, as\n[C]long as she's spre-\nad\n\n[Chorus]\n[F]Ooh lovely de-\n[G]ad, just\n[C]waiting [B5]for you-\n[A5]r breath\n[F]Come sweet\n[G]death, one last c-\n\n[Bridge]\n[C]aress\n[F]  [G]\n[C]\n[F]  [G]\n[C]\n[F]  [G]\n[C]\n[F]  [G]\n[F]\n[D5]\n[C]\n\n[Chorus]\n[F]Ooh lovely de-\n[G]ad, just\n[C]waiting [B5]for you-\n[A5]r breath\n[F]Come sweet\n[G]death, one last c-\n\n[Bridge]\n[C]aress\n[F]  [G]\n[C]\n[F]  [G]\n\n[Verse 3]\n[C]I got something to s-\nay, [F][G]\n[C]I killed your\nbaby today [F]and [G]it\n[F]Doesn't matter mu-\n[D5]ch to me, as\n[C]long as it's de-\nad\n\n[Chorus]\n[F]Ooh lovely de-\n[G]ad, just\n[C]waiting [B5]for you-\n[A5]r breath\n[F]Come sweet\n[G]death, one last c-\n[C]aress\n[F][G]Last caress\n[C]today,\n[F][G]y -\n[C]o o -\n[F]h, [G]\n[C]yo-\n[F]oh [G]\n[C]yooh\n[F]  [G]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x3555x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "1332xx",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "3554xx",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Last Caress *alt 2",
+  "id": "e6d1545d2967ba52acdb60db90bb39d2bdffd686cdc60f5c775f9573d701f470",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 181,
+  "normalizedKey": "metallica|last caress",
+  "playableChords": [
+    "C",
+    "F",
+    "G",
+    "D5",
+    "B5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Bridge"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e6d1545d2967ba52acdb60db90bb39d2bdffd686cdc60f5c775f9573d701f470",
+    "version": "BCFZ"
+  },
+  "tempo": 193,
+  "title": "Last Caress",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

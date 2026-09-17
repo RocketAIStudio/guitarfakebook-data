@@ -1,0 +1,82 @@
+{
+  "artist": "Modest Mouse",
+  "artistNormalized": "modest mouse",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n[A]\n[B]\n[A]\n[B]\n[A]\n[B]\n[A]\n[B]\n[A]\n[B]\n[A]\nWell,\n\n[Verse 1]\n[B]you've got the perfect disguise\nand you're lookin' o\n[A]kay.\nFrom the\n[B]bottom of the best of the worst,\nwell what can I\n[A]say.\nCuz you\n\n[Verse 2]\n[B]cocked your head to\nshoot me down And I\n[A]don't give a damn about\nyou or this town, no more.\n[B]\nNo, but I no the score.\n[A]\nNeed\n\n[Verse 3]\n[B]me to fall down so you\ncould climb up, Some\n[A]fool as ladder,\nwell, good luck, I hope.\n[B]I\nhope there's somethin' better up there.\n[A]\nCuz you\n\n[Verse 4]\n[B]cocked your head to\nshoot me down And I\n[A]don't give a damn about\nyou or this town, no more.\n[B]\nNo, cuz I know the score.\n[A]\n\n[Interlude]\n[B]\n[A]\n\n[Outro]\n[B]Broke\nmy\n[A]back\nBroke\nmy\nback\nBroke\nmy\nback",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Perfect Disguise",
+  "id": "3e768a9373b32c54d7c378a66bd569526802535e1b8b24c979144a0a5e9dc6b9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 125,
+  "normalizedKey": "modest mouse|perfect disguise",
+  "playableChords": [
+    "A",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 61,
+      "name": "Interlude"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3e768a9373b32c54d7c378a66bd569526802535e1b8b24c979144a0a5e9dc6b9",
+    "version": "BCFZ"
+  },
+  "tempo": 121,
+  "title": "Perfect Disguise",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

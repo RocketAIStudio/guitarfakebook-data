@@ -1,0 +1,108 @@
+{
+  "artist": "Merle Haggard",
+  "artistNormalized": "merle haggard",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\nThe first thing\n\n[Verse 1]\n[D]I remember\n[G]knowing Was a\n[D]lonesome whistle blo-\n[G]wing And a\n[D]young'un's dream of\ngrowing up to\n[A7]ride\nOn a\n[D]freight train leaving\n[G]town Not\n[D]knowing where I'm\n[G]bound And no one\n[D]could change my mind\n[A7]but mama tried\n[D]\nOne and on-\n\n[Verse 2]\n[D]ly rebel\n[G]child From a\n[D]family meek and mild\n[G]My\n[D]mama seemed to know\nwhat lay in\n[A7]store\nDespite\n[D]all my Sunday\n[G]learning Towards the\n[D]bad I kept on\n[G]turning 'Til\n[D]mama couldn't hold\n[A7]me anymore\n[D]\nAnd I turned\n\n[Chorus]\n[D]twentyone in\nprison doing\n[G]life without pa-\n[D]role No\n[Bm]one could steer me\nright but mama tried,\n[A7]mama tried\nMama tried\n[D]to raise me\nbetter, but her\n[G]pleading I denied\n[D]That leaves\nonly me to\n[A7]blame 'cause mama tried\n[D]\n\n[Solo]\n[D]\n[G]\n[D]\n[A7]\n[D]\nDear old\n\n[Verse 3]\n[D]daddy, rest his\n[G]soul Left my\n[D]mom a heavy load\n[G]She tried\n[D]so very hard\nto fill his\n[A7]shoes\nWorking\n[D]hours without\n[G]rest Wanted\n[D]me to have the best\n[G]She tried\n[D]to raise me right\n[A7]but I re-\n[D]fused\nAnd I turned\n\n[Chorus]\n[D]twentyone in\nprison doing\n[G]life without pa-\n[D]role No\n[Bm]one could steer me\nright but mama tried,\n[A7]mama tried\nMama tried\n[D]to raise me\nbetter, but her\n[G]pleading I denied\n[D]That leaves\nonly me to\n[A7]blame 'cause mama tried\n\n[Outro]\n[D]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02223",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mama Tried",
+  "id": "7fea070f146e7b33ea0aa369aa7cb128ad8aa1e01265186e798f136984db67f6",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 258,
+  "normalizedKey": "merle haggard|mama tried",
+  "playableChords": [
+    "D",
+    "G",
+    "A7",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Solo"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 83,
+      "name": "Chorus"
+    },
+    {
+      "measure": 97,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7fea070f146e7b33ea0aa369aa7cb128ad8aa1e01265186e798f136984db67f6",
+    "version": "BCFZ"
+  },
+  "tempo": 196,
+  "title": "Mama Tried",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

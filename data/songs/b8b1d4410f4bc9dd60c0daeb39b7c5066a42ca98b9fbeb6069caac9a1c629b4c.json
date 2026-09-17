@@ -1,0 +1,102 @@
+{
+  "artist": "Never Shout Never",
+  "artistNormalized": "never shout never",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 6,
+  "content": "[Verse]\n[Fmaj7/C]I\nknow that I've been\n[Fmaj7/C]dancin'\nAround the tru-\n[C/G]th, o-\nh Tell me\n[D9/F#]what the\nhell I'm suppo-\n[Gadd11]sed to\ndo And I\n[Fmaj7/C], I'm a\nlittle bit aggita-\n[C/G]te-\nd With a\n[D9/F#]slight scent\nof de-\n[G7]\nnial I'm\n\n[Chorus]\n[C/G]callin' all the time I know I\ninterrupt But it hu-\n[D9/F#]rts when all I hear is you\nhangin' up And la\n[Fmaj7/C]da da da da\nda da I won't\n[G6/D]try that aga-\nin\n[C/G]I'm callin' all the time I know\nI interrupt But it\n[D9/F#]hurts when all I hear is you\nhangin' up And la\n[Fmaj7/C]da da da da\nda da , I won't\n[G6/D]try that aga-\nin\n\n[Interlude]\n[Fmaj7/C]\n[C/G]\n[D9/F#]\n[Gadd11]\n[Fmaj7/C]La la\nla la\n[C/G]La la\nla la\n[D9/F#]La la\nla la\n[Gadd11]la\n[Fmaj7/C]La la\nla la\n[C/G]La la\nla la\n[D9/F#]La la\nla la\n[Gadd11]la\n\n[Break]\n[Fmaj7/C]Everybody's going to the\nparty And we're having a goo-\n[C/G]d time And I'm\nfeeling alright toni-\n[D9/F#]ght\nWith a\n[Gadd11]better ju-\ndgement\n\n[Bridge]\n[Fmaj7/C]Everybody's going to the\nparty And we're having a goo-\n[C/G]d time And I'm\nfeeling alright toni-\n[D9/F#]\nght With a\n[Gadd11]better ju-\ndgement\n[Fmaj7/C]Everybody's going to the\nparty And we're having a goo-\n[C/G]d time And I'm\nfeeling alright toni-\n[D9/F#]ght\nWith a\n[Gadd11]better ju-\ndgement A\nbetter ju-\ndgement I'm\n\n[Chorus]\n[C/G]callin' all the time I know\nI interrupt But it\n[D9/F#]hurts when all I hear is you\nhangin' up And la\n[Fmaj7/C]da da da da\nda da , I won't\n[G6/D]try that aga-\nin",
+  "diagrams": {
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "D9/F#": {
+      "catalog": [
+        "200210"
+      ],
+      "catalogCount": 1
+    },
+    "Fmaj7/C": {
+      "catalog": [
+        "x33210"
+      ],
+      "catalogCount": 1
+    },
+    "G6/D": {
+      "catalog": [
+        "x55430"
+      ],
+      "catalogCount": 1
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gadd11": {
+      "catalog": [
+        "32001x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Smelyalata",
+  "id": "b8b1d4410f4bc9dd60c0daeb39b7c5066a42ca98b9fbeb6069caac9a1c629b4c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 309,
+  "normalizedKey": "never shout never|smelyalata",
+  "playableChords": [
+    "Fmaj7/C",
+    "C/G",
+    "D9/F#",
+    "Gadd11",
+    "G7",
+    "G6/D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Interlude"
+    },
+    {
+      "measure": 59,
+      "name": "Break"
+    },
+    {
+      "measure": 67,
+      "name": "Bridge"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b8b1d4410f4bc9dd60c0daeb39b7c5066a42ca98b9fbeb6069caac9a1c629b4c",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Smelyalata",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

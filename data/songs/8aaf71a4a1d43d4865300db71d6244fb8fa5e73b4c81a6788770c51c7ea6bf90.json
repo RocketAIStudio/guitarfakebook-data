@@ -1,0 +1,91 @@
+{
+  "artist": "Modern Baseball",
+  "artistNormalized": "modern baseball",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C#/F#]\nI saw you from the\n\n[Verse 1]\n[C#]bottom of the stairs before you knew I was\n[C#/F#]coming And though\n[C#]nervous and scared, I lingered\n[C#/F#]on I heard\n\n[Chorus]\n[C#]most things break by the ends of these types of\n[A#m7]nights So [G#sus4]I'll [F#sus2]force upon\n[A#m7]every word [G#sus4]I've [F#sus2]brushed up on Since\n[A#m7]knowing [G#sus4]we wont [F#sus2]speak like this a-\ngain You gotta' certain\n\n[Verse 2]\n[C#]who knows what about you And I gotta'\n[C#/F#]small amount of time To figure\n[C#]out what it is exactly and to whom\n[C#/F#]does it apply, But I know for a\n\n[Chorus]\n[A#m7]fact that [G#sus4]these are [F#sus2]broken nights,\n[A#m7]Covered in [G#sus4]bottles with the [F#sus2]stench of loss of\n[A#m7]life, And [G#sus4]I know [F#sus2]that it's quite\n[A#m7]heartbreaking [G#sus4]we won't [F#sus2]speak like this a-\ngain.",
+  "diagrams": {
+    "A#m7": {
+      "catalog": [
+        "x24232"
+      ],
+      "catalogCount": 1
+    },
+    "C#": {
+      "catalog": [
+        "x57775",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#/F#": {
+      "catalog": [
+        "557775"
+      ],
+      "catalogCount": 1
+    },
+    "F#sus2": {
+      "catalog": [
+        "5577xx"
+      ],
+      "catalogCount": 1
+    },
+    "G#sus4": {
+      "catalog": [
+        "x00230"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Think I Saw You In My Profile Picture Once",
+  "id": "8aaf71a4a1d43d4865300db71d6244fb8fa5e73b4c81a6788770c51c7ea6bf90",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 138,
+  "normalizedKey": "modern baseball|i think i saw you in my profile picture once",
+  "playableChords": [
+    "C#/F#",
+    "C#",
+    "A#m7",
+    "G#sus4",
+    "F#sus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 7,
+      "name": "Chorus"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 16,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8aaf71a4a1d43d4865300db71d6244fb8fa5e73b4c81a6788770c51c7ea6bf90",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "I Think I Saw You In My Profile Picture Once",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "primary"
+}

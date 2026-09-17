@@ -1,0 +1,137 @@
+{
+  "artist": "Muse",
+  "artistNormalized": "muse",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Am]\n[F]\n[Dm]\n[E]\n[Am]\n[F]\n[Dm]\n[E]\n[Am]\n[Am]\n[F]\n[Dm]\n[E]\n\n[Verse 1]\n[Am]I'm hur-\n[F]ting you again\n[Dm]Too\n[E]lonely to pretend\n[Am]Like eve-\n[F]rything is new\n[Dm]I\n[E]promise you to\n\n[Pre-Chorus]\n[Am]Blow [Bm7b5]it\n[C]all [Dm]a-\n[Am/E]way\n[E]\n\n[Chorus]\n[C]  [F]\n[C]  [E]\n[Am]  [E]\n[Am][F]In your\n[C]world [F]\n[C]No one is [E]crying\n[Am]alone [E]\n[Am][F]In your\n[C]world [F]\n[C]No one is [E]dying\n[Am]alone [E]\n[Am]  [F]\n\n[Bridge]\n[Am]\n[F]\n[Dm]\n[E]\n\n[Verse 2]\n[Am]Too bro-\n[F]ken to belong\n[Dm]Too\n[E]weak to sing along\n[Am]I'll com-\n[F]fort you, my friend\n[Dm]\n[E]Helping you to\n\n[Pre-Chorus]\n[Am]Blow [Bm7b5]it\n[C]all [Dm]a-\n[Am/E]way\n[E]\n\n[Chorus]\n[C]  [F]\n[C]  [E]\n[Am]  [E]\n[Am][F]In your\n[C]world [F]\n[C]No one is [E]crying\n[Am]alone [E]\n[Am][F]In your\n[C]world [F]\n[C]No one is [E]dying\n[Am]alone [E]\n[Am]  [F]\n\n[Outro]\n[Am]\n[F]\n[Dm]\n[E]\n[Am]\n[F]\n[Dm]\n[E]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am/E": {
+      "catalog": [
+        "002210"
+      ],
+      "catalogCount": 1
+    },
+    "Bm7b5": {
+      "catalog": [
+        "x2323x"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "xx3211",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "In Your World *alt 2",
+  "id": "32217740b20a4b7a448046bfcbdc7318313655e29c335aac6e637633eab588e5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 95,
+  "normalizedKey": "muse|in your world",
+  "playableChords": [
+    "Am",
+    "F",
+    "Dm",
+    "E",
+    "Bm7b5",
+    "C",
+    "Am/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "32217740b20a4b7a448046bfcbdc7318313655e29c335aac6e637633eab588e5",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "In Your World",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

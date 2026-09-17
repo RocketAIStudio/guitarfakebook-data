@@ -1,0 +1,83 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "The\n\n[Verse 1]\n[G5]first time I saw the Descen-\n[A5]dents, They\n[C5]were the fastest band I'd ever\n[G5]seen\nNo one in the crowd really cared\n[A5]for them, We were\n[C5]waiting for The Ally Cats to play\n[G5]Af-\n[D5]ter a couple months I heard Ka-\n[E5]buki Girl, On\n[C5]Rodney on the ROQ, late Sunday\n[G5]night That was enough\n[D5]for me, I hopped the bus\n[E5]to Licorice Piz-\n[C5]za And bought my\n[D5]all time favorite record\n\n[Verse 2]\n[G5]The next time I went to the whis-\n[A5]key, It was\n[C5]DOA with Millions of Dead\n[G5]Cops The\nlatter band played faster than I\n[A5]could believe But the\n[C5]songs sounded the same and kind a\n[G5]sucked 'Cept\n[D5]John Wayne was a Na-\n[E5]zi,\n[C5]And Joey Shithead was a\n[G5]drunk Then\n[D5]John Macias beat some\n[E5]hippie to a pulp, 'Cause\n[C5]having long hair was a mis-\n[G5]take\n\n[Solo]\n\n[Verse 3]\n[G5]The third time I went to the\n[A5]hospital,\n[C5]I needed 13 stitches in my\n[G5]head I\nmanaged to catch about 6\n[A5]songs of Ill Repute, Then some\n[C5]suicidal threw me into a\n[G5]post My\n[D5]girlfriend started to cry 'cause we\n[E5]had to leave Before\n[C5]DRI played 50 lousy\n[G5]songs My\n[D5]blood stained shirt smelled of clove\n[E5]cigarettes But it\n[C5]sure looked pretty cool after a\n[G5]wash",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "13 Stitches",
+  "id": "8654297bae8ecdb99e16e950229d25ca0549fa86b6ea0f6071ae4db6261a379d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 248,
+  "normalizedKey": "nofx|13 stitches",
+  "playableChords": [
+    "G5",
+    "A5",
+    "C5",
+    "D5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Solo"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8654297bae8ecdb99e16e950229d25ca0549fa86b6ea0f6071ae4db6261a379d",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "13 Stitches",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,140 @@
+{
+  "artist": "MUSE",
+  "artistNormalized": "muse",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Ab]\nWhen\ndarkness\n\n[Verse]\n[Cm]falls\nAnd sur-\n[G]rounds\nyou\n[Fm]When you\nfall\n[Cm]down\nWhen you're\n[Csus2]scared\nAnd you're\n[G]lost,\nbe\n[Ab]brave\n[Cm]\n[Csus2]I'm\ncoming to\nhold\nyou\n[G]now\nWhen\n[Ab]all your\nstrength has\n[Cm]gone\nAnd you feel\n[Csus2]wrong\nLike your\n[G]life has slipped away\n\n[Pre-Chorus]\n[Ab]Follow me\nYou can\n[Cm]follow me\nAnd\n[Csus2]I\nwill not de-\nsert\nyou\n[G]now\n[Ab]When your\nfire's died\n[Cm]out\nNo\n[Csus2]one's there\nThey have\n[G]left you for dead\n\n[Chorus]\n[Ab]Follow me\nYou can\n[Cm]follow me\n[Ab]I will\nkeep you\n[Eb]safe\n[Ab]Follow me\nYou can\n[Cm]follow me\n[Fm]I\nwill pro-\n[Ebsus2]tect\n[Bb]you\n\n[Bridge]\n[Ab]\n[Cm]\nI\n[Eb]won't\nlet them\n[Ebsus2]hurt\nHurting\n[Bb]you,\nno\n[Ab]\n[Cm]\n[Eb]When your\nheat is\n[Ebsus2]break\n-\n[Bb]ing\nYou can\n\n[Chorus]\n[Ab]follow me\nYou can\n[Cm]follow me\n[Ab]I will\nalways keep you\n[Eb]safe\n[Ab]Follow me\nYou can\n[Cm]trust in me\n[Fm]I will\nalways pro-\n[Ebsus2]tect\n[Bb]you, my\n\n[Outro]\n[Ebsus2]love\n[Eb]\n[Ebsus2]Feel\nmy\n[Eb]love\n[Ebsus2]Feel\nmy\n[Eb]love\n[Ebsus2]Feel\nmy\n[Eb]love",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "466544",
+        "4-3-1-1-1-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "688766",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Csus2": {
+      "catalog": [
+        "x35533"
+      ],
+      "catalogCount": 1
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Ebsus2": {
+      "catalog": [
+        "x68866"
+      ],
+      "catalogCount": 1
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Follow Me",
+  "id": "8f63d80c917f7bab4f7399b6fd8c893d647e608445b777f05a033f927abd0ddc",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 158,
+  "normalizedKey": "muse|follow me",
+  "playableChords": [
+    "Ab",
+    "Cm",
+    "G",
+    "Fm",
+    "Csus2",
+    "Eb",
+    "Ebsus2",
+    "Bb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse"
+    },
+    {
+      "measure": 41,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Bridge"
+    },
+    {
+      "measure": 95,
+      "name": "Chorus"
+    },
+    {
+      "measure": 111,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8f63d80c917f7bab4f7399b6fd8c893d647e608445b777f05a033f927abd0ddc",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "Follow Me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

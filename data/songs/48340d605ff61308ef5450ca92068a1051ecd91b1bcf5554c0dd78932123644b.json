@@ -1,0 +1,87 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G5]  [D#5/A#]\n[D5/A]  [C5/G]\n[G5]  [D#5/A#]\n[D5/A]  [C5/G]\n[G5]  [D#5/A#]\n[D5/A]  [C5/G]\n[G5]  [D#5/A#]\n[D5/A]  [C5/G]\n\n[Verse 1]\n[G5]What I scream about\n[D#5/A#]Can't get the stink\n[A#5]out\n[G5]Catch it on my tongue\n[D#5/A#]Save it in my\n[A#5]lung\n[C5/G]Fuckin' vegans smo-\nking\nKeeping us in cho-\nking\n\n[Re-Intro]\n[G5]  [D#5/A#]\n[D5/A]  [C5/G]\n[G5]  [D#5/A#]\n[D5/A]\n\n[Verse 2]\n[G5]Big round of applause\nFor\n[D#5/A#]California laws\n[A#5]\n[G5]Act like human be-\nings\n[D#5/A#]Instead of Euro-\n[A#5]peans I\n[C5/G]was a singer dan-\ncer\nNow I've got lung can-\ncer\n[G5]  [D#5/A#]\n[D5/A]Get [C5/G]the stink\n[G5]out [D#5/A#]\n[D5/A]Get [C5/G]the stink\n[G5]out [D#5/A#]\n[D5/A]Get [C5/G]the stink\n[G5]out [D#5/A#]\n[D5/A]Can't get [C5/G]the stink\n\n[Outro]\n[G5]out",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5/G": {
+      "catalog": [
+        "3355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5/A#": {
+      "catalog": [
+        "6688xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5/A": {
+      "catalog": [
+        "5577xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Can't Get The Stink Out",
+  "id": "48340d605ff61308ef5450ca92068a1051ecd91b1bcf5554c0dd78932123644b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 85,
+  "normalizedKey": "nofx|can t get the stink out",
+  "playableChords": [
+    "G5",
+    "D#5/A#",
+    "D5/A",
+    "C5/G",
+    "A#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Re-Intro"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "48340d605ff61308ef5450ca92068a1051ecd91b1bcf5554c0dd78932123644b",
+    "version": "BCFZ"
+  },
+  "tempo": 215,
+  "title": "Can't Get The Stink Out",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

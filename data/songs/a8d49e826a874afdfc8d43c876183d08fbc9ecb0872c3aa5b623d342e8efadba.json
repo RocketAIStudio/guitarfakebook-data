@@ -1,0 +1,84 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G5]\n[C5]\n[G5]\n[C5]\n[G5]\n[C5]\n[G5]\n[C5]\n[G5]\n[C5]\n\n[Break]\n[G5]\n\n[Interlude]\n[G5]\n\n[Pre-Verse]\n[C5]\n[G5]\n[C5]Hel-\n\n[Verse 1]\n[G5]lo, welcome to\nour CD Can you\nhear the blatant simi-\n[E5]larity? To Li-\n[C5]noleum and Shadows\nof [D5]Defeat\n\n[Outro]\n[G5]\n[G5]  [C5]\n[G5]\n[G5]  [C5]\n[G5]",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "10-12-12-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "And Now for Something Completely Similar",
+  "id": "a8d49e826a874afdfc8d43c876183d08fbc9ecb0872c3aa5b623d342e8efadba",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 30,
+  "normalizedKey": "nofx|and now for something completely similar",
+  "playableChords": [
+    "G5",
+    "C5",
+    "E5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Break"
+    },
+    {
+      "measure": 15,
+      "name": "Interlude"
+    },
+    {
+      "measure": 23,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a8d49e826a874afdfc8d43c876183d08fbc9ecb0872c3aa5b623d342e8efadba",
+    "version": "BCFZ"
+  },
+  "tempo": 175,
+  "title": "And Now for Something Completely Similar",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

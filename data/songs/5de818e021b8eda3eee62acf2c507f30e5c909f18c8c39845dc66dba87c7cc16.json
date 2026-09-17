@@ -1,0 +1,100 @@
+{
+  "artist": "Misc Soundtrack - O Brother Where Art Thou",
+  "artistNormalized": "misc soundtrack o brother where art thou",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Dm]\n\n[Verse 1]\n[Dm]Hard time here and every-\nwhere you go\nHell it [Dm/G]harder than ever\n[F6/9]been before [D]\n[F6/9]  [D]\n[Dm]And the\n\n[Verse 2]\n[Dm]people are driftin'\nfrom door to door\nCan't find no [Dm/G]heaven, I don't care\n[F6/9]where they go [D]\n[D][F6/9]Mmmhmm,\n[F6/9]mmhm [D]\n[D][F6/9]Mmmhmmm,\n[F6/9]mmmm [D]\n\n[Verse 3]\n[Dm]Say you had money,\nyou better be sure\nThese hard times will [Dm/G]drive you from\n[F6/9]door to door [D]\n[D][F6/9]Uhhuh,\n[F6/9]uhhuh [D]\n[D][F6/9]Uhhuhh,\n[F6/9]uhhuh [D]\n\n[Verse 4]\n[Dm]\n[Dm/G]\n[F6/9][D]Mmmhmm,\n[D][F6/9]mmhm\n[D][F6/9]Mmmhmmm,\n[D][F6/9]mmhm\n[F6/9]Mmmhmmm [D]\n\n[Verse 5]\n[Dm]\n[Dm/G]\n[F6/9]  [D]\n[D][F6/9]Mmmhmm,\n[D][F6/9]mmhm\n[D][F6/9]Mmmhmmm,\n[F6/9]mmhm [D]\n\n[Verse 6]\n[Dm]\n[Dm/G]\n[F6/9][D]Mmmhmm,\n[D][F6/9]mmhm\n[D][F6/9]Mmmhmmm,\n[D][F6/9]mmhm\n[F6/9]Mmmhmmm [D]\n\n[Outro]\n[Dm]\n[Dm/G]\n[F6/9][D]Mmmhmm,\n[D][F6/9]mmhm\n[D][F6/9]Mmmhmmm,\n[D][F6/9]mmhm\n[F6/9]Mmmhmmm [D]",
+  "diagrams": {
+    "D": {
+      "catalog": [
+        "000100",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "000000",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm/G": {
+      "catalog": [
+        "555000"
+      ],
+      "catalogCount": 1
+    },
+    "F6/9": {
+      "catalog": [
+        "333200"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hard Time Killing Floor Blues",
+  "id": "5de818e021b8eda3eee62acf2c507f30e5c909f18c8c39845dc66dba87c7cc16",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 115,
+  "normalizedKey": "misc soundtrack o brother where art thou|hard time killing floor blues",
+  "playableChords": [
+    "Dm",
+    "Dm/G",
+    "F6/9",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 6"
+    },
+    {
+      "measure": 52,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5de818e021b8eda3eee62acf2c507f30e5c909f18c8c39845dc66dba87c7cc16",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Hard Time Killing Floor Blues",
+  "tuning": "D A D F A D",
+  "variantRole": "primary"
+}

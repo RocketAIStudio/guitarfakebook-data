@@ -1,0 +1,129 @@
+{
+  "artist": "Miranda Lambert",
+  "artistNormalized": "miranda lambert",
+  "capo": "5",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\nHey there, Mister Tin Man\n[G]\nYou don't know how lucky you\nare\n[Gsus2]You shouldn't spend your whole life wish\n[Cadd9]in'\n[Csus2]For something bound to fall apart\n[D]\nEvery time you're feeling emp\n[G]ty\nBetter thank your lucky stars\n[G]\nIf you ever felt one break\n[Cadd9]ing\n[D]You'd never want a heart\n[Gsus2]\n[G]\n\n[Chorus]\n[Em]\n[C]\n[G]\nHey there, Mister Tin Man\n\n[Verse 2]\n[G]\nYou don't know how lucky you\nare\n[Gsus2]I've been on the road that you're\n[Cadd9]on\n[Csus2]It didn't get me very far\n[D]\nYou ain't missing noth\n[G]ing\n'Cause love is so damn hard\n[G]\nTake it from me, dar\n[Cadd9]ling\n[D]You don't want a heart\n[Gsus2]\n[G]\n\n[Chorus]\n[Em]\n[C]\n[G]\n[Em]\n[C]\n[G]\nHey there, Mister Tin Man\n\n[Verse 3]\n[G]\nI'm glad we talked this out\n[Gsus2]You can take mine if you want\n[Cadd9]it\n[Csus2]It's in pieces now\n[D]\nBy the way there, Mister Tin\n[G]Man\nIf you don't mind the scars\n[G]\nYou give me your ar\n[Cadd9]mor\n[D]And you can have my heart\n[Gsus2]\n[G]\n\n[Chorus]\n[Em]\n[C]\n[G]\n[Em]\n[C]\n[G]\n[Em]\n[C]\n[G]\n\n[Outro]\n[Em]\n[C]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "Csus2": {
+      "catalog": [
+        "x35533"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "004232",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "222000",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "52000x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus2": {
+      "catalog": [
+        "55778x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tin Man",
+  "id": "5cfec4274709d025844e5811ce6e03897edfe83290bb98c3572c55dc7a966c71",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 169,
+  "normalizedKey": "miranda lambert|tin man",
+  "playableChords": [
+    "G",
+    "Gsus2",
+    "Cadd9",
+    "Csus2",
+    "D",
+    "Em",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 68,
+      "name": "Chorus"
+    },
+    {
+      "measure": 80,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5cfec4274709d025844e5811ce6e03897edfe83290bb98c3572c55dc7a966c71",
+    "version": "BCFZ"
+  },
+  "tempo": 79,
+  "title": "Tin Man",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

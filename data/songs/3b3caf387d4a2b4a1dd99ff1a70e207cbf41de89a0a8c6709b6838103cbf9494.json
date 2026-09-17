@@ -1,0 +1,171 @@
+{
+  "artist": "Muse",
+  "artistNormalized": "muse",
+  "capo": "No capo",
+  "chordPositionCount": 37,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[Bb]\n\n[Interlude]\n[Bb]\n[Bbsus2/A]\n[Gm]\n[F]\n[Bb]\n[Dm]\n[Eb]\n[F]\n\n[Verse 1]\n[Bb]Don't\n[Bbsus2/A]\n[Gm]kid yourself\n[F]And\n[Bb]don't\n[Dm]\n[Eb]fool yourself\n[F]\n\n[Chorus]\n[Gm]This\n[F]love's too\n[Eb]good to last\n[Eb7]And I'm too old\n[D]to dream, yeah\n[Eb7]\n[D]\n[D/C]\n\n[Verse 2]\n[Bb]Don't\n[Bbsus2/A]grow\n[Gm]up too fast\n[F]And\n[Bb]don't\n[Dm]em-\n[Eb]brace the past\n[F]\n\n[Chorus]\n[Gm]This\n[F]life's too\n[Eb]good to last\n[Eb7]And I'm too young\n[D]to care\n[Eb7]\n[D]\n[D/C]\n\n[Break]\n[Bb]\n\n[Solo]\n[Bb]\n[Bbsus2/A]\n[Gm]\n[F]\n[Bb]\n[Dm]\n[Eb]\n[F]\n[Gm]\n[F]\n[Eb]\n[Eb7]\n[D]\n[Eb7]\n[D]\n[D/C]\n\n[Verse 3]\n[Bb]Don't\n[Bbsus2/A]\n[Gm]kid yourself\n[F]And\n[Bb]don't\n[Dm]\n[Eb]fool yourself\n[F]\n\n[Chorus]\n[Gm]This\n[F]life could\n[Eb]be the last\n[Eb7]And we're too young\n[D]to see, yeah\n[Eb7]\n[D]\n[D/C]\n\n[Outro]\n[Bb]\n\n[Outro]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bbsus2/A": {
+      "catalog": [
+        "x03311"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/C": {
+      "catalog": [
+        "x3423x"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "xx1343",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Eb7": {
+      "catalog": [
+        "xx1323",
+        "x-6-5-6-4-3",
+        "x-6-8-6-8-6",
+        "11-10-8-8-8-9",
+        "11-13-11-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Blackout",
+  "id": "3b3caf387d4a2b4a1dd99ff1a70e207cbf41de89a0a8c6709b6838103cbf9494",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 67,
+  "normalizedKey": "muse|blackout",
+  "playableChords": [
+    "Bb",
+    "Bbsus2/A",
+    "Gm",
+    "F",
+    "Dm",
+    "Eb",
+    "Eb7",
+    "D",
+    "D/C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Interlude"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Break"
+    },
+    {
+      "measure": 49,
+      "name": "Solo"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    },
+    {
+      "measure": 85,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3b3caf387d4a2b4a1dd99ff1a70e207cbf41de89a0a8c6709b6838103cbf9494",
+    "version": "BCFZ"
+  },
+  "tempo": 60,
+  "title": "Blackout",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

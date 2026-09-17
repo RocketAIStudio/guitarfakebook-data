@@ -1,0 +1,72 @@
+{
+  "artist": "No Use For a Name",
+  "artistNormalized": "no use for a name",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[G5]\"Hello this is Sa-\nra Fisher Please\n[E5]wait on the line\"\nThere are so ma-\n[C5]ny things I'd like\nto say But your\n[D5]busy all the time\nShe\n\n[Verse 2]\n[G5]gives us t-shirts, sends\nus posters Seals\n[E5]them with a smile\nAnd you'll know\n[C5]that she'll be there\nfrom Ten to Five\n[D5]\n\"Hel-\n\n[Outro]\n[C5]lo this is\nSarah Fisher\"\n[G5]Yeah\"",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sarah Fisher",
+  "id": "83a86a00ba7493ab0185779d7bf22d55081363fe4c286f226f9d632a126a2ca5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 63,
+  "normalizedKey": "no use for a name|sarah fisher",
+  "playableChords": [
+    "G5",
+    "E5",
+    "C5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "83a86a00ba7493ab0185779d7bf22d55081363fe4c286f226f9d632a126a2ca5",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Sarah Fisher",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

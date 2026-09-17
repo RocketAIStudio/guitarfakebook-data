@@ -1,0 +1,96 @@
+{
+  "artist": "Nirvana",
+  "artistNormalized": "nirvana",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F]  [A]  [A#]  [F#]\n\n[Verse 1]\n[F]May day, [A]every day, [A#]my [F#]day\nCould've had heart attack, my heart\nWe don't know anything, my heart\nWe all want something fair, my heart\n\n[Chorus]\n[F]Hey\nHey\nHey\nHey\nHey\n\n[Verse 2]\nOut of town, out of sight, is my heart\nQueen of lies, today, my heart\nOne more on the phone, my heart\nOne more at the door of my heart\n\n[Chorus]\n[F]Hey\nHey\nHey\n\n[Outro]\n[F][A][A#][F#]Mean heart\nCold heart\nCold heart\nCold heart\nCold heart\nCold heart\nCold heart\nCold heart",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x1333x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#": {
+      "catalog": [
+        "x2444x"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "24432x",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "35543x",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tourette's",
+  "id": "daa3b857020d55c50d7f860855b07958bad58af8cfbb397be23a8d9a404af60c",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 86,
+  "normalizedKey": "nirvana|tourette s",
+  "playableChords": [
+    "F",
+    "A",
+    "A#",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "daa3b857020d55c50d7f860855b07958bad58af8cfbb397be23a8d9a404af60c",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Tourette's",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

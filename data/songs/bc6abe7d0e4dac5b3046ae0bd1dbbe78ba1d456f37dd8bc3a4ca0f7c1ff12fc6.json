@@ -1,0 +1,104 @@
+{
+  "artist": "Morphine",
+  "artistNormalized": "morphine",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Bm]\n[A]\n[Bm]\n[A]\n[Bm]\n[A]\n[Bm]\n[A]On my\n\n[Verse 1]\n[Bm]first day back,\n[A]first day back in town\n[Bm]First day, my first day back in town\n[A]The\n[Bm]clouds up above, they were\n[A]hummin' our song\n[Bm]Hummin,' hummin' our song\n[A]\n\n[Chorus]\n[Bm]My biggest fear is\n[A]if I let you go\n[G]You'll come and get me in my\n[F#]sleep\n[Bm]My biggest fear is\n[A]if I let you go\n[G]You'll come and get me in my\n[F#]sleep Come and\n\n[Bridge]\n[Bm]get me…\n[A]\n[Bm]\n[A]\n[Bm]\n[A]\n[Bm]\n[A]I\n\n[Verse 2]\n[Bm]set my course,\n[A]sail away from shore\n[Bm]Steady, steady as she goes\n[A]A\n[Bm]crash in the night,\n[A]two worlds collide And\n[Bm]when two worlds collide, no one survives\n[A]No one survives and… …The\n[Bm]reddest of reds,\n[A]bluest of blues, The\n[Bm]saddest of songs I\n[A]sing for you and…\n\n[Chorus]\n…My biggest fear is\nif I let you go\nYou'll come and get me in my\nsleep\nMy biggest fear is\nif I let you go\nYou'll come and get me in my\nsleep Come and\n\n[Outro]\n[Bm]get me\n[A]Come and get me in my\n[Bm]sleep\n[A]Come and\n[Bm]get me\n[A]Come and get me in my\n[Bm]\n[A]sleep\n[Bm]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Saddest Song",
+  "id": "bc6abe7d0e4dac5b3046ae0bd1dbbe78ba1d456f37dd8bc3a4ca0f7c1ff12fc6",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 190,
+  "normalizedKey": "morphine|the saddest song",
+  "playableChords": [
+    "Bm",
+    "A",
+    "G",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bc6abe7d0e4dac5b3046ae0bd1dbbe78ba1d456f37dd8bc3a4ca0f7c1ff12fc6",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "The Saddest Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

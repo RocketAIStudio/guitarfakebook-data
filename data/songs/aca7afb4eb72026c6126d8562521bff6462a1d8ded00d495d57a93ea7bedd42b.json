@@ -1,0 +1,93 @@
+{
+  "artist": "Mickey and Sylvia",
+  "artistNormalized": "mickey and sylvia",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[C]\n[F]  [G]\n[C]\n[F]  [G]\n[C]\n[F]  [G]\n[C]\n\n[Verse 1]\n[C]Love, mm\n[F]mm, [G]Love is\n[C]strange, yeah\n[F]yeah, [G]Lot of\n[C]people, mm\n[F]mm, [G]Take it for a\n[C]game,\n[F][G]Once you\n[C]get it, mm\n[F]mm, You´ll [G]never wanna\n[C]quit, noo\n[F]no, [G]After you've\n[C]had it, yeah\n[F]yeah, You're [G]in an awful\n[C]fix,\n[F][G]Many\n\n[Verse 2]\n[C]people, mm\n[F]mm, [G]Don't under-\n[C]stand, noo\n[F]no, [G]They think\n[C]loving, yeah\n[F]yeah, Is [G]money in the\n[C]hand,\n[F][G]Your sweet\n[C]loving, mm\n[F]mm, Is [G]better than a\n[C]kiss, yeah\n[F]yeah, [G]When you\n[C]leave me, mm\n[F]mm, Sweet [G]kisses I\n[C]missed.\n\n[Solo]\n[C]\n[F]  [G]\n[C]\n[F]  [G]\n[C]\n[F]  [G]\n[C]\n[C]\n[F]  [G]\n[C]\n[F]  [G]\n[C]\n[F]  [G]\n[C]\n\n[Bridge]\n[C]Silvia\n[F]Yes [G]Mickey? How\n[C]do you call your lover boy?\n[F]Come [G]here lover boy!\n[C]And if he doesnt answer?\n[F]Ohh [G]lover boy!\n[C]And if he still doesnt answer?\n[F]I simply say [G]\n[C]Baby,\n[F][G]Oohh\n[C]baby\n[F][G]My sweet\n[C]baby\n[F][G]You're the\n[C]one\n\n[Verse 3]\n[C]Baby, mm-m-m--\n[F]mm [G]Oh\n[C]baby yeah\n[F]yeah [G]My sweet\n[C]baby m-m\n[F]mm [G]You're the\n[C]one\n\n[Outro]\n[C]\n[F]  [G]\n[C]\n[F]  [G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "13321x",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Love Is Strange",
+  "id": "aca7afb4eb72026c6126d8562521bff6462a1d8ded00d495d57a93ea7bedd42b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 183,
+  "normalizedKey": "mickey and sylvia|love is strange",
+  "playableChords": [
+    "C",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Solo"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "aca7afb4eb72026c6126d8562521bff6462a1d8ded00d495d57a93ea7bedd42b",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Love Is Strange",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

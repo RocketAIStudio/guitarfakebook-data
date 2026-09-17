@@ -1,0 +1,72 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D5]You [C5]are\na [G5]hippie,\n[D5]You [C5]smell\nlike [G5]skunk,\n[D5]I'm your [C5]\n[G5]arch-enemy,\nA\n[D5]middle [C5]clas-\nsic [G5]punk.\n\n[Verse]\n[D5]Get out, [C5]Get a life, Get a\n[G5]job,\n[D5]Everyone's [C5]smoking grass,\n[G5]Everyone is an ass.\n[D5]Can't you [A5]afford to cut your\n[G5]hair? Cause\n[D5]Frank and I will [A5]cut it off for\n[G5]free.\n\n[Chorus]\n[D5]Never [C5]trust a\n[G5]hippie, Cauz\n[D5]they'll sell [C5]you bad\n[G5]drugs.\n[D5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Always Hate Hippies",
+  "id": "ce87ceb9c15951240154a97f7fef4637bd483db52fefbb9f4565e52680bbfb8a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 71,
+  "normalizedKey": "nofx|always hate hippies",
+  "playableChords": [
+    "D5",
+    "C5",
+    "G5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ce87ceb9c15951240154a97f7fef4637bd483db52fefbb9f4565e52680bbfb8a",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Always Hate Hippies",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

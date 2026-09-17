@@ -1,0 +1,122 @@
+{
+  "artist": "Mom Jeans.",
+  "artistNormalized": "mom jeans",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[A]\n[F#m]\n[D]\n[E]\n[A]\n[F#m]\n[D]  [D#]\n[E]Baby I'm\n\n[Verse 1]\n[A]sorry\n[F#m]\n[D]Things didn't\n[E]work out the way that I\n[A]planned\n[F#m]But we\n[D]both know that\n[E]planning's not my\n[A]strong suit\n[F#m]I'm sad that I\n[D]lost you, but I won't\n[E]chase you I still don't\n[Aadd9]blame you for making me\n[F#m]stall When I\n[Dmaj9]learned how to drive your\n[E]car Because your\n[Dmaj9]best friends were\nall too sad to\n[E]take you to the\nairport But\n\n[Verse 2]\n[Aadd9]I\n[F#m]miss you\n[Dmaj9]every minute of\n[E]every day Tell me,\n[Aadd9]why\n[F#m]can't you still\n[Dmaj9]make a decision? 'Cause\n[E]I'm getting better at\n[Aadd9]Cry-\n[F#m]ing with-\n[Dmaj9]out making any\n[E]noise All I want is your\n[Aadd9]voice in my\n[F#m]head And your\n[Dmaj9]hair in my bed\n[E]Please tell me\n\n[Verse 3]\n[Aadd9]why I'm\n[F#m]so af-\n[Dmaj9]raid of\n[E]dying a-\n[Aadd9]lone\n[F#m]So\n[Dmaj9]scared and so\n[E]stoned But I don't\n[Aadd9]know what I\n[F#m]need, so just\n[Dmaj9]tell me what you\n[E]need You're all I need\n[Aadd9]Just\n[F#m]please don't make me\n[Dmaj9]\n[E]\n\n[Break]\n[Aadd9]  [F#m]\n[Dmaj9]  [E]\n[Aadd9]  [F#m]\n[Dmaj9]  [E]\n\n[Outro]\n[Aadd9]  [F#m]\n[Dmaj9]  [E]\n[Aadd9]  [F#m]\n[Dmaj9]  [E]\n[Aadd9]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x02220",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Aadd9": {
+      "catalog": [
+        "577644"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "x68886"
+      ],
+      "catalogCount": 1
+    },
+    "Dmaj9": {
+      "catalog": [
+        "xx0220",
+        "x54673"
+      ],
+      "catalogCount": 2
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "sobs quietly",
+  "id": "a466ba7eab6e0e647374f9b7711f870f0dd2226e4cc15d07a3068976a253ebcd",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 168,
+  "normalizedKey": "mom jeans|sobs quietly",
+  "playableChords": [
+    "A",
+    "F#m",
+    "D",
+    "E",
+    "D#",
+    "Aadd9",
+    "Dmaj9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 61,
+      "name": "Break"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a466ba7eab6e0e647374f9b7711f870f0dd2226e4cc15d07a3068976a253ebcd",
+    "version": "BCFZ"
+  },
+  "tempo": 118,
+  "title": "sobs quietly",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

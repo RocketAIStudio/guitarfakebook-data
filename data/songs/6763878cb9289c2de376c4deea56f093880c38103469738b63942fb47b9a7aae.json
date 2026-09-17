@@ -1,0 +1,146 @@
+{
+  "artist": "Metallica",
+  "artistNormalized": "metallica",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 7,
+  "content": "[D5]\n\n[Intro]\n[E5]\n[D5]\n\n[Bridge]\n[A5]\n[F5]\n[F#5]\n[D#5]\n[E5]\n\n[Verse 1]\n[E5]Messenger of fear\nin sight\nDark deception kills\nthe light\n[D5]\n[E5]Hybrid children watch\nthe sea\nPray for father roa-\nming free\n\n[Chorus]\n[A5]Fearless wretch\n[F5]Insanity\n[F#5]He watches\n[D#5]Lurking beneath the sea\n[A5]Great old one\n[F5]Forbidden sight\n[F#5]He searches\n[D#5]Hunter of the shadows is\n\n[Bridge]\n[A#5][A5]rising\n[D5]\nIm-\n[A#5][A5]mortal\n[D5]\nIn\n[A#5][A5]madness\n[D#5]you [A5]dwell [D5]\n\n[Intro Riff]\n[E5]\n\n[Verse 2]\nCrawling chaos un-\nderground\nCult has summoned twist-\ned sound\n[D5]\n[E5]Out from ruins once\npossessed\nFallen city liv-\ning death [D5]\n\n[Chorus]\n[A5]Fearless wretch\n[F5]Insanity\n[F#5]He watches\n[D#5]Lurking beneath the sea\n[A5]Timeless sleep\n[F5]Has been upset\n[F#5]He awakens\n[D#5]Hunter of the shadows is\n\n[Bridge]\n[A#5][A5]rising\n[D5]\nIm-\n[A#5][A5]mortal\n[D5]\nIn\n[A#5][A5]madness\n[D#5]you [A5]dwell\n\n[Guitar Solo]\n[D5]\n\n[Interlude]\n[F5]\n[A5]  [A#5]\n[F5]In\n[A#5][A5]madness\n[D#5]you [A5]dwell [D5]\n\n[Intro Riff]\n[E5]\n\n[Verse 3]\nNot dead which eter-\nnal lie\nStranger eons death\nmay die\n[D5]\n[E5]Drain you of your sa-\nnity\nFace the thing that should\nnot be [D5]\n\n[Chorus]\n[A5]Fearless wretch\n[F5]Insanity\n[F#5]He watches\n[D#5]Lurking beneath the sea\n[A5]Great old one\n[F5]Forbidden sight\n[F#5]He searches\n[D#5]Hunter of the shadows is\n\n[Bridge]\n[A#5][A5]rising\n[D5]\nIm-\n[A#5][A5]mortal\n[D5]\nIn\n[A#5][A5]madness\n[D#5]you [A5]dwell\n\n[Outro]\n[D5]",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "A5": {
+      "catalog": [
+        "799xxx",
+        "x244xx"
+      ],
+      "catalogCount": 2
+    },
+    "D#5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Thing That Should Not Be *alt 2",
+  "id": "6763878cb9289c2de376c4deea56f093880c38103469738b63942fb47b9a7aae",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 218,
+  "normalizedKey": "metallica|the thing that should not be",
+  "playableChords": [
+    "D5",
+    "E5",
+    "A5",
+    "F5",
+    "F#5",
+    "D#5",
+    "A#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 22,
+      "name": "Bridge"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Bridge"
+    },
+    {
+      "measure": 62,
+      "name": "Intro Riff"
+    },
+    {
+      "measure": 74,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 88,
+      "name": "Chorus"
+    },
+    {
+      "measure": 96,
+      "name": "Bridge"
+    },
+    {
+      "measure": 106,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 115,
+      "name": "Interlude"
+    },
+    {
+      "measure": 121,
+      "name": "Intro Riff"
+    },
+    {
+      "measure": 133,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 147,
+      "name": "Chorus"
+    },
+    {
+      "measure": 155,
+      "name": "Bridge"
+    },
+    {
+      "measure": 165,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6763878cb9289c2de376c4deea56f093880c38103469738b63942fb47b9a7aae",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "The Thing That Should Not Be",
+  "tuning": "D G C F A D",
+  "variantRole": "alt"
+}

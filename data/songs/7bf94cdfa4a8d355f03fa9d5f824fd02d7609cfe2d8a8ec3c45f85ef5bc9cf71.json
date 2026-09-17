@@ -1,0 +1,76 @@
+{
+  "artist": "Megadeth",
+  "artistNormalized": "megadeth",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E5]\n\n[Part 1]\n[E5]I served with Jack\nKennedy I\nknew Jack Kennedy\nJack Kennedy was a friend of\n[G5]mine Senator,\n[F#5]you're no Jack [F5]Kennedy\n[E5]Senator,\nyou're no Jack Kennedy\n\n[Part 2]\n[E5]\n[G5]\n[F#5]  [F5]\n[E5]\n\n[Outro]\n[E5]",
+  "diagrams": {
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Know Jack",
+  "id": "7bf94cdfa4a8d355f03fa9d5f824fd02d7609cfe2d8a8ec3c45f85ef5bc9cf71",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 40,
+  "normalizedKey": "megadeth|i know jack",
+  "playableChords": [
+    "E5",
+    "G5",
+    "F#5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Part 1"
+    },
+    {
+      "measure": 13,
+      "name": "Part 2"
+    },
+    {
+      "measure": 24,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7bf94cdfa4a8d355f03fa9d5f824fd02d7609cfe2d8a8ec3c45f85ef5bc9cf71",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "I Know Jack",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

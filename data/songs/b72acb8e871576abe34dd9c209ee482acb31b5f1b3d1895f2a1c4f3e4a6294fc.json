@@ -1,0 +1,104 @@
+{
+  "artist": "Nirvana",
+  "artistNormalized": "nirvana",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[C#5]And if you\n[A5]save [F#5]yourself\n[G#5]You will\n[A5]make him [B5]happy\n[C#5]He'll keep you\n[A5]in a [F#5]jar\n[G#5]And you'll\n[A5]think you're [B5]happy\n[C#5]He'll give you\n[A5]breathing [F#5]holes\n[G#5]And you'll\n[A5]think you're [B5]happy\n[C#5]He'll cover\n[A5]you with [F#5]grass\n[G#5]And you'll\n[A5]think you're [B5]happy\n\n[Chorus]\n[C#5]now\n[A5]You're in a\n[F#5]laundry room\n[A5]You're in a\n[F#5]laundry room\n[A5]The clues that\n[F#5]came to you,\n[A5]oh\n[G#5]\n\n[Verse 2]\n[C#5]And if you\n[A5]cut [F#5]yourself\n[G#5]You will\n[A5]think you're [B5]happy\n[C#5]He'll keep you\n[A5]in a [F#5]jar\n[G#5]Then you'll\n[A5]make him [B5]happy\n[C#5]He'll give you\n[A5]breathing [F#5]holes\n[G#5]Then you'll\n[A5]think you're [B5]happy\n[A5]He'll [F#5]cover\n[G#5]you with grass\n[A5]Then [B5]you'll\nthink you're happy\n\n[Chorus]\n[C#5]now\n[A5]You're in a\n[F#5]laundry room\n[A5]You're in a\n[F#5]laundry room\n[A5]The clues that\n[F#5]came to you,\n[A5]oh\n[G#5]\n\n[Solo]\n[C#5]\n[A5]  [F#5]\n[G#5]\n[A5]  [B5]\n[C#5]\n[A5]  [F#5]\n[G#5]\n[A5]  [B5]\n[C#5]\n[A5]  [F#5]\n[G#5]\n[A5]  [B5]\n[C#5]\n[A5]  [F#5]\n[G#5]\n[A5]  [B5]\n\n[Chorus]\n[C#5]\n[A5]You're in a\n[F#5]laundry room\n[A5]You're in a\n[F#5]laundry room\n[A5]The clues that\n[F#5]came to you,\n[A5]oh\n[G#5]\n\n[Bridge]\n[C#5]And if you\n[A5]fool [F#5]yourself\n[G#5]You will\n[A5]make him [B5]happy\n\n[Verse 3]\n[C#5]He'll keep you\n[A5]in a [F#5]jar\n[G#5]Then you'll\n[A5]think you're [B5]happy\n[C#5]He'll give you\n[A5]breathing [F#5]holes\n[G#5]Then you\n[A5]will seem [B5]happy\nYou'll wallow\nin the shit\nThen you'll\nthink you're happy\n\n[Chorus]\n[C#5]now\n[A5]You're in a\n[F#5]laundry room\n[A5]You're in a\n[F#5]laundry room\n[A5]You're in a\n[F#5]laundry room\n[A5]The clues that\n[F#5]came to you,\n[A5]oh\n[G#5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx",
+        "x022xx"
+      ],
+      "catalogCount": 2
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sappy *alt 2",
+  "id": "b72acb8e871576abe34dd9c209ee482acb31b5f1b3d1895f2a1c4f3e4a6294fc",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 229,
+  "normalizedKey": "nirvana|sappy",
+  "playableChords": [
+    "C#5",
+    "A5",
+    "F#5",
+    "G#5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Solo"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Bridge"
+    },
+    {
+      "measure": 83,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 95,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b72acb8e871576abe34dd9c209ee482acb31b5f1b3d1895f2a1c4f3e4a6294fc",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Sappy",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

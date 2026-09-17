@@ -1,0 +1,108 @@
+{
+  "artist": "Muse",
+  "artistNormalized": "muse",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Dm]\n[A]\n[Gm]\n[A#]\n[A]\n\n[Verse 1]\n[Dm]Passing by\nyou light up my\n[A]darkest skies\nYou take only\n[Gm]seconds\n[A#]to draw\n[A]me in\nSo\n[Dm]be mi-\n[A]ne\nand your in-\n[Gm]nocence\n[A#]I will\n[A]consume\n\n[Chorus]\n[Dm]Dark shines\nBringing me\n[A]down\nMaking my\n[Gm]heart feel sore\n[A#]Because it's good\n[A]\n\n[Interlude]\n[Dm]\n[A]\n[Gm]\n[A#]\n[A]\n\n[Verse 2]\n[Dm]Hold your hands\nup to your\n[A]eyes again\nHide from the\n[Gm]scary scenes,\n[A#]Suppress\n[A]your fears\nSo\n[Dm]be mine\n[A]\nand your in-\n[Gm]nocence\n[A#]I will\n[A]consume\n\n[Chorus]\n[Dm]Dark shines\nBringing me\n[A]down\nMaking my\n[Gm]heart feel sore\n[A#]Because it's good\n[A]\nYeah\n[Dm]Dark shines\nBringing me\n[A]down Mak-\ning my heart feel\n[Gm]sore Because it's\n[A#]good\n[A]\n\n[Solo]\n[Gm]\n[Dm]\n[Gm]\n[Dm]\n[Gm]\n[Dm]\n[A#]\n[A]\n\n[Solo soft]\n\n[Chorus]\n[Dm]\n[A]\n[Gm]\n[A#]\n[A]\n[Dm]Dark shines\nBringing me\n[A]down\nMaking my\n[Gm]heart feel sore\n[A#]Because it's good\n[A]\n[Dm]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#": {
+      "catalog": [
+        "688766"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dark Shines *alt",
+  "id": "12557b34b328b79c2e47ce91f7b2c15b0acfa37f81acb56de6391ae09248e48a",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 127,
+  "normalizedKey": "muse|dark shines",
+  "playableChords": [
+    "Dm",
+    "A",
+    "Gm",
+    "A#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Interlude"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Solo"
+    },
+    {
+      "measure": 90,
+      "name": "Solo soft"
+    },
+    {
+      "measure": 108,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "12557b34b328b79c2e47ce91f7b2c15b0acfa37f81acb56de6391ae09248e48a",
+    "version": "BCFZ"
+  },
+  "tempo": 109,
+  "title": "Dark Shines",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

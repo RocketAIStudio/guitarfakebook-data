@@ -1,0 +1,129 @@
+{
+  "artist": "Mike Oldfield",
+  "artistNormalized": "mike oldfield",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E]  [B]\n[C#m][A][B/F#]The\n\n[Verse 1]\n[C#m]last time ever she [A]saw him\n[B]Carried away by a [E]moonlight [B]shadow He\n[C#m]passed on worried and [A]warning\n[B]Carried away by a [E]moonlight [B]shadow\n[E/B]Lost in a riddle that [B]Saturday night\n[C#m]Far [A]away on the [B]other side He was\n[E/B]caught in the middle of a [B]desperate fight And she\n[C#m]couldn't find [A]how to push through [B]The\n\n[Verse 2]\n[C#m]trees that whisper in the [A]evening\n[B]Carried away by a [E]moonlight [B]shadow Sing a\n[C#m]song of sorrow and [A]grieving\n[B]Carried away by a [E]moonlight [B]shadow\n[E/B]All she saw was a [B]silhouette of a gun\n[C#m]Far [A]away on the [B]other side He was\n[E/B]shot six times by a [B]man on the run And she\n[C#m]couldn't find [A]how to push through [B]\n\n[Chorus]\n[B]I stay, I pray See you\n[E]in [A]heaven far [B]away\nI stay, I pray See you\n[E]in [A]heaven [B]one day\n\n[Verse 3]\n[C#m]Four a.m. in the [A]morning\n[B]Carried away by a [E]moonlight [B]shadow I\n[C#m]watched your vision [A]forming\n[B]Carried away by a [E]moonlight [B]shadow\n[E/B]Stars roll slowly in a [B]silvery night\n[C#m]Far [A]away on the [B]other side Will you\n[E/B]come to terms with me [B]this night But she\n[C#m]couldn't find [A]how to push through [B]I\n\n[Chorus]\n[B]stay, I pray See you\n[E]in [A]heaven far [B]away I\nstay, I pray See you\n[E]in [A]heaven [B]one day\n\n[Solo]\n[C#m]  [A]\n[B]  [E]  [B]\n[C#m]  [A]\n[B]  [E]  [B]\n[E/B]  [B]\n[C#m]Far [A/E]away on the [B]other side\n[E/B]  [B]\n[C#m]  [A/E]  [B]\n[C#m]  [A]\n[B]  [E]  [B]\n[C#m]  [A]\n[B]  [E]  [B]\n[E/B]Caught in the middle of a [B]hundred and five\n[C#m]  [A/E]  [B]\n[E/B]The night was heavy and the [B]air was alive But she\n[C#m]couldn't find [A]how to push through [B]\n\n[Outro]\n[C#m]  [A]\n[B]Carried away by a [E]moonlight [B]shadow\n[C#m]  [A]\n[B]Carried away by a [E]moonlight [B]shadow\n[E/B]  [B]\n[C#m]Far [A]away on the [B]other side\n[E/B][B]But she\n[C#m]couldn't find [A]how to push through [B]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A/E": {
+      "catalog": [
+        "x77655"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B/F#": {
+      "catalog": [
+        "x99877"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E/B": {
+      "catalog": [
+        "x22100"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Moonlight Shadow *alt 4",
+  "id": "2fc06aef5c25ad19e73cfcaa93646455a7177200139c1878f1400f0410eb629c",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 335,
+  "normalizedKey": "mike oldfield|moonlight shadow",
+  "playableChords": [
+    "E",
+    "B",
+    "C#m",
+    "A",
+    "B/F#",
+    "E/B",
+    "A/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Solo"
+    },
+    {
+      "measure": 51,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2fc06aef5c25ad19e73cfcaa93646455a7177200139c1878f1400f0410eb629c",
+    "version": "BCFZ"
+  },
+  "tempo": 65,
+  "title": "Moonlight Shadow",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

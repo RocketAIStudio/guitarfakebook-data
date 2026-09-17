@@ -1,0 +1,85 @@
+{
+  "artist": "Nirvana",
+  "artistNormalized": "nirvana",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[C#]\n\n[Verse 1]\n[C#]What else should I be\nAll apologies\nWhat else could I say\nEveryone is gay\nWhat else could I write\nI don't have the right\nWhat else should I be\nAll apologies\n\n[Chorus]\n[F#]In the sun\nIn the sun\nI feel as one\nIn the sun\nIn the sun\n[G#]I'm married\nBuried\n\n[Verse 2]\n[C#]I wish I was like you\nEasily amused\nFind my nest of salt\nEverything is my fault\nI'll take all the blame\nAqua seafoam shame\nSunburned freezer burn\nChoking on the a-\nshes of her enemy\n\n[Chorus]\n[F#]In the sun\nIn the sun\nI feel as one\nIn the sun\nIn the sun\n[G#]Married,\nmarried,\nmarried!\nBuried!\nYeah yeah yeah yeah\n\n[Outro]\n[C#]All in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are\nAll in all is all\nwe are",
+  "diagrams": {
+    "C#": {
+      "catalog": [
+        "000232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "5554xx",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "7776xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "All Apologies *alt",
+  "id": "1e194ebea11de379daee31b8d10cfb1975c7e22d515da7244f81e5e0327d1fb9",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 290,
+  "normalizedKey": "nirvana|all apologies",
+  "playableChords": [
+    "C#",
+    "F#",
+    "G#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1e194ebea11de379daee31b8d10cfb1975c7e22d515da7244f81e5e0327d1fb9",
+    "version": "BCFZ"
+  },
+  "tempo": 111,
+  "title": "All Apologies",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "alt"
+}

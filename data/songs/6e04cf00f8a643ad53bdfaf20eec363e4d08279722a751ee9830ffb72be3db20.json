@@ -1,0 +1,135 @@
+{
+  "artist": "Megadeth",
+  "artistNormalized": "megadeth",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[A5]\n[A5]\n[C5]  [C#5]  [A5]\n[C5]  [C#5]  [A5]\n[C5]  [C#5]  [A5]\n[C5]  [C#5]  [A5]\n\n[Pre-Verse]\n[A5]\n[C5]  [D5]  [C5]  [B5]\n[A5]\n[C5][D5]I [D#5][E5]\n\n[Verse]\n[A5]miss the warm embrace I felt\n[C5]First time you [D5]touched [C5]me [B5]Se-\n[A5]cure and safe in open arms I\n[C5]should have known you'd [D5]crush [D#5]me [E5]\n[A5]\n[C5]  [D5]  [C5]  [B5]\n[A5]\n[C5][D5]A [D#5][E5]\n[A5]snake you were when we met I\n[C5]loved you [D5]anyway [C5][B5]Pulling\n[A5]out your poisonous fangs The venom\n[C5]never goes [D5]away [D#5][E5]\n[A5]\n[C5]  [D5]  [C5]  [B5]\n[A5]\n[C5]  [D5]  [D#5]  [E5]\n[A5]Serpent swims free in my blood\n[C5]Dragons sleeping [D5]in my [C5]veins [B5]Jackyl\n[A5]speaking with my tongue Roach\n[C5]egg laying in [D5]my brain [D#5][E5]\n\n[Chorus]\n[F5]Once\n[A5]stalked beneath your shadow\n[F5]Sleep-\n[B5]walking to the gallows\n[F5]I'm the\n[F#5]sun that beats your brow in\n[G5]Till I\n[A5]finally threw the towel in Never\n\n[Bridge]\n[A5]knowing if I'd wake up In a whirl-\npool, got redundant My brain\nwas just some driftwood In a cess-\npool I became dead From a rock\nstar to a desk fool Was my dest-\niny, someone said Love's a tide\npool Taste the waters, life's abund-\nant [F5][C5][G5]\n[F5]\n[A5]\n[F5]  [C5]\n[B5]Taste [G5]me!\n\n[Interlude]\n[A5]\n[C5]\n[D5]\n[F5]  [E5]\n[A5]\n[C5]\n[D5]\n[F5]  [E5]\n[A5]\n[C5]\n[D5]\n[F5]  [E5]\n[A5]\n[C5]\n[D5]\n[F5]  [E5]\n\n[Solo]\n[A5]\n[C5]\n[D5]\n[F5]  [E5]\n[A5]\n[C5]\n[D5]\n[F5]  [E5]\n[A5]\n[C5]\n[D5]\n[F5]  [E5]\n\n[Outro]\n[A5]\n[C5]\n[D5]\n[F5]  [E5]\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx",
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Poison Was The Cure *alt",
+  "id": "6e04cf00f8a643ad53bdfaf20eec363e4d08279722a751ee9830ffb72be3db20",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 177,
+  "normalizedKey": "megadeth|poison was the cure",
+  "playableChords": [
+    "A5",
+    "C5",
+    "C#5",
+    "D5",
+    "B5",
+    "D#5",
+    "E5",
+    "F5",
+    "F#5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 36,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 40,
+      "name": "Verse"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 68,
+      "name": "Bridge"
+    },
+    {
+      "measure": 80,
+      "name": "Interlude"
+    },
+    {
+      "measure": 96,
+      "name": "Solo"
+    },
+    {
+      "measure": 108,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6e04cf00f8a643ad53bdfaf20eec363e4d08279722a751ee9830ffb72be3db20",
+    "version": "BCFZ"
+  },
+  "tempo": 138,
+  "title": "Poison Was The Cure",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

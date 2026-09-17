@@ -1,0 +1,100 @@
+{
+  "artist": "Megadeth",
+  "artistNormalized": "megadeth",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[F#5]I sneak\nin my own house\nIt's\nfour in morning\nI had\ntoo much to drink\nSaid I was\nout with the boys\nI\ncreep in my bedroom\nI\nslip into bed\nI\nknow if I wake her\nI' all wake up\n\n[Solo]\n[F#5]dead\n\n[Bridge]\n[G5]\n\n[Interlude]\n[E5]\n\n[Solo]\n[G#5]\n\n[Interlude]\n[G#5]\n[F#5]\nI\n\n[Verse 2]\nwonder, will she\nfind out\nAbout the\nother\nOther\nlover\nDi-\nana\n[F#5]\n\n[Interlude]\n[E5]\n\n[Solo]\n\n[Chorus]\n[E5]Wake up dead,\nyou die\nWake up dead\nWake up dead,\nyou die\nWake up dead",
+  "diagrams": {
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wake Up Dead *alt",
+  "id": "b561f3c4e49a3644a7b50f1ee168d469ec119d517655e5c0c39219183037a71a",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 81,
+  "normalizedKey": "megadeth|wake up dead",
+  "playableChords": [
+    "F#5",
+    "G5",
+    "E5",
+    "G#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Solo"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 43,
+      "name": "Interlude"
+    },
+    {
+      "measure": 76,
+      "name": "Solo"
+    },
+    {
+      "measure": 89,
+      "name": "Interlude"
+    },
+    {
+      "measure": 105,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 114,
+      "name": "Interlude"
+    },
+    {
+      "measure": 118,
+      "name": "Solo"
+    },
+    {
+      "measure": 134,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b561f3c4e49a3644a7b50f1ee168d469ec119d517655e5c0c39219183037a71a",
+    "version": "BCFZ"
+  },
+  "tempo": 165,
+  "title": "Wake Up Dead",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

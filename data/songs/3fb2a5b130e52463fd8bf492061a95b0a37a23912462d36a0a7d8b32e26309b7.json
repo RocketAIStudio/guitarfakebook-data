@@ -1,0 +1,132 @@
+{
+  "artist": "METALLICA",
+  "artistNormalized": "metallica",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[Ab]\n[Ab]\n[Ab5]\n[Cb5]  [Bb5]  [Fb5]  [Gb5]  [Db5]\n\n[Verse 1]\n[Eb5]Story starts Quiet town\nSmall town boy Big time [Db5]frown\n[Eb5]Never talks Never plays\nDiff'rent path Lost [Db5]his [Cb5]way\n[Ab5]\nThe\n[Eb5]streets are red Red I'm afraid There's\nno confetti No [Db5]parade Noth-\n[Eb5]ing happens in this boring place But\noh my god how it all did [Db5]change [Gb5]Now they\n[Db5]all [Cb5/Db]pray [Db5]\nBlood stain [Cb5]wash away [Bb5]\n\n[Chorus]\n[Ab]He said Lost my way\nThis bloody day\nLost my way\n[Cb5][Db5]I heard [Cb5]him\n[Ab]He said Lost my way\nThis bloody day\nLost my way\n[Cb5]All things [Db5]wash away [Cb5]But\nblood stained the sun red to-\n[Ab5]day\n[Cb5][Bb5][Fb5][Gb5][Db5]I\n\n[Verse 2]\n[Eb5]always said Something wrong With\nlittle strange Ronnie [Db5]Long\n[Eb5]Never laughed Never smiled\nTalked alone for miles and [Db5]miles [Cb5]and\n[Ab5]miles\n[Eb5]Gallow calls Son I say Keep\nyour smile and laugh all [Db5]day Think\n[Eb5]once again in this boring place For\nlittle boys how they soon [Db5]change [Gb5]Now they\n[Db5]all [Cb5/Db]pray Blood [Db5]\nstain wash [Cb5]away [Bb5]\n\n[Chorus]\n[Ab]He said Lost my way\nThis bloody day\nLost my way\n[Cb5][Db5]I heard [Cb5]him\n[Ab]He said Lost my way\nThis bloody day\nLost my way\n[Cb5]All things [Db5]wash away [Cb5]But\nblood stained the sun red to-\n\n[Bridge]\n[Ab]day\nYeah.\nYeah, well all the\ngreen things died When Ronnie moved to this\nplace He said\nDon't you dare ask Why I'm cursed to\nwear this face Now we\nall know why The children\ncalled him Ronnie Frown When he\npulled that gun from his pocket And they\nall fall down, down, down\n\n[Chorus]\n[Ab]He said Lost my way\nThis bloody day\nLost my way\n[Cb5]Yeah, [Db5]yeah, I heard [Cb5]him\n[Ab]He screamed Lost my way\nThis bloody day\nLost my way\n[Cb5]All things [Db5]wash away [Cb5]But\n[Ab]blood stained the sun red to-\nday\n\n[Outro]\n[Ab5]\nThat's right\n[Cb5]All [Bb5]things [Fb5]wash [Db5][Gb5]away\n[Ab5]\nAnd they all fall down,\ndown But\n[Cb5]blood [Bb5]stained the [Fb5]sun [Db5][Gb5]today\n[Ab5]\nYeah, yeah\n[Cb5]All [Bb5]things [Fb5]wash [Db5][Gb5]away\n[Ab5]\nAnd they all fall\ndown But\n[Cb5]blood [Bb5]stained [Eb5]the [Fb5]sun [Cb5][Gb5]today\n[Db5]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x02220",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Ab5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "Bb5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "Cb5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "Cb5/Db": {
+      "catalog": [
+        "x555xx"
+      ],
+      "catalogCount": 1
+    },
+    "Db5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "Fb5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gb5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ronnie *alt",
+  "id": "3fb2a5b130e52463fd8bf492061a95b0a37a23912462d36a0a7d8b32e26309b7",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 353,
+  "normalizedKey": "metallica|ronnie",
+  "playableChords": [
+    "Ab",
+    "Ab5",
+    "Cb5",
+    "Bb5",
+    "Fb5",
+    "Gb5",
+    "Db5",
+    "Eb5",
+    "Cb5/Db"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Bridge"
+    },
+    {
+      "measure": 83,
+      "name": "Chorus"
+    },
+    {
+      "measure": 93,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3fb2a5b130e52463fd8bf492061a95b0a37a23912462d36a0a7d8b32e26309b7",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Ronnie",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

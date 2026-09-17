@@ -1,0 +1,119 @@
+{
+  "artist": "Neil Diamond",
+  "artistNormalized": "neil diamond",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F#7]\n\n[Verse 1]\n[B]Where it began\n[E]I can't be-\ngin to knowin'\n[B]But then I know\nit's growing\n[F#]strong\n[B]Was in the spring\n[E]And spring be-\ncame the summer\n[B]Who'd have believed\nyou'd come a-\n[F#]long\n\n[Pre-Chorus]\n[B]Hands,\n[G#m/B]touchin' hands\n[F#7]Reachin' out,\n[E]touchin' me,\ntouchin'\n[F#]you\n\n[Chorus]\n[B]Sweet Caroline\n[E]\nGood times\nnever seemed so\n[F#]good\n[B]I've been inclined\n[E]\nTo be-\nlieve they never\n[F#]would [E]But\n[F#]now [E]I...\n\n[Verse 2]\n[B]...look at the night\n[E]And it don't\nseem so lonely\n[B]We fill it up\nwith only\n[F#]two\n[B]And when I hurt\n[E]Hurtin' runs\noff my shoulders\n[B]How can I hurt\nwhen holding\n[F#]you?\n\n[Pre-Chorus]\n[B]Warm,\n[G#m/B]touchin' warm\n[F#7]Reachin' out,\n[E]touchin' me,\ntouchin'\n[F#]you\n\n[Chorus]\n[B]Sweet Caroline\n[E]\nGood times\nnever seemed so\n[F#]good\n[B]I've been inclined\n[E]\nTo be-\nlieve they never\n[F#]would [E]Oh,\n[F#]no, [E]no\n\n[Intrelude]\n[F#7]\n\n[Outro]\n[B]Sweet Caroline\n[E]\nGood times\nnever seemed so\n[F#]good\n[B]I've been inclined\n[E]\nTo be-\nlieve they never\n[F#]would\n[B]Sweet Caroline\n[E]\nGood times\nnever seemed so...",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x76454",
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "G#m/B": {
+      "catalog": [
+        "7x6444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sweet Caroline",
+  "id": "857ea07f4c8c212d67f9bcaf77d30f2768378970e50bab1faa1c20ceb1128857",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 184,
+  "normalizedKey": "neil diamond|sweet caroline",
+  "playableChords": [
+    "F#7",
+    "B",
+    "E",
+    "F#",
+    "G#m/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 62,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 72,
+      "name": "Chorus"
+    },
+    {
+      "measure": 84,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 91,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "857ea07f4c8c212d67f9bcaf77d30f2768378970e50bab1faa1c20ceb1128857",
+    "version": "BCFZ"
+  },
+  "tempo": 127,
+  "title": "Sweet Caroline",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

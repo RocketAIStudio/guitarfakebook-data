@@ -1,0 +1,105 @@
+{
+  "artist": "Muse",
+  "artistNormalized": "muse",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A5]\n[A5]\n\n[Chorus]\n[A5]\n\n[Verse 1]\n[Am]\n[Am]Wake to see Your\ntrue emancipation is a\n[E]fantasy\n[Dm]Policies Have\nrisen up and overcome the\n[Am]brave\nGreatness dies Un-\nsung and lost, invisible to\n[E]history\nEm-\n[Dm]bedded spies\nBrainwashing our children to be\n[Am]mean\n[F]You don't have\nlong I am\n[E]on to you\n[F]The time, it has\ncome to destroy\n[E]\nYour suprema-\n\n[Chorus]\n[A5]cy\n\n[Verse 2]\n[Am]\n[Am]\n[E]\n[Dm]\n[Am]\n[E]\n[Dm]\n[Am]\n[F]You don't have\nlong I am\n[E]on to you\n[F]The time, it has\ncome to destroy\n[E]\nYour suprema-\n\n[Bridge]\n[A5]cy\n\n[Interlude]\n[A5]\n[A5]Suprema-\ncy",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "Supremacy",
+  "id": "45398f9c06db4081a2711424f431c4d36bc5a92e7b9f72cae6da87628e8bf5ad",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 104,
+  "normalizedKey": "muse|supremacy",
+  "playableChords": [
+    "A5",
+    "Am",
+    "E",
+    "Dm",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 77,
+      "name": "Bridge"
+    },
+    {
+      "measure": 80,
+      "name": "Interlude"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "45398f9c06db4081a2711424f431c4d36bc5a92e7b9f72cae6da87628e8bf5ad",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Supremacy",
+  "tuning": "A E A D G B E",
+  "variantRole": "primary"
+}

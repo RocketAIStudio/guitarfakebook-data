@@ -1,0 +1,92 @@
+{
+  "artist": "Misc Traditional",
+  "artistNormalized": "misc traditional",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[Dm]Rastsvetali\niabloni i [A]grushi,\nPoplyli tu-\nmany nad [Dm]rekoj.\n[F]Vykhodila\n[Gm]na bereg [Dm]Katyusha,\n[Gm]Na [Dm]vysokij\n[A]bereg na [Dm]krutoj.\n\n[Verse 2]\n[Dm]Vykhodila,\npesniu [A]zavodila\nPro stepnogo,\nsizogo [Dm]orla,\nPro [F]togo, ko-\n[Gm]torogo [Dm]liubila,\n[Gm]Pro [Dm]togo, chi\n[A]pisma [Dm]beregla.\n\n[Verse 3]\n[Dm]Oj ty, pesnia,\npesenka [A]devichia,\nTy leti za\niasnym solntsem [Dm]vsled.\nI [F]bojtsu na\n[Gm]dalnem [Dm]pograniche\n[Gm]Ot [Dm]Katyushi\n[A]peredaj [Dm]privet.\n\n[Verse 4]\n[Dm]Pust on vspomnit\ndevushku [A]prostuiu,\nPust uslyshit,\nkak ona [Dm]poet,\nPust on [F]zemliu\n[Gm]berezhet [Dm]rodnuiu,\n[Gm]A [Dm]liubov Ka-\n[A]tyusha [Dm]sberezhet.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Katyusha",
+  "id": "818d5cf3f1a94288a13be67e1118c1fcd67d55b50393285078125f72aeaf8b19",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 152,
+  "normalizedKey": "misc traditional|katyusha",
+  "playableChords": [
+    "Dm",
+    "A",
+    "F",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "818d5cf3f1a94288a13be67e1118c1fcd67d55b50393285078125f72aeaf8b19",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "Katyusha",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

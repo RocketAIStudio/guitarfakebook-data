@@ -1,0 +1,120 @@
+{
+  "artist": "Nirvana",
+  "artistNormalized": "nirvana",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D#]\n\n[Verse 1]\n[D#]I'm going to\nHollywood\nThey'll see that I'm\nso good\nI won't care\nhow I feel\nAnd I'll get to\nfuck Brooke Shields\n\n[Chorus]\n[E]I'll just\nsit and grin\n[F#]The money will\n[F]roll right [E]in\n\n[Bridge]\n[D#]\n\n[Verse 2]\n[D#]I want to\nbe a star\nI'm going to\nhave a car\nAnd you'll\nhave to admit\nI'll be\nrich as shit\n\n[Chorus]\n[E]I'll just\nsit and grin\n[F#]The money will\n[F]roll right [E]in\n\n[Bridge]\n[D#]\n\n[Solo]\n[D#]\n\n[Chorus]\n[E]I'll just\nsit and grin\n[F#]The money will\n[F]roll right [E]in\n\n[Bridge]\n[D#]\n\n[Verse 3]\n[D#]I would\ngive you some\nIf you only would have\ntreated me nice\nYou'll wish\nthat you did\nAnd you'll feel\npretty stupid\n\n[Chorus]\n[E]I'll just\nsit and grin\n[F#]The money will\n[F]roll right [E]in\n[D#]\n[E]I'll just\nsit and grin\n[F#]The money will\n[F]roll right [E]in",
+  "diagrams": {
+    "D#": {
+      "catalog": [
+        "022100"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "133211",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "244322",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "355433",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Money",
+  "id": "350978cae151e5786d49b816b725d44b541c53387c1aa0f6ef2d77c7055049da",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 132,
+  "normalizedKey": "nirvana|money",
+  "playableChords": [
+    "D#",
+    "E",
+    "F#",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Solo"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "350978cae151e5786d49b816b725d44b541c53387c1aa0f6ef2d77c7055049da",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Money",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

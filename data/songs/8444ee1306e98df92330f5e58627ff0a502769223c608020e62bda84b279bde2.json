@@ -1,0 +1,102 @@
+{
+  "artist": "My Chemical Romance",
+  "artistNormalized": "my chemical romance",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro.]\n[F#m]\n[D7M/F#]\n[F#m]\n[A]\n[A7M/G#]\n\n[Verse 1]\n[F#m]Saints\npro-\n[D7M/F#]tect her\n[F#m]\n[A]now\n[A7M/G#]\n\n[Verse 2]\n[A]Come\n[E]angels\n[F#m]of\nthe\n[C#7]lord,\n[A]Come\nan\n[E]gels\n[F#m]of\nun-\n[C#7]known.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7M/G#": {
+      "catalog": [
+        "44222x"
+      ],
+      "catalogCount": 1
+    },
+    "C#7": {
+      "catalog": [
+        "x4342x",
+        "x-4-3-4-2-1",
+        "x-4-6-4-6-4",
+        "9-8-6-6-6-7",
+        "9-11-9-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "D7M/F#": {
+      "catalog": [
+        "254222"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Interlude",
+  "id": "8444ee1306e98df92330f5e58627ff0a502769223c608020e62bda84b279bde2",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 18,
+  "normalizedKey": "my chemical romance|interlude",
+  "playableChords": [
+    "F#m",
+    "D7M/F#",
+    "A",
+    "A7M/G#",
+    "E",
+    "C#7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro."
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8444ee1306e98df92330f5e58627ff0a502769223c608020e62bda84b279bde2",
+    "version": "BCFZ"
+  },
+  "tempo": 133,
+  "title": "Interlude",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

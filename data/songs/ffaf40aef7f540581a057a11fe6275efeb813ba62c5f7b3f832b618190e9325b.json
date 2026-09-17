@@ -1,0 +1,122 @@
+{
+  "artist": "Mick Ronson",
+  "artistNormalized": "mick ronson",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F#5]  [E5]\n[F#5]  [E5]\n\n[Verse 1-1]\n[A]I\nfeel my spirit fly,\nonly after dark\n[E]\n[F#m]\n[E]\n[F#m]\n[A]I\nkiss the world goodbye,\nonly after dark\n[E]\n\n[Verse 1-2]\n[A]Nights\nwith the city lights,\nonly after dark\n[E]\n[F#m]\n[E]\n[F#m]\n[A]Run\nlike the wonder way,\nonly after dark\n[E]\n[F#m]\n[E]\n[F#m]\n\n[Chorus]\n[D/A]Won't\nyou disappear\ninto midnight with me\n[A]Why don't you come,\nwhy won't you come\nWhy won't you fly,\nfly, fly with\n[D/A]Sweet\nelusive fate\nwill be our company\n[A]\n[E]\n[F#m]\n[E]\n[F#m]\n[E]\n[F#m]\n[E]\n[F#m]\n\n[Verse 2-1]\n[A]Ring\nout the vamp in me,\nonly after dark\n[E]\n[F#m]\n[E]\n[F#m]\n[A]Moon\nsinful as can be,\nonly after dark\n[E]\n[F#m]\n[E]\n[F#m]It's\n\n[Verse 2-2]\n[A]wrong\nto feel so\nfree,\nonly after dark\n[E]\n[F#m]\n[E]\n[F#m]Only\n[A]you\ndo it to me,\nonly after dark\n[E]\n[F#m]\n[E]\n[F#m]\n\n[Chorus]\n[D/A]Won't\nyou disappear\ninto midnight with me\n[A]Why don't you come,\nwhy won't you come\nWhy won't you fly,\nfly, fly with\n[D/A]Sweet\nelusive fate\nwill be our company\n[A]\n\n[Outro]\n[E]\n[F#m]\n[E]\n[F#m]\n[E]\n[F#m]\n[E]\n[F#m]\n\n[Fade out]\n[E]\n[F#m]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x00232"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Only after dark",
+  "id": "ffaf40aef7f540581a057a11fe6275efeb813ba62c5f7b3f832b618190e9325b",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 163,
+  "normalizedKey": "mick ronson|only after dark",
+  "playableChords": [
+    "F#5",
+    "E5",
+    "A",
+    "E",
+    "F#m",
+    "D/A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1-1"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 1-2"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Verse 2-1"
+    },
+    {
+      "measure": 82,
+      "name": "Verse 2-2"
+    },
+    {
+      "measure": 98,
+      "name": "Chorus"
+    },
+    {
+      "measure": 114,
+      "name": "Outro"
+    },
+    {
+      "measure": 122,
+      "name": "Fade out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ffaf40aef7f540581a057a11fe6275efeb813ba62c5f7b3f832b618190e9325b",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Only after dark",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

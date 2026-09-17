@@ -1,0 +1,100 @@
+{
+  "artist": "mxmtoon",
+  "artistNormalized": "mxmtoon",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Dm]\n[G]\n[C]\n[C7]\n[Dm]\n[G]\n[C]\n[C7]\n\n[Verse 1]\n[Dm]I'm happy for\n[G]you I'm smiling for\n[C]you I'd do any-\n[C7]thing For you for\n[Dm]you It's always for\n[G]you And never for me\n[C]And I need it to stop\n[C7]So let me tell you,\n\n[Chorus]\n[Dm]please I'm always sad\n[G]And I'm always lone-\n[C]ly But I can't tell\n[C7]you That I'm breaking\n[Dm]slowly Closed doors\n[G]Locked in, no\n[C]keys Keeping my feelings\n[C7]hidden There is no\n[Dm]ease I need it to stop\n[G]And I want to be\n[C]able To open up\n[C7]but, My feelings are\n[Dm]fatal\n[G]My feelings are\n[C]fatal\n\n[Verse 2]\n[Dm]How many\n[G]times Must I keep it inside\n[C]I need to let go\n[C7]And I swear that I've\n[Dm]tried But opening up\n[G]Means trusting o-\n[C]thers And that's just too\n[C7]much I don't want to bo-\n[Dm]ther So I'll keep it inside\n[G]And I'll bury it deep\n[C]I know it's not heal-\n[C7]thy But you won't hear a\n\n[Chorus]\n[Dm]peep Though I'm always sad\n[G]And I'm always lone-\n[C]ly I could never tell\n[C7]you That I'm breaking\n[Dm]slowly Closed doors\n[G]Locked in, no\n[C]keys Keeping my feelings\n[C7]hidden There is no\n[Dm]ease I need it to stop\n[G]And I want to be\n[C]able To open up\n[C7]but My feelings are\n[Dm]fatal\n[G]\n[C]\n[C7]My feelings are\n[Dm]fatal\n[G]\n[C]\n[C7]My feelings are\n\n[Outro]\n[Dm]fatal\n[G]\n[C]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "feelings are fatal",
+  "id": "8c79d4ac8f6507cd5cb3655f76874f6964b480106d7ea6ab6b595271c2e12be9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 249,
+  "normalizedKey": "mxmtoon|feelings are fatal",
+  "playableChords": [
+    "Dm",
+    "G",
+    "C",
+    "C7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8c79d4ac8f6507cd5cb3655f76874f6964b480106d7ea6ab6b595271c2e12be9",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "feelings are fatal",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

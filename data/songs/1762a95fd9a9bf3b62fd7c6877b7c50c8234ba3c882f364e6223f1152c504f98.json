@@ -1,0 +1,136 @@
+{
+  "artist": "Misc Cartoons",
+  "artistNormalized": "misc cartoons",
+  "capo": "3",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[G]\nLets\n\n[Verse]\n[G]gather 'round the campfire And\n[C]sing our campfire [G]song Our\nCAMPFIRE\n[C]SONG [G]song And if\nyou don't think that we can sing it\n[C]faster then you're [G]wrong But it'll\n[A7]help if you just sing a-\n[D7]long\n\n[Chorus]\n[G]CAMPFIRE\n[C]SONG [G]song\nCAMPFIRE\n[C]SONG [G]song And if\nyou dont think that we can sing it\n[C]faster then you're [G]wrong But it'll\n[A7]help if you just sing a-\n[D7]long\n\n[Bridge]\n[G]CAMPFIRE\n[C]SONG [G]song\n[C]  [G]\n[C][G]It'll\n\n[Outro]\n[A7]help It'll\n[D7]help If you just sing a-\n[G]long! [G7][C][Dbdim]\n[D]  [Gb]  [G]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dbdim": {
+      "catalog": [
+        "x42020"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Spongebob Squarepants - Campfire Song Song",
+  "id": "1762a95fd9a9bf3b62fd7c6877b7c50c8234ba3c882f364e6223f1152c504f98",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 129,
+  "normalizedKey": "misc cartoons|spongebob squarepants campfire song song",
+  "playableChords": [
+    "G",
+    "C",
+    "A7",
+    "D7",
+    "G7",
+    "Dbdim",
+    "D",
+    "Gb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1762a95fd9a9bf3b62fd7c6877b7c50c8234ba3c882f364e6223f1152c504f98",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "Spongebob Squarepants - Campfire Song Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,96 @@
+{
+  "artist": "Nick Drake",
+  "artistNormalized": "nick drake",
+  "capo": "2",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\n\n[Verse 1]\n[G]I saw it written and I\nsaw it say\n[F]Pink moo-\nn is on its way\n[G]And none of you\nstand so tall\n[F]Pink moo-\nn gonna get ye all It's a\n\n[Chorus]\n[C]pink moon Ye-\ns, a pink moon\n[Dm9]Pink, pink, pink, pi-\nnk Pink\n[C]moon\n[Dm9]A pink, pink, pink, pi-\nnk Pink moon\n[C]\n\n[Bridge]\n[C]\n[Dm9]\n[F]\n[C]\n[C]\n[Dm9]\n[F]\n[C]\n\n[Verse 2]\n[G]I saw it written and I\nsaw it say\n[F]A pink moo-\nn is on its way\n[G]And none of you\nstand so tall\n[F]Pink moo-\nn gonna get ye all It's a\n\n[Outro]\n[C]pink moon Ye-\ns, a pink moon.",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "000200",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Dm9": {
+      "catalog": [
+        "222000"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "555755",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "777977",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pink Moon",
+  "id": "c33242f087775dcdd84d3cb96111a938c26af6a057de85f5f18dbb41844f1ec3",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 104,
+  "normalizedKey": "nick drake|pink moon",
+  "playableChords": [
+    "C",
+    "G",
+    "F",
+    "Dm9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Bridge"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c33242f087775dcdd84d3cb96111a938c26af6a057de85f5f18dbb41844f1ec3",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "Pink Moon",
+  "tuning": "C G C F C E",
+  "variantRole": "primary"
+}

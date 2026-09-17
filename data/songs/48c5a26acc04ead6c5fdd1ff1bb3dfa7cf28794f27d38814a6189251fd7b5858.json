@@ -1,0 +1,100 @@
+{
+  "artist": "Nirvana",
+  "artistNormalized": "nirvana",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Fm]\n\n[Verse 1]\n[Fm]I will never bother you\nI will never promise to\nI will never follow you\nI will never bother you\n[Db]Never speak a word again\n[Eb]I will crawl away for good\n[Fm]I will move away from here\nYou won't be afraid of fear\nNo thought was put into this\nAlways knew it'd come to this\n[Db]Things have never been so swell\n[Eb]I have never failed to fail\n\n[Chorus]\n[F]Pain\nPain\n[Db]Pain\n[Eb]You know you're\n[F]right\nYou know you're\nright You know you're\nright\n\n[Verse 2]\n[Fm]It's so warm and calm inside\nI no longer have to hide\nLet's talk about someone else\nSteaming soup against her mouth\n[Db]Nothing really bothers her\n[Eb]She just wants to love herself\n[Fm]I will move away from here\nYou won't be afraid of fear\nNo thought was put into this\nAlways knew it'd come to this\n[Db]Things have never been so swell\n[Eb]I have never failed to fail\n\n[Chorus]\n[F]Pain\nPain\nPain\nPain\n[Db]Pain\n[Eb]You know you're\n\n[Outro]\n[F]right You know you're\nright You know you're\nright You know you're\nright You know you're\nright You know you're\nright You know you're\nright You know you're\nright You know you're\nright You know you're\nright You know you're\nright You know you're\nright You know you're\nright You know you're\nright You know you're\nright You know you're\nright You know you're\nright",
+  "diagrams": {
+    "Db": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "022100",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "244322",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "244222",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You Know You're Right *alt",
+  "id": "48c5a26acc04ead6c5fdd1ff1bb3dfa7cf28794f27d38814a6189251fd7b5858",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 256,
+  "normalizedKey": "nirvana|you know you re right",
+  "playableChords": [
+    "Fm",
+    "Db",
+    "Eb",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "48c5a26acc04ead6c5fdd1ff1bb3dfa7cf28794f27d38814a6189251fd7b5858",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "You Know You're Right",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

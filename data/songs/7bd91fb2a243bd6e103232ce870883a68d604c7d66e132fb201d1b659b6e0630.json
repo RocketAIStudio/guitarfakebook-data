@@ -1,0 +1,148 @@
+{
+  "artist": "Mouse Rat",
+  "artistNormalized": "mouse rat",
+  "capo": "No capo",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[D]  [Dsus4]\n[D]  [Dsus4]\n\n[Verse 1]\n[D]Up in horsey heaven, here's the thing\nYou\n[Em7]trade your legs for angels\n[A]wings And\n[F#m]once we’ve all said good-\n[Bm]bye You\n[C]take a running leap and you learn to\n[A]fly\n\n[Chorus]\n[D]Bye bye Li'l Sebas-\n[G]tian [Em7][A]\n[D]Miss you in the saddest fa-\n[A][G]shion\n[D]Bye bye Li'l Sebas-\n[G]tian [D]\n[Em7]You’re five thousand [A]candles in the\n\n[Break]\n[D]wind\nAnd\n\n[Verse 2]\n[D]though we all miss you every-\nday We\n[Em7]know you're up there eating heaven's\n[A]hay And\n[F#m]here's the part that hurts the\n[Bm]most\n[C]Humans cannot ride a ghost\n[A]\n\n[Chorus]\n[D]Bye bye Li'l Sebas-\n[G]tian [Em7][A]\n[D]Miss you in the saddest fa-\n[A][G]shion\n[D]Bye bye Li'l Sebas-\n[G]tian [D]\n[Em7]You’re five thousand [A]candles in the\n[D]wind Everybody sing it now!\n\n[Chorus]\n[D]Bye bye Li'l Sebas-\n[G]tian [Em7][A]\n[D]Miss you in the saddest fa-\n[A][G]shion\n[D]Bye bye Li'l Sebas-\n[G]tian [D]\n[Em7]You’re five thousand [A]candles in the\n\n[Outro]\n[D]wind\n[Em7]Maybe someday we'll [A]saddle up a-\n[D]gain And I\n[Em7]know I'll always [A]miss my horsiest\n[D]friend\nSpread your\nwings and fly Spread your wings and\nfly",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus4": {
+      "catalog": [
+        "xx0233"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "5000 Candles in the Wind",
+  "id": "7bd91fb2a243bd6e103232ce870883a68d604c7d66e132fb201d1b659b6e0630",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 198,
+  "normalizedKey": "mouse rat|5000 candles in the wind",
+  "playableChords": [
+    "D",
+    "Dsus4",
+    "Em7",
+    "A",
+    "F#m",
+    "Bm",
+    "C",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Break"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7bd91fb2a243bd6e103232ce870883a68d604c7d66e132fb201d1b659b6e0630",
+    "version": "BCFZ"
+  },
+  "tempo": 74,
+  "title": "5000 Candles in the Wind",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

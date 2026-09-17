@@ -1,0 +1,118 @@
+{
+  "artist": "Modern Baseball",
+  "artistNormalized": "modern baseball",
+  "capo": "3",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F#]  [A#m]\n[B]\n[F#]  [A#m]\n[B]\n\n[Verse 1]\n[F#]Dead [A#m]dreams and de-\n[B]bauchery scenes I spent the\n[F#]last 3 [A#m]bucks On the\n[B]last thing that I'll need\n[F#]There's no [A#m]way that I'll\n[B]end in the black for this\n[G#m]term\n[C#]Guess I got a lot to learn\n\n[Bridge]\n[F#]  [A#m]\n[B]\n[F#]  [A#m]\n[B]\n\n[Verse 2]\n[F#]Eight [A#m]hours on the\n[B]top of a bus Just to\n[F#]find out in the [A#m]end I will\n[B]never stop fallin' in love\n[F#]I'm alright [A#m]and I'm\n[B]always getting better Let the\n[F#]fire burn [A#m]low cause we\n[B]like it that way We let the\n[F#]ash flow [A#m]down Our throats\n[B]so stout but we don't\n[G#m]mind the burn We will\n[C#]never ever let it go out\n\n[Bridge]\n[F#]  [A#m]\n[B]\n[F#]  [A#m]\n[B]\n\n[Verse 3]\n[F#]Open [A#m]doors and sweat\n[B]soaked floors You find it\n[F#]hard to miss your [A#m]family When\n[B]everyday you're part of one more\n[F#]Just slow down, [A#m]baby,\n[B]take it all in And I\n[G#m]promise you will never Be an-\n[C#]gry again after this\n\n[Chorus]\n[F#]Kicked [A#m]out of the\n[B]liquor store But we're\n[F#]not the type of [A#m]guys To fall a-\n[B]sleep on the floor anyway\n[D#m]\"You wanna [B]join me for din-\n[A#m]ner?\" \"Man I got [G#m]so much to do\"\n[D#m]But never [B]once did I ex-\n[C#]pect it not to tear me in two\n[F#]I'm alright [A#m]and I'm\n[B]always getting better Let the\n[F#]fire burn [A#m]high cause we\n[B]like it that way We let the\n[D#m]ash flow [B]down Our throats\n[A#m]so stout [G#m]but we don't\n[D#m]mind the [B]burn We will\n[C#]never ever let it go out\n\n[Outro]\n[F#]  [A#m]\n[B]\n[F#]  [A#m]\n[B]",
+  "diagrams": {
+    "A#m": {
+      "catalog": [
+        "x24432"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x32010",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "022000"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "320003",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "x02210"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Coals",
+  "id": "bf0e0165ae92f365ffeaab6a93f6232a3f235a5070f41a652abbfb80aa832b7e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 267,
+  "normalizedKey": "modern baseball|coals",
+  "playableChords": [
+    "F#",
+    "A#m",
+    "B",
+    "G#m",
+    "C#",
+    "D#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Bridge"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bf0e0165ae92f365ffeaab6a93f6232a3f235a5070f41a652abbfb80aa832b7e",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Coals",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

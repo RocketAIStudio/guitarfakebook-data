@@ -1,0 +1,115 @@
+{
+  "artist": "Neil Young",
+  "artistNormalized": "neil young",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\nAu-\n\n[Verse 1]\n[C]rora borea-\nlis The\nicy sky at night\n[Dm]Paddles cut the wa-\nter In a\n[C]long and hurried flight\nFrom the\n[G]white man\n[Bb]To the [F/A]fields of green\n[C]\nAnd the\n[G]homeland\n[Bb]We've [F/A]never seen\n[C]\nThey\n\n[Verse 2]\n[C]killed us in our tee-\npee And they\ncut our women down\nThey\n[Dm]might have left some ba-\nbies\n[C]Cring on the ground\nBut the\n[G]fire sticks\n[Bb]And the [F/A]wagons\n[C]come\nAnd the\n[G]night falls\n[Bb]On the [F/A]setting sun\n[C]\nThey\n\n[Verse 3]\n[C]massacred the buf-\nfalo Kitty\ncorner from the bank\nThe\n[Dm]taxis run across\nmy feet And my\n[C]eyes have turned to blanks\nIn my\n[G]little box\n[Bb]At the [F/A]top of the\n[C]stairs\nWith my\n[G]Indian rug\n[Bb]And a [F/A]pipe to share\n[C]\n\n[Break]\n[C]\n[Dm]\n[C]\n[G]\n[Bb]  [F/A]\n[C]\nI\n\n[Verse 4]\n[C]wish I was a trap-\nper I would\ngive thousand pelts\nTo\n[Dm]sleep with Pocahon-\ntas And\n[C]find out how she felt\nIn the\n[G]morning\n[Bb]On the [F/A]fields of green\n[C]\nIn the home-\n[G]land\n[Bb]We've [F/A]never seen\n[C]\nAnd\n\n[Verse 5]\n[C]maybe Marlon Bran-\ndo Will\nbe there by the fi-\nre We'll\n[Dm]sit and talk of Hol-\nlywood And the\n[C]good things there for hi-\nre And the\n[G]Astrodome\n[Bb]And the [F/A]first tee-\n[C]pee\nMarlon\n[G]Brando,\n[F/A][Bb]Pocahontas and me\n[C]\nMarlon\n\n[Outro]\n[G]Brando,\n[F/A][Bb]Pocahontas and me\n[C]\nPoca-\n[G]hontas\n[Bb]  [F/A]\n[C]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x32010",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "000232",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "222000",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "F/A": {
+      "catalog": [
+        "x20033"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "x02220",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pocahontas",
+  "id": "218f04f5767f0a7b796916910fac01376bff40e1266e2232a83a2796db06887d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 248,
+  "normalizedKey": "neil young|pocahontas",
+  "playableChords": [
+    "C",
+    "Dm",
+    "G",
+    "Bb",
+    "F/A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 53,
+      "name": "Break"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 97,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "218f04f5767f0a7b796916910fac01376bff40e1266e2232a83a2796db06887d",
+    "version": "BCFZ"
+  },
+  "tempo": 127,
+  "title": "Pocahontas",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

@@ -1,0 +1,96 @@
+{
+  "artist": "Neetesh Jung Kunwar",
+  "artistNormalized": "neetesh jung kunwar",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Em]\n\n[Verse 1]\n[G]Baisaimaa [Em]lahura pasepani\n[G]Baisaimaa [Em]lahura pasepani\n[G]Suntalimai [Em]aauchhu ma ta\n[D]farke ra [C]Maaryo ni [D]mayale\n[Em]maaryo\n[G]Suntalimai [Em]aauchhu ma ta\n[D]farke ra [C]Maaryo ni [D]mayale\n[Em]maaryo\n[G]Sorha barse [Em]umeraima\n[G]Sorha barse [Em]umeraima\n[G]Suntalimai [Em]ma pani jhilke\n[D]hudo ho [C]Maaryo ni [D]mayale\n[Em]maaryo\n[G]Suntalimai [Em]ma pani jhilke\n[D]hudo ho [C]Maaryo ni [D]mayale\n[Em]maaryo\n\n[Solo]\n[Em]\n\n[Verse 2]\n[G]Sindhuli gadhi [Em]ghumera hidda\n[G]Sindhuli gadhi [Em]ghumera hidda\n[G]Suntalimai [Em]katimaa ramro\n[D]dur bar [C]Maaryo ni [D]mayale\n[Em]maaryo\n[G]Suntalimai [Em]katimaa ramro\n[D]dur bar [C]Maaryo ni [D]mayale\n[Em]maaryo\n\n[Outro]\n[Em]\nOh\nMaaryo ni mayale maaryo\nOh\nMaaryo ni mayale maaryo\nOh\nMaaryo ni mayale maaryo\nOh\nMaaryo ni mayale maaryo",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sindhuli Gadhi",
+  "id": "1d7c0d44b80faaa347e3ef4a76a3e308396300f7ac59a37ab14532a1bff12366",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 224,
+  "normalizedKey": "neetesh jung kunwar|sindhuli gadhi",
+  "playableChords": [
+    "Em",
+    "G",
+    "D",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 30,
+      "name": "Solo"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1d7c0d44b80faaa347e3ef4a76a3e308396300f7ac59a37ab14532a1bff12366",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Sindhuli Gadhi",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

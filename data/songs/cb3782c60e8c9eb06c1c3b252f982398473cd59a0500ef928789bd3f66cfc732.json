@@ -1,0 +1,138 @@
+{
+  "artist": "Nightwish",
+  "artistNormalized": "nightwish",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Em]\n[Am]\n[C]\n[D]\n[Em]\n\n[Verse 1]\n[Em]One\nmore\nnight\nTo\n[Am]bear\nthis\nnightmare\n[C]What\nmore do\n[D]I\nhave to\n[Em]say\n\n[Verse 2]\n[Em]Cry-\ning for\nme\nwas\n[Am]never\nworth a\ntear\nMy\n[C]lonely\nsoul is\n[D]only\nfilled with\n[Em]fear\n\n[Pre-Chorus]\n[Am]Long\nhours of\n[Em]loneli-\nness\n[D]Between\n[Am]me and the\n[Em]sea\n\n[Chorus]\n[Em]Losing\ne-\n[D]motion\n[C]Finding\nde-\n[D]votion\n[G]Should I dress in\nwhite and search the\n[D]sea As I\nalways wished to\n[Em]be\n[C]One with the\n[D]waves\n[Bm]Ocean\n\n[Verse 3]\n[Em]Wal-\nking the\ntideline\nI\n[Am]hear your name\nIs\nangels wispering\n[C]Something\nso\n[D]beautiful\nit hurts\n[Em]\n\n[Pre-Chorus]\n[Am]Long\nhours of\n[Em]loneli-\nness\n[D]Between\n[Am]me and the\n[Em]sea\n\n[Verse 4]\n[Em]I\nonly\nwished\nto be-\n[Am]come some-\nthing\nbeautiful\n[C]Through my\nmusic,\n[D]through my\nsilent de-\n[Em]votion\n\n[Chorus]\n[Em]Losing\ne-\n[D]motion\n[C]Finding\nde-\n[D]votion\n[G]Should I dress in\nwhite and search the\n[D]sea As I\nalways wished to\n[Em]be\n[C]One with the\n[D]waves\n[Bm]Ocean\n\n[Outro]\n[Em]Losing\ne-\n[D]motion\n[C]Finding\nde-\n[D]votion\n[G]Should I dress in\nwhite and search the\n[D]sea As I\nalways wished to\n[Em]be\n[C]One with the\n[D]waves\n[Bm]Ocean\n[Em]Soul",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ocean Soul",
+  "id": "cb3782c60e8c9eb06c1c3b252f982398473cd59a0500ef928789bd3f66cfc732",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 220,
+  "normalizedKey": "nightwish|ocean soul",
+  "playableChords": [
+    "Em",
+    "Am",
+    "C",
+    "D",
+    "G",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 90,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 98,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 115,
+      "name": "Chorus"
+    },
+    {
+      "measure": 132,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cb3782c60e8c9eb06c1c3b252f982398473cd59a0500ef928789bd3f66cfc732",
+    "version": "BCFZ"
+  },
+  "tempo": 144,
+  "title": "Ocean Soul",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

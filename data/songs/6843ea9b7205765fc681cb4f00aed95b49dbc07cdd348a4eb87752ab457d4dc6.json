@@ -1,0 +1,104 @@
+{
+  "artist": "Nirvana",
+  "artistNormalized": "nirvana",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E5]\n[E5]\n[E5]\n[E5]\n[E5]\n[E5]\n[E5]\n[E5]\n\n[Verse 1]\n[E5]Won't you believe it? It's just my luck\n[E5]Won't you believe it? It's just my luck\n[E5]Won't you believe it? It's just my luck\n[E5]Won't you believe it? It's just my luck\n\n[Chorus]\n[C][A5]No recess!\n[E5][D]No reces-\n[C]s! [A5]No recess!\n\n[Bridge]\n[E5]\n[E5]\n\n[Verse 2]\n[E5]Won't you believe it? It's just my luck\n[E5]Won't you believe it? It's just my luck\n[E5]Won't you believe it? It's just my luck\n[E5]Won't you believe it? It's just my luck\n\n[Chorus]\n[C][A5]No recess!\n[E5][D]No reces-\n[C]s! [A5]No recess!\n\n[Solo]\n[E5]\n[E5]\n[E5]\n[E5]\n[E5]\n[E5]\n[E5]\n[E5]\n[E5]\n[E5]\n[E5]\n[E5]\n\n[Verse 3]\n[E5]You're in high school a ga in.\n[E5]You're in high school a ga in.\n[E5]You're in high school a ga in.\n[E5]You're in high school a ga in.\n[E5]You're in high school a ga in.\n[E5]You're in high school a ga in.\n[E5]You're in high school a ga in.\n[E5]You're in high school a ga -\n\n[Chorus]\n[C]in. [A5]No recess!\n[E5][D]No reces-\n[C]s! [A5]No recess!\n[E5][D]No reces-\n[C]s! [A5]No recess!\n[E5][D]No reces-\n[C]s! [A5]No recess!",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x3555x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "School *alt",
+  "id": "6843ea9b7205765fc681cb4f00aed95b49dbc07cdd348a4eb87752ab457d4dc6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 201,
+  "normalizedKey": "nirvana|school",
+  "playableChords": [
+    "E5",
+    "C",
+    "A5",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Bridge"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Solo"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6843ea9b7205765fc681cb4f00aed95b49dbc07cdd348a4eb87752ab457d4dc6",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "School",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

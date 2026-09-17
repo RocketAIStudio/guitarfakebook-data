@@ -1,0 +1,132 @@
+{
+  "artist": "Nasum",
+  "artistNormalized": "nasum",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 8,
+  "content": "[Theme 1]\n[F#5][G5]Inhale [C5][G5]exhale\n[F#5][G5]Inhale, [C5][G5]exhale\n[F#5][G5]Inhale, [C5][G5]exhale\n[F#5][G5]Inhale, [C5][G5]exhale\n\n[Theme 2]\n[D5]Aaah! [C#5][D5][C#5][B5]\n[D5]  [C#5]  [D5]  [C#5]  [B5]\n[D5]Aaah! [C#5][D5][C#5][B5]\n[D5]  [C#5]  [D5]  [C#5]  [B5]\n\n[Theme 1]\n[F#5][G5]Inhale [C5][G5]exhale\n[F#5][G5]Inhale, [C5][G5]exhale\n[F#5][G5]Inhale, [C5][G5]exhale\n[F#5][G5]Inhale, [C5][G5]exhale\n\n[Theme 2]\n[D5]Aaah! [C#5][D5][C#5][B5]\n[D5]  [C#5]  [D5]  [C#5]  [B5]\n[D5]Aaah! [C#5][D5][C#5][B5]\n[D5]  [C#5]  [D5]  [C#5]  [B5]\n\n[Break]\n[B5]\n\n[Theme 3]\n[B5]\n\n[Theme 4]\n[A5][F#5][F#5][G#5][B5]You breathe to live\n[A5][F#5][F#5][G#5][B5]You breathe you die\n[A5][F#5][F#5][G#5][B5]You breathe to live\n[A5][F#5][F#5][G#5][B5]You breathe you die\n\n[Theme 3]\n[B5]\n\n[Theme 4]\n[A5][F#5][F#5][G#5][B5]You breathe to live\n[A5][F#5][F#5][G#5][B5]You breathe you die\n[A5][F#5][F#5][G#5][B5]You breathe to live\n[A5][F#5][F#5][G#5][B5]You breathe you die\n\n[Theme 1]\n[F#5][G5]Inhale [C5][G5]exhale\n[F#5][G5]Inhale, [C5][G5]exhale\n[F#5][G5]Inhale, [C5][G5]exhale\n[F#5][G5]Inhale, [C5][G5]exhale\n\n[Theme 2]\n[D5]Aaah! [C#5][D5][C#5][B5]\n[D5]  [C#5]  [D5]  [C#5]  [B5]\n[D5]Aaah! [C#5][D5][C#5][B5]\n[D5]  [C#5]  [D5]  [C#5]  [B5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Inhale / Exhale",
+  "id": "efdf4a00a117390d80918dffcc01943b1ee02826ec2db1030ccd032cb0fa10a7",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 86,
+  "normalizedKey": "nasum|inhale exhale",
+  "playableChords": [
+    "G5",
+    "F#5",
+    "C5",
+    "D5",
+    "C#5",
+    "B5",
+    "A5",
+    "G#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Theme 1"
+    },
+    {
+      "measure": 5,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 9,
+      "name": "Theme 1"
+    },
+    {
+      "measure": 13,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 17,
+      "name": "Break"
+    },
+    {
+      "measure": 18,
+      "name": "Theme 3"
+    },
+    {
+      "measure": 22,
+      "name": "Theme 4"
+    },
+    {
+      "measure": 26,
+      "name": "Theme 3"
+    },
+    {
+      "measure": 30,
+      "name": "Theme 4"
+    },
+    {
+      "measure": 34,
+      "name": "Theme 1"
+    },
+    {
+      "measure": 38,
+      "name": "Theme 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "efdf4a00a117390d80918dffcc01943b1ee02826ec2db1030ccd032cb0fa10a7",
+    "version": "BCFZ"
+  },
+  "tempo": 113,
+  "title": "Inhale / Exhale",
+  "tuning": "B E A D F# B",
+  "variantRole": "primary"
+}

@@ -1,0 +1,141 @@
+{
+  "artist": "Neil Young",
+  "artistNormalized": "neil young",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Bm]\n[E]\n[Bm]\n[E]\n[Bm]\n[E]\n[Bm]\n[E]\n[C#m]\n[F#7]\n[Bm]\n[E]\n\n[Verse 1]\n[A]Think I'll pack it in And\n[Bm]buy a pickup\n[E]Take it down to \"L. A.\"\n[A]\nFind a place to call my own\n[Bm]And try to fix up\n[E]Start a brand new day\n[A]\n\n[Pre-Chorus]\n[A]The woman I'm thinking of She\n[Bm]loved me all up\n[E]But I'm so down today\n[A]\nShe's so fine, she's in my mind\n[Bm]I hear her calling\n[E]\n\n[Chorus]\n[A]See the lonely boy\n[D6/A]Out on the weekend\n[Dmaj7/A]Trying to make it [A]pay\nCan't relate to joy\n[D6/A]He tries to speak and\n[Dmaj7/A]Can't begin to [A]say\n\n[Break]\n[Bm]\n[E]\n[Bm]\n[E]\n[C#m]\n[F#7]\n[Bm]\n[E]\n\n[Verse 2]\n[A]She got pictures on the wall\n[Bm]They make me look up\n[E]From her big brass bed\n[A]\nNow I'm running down the road\n[Bm]Trying to stay up\n[E]Somewhere in her head\n[A]\n\n[Pre-Chorus]\n[A]The woman I'm thinking of She\n[Bm]loved me all up\n[E]But I'm so down today\n[A]\nShe's so fine, she's in my mind\n[Bm]I hear her calling\n[E]\n\n[Chorus]\n[A]See the lonely boy\n[D6/A]Out on the weekend\n[Dmaj7/A]Trying to make it [A]pay\nCan't relate to joy\n[D6/A]He tries to speak and\n[Dmaj7/A]Can't begin to [A]say\nOh\n\n[Break]\n[Bm]\n[E]\n[Bm]\n[E]\n[C#m]\n[F#7]\n[Bm]\n[E]\n\n[Outro (Fade Out)]\n[A]\n[Bm]\n[E]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D6/A": {
+      "catalog": [
+        "x67777"
+      ],
+      "catalogCount": 1
+    },
+    "Dmaj7/A": {
+      "catalog": [
+        "x67779"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Out On The Weekend *alt",
+  "id": "413e7e8bfcaabe456575ad1acd83872b79e867cb03ce17ae28d924c0596c6d26",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 187,
+  "normalizedKey": "neil young|out on the weekend",
+  "playableChords": [
+    "Bm",
+    "E",
+    "C#m",
+    "F#7",
+    "A",
+    "D6/A",
+    "Dmaj7/A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Break"
+    },
+    {
+      "measure": 44,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 52,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Break"
+    },
+    {
+      "measure": 75,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "413e7e8bfcaabe456575ad1acd83872b79e867cb03ce17ae28d924c0596c6d26",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "Out On The Weekend",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

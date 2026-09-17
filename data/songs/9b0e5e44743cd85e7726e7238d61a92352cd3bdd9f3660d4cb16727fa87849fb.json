@@ -1,0 +1,76 @@
+{
+  "artist": "Nasum",
+  "artistNormalized": "nasum",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[B5]This [C5]is [D5]what [C5]it\n[D5]all [Eb5][C5]about [D5]\n[B5]This [C5]is [D5]why [C5]we\n[D5]play [C5][Eb5][D5]\n[B5]Whis [C5]is [D5]why [C5]we\n[D5]make [C5]your [Eb5]day [D5]\n[B5]This [C5]is [D5]it... [C5]\n[Eb5]\n\n[Chorus]\n[B5]\n\n[Verse 2]\n[B5]This [C5]is [D5]what [C5]it\n[D5]all [Eb5][C5]about [D5]\n[B5]This [C5]is [D5]why [C5]we\n[D5]play [C5][Eb5][D5]\n[B5]Whis [C5]is [D5]why [C5]we\n[D5]make [C5]your [Eb5]day [D5]\n[B5]This [C5]is [D5]it... [C5]\n[Eb5]\n\n[Chorus]\n[B5]",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "111xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "444xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "This is...",
+  "id": "9b0e5e44743cd85e7726e7238d61a92352cd3bdd9f3660d4cb16727fa87849fb",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 44,
+  "normalizedKey": "nasum|this is",
+  "playableChords": [
+    "B5",
+    "C5",
+    "D5",
+    "Eb5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9b0e5e44743cd85e7726e7238d61a92352cd3bdd9f3660d4cb16727fa87849fb",
+    "version": "BCFZ"
+  },
+  "tempo": 252,
+  "title": "This is...",
+  "tuning": "B F# B E G# C#",
+  "variantRole": "primary"
+}

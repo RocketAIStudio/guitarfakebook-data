@@ -1,0 +1,121 @@
+{
+  "artist": "Never Shout Never",
+  "artistNormalized": "never shout never",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Verse 1]\n[D]Thirty days till Christmas and all\nI know Is I'm not\n[Asus4]quite ready to\nlet go of this past\n[Em7]year I have\nso much to show\n[G6]\n[D]One more month and all\nI need Is a sign\n[Asus4]from you, That you think\nof me If you don't\n[Em7]\nThen please just say\n[G6]so'.\nCause\n[Asus4]all I\ndo, is\n[A]think of\nyou. And it's\n\n[Chorus]\n[D]wearing me out, it's\nwearing me down. This\n[Em7]holiday, is\nnothing but frowns for me,\n[G6]\nBut I've got a gift,\n[Em7]you see\n[Asus4]I'm\n[D]making a list, hell, I'll\ncheck it twice Of\n[Em7]all the things you've\ndone in my life\n[G6]\nAnd I'll send it your way\n[Em7]So you see\n[Asus4]why [A]I love you.\n\n[Bridge]\n[D]\n[Asus4]\n[Em7]\n[G6]\n\n[Verse 2]\n[D]Who would've thought that someone like me Could've\nfallen in love so easily. I\n[Asus4]know that you know that I know what I want, I\nknow I can't have it but give it a thought I\n[Em7]know that it sounds\ncrazy, baby But\n[G6]all I do is\nthink of you.\n[A]It's\n\n[Chorus]\n[D]wearing me out, it's wea-\nring me down. This\n[Asus4]holiday, is\nnothing but frowns for me,\n[Em7]\nBut I've got a gift,\n[G6]you see\n[Asus4]I'm\n[D]making a list, hell, I'll\ncheck it twice Of\n[Asus4]all the things you've\ndone in my life\n[Em7]\nAnd I'll send it your\n[G6]way So you see\n[Asus4]why I love...\n\n[Verse 3]\n[G]Everything you throw\nmy way I know it's\n[D/A]hard to say, but it's a\ncrying shame That I came\n[Em7]all this way, with\nso much to say But\n[Asus4]all that came out was \"happy\nholiday\". A\n[G]home cooked meal and a nice\nwarm bed, Some-\n[D/A]body who love a place to\nlay my head. But I got\n[Em7]30 days and I'll\nmake them count Cause I can't\n[Asus4]call it Christmas Without\n[A]someone to smile about.\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x00232"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320030"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "30 Days",
+  "id": "03a3f82cb1666451ca656ed1e0f710f3c416bd4f806cf85581f4fb100f7972e1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 326,
+  "normalizedKey": "never shout never|30 days",
+  "playableChords": [
+    "D",
+    "Asus4",
+    "Em7",
+    "G6",
+    "A",
+    "G",
+    "D/A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "03a3f82cb1666451ca656ed1e0f710f3c416bd4f806cf85581f4fb100f7972e1",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "30 Days",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

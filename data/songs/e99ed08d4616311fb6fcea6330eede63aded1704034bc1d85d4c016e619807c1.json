@@ -1,0 +1,105 @@
+{
+  "artist": "Nirvana",
+  "artistNormalized": "nirvana",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n\n[Verse 1]\n[C]Mom and [F]dad went\n[C]to [Am]a show\n[C]They dropped me [F]off at\n[Am][C]Grandpa Joe's\n[C]I kicked and [F]screamed, said\n[C]please, [Am]don't go\n\n[Chorus]\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n\n[Verse 2]\n[C]Had to [F]eat my\n[Am][C]dinner there\n[C]Mashed [F]potatoes and\n[C]stuff [Am]like that\n[C]I couldn't [F]chew my\n[C]meat [Am]too good\n\n[Chorus]\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n\n[Verse 3]\n[C]She said why [F]don't you\n[C]stop [Am]your crying\n[C]Go [F]outside and\n[C]ride [Am]your bike\n[C]That's what I [F]did, I\n[C]killed [Am]my toe\n\n[Chorus]\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n\n[Verse 4]\n[C]After [F]dinner I\n[C]had [Am]ice cream\n[C]I fell [F]asleep and\n[C]watched [Am]TV\n[C]I woke up [F]in my\n[Am][C]mother's arms...\n\n[Chorus]\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n\n[Outro]\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home\n[Am]Grandma take me [C]home I\n[Am]wanna be [C]alone",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sliver *alt",
+  "id": "e99ed08d4616311fb6fcea6330eede63aded1704034bc1d85d4c016e619807c1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 331,
+  "normalizedKey": "nirvana|sliver",
+  "playableChords": [
+    "C",
+    "F",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e99ed08d4616311fb6fcea6330eede63aded1704034bc1d85d4c016e619807c1",
+    "version": "BCFZ"
+  },
+  "tempo": 133,
+  "title": "Sliver",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

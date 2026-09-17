@@ -1,0 +1,119 @@
+{
+  "artist": "Noah Gundersen",
+  "artistNormalized": "noah gundersen",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Bm]  [A]\n[D]  [A7]  [D]\n[G]  [A]\n[Bm]  [A]\n[D]  [A7]  [D]\n[G]  [A]\n[Bm]  [A]\n\n[Verse 1]\n[D]Death is coming, carried on hi-\n[A]s crooked wings\n[G]I can't do anything\n[Bm]Death is coming, carried on hi-\n[A]s crooked wings\n[G]I can't do anything\nHold onto\nwhat you've got [D]\n[G]Put a lock on the door,\ndouble [A]the knot [Bm][A]\n\n[Interlude]\n[D]  [A7]  [D]\n[G]  [A]\n[Bm]  [A]\n\n[Verse 2]\n[D]Love is coming, coming for to\n[A]carry me\n[G]I don't know anything\n[Bm]Love is coming, coming fo-\n[A]r to carry me\n[G]I don't know anything\n\n[Chorus]\n[G]Send the rain,\n[A]send my love\n[D]Send my love\n[G]to everyone\nSend the rain,\n[A]send my love\n[D]Send my love\n[Bm]to [A]everyone [Bm][A]\n\n[Interlude]\n[D]  [A7]  [D]\n[G]  [A]\n[Bm]  [A]\n[D]  [A7]  [D]\n[G]  [A]\n[Bm]  [A]\n\n[Chorus]\n[G]Send the rain,\n[A]send my love\n[D]Send my love\n[G]to everyone\nSend the rain,\n[A]send my love\n[D]Send my love\n[Bm]to [A]everyone\n[G]Send the rain,\n[A]send my love\n[D]Send my love\n[G]to everyone\nSend the rain,\n[A]send my love\n[D]Send my love\n[Bm]to [A]everyone [Bm][A]\n\n[Outro]\n[D]  [A7]  [D]\n[G]To everyone [A]\n[Bm]  [A]\n[D]To [D][A7]everyone\n[G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Send The Rain (To Everyone)",
+  "id": "bf3ba2f890bc13d7492c5b425a7355b5e41c8839401ee6db823333200777059e",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 173,
+  "normalizedKey": "noah gundersen|send the rain to everyone",
+  "playableChords": [
+    "Bm",
+    "A",
+    "D",
+    "A7",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Interlude"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bf3ba2f890bc13d7492c5b425a7355b5e41c8839401ee6db823333200777059e",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "Send The Rain (To Everyone)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,106 @@
+{
+  "artist": "Mitski",
+  "artistNormalized": "mitski",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D5]\n\n[Verse 1]\n[F#5]I [D5]don't know what to\n[B5]do without [A5]you\n[F#5]I [D5]don't know where to\n[B5]put my [A5]hands\n[F#5]I've [D5]been trying to\n[B5]lay my head [A5]down\n[D5]But I'm [F#5]writing [G5]this at\n[D5][A5]3am\n\n[Chorus]\n[G5]I don't [A5]need the\n[D5]world [F#5]to [G5]see That I've\n[G5]been the [A5]best I can\n[D5]be, [F#5]but\n[G5]I don't [A5]think I could\n[D5]stand [F#5]to [G5]be Where\nyou don't [A5]see\n\n[Bridge]\n[F#5]me [D5][F#5][D5]\n[G5]  [D5]\n[B5]  [D5]  [B5]  [D5]\n[A5]  [D5]  [F#5]\n[F#5]  [D5]  [F#5]  [D5]\n[G5]  [D5]\n[B5]  [D5]  [B5]  [D5]\n[A5]\n\n[Verse 2]\n[F#5]On [D5]sunny days I\n[B5]go out [A5]walking\n[F#5]I [D5]end up on a\n[B5]tree-lined [A5]street\n[F#5]I [D5]look up at the\n[B5]gaps of [A5]sunlight\n[D5]I [F#5]miss you [G5]more than\n[D5][A5]anything\n\n[Chorus]\n[G5]I don't [A5]need the\n[D5]world [F#5]to [G5]see That I've\n[G5]been the [A5]best I can\n[D5]be, [F#5]but\n[G5]I don't [A5]think I could\n[D5]stand [F#5]to [G5]be Where\n[G5]you don't [A5]see\n[E5]me And\n\n[Solo]\n[G5]autumn [A5]comes when you're\n[D5]not [F#5]yet [G5]done With the\n[G5]summer [A5]pas sing\n[D5]by, [F#5]but\n[G5]I don't [A5]think I could\n[D5]stand [F#5]to [G5]be Where\n[G5]you don't [A5]see\n\n[Outro]\n[F#5]me [D5][F#5][D5]\n[G5]  [D5]\n[B5]  [D5]  [B5]  [D5]\n[A5]  [D5]\n[F#5]  [D5]  [F#5]  [D5]\n[G5]  [D5]\n[B5]  [D5]  [B5]  [D5]\n[A5]  [D5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "999xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "444xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Francis Forever",
+  "id": "24b0793bc34caa437d610681b16fca33e6583f1fd081c2f073a615811f04c168",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 158,
+  "normalizedKey": "mitski|francis forever",
+  "playableChords": [
+    "D5",
+    "F#5",
+    "B5",
+    "A5",
+    "G5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Solo"
+    },
+    {
+      "measure": 50,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "24b0793bc34caa437d610681b16fca33e6583f1fd081c2f073a615811f04c168",
+    "version": "BCFZ"
+  },
+  "tempo": 103,
+  "title": "Francis Forever",
+  "tuning": "D A D F# A D",
+  "variantRole": "primary"
+}

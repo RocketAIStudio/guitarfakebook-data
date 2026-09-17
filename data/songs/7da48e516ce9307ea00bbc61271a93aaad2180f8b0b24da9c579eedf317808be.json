@@ -1,0 +1,160 @@
+{
+  "artist": "Misc Cartoons",
+  "artistNormalized": "misc cartoons",
+  "capo": "No capo",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 12,
+  "content": "[Intro]\n[C#m]\n[G#]\n[C#m]\n\n[Verse]\n[C#m]Led through the mist\n[G#m]By the\n[F#m]milk-light of moon\n[C#m]All that was\n[G#]lost is re-\n[C#m]vealed\n[G#]Our\n[C#m]long bygone burdens\n[G#m]Mere\n[A#dim]echoes of the\n[G#]spring But\n[F#m]where have we\n[C#m]come? And\n[A#dim]where shall we\n[G#]end? If\n[F#m]dreams can't come\n[C#m]true Then\n[D]why not pre-\n[C#m]tend?\n[G#]\n\n[Chorus]\n[C#]How the gentle\n[A#/D]wind\n[F#]Beckons through the\n[G#]leaves As\n[C#]Autumn\n[F]colors\n[F#]fall\n[A#]\n[D#m]Dancing in a\n[G#]swirl Of\n[C#]golden memo-\n[A#]ries The\n[D#m]loveliest\n[G#]lies Of\n[C#]all\n[G#]\n\n[Bridge]\n[C#]\n[A#/D]\n[F#]\n[G#]\n[C#]\n[F]\n[F#]\n[A#]\n[D#m]\n[G#]\n[C#]\n[A#]\nThe\n[D#m]loveliest\n[G#]lies Of\n\n[Outro]\n[C#]all\n[F#]\n[C#]",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "x13331"
+      ],
+      "catalogCount": 1
+    },
+    "A#/D": {
+      "catalog": [
+        "xx0331"
+      ],
+      "catalogCount": 1
+    },
+    "A#dim": {
+      "catalog": [
+        "x12320"
+      ],
+      "catalogCount": 1
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "x68876"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Over The Garden Wall - Into The Unknown",
+  "id": "7da48e516ce9307ea00bbc61271a93aaad2180f8b0b24da9c579eedf317808be",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 87,
+  "normalizedKey": "misc cartoons|over the garden wall into the unknown",
+  "playableChords": [
+    "C#m",
+    "G#",
+    "G#m",
+    "F#m",
+    "A#dim",
+    "D",
+    "C#",
+    "A#/D",
+    "F#",
+    "F",
+    "A#",
+    "D#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Bridge"
+    },
+    {
+      "measure": 58,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7da48e516ce9307ea00bbc61271a93aaad2180f8b0b24da9c579eedf317808be",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Over The Garden Wall - Into The Unknown",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

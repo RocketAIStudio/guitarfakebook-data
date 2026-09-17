@@ -1,0 +1,123 @@
+{
+  "artist": "Motorama",
+  "artistNormalized": "motorama",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\n[Em]\n[Am]\n[Em]\n\n[Verse 1]\n[Am]You see\nlife in these ruins\nBut I\nfind it hard to be-\n[Em]lieve\nIn places where your\n[Am]heart bleeds\nSo hard to find the\nspace\nWhere we can lie down\n[Em]quietly\n\n[Chorus]\n[C]Feelings change in\na one moment\nOn the way to\nour place of\n[Am]birth\n[C]Words are slowly turning\nto the snow\nOn the way to\nour place of\n[Am]birth\n[G]Cold winds are shaking\nthe high trees\nAnd it's so easy\nto for-\n[F]get our names\n\n[Interlude]\n[Am]\n[Em]\n[Am]\n[Em]\n\n[Verse 2]\n[Am]You see\nlife in these ruins\nBut I\nfind it hard to be-\n[Em]lieve\nTogether we can\n[Am]run far\nTogether we will\nfall\nTogether we will\n[Em]fade away\n\n[Chorus]\n[C]Words are slowly turning\nto the snow\nOn the way to\nour place of\n[Am]birth\n[C]Feelings change in\na one moment\nOn the way to\nour place of\n[Am]birth\n[G]Cold winds are shaking\nthe high trees\nAnd it's so easy\nto for-\n[F]get our names\n\n[Verse 3]\n[G]Love is a perfect\nache And I\nhear the sound of\npiano when you are\n[F]calling me\n\n[Chorus]\n[C]Feelings change in\na one moment\nOn the way to\nour place of\n[Am]birth\n[C]Words are slowly turning\nto the snow\nOn the way to\nour place of\n[Am]birth\n\n[Outro]\n[C]\n[Am]\n[C]\n[Am]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x0221x",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x3201x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "02200x",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "13321x",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "3200xx",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "One Moment",
+  "id": "797cdf98590132c87f2a79e5ef0271362d1a53bd86453e4b9756bb66fba4ee17",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 218,
+  "normalizedKey": "motorama|one moment",
+  "playableChords": [
+    "Am",
+    "Em",
+    "C",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Interlude"
+    },
+    {
+      "measure": 75,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 91,
+      "name": "Chorus"
+    },
+    {
+      "measure": 115,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 123,
+      "name": "Chorus"
+    },
+    {
+      "measure": 139,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "797cdf98590132c87f2a79e5ef0271362d1a53bd86453e4b9756bb66fba4ee17",
+    "version": "BCFZ"
+  },
+  "tempo": 164,
+  "title": "One Moment",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

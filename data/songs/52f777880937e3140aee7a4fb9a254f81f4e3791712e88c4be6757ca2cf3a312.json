@@ -1,0 +1,157 @@
+{
+  "artist": "Neil Young",
+  "artistNormalized": "neil young",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Fmaj7]\n[D]\n[Fmaj7]\n[D]\n\n[Verse 1]\n[Fmaj7]Old man look at my life\nI'm a lot like\n[D]you were.\n[Fmaj7]Old man look at my life,\nI'm a lot like\n\n[Interlude]\n[D]you were [Fmaj7]\n[C]  [G]\n[D]  [Fmaj7]\n[C]  [F]\n\n[Verse 2]\n[D]Old man [Fmaj7]look at my life,\n[C]Twenty four and there's [G]so much more\n[D]Live alone in a [Fmaj7]pa ra dise That\n[C]makes me think of [F]two\n[D]Love lost, [Fmaj7]such a cost.\n[C]Give me things that [G]don't get lost\n[D]Like a coin that [C]won't get tossed\n[F]Rol ling home to you [G]\n\n[Pre chorus]\n[D]\n[Am7]  [Em7]  [G]\n\n[Chorus]\n[D]Old man take a look at my life I'm a lot\n[Am7]like [Em7]you [G]\n[D]I need some one to love me The whole\n[Am7]day [Em7]through [G]\n[D]Ah, one look in my eyes And you can\n[Am7]tell that's [Em7]true [G]\n\n[Post Chorus]\n[D]  [Fmaj7]\n[C]  [G]\n[D]  [Fmaj7]\n[C]  [F]\n\n[Verse 3]\n[D]Lull abi es [Fmaj7]look in your eyes,\n[C]Run around the same [G]old town.\n[D]Doesn't mean that [Fmaj7]much to me\n[C]To mean that much to you [F]\n[D]I've been [Fmaj7]first and last\n[C]Look at how the [G]time goes past\n[D]But I'm all alo [C]ne at last.\n[F]Rol ling home to you [G]\n\n[Pre Chorus]\n[D]\n[Am7]  [Em7]  [G]\n\n[Chorus]\n[D]\n[Am7]  [Em7]  [G]\n[D]\n[Am7]  [Em7]  [G]\n[D]\n[Am7]tell that's [Em7]true [G]\n\n[Bridge]\n[Fmaj7]\n[D]\n\n[Verse 4]\n[Fmaj7]Old man look at my life\nI'm a lot like\n[D]you were.\n[Fmaj7]Old man look at my life,\nI'm a lot like\n[D]you were [Fmaj7]\n[C]  [G]\n[D]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "xx3210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Old Man",
+  "id": "52f777880937e3140aee7a4fb9a254f81f4e3791712e88c4be6757ca2cf3a312",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 186,
+  "normalizedKey": "neil young|old man",
+  "playableChords": [
+    "Fmaj7",
+    "D",
+    "C",
+    "G",
+    "F",
+    "Am7",
+    "Em7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Interlude"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Pre chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Post Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 44,
+      "name": "Pre Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Bridge"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "52f777880937e3140aee7a4fb9a254f81f4e3791712e88c4be6757ca2cf3a312",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "Old Man",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

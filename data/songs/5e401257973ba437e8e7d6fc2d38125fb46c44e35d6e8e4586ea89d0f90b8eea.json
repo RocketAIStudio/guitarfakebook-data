@@ -1,0 +1,118 @@
+{
+  "artist": "Misc Christmas",
+  "artistNormalized": "misc christmas",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F]\n[Gm]\n[F]  [C]\n[F]O\n\n[Verse 1]\n[F]little town of\n[Gm]Bethlehem How\n[F]still we [C]see thee\n[F]lie! A-\nbove thy [D]deep and\n[Gm]dreamless sleep The\n[F]silent [C]stars go\n[F]by Yet\nin the [Gm]dark street\n[A]shineth The\n[Dm]everlasting\n[A]Light The\n[F]hopes and fears of\n[Gm]all the years Are\n[F]met in [C]thee to-\n[F]night For\n\n[Verse 2]\n[F]Christ is born of\n[Gm]Mary And\n[F]gathered [C]all a-\n[F]bove While\nmortals [D]sleep, the\n[Gm]angels keep Their\n[F]watch of [C]wondering\n[F]love O\nmorning [Gm]stars, to-\n[A]gether Proc-\n[Dm]laim the holy\n[A]birth And\n[F]praises sing to\n[Gm]God, the King And\n[F]peace to [C]men on\n[F]earth How\n\n[Verse 3]\n[F]silently, how\n[Gm]silently The\n[F]wondrous [C]Gift is\n[F]given! So\nGod [D]imparts to\n[Gm]human hearts The\n[F]blessings [C]of His\n[F]heaven No\near may [Gm]hear His\n[A]coming But\n[Dm]in this world of\n[A]sin Where\n[F]meek souls will re-\n[Gm]ceive Him still The\n[F]dear Christ [C]enters\n[F]in O\n\n[Verse 4]\n[F]holy Child of\n[Gm]Bethlehem Des-\n[F]cend to [C]us, we\n[F]pray Cast\nout our [D]sin and\n[Gm]enter in Be\n[F]born in [C]us to-\n[F]day We\nhear the [Gm]Christmas\n[A]angels The\n[Dm]great glad tidings\n[A]tell Oh,\n[F]come to us, a-\n[Gm]bide with us Our\n[F]Lord [C]Immanu-\n[F]el!",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "O Little Town of Bethlehem",
+  "id": "5e401257973ba437e8e7d6fc2d38125fb46c44e35d6e8e4586ea89d0f90b8eea",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 219,
+  "normalizedKey": "misc christmas|o little town of bethlehem",
+  "playableChords": [
+    "F",
+    "Gm",
+    "C",
+    "D",
+    "A",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5e401257973ba437e8e7d6fc2d38125fb46c44e35d6e8e4586ea89d0f90b8eea",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "O Little Town of Bethlehem",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,129 @@
+{
+  "artist": "My Chemical Romance",
+  "artistNormalized": "my chemical romance",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E]\nWell they en-\n\n[Verse 1]\n[E]courage your complete coope-\n[F#]ration Send you\n[B]roses when they think you need to\n[E]smile [B][E]I\n[C#m]can't control myself because I\n[F#m]don't know how, And they\n[B]love me for it honestly, I'll\nbe here for a while So give them\n\n[Chorus]\n[E]blood, blood,\n[F#]gallons of the stuff Give them\n[B]all that they can drink and it will\n[E]never be enough So give them\n[E]blood, [Emaj7]blood,\n[A]blood Grab a\n[B]glass because there's going to be a\n[E]flood A\n\n[Verse 2]\n[E]celebrated man amongst the\n[F#]gurneys They can\n[B]fix me proper with a bit of\n[E]luck [B][E]The\n[C#m]doctors and the nurses they a-\n[F#m]dore me so, But it's\n[B]really quite alarming cause I'm\nsuch an awful fuck\nI gave you\n\n[Chorus]\n[E]blood, blood,\n[F#]gallons of the stuff, I gave you\n[B]all that you can drink and it has\n[E]never been enough I gave you\n[E]blood, [Emaj7]blood,\n[A]blood,\nI'm\nthe\n[B]kind of human wreckage that you\n[E]love",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Emaj7": {
+      "catalog": [
+        "022444",
+        "0-2-1-1-0-0",
+        "x-x-2-4-4-4",
+        "x-7-6-4-4-4",
+        "x-7-9-8-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Blood",
+  "id": "6b853e515acfceb66a0fc4a15cbf3a49fca529633e460e308d01718603156b9b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 186,
+  "normalizedKey": "my chemical romance|blood",
+  "playableChords": [
+    "E",
+    "F#",
+    "B",
+    "C#m",
+    "F#m",
+    "Emaj7",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6b853e515acfceb66a0fc4a15cbf3a49fca529633e460e308d01718603156b9b",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Blood",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,124 @@
+{
+  "artist": "MGMT",
+  "artistNormalized": "mgmt",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n\n[Verse 1-1]\n[D]I'm feeling rough, I'm feeling\n[G]raw, I'm in the prime of my life.\n[D]\nLet's make some music, make some\n[G]money, find some models for wives.\n\n[Verse 1-2]\n[D]I'll move to Paris, shoot some\n[G]heroin, and fuck with the stars.\n[D]\nYou man the island and the co-\n[G]caine and the elegant cars.\n[D]\n\n[Pre-Chorus 1-1]\n[G]This is our decision, to\nlive fast and die young.\nWe've got the vision,\nnow let's have some\n[D]fun.\n\n[Pre-Chorus 1-2]\n[G]Yeah, it's overwhelming, but\nwhat else can we do.\nGet jobs in offices, and\nwake up for the morning com-\n[D]mute\n\n[Bridge]\n[A]Forget about our\nmothers and our friends\n[D/F#]We're\n[G]fated to pretend\n\n[Chorus 1]\n[D]\n[G]To pretend\n[D]We're\n[G]fated to prete-\n[D]nd\n[G]To pretend\n[D]\n[G]\n\n[Verse 2-1]\n[D]I'll miss the playgrounds and the\n[G]animals and digging up worms\n[D]\nI'll miss the comfort of my\n[G]mother and the weight of the world\n[D]\n\n[Verse 2-2]\n[D]I'll miss my sister, miss my\n[G]father, miss my dog and my home\n[D]\nYeah,\nI'll miss the boredom and the\n[G]freedom and the time spent alone.\n[D]\n\n[Pre-Chorus 2-1]\n[G]There's really nothing,\nnothing we can do Love\nmust be forgotten,\nlife can always start up anew.\n[D]\n\n[Pre-Chorus 2-2]\n[G]The models will have children, we'll\nget a divorce\nWe'll find some more models,\neverything must run it's course.\n[D]\nWe'll\n\n[Bridge]\n[A]choke on our vomit and\nthat will be the end\n[D/F#]We were\n[G]fated to pretend\n\n[Chorus 2]\n[D]\n[G]To pretend\n[D]We're\n[G]fated to prete-\n[D]nd\n[G]To pretend\n[D]\n[G]Say Yeah, yeah, ye-\n[D]ah\n[G]Yeah, yeah, ye-\n[D]ah\n[G]Yeah, yeah, ye-\n[D]ah\n[G]Yeah, yeah, ye-\n[D]\n[G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "2xx23x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Time To Pretend",
+  "id": "240a42d759265ddc8e0dc265276ca1db46e2439b7429bbdf3356629224b56ee6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 297,
+  "normalizedKey": "mgmt|time to pretend",
+  "playableChords": [
+    "D",
+    "G",
+    "A",
+    "D/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1-1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1-2"
+    },
+    {
+      "measure": 25,
+      "name": "Pre-Chorus 1-1"
+    },
+    {
+      "measure": 33,
+      "name": "Pre-Chorus 1-2"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus 1"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2-1"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 2-2"
+    },
+    {
+      "measure": 69,
+      "name": "Pre-Chorus 2-1"
+    },
+    {
+      "measure": 77,
+      "name": "Pre-Chorus 2-2"
+    },
+    {
+      "measure": 85,
+      "name": "Bridge"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "240a42d759265ddc8e0dc265276ca1db46e2439b7429bbdf3356629224b56ee6",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Time To Pretend",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

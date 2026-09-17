@@ -1,0 +1,89 @@
+{
+  "artist": "Misfits",
+  "artistNormalized": "misfits",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\nOne, two, three, four!\n[A]\n[G]  [A]\n[G]  [A]\n\n[Verse 1]\n[A]She walked out with emp-\nty arms Ma-\n[G]chine gun in [A]her\nhand\nShe is good and she\nis bad\n[G]No one [A]understands\nShe walked in in\nsilence\n[G]Never spoke a [A]word\nShe's got a rich\ndaddy\n[G]She's her daddy's [A]girl\n\n[Chorus]\n[A]She loves\n[G]naked sins\n[F]He loves\n[G]evil sex\n[A]She has\n[G]lost control\n[F]They are\n[G]growing old\n[A]\n\n[Interlude]\n[A]\n[G]  [A]\n[G]  [A]\n\n[Verse 2]\n[A]She will hide in si-\nlence\n[G]Then her day will [A]co-\nme\nShe was virgin vix-\nen\n[G]She is on the [A]run\n\n[Outro]\n[G]She is on the [A]run\n[G]She is on the [A]run",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "She",
+  "id": "50fad17a52a87db4a133ce7f126f10d6a7dfe4b64fb8f0343a785a9ec1901bbf",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 104,
+  "normalizedKey": "misfits|she",
+  "playableChords": [
+    "A",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Interlude"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 54,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "50fad17a52a87db4a133ce7f126f10d6a7dfe4b64fb8f0343a785a9ec1901bbf",
+    "version": "BCFZ"
+  },
+  "tempo": 184,
+  "title": "She",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

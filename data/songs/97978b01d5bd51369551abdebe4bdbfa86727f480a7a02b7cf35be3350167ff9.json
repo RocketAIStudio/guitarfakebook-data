@@ -1,0 +1,96 @@
+{
+  "artist": "Muse",
+  "artistNormalized": "muse",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Dm]\n[Dm]\n[Am]\n[G]\n[Gm]\n[Dm]\n[Am]\n[G]\n[Gm]Your golden lies\n\n[Verse 1]\n[Dm]\n[Am]feed my role\n[G]\n[Gm]In this forgotten space\n[Dm]race\n[Am]un der my control\n[G]\n[Gm]Who's\n[Dm]\n[Am]re-\n[G]turned from the dead?\n[Gm]Who\n[Dm]\n[Am]remains?\n[G]\n[Dm]\nYou know I don't\n\n[Chorus]\n[Dm]want you\nAnd I never did\nI don't\nwant you\nAnd I never will\nYou wanted more\n\n[Verse 2]\n[Dm]\n[Am]than I was worth\n[G]\n[Gm]And you think I was scared,\n[Dm]yeah\n[Am]And you needed proof\n[G]\n[Gm]Who\n[Dm]\n[Am]really cares\n[G]anymore?\n[Gm]Who\n[Dm]\n[Am]restrains?\n[G]\nYou know I don't\n\n[Chorus]\n[Dm]love you\nAnd I never did\nI don't\nwant you\nAnd I never will",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "5554xx",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "5553xx",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hyper Music *alt 2",
+  "id": "97978b01d5bd51369551abdebe4bdbfa86727f480a7a02b7cf35be3350167ff9",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 95,
+  "normalizedKey": "muse|hyper music",
+  "playableChords": [
+    "Dm",
+    "Am",
+    "G",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 74,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "97978b01d5bd51369551abdebe4bdbfa86727f480a7a02b7cf35be3350167ff9",
+    "version": "BCFZ"
+  },
+  "tempo": 122,
+  "title": "Hyper Music",
+  "tuning": "D A D G B E",
+  "variantRole": "alt"
+}

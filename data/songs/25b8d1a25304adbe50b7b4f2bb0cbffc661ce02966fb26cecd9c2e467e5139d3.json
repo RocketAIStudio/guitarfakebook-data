@@ -1,0 +1,134 @@
+{
+  "artist": "Modern Baseball",
+  "artistNormalized": "modern baseball",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 10,
+  "content": "[Verse 1]\n[F#]The fossils of my footsteps will\n[C#]be unearthed At a far off date unknown\n[F#]Impressed in [F#sus2]concrete from\n[C#]walking home alone [C#/D#]After walking you\n[F#sus2]home\n[F#]And the mops of greasy hair\n[C#]Will romanticize my des-\n[F#]pair But [F#sus2]they won't know\n[C#][C#/D#]That I didn't care\n\n[Chorus]\n[A#m]I [G#sus4]like the [C#]silence [C#5]\n[F#sus2]I like the empty streets\n[A#m]Crawl [G#sus4]down [C#]'em on [C#5]hands\n[F#sus2]and knees in a heart-\n[A#m]beat [G#sus4][C#]If [C#5]I had\n[F#sus2]to\n[A#m]I owe 'em that [G#]at the very least\n[F#]\n\n[Verse 2]\n[F#]The map had faded out, but I\n[C#]could have sworn I noted every stride\n[F#]I guess the [F#sus2]rain hit Be-\n[C#]fore the ink could dry [C#/D#]\n[F#]And where I thought I'd be\n[C#]Was not what I perceived\n[F#]Assessing the [F#sus2]progress From be-\n[C#]neath your sheets [C#/D#]That's why\n\n[Chorus]\n[A#m]I [G#sus4]need the [C#]silence [C#5]\n[F#sus2]I need the empty streets\n[A#m]Just [G#sus4]as bad [C#]as they [C#5]don't\n[F#sus2]need me It's a sick,\n[A#m]sad [G#sus4]sham [C#]of [C#5]a ma-\n[F#sus2]rriage But it's all there is\n[A#m]It's [G#]all I need\n[F#]\n[F#m]\n\n[Bridge]\n[F#sus2]I can be\n[G#sus4][A#m]everything you need\n[F#sus2]If you make\n[C#5]me [C#sus2]\n[F#sus2]I can be\n[A#m]every [G#sus4]crack in your con-\n[F#sus2]crete If you\n[C#5]let me off [C#sus2]easy\n[F#sus2]I can be\n[G#sus4][A#m]easily deceived\n[F#sus2]If you want\n[C#5]that [C#sus2]\n[F#sus2]But you are the\n[A#m]ember [G#sus4]of my heart\n[F#sus2]Whether you like\n[C#5]that [C#sus2]or not\n[F#]",
+  "diagrams": {
+    "A#m": {
+      "catalog": [
+        "x24432"
+      ],
+      "catalogCount": 1
+    },
+    "C#": {
+      "catalog": [
+        "004232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#/D#": {
+      "catalog": [
+        "xx2232"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "0002xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#sus2": {
+      "catalog": [
+        "002230"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "5554xx",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "5553xx",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#sus2": {
+      "catalog": [
+        "5577xx"
+      ],
+      "catalogCount": 1
+    },
+    "G#": {
+      "catalog": [
+        "x02220"
+      ],
+      "catalogCount": 1
+    },
+    "G#sus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pothole",
+  "id": "25b8d1a25304adbe50b7b4f2bb0cbffc661ce02966fb26cecd9c2e467e5139d3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 241,
+  "normalizedKey": "modern baseball|pothole",
+  "playableChords": [
+    "F#",
+    "C#",
+    "F#sus2",
+    "C#/D#",
+    "A#m",
+    "G#sus4",
+    "C#5",
+    "G#",
+    "F#m",
+    "C#sus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Bridge"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "25b8d1a25304adbe50b7b4f2bb0cbffc661ce02966fb26cecd9c2e467e5139d3",
+    "version": "BCFZ"
+  },
+  "tempo": 65,
+  "title": "Pothole",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "primary"
+}

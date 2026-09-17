@@ -1,0 +1,107 @@
+{
+  "artist": "Nirvana",
+  "artistNormalized": "nirvana",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Eb5]  [C5]\n[Bb5]  [Bb5]\n[Eb5]  [C5]\n[Bb5]  [Bb5]\n[Eb5]  [C5]\n[Bb5]  [Bb5]\n[Eb5]  [C5]\n[Bb5]  [Bb5]\n\n[Verse 1]\n[Eb5]He's [C5]there\n[Bb5]in case I [Bb5]want it all\n[Eb5]He's [C5]scared\n[Bb5]cause I [Bb5]want\n[Eb5]He's [C5]scared\n[Bb5]in case I [Bb5]want it all\n[Eb5]He's [C5]scared\n[Bb5]cause I [Bb5]want\n\n[Chorus]\n[Gb5]All in all the clock\n[Ab5]is slow\n[Eb5]Six color pictures\n[C5]all in a row Of a\n[B5]marigold\n\n[Interlude]\n[Eb5]  [C5]\n[Bb5]  [Bb5]\n[Eb5]  [C5]\n[Bb5]  [Bb5]\n\n[Verse 2]\n[Eb5]He's [C5]there\n[Bb5]in case I [Bb5]want it all\n[Eb5]He's [C5]scared\n[Bb5]cause I [Bb5]want\n[Eb5]He's [C5]there\n[Bb5]in case I [Bb5]want it all\n[Eb5]He's [C5]scared\n[Bb5]cause I [Bb5]want\n\n[Chorus]\n[Gb5]All in all the clock\n[Ab5]is slow\n[Eb5]Six color pictures\n[C5]all in a row Of a\n[B5]marigold\n\n[Verse 3]\n[Eb5]He's [C5]there\n[Bb5]in case I [Bb5]want it all\n[Eb5]He's [C5]scared\n[Bb5]cause I [Bb5]want\n[Eb5]He's [C5]there\n[Bb5]in case I [Bb5]want it all\n[Eb5]He's [C5]scared\n[Bb5]cause I [Bb5]want\n\n[Chorus]\n[Gb5]All in all the clock\n[Ab5]is slow\n[Eb5]Six color pictures\n[C5]all in a row Of a\n[B5]marigold\n[Eb5]",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x35xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bb5": {
+      "catalog": [
+        "x244xx",
+        "x24xxx"
+      ],
+      "catalogCount": 2
+    },
+    "C5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "Gb5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Marigold *alt 2",
+  "id": "12af9bf42806b6f4c08709cdb73fb83bc54bb8d23f3289a47b85d74ee4e2b620",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 135,
+  "normalizedKey": "nirvana|marigold",
+  "playableChords": [
+    "Eb5",
+    "C5",
+    "Bb5",
+    "Gb5",
+    "Ab5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Interlude"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "12af9bf42806b6f4c08709cdb73fb83bc54bb8d23f3289a47b85d74ee4e2b620",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "Marigold",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

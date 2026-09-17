@@ -1,0 +1,84 @@
+{
+  "artist": "Misc Computer Games",
+  "artistNormalized": "misc computer games",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C5]\n[Fmadd9]\n[Eb6]\n[D11]\n[C5]\n[Fmadd9]\n[Eb6]\n[D11]\n\n[Verse 1]\n[C5]\n[Fmadd9]\n[Eb6]\n[D11]\n[C5]Lie on my back,\n[Fmadd9]Clouds are making way for me.\n[Eb6]I'm coming home,\n[D11]sweet home.\n\n[Chorus]\n[Eb6]Build that wall and\n[D11]Build it strong, 'cause\n[Eb6]We'll be there be-\n[D11]fore too long\n\n[Guitar Solo]\n[C5]\n[Fmadd9]\n[Eb6]\n[D11]\n[Eb6]\n[D11]\n[Eb6]\n[D11]\n\n[Verse 2]\n[C5]I dig my hole, you build a wall\n[Fmadd9]I dig my hole, you build a wall\n[Eb6]One day that wall is gonna fall\n[D11]\n[C5]Gon' build that wall up to the sky\n[Fmadd9]Gon' build that wall up to the sky\n[Eb6]One day your bird is gonna fly\n[D11]\n\n[Chorus]\n[Eb6]Build that wall and\n[D11]Build it strong, 'cause\n[Eb6]We'll be there be-\n[D11]fore too long\n[C5]",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "000200"
+      ],
+      "catalogCount": 1
+    },
+    "D11": {
+      "catalog": [
+        "222100"
+      ],
+      "catalogCount": 1
+    },
+    "Eb6": {
+      "catalog": [
+        "333200"
+      ],
+      "catalogCount": 1
+    },
+    "Fmadd9": {
+      "catalog": [
+        "555300"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bastion - Setting Sail, Coming Home",
+  "id": "691b6d08dae5a1e707a086b7e09e2b8c762b15dd4f5562a9ab6a3578d9703d40",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 95,
+  "normalizedKey": "misc computer games|bastion setting sail coming home",
+  "playableChords": [
+    "C5",
+    "Fmadd9",
+    "Eb6",
+    "D11"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "691b6d08dae5a1e707a086b7e09e2b8c762b15dd4f5562a9ab6a3578d9703d40",
+    "version": "BCFZ"
+  },
+  "tempo": 60,
+  "title": "Bastion - Setting Sail, Coming Home",
+  "tuning": "C G C F G C",
+  "variantRole": "primary"
+}

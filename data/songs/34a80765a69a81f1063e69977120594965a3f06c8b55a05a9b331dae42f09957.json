@@ -1,0 +1,111 @@
+{
+  "artist": "Neil Young",
+  "artistNormalized": "neil young",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Em7]\n[D]  [Em]\n[Em7]\n[D]  [Em]\n[Em]  [C]\n[D]  [G]\n[Em]  [C]\n[D]  [G]\n[Em]  [C]\n[D]  [G]\n[Em7]\n[D]  [Em]\n\n[Verse 1]\n[Em]I want to [C]live,\n[D]I want to [G]give [G/F#]\n[Em]I've been a [C]miner for a\n[D]heart of [G]gold. [G/F#]\n[Em]It's these [C]expressions\n[D]I never [G]give [G/F#]\n[Em7]That keep me searching for a\n[G]heart of gold\n[C]And I'm getting old.\n[G]  [G6add9/E]\n[Em7]Keeps me searching for a\n[G]heart of gold\n[C]And I'm getting o-\nld [G]\n[Em]  [C]\n[D]  [G]\n[Em]  [C]\n[D]  [G]\n[Em]  [C]\n[D]  [G]\n[Em7]\n[D]  [Em]\n\n[Verse 2]\n[Em]I've been to [C]Hollywood\n[D]I've been to [G]Red wood [G/F#]\n[Em]I crossed [C]the ocean for a\n[D]heart of gold [G]I've [G/F#]\n[Em]been in my [C]mind, it's\n[D]such a fine [G]line That [G/F#]\n[Em7]keeps me searching for a\n[G]heart of gold\n[C]And I'm getting old.\n[G]  [G6add9/E]\n[Em7]Keeps me searching\n[G]for a heart of gold\n[C]And I'm getting old\n[G]\n[Em]  [C]\n[D]  [G]\n[Em]  [C]\n[D]  [G]\n[Em]  [C]\n[D]  [G]\n\n[Bridge]\n[Em7]Keep me searching for\n[D]a heart of [Em]gold\n[Em7]You keep me searching And I'm\n[D]growing [Em]old\n[Em7]Keep me searching for\n[D]a heart of [Em]gold\nI've been a miner for\n[G]a heart of gold.\n[C]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "020000",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/F#": {
+      "catalog": [
+        "2x003x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Heart of Gold *alt",
+  "id": "34a80765a69a81f1063e69977120594965a3f06c8b55a05a9b331dae42f09957",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 156,
+  "normalizedKey": "neil young|heart of gold",
+  "playableChords": [
+    "Em7",
+    "D",
+    "Em",
+    "C",
+    "G",
+    "G/F#",
+    "G6add9/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 55,
+      "name": "Bridge"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "34a80765a69a81f1063e69977120594965a3f06c8b55a05a9b331dae42f09957",
+    "version": "BCFZ"
+  },
+  "tempo": 84,
+  "title": "Heart of Gold",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

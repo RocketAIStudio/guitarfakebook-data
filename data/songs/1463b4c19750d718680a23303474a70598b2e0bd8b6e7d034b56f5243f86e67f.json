@@ -1,0 +1,169 @@
+{
+  "artist": "Nat \"King\" Cole",
+  "artistNormalized": "nat king cole",
+  "capo": "No capo",
+  "chordPositionCount": 45,
+  "chordSymbolCount": 12,
+  "content": "[Intro]\n[Bb]\n\n[Verse 1]\n[Bb]Joy to the world The\n[Bb/F]Lord [F]is [Bb]come Let\n[Eb]earth [F]receive her\n[Bb]King Let\n[Bb]every heart pre-\npare him room And\n[Bb]heaven and nature sing And\n[F]heaven and nature sing And\n[Bb]heaven, and heaven and\n[F][Bb/F]nature [Bb]sing\n\n[Verse 2]\n[Bb]Joy to the earth The\n[F][Bb/F]Saviour [Bb]reigns Let\n[Eb]men their [F]songs emp-\n[Bb]loy While\n[Bb]fields and floods Rocks,\nhills and plains Re-\n[Bb]peat the sounding joy Re-\n[F]peat the sounding joy Re-\n[Bb]peat, repeat the\n[F][Bb/F]sounding [Bb]joy [F#]\n\n[Verse 3]\n[B]He rules the earth With\n[B/F#]truth [F#]and [B]grace [B/D#]And\n[E]makes [C#m]the [F#7][F#]nations\n[B]prove The\n[B]glo ri es of his\nright eous nes And\n[G#m]wonders of his [B/D#]love And\n[E]wonders of his [C#m]love And\n[B/D#]wonders, [E]and [B/D#]won - [E]ders\n[B/F#]of [F#7]his\n\n[Outro]\n[B]love",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B/D#": {
+      "catalog": [
+        "x6444x",
+        "x6987x"
+      ],
+      "catalogCount": 2
+    },
+    "B/F#": {
+      "catalog": [
+        "224442"
+      ],
+      "catalogCount": 1
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bb/F": {
+      "catalog": [
+        "113331"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "x4665x",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x7645x",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x65343",
+        "x-x-1-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "244352",
+        "2-4-2-3-2-2",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Joy to the World",
+  "id": "1463b4c19750d718680a23303474a70598b2e0bd8b6e7d034b56f5243f86e67f",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 143,
+  "normalizedKey": "nat king cole|joy to the world",
+  "playableChords": [
+    "Bb",
+    "Bb/F",
+    "F",
+    "Eb",
+    "F#",
+    "B",
+    "B/F#",
+    "B/D#",
+    "E",
+    "C#m",
+    "F#7",
+    "G#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 33,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1463b4c19750d718680a23303474a70598b2e0bd8b6e7d034b56f5243f86e67f",
+    "version": "BCFZ"
+  },
+  "tempo": 102,
+  "title": "Joy to the World",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

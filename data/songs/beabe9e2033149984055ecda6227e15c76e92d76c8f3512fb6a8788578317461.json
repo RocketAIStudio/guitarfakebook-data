@@ -1,0 +1,88 @@
+{
+  "artist": "Nofx",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n\n[Verse 1]\n[F]I wanna be an\n[Gm]alcoholic\n[Bb]I wanna be\n[C]co-drug dependent\n[F]I wanna\n[Gm]be sedated most\n[Bb]of the time\n[C]\n\n[Verse 2]\n[F]I wanna sing, I\n[Gm]wanna dance\n[Bb]I wanna pass out and\n[C]wet my pants\n[F]I wanna be an\n[Gm]alcoholic man\n[Bb]\n[C]\n[F]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Wanna Be An Alcoholic *alt",
+  "id": "beabe9e2033149984055ecda6227e15c76e92d76c8f3512fb6a8788578317461",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 55,
+  "normalizedKey": "nofx|i wanna be an alcoholic",
+  "playableChords": [
+    "F",
+    "Gm",
+    "Bb",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "beabe9e2033149984055ecda6227e15c76e92d76c8f3512fb6a8788578317461",
+    "version": "BCFZ"
+  },
+  "tempo": 240,
+  "title": "I Wanna Be An Alcoholic",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,106 @@
+{
+  "artist": "Motorama",
+  "artistNormalized": "motorama",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C#5]\n[F5]\n[D#5]\n[F5]\n[D#5]\n[Fm]\n[D#]\n[Fm]\n[D#]\n[Fm]\n[D#]\n[Fm]\n[D#]\n[Fm]\n[D#]\n[Fm]\n[D#]\n[Fm]\n[D#]\n[Fm]\n[D#]\n\n[Verse 1]\n[Fm]Listen to me,\n[D#]brother\n[Fm]\n[D#]You see how\n[Db/F]times had changed\n\n[Chorus]\n[C#5]Now i want to be\nburried\nNow i want to be\nburried\n[F5]Far away from the\n[D#5]city\n[F5]Far away from the\n[D#5]dust\n\n[Verse 2]\n[Fm]Sit down and\n[D#]tell me, son\n[Fm]\n[D#]Am i\n[Db/F]lost my mind?\nNow\n\n[Chorus]\n[C#5]i want to be\nburried\nNow i want to be\nburried\n[F5]Far away from the\n[D#5]city\n[F5]Far away from the\n[D#5]dust\n\n[Interlude]\n[Fm]\n[D#]\n[Fm]\n[D#]\n[Fm]\n[D#]\n[Fm]\n[D#]\n[Fm]\n[D#]\n[Fm]\n[D#]\n[Fm]\n[D#]\n[Fm]\n[D#]\n\n[Outro]\n[C#5]\n[F5]\n[D#5]\n[F5]\n[D#5]\n[C#5]\n[F5]\n[D#5]\n[F5]\n[D#5]\n[F5]\n[D#5]\n[F5]\n[D#5]\n[Db/F]\n[C#5]\n[F5]\n[D#5]\n[F5]\n[D#5]\n[F5]\n[D#5]\n[F5]\n[D#5]\n[Db/F]\n[C#5]\n[F5]\n[D#5]\n[F5]\n[D#5]\n[F5]\n[D#5]\n[F5]\n[D#5]\n[Db/F]\n[C#5]\n[F5]\n[D#5]\n[F5]\n[D#5]",
+  "diagrams": {
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#": {
+      "catalog": [
+        "x6888x"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "Db/F": {
+      "catalog": [
+        "x8666x"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Fm": {
+      "catalog": [
+        "x-8-10-10-9-x",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Far Away From The City",
+  "id": "b56fbcfdebe4daec7ae52e6330372f21943cc27eb10277238b36993edba7aff4",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 78,
+  "normalizedKey": "motorama|far away from the city",
+  "playableChords": [
+    "C#5",
+    "F5",
+    "D#5",
+    "Fm",
+    "D#",
+    "Db/F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Interlude"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b56fbcfdebe4daec7ae52e6330372f21943cc27eb10277238b36993edba7aff4",
+    "version": "BCFZ"
+  },
+  "tempo": 200,
+  "title": "Far Away From The City",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

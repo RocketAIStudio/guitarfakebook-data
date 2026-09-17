@@ -1,0 +1,102 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G5]\n[F5]\n[G5]\n[G5]\n[F5]\n[E5]\n[C5]\n[G5]\n[D5]\n[C5]\n[E5]\n\n[Verse 1]\n[G5]My father used to say\n[A5]You sleep with dogs the next day\n[G5]You'll wake in the bed scratching Those\n[A5]inevitable fleas\n[G5]At ten years old\n[F5]You listen to what you are told\n[G5]But I never felt the itch I\n[F5]never would\n\n[Bridge]\n[G5]\n[F5]\n[E5]\n[C5]\n\n[Verse 2]\n[G5]My mother had forbidden me To\n[A5]waste away my life I\n[G5]want you to have all the things\n[A5]I could never buy you So don't\n[G5]stop what I'd begun You're my\none, my only son\n[F5]Follow what I say not what I've done\n[G5]\n[F5]Follow what I [G5]say not what I've done\nShower, scrub, and shave Cleanly boys\ndon't misbehave\n[F5]Follow what I say not what I've done\n\n[Bridge]\n[G5]\n[F5]\n[E5]\n[C5]\n[B5]\n[C5]\n[E5]\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx",
+        "13xxxx"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Fleas",
+  "id": "c56c416956b92e11639cf638ed6cf447da8e9e7eabc673e2d59b8737588525a9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 120,
+  "normalizedKey": "nofx|fleas",
+  "playableChords": [
+    "G5",
+    "F5",
+    "E5",
+    "C5",
+    "D5",
+    "A5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c56c416956b92e11639cf638ed6cf447da8e9e7eabc673e2d59b8737588525a9",
+    "version": "BCFZ"
+  },
+  "tempo": 118,
+  "title": "Fleas",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

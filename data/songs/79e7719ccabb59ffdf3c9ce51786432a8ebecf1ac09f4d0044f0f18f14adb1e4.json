@@ -1,0 +1,92 @@
+{
+  "artist": "Misc Cartoons",
+  "artistNormalized": "misc cartoons",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[G]Slow dance with you\nI just want to\n[D]slow dance with you\nI know all the\nother boys are [Bm]tough and [D]smooth\nAnd I [G]got the blues I want to\n[D]slow [A]dance with [G]you\nI want to\n\n[Verse 2]\n[G]slow dance with you\n[Bm]I just want to\n[D]slow dance with you\n[G]Why don't you\n[A]take the chance? I've got the moves\n[Bm]I'd like to prove I want to\n[G]slow [A]dance with you\n[D]\n\n[Bridge]\n[G]\n[Bm]\n[D]\n[G]\n[A]\n[Bm]\n[G]  [A]\n[D]I want to\n\n[Outro]\n[G]slow dance with you\n[Bm]I just want to slow\n[D]dance with you\n[G]Why don't you\n[A]take the chance? I've got the moves\n[Bm]I'd like to prove I want to\n[G]slow [A]dance with you\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Adventure Time - Slow Dance With You",
+  "id": "79e7719ccabb59ffdf3c9ce51786432a8ebecf1ac09f4d0044f0f18f14adb1e4",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 106,
+  "normalizedKey": "misc cartoons|adventure time slow dance with you",
+  "playableChords": [
+    "G",
+    "D",
+    "Bm",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "79e7719ccabb59ffdf3c9ce51786432a8ebecf1ac09f4d0044f0f18f14adb1e4",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Adventure Time - Slow Dance With You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

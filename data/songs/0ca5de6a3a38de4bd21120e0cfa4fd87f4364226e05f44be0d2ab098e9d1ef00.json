@@ -1,0 +1,131 @@
+{
+  "artist": "Nirvana",
+  "artistNormalized": "nirvana",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\n\n[Verse 1]\n[Am]I can read,\nI can write\nI can breed,\nproven plight\nNurse my greed,\ncrease infold\nIs it me,\nor my e -\n\n[Bridge]\n[Am]go\n\n[Verse 2]\n[Am]Write some words,\nmake them rhyme\nThesis or\nstory line\nSet the mood,\nsomething new\nIs it me,\nor my atti-\n\n[Bridge]\n[Am]tude\n\n[Chorus]\n[Am]\nIf you want\nto put off\nan image\nThe extremes,\nthe extremes\nAct it out\nPracticing\nPerfecting\nPressuring\nOnto me\nOnto me\nOnto me\n\n[Interlude]\n[F#m]I will wade\nin the fire\nTo explain\nyour asylum\nIdle times,\nanalyzing\nWe'll compare\n[G]all our sightings You\n[Am]must\n[D#]\n[A]I\n[D#]speak\n[A]to\n[D#]hear\n[A]my\n[D#]voice\n[A]\n\n[Verse 3]\n[Am]\nI can read,\nI can write\nI can breed,\nproven plight\nNurse my greed,\ncrease infold\nIs it me,\nor my e-\n\n[Bridge]\n[Am]go\n\n[Verse 4]\n[Am]Write some words,\nmake them rhyme\nThesis or\nstory line\nSet the mood,\nsomething new\nIs it me,\nor my atti-\n\n[Bridge]\n[Am]tude\n\n[Chorus]\n[Am]\nIf you want\nto put off\nan image\nThe extremes,\nthe extremes\nAct it out\nPracticing\nPerfecting\nPressuring\nOnto me\nOnto me\nOnto me\nOnto me\nOnto me\nOnto me\nOnto me",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x13331",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x13321",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "022100"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "355333",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "466544",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "If You Must *alt",
+  "id": "0ca5de6a3a38de4bd21120e0cfa4fd87f4364226e05f44be0d2ab098e9d1ef00",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 221,
+  "normalizedKey": "nirvana|if you must",
+  "playableChords": [
+    "Am",
+    "F#m",
+    "G",
+    "D#",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Interlude"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 93,
+      "name": "Bridge"
+    },
+    {
+      "measure": 97,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 105,
+      "name": "Bridge"
+    },
+    {
+      "measure": 113,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0ca5de6a3a38de4bd21120e0cfa4fd87f4364226e05f44be0d2ab098e9d1ef00",
+    "version": "BCFZ"
+  },
+  "tempo": 106,
+  "title": "If You Must",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

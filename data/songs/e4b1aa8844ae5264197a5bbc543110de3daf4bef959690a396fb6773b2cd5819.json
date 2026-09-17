@@ -1,0 +1,120 @@
+{
+  "artist": "Neil Young",
+  "artistNormalized": "neil young",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n[G]\n[Fmaj7]\n\n[Pre-Verse]\n[Am]\n[G]\n[Fmaj7]\n[C]\n[G]\n[Am]\n[Fmaj7]\n[Am]\n[G]\n[Fmaj7]\n\n[Verse 1]\n[Am]Hey hey,\n[G]my my\n[Fmaj7]\n[Am]Rock and roll\n[G]can never die\n[Fmaj7]\nThere's\n[C]more to the pic-\n[G]ture\n[Am]Than meets the eye.\n[Fmaj7]\n[Am]Hey hey,\n[G]my my.\n[Fmaj7]\n\n[Guitar Solo 1]\n[Am]\n[G]\n[Fmaj7]\n[Am]\n[G]\n[Fmaj7]\n[C]\n[G]\n[Am]\n[Fmaj7]\n[Am]\n[G]\n[Fmaj7]\n\n[Verse 2]\n[Am]Out of the blue\n[G]And into the black\n[Fmaj7]\n[Am]You pay for this,\n[G]But they give you that\n[Fmaj7]\n[C]And once you're gone,\n[G]\n[Am]You can come\n[Fmaj7]back\n[Am]When you're out of the blue\n[G]And into the black.\n[Fmaj7]\n\n[Guitar Solo 2]\n[Am]\n[G]\n[Fmaj7]\n[Am]\n[G]\n[Fmaj7]\n[C]\n[G]\n[Am]\n[Fmaj7]\n[Am]\n[G]\n[Fmaj7]\n\n[Verse 3]\n[Am]The king is gone\n[G]But he's not forgotten\n[Fmaj7]\n[Am]This is the sto-\n[G]ry Of a Johnny Rot-\n[Fmaj7]ten\n[C]It's better to burn\n[G]out\n[Am]Than it is to\n[Fmaj7]rust\n[Am]The king is gone\n[G]But he's not forgotten.\n[Fmaj7]\n\n[Guitar Solo 3]\n[Am]\n[G]\n[Fmaj7]\n[Am]\n[G]\n[Fmaj7]\n[C]\n[G]\n[Am]\n[Fmaj7]\n[Am]\n[G]\n[Fmaj7]\n\n[Verse 4]\n[Am]Hey hey,\n[G]my my\n[Fmaj7]\n[Am]Rock and\n[G]roll can never die\n[Fmaj7]\nThere's\n[C]more to the pic-\n[G]ture\n[Am]Than meets the eye.\n[Fmaj7]\n[Am]\n[G]\n[Fmaj7]\n\n[Guitar Solo 4]\n[Am]\n[G]\n[Fmaj7]\n[Am]\n[G]\n[Fmaj7]\n[C]\n[G]\n[Am]\n[Fmaj7]\n\n[Outro]\n[Am]\n[G]\n[Fmaj7]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "133210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hey hey my my (Into the Black) *alt",
+  "id": "e4b1aa8844ae5264197a5bbc543110de3daf4bef959690a396fb6773b2cd5819",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 121,
+  "normalizedKey": "neil young|hey hey my my into the black",
+  "playableChords": [
+    "Am",
+    "G",
+    "Fmaj7",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Guitar Solo 1"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Guitar Solo 2"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 97,
+      "name": "Guitar Solo 3"
+    },
+    {
+      "measure": 113,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 129,
+      "name": "Guitar Solo 4"
+    },
+    {
+      "measure": 141,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e4b1aa8844ae5264197a5bbc543110de3daf4bef959690a396fb6773b2cd5819",
+    "version": "BCFZ"
+  },
+  "tempo": 122,
+  "title": "Hey hey my my (Into the Black)",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

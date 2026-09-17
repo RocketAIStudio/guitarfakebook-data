@@ -1,0 +1,136 @@
+{
+  "artist": "My Chemical Romance",
+  "artistNormalized": "my chemical romance",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\nNow\n\n[Verse 1]\n[G]come one come all to this\ntragic affair\n[Em7]Wipe off that makeup, what's\nin is despair So\n[C#m7]throw on the black dress, mix\nin with the lot You might\n[Cm6]wake up and notice you're\nsomeone you're not If you\n[G]look in the mirror and don't\nlike what you see You can\n[Em7]find out firsthand what it's\nlike to be me So\n[C#m7]gather 'round piggies and\nkiss this goodbye I'd en-\n[Cm6]courage your smiles I'll ex-\npect you won't cry\n\n[Chorus]\n[G]\n[Em7]\n[C#m7]\n[Cm6]\n\n[Bridge]\n[G]\nA-\n\n[Verse 2]\n[G]nother contusion, my\nfuneral jag Here's\n[Em7]my resignation, I'll\nserve it in drag You've\n[C#m7]got front row seats to the\npenitence ball When I\n[Cm6]grow up I want to be\nnothing at all I said\n\n[Chorus]\n[G]yeah,\nyeah\n[Em7]\nI said\n[C#m7]yeah,\nyeah\n[Cm6]\nCome on, come on, come on I said\n[G]\nGet me the hell out of\n[Em7]here\nToo young to die and my\n[C#m7]dear\nIf you can hear me just\n[C]walk [Dm]a-\n[D#]way [F]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C#m7": {
+      "catalog": [
+        "x42400",
+        "x-4-6-4-5-4",
+        "9-11-9-9-9-9",
+        "x-x-11-13-12-12",
+        "x-16-18-16-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "Cm6": {
+      "catalog": [
+        "x3x545"
+      ],
+      "catalogCount": 1
+    },
+    "D#": {
+      "catalog": [
+        "x68886"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "x-8-10-10-10-8",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The End",
+  "id": "d0ef147e2f62ad7ff6377e49daa0375add94cef4434b9a6920058f5e7c45afc5",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 175,
+  "normalizedKey": "my chemical romance|the end",
+  "playableChords": [
+    "G",
+    "Em7",
+    "C#m7",
+    "Cm6",
+    "C",
+    "Dm",
+    "D#",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Bridge"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d0ef147e2f62ad7ff6377e49daa0375add94cef4434b9a6920058f5e7c45afc5",
+    "version": "BCFZ"
+  },
+  "tempo": 87,
+  "title": "The End",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

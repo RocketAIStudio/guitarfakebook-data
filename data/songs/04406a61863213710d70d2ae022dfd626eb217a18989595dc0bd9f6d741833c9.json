@@ -1,0 +1,104 @@
+{
+  "artist": "Muse",
+  "artistNormalized": "muse",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F#m]\n[A]\n[E]\n[F#m]\n[A]\n[E]\n[F#m]\n\n[Verse 1]\n[F#m]So here it is a-\n[A]gain Rape and pillage\n[E]proves to win the\n[F#m]public vote Some\none tell me who\n[A]will take the prize\n[E]And who takes the\n[F#m]fall So con-\n\n[Chorus]\n[A]fused\n[E]when you're\n[Bm]lost in the\n[F#m]groove So con-\n[A]fused\n[E]when you're\n[Bm]lost in the\n[F#m]groove\n\n[Verse 2]\n[F#m]And downtown comes a\n[A]gain And her masks are\n[E]shifting like a cha-\n[F#m]meleon Some\none tell me why\n[A]she breaks my fall\n[E]And then breaks my\n[F#m]heart So con-\n\n[Chorus]\n[A]fused\n[E]when you're\n[Bm]lost in the\n[F#m]groove So con-\n[A]fused\n[E]when you're\n[Bm]lost in the\n[F#m]groove\n\n[Solo]\n[F#m]\n[A]\n[E]\n[F#m]\n[A]\n[E]\n[F#m]So con-\n\n[Chorus]\n[A]fused\n[E]when you're\n[Bm]lost in the\n[F#m]groove So con-\n[A]fused\n[E]when you're\n[Bm]lost in the\n[F#m]groove",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Groove",
+  "id": "04406a61863213710d70d2ae022dfd626eb217a18989595dc0bd9f6d741833c9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 120,
+  "normalizedKey": "muse|the groove",
+  "playableChords": [
+    "F#m",
+    "A",
+    "E",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 48,
+      "name": "Solo"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "04406a61863213710d70d2ae022dfd626eb217a18989595dc0bd9f6d741833c9",
+    "version": "BCFZ"
+  },
+  "tempo": 102,
+  "title": "The Groove",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

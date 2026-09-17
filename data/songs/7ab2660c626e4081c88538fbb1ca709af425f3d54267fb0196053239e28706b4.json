@@ -1,0 +1,107 @@
+{
+  "artist": "Neil Young",
+  "artistNormalized": "neil young",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D]\n[G]\n[D]\n[G]Well, I\n\n[Verse 1]\n[D]dreamed I saw the knights in a-\n[G]rmor coming Saying\n[D]something about a quee-\n[G]n There were\n[D]peasants singing and\n[A]drummers drumming And the\n[G]archer split the tree\n[A]There was a fa-\n[Bm]nfare blowing\n[C]to the sun That was\n[G]floating on the bree-\n[C]ze\n[D]Look at Mother Nature o-\n[A]n the run In the\n[C]nineteen seventie-\n[G]s\n[D]Look at Mother Nature o-\n[A]n the run In the\n[C]nineteen seventie-\n[G]s\nI was\n\n[Verse 2]\n[D]lying in a burned out ba-\n[G]sement With the\n[D]full moon in my eye-\n[G]s I was\n[D]hoping for repla-\n[A]cement When the\n[G]sun burst thru the sky\n[A]There was a ba-\n[Bm]nd playing\n[C]in my head And I\n[G]felt like getting high\n[C]\nI was\n[D]thinking about what a frie-\n[A]nd had said I was\n[C]hoping it was a lie\n[G]\n[D]Thinking about what a frie-\n[A]nd had said I was\n[C]hoping it was a lie\n[G]\n\n[Bridge]\n[D]\n[G]\n[D]\n[G]\n[D]\n[A]\n[G]\n[A]\n[Bm]\n[C]\n[G]\n[C]\n[D]\n[A]\n[C]\n[G]\n[D]\n[A]\n[C]\n[G]Well, I\n\n[Verse 3]\n[D]dreamed I saw the silver spa-\n[G]ce ships flying In the\n[D]yellow haze of the su-\n[G]n There were\n[D]children crying and\n[A]colors flying All a-\n[G]round the chosen o-\n[A]nes All in a drea-\n[Bm]m, all\n[C]in a dream The\n[G]loading had begu-\n[C]n\n[D]Flying Mother Nature's si-\n[A]lver seed To a\n[C]new home in the su-\n[G]n\n[D]Flying Mother Nature's si-\n[A]lver seed To a\n[C]new ho-\n[G]me.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "After The Gold Rush",
+  "id": "7ab2660c626e4081c88538fbb1ca709af425f3d54267fb0196053239e28706b4",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 280,
+  "normalizedKey": "neil young|after the gold rush",
+  "playableChords": [
+    "D",
+    "G",
+    "A",
+    "Bm",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 48,
+      "name": "Bridge"
+    },
+    {
+      "measure": 69,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7ab2660c626e4081c88538fbb1ca709af425f3d54267fb0196053239e28706b4",
+    "version": "BCFZ"
+  },
+  "tempo": 87,
+  "title": "After The Gold Rush",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

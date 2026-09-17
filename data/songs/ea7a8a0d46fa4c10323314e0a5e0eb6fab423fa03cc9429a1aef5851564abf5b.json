@@ -1,0 +1,63 @@
+{
+  "artist": "Nick Drake",
+  "artistNormalized": "nick drake",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 1,
+  "content": "[Intro]\n[Em]\n\n[Interlude]\nK-\nnow\nK-\nnow\nK-\nnow\nK-\nno-\nw\nK-\nnow\nK-\nnow\nK-\nnow\nK-\nno-\nw\n\n[Verse 1]\nKn-\now that I\nlove you\nKn-\now I don't\ncare\nKn-\now that I\nsee you\nKn-\now I'm not\nthere\n\n[Interlude]\nK-\nnow\nK-\nnow\nK-\nnow\nK-\nn-\now\n\n[Outro]",
+  "diagrams": {
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Know",
+  "id": "ea7a8a0d46fa4c10323314e0a5e0eb6fab423fa03cc9429a1aef5851564abf5b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 76,
+  "normalizedKey": "nick drake|know",
+  "playableChords": [
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Interlude"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 53,
+      "name": "Interlude"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ea7a8a0d46fa4c10323314e0a5e0eb6fab423fa03cc9429a1aef5851564abf5b",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Know",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

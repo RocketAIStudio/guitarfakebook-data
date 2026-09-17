@@ -1,0 +1,119 @@
+{
+  "artist": "Mike Oldfield",
+  "artistNormalized": "mike oldfield",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[Em]Standing on the\n[Bm]edge of the\n[Em]crater Like the prophets once\n[Bm]said And the\n[Em]ashes are all\n[Bm]cold now No more\n[Em]bullets and the embers are\n[Bm]dead\n[Am]Whispers in the\n[Em]air tell the\n[Am]tales Of the brothers\n[Em]gone Deso-\n[Am]lation, deva-\n[Em]station What a\n[C]mess we made, when it all went\n[B]wrong\n\n[Verse 2]\n[Em]Watching from the\n[Bm]edge of the\n[Em]circus For the games to be-\n[Bm]gin Gladi-\n[Em]ators draw their\n[Bm]swords Form their\n[C]ranks for Arma-\n[B]geddon I'm\n\n[Chorus]\n[Em]nuclear I'm\n[B]wild I'm\n[Am]breaking up in-\n[B]side A heart of\n[Em]broken glass De-\n[B]filed Deep\n[Am]inside The abandoned\n[B]child\n\n[Verse 3]\n[Em]Standing on the\n[Bm]edge of the\n[Em]underworld Looking at the a-\n[Bm]byss And I'm\n[Em]hoping for some\n[Bm]miracle To\n[Em]breakout, to escape from all\n[Bm]this\n[Am]Whispers in the air\n[Em]tell the\n[Am]tales Of a life that\n[Em]scars Deso-\n[Am]lation, deva-\n[Em]station What a\n[C]mess we made, when it all went\n[B]wrong I'm\n\n[Chorus]\n[Em]nuclear I'm\n[B]wild I'm\n[Am]breaking up in-\n[B]side A heart of\n[Em]broken glass De-\n[B]filed Deep\n[Am]inside The abandoned\n[B]child\n\n[Solo]\n[Em]\n[B]\n[Am]Ooh\n[B]\n[Em]\n[B]Ooh\n[Am]\n[B]I'm\n\n[Chorus]\n[Em]nuclear I'm\n[B]wild I'm\n[Am]breaking up in-\n[B]side A heart of\n[Em]broken glass De-\n[B]filed\n[Am]Deep inside The abandoned\n[B]child\n\n[Outro]\n[Em]\n[B]\n[Am]\n[B]Ooh\n[Em]\n[B]\n[Am]Deep inside The abandoned\n[B]child\n[Em]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Nuclear",
+  "id": "5dbbcd91a72486533a49579a7347266a25a57ec189326a8d8e1eb421f752d72e",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 254,
+  "normalizedKey": "mike oldfield|nuclear",
+  "playableChords": [
+    "Em",
+    "Bm",
+    "Am",
+    "C",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5dbbcd91a72486533a49579a7347266a25a57ec189326a8d8e1eb421f752d72e",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "Nuclear",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

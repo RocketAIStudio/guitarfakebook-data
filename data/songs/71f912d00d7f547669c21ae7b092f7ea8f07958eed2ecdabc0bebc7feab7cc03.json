@@ -1,0 +1,125 @@
+{
+  "artist": "Misc Cartoons",
+  "artistNormalized": "misc cartoons",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Theme 1]\n[Bb]Kimba\n[Eb]Kimba\n[Bb]Kimba\n[F7]Kimba\n\n[Theme 2]\n[Bb]Who lives down in [Eb]deepest darkest\n[Bb]Africa? [F]\n[Bb]Who's the one who [Eb]brought the jungle\n[Bb]fame?\n[Eb]Who's the king of [Gb]Animals in\n[Gm]Africa?\n[C]Kimba the white lion is his\n[F7]name!\n\n[Theme 3]\n[Bb]When we get in [Eb]trouble and we're\n[Bb]in a fight [F]\n[Bb]Who's the one who [Eb]just won't turn and\n[Bb]run?\n[Eb]Who believes in [Gb]doing good and\n[Gm]doing right?\n[C]Kimba the white lion is the\n[F7]one!\n\n[Theme 4]\n[Bb]He's the greatest [Eb]leader, there's no\n[Bb]doubt of it. [F]\n[Bb]He's the one we [Eb]count on night and\n[Bb]day.\n[Eb]When there's danger [Gb]he can get us\n[Gm]out of it\n[C]Kimba the white [F]lion leads the\n[Bb]way! [F][Bb]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "xx1343",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "131211",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Kimba The White Lion Theme",
+  "id": "71f912d00d7f547669c21ae7b092f7ea8f07958eed2ecdabc0bebc7feab7cc03",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 128,
+  "normalizedKey": "misc cartoons|kimba the white lion theme",
+  "playableChords": [
+    "Bb",
+    "Eb",
+    "F7",
+    "F",
+    "Gb",
+    "Gm",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Theme 1"
+    },
+    {
+      "measure": 5,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 13,
+      "name": "Theme 3"
+    },
+    {
+      "measure": 21,
+      "name": "Theme 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "71f912d00d7f547669c21ae7b092f7ea8f07958eed2ecdabc0bebc7feab7cc03",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Kimba The White Lion Theme",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

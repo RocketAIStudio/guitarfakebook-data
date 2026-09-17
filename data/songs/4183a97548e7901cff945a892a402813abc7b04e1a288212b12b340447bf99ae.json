@@ -1,0 +1,79 @@
+{
+  "artist": "Nirvana",
+  "artistNormalized": "nirvana",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[F#5]  [D5]\n\n[Verse 1]\nUn der neath the bridge the tarp has\nsprung a leak. And the an i mals I've\ntrapped have all be come my pets. And\nI'm liv ing off of grass and the drip\npings from the ceil ing. But it's o kay\nto eat fish, 'cause they don't have an y feel\nings Some thing in the way Mm. Some thing in\n[F#5]the way, yeah. Mm. Some thing [D5]in the way [G]\n\n[Chorus 1]\n[F#5]Mm. Some thing in the [D5]way,\nyeah. Mm. Un der\nneath the bridge the tarp has sprung\na leak. And the\nan i mals I've trapped have\nall be come my\npets. And I'm liv ing off of\ngrass and the drip\n\n[Verse 2]\npings from the ceil ing. But it's o\nkay to eat fish, 'cause they don't have an\ny feel ings\n\n[Chorus 2]\nSome thing in the way Mm.\nSome thing in the\nway, yeah. Mm. Some thing in the\nway Mm. Some thing\nin the way, yeah. Mm. Some\nthing in the way\nMm. Some thing in the way, yeah.\nMm. Mm.",
+  "diagrams": {
+    "D5": {
+      "catalog": [
+        "00xxxx",
+        "00023x"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "44xxxx",
+        "444xxx"
+      ],
+      "catalogCount": 2
+    },
+    "G": {
+      "catalog": [
+        "0x000x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Something In The Way *alt 2",
+  "id": "4183a97548e7901cff945a892a402813abc7b04e1a288212b12b340447bf99ae",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 174,
+  "normalizedKey": "nirvana|something in the way",
+  "playableChords": [
+    "F#5",
+    "D5",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus 1"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus 2"
+    }
+  ],
+  "source": {
+    "format": "gp4",
+    "sha256": "4183a97548e7901cff945a892a402813abc7b04e1a288212b12b340447bf99ae",
+    "version": "FICHIER GUITAR PRO v4.06"
+  },
+  "tempo": 54,
+  "title": "Something In The Way",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "alt"
+}

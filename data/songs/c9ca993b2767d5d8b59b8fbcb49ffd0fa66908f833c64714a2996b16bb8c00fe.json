@@ -1,0 +1,133 @@
+{
+  "artist": "Nirvana",
+  "artistNormalized": "nirvana",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Ab]  [B]\n[Eb]  [Gb]\n[Ab]  [B]\n[Eb]  [Gb]\n\n[Verse 1]\n[Ab]Rape me, [B]\n[Eb]  [Gb]\n[Ab]rape me [B]my friend\n[Eb]  [Gb]\n[Ab]Rape me, [B]\n[Eb]  [Gb]\n[Ab]rape me [B]again\n[Eb]  [Gb]\n\n[Chorus]\n[Ab]I'm not the [B]only one\n[Eb]  [Gb]\n[Ab]I'm not the [B]only one\n[Eb]  [Gb]\n[Ab]I'm not the [B]only one\n[Eb]  [Gb]\n[Ab]I'm not the [B]only one\n[Eb]  [Gb]\n\n[Verse 2]\n[Ab]Hate me [B]\n[Eb]  [Gb]\n[Ab]Do it and do [B]it again\n[Eb]  [Gb]\n[Ab]Waste me [B]\n[Eb]  [Gb]\n[Ab]Rape me, [B]my friend\n[Eb]  [Gb]\n\n[Chorus]\n[Ab]I'm not the [B]only one\n[Eb]  [Gb]\n[Ab]I'm not the [B]only one\n[Eb]  [Gb]\n[Ab]I'm not the [B]only one\n[Eb]  [Gb]\n[Ab]I'm not the [B]only one\n[Eb]  [Gb]\n\n[Bridge]\n[C5]My favorite inside source\n[Ab]\n[C5]I'll kiss your open sores\n[Ab]\n[C5]Appreciate your concern\n[Ab]\n[C5]You're gonna stink and burn\n[E5]\n[Gb5]Rape\n[Eb]\n\n[Verse 3]\n[Ab]me, [B]rape\n[Eb]  [Gb]\n[Ab]me [B]my friend\n[Eb]Rape [Gb]\n[Ab]me, [B]rape\n[Eb]  [Gb]\n[Ab]me [B]again\n[Eb]I'm [Gb]\n\n[Chorus]\n[Ab]not the [B]only one\n[Eb][Gb]I'm\n[Ab]not the [B]only one\n[Eb][Gb]I'm\n[Ab]not the [B]only one\n[Eb][Gb]I'm\n[Ab]not the [B]only one\n[Eb]Rape [Gb]\n\n[Outro]\n[Ab]me [B]Rape\n[Eb]me [Gb]Rape\n[Ab]me [B]Rape\n[Eb]me [Gb]Rape\n[Ab]me [B]Rape\n[Eb]me [Gb]Rape\n[Ab]me [B]Rape\n[Eb]me [Gb]Rape\n[Ab]me",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x02220",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x3555x",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "13xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb": {
+      "catalog": [
+        "022100",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "320003",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "Gb5": {
+      "catalog": [
+        "35xxxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rape me *alt 3",
+  "id": "c9ca993b2767d5d8b59b8fbcb49ffd0fa66908f833c64714a2996b16bb8c00fe",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 154,
+  "normalizedKey": "nirvana|rape me",
+  "playableChords": [
+    "Ab",
+    "B",
+    "Eb",
+    "Gb",
+    "C5",
+    "E5",
+    "Gb5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c9ca993b2767d5d8b59b8fbcb49ffd0fa66908f833c64714a2996b16bb8c00fe",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "Rape me",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

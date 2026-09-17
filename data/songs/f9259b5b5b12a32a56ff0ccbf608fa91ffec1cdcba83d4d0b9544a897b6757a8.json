@@ -1,0 +1,128 @@
+{
+  "artist": "Nilsson",
+  "artistNormalized": "nilsson",
+  "capo": "4",
+  "chordPositionCount": 28,
+  "chordSymbolCount": 8,
+  "content": "[C]  [Cmaj7]\n\n[Verse]\nEverybody's talkin' at me I don't hear a word they're saying\n[C6]\n[C7]\n[Dm]  [G9]\n\n[Chorus]\n[G]  [G9]\n[C7sus4]\n\n[Verse 2 (same as V. 1)]\n\n[Chorus (same as last)]\n\n[Outro]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C6": {
+      "catalog": [
+        "x3x210"
+      ],
+      "catalogCount": 1
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7sus4": {
+      "catalog": [
+        "xx331x"
+      ],
+      "catalogCount": 1
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "3x0003",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G9": {
+      "catalog": [
+        "3x0201"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Everybody's Talkin'",
+  "id": "f9259b5b5b12a32a56ff0ccbf608fa91ffec1cdcba83d4d0b9544a897b6757a8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 11,
+  "normalizedKey": "nilsson|everybody s talkin",
+  "playableChords": [
+    "C",
+    "Cmaj7",
+    "C6",
+    "C7",
+    "Dm",
+    "G9",
+    "G",
+    "C7sus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Verse"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2 (same as V. 1)"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus (same as last)"
+    },
+    {
+      "measure": 51,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gp4",
+    "sha256": "f9259b5b5b12a32a56ff0ccbf608fa91ffec1cdcba83d4d0b9544a897b6757a8",
+    "version": "FICHIER GUITAR PRO v4.06"
+  },
+  "tempo": 124,
+  "title": "Everybody's Talkin'",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

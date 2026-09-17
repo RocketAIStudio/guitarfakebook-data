@@ -1,0 +1,119 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]  [G]\n[Am]  [G]  [C]\n[G]\n[F]  [C]\n\n[Verse 1]\n[C]Birds [G]sing\n[Am]there's not a [G]cloud in the [C]sky\nThe August [G]eight is a\n[F]beautiful [C]day\nI [G]see\n[Am]a bunch of [G]hippies [C]crying\nYeah August [G]eight is a\n[F]beautiful [C]day\n\n[Pre-Chorus]\n[C]Like waking [G]up from a\n[Am]real bad dream [G][C]\nSuddenly [G]everything\n[F]is [C]OK\nThe storm has [G]passed the\n[Am]sun is shining [G][C]\nYeah August [G]eight is a\n[F]beautiful [C]day\n\n[Chorus]\n[Am]What's going on [F]\nwhat's going on [G]\nIs something bumming your [E]scene\n[Am]\nThere's something wrong [F]\nThere's something wrong [G]\nI'm not trying to be [E]mean\n\n[Verse 2]\n[C]The air is [G]sweet\n[Am]The summer [G]flowers [C]blooming\nNowhere in [G]sight is there\n[F]anything [C]grey\nFeelings of [G]joy\n[Am]are [G]filling the [C]street\nYeah August [G]eight is a\n[F]beautiful [C]day\n\n[Pre-Chorus]\n[C]Like waking [G]up from a\n[Am]fucked up dream [G][C]\nSuddenly [G]everything's\n[F]looking [C]good\nThere's been no [G]permanent da-\n[Am]mage done [G]Yeah [C]Au-\ngust eight [G]came right\n[F]when it [C]should\n\n[Chorus]\n[Am]What's going on [F]\nwhat's going on [G]\nIs something bumming your [E]scene\n[Am]\nThere's something wrong [F]\nThere's something wrong [G]\nI'm not trying to be [E]mean\n\n[Outro]\n[C]Poor [G]Jeff\n[Am]Poor little [G]Timmy [C]Turtle\nStaying [G]home on Such a\n[F]beautiful [C]day",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "August 8th *alt 2",
+  "id": "a10538e9c9df1c68f4badbf106bb4f5712e5d29f0785091a8097ef274abbc32a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 230,
+  "normalizedKey": "nofx|august 8th",
+  "playableChords": [
+    "C",
+    "G",
+    "Am",
+    "F",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a10538e9c9df1c68f4badbf106bb4f5712e5d29f0785091a8097ef274abbc32a",
+    "version": "BCFZ"
+  },
+  "tempo": 146,
+  "title": "August 8th",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

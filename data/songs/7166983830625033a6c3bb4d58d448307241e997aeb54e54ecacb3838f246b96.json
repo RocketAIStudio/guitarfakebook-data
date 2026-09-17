@@ -1,0 +1,104 @@
+{
+  "artist": "Motorama",
+  "artistNormalized": "motorama",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n[C]\n[G]\n[F]\n[Am]\n[C]\n[G]\n[F]\n\n[Verse 1]\n[Am]Down\nfrom the\n[C]country road\nTo the\n[G]waterwheel\n[F]\n[Am]You were\nstanding on a\n[C]giant stone\nIn your\n[G]grandpa's coat\n[F]\n\n[Chorus]\n[C]I\nI can't\n[F]see you in my dreams\nI\n[Am]don't know why\n[G]\nI\n[C]\nI can't\n[F]see you in my dreams\nI\n[Am]don't know why\n[G]\n\n[Interlude]\n[Am]\n[C]\n[G]\n[F]\n[Am]\n[C]\n[G]\n[F]\nYou\n\n[Verse 2]\n[Am]know that\nI will\n[C]do my best\nJust to\n[G]see you there\nJust to\n[F]see you there\n[Am]In my best\nsuit I will\n[C]lie in bed\nJust to\n[G]see you there\nJust to\n[F]see you there\n\n[Chorus]\n[C]Fear,\nis wa-\n[F]lking by your side\nSo close,\n[Am]\nto thee\n[G]\nI\n[C]\nI can't\n[F]see you in my dreams\nI\n[Am]don't kno why\n[G]\n\n[Outro]\n[C]\n[F]\n[Am]\n[G]\n[C]\n[F]\n[Am]\n[G]\n[C]\n[F]\n[Am]\n[G]\n[C]\n[F]\n[Am]\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "57755x",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Empty Bed",
+  "id": "7166983830625033a6c3bb4d58d448307241e997aeb54e54ecacb3838f246b96",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 109,
+  "normalizedKey": "motorama|empty bed",
+  "playableChords": [
+    "Am",
+    "C",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 81,
+      "name": "Chorus"
+    },
+    {
+      "measure": 97,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7166983830625033a6c3bb4d58d448307241e997aeb54e54ecacb3838f246b96",
+    "version": "BCFZ"
+  },
+  "tempo": 148,
+  "title": "Empty Bed",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,122 @@
+{
+  "artist": "Mumford & Sons",
+  "artistNormalized": "mumford sons",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[Dm]Where do I\nturn to\n[C]when there's no choice to\n[F]make?\n[Bb]And how do I\n[Dm]presume\n[C]when there's so much at\n[F]stake?\n[Bb]I was so\n[Dm]sure\n[Em7b5]of it\n[F]all\n[Bb]But what if I\n\n[Chorus]\n[Am]need you\n[Bb]in my darkest\n[Dm]hour?\n[F]And what if it\n[Am]turns out\n[Bb]there is no\n[Dm]other?\n[F]If\n\n[Bridge]\n[Bb]this [F]is\nour\n[Bb]last [F]hope\nWe would\n[Bb]see a sign, [F]oh\n[Am]We would see a\n[Bb]sign [F]\nWell I've been\n\n[Verse 2]\n[Dm]running\n[C]from the ashes we\n[F]left\n[Bb]Forgiveness\n[Dm]speaks for itself\n[C]but how can I forget\n[F]\n[Bb]When there's a\n[Dm]stain\n[Em7b5]on it\n[F]all\n[Bb]But what if I\n\n[Chorus]\n[Am]need you\n[Bb]in my darkest\n[Dm]hour?\n[F]And what if it\n[Am]turns out\n[Bb]there is no other?\n[Dm]\n[F]We had it\n[Bb]all\n[C]If\n\n[Bridge]\n[Bb]this [F]is\nour\n[Bb]time [F]now\nWe wanna\n[Bb]see a sign, [F]\n[Am]oh We\n[Bb]would see a [F]sign\nSo give\n[Bb]us a [F]sign\nI need some\n[Bb]guiding [F]light\nChildren of\n[F][Bb]darkness,\noh\n\n[Outro]\n[Bb]  [F]\n[Bb]  [F]\n[Am]\n[Bb]  [F]\n[Bb]  [F]\n[Am]\n[Bb]  [F]\n[Bb]  [F]\n[Am]\n[Bb]  [F]\n[Bb]  [F]\n[Am]\n[Bb]  [F]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em7b5": {
+      "catalog": [
+        "67878x"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "42",
+  "id": "504b491e8b6a5af72ede7f834a85b6d57e187cc5f9bbfa5be32cf1e709ceeca0",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 159,
+  "normalizedKey": "mumford sons|42",
+  "playableChords": [
+    "Dm",
+    "C",
+    "F",
+    "Bb",
+    "Em7b5",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Bridge"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Bridge"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "504b491e8b6a5af72ede7f834a85b6d57e187cc5f9bbfa5be32cf1e709ceeca0",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "42",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

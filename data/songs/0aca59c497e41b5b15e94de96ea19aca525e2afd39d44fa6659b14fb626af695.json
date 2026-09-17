@@ -1,0 +1,115 @@
+{
+  "artist": "Nirvana",
+  "artistNormalized": "nirvana",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[Ebm][Absus2]I'm not like th-\n[Gb]em But [B]I can prete-\n[Ebm]nd [Absus2]The sun is go-\n[Gb]ne But [B]I have a lig-\n[Ebm]ht [Absus2]The day is do-\n[Gb]ne But [B]I'm having fu-\n[Ebm]n [Absus2]I think I'm du-\n[Gb]mb Or [B]maybe just\n\n[Chorus]\n[Ebm]happy\n[Gb]Think I'm just\n[Ebm]happy\n[Gb]Think I'm just\n[Ebm]happy\n[Gb]Think I'm just\n[Ebm]happy\n[Gb]\n\n[Verse 2]\n[Ebm][Absus2]My heart is bro-\n[Gb]ke But [B]I have some glu-\n[Ebm]e [Absus2]Help me inha-\n[Gb]le And [B]mend it with yo-\n[Ebm]u [Absus2]We'll float arou-\n[Gb]nd And [B]hang out on clo-\n[Ebm]uds [Absus2]Then we'll come do-\n[Gb]wn And [B]have a hang-\n\n[Chorus]\n[Ebm]over\n[Gb]Have a hang-\n[Ebm]over\n[Gb]Have a hang-\n[Ebm]over\n[Gb]Have a hang-\n[Ebm]over\n[Gb]\n\n[Bridge]\n[B]Skin the su-\n[Bb]n Fall asleep\n[B]Wish awa-\n[Bb]y The soul is cheap\n[B]Lesson learn-\n[Bb]ed Wish me luck\n[B]Soothe the burn\n[Bb]Wake me up\n\n[Verse 3]\n[Ebm][Absus2]I'm not like th-\n[Gb]em But [B]I can prete-\n[Ebm]nd [Absus2]The sun is go-\n[Gb]ne But [B]I have a lig-\n[Ebm]ht [Absus2]The day is do-\n[Gb]ne But [B]I'm having fu-\n[Ebm]n [Absus2]I think I'm du-\n[Gb]mb Or [B]maybe just\n\n[Chorus]\n[Ebm]happy\n[Gb]Think I'm just\n[Ebm]happy\n[Gb]Think I'm just\n[Ebm]happy\n[Gb]Think I'm just\n[Ebm]happy\n[Gb]\n\n[Outro]\n[Ebm][Absus2]I think I'm [B][Gb]du-\n[Ebm]mb [Absus2]I think I'm [B][Gb]du-\n[Ebm]mb [Absus2]I think I'm [B][Gb]du-\n[Ebm]mb [Absus2]I think I'm [B][Gb]du-\n[Ebm]mb [Absus2]I think I'm [B][Gb]du-\n[Ebm]mb [Absus2]I think I'm [B][Gb]du-\n[Ebm]mb I think I'm du-\nmb I think I'm du-\nmb I think I'm du-\nmb I think I'm du-\nmb I think I'm du-\nmb I think I'm du-\nmb",
+  "diagrams": {
+    "Absus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x32010",
+        "x35553",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x2444x",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Ebm": {
+      "catalog": [
+        "022000",
+        "x-x-1-3-4-2",
+        "x-6-8-8-7-6",
+        "11-13-13-11-11-11",
+        "x-x-13-15-16-14"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "320003",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dumb *alt 2",
+  "id": "0aca59c497e41b5b15e94de96ea19aca525e2afd39d44fa6659b14fb626af695",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 272,
+  "normalizedKey": "nirvana|dumb",
+  "playableChords": [
+    "Ebm",
+    "Absus2",
+    "Gb",
+    "B",
+    "Bb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0aca59c497e41b5b15e94de96ea19aca525e2afd39d44fa6659b14fb626af695",
+    "version": "BCFZ"
+  },
+  "tempo": 115,
+  "title": "Dumb",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

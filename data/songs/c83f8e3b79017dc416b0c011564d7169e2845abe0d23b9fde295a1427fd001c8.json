@@ -1,0 +1,118 @@
+{
+  "artist": "Nine Inch Nails",
+  "artistNormalized": "nine inch nails",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[Bm]I\n[D]hurt [E]myself toda-\n[Bm]y To\n[D]see if I [E]still fee-\n[Bm]l I\n[D]focus on [E]the pai-\n[Bm]n The\n[D]only thing [E]that's rea-\n[Bm]l The\n[D]needle [E]tears a ho-\n[Bm]le The\n[D]old [E]familiar sti-\n[Bm]ng Try to ki-\n[D]ll it all [E]awa-\n[Bm]y But I reme-\n[D]mber [E]everythi-\n\n[Bridge]\n[A]ng\n[Bm]\n[G]\n[D]\n[A]\n[Bm]\n[G]\n[D]\n\n[Chorus]\n[A]\n[Bm]What have I beco-\n[G]me?\n[D]My sweetest frie-\n[A]nd\n[Bm]Everyone I kno-\n[G]w Goes awa-\n[D]y in the e-\n[A]nd\n[Bm]You could have it a-\n[G]ll\n[A]My empire of di-\nrt\n[Bm]I will let you dow-\n[G]n\n[A]I will make you hur-\n[Bm]t\n[D]  [E]\n[Bm]\n[D]  [E]\n\n[Verse 2]\n[Bm]I\n[D]wear this [E]crown of shi-\n[Bm]t U-\n[D]pon my [E]liar's chai-\n[Bm]r\n[D]Full of [E]broken thou-\n[Bm]ghts\n[D]I cannot [E]repai-\n[Bm]r Be-\n[D]neath the stains [E]of ti-\n[Bm]me The\n[D]feelings [E]disappea-\n[Bm]r\n[D]You are [E]someone el-\n[Bm]se\n[D]I am still [E]right he-\n\n[Chorus]\n[A]re\n[Bm]What have I beco-\n[G]me?\n[D]My sweetest frie-\n[A]nd\n[Bm]Everyone I kno-\n[G]w Goes awa-\n[D]y in the e-\n[A]nd\n[Bm]You could have it a-\n[G]ll\n[A]My empire of di-\nrt\n[Bm]I will let you dow-\n[G]n\n[A]I will make you hur-\nt If\n[Bm]I could start agai-\n[G]n A\n[A]million miles awa-\ny\n[Bm]I would keep myse-\n[G]lf\n[A]I would [D]find a wa-\n[B]y",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hurt",
+  "id": "c83f8e3b79017dc416b0c011564d7169e2845abe0d23b9fde295a1427fd001c8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 243,
+  "normalizedKey": "nine inch nails|hurt",
+  "playableChords": [
+    "Bm",
+    "D",
+    "E",
+    "A",
+    "G",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c83f8e3b79017dc416b0c011564d7169e2845abe0d23b9fde295a1427fd001c8",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "Hurt",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

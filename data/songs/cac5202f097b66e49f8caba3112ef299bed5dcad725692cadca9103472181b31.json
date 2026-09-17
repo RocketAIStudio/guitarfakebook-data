@@ -1,0 +1,140 @@
+{
+  "artist": "Nazareth",
+  "artistNormalized": "nazareth",
+  "capo": "No capo",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[G]\n[F]  [C]\n[G]\n[F]  [C]\n[G]Love\n\n[Verse 1]\n[G]hurts Love\n[Em]scars Love\n[C]wounds And\n[D]bonds [Cadd9]any\n[G]heart Not\n[Em]tough Or\n[C]strong e-\n[D]nough To [Cadd9]take a lot of\n[G]pain [B]Take a lot of\n[Em]pain [B]Love is like a\n[C]flood Or just\n[D]like the rain [Cadd9]Love\n[G]hurts\n[F][C]Love\n[G]hurts\nI'm\n\n[Verse 2]\nyoung I\n[Em]know But\n[C]even\n[D]so [Cadd9]I know a\n[G]thing or\n[Em]two I\n[C]learned from\n[D]you I [Cadd9]really learned a\n[G]lot [B]Really learned a\n[Em]lot [B]Love is like a\n[C]flame It burns you\n[D]when it's hot [Cadd9]Love\n[G]hurts\n[F][C]Love\n[G]hurts\n\n[Bridge]\n[Em]Some fools think Of\n[B]happiness [Em]\n[B]Blissfulness [Em]To-\n[B]getherness [Em]\n[A]Some fools Fool them-\nselves I guess\nthey're not foolin'\n[D]me I [Cadd9]know it isn't\n[Em]true [B]Know it isn't\n[Em]true [B]Love is just a\n[C]lie made to\n[D]make you blue [Cadd9]Love\n[G]hurts\n[F][C]Love\n[G]hurts\n[F][C]Love\n[G]hurts\n\n[Solo]\n[G]\n[Em]\n[C]\n[D]  [Cadd9]\n[G]\n[Em]\n[C]\n[D][Cadd9]Know it isn't\n\n[Outro]\n[G]true [B]Know it is not\n[Em]true [B]Love is just a\n[C]lie made to\n[D]make you blue [Cadd9]Love\n[G]hurts\n[F][C]Love\n[G]hurts\n[F][C]Love\n[G]hurts\n[F]  [C]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32030"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Love Hurts",
+  "id": "cac5202f097b66e49f8caba3112ef299bed5dcad725692cadca9103472181b31",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 166,
+  "normalizedKey": "nazareth|love hurts",
+  "playableChords": [
+    "G",
+    "F",
+    "C",
+    "Em",
+    "D",
+    "Cadd9",
+    "B",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Bridge"
+    },
+    {
+      "measure": 58,
+      "name": "Solo"
+    },
+    {
+      "measure": 66,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cac5202f097b66e49f8caba3112ef299bed5dcad725692cadca9103472181b31",
+    "version": "BCFZ"
+  },
+  "tempo": 79,
+  "title": "Love Hurts",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

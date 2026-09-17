@@ -1,0 +1,104 @@
+{
+  "artist": "Nathaniel Rateliff",
+  "artistNormalized": "nathaniel rateliff",
+  "capo": "3",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\nIt ain't alright,\n\n[Verse 1]\n[Am]the\n[F/C]hardness of my head\n[C]\nNow close your eyes\n[Am]and\n[F/C]spin around Say,\n[G]hard [C]times,\n[G]you could find [C]That\n[G]it ain't the [C]way that you want\n[F/C]\nBut it's still alright\n[C]\nLate at night,\n\n[Verse 2]\n[Am]do you\n[F/C]lay around wondering?\n[C]\nCounting all the lines,\n[Am]it ain't so\n[F/C]funny now Say,\n[G]times are [C]hard, you\n[G]get this far [C]But it\n[G]ain't the [C]way that you want\n[F/C]\n[G]I'll be [C]damned if\n[G]this old man [C]Don't\n[G]start to [C]counting his losses\n[F/C]\nBut it's still alright\n[C]\n\n[Verse 3]\n[G]They say you learn a\nlot out there\n[C]How to\nscorch and burn\n[G]Gonna have to\nbury your friends\n[C]And then you'll\nfind it gets worse\n[G]Standing\nout on the ledge\n[C]With no\nway to get down\n[G]Start\npraying for wings to grow\n[F/C]\nOh, baby, just let go\n[C]\n\n[Solo]\n[Am]\n[F/C]\n[C]\n[Am]\n[F/C]\n[C]\n[Am]\n[F/C]\n[C]\n[Am]\n[F/C]\n[C]\nI ain't alright,\n\n[Verse 4]\n[Am]you keep\n[F/C]spinning out ahead\n[C]\nIt was cold outside\n[Am]when I\n[F/C]hit the ground Say,\n[G]I could sleep [C]here, for-\n[G]get all the fear [C]\n[G]It will take [C]time to grow\n[F/C]\nMaybe, I don't know\n[C]\nHey, tonight,\n\n[Verse 5]\n[Am]if you\n[F/C]think about it again\n[C]\nRemembering all the times\n[Am]that you\n[F/C]pointed out Say,\n[G]the glass is [C]clear, but\n[G]all this fear [C]\n[G]Starts [C]aleaving a mark\n[F/C]\n[G]Your idle [C]hands are\n[G]all that stands [C]\n[G]From your [C]time in the dark\n[F/C]\nBut it's still alright\n\n[Outro]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F/C": {
+      "catalog": [
+        "x3321x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "And Its Still Alright",
+  "id": "32c23ab5ef7b504f39e269f64a57d475295455a7c133f77f30e6e56076cf73e2",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 241,
+  "normalizedKey": "nathaniel rateliff|and its still alright",
+  "playableChords": [
+    "C",
+    "Am",
+    "F/C",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 81,
+      "name": "Solo"
+    },
+    {
+      "measure": 99,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 118,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 140,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "32c23ab5ef7b504f39e269f64a57d475295455a7c133f77f30e6e56076cf73e2",
+    "version": "BCFZ"
+  },
+  "tempo": 155,
+  "title": "And Its Still Alright",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

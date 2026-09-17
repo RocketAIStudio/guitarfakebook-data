@@ -1,0 +1,105 @@
+{
+  "artist": "My Chemical Romance",
+  "artistNormalized": "my chemical romance",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[E]\n[A]\n[E]\n[B]\n[A]\n[E]\nThey're selling\n\n[Verse 1]\n[E]postcards of the hang-\ning Well they're\n[A]painting the passports brown\n[E]And the\n[B]beauty parlor's filled\nwith sailors The\n[A]circus is in town\n[E]Oh now look,\nhere comes the blind commis-\nsioner Well they\n[A]got him in a trance\n[E]One\n[B]hand is tied to the tight-\nrope walker The\n[A]other's in his pants\n[E]And the\n\n[Chorus]\n[A]riot squad they're rest-\nless They\n[E]need somewhere to go\n[A]As\nLady and I look\n[B]out tonight From\n[A]Desolation\n[E]Row\nOh Cinder-\n\n[Verse 2]\n[E]ella, she seems so\neasy \"Well it takes\n[A]one to know one,\" she\n[E]smiles And she puts\n[B]her hands in her\nback pockets Oh\n[A]Bette Davis style\n[E]And now\nhere comes the Romeo,\nmoaning \"You Belong\n[A]to Me I Believe\"\n[E]And if\n[B]someone says, \"You're in the\nwrong place, my friend\n[A]You better leave\"\n[E]And then the\n\n[Chorus]\n[A]only sound that's left\nAfter the\n[E]ambulances go\n[A]Is\nCinderella\n[B]sweeping up On\n[A]Desolation\n\n[Break]\n[E]Row\n\n[Solo]\n[E]\n[A]  [E]\n[B]\n[A]  [E]\n[A]  [E]\n[B]\n[A]\n[E]Now at\n\n[Interlude]\n[E]midnight all the a-\ngents And\n[A]superhuman crew\n[E]Go\n[B]out and round up e-\nveryone That knows\n[A]more than they do\n[E]They're going to\n[E]bring them to the fac-\ntory Where the\n[A]heartattack machine\n[E]Is\n[B]strapped across their\nshoulders And\n[A]then the kerosene\n[E]Is\n\n[Chorus]\n[A]brought down from the cast-\nles By in-\n[E]surance men who go\n[A]Check to\nsee that no one is\n[B]escaping To\n[A]Desolation\n[E]Row Because\n[A]right now I can't read\ntoo good Don't\n[E]send me no letters no\n[A]Not un-\nless you're going to\n[B]mail them From\n[A]Desolation\n\n[Outro]\n[E]Row",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Desolation Row",
+  "id": "7e7dd402ff6d6c39bb130ee414241e6c50c4e500a85140ebd20eca55c4a8fdac",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 313,
+  "normalizedKey": "my chemical romance|desolation row",
+  "playableChords": [
+    "E",
+    "A",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Break"
+    },
+    {
+      "measure": 65,
+      "name": "Solo"
+    },
+    {
+      "measure": 81,
+      "name": "Interlude"
+    },
+    {
+      "measure": 97,
+      "name": "Chorus"
+    },
+    {
+      "measure": 112,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7e7dd402ff6d6c39bb130ee414241e6c50c4e500a85140ebd20eca55c4a8fdac",
+    "version": "BCFZ"
+  },
+  "tempo": 168,
+  "title": "Desolation Row",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

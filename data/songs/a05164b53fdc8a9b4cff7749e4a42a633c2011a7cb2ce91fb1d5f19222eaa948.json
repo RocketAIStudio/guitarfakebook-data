@@ -1,0 +1,135 @@
+{
+  "artist": "Neil Young",
+  "artistNormalized": "neil young",
+  "capo": "No capo",
+  "chordPositionCount": 29,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[D]\n[Dsus2/C]\n[G6/B]\n[Dsus2/Bb]\n[C]\n[C7]\n[Esus4]\n[E]\n\n[Verse 1]\n[D]I cau ght you kno ckin' at\n[Dsus2/C]my cellar door\n[G6/B]I love you, ba by, can I\n[Dsus2/Bb]have some more\n[C]Ooh,\n[F]ooh, the dam age do\n[Esus4]ne\n[E]\n[D]I hit the ci ty and I\n[Dsus2/C]lost my ba nd\n[G6/B]I watched the nee dle take\n[Dsus2/Bb]ano ther man\n[C]Gone,\n[F]gone, the dam age done\n[Esus4]\n[E]\n\n[Interlude]\n[D]\n[Dsus2/C]\n[G6/B]\n[Dsus2/Bb]\n[C]\n[C7]\n[Esus4]\n[E]\n\n[Verse 2]\n[D]I sing the song bec ause I\n[Dsus2/C]love the man\n[G6/B]I know that some of you don't\n[Dsus2/Bb]un der stand\n[C]Milk-\n[F]blood to keep from run\n[Esus4]ning\n[E]out\n[D]I've seen the needle and the dam\n[Dsus2/C]age do ne\n[G6/B]A little part of it in\n[Dsus2/Bb]eve ry one\n[C]But eve ry jun kie's like a\n[F]set tin' sun.\n[Esus4]\n[E]\n\n[Outro]\n[D]\n[Dsus2/C]\n[G6/B]\n[Dsus2/Bb]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2/Bb": {
+      "catalog": [
+        "x1x230"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2/C": {
+      "catalog": [
+        "x3x230"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Esus4": {
+      "catalog": [
+        "022200"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "xx3211",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G6/B": {
+      "catalog": [
+        "x20030"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Needle And The Damage Done *alt",
+  "id": "a05164b53fdc8a9b4cff7749e4a42a633c2011a7cb2ce91fb1d5f19222eaa948",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 110,
+  "normalizedKey": "neil young|the needle and the damage done",
+  "playableChords": [
+    "D",
+    "Dsus2/C",
+    "G6/B",
+    "Dsus2/Bb",
+    "C",
+    "C7",
+    "Esus4",
+    "E",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a05164b53fdc8a9b4cff7749e4a42a633c2011a7cb2ce91fb1d5f19222eaa948",
+    "version": "BCFZ"
+  },
+  "tempo": 106,
+  "title": "The Needle And The Damage Done",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

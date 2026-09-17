@@ -1,0 +1,122 @@
+{
+  "artist": "Moose Blood",
+  "artistNormalized": "moose blood",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[E]Do you wanna come over la-\n[C#m]ter [B]to my house?\n[E]Watch American Beauty in the da-\n[C#m]rk [B]\n[E]And I'll hold your hand till the very e-\n[C#m]nd, the [B]very end A-\n[E]nd we'll stay awake till tomorrow sta-\n[C#m]rts [B]\n[E]Do you wanna come over la-\n[C#m]ter [B]to my house?\n[E]Listen to your favourite so-\n[C#m]ngs [B]We'll pre-\n[E]tend the words ain't true They don't mean\n[C#m]anything to [B]you But\n[E]do you wanna come over la-\n[C#m]ter [B]\n[A]\nto my house?\n\n[Interlude]\n[E]\n[C#m]  [B]\n[E]\n[C#m]  [B]\n\n[Verse 2]\n[E]I've been smoking too much late-\n[C#m]ly I can [B]feel it on my\n[E]chest But I'll stand in the garden wi-\n[C#m]th you [B]\n[E]I didn't get much sleep last night\n[C#m]But that's alright [B]It was wo-\n[E]rth it just to see you move that\n[C#m]hair from your eyes [B]And\n[A]\nsmile like you do\n\n[Bridge]\n[F#m]  [A]\n[E]  [D]\n[F#m]  [A]\n[E]  [F#m]\n[F#m]  [A]\n[E]  [D]\n[F#m]  [A]\n[E]  [F#m]\n\n[Chorus]\n[F#m]Stay with [A]me to-\n[E]night [F#m]\n[F#m]I'll kiss your [A]head till the mo-\n[E]rning [F#m]\n[F#m]I'll let you [A]sleep on my\n[E]side [F#m]of the be-\n[F#m]d, girl [A]\n[E]  [F#m]\n[F#m]Stay with [A]me to-\n[E]night [F#m]\n[F#m]I'll kiss your [A]head till the mo-\n[E]rning [F#m]\n[F#m]I'll let you [A]sleep on my\n[E]side [F#m]of the be-\n[F#m]d, girl. [A]\n[E]  [F#m]\n\n[Outro]\n[F#m]  [A]\n[E]  [D]\n[F#m]  [A]\n[E]  [F#m]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Gum",
+  "id": "8bc929af8d1e3ac0f24b0effea1b9d651ccb50ac0a688464d06f9364750e9e1a",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 209,
+  "normalizedKey": "moose blood|gum",
+  "playableChords": [
+    "E",
+    "C#m",
+    "B",
+    "A",
+    "F#m",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Interlude"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8bc929af8d1e3ac0f24b0effea1b9d651ccb50ac0a688464d06f9364750e9e1a",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "Gum",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

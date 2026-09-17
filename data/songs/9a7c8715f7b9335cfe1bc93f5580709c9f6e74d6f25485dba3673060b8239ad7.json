@@ -1,0 +1,80 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[B5]  [C#5]\n[B5]\n[C#5]\n[B5]\n\n[Verse 1]\n[B5]Hobo [C#5]I'm\n[B5]hobophobic so what\nah ah\nah\nScared of bums [C#5]\nNot [B5]just because they\nstink bad [D#5]\n[C#5]Not [B5]just because\nthey're crackers [C#5]\nFrom [B5]drinking too much\nLysol\n\n[Chorus]\n[Ab5]Let\nthem\n[B5]be\nJust don't get fucking\nnear me [C#5]\n[B5]Scared of bums\nah ah\nah In-\n\n[Verse 2]\n[B5]fested [C#5]\nwith [B5]microscopic\nbugs [D#5]\n[C#5]and [B5]Endocrine systematic\ndoo doo [C#5]\nWhy [B5]don't they get a\njob\n\n[Chorus]\n[Ab5]Let\nthem\n[B5]be\nJust don't get fucking\nnear me [C#5]\n[B5]Scared of bums",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hobophobic (Scared of Bums)",
+  "id": "9a7c8715f7b9335cfe1bc93f5580709c9f6e74d6f25485dba3673060b8239ad7",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 88,
+  "normalizedKey": "nofx|hobophobic scared of bums",
+  "playableChords": [
+    "B5",
+    "C#5",
+    "D#5",
+    "Ab5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9a7c8715f7b9335cfe1bc93f5580709c9f6e74d6f25485dba3673060b8239ad7",
+    "version": "BCFZ"
+  },
+  "tempo": 224,
+  "title": "Hobophobic (Scared of Bums)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

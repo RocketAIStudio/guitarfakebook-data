@@ -1,0 +1,103 @@
+{
+  "artist": "Nirvana",
+  "artistNormalized": "nirvana",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[G#m]I'm on\nmy time with\n[F#]everyone\n[G#m]I have\nvery bad\n[F#]posture\n\n[Chorus]\n[B5]Sit and drink\n[C#5]Pennyroyal\n[A5]Tea\n[B5]Distill the life\n[C#5]that's inside of\n[A5]me\n[B5]Sit and drink\n[C#5]Pennyroyal\n[A5]Tea\n[B5]I'm ane-\n[C#5]mic royal-\n[A5]ty\n\n[Verse 2]\n[G#m]Give me\na Leonard Cohen\n[F#]afterworld\n[G#m]So I\ncan sigh\n[F#]eternally\n\n[Chorus]\n[B5]I'm so tir-\n[C#5]ed and I can't\n[A5]sleep\n[B5]I'm a li-\n[C#5]ar and a\n[A5]thief\n[B5]Sit and drink\n[C#5]Pennyroyal\n[A5]Tea\n[B5]I'm ane-\n[C#5]mic royal-\n[A5]ty\n\n[Guitar Solo]\n[G#m]\n[F#]\n[G#m]\n[F#]\n[B5]\n[C#5]\n[A5]\n[B5]\n[C#5]\n[A5]\nI'm\n\n[Verse 3]\n[G#m]on\nwarm milk\n[F#]and laxatives\n[G#m]Cherry--\nflavored an-\n[F#]tacids\n\n[Chorus]\n[B5]Sit and drink\n[C#5]Pennyroyal\n[A5]Tea\n[B5]Distill the life\n[C#5]that's inside of\n[A5]me\n[B5]I'm ane-\n[C#5]mic royal-\n[A5]ty\n[B5]I'm ane-\n[C#5]mic royal-\n[A5]ty\n\n[Outro]\n[G#m]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "320003",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "x02210"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pennyroyal Tea *alt",
+  "id": "0191360d365d42a177740ee003d405403797a86d3cca8577468f7a35ab8b861c",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 134,
+  "normalizedKey": "nirvana|pennyroyal tea",
+  "playableChords": [
+    "G#m",
+    "F#",
+    "B5",
+    "C#5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0191360d365d42a177740ee003d405403797a86d3cca8577468f7a35ab8b861c",
+    "version": "BCFZ"
+  },
+  "tempo": 111,
+  "title": "Pennyroyal Tea",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

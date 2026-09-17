@@ -1,0 +1,100 @@
+{
+  "artist": "Motorama",
+  "artistNormalized": "motorama",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]I\n\n[Verse 1]\n[E]am alone,\n[G#m]\n[E]throwing stones to the dark\n[G#m]\n[E]Thousand lights on a ship\n[G#m]stern glow\n[E]Following my eyes\n[G#m]Be-\n[E]fore the dawn,\n[G#m]\n[E]all of us gone to their homes\n[G#m]Be-\n[E]fore the dawn,\n[G#m]\n[E]I will be far from this\n[G#m]place\n\n[Bridge]\n[B]\n[A]\n[B]\n[A]\n[B]\n[A]\n[B]\n[A]\n\n[Interlude]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]I\n\n[Verse 2]\n[E]am alone,\n[G#m]\n[E]watching birds flying a-\n[G#m]bove With an\n[E]empty map, with no\n[G#m]thoughts in my head I was\n[E]watching them flying a-\n[G#m]bove Be-\n[E]fore the dawn,\n[G#m]\n[E]seasons are changing too\n[G#m]fast Be-\n[E]fore the dawn,\n[G#m]\n[E]I will be far from this\n[G#m]place\n\n[Bridge]\n[B]\n[A]\n[B]\n[A]\n[B]\n[A]\n[B]\n[A]\n\n[Outro]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]\n[G#m]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Northern Seaside",
+  "id": "c88769557c42d430ff750053821c6fc9577b81e49f165a09fe5d8360c3f3fa3f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 98,
+  "normalizedKey": "motorama|northern seaside",
+  "playableChords": [
+    "E",
+    "G#m",
+    "B",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Interlude"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 97,
+      "name": "Bridge"
+    },
+    {
+      "measure": 113,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c88769557c42d430ff750053821c6fc9577b81e49f165a09fe5d8360c3f3fa3f",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "Northern Seaside",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

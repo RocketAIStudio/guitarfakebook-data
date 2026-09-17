@@ -1,0 +1,146 @@
+{
+  "artist": "Muse",
+  "artistNormalized": "muse",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am]\n[E7]\n[Dm]\n[Am]\n[Am]\n[E7]\n[Dm]\n[Am]\n\n[Pre-Verse]\n[Am]\n[E7]\n[Dm]\n[Am]\n[Am]\n[E7]\n[Dm]\n[Am]It's\n\n[Verse 1]\n[Am]bugging me\n[E7]Grating me and\n[Dm]Twisting me aro-\n[Am]und Yeah I'm\nendlessly\n[E7]Caving in and\n[Dm]Turning inside out\n[Am]Cuz I want it\n\n[Chorus]\n[C]now I want it\n[G7]now\n[Dm]Give me your heart and your\nsoul And I'm breaking\n[C]out I'm breaking\n[G7]out\n[Dm]Last chance to loose control\n[E7]\n\n[Pre-Verse]\n[Am]\n[E7]\n[Dm]\n[Am]It's\n\n[Verse 2]\n[Am]holding me\n[E7]Morphing me and\n[Dm]Forcing me to stri-\n[Am]ve To be\nendlessly\n[E7]Cold within and\n[Dm]Dreamin' I'm alive\n[Am]Cuz I want it\n\n[Chorus]\n[C]now I want it\n[G7]now\n[Dm]Give me your heart and your\n[Am]soul And I'm breaking\n[C]down I'm breaking\n[G7]out\n[Dm]Last chance to loose control\n[Am]  [E7]\n\n[Pre-solo riff]\n[E7]\n\n[Solo 1]\n[Am]\n[E7]\n[Dm]\n[Am]\n[Am]\n[E7]\n[Dm]\n[Am]\n\n[Solo 2]\n[C]\n[G]\n[Dm]\n[Am]\n[C]\n[G]\n[Dm]\n[Am]And I want you\n\n[Chorus]\n[C]now I want you\n[G7]now\n[Dm]I feel my heart implode\n[Am]And I'm breaking\n[C]out Escaping\n[G7]now\n[Dm]Feeling my faith erode\n[Am]  [E7]\n\n[Outro]\n[E7]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hysteria",
+  "id": "a0b4abd2b03164156322bb2cc11e9439e32972339423a2bc1aba593d8507f40e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 148,
+  "normalizedKey": "muse|hysteria",
+  "playableChords": [
+    "Am",
+    "E7",
+    "Dm",
+    "C",
+    "G7",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Pre-solo riff"
+    },
+    {
+      "measure": 57,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 65,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a0b4abd2b03164156322bb2cc11e9439e32972339423a2bc1aba593d8507f40e",
+    "version": "BCFZ"
+  },
+  "tempo": 93,
+  "title": "Hysteria",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

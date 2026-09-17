@@ -1,0 +1,105 @@
+{
+  "artist": "Neutral Milk Hotel",
+  "artistNormalized": "neutral milk hotel",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[C]\n[G]\n[C]\n[G]\n\n[Verse 1]\n[C]The only girl I've e-\n[G]ver loved\n[C]Was born with roses in\n[G]her eyes\n[C]But then they buried her a-\n\n[Pre-Chorus]\n[G]live One evening [D]ninghty fourty -\n[C]five With just her [D]sister at her\n[G]side And on ly [D]weeks before the\n[C]guns All came and [D]rained on e very-\n[G]one Now she's a [D]little boy in Spain\n[C]Playing [D]pianos filled with\n[G]flames On empty rings [D]around the sun\n[C]All sing to say [D]my dream has\n[C]come\n[G]But now we must\n\n[Chorus]\n[C]pick up every\n[G]piece Of the\n[C]life we used to\n[G]love Just to\n[C]keep ourselves At\n[G]least enough to carry\n[D]on\n\n[Verse 2]\n[C]And now we ride the cir-\n[G]cus wheel\n[C]With your dark brother wrapped\n[G]in white\n[C]Says it was good to be a-\n\n[Pre-Chorus]\n[G]live But now he [D]rides a comet's\n[C]flame And won't be [D]coming back a-\n[G]gain The Earth looks [D]better from a\n[C]star That's right [D]above from where you\n[G]are He didn't [D]mean to make you cry\n[C]With sparks that ring [D]and bullets\n[G]fly On empty rings [D]around your heart\n[C]The world just screams [D]and falls a-\n[C]part\n[G]But now we must\n\n[Chorus]\n[C]pick up every\n[G]piece Of the\n[C]life we used to\n[G]love Just to\n[C]keep ourselves At\n[G]least enough to carry\n[D]on\nAnd [G]here's where your\n\n[Bridge]\n[C]mother sleeps\n[G]And here is the\n[C]room where your brothers were\n[G]born Indentations\n[C]in the sheets\n[G]Where their bodies once\n[C]moved but don't move any-\n[D]more And it's so\n\n[Outro 1]\n[C]sad to [G]see the\n[C]world [G]agree That they'd\n[C]rather see their [G]faces fill with flies\n[D][G]All when I'd\n[C]want to [G]keep white\n[D]roses in their\n[G]eyes\n\n[Outro 2]\n[C]\n[G]\n[C]\n[D]\n[C]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Holland, 1945",
+  "id": "b0442fe1160e16da25267619b97c4bd8af06186d03b87eb3164116ca2d226932",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 306,
+  "normalizedKey": "neutral milk hotel|holland 1945",
+  "playableChords": [
+    "C",
+    "G",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Outro 1"
+    },
+    {
+      "measure": 69,
+      "name": "Outro 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b0442fe1160e16da25267619b97c4bd8af06186d03b87eb3164116ca2d226932",
+    "version": "BCFZ"
+  },
+  "tempo": 99,
+  "title": "Holland, 1945",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

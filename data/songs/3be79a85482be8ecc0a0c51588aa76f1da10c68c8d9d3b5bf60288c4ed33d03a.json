@@ -1,0 +1,129 @@
+{
+  "artist": "Muse",
+  "artistNormalized": "muse",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D5]\n[D5]  [C5]  [G5]  [F5]\n[D5]\n\n[Verse 1]\n[D5]Floozy\nYou got me trapped in your dark\nfantasy world\nDon't you know you make me\nwoozy?\nYou have me wrapped around your\nlittle finger\nBaby, don't you know you\n\n[Pre-Chorus]\n[Gm]can't lose\n[F]You make me offers that I\n[A]can't refuse\n[Gm]You keep telling pretty\n[F]lies You toy with the\n[A]truth You're killing me with your\n\n[Chorus]\n[D5]\n[D5]  [C5]  [G5]  [F5]\n\n[Verse 2]\n[D5]Cold chick\nYou ate my soul just like a\nDeath Eater\nI'm the ocean, you're an\noil slick\nNow I am choking on your\nthought pollution\nBaby, don't you know you\n\n[Pre-Chorus]\n[Gm]can't lose\n[F]You make me offers that I\n[A]can't refuse\n[Gm]You keep telling pretty\n[F]lies You toy with the\n[A]truth You're killing me with your\n\n[Chorus]\n[D5]\n[D5]  [C5]  [G5]  [F5]\n\n[Solo]\n[D5]\n\n[Outro]\n[Gm]Can't lose\n[F]You make me offers that I\n[A]can't refuse\n[Gm]You keep telling pretty\n[F]lies, babe\n[A]Baby, don't you know you\n[Gm]can't lose?\n[F]You make me offers that I\n[A]can't refuse\n[Gm]You contort me with your\n[F]lies, babe\n[A]Don't you know that you just\n[Gm]can't lose?\n[F]You make me offers that I\n[A]can't refuse\n[Gm]You keep telling pretty\n[F]lies You play with the\n[A]truth You're killing me with your\n[D5]  [C5]  [G5]  [F5]\n[D5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Propaganda",
+  "id": "3be79a85482be8ecc0a0c51588aa76f1da10c68c8d9d3b5bf60288c4ed33d03a",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 214,
+  "normalizedKey": "muse|propaganda",
+  "playableChords": [
+    "D5",
+    "C5",
+    "G5",
+    "F5",
+    "Gm",
+    "F",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Solo"
+    },
+    {
+      "measure": 51,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3be79a85482be8ecc0a0c51588aa76f1da10c68c8d9d3b5bf60288c4ed33d03a",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "Propaganda",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

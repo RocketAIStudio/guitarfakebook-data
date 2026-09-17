@@ -1,0 +1,126 @@
+{
+  "artist": "Neil Young",
+  "artistNormalized": "neil young",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]  [Aadd11]\n[D]  [Aadd11]\n[D]  [Aadd11]\n[D][Aadd11]Did I\n\n[Verse 1]\n[D]see you [A]down in a young\n[G]girl's [D]town With your\nmother in so much pain?\n[A]I was\n[G]almost [A]there at the\n[Bm]top of the [E]stairs With her\n[D]screamin' in the rain\nDid she\n\n[Chorus]\n[D]wake you [A]up to\n[G]tell you [D]that It was\nonly a change of plan?\n[A]Dream\n[G]up, dream [A]up, let me\n[Bm]fill your [E]cup With the\n[D]promise of a man\nDid I\n\n[Verse 2]\n[D]see you [A]walking\n[G]with the boys? [D]Though it\nwas not hand in hand\n[A]And was\n[G]some black [A]face in a\n[Bm]lonely place [E]When\n[D]you could understand?\nDid she\n\n[Chorus]\n[D]wake you [A]up to\n[G]tell you [D]that It was\nonly a change of plan?\n[A]Dream\n[G]up, dream [A]up, let me\n[Bm]fill your [E]cup With the\n[D]promise of a man\n\n[Break]\n[D]  [A]\n[G]  [D]\n[A]\n[G]  [A]\n[Bm]  [E]\n[D]\nWill I\n\n[Verse 3]\n[D]see you [A]give more than\n[G]I can [D]take? Will I\nonly harvest some?\n[A]As the\n[G]days fly [A]past, will we\n[Bm]lose our [E]grasp? Or\n[D]fuse it in the sun?\nDid she\n\n[Chorus]\n[D]wake you [A]up to\n[G]tell you [D]that It was\nonly a change of plan?\n[A]Dream\n[G]up, dream [A]up, let me\n[Bm]fill your [E]cup With the\n[D]promise of a man\nDream\n[G]up, dream [A]up, let me\n[Bm]fill your [E]cup With the\n[D]promise of a man",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Aadd11": {
+      "catalog": [
+        "x00220"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Harvest *alt",
+  "id": "b43f95867cc43354dd5f6224590988071703b9587fdd9882ed59b30311d1197b",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 216,
+  "normalizedKey": "neil young|harvest",
+  "playableChords": [
+    "D",
+    "Aadd11",
+    "A",
+    "G",
+    "Bm",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Break"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b43f95867cc43354dd5f6224590988071703b9587fdd9882ed59b30311d1197b",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Harvest",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

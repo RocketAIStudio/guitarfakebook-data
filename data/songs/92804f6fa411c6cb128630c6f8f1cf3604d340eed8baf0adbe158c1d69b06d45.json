@@ -1,0 +1,96 @@
+{
+  "artist": "Misc Traditional",
+  "artistNormalized": "misc traditional",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\n[G]\n[Am]  [D]\n[G]\n\n[Chorus]\n[G]Tooraloora-\nlooral,\n[C]Tooraloora-\nli,\n[Am]Tooraloora-\n[G]looral,\n[Am]hush now, don't you\n[D]cry!\n[G]Tooraloora-\nlooral,\n[C]Tooraloora-\nli,\n[Am]Tooraloora-\n[G]looral, that's an\n[Am]Irish [D]lulla-\n[G]by.\n\n[Verse 1]\n[G]Over in Kil-\nlarney\n[C]Many years a-\ngo, Me\n[Am]Mother sang a\n[G]song to me In\n[Am]tones so sweet and\n[D]low.\n[G]Just a simple\nlittle ditty, In\n[C]her good ould Irish\nway,\n[Am]And l'd give the\n[G]world to here My\n[C]Mother [D]sing to-\n[G]day [D]\n\n[Chorus]\n[G]Tooraloora-\nlooral,\n[C]Tooraloora-\nli,\n[Am]Tooraloora-\n[G]looral,\n[Am]hush now, don't you\n[D]cry!\n[G]Tooraloora-\nlooral,\n[C]Tooraloora-\nli,\n[Am]Tooraloora-\n[G]looral, that's an\n[Am]Irish [D]lulla-\n[G]by.\n\n[Outro]\n[G]Tooraloora-\n[C]looral, that's an\n[Am]Irish [D]lulla-\n[G]by.",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "An Irish Lullaby",
+  "id": "92804f6fa411c6cb128630c6f8f1cf3604d340eed8baf0adbe158c1d69b06d45",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 154,
+  "normalizedKey": "misc traditional|an irish lullaby",
+  "playableChords": [
+    "C",
+    "G",
+    "Am",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "92804f6fa411c6cb128630c6f8f1cf3604d340eed8baf0adbe158c1d69b06d45",
+    "version": "BCFZ"
+  },
+  "tempo": 84,
+  "title": "An Irish Lullaby",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

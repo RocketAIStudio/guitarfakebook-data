@@ -1,0 +1,80 @@
+{
+  "artist": "Misc Computer Games",
+  "artistNormalized": "misc computer games",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C5]Ooh,\n[Fmadd9]Mm,\n[Eb6]Mm,\n[D11]\n\n[Verse 1]\n[C5]I set my sail\n[Fmadd9]Fly the wind, it will take me\n[Eb6]Back to my home,\n[D11]sweet home\n[C5]Lie on my back\n[Fmadd9]Clouds are making way for me\n[Eb6]I'm coming home,\n[D11]sweet home\n\n[Chorus]\n[Eb6]I see your star\n[D11]You left it burning for me\n[Eb6]Mother, I'm here\n[D11]\n\n[Verse 2]\n[C5]Eyes open wide\n[Fmadd9]Feel your heart and it's glowing\n[Eb6]I'm welcome home,\n[D11]sweet home\n[C5]I take your hand\n[Fmadd9]Now you'll never be lonely\n[Eb6]Not when I'm home,\n[D11]sweet home\n\n[Chorus]\n[Eb6]I see your star\n[D11]You left it burning for me\n[Eb6]Mother, I'm here\n[D11]",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "000200"
+      ],
+      "catalogCount": 1
+    },
+    "D11": {
+      "catalog": [
+        "222100"
+      ],
+      "catalogCount": 1
+    },
+    "Eb6": {
+      "catalog": [
+        "333200"
+      ],
+      "catalogCount": 1
+    },
+    "Fmadd9": {
+      "catalog": [
+        "555300"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bastion - Mother, I'm Here",
+  "id": "fd69086ce5ffdadf6c849b4dc7e93ccd7f4387e2114417c77ecc3a496e1e455f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 101,
+  "normalizedKey": "misc computer games|bastion mother i m here",
+  "playableChords": [
+    "C5",
+    "Fmadd9",
+    "Eb6",
+    "D11"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fd69086ce5ffdadf6c849b4dc7e93ccd7f4387e2114417c77ecc3a496e1e455f",
+    "version": "BCFZ"
+  },
+  "tempo": 50,
+  "title": "Bastion - Mother, I'm Here",
+  "tuning": "C G C F G C",
+  "variantRole": "primary"
+}

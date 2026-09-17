@@ -1,0 +1,103 @@
+{
+  "artist": "Message To Bears",
+  "artistNormalized": "message to bears",
+  "capo": "4",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Bm]\n[A]\n[E5]\n[D]\n[Asus2]\n[Bm]\n[A]\n[E5]\n[D]\n[Asus2]\n\n[Theme 1]\n[Bm]\n[A]\n[E5]\n[D]\n[Asus2]\n[Bm]\n[A]\n[E5]\n[D]\n[Asus2]\n\n[Chorus]\n[Bm]And we could\nrun away\n[A]Before the\nlight of day\n[E5]You know we\nalways could The\n[D]mountains say, the\n[Asus2]mountains say\n[Bm]And we could\nrun away\n[A]Before the\nlight of day\n[E5]You know we\nalways could The\n[D]mountains say, the\n[Asus2]mountains say\n\n[Theme 2]\n[Bm]\n[A]\n[E5]\n[D]\n[Asus2]\n\n[Chorus]\n[Bm]And we could\nrun away\n[A]Before the\nlight of day\n[E5]You know we\nalways could The\n[D]mountains say, the\n[Asus2]mountains say\n[Bm]And we could\nrun away\n[A]Before the\nlight of day\n[E5]You know we\nalways could The\n[D]mountains say, the\n[Asus2]mountains say\n[Bm]And we could\nrun away\n[A]Before the\nlight of day\n[E5]You know we\nalways could The\n[D]mountains say, the\n[Asus2]mountains say\n\n[Theme 3]\n[Bm]\n[A]\n[E5]\n[D]\n[Asus2]\n[Bm]\n[A]\n[E5]\n[D]\n[Asus2]\n[Bm]\n[A]\n[E5]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0234x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus2": {
+      "catalog": [
+        "x02322"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24020",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "000000",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "2225xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mountains",
+  "id": "bfc68e13c0ccb2602e407ebe2e342f7a3eaa8743916805790c049a45b3001b7a",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 130,
+  "normalizedKey": "message to bears|mountains",
+  "playableChords": [
+    "Bm",
+    "A",
+    "E5",
+    "D",
+    "Asus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Theme 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Theme 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bfc68e13c0ccb2602e407ebe2e342f7a3eaa8743916805790c049a45b3001b7a",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Mountains",
+  "tuning": "D A D F# A D",
+  "variantRole": "primary"
+}

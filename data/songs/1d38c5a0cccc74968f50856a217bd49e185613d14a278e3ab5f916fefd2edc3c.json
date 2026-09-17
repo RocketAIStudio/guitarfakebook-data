@@ -1,0 +1,132 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 8,
+  "content": "[Verse 1]\n[G5]Last [Eb5]night [F5]was\nreally [G5]fun,\nThat's what [Eb5]I heard from [F5]almost\n[Bb5]everyone [C5]I\ngot a hand stamp [Eb5]but\nnot a [F5]first hand [Bb5]account\n[Eb5]\n\n[Verse 2]\n[G5]I don't [Eb5]remember [F5]what\nbooze I [G5]drank,\nI'm not [Eb5]sure what kind [F5]of\ndrugs were [Bb5]done Without [C5]\nany account [Eb5]\ncan you [C/E]count it as [F5]fun?\n\n[Verse 3]\n[G5]I don't [Eb5]remember [F5]what\nnotes to [G5]play,\nI don't [Eb5]remember [F5]the\nwords I [Bb5]sing [C5]Was\nit a good show if [Eb5]you\ncan't [F5]remember a [Bb5]thing?\n[Ebm]\n\n[Chorus]\n[Ebm]Who sharpied 'slut'\non my forehead?\n[Ebm]How did this\nblood get on my shirt?\n[Bb5]\nWas it\n[Cm]aggravated assault\nIf\n[Eb5]you're the only one\n[F5]who got hurt?\n\n[Solo]\n[G5]  [Eb5]  [F5]\n[G5]\n[Eb5]  [F5]\n[Bb5]  [C5]\n[Eb5]\n[F5]  [Bb5]\n[Ebm]\n\n[Verse 4]\n[G5]I might [Eb5]have met [F5]her\non [G5]myspace,\nI think [Eb5]I went over [F5]\nto her [Bb5]place Does [C5]it\ncount as sex If you [Eb5]can't\n[F5]remember her [Bb5]face?\n[Ebm]\n\n[Verse 5]\n[G5]I [F5][Eb5]disloca-\nted my [G5]knee\nHow come [Eb5]my bedroom [F5]\nsmells like [Bb5]piss? [C5]Was\nit a good time? What did [Eb5]we\ntalk [F5]about? [Bb5]\nAfternoon fades to\n[Ebm]blackout\n\n[Chorus]\n[Ebm]Who's number is\nthis on my hand?\n[Ebm]Why do I have\nshoes without socks?\n[Bb5]\n[Cm]Maybe\nthis is the\n[Eb5]right time for a\n[F5]supervised detox\n\n[Outro]\n[G5]  [Eb5]  [F5]\n[G5]\n[Eb5]  [F5]\n[Bb5]",
+  "diagrams": {
+    "Bb5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C/E": {
+      "catalog": [
+        "x-7-10-9-8-x"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Cm": {
+      "catalog": [
+        "x3554x",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "Eb5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "Ebm": {
+      "catalog": [
+        "x6887x",
+        "x-x-1-3-4-2",
+        "x-6-8-8-7-6",
+        "11-13-13-11-11-11",
+        "x-x-13-15-16-14"
+      ],
+      "catalogCount": 5
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Last Night Was Really Fun",
+  "id": "1d38c5a0cccc74968f50856a217bd49e185613d14a278e3ab5f916fefd2edc3c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 215,
+  "normalizedKey": "nofx|last night was really fun",
+  "playableChords": [
+    "G5",
+    "Eb5",
+    "F5",
+    "Bb5",
+    "C5",
+    "C/E",
+    "Ebm",
+    "Cm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Solo"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1d38c5a0cccc74968f50856a217bd49e185613d14a278e3ab5f916fefd2edc3c",
+    "version": "BCFZ"
+  },
+  "tempo": 162,
+  "title": "Last Night Was Really Fun",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

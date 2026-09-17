@@ -1,0 +1,88 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\nI'm swimming in a\n\n[Verse 1]\n[G]sea of pee\n[D/F#]I'm hiking up a\n[Em]big mountain of poo\n[C]I\nfeel like rolling in glass\nwhen I'm without\n[G]you\nI'm diving in a\n\n[Verse 2]\n[G]pool of puke\n[D/F#]I'm\n[Em]fly fishing a stream of\n[C]puss That's\nhow I feel when\nsomething separates\n[G]us\nI'm living in\n\n[Outro]\n[G]Bakersfield\n[D/F#]I'm at a\n[Em]month long\n[C]hiphop festival",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "x-9-12-11-10-x"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "x-10-12-12-12-10",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Instant Crassic",
+  "id": "7206f4b26542b875aa711016254327283bcd998e52b34b842dad9db0a3cd6dc4",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 75,
+  "normalizedKey": "nofx|instant crassic",
+  "playableChords": [
+    "G",
+    "D/F#",
+    "Em",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7206f4b26542b875aa711016254327283bcd998e52b34b842dad9db0a3cd6dc4",
+    "version": "BCFZ"
+  },
+  "tempo": 195,
+  "title": "Instant Crassic",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

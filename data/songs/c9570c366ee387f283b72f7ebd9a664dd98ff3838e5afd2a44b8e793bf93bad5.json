@@ -1,0 +1,143 @@
+{
+  "artist": "Neil Young & Crazy Horse",
+  "artistNormalized": "neil young crazy horse",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[D]\n[C]  [F5]  [G5]\n[D]\n[C]  [F5]  [G5]\n[D]\n[C]  [F5]  [G5]\n[D]\n[C]  [F5]  [G5]\n\n[Verse 1]\n[D]I wanna live With a\n[Am7add11]cinnamon girl\n[Cadd9]I could be happy The\n[G/B]rest of my life With a\n[D]cinnamon girl.\n[C][Am7add11]A\n[D]dreamer of pictures I\n[Am7add11]run in the night You\n[Cadd9]see us together,\n[G/B]Chasing the moonlight, My\n[D]cinnamon girl.\n[C]  [Am7add11]\n\n[Intrelude]\n[D]\n[C]  [F5]  [G5]\n[D]\n[C]  [F5]  [G5]\n[D]\n[C]  [F5]  [G5]\n[D]\n[C]  [F5]  [G5]\n\n[Verse 2]\n[D]Ten silver saxes, A\n[Am7add11]bass with a bow The\n[Cadd9]drummer relaxes And\n[G/B]waits between shows For his\n[D]cinnamon girl.\n[C][Am7add11]A\n[D]dreamer of pictures I\n[Am7add11]run in the night You\n[Cadd9]see us together,\n[G/B]Chasing the moonlight, My\n[D]cinnamon girl.\n[C]  [Am7add11]\n\n[Intrelude]\n[D]\n[C]  [F5]  [G5]\n[D]\n[C]  [F5]  [G5]\n[D]\n[C]  [F5]  [G5]\n[D]\n[C]  [F5]  [G5]\n\n[Chorus]\n[C]Pa sent me money now\nI'm gonna make it somehow\nI need another chance\n[Gm7]You\nsee your baby loves to dance\n[A]Yeah... Yeah...\nYeah.\n\n[Outro 1]\n[D]\n[Am7add11]\n[Cadd9]\n[G/B]\n[D]\n[C]  [Am7add11]\n[D]\n[Am7add11]\n[Cadd9]\n[G/B]\n[D]\n[C]  [Am7add11]\n\n[Outro 2]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am7add11": {
+      "catalog": [
+        "x02010"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x3201x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32010"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "45777x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "F5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G/B": {
+      "catalog": [
+        "x2003x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gm7": {
+      "catalog": [
+        "55333x",
+        "3-5-3-3-3-3",
+        "x-x-5-7-6-6",
+        "x-10-12-10-11-10",
+        "15-17-15-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Cinnamon Girl",
+  "id": "c9570c366ee387f283b72f7ebd9a664dd98ff3838e5afd2a44b8e793bf93bad5",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 137,
+  "normalizedKey": "neil young crazy horse|cinnamon girl",
+  "playableChords": [
+    "D",
+    "C",
+    "F5",
+    "G5",
+    "Am7add11",
+    "Cadd9",
+    "G/B",
+    "Gm7",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Outro 1"
+    },
+    {
+      "measure": 68,
+      "name": "Outro 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c9570c366ee387f283b72f7ebd9a664dd98ff3838e5afd2a44b8e793bf93bad5",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "Cinnamon Girl",
+  "tuning": "D A D G B D",
+  "variantRole": "primary"
+}

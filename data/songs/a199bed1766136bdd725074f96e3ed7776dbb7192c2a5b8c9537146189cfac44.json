@@ -1,0 +1,92 @@
+{
+  "artist": "Modest Mouse",
+  "artistNormalized": "modest mouse",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C5]  [G/C]  [G5]\n[C5]  [G/C]  [C5]  [D]\n[C5]  [G/C]  [G5]\n[C5][G/C][C5][D]A\n\n[Verse 1]\n[C5]wild [G/C]pack of [G5]fam'ly dogs came\n[C5]Running [G/C]through [C5]the yard [D]one day. My\n[C5]father [G/C]got his gun, [G5]shot it up,\n[C5]They ran [C5][G/C]away [D]OK.\n[C5][G/C][G5]A\n[C5]wild [G/C]pack [C5]of [D]fam'ly dogs came\n[C5]Running [G/C]through the yard, [G5]and as My\n[C5]own dog [G/C]ran [C5]away [D]with them I\n[C5]didn't [G/C]say much of [G5]anything at all.\n[C5]Didn't [G/C]say much of [G5]anything at all.\n[C5]Didn't [G/C]say much of [G5]anything at all.\n\n[Interlude]\n[C5]  [G/C]  [G5]\n[C5]  [G/C]  [C5]  [D]\n[C5]  [G/C]  [G5]\n[C5][G/C][C5][D]A\n\n[Verse 2]\n[C5]wild [G/C]pack of [G5]fam'ly dogs came\n[C5]Running [G/C]through [C5]the [D]yard as my\n[C5]little [G/C]sister played. [G5]The\n[C5]dogs took [G/C]her [C5]away [D]and I guess\n[C5]she was [G/C]eaten up [G5]OK, Yeah,\n[C5]she was [C5][G/C]eaten up [D]OK And my\n[C5]mother's [G/C]cryin' blood [G5]dust now, My\n[C5]mother's [G/C]cryin' blood [G5]dust now.\n[C5]Mother's [G/C]cryin' blood [G5]dust now.\n\n[Interlude]\n[C5]  [G/C]  [G5]\n[C5]  [G/C]  [C5]  [D]\n[C5]  [G/C]  [G5]\n[C5][G/C][C5][D]My\n\n[Verse 3]\n[C5]dad, he [G/C]quit his job [G5]today. Well I\n[C5]guess he was [G/C]fried [C5]but [D]that's OK, And I'm\n[C5]sittin' [G/C]outside by my [G5]mud lake,\n[C5]Waiting for the [G/C]pack [C5]to take [D]me away.\n[C5]Right [G/C]after I die, [G5]the\n[C5]dogs start [G/C]floatin' [C5]Up [D]t'wards the glowing sky.\n\n[Outro]\n[C5]  [G/C]  [G5]\n[C5]They will [G/C]receive [G5]their rewards, Now\n[C5]they will [G/C]receive [G5]their rewards, Yeah,\n[C5]they will [G/C]receive [G5]their rewards.",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/C": {
+      "catalog": [
+        "x354xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wild Packs of Family Dogs",
+  "id": "a199bed1766136bdd725074f96e3ed7776dbb7192c2a5b8c9537146189cfac44",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 233,
+  "normalizedKey": "modest mouse|wild packs of family dogs",
+  "playableChords": [
+    "C5",
+    "G/C",
+    "G5",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Interlude"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 39,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a199bed1766136bdd725074f96e3ed7776dbb7192c2a5b8c9537146189cfac44",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Wild Packs of Family Dogs",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

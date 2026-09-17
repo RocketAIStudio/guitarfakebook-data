@@ -1,0 +1,127 @@
+{
+  "artist": "My Chemical Romance",
+  "artistNormalized": "my chemical romance",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D]\n[A]\n[Em]\n[G]\nWhen the lights go out,\n\n[Verse 1]\n[D]will you take\nme with you\n[A]And carry all\nthis broken bone\n[Em]Through six\nyears down in crow-\n[G]ded rooms And high-\nways I call home?\n[D]It's something I\ncan't know 'til now\n[A]'Til you pick\nme off the ground\n[Em]With a brick\nin hand, your lip-\n[G]gloss smile Your scraped-\nup knees And\n\n[Chorus]\n[G]if you [A]stay,\nI would e-\n[D]ven wait [A]all [G]night\nOr [A]until\nmy heart explodes\n[Bm]How long\nuntil we\n[G]find our [A]way\nIn the dark\n[D]and out [A]of [G]harm?\nYou can run\n[G]away with [A]me\nanytime you want\n\n[Verse 2]\n[D]Terrified\nof what I'd be\n[A]As a kid,\nfrom what I've seen\n[Em]Every sin-\ngle day, when peo-\n[G]ple try And put\nthe pieces back\n[D]together Just\nto smash them down\n[A]Turn my head-\nphones up, real loud\n[Em]I don't think\nI need them, now\n[G]'Cause you stop\nthe noise And\n\n[Chorus]\n[G]if you [A]stay,\nI would e-\n[D]ven wait [A]all [G]night\nOr [A]until\nmy heart explodes\n[Bm]How long\nuntil we\n[G]find our [A]way\nIn the dark\n[D]and out [A]of [G]harm?\nYou can run\n[G]away with [A]me\nanytime you want\n\n[Break]\n[D]\nWell, anytime you want\nWell, any-\ntime you want\n\n[Solo]\n[G]  [A]\n[D]  [A]  [G]\n[A]\n[Bm]\n[G]  [A]\n[D]  [A]  [G]\n[G]  [A]\n\n[Break]\n[D]Don't walk away\nDon't walk away\nDon't walk away\nDon't walk away!\n\n[Chorus]\n[G]'Cause if you [A]stay,\nI would e-\n[D]ven wait [A]all [G]night\nOr [A]until\nmy heart explodes\n[Bm]How long\nuntil we\n[G]find our [A]way\nIn the dark\n[D]and out [A]of [G]harm?\nYou can run\n[G]away with [A]me\nOr you can write\n[Bm]it on your arm\nYou can run\n[G]away with [A]me\nanytime you want\n\n[Outro]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Summertime",
+  "id": "139fef3e929947f9f6cc23ddabf3457541169e8a9d5cadf110b55334ca327f0a",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 295,
+  "normalizedKey": "my chemical romance|summertime",
+  "playableChords": [
+    "D",
+    "A",
+    "Em",
+    "G",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Break"
+    },
+    {
+      "measure": 89,
+      "name": "Solo"
+    },
+    {
+      "measure": 103,
+      "name": "Break"
+    },
+    {
+      "measure": 107,
+      "name": "Chorus"
+    },
+    {
+      "measure": 126,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "139fef3e929947f9f6cc23ddabf3457541169e8a9d5cadf110b55334ca327f0a",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Summertime",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

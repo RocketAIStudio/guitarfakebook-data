@@ -1,0 +1,115 @@
+{
+  "artist": "Nine Inch Nails",
+  "artistNormalized": "nine inch nails",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]\nYou're keeping in step\n\n[Verse 1]\n[A]In the li-\nne Got your chi-\nn held high and you fee-\nl just fine 'Cause you do\nWhat you're to-\nld But insi-\nde your heart it is bla-\nck and it's hollow and it's co-\n\n[Chorus]\n[F]ld Just how dee-\np do you belie-\n[D]ve? Will you bi-\nte the hand that fee-\n[A]ds? Will you che-\nw until it blee-\nds? Can you ge-\nt up off your knee-\n[F]s? Are you bra-\nve enough to see\n[D/F#]? Do you wa-\n[G]nt to change it?\n[A]\nWhat if this whole crusa-\n\n[Verse 2]\n[A]de's A chara-\nde And behi-\nnd it all there's a pri-\nce to be paid For the bloo-\nd On which we di-\nne Justifie-\nd in the name of the ho-\nly and the divi-\n\n[Chorus]\n[F]ne Just how dee-\np do you belie-\n[D]ve? Will you bi-\nte the hand that fee-\n[A]ds? Will you che-\nw until it blee-\nds? Can you ge-\nt up off your knee-\n[F]s? Are you bra-\nve enough to see\n[D/F#]? Do you wa-\n[G]nt to change it?\n\n[Break]\n[A]\nSo nai-\nve I keep ho-\nlding on to wha-\nt I want to belie-\nve I can see\nBut I keep ho-\nlding on and o-\nn and on and\n\n[Bridge]\n[F]on\n[D]\n[A]\n[F]\n[D/F#]\n[G]\n\n[Outro]\n[A]Will you bite the ha-\nnd that feeds you?\nWill you stay down\non your knees?\nWill you bite the ha-\nnd that feeds you?\nWill you stay down\non your knees?\nWill you bite the ha-\nnd that feeds you?\nWill you stay down\non your knees?\nWill you bite the ha-\nnd that feeds you?\nWill you stay down o-\nn your knees?\nWill you bite the ha-\nnd that feeds you?\nWill you stay down o-\nn your knees?\nWill you bite the ha-\nnd that feeds you?\nWill you stay down o-\nn your knees?\nWill you bite the ha-\nnd that feeds you?\nWill you stay down o-\nn your knees?\nWill you bite the ha-\nnd that feeds you?\nWill you stay down o-\nn your knees?",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "200232"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Hand That Feeds",
+  "id": "1bbe6a28d41674bb4ad28fd88a253d9ce25cc6b609a6e916ec660bcb191f704c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 370,
+  "normalizedKey": "nine inch nails|the hand that feeds",
+  "playableChords": [
+    "A",
+    "F",
+    "D",
+    "D/F#",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Break"
+    },
+    {
+      "measure": 69,
+      "name": "Bridge"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1bbe6a28d41674bb4ad28fd88a253d9ce25cc6b609a6e916ec660bcb191f704c",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "The Hand That Feeds",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}
