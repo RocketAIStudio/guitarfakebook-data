@@ -1,0 +1,101 @@
+{
+  "artist": "Johnny Kidd & The Pirates",
+  "artistNormalized": "johnny kidd the pirates",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Em]\n\n[Verse 1]\n[Em]When you move in\nright up close to me\nThat's when I get the\nshakes all over me\n\n[Chorus]\nQuivers down the back bone\n[Am]I got the\n[Em]shakes down the knee bone\nYea have the\n[Am]tremors in the thigh bone\n[Em]Shakin' all over\n\n[Bridge]\n[Em]\n\n[Verse 2]\n[Em]Just the way that you\nsay goodnight to me\nBrings that feeling\non inside of me\n\n[Chorus]\n[Am]\n[Em]\n[Am]\n[Em]Shakin' all over\n\n[Solo]\n[Em]\n[Am]\n[Em]\n[B7]\n[Am]\n[Em]\n\n[Chorus]\n[Am]\n[Em]\n[Am]\n[Em]Shakin' all over\n\n[Outro]\n[Em]\nWell you\nmake me shaky And I\nlike it baby well you\nmake me shakky And I\nlike it baby well I\nshake",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x2120x",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Shakin' All Over",
+  "id": "b7e5317df83f38f6ae18acc7dcbadf573e4965b51a3feaf7ce18c11fa9299a48",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 108,
+  "normalizedKey": "johnny kidd the pirates|shakin all over",
+  "playableChords": [
+    "Em",
+    "Am",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Bridge"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Solo"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b7e5317df83f38f6ae18acc7dcbadf573e4965b51a3feaf7ce18c11fa9299a48",
+    "version": "BCFZ"
+  },
+  "tempo": 124,
+  "title": "Shakin' All Over",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

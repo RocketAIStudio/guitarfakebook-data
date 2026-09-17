@@ -1,0 +1,130 @@
+{
+  "artist": "Jeremy Zucker",
+  "artistNormalized": "jeremy zucker",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G#m]\n[F#]\n[G#m]\nWe\n\n[Verse 1]\n[G#m]know that this won't last\n[F#]Not like it\n[G#m]used to\nAnd\n[G#m]I'm okay with that\n[F#]But not if I\n[G#m]lose you\n\n[Pre-Chorus]\n[G#m]I can feel it\n[F#]in my bones\n[G#m]Sinking deeper\nin the overflow\n[G#m]Can you feel it\n[F#]in your soul?\n[C#m]If I'm honest,\n[B]maybe we're better off\n\n[Chorus]\n[B]alone Better off,\n[G#m]better off\n[F#]alone\nMaybe we're better off a-\n[B]lone Better off,\n[G#m]better off\n[F#]alone\nMaybe we're better off\n\n[Post-Chorus]\n[E]\n[G#m]\n[F#]\n[F#]Maybe we're [D#m]better off a-\n[E]lone\n[G#m]\n[F#]\n[F#]Maybe we're [D#m]better off\n\n[Verse 2]\n[B]I won't turn my back\n[G#m]Now that you\n[F#]want to\nAnd\n[B]if there's nothing left\n[G#m]Why does it\n[F#]haunt you?\n\n[Pre-Chorus]\n[G#m]I can feel it\n[F#]take control\n[G#m]Falling further\nin the undertow\n[G#m]Can you feel it\n[F#]in your soul?\n[C#m]If I'm honest,\n[B]maybe we're better off\n\n[Chorus]\n[E]alone Better off,\n[G#m]better off\n[F#]alone\nMaybe we're better off a-\n[E]lone Better off,\n[G#m]better off\n[F#]alone\nMaybe we're better off\n\n[Post-Chorus]\n[E]\n[G#m]\n[F#]\n[F#]Maybe we're [D#m]better off a-\n[E]lone\n[G#m]\n[F#]\n[F#]Maybe we're [D#m]better off\n\n[Outro]\n[E]I can feel it\n[G#m]in my bones\n[F#]Running circles\n[F#]'Cause you're [D#m]all I know\n[E]And I feel it\n[G#m]in my soul\n[F#]If I'm honest",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "x68876"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Better Off",
+  "id": "725402a50cbb986a5e9f06db2c14d7336ec65b84f94f2b80d5be007121177408",
+  "key": "G♯",
+  "keyIdentified": true,
+  "lyricEventCount": 229,
+  "normalizedKey": "jeremy zucker|better off",
+  "playableChords": [
+    "G#m",
+    "F#",
+    "C#m",
+    "B",
+    "E",
+    "D#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "725402a50cbb986a5e9f06db2c14d7336ec65b84f94f2b80d5be007121177408",
+    "version": "BCFZ"
+  },
+  "tempo": 99,
+  "title": "Better Off",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,139 @@
+{
+  "artist": "John Lennon",
+  "artistNormalized": "john lennon",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[Am]So Sergeant\n[Am/G]Pepper took you\n[F7]by surprise\n[E7]You better see\nright through that\n[Am]mother's\neyes\n\n[Verse 2]\n[Am]Those freaks was\n[Am/G]right when they said\n[F7]you was\ndead\n[E7]The one mistake\nyou made was\n[Am]in your\nhead\n\n[Chorus]\n[D]\nHow do you sleep\n[Am]\n[D]\nHow do you sleep at\n[Am]night\n\n[Verse 3]\n[Am]You live with\n[Am/G]straights who tell you,\n[F7]you was\nking\n[E7]Jump when your mom-\nma tell you\n[Am]any-\nthing\n\n[Verse 4]\n[Am]The only\n[Am/G]thing you done was\n[F7]yester-\nday\n[E7]And since you're gone\nyou're just a-\n[Am]nother\nday\n\n[Chorus]\n[D]\nHow do you sleep at\n[Am]night\n[D]\nHow do you sleep at\n[Am]night\n\n[Guitar Solo]\n[Am]\n[Am/G]\n[F7]\n[E7]\n[Am]\n[Am]\n[Am/G]\n[F7]\n[E7]\n[Am]\n\n[Chorus]\n[D]\nHow do you sleep at\n[Am]night\n[D]\nHow do you sleep at\n[Am]night\n\n[Verse 5]\n[Am]A pretty\n[Am/G]face may last a\n[F7]year or\ntwo\n[E7]But pretty soon\nthey'll see what\n[Am]you can\ndo\n\n[Verse 6]\n[Am]The sound you\n[Am/G]make is music\n[F7]to my\nears\n[E7]You must have learned some-\nthing in\n[Am]all those\nyears\n\n[Chorus]\n[D]\nHow do you sleep\n[Am]\n[D]\nHow do you sleep at\n[Am]night\n\n[Bridge]\n[Am]\n[Am/G]\n[F7]\n[E7]Jump when your mom-\nma tell you\n[Am]any-\nthing\n[Am]\n[Am/G]\n[F7]\n[E7]But pretty soon\nthey'll see what\n[Am]you can\ndo\n\n[Chorus]\n[D]\nHow do you sleep at\n[Am]night\n[D]\nHow do you sleep at\n[Am]night\n\n[Outro (Fade Out)]\n[D]\nHow do you sleep at\n[Am]night\n[D]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am/G": {
+      "catalog": [
+        "302210"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "131211",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "How Do You Sleep",
+  "id": "f60db92d0c53ab594f0650a37f4fddb5ef944df231d2e3abf8fc6116f61c1ff4",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 201,
+  "normalizedKey": "john lennon|how do you sleep",
+  "playableChords": [
+    "Am",
+    "Am/G",
+    "F7",
+    "E7",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 105,
+      "name": "Chorus"
+    },
+    {
+      "measure": 121,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 133,
+      "name": "Verse 6"
+    },
+    {
+      "measure": 145,
+      "name": "Chorus"
+    },
+    {
+      "measure": 161,
+      "name": "Bridge"
+    },
+    {
+      "measure": 185,
+      "name": "Chorus"
+    },
+    {
+      "measure": 201,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f60db92d0c53ab594f0650a37f4fddb5ef944df231d2e3abf8fc6116f61c1ff4",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "How Do You Sleep",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

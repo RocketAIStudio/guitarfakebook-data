@@ -1,0 +1,131 @@
+{
+  "artist": "Jimi Hendrix",
+  "artistNormalized": "jimi hendrix",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[C7#9]\n\n[Verse 1]\n[Bb5]It's very far away\n[A5]It takes [Ab5]about a half a day to\n[C5/G]get there If we travel by\n[C5]my, dragonfly\n[Bb5]No it's not in Spain\n[A5]But all the [Ab5]same you know, it's a\n[C5/G]groovy name And the wind's just\n[C5]right Hey!\n\n[Chorus]\n[F7+9]Hang on my\ndarling\n[C7#9]Hang on if you want to\ngo\n[G5]Hear it's a really groovy place It's\n[Eb5]uh, just a little bit of uh, said uh\n[C7#9]Spanish Castle Magic\n\n[Verse 2]\n[Bb5]The clouds are really low\n[A5]And they [Ab5]overflow with cotton\n[C5/G]candy And battlegrounds\n[C5]red and brown\n[Bb5]But it's all in your mind\n[A5]Don't [Ab5]think your time on\n[C5/G]bad things Just float your little mind\n[C5]around Look out! Ooh\n\n[Chorus]\n[F7+9]Hang on my\ndarling, yeah\n[C7#9]Hang on if you want to\ngo It's a really\n[G5]groovy place\n[Eb5]It's just a little bit of\n[C7#9]Spanish Castle Magic\n\n[Solo]\n[C7#9]\nIt's\nall in your mind Yeah\n\n[Chorus]\n[F7+9]Hang on my\ndarling, hey\n[C7#9]Hang on, hang on if you\nwant to go It's just\n[G5]\n[Eb5]a little bit of\n[C7#9]Spanish Castle Magic\nLittle bit of\n\n[Outro]\n[C7#9]Spanish Castle Magic\nYeah\nIt's all in your mind\n\n[Fade Out]\n[C7#9]\nEverything's going to be alright",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x133xx"
+      ],
+      "catalogCount": 1
+    },
+    "Ab5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "Bb5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5/G": {
+      "catalog": [
+        "446xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C7#9": {
+      "catalog": [
+        "x4345x"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F7+9": {
+      "catalog": [
+        "x-9-8-9-10-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Spanish Castle Magic",
+  "id": "741ee09c80cd21c54873c4dded9498ec409a53b27732a5b89d9d7cbc253aad17",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 219,
+  "normalizedKey": "jimi hendrix|spanish castle magic",
+  "playableChords": [
+    "C7#9",
+    "Bb5",
+    "A5",
+    "Ab5",
+    "C5/G",
+    "C5",
+    "F7+9",
+    "G5",
+    "Eb5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Solo"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    },
+    {
+      "measure": 72,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "741ee09c80cd21c54873c4dded9498ec409a53b27732a5b89d9d7cbc253aad17",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "Spanish Castle Magic",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

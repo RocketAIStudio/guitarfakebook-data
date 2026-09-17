@@ -1,0 +1,122 @@
+{
+  "artist": "Karen O",
+  "artistNormalized": "karen o",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Dm]\n[G]\n[C]\nI'm\n\n[Verse 1]\n[Dm]lying on\n[G]the moon\n[C]\nMy\n[Dm]dear, I'll be\n[G]there\n[C]soon\nIt's a\n[Dm]quiet and star-\n[G]ry place\n[C]\nTime's we're\n[Dm]swallowed up\n[G]In\n[Fmaj7]space we're here a mil-\n[Fm]lion miles away\n\n[Bridge]\n[C]\nThere's\n\n[Verse 2]\n[Dm]things I wish\n[G]I knew\n[C]\nThere's no\n[Dm]thing I'd keep\n[G]from you\n[C]\nIt's a\n[Dm]dark and shi-\n[G]ny place\n[C]\nBut with\n[Dm]you my dear\n[G]I'm\n[Fmaj7]safe and we're a mil-\n[Fm]lion miles away\n\n[Bridge]\n[C]\nWe’re\n\n[Chorus]\n[F/A]lying on\n[G]the moon\n[C]\nIt’s a\n[F/A]perfect af-\n[G]ternoon\n[C]\nYour shadow\n[F/A]follows me\n[G]all day\n[C]\nMaking\n[F/A]sure that I'm\n[G]O-\n\n[Outro]\n[F/A]kay and we’re a mil-\n[Fm]lion miles away\n[C]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x3201x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F/A": {
+      "catalog": [
+        "x0321x"
+      ],
+      "catalogCount": 1
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "xx3210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Moon Song",
+  "id": "4c3d700fe0f18a20ae1634d126bca1a4116c8b55744b51685ba4222eee353838",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 105,
+  "normalizedKey": "karen o|the moon song",
+  "playableChords": [
+    "Dm",
+    "G",
+    "C",
+    "Fmaj7",
+    "Fm",
+    "F/A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4c3d700fe0f18a20ae1634d126bca1a4116c8b55744b51685ba4222eee353838",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "The Moon Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

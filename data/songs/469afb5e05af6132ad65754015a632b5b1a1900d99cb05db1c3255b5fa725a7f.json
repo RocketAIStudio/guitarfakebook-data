@@ -1,0 +1,106 @@
+{
+  "artist": "Joan Baez",
+  "artistNormalized": "joan baez",
+  "capo": "2",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "I am a\n\n[Verse 1]\n[G7]girl of constant\n[C]sorrow I've seen\n[Am]trou ble all my\n[Dm]days I'm going\n[G7]back to Califor\n[C]nia The place where\n[Am]I was part ly\n[Dm]raised\n[Dm/A]All [Dm/F]through this\n\n[Verse 2]\n[G7]world I'm about to trou\n[C]ble Through sun and\n[Am]wind and drought and\n[Dm]rain I'm about to\n[G7]ride the western\n[C]railways Perhaps I'll\n[Am]die the very next\n[Dm]train\n[Dm/A]Your [Dm/F]friends meet-\n\n[Verse 3]\n[G7]ing the time is\n[C]stranger My face you'll\n[Am]ne ver see no\n[Dm]more But there's one\n[G7]pro mise, then is\n[C]given I'll see you\n[Am]on God's gol den\n[Dm]shore\n[Dm/A]I [Dm/F]am a\n\n[Verse 4]\n[G7]girl of constant\n[C]sorrow I've seen\n[Am]trou ble all my\n[Dm]days I'm going\n[G7]back to Califor\n[C]nia The place where\n[Am]I was part ly\n[Dm]raised",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Dm/A": {
+      "catalog": [
+        "x00231"
+      ],
+      "catalogCount": 1
+    },
+    "Dm/F": {
+      "catalog": [
+        "1x0231"
+      ],
+      "catalogCount": 1
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Girl Of Constant Sorrow",
+  "id": "469afb5e05af6132ad65754015a632b5b1a1900d99cb05db1c3255b5fa725a7f",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 145,
+  "normalizedKey": "joan baez|girl of constant sorrow",
+  "playableChords": [
+    "G7",
+    "C",
+    "Am",
+    "Dm",
+    "Dm/A",
+    "Dm/F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "469afb5e05af6132ad65754015a632b5b1a1900d99cb05db1c3255b5fa725a7f",
+    "version": "BCFZ"
+  },
+  "tempo": 86,
+  "title": "Girl Of Constant Sorrow",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

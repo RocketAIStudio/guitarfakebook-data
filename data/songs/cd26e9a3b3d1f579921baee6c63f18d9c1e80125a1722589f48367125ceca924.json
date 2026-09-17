@@ -1,0 +1,112 @@
+{
+  "artist": "J.J. Cale",
+  "artistNormalized": "j j cale",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n\n[Verse 1]\n[D]After midnight\n[F]We're gonna [G]let it all hang\n[D]out\nAfter midnight\n[F]We're gonna [G]chugalug and\n[D]shout\nWe're gonna\n\n[Chorus]\n[D]cause talk and suspicion\n[F]Give an exhibition\n[G]Find out what it is all about\n[A7]\n\n[Verse 2]\n[D]After midnight\n[F]We're gonna [G]let it all hang\n[D]out\nAfter midnight\n[F]Gonna shake [G]your tambourine\n[D]\nAfter midnight,\n[F]it's gonna be [G]peaches and\n[D]cream hmm\nWe're gonna\n\n[Chorus]\n[D]cause talk and suspicion\n[F]Give an exhibition\n[G]Find out what it is all about\n[A7]\n[D]After midnight,\n[F]we're gonna [G]let it all hang\n[D]out\n\n[Solo]\n[D]\n[F]  [G]\n[D]\n[F]  [G]\n[D]\nWe're gonna\n\n[Chorus]\n[D]cause talk and suspicion\n[F]Give an exhibition\n[G]Find out what it is all about\n[A7]\n\n[Outro]\n[D]After midnight\n[F]We're gonna [G]let it all hang\n[D]out\nAfter midnight\n\n[Fade Out]\n[F]We're gonna [G]let it all hang out\n[D]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "After Midnight",
+  "id": "cd26e9a3b3d1f579921baee6c63f18d9c1e80125a1722589f48367125ceca924",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 165,
+  "normalizedKey": "j j cale|after midnight",
+  "playableChords": [
+    "D",
+    "F",
+    "G",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Solo"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    },
+    {
+      "measure": 54,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cd26e9a3b3d1f579921baee6c63f18d9c1e80125a1722589f48367125ceca924",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "After Midnight",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

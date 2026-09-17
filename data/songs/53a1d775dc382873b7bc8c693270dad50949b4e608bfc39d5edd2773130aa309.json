@@ -1,0 +1,166 @@
+{
+  "artist": "John Lennon",
+  "artistNormalized": "john lennon",
+  "capo": "No capo",
+  "chordPositionCount": 38,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[G]  [Em]\n[D]\n[D7]\n[Em]\n\n[Verse 1]\n[G]I was [Em]dreaming of the past\n[D7]\nand my heart was beating fast\n[Em]\n[Em6]I began to lose cont-\n[D7]rol\n[Em]I began to lose cont-\n[C]rol\n\n[Chorus]\n[G]I didn't mean [Fadd9]to hurt\n[C]you [D7]\n[G]I'm sorry that [Fadd9]I made\n[Bb]you cry Oh my\n[G]I didn't want [G/F#]to hurt\n[Em]you [Em7]\n[C]I'm just a jealous\n[G]guy\n\n[Verse 2]\n[G]I was [Em]feeling insecu\n[D7]re\nYou might not love me anymo\n[Em]re\n[Em6]I was shivering in-\n[D7]side\n[Em]I was shivering in-\n[C]side Oh\n\n[Chorus]\n[G]I didn't mean [Fadd9]to hurt\n[C]you [D7]\n[G]I'm sorry that [Fadd9]I made\n[Bb]you cry Oh my\n[G]I didn't want [G/F#]to hurt\n[Em]you [Em7]\n[C]I'm just a jealous\n[G]guy\n\n[Interlude]\n[G]  [Em]\n[D7]\n[Em]\n[Em6]\n[D7]\n[Em]\n[C]\n\n[Chorus]\n[G]I didn't mean [Fadd9]to hurt\n[C]you [D7]\n[G]I'm sorry that [Fadd9]I made\n[Bb]you cry Oh my\n[G]I didn't want [G/F#]to hurt\n[Em]you [Em7]\n[C]I'm just a jealous\n[G]guy\n\n[Verse 3]\n[G]I was trying [Em]to catch your eyes\n[D7]\nI thought that you were trying to hide\n[Em]\n[Em6]I was swallowing my\n[D7]pain\n[Em]I was swallowing my\n[C]pain\n\n[Chorus]\n[G]I didn't mean [Fadd9]to hurt\n[C]you [D7]\n[G]I'm sorry that [Fadd9]I made\n[Bb]you cry Oh my\n[G]I didn't want [G/F#]to hurt\n[Em]you [Em7]\n[C]I'm just a jealous [G]guy watch out ba-\n[C]by I'm just a jealous [G]guy Look out baby\n[C]I'm just a jealous\n[G]guy",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em6": {
+      "catalog": [
+        "022020"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "020000",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12",
+        "x-19-21-19-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Fadd9": {
+      "catalog": [
+        "1x3213"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/F#": {
+      "catalog": [
+        "220003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Jealous Guy",
+  "id": "53a1d775dc382873b7bc8c693270dad50949b4e608bfc39d5edd2773130aa309",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 231,
+  "normalizedKey": "john lennon|jealous guy",
+  "playableChords": [
+    "G",
+    "Em",
+    "D",
+    "D7",
+    "Em6",
+    "C",
+    "Fadd9",
+    "Bb",
+    "G/F#",
+    "Em7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "53a1d775dc382873b7bc8c693270dad50949b4e608bfc39d5edd2773130aa309",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "Jealous Guy",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

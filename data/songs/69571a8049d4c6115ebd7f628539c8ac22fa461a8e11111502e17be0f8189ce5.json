@@ -1,0 +1,121 @@
+{
+  "artist": "Joan Baez",
+  "artistNormalized": "joan baez",
+  "capo": "1",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E]\nPlai-\n\n[Verse 1]\n[E]sir\n[B7]d'a-\n[E]mour\nne\n[A]dure\n[E]qu'un mo-\n[B7]ment\nCha-\n[A#dim7]grin\n[B7/A]d'a-\n[E/G#]mour dure\n[A]toute la\n[E/B]vi-\n[B7]i-\n[E]e\nThe\n\n[Verse 2]\n[E]joys\n[B7]of\n[E]love\nare\n[A]but a\n[E]mooment\n[B7]long,\nThe\n[A#dim7]pain\n[B7/A]of\n[E/G#]love en-\n[A]dures the\n[E/B]who\n[B7]life\n[E]long.\nYour\n\n[Verse 3]\n[E]eyes\n[B7]kissed\n[E]mine,\nI\n[A]saw the\n[E]love in them\n[B7]shine.\nYou\n[A#dim7]brought\n[B7/A]me\n[E/G#]heaven right\n[A]then when your\n[E/B]eyes\n[B7]kissed\n[E]mine.\nMy\n\n[Verse 4]\n[E]love\n[B7]loves\n[E]me,\na\n[A]world of\n[E]wonder I\n[B7]see\nA\n[A#dim7]rain-\n[B7/A]bow\n[E/G#]shines thru my\n[A]window; my\n[E/B]love\n[B7]loves\n[E]me\nAnd\n\n[Verse 5]\n[E]now\n[B7]he's\n[E]gone\nlike a\n[A]dream that\n[E]fades in the\n[B7]dawn\nBut the\n[A#dim7]words\n[B7/A]stay\n[E/G#]locked in my\n[A]heartstrings; my\n[E/B]love\n[B7]loves\n[E]me\nPlai-\n\n[Verse 6]\n[E]sir\n[B7]d'a-\n[E]mour\nne\n[A]dure\n[E]qu'un mo-\n[B7]ment\nCha-\n[A#dim7]grin\n[B7/A]d'a-\n[E/G#]mour dure\n[A]toute la\n[E/B]vi-\n[B7]i-\n[A]e\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#dim7": {
+      "catalog": [
+        "x12020"
+      ],
+      "catalogCount": 1
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "B7/A": {
+      "catalog": [
+        "x01202"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E/B": {
+      "catalog": [
+        "x22100"
+      ],
+      "catalogCount": 1
+    },
+    "E/G#": {
+      "catalog": [
+        "42xx00"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Plaisir d'Amour",
+  "id": "69571a8049d4c6115ebd7f628539c8ac22fa461a8e11111502e17be0f8189ce5",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 140,
+  "normalizedKey": "joan baez|plaisir d amour",
+  "playableChords": [
+    "E",
+    "B7",
+    "A",
+    "A#dim7",
+    "B7/A",
+    "E/G#",
+    "E/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 63,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 99,
+      "name": "Verse 6"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "69571a8049d4c6115ebd7f628539c8ac22fa461a8e11111502e17be0f8189ce5",
+    "version": "BCFZ"
+  },
+  "tempo": 116,
+  "title": "Plaisir d'Amour",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

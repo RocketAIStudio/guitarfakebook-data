@@ -1,0 +1,130 @@
+{
+  "artist": "Jefferson Airplane",
+  "artistNormalized": "jefferson airplane",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F#]\n[G]\n[F#]\n[G]\n[F#]\n[G]\n\n[Verse 1]\n[F#]One pill makes\nyou larger, and\n[G]one pill makes you\nsmall And the\n[F#]ones that mother gives\nyou, don't do\n[G]anything at\nall Go ask\n\n[Chorus]\n[A]Alice,\n[C]when she's [D]ten feet\n[A]tall\nAnd if yo-\n\n[Verse 2]\n[F#]u go chasing\nrabbits, and you\n[G]know you're going to\nfall Tell 'em a\n[F#]hookahsmoking\ncaterpillar has\n[G]given you the\ncall And call\n\n[Chorus]\n[A]Alice,\n[C]when [D]she was just\n[A]small\n\n[Bridge]\n[E]When the men on the\nchessboard get up and\n[A]tell you where to\ngo And you've\n[E]just had some kind of\nmushroom, and your\n[A]mind is moving lo-\nw Go ask\n[F#]Alice,\nI think she'll\nknow\nWhen\n\n[Verse 3]\n[F#]logic and pro-\nportion have\n[G]fallen sloppy\ndead And the\n[F#]white knight is talking\nbackwards And the\n[G]red queen's off with\nher head Re-\n\n[Outro]\n[A]member\n[C]what the [D]dormouse\n[A]said\n[A][E]Feed your\n[A]head,\n[A][E]feed your\n[A]head",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "White Rabbit",
+  "id": "749067033704545356f7415cf141fef7888c49771f555fad6a47333e5fa13c34",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 165,
+  "normalizedKey": "jefferson airplane|white rabbit",
+  "playableChords": [
+    "F#",
+    "G",
+    "A",
+    "C",
+    "D",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "749067033704545356f7415cf141fef7888c49771f555fad6a47333e5fa13c34",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "White Rabbit",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

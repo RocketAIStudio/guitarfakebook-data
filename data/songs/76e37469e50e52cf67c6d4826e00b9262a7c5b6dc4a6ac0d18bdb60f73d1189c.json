@@ -1,0 +1,145 @@
+{
+  "artist": "Jack Johnson",
+  "artistNormalized": "jack johnson",
+  "capo": "1",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[G]\n[Fadd9]\n[Cadd9]\n[Dadd9]\n[G]\n[Fadd9]\n[Cadd9]\n[Dadd9]\n[G]\n[Csus2]  [Csus2/F#]\n[Csus2/G]  [Csus2/A]\n[G]\n[Csus2]  [Csus2/F#]\n[Csus2/G]  [Csus2/A]\n\n[Verse 1]\n[G]The light was leaving In the\nwest it was blue The\n[Csus2/F#][Csus2]children's\n[Csus2/A][Csus2/G]laughter sang\n[G]And skipping just like the\nstones they threw Their\n[Csus2/F#][Csus2]voices\n[Csus2/G]echoed [Csus2/A]across the wav-\n[C]es\nIt's getting la-\n[Dsus2]te\n\n[Chorus]\n[G]It was\n[Csus4/F]just another night\n[C]With a sun-\n[Dsus2]set And a\n[G]moonrise\n[Csus4/F]not so far behind\n[C]To give us just\n[Dsus2]enough light To\n[G]lay down\n[Csus4/F]underneath the stars\n[C]Listen to pa-\n[Dsus2]pa's translations\n[G]Of the\n[Csus4/F]stories across the sky\n[C]We drew our own\n[Dsus2]constellations\n\n[Bridge]\n[G]\n[C]\n[G]\n[C]\n\n[Verse 2]\n[G]The west winds often\nlast too long But\n[Csus2]when they [Csus2/F#]calm down\n[Csus2/G]Nothing ever [Csus2/A]feels the sa-\n[G]me Sheltered under the Kama-\nni tree\n[Csus2]Waiting [Csus2/F#]for the\n[Csus2/A][Csus2/G]passing ra-\n[G]in Clouds keep moving to un-\ncover the sea\n[Csus2]Stars [Csus2/F#]above us\n[Csus2/G]chasing the [Csus2/A]day away\n[G]To find the stories that we\nsometimes need\n[Csus2]Listen [Csus2/F#]close enough\n[Csus2/G][Csus2/A]All else\n[C]fades,\nfades away\n[Dsus2]\n\n[Chorus]\n[G]It was\n[Csus4/F]just another night\n[C]With a sun-\n[Dsus2]set And a\n[G]moonrise\n[Csus4/F]not so far behind\n[C]To give us just\n[Dsus2]enough light To\n[G]lay down\n[Csus4/F]underneath the stars\n[C]Listen to pa-\n[Dsus2]pa's translations\n[G]Of the\n[Csus4/F]stories across the sky\n[C]We drew our own\n[Dsus2]constellations\n\n[Outro]\n[G]\n[Fadd9]\n[Cadd9]\n[Dadd9]\n[G]\n[Fadd9]\n[Cadd9]\n[Dadd9]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "0xx012",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "0x2010"
+      ],
+      "catalogCount": 1
+    },
+    "Csus2": {
+      "catalog": [
+        "0xx010"
+      ],
+      "catalogCount": 1
+    },
+    "Csus2/A": {
+      "catalog": [
+        "xxx210"
+      ],
+      "catalogCount": 1
+    },
+    "Csus2/F#": {
+      "catalog": [
+        "xx4010"
+      ],
+      "catalogCount": 1
+    },
+    "Csus2/G": {
+      "catalog": [
+        "xxx010"
+      ],
+      "catalogCount": 1
+    },
+    "Csus4/F": {
+      "catalog": [
+        "5xx565"
+      ],
+      "catalogCount": 1
+    },
+    "Dadd9": {
+      "catalog": [
+        "2x4232"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2": {
+      "catalog": [
+        "2xx232"
+      ],
+      "catalogCount": 1
+    },
+    "Fadd9": {
+      "catalog": [
+        "5x7565"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "x00435",
+        "x0x005",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Constellations",
+  "id": "76e37469e50e52cf67c6d4826e00b9262a7c5b6dc4a6ac0d18bdb60f73d1189c",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 249,
+  "normalizedKey": "jack johnson|constellations",
+  "playableChords": [
+    "G",
+    "Fadd9",
+    "Cadd9",
+    "Dadd9",
+    "Csus2",
+    "Csus2/F#",
+    "Csus2/G",
+    "Csus2/A",
+    "C",
+    "Dsus2",
+    "Csus4/F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "76e37469e50e52cf67c6d4826e00b9262a7c5b6dc4a6ac0d18bdb60f73d1189c",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "Constellations",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

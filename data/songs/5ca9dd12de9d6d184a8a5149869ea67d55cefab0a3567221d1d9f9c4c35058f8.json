@@ -1,0 +1,111 @@
+{
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnny cash",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\n[C]  [Dsus2]\n[Am]\n[C]  [Dsus2]\n[Am]I\n\n[Verse 1]\n[C]hurt myself [Dsus2]to-\n[Am]day To\n[C]see if I [Dsus2]still\n[Am]feel I\n[C]focus [Dsus2]on the pa-\n[Am]in The\n[C]only [Dsus2]thing that's\n[Am]real The\n[C]needle [Dsus2]tears a ho-\n[Am]le The\n[C]old [Dsus2]familiar sti-\n[Am]ng Try to\n[C]kill it [Dsus2]all awa-\n[Am]y But I re-\n[C]member [Dsus2]everything\n[G]\n\n[Chorus]\n[Am]What have I beco-\n[F]me\n[C]My sweetest fri-\n[G]end\n[Am]Everyone I kno-\n[F]w goes awa-\n[C]y In the en-\n[G]d And\n[Am]you could have it a-\n[F]ll\n[G]My empire of dirt\n[Am]I will let you do-\n[F]wn\n[G]I will make you hu-\n\n[Pre-Verse]\n[Am]rt\n[C]  [Dsus2]\n[Am]\n[C]  [Dsus2]\n[Am]I\n\n[Verse 2]\n[C]wear this [Dsus2]crown of\n[Am]thorns Up-\n[C]on my [Dsus2]liar's cha-\n[Am]ir\n[C]Full of [Dsus2]broken thoug-\n[Am]hts\n[C]I cannot [Dsus2]re-\n[Am]pair Be-\n[C]neath the [Dsus2]stains of\n[Am]time The\n[C]feelings [Dsus2]disappe-\n[Am]ar\n[C]You are [Dsus2]someone el-\n[Am]se\n[C]I am still [Dsus2]right he-\n[G]re\n\n[Chorus]\n[Am]What have I beco-\n[F]me\n[C]My sweetest fri-\n[G]end\n[Am]Everyone I kno-\n[F]w goes awa-\n[C]y In the en-\n[G]d And\n[Am]you could have it a-\n[F]ll\n[G]My empire of dirt\n[Am]I will let you do-\n[F]wn\n[G]I will make you hu-\n[G]rt If\n\n[Outro]\n[Am]I could start aga-\n[F]in A\n[G]million miles awa-\n[G]y\n[Am]I would keep myse-\n[F]lf\n[G]I would find\na way",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hurt",
+  "id": "5ca9dd12de9d6d184a8a5149869ea67d55cefab0a3567221d1d9f9c4c35058f8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 227,
+  "normalizedKey": "johnny cash|hurt",
+  "playableChords": [
+    "Am",
+    "C",
+    "Dsus2",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5ca9dd12de9d6d184a8a5149869ea67d55cefab0a3567221d1d9f9c4c35058f8",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Hurt",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

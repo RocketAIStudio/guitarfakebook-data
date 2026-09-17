@@ -1,0 +1,100 @@
+{
+  "artist": "Johnny Flynn",
+  "artistNormalized": "johnny flynn",
+  "capo": "2",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n[A]  [Bm]\n[D]\n[A][Bm]Will you search\n\n[Verse 1]\n[D]through the loamy earth\nfor me\n[G]Climb through the briar and bramble\n[D]\nI'll be your trea-\n[A]sure\nI felt the touch\n\n[Chorus]\n[Bm]of the kings [D]and the breath\n[Bm]of the wind [D]I knew the\n[Bm]call of all the song [D]birds They\n[Bm]sang all the wrong [D]words\n[A]\nI'm waiting for\n[Bm]you,\nI'm waiting for\n[D]you\n\n[Bridge]\n[Bm](Mmmmmm) [A]\n[D]  [G]\n[Bm]  [A]\n[D]\n[Bm]  [A]\n[D]  [G]\n[Bm]  [A]\n[D]\nWill you swim\n\n[Verse 2]\n[D]through the briny sea\nfor me\n[G]Roll along the ocean's floor\n[D]\nI'll be your trea-\n[A]sure\nI'm with the ghosts\n\n[Chorus]\n[Bm]of the men [D]who can\n[Bm]never sing again [D]There's a\n[Bm]place follow me [D]Where a love\n[Bm]lost at [D]sea\n[A]\nIs waiting for\n[Bm]you\nIs waiting for\n[D]you",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x2443x",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "000232",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "5x000x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Detectorists",
+  "id": "fb7db8fd92add12ff514c8fba363d6c4e188060b98e3e92d60545b5d8528bbbe",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 118,
+  "normalizedKey": "johnny flynn|detectorists",
+  "playableChords": [
+    "D",
+    "A",
+    "Bm",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fb7db8fd92add12ff514c8fba363d6c4e188060b98e3e92d60545b5d8528bbbe",
+    "version": "BCFZ"
+  },
+  "tempo": 106,
+  "title": "Detectorists",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

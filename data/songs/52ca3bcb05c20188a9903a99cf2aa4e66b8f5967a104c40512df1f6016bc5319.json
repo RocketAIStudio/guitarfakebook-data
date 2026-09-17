@@ -1,0 +1,107 @@
+{
+  "artist": "John Lennon",
+  "artistNormalized": "john lennon",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n\n[Verse 1]\n[C]Mother, you had\n[G]me but I never had\n[C]you\n[F]I wanted you,\nyou didn't want\n[G]me\nSo\n[C]I,\n[C7]I just gotta tell\n[F]you\nGood-\n[C]bye,\n[G]good -\n[C]bye\n\n[Verse 2]\n[C]Father, you left\n[G]me but I never left\n[C]you\n[F]I needed you,\nyou didn't need\n[G]me\nSo\n[C]I,\n[C7]I just gotta tell\n[F]you\nGood-\n[C]bye,\n[G]good -\n[C]bye\n\n[Verse 3]\n[C]Children, don't do\n[G]what I have\n[C]done\n[F]I couldn't walk\nand I tried to\n[G]run\nSo\n[C]I,\n[C7]I just gotta tell\n[F]you\nGood-\n[C]bye,\n[G]good -\n[C]bye\n\n[Outro]\n[F]Mamma, [C]don't\n[G]go\n[G7][F]Daddy, come home\n[C]\n[C7]\n[F]Mamma, [C]don't\n[G]go\n[G7][F]Daddy, come home\n[C]\n[C7]\n[F]Mamma, [C]don't\n[G]go\n[G7][F]Daddy, come home\n[C]\n[C7]\n[F]Mamma, [C]don't\n[G]go\n[G7][F]Daddy, come home\n[C]\n[C7]\n[F]Mamma, [C]don't\n[G]go\n[G7][F]Daddy, come home\n[C]\n[C7]\n[F]Mamma, [C]don't\n[G]go\n[G7][F]Daddy, come home\n[C]\n[C7]\n[F]Mamma, [C]don't\n[G]go\n[G7][F]Daddy, come home\n[C]\n[C7]\n[F]Mamma, [C]don't\n[G]go\n[G7][F]Daddy, come home\n[C]\n[C7]\n[F]Mamma, [C]don't\n[G]go\n[G7][F]Daddy, come home\n[C]\n[C7]\n[F]Mamma, [C]don't\n[G]go\n[G7][F]Daddy, come home\n[C]\n[C7]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mother",
+  "id": "52ca3bcb05c20188a9903a99cf2aa4e66b8f5967a104c40512df1f6016bc5319",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 176,
+  "normalizedKey": "john lennon|mother",
+  "playableChords": [
+    "C",
+    "G",
+    "F",
+    "C7",
+    "G7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "52ca3bcb05c20188a9903a99cf2aa4e66b8f5967a104c40512df1f6016bc5319",
+    "version": "BCFZ"
+  },
+  "tempo": 36,
+  "title": "Mother",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,128 @@
+{
+  "artist": "Joan Baez",
+  "artistNormalized": "joan baez",
+  "capo": "6",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Em]\nWhen\n\n[Verse 1]\n[Em]first I came to\n[G]Louis-\n[D]ville Some\n[C]plea sure there to\n[Em]find A\n[G]dam sel there from\nLexing ton [D]Was\n[C]plea sing to my mind\n[Em]Her\n\n[Chorus]\n[C]ro sy cheeks, her\nruby lips [D]Like\n[Em]ar rows pierced my breast\nAnd the\nname she bore was\n[G]Flo-\n[D]ra The\n[C]Lily Of The\n[Em]West\nI\n\n[Verse 2]\n[Em]courted lovely\n[G]Flo-\n[D]ra Some\n[C]plea sure there to\n[Em]find \"But\" she\n[G]turned un to a-\nnother man [D]Which\n[C]sore distressed my mind\n[Em]She\n\n[Chorus]\n[C]robbed me of my\nliberty [D]\nDep-\n[Em]rived me of my rest\n\"Then\ngo my lovely\"\n[G]Flo-\n[D]ra The\n[C]Lily Of The\n[Em]West\n\n[Interlude]\n\"Way\"\n\n[Verse 3]\n[Em]down in yonder\n[G]shady\n[D]grove A\n[C]man of high deg-\n[Em]ree Con\n[G]versing with my\nFlora there [D]It\n[C]seemed so strange to me\n[Em]And the\n\n[Chorus]\n[C]answer that she\ngave to him [D]\nIt\n[Em]sure did me oppress\nI\nwas betrayed by\n[G]Flo-\n[D]ra The\n[C]Lily Of The\n[Em]West\nI\n\n[Verse 4]\n[Em]stepped up to my\n[G]ri-\n[D]val My\n[C]dagger in my\n[Em]hand I\n[G]seized him by the\ncollar and [D]I\n[C]bold ly made him stand\n[Em]Being\n\n[Chorus]\n[C]mad to despe-\nration [D]\nI\n[Em]pierced him in the breast\n\"Then\ngo\" my lovely\n[G]Flo-\n[D]ra The\n[C]Lily Of The\n[Em]West\n\"And\" I\n\n[Verse 5]\n[Em]had to stand my\n[G]tri-\n[D]al I\n[C]had to make my\n[Em]plea They\n[G]placed me in the\ncriminal box [D]And\n[C]then commenced on me\n[Em]Al-\n\n[Chorus]\n[C]though she swore my\nlife [D]away\nDep-\n[Em]rived me of my rest\nStill I\nlove my faithless\n[G]Flo-\n[D]ra The\n[C]Lily Of\nThe\n[Em]West\n\n[Outro]\n[Em]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Lily Of The West",
+  "id": "e7d2b864cbc6b499165a4c92b77ac4a11013c65833a6961bb117147c45070732",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 287,
+  "normalizedKey": "joan baez|the lily of the west",
+  "playableChords": [
+    "Em",
+    "G",
+    "D",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 88,
+      "name": "Chorus"
+    },
+    {
+      "measure": 101,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 110,
+      "name": "Chorus"
+    },
+    {
+      "measure": 122,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e7d2b864cbc6b499165a4c92b77ac4a11013c65833a6961bb117147c45070732",
+    "version": "BCFZ"
+  },
+  "tempo": 147,
+  "title": "The Lily Of The West",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

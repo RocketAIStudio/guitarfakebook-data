@@ -1,0 +1,141 @@
+{
+  "artist": "John Mayer",
+  "artistNormalized": "john mayer",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[G]\n\n[Intro]\n[G]\n[Cmaj7]\n[C6add9]\n[G]\n[Cmaj7]\n[C6add9]\n\n[Verse 1]\n[G]It's a Friday,\nwe finally made it\n[Cadd9]I can't believe I get to\nsee your face\n[G]You've been working\nand I've been waiting\n[Cadd9]To pick you up and take you\nfrom this place\n\n[Chorus]\n[D]Love on the weekend,\nlove on the weekend\n[C]Like only we can,\nlike only we can\n[D]Love on the weekend,\nlove on the weekend\n[C]I'm coming up and I'm\nloving every minute of it\n\n[Bridge]\n[G]\n[Cadd9]\n[G]\n[Cadd9]\n\n[Verse 2]\n[G]You be the DJ,\nI'll be the driver\n[Cadd9]You put your feet up in the\ngetaway car\n[G]I'm flying fast like a,\na wanted man I\n[Cadd9]want you, baby, like you\ncan't understand\n\n[Chorus]\n[D]Love on the weekend,\nlove on the weekend\n[C]We found a message in a\nbottle we were drinking\n[D]Love on the weekend,\nlove on the weekend\n[C]I hate your guts 'cause I'm\nloving every minute of it\n\n[Interude]\n[G]\n[G/C]\n[G]\n[G/C]\nOh\n[G]\noh\n[Cadd9]\noh\n[G]\noh\n[Cadd9]\n\n[Verse 3]\n[G]I gotta leave ya,\nit's gonna hurt me\n[Cadd9]My clothes are dirty and my\nfriends are getting worried\n[G]Down there below us,\nunder the clouds Ba\n[Cadd9]by, take my hand and pull me\ndown, down, down, down\n\n[Chorus]\n[D]And I'll be dreamin' of the\nnext time we can [G]go\n[Cadd9]Into another sero-\ntonin overflow\n[D]Love on the weekend,\nlove on the weekend\n[C]I'm busted up but I'm\nloving every minute of it\n\n[Outro]\n[G]\n[C]Love on the weekend\n[G]\n[C]Love on the weekend\n\n[Outro (Fade Out)]\n[G]I'm looking for a little love I'm\nlooking for a little love, oh yeah\n[C]Love on the weekend\n[G]\n[C]Love on the weekend\n[G]\n[C]Love on the weekend",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C6add9": {
+      "catalog": [
+        "x32233"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32030"
+      ],
+      "catalogCount": 1
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/C": {
+      "catalog": [
+        "x30003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Love on the Weekend",
+  "id": "d610ecfbbcd06e2c2de5331cb122492945cb92ae015ffd5b9d593d3dc7ac3fb7",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 305,
+  "normalizedKey": "john mayer|love on the weekend",
+  "playableChords": [
+    "G",
+    "Cmaj7",
+    "C6add9",
+    "Cadd9",
+    "D",
+    "C",
+    "G/C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Interude"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 75,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Outro"
+    },
+    {
+      "measure": 91,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d610ecfbbcd06e2c2de5331cb122492945cb92ae015ffd5b9d593d3dc7ac3fb7",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Love on the Weekend",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

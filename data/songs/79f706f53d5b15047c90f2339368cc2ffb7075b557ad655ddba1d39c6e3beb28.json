@@ -1,0 +1,118 @@
+{
+  "artist": "Jack Johnson",
+  "artistNormalized": "jack johnson",
+  "capo": "2",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\n[G]\n[F]\n[C][G]Do you re-\n\n[Verse 1]\n[C]member when we first met?\n[G]I sure do, it was some\n[F]time in early Sep-\n[C]tember [G]You were la-\n[C]zy about it, you made me\n[G]wait around I was so\n[F]crazy about you I didn't\n[C]mind [G]So I was\n[C]late for class, I locked my\n[G]bike to yours It wasn't\n[F]hard to find, you painted\n[C]flowers on [G]it I guess that\n[C]I was afraid that if you\n[G]rolled away You might not\n[F]roll back my direction real soon\n[C][G]Well I was\n\n[Chorus]\n[G]crazy about you then and now The crazi-\nest thing of all is over\n[Fmaj7]ten years [Em]have gone by\n[Dm]And you're still\nmine, we're locked in\ntime Let's re-\n[G]wind [F]\n[Em][F][Em]Do you re-\n\n[Verse 2]\n[C]member when we first moved\n[G]in together? The pi-\n[F]ano took up the living\n[C]room [G]You played me\n[C]boogiewoogie I played\n[G]you love songs You'd say we're\n[F]playing house now you\n[C]still say we are [G]We built our\n[C]getaway up in a\n[G]tree we found We felt so\n[F]far away but we were\n[C]still in town [G]Now I re-\n[C]member watching that old\n[G]tree burn down I took a\n[F]picture that I don't like\n[C]to look at [G]Well\n\n[Chorus]\n[G]all these times they come and go And alone\ndon't seem so long Over\n[Fmaj7]ten years [Em]have gone by\n[Dm]We can't re-\nwind, we're locked in\ntime But you're\n[G]still mine [F]\n[Em][F][Em]Do you re-\n[C]member?",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "xx3210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Do You Remember",
+  "id": "79f706f53d5b15047c90f2339368cc2ffb7075b557ad655ddba1d39c6e3beb28",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 273,
+  "normalizedKey": "jack johnson|do you remember",
+  "playableChords": [
+    "C",
+    "G",
+    "F",
+    "Fmaj7",
+    "Em",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "79f706f53d5b15047c90f2339368cc2ffb7075b557ad655ddba1d39c6e3beb28",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "Do You Remember",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

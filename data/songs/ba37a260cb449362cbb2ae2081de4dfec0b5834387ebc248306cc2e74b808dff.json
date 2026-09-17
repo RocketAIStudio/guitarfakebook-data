@@ -1,0 +1,88 @@
+{
+  "artist": "Interpol",
+  "artistNormalized": "interpol",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n[Em]\n[Dm]\n[Am]\n\n[Verse]\n[Am]Will you\nput my hands away?\n[Em]Will you\n[Dm]be my man?\n[Am]\nServe it up, don't wait\n[Em]Let's\n[Dm]see about this\n[Am]ham\n[Dm/F]Oh,\nwhat\n[Am]happened?\n[Dm/F]Oh,\nwhat\n[Am]happened?\n[Am]\n[Em]\n[Dm]\n[Am]\n[Em]\n[Dm]\n[Am]\n[Em]\n[Dm]\n[Am]\n[Em]\n[Dm]\n[Am]\n\n[Chorus]\nHome\nspun\n[Em]despera-\ntion's kno-\n[Dm]wing\n[Am]\nIn-\nside your\n[Em]cover's a-\nlways blown\n[Dm]\n[Am]\n[Em]\n[Dm]\n[Am]\n[Em]\n[Dm]\n[Am]\n[Em]\n[Dm]\n[Am]\n\n[Outro]\n[Dm/F]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x0221x",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x532xx",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm/F": {
+      "catalog": [
+        "xx3231"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "02200x",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hands Away",
+  "id": "ba37a260cb449362cbb2ae2081de4dfec0b5834387ebc248306cc2e74b808dff",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 48,
+  "normalizedKey": "interpol|hands away",
+  "playableChords": [
+    "Am",
+    "Em",
+    "Dm",
+    "Dm/F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 91,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ba37a260cb449362cbb2ae2081de4dfec0b5834387ebc248306cc2e74b808dff",
+    "version": "BCFZ"
+  },
+  "tempo": 124,
+  "title": "Hands Away",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

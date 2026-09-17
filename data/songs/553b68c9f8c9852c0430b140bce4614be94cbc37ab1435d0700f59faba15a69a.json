@@ -1,0 +1,136 @@
+{
+  "artist": "Jack Johnson",
+  "artistNormalized": "jack johnson",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[F#sus4]\n\n[Intro]\n[B]  [C#m]\n[F#sus4]\n[B]  [C#m]\n[F#sus4]\n[B]  [C#m]\n[F#7]\n[F#13]Just when\n\n[Verse 1]\n[B]you were getting used to this [C#m]place\n[F#sus4]And\n[B]you were getting used to these [C#m]bones\n[F#sus4]And\n[B]you were getting used to the [C#m]chang-\nes Well [F#5]the\n[F#7]change won't leave you alone\n[F#13]You\n\n[Verse 2]\n[B]finally caught up with the [C#m]pace\n[F#sus4]The\n[B]tough just might have got [C#m]go-\ning [F#sus4]You\n[B]thought you could trust all the [C#m]fac-\nes Well they're\n[F#7]only on one side of the coin\n[F#13]All these\n\n[Chorus]\n[E6]changes\n[C#]Different\n[E6]stages\n[C#]Turning page\n[E6]after page\n[C#]after page\n[F#7]It gets strang-\ner day by day\n\n[Interlude]\n[B]  [C#m]\n[F#sus4]\n[B]  [C#m]\n[F#sus4]\n[B]  [C#m]\n[F#7]\n[F#13]Well,\n\n[Verse 3]\n[B]set your eyes straight up [C#m]ahead\n[F#sus4]And\n[B]don't look down when you [C#m]cross\n[F#sus4]And\n[B]pay no mind to time it's a [C#m]punch\nline The\n[F#7]joke is on all of us\n[F#13]All these\n\n[Chorus]\n[E6]changes\n[C#]Different\n[E6]stages\n[C#]Turning page\n[E6]after page\n[C#]after page\n[F#7]It gets strang-\ner day by day\n\n[Interlude / Outro]\n[B]  [C#m]\n[F#sus4]\n[B]  [C#m]\n[F#sus4]\n[B]  [C#m]\n[F#7]\n[F#13]\n[B]  [C#m]\n[F#sus4]\n[B]  [C#m]\n[F#sus4]\n[B]  [C#m]\n[F#7]\n[F#13]\n[B]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "000232",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "2x2100",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "222000",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "E6": {
+      "catalog": [
+        "5x5430"
+      ],
+      "catalogCount": 1
+    },
+    "F#13": {
+      "catalog": [
+        "x57575"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "7779xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#7": {
+      "catalog": [
+        "x02020",
+        "2-4-2-3-2-2",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "F#sus4": {
+      "catalog": [
+        "7777xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Change",
+  "id": "553b68c9f8c9852c0430b140bce4614be94cbc37ab1435d0700f59faba15a69a",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 153,
+  "normalizedKey": "jack johnson|change",
+  "playableChords": [
+    "F#sus4",
+    "B",
+    "C#m",
+    "F#7",
+    "F#13",
+    "F#5",
+    "E6",
+    "C#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Interlude"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Interlude / Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "553b68c9f8c9852c0430b140bce4614be94cbc37ab1435d0700f59faba15a69a",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Change",
+  "tuning": "B F# B E G# C#",
+  "variantRole": "primary"
+}

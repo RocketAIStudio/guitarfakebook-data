@@ -1,0 +1,152 @@
+{
+  "artist": "Journey",
+  "artistNormalized": "journey",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 12,
+  "content": "[Intro]\n[D#aug]\n[Em]\n[G7/F]\n\n[Verse]\n[C]Here I [G/B]stand so\n[A][Gm/Bb]Patiently,\n[Dm]For your lights to\n[Dm]shine on [G/B]me.\n[C]For your [G/B]song in-\n[Gm/Bb]side of [A]me,\n[Dm]This we bring to\n[Dm]you [G/B]\n[C]In the [G/B]shadow of\n[Am]love Time goes by\n[Asus4/F#]leaving me\n[F7M]helpless\n[C]Just to [G/B]reach and\n[Am]try To live my life\n[Asus4/F#]These are my\n[F7M]reasons,\n[C]So here we [G/B]stand so\n[A][Gm/Bb]patiently\n[Dm]For your song in-\n[Dm]side of [G/B]me\n[C]For your [G/B]lights to\n[Gm/Bb]shineon [A]me\n[Dm]This we bring to\n[Dm]you [G/B]\n[C]  [Am]\n[D/F#]  [F7M]\n[C]  [Am]\n[D/F#][F7M]One,\n[C]one, [Am]in a\n[D/F#]million [F7M]Oh\n[C]oh oh oh [Am]\n[D/F#]  [F7M]\n\n[Solo]\n[C]  [Am]\n[D/F#]  [F7M]\n[C]  [Am]\n[D/F#]  [F7M]\n[C]  [Am]\n[D/F#]  [F7M]\n[C]  [Am]\n[D/F#]  [F7M]\n[C]  [Am]\n[D/F#]  [F7M]\n[C]  [Am]\n[D/F#]\n\n[Outro]\n[F7M]\n[Em]\n[F7M]\n[C]So here we [G/B]stand so\n[A][Gm/Bb]Patiently,\n[Dm]For your song in-\n[Dm]sideof [G/B]me,\n[C]For your [G/B]lights to\n[Gm/Bb]shine on [A]me\n[Dm]This we bringto you--\n[Dm]  [G/B]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4/F#": {
+      "catalog": [
+        "202230"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x3201x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D#aug": {
+      "catalog": [
+        "xx1003"
+      ],
+      "catalogCount": 1
+    },
+    "D/F#": {
+      "catalog": [
+        "20023x"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "xx2003",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F7M": {
+      "catalog": [
+        "102210"
+      ],
+      "catalogCount": 1
+    },
+    "G/B": {
+      "catalog": [
+        "x2003x"
+      ],
+      "catalogCount": 1
+    },
+    "G7/F": {
+      "catalog": [
+        "xx3003"
+      ],
+      "catalogCount": 1
+    },
+    "Gm/Bb": {
+      "catalog": [
+        "x1003x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Patiently",
+  "id": "39774cf3320cef9bc47e1430fc86168c48d2bec48dce610406a399c4e33a3a7f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 124,
+  "normalizedKey": "journey|patiently",
+  "playableChords": [
+    "D#aug",
+    "Em",
+    "G7/F",
+    "C",
+    "G/B",
+    "Gm/Bb",
+    "A",
+    "Dm",
+    "Am",
+    "Asus4/F#",
+    "F7M",
+    "D/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse"
+    },
+    {
+      "measure": 38,
+      "name": "Solo"
+    },
+    {
+      "measure": 50,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "39774cf3320cef9bc47e1430fc86168c48d2bec48dce610406a399c4e33a3a7f",
+    "version": "BCFZ"
+  },
+  "tempo": 60,
+  "title": "Patiently",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

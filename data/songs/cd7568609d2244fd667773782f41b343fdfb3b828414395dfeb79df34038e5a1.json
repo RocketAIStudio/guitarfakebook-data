@@ -1,0 +1,115 @@
+{
+  "artist": "Jack Johnson",
+  "artistNormalized": "jack johnson",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\n[G#m]\n[A]\n[B7]\n[E]\n[G#m]\n[A]\n[B7]\n\n[Verse 1]\n[E]Hermit crabs and cow-\n[B]ry shells Crush be-\n[A]neath his feet as he comes\ntowards you He's\n[E]wa-\n[B]ving at you\n[A]\nLift him\n[E]up to see what you\n[B]can see\n[A]He begins his fo-\ncusing He's\n[E]a-\n[B]iming at you\n[A]\nAnd now he has\n\n[Verse 2]\n[E]Cutaways from me-\n[B]mories And\n[A]closeups of a-\nnything that\n[E]He has seen or e-\n[B]ven dreamed\n[A]And now he's finished fo-\ncusing He's\n[E]imagining\n[B]lightning\n[A]Striking\nsea sickness\n[E]Away\n[B]from\n[A]here\n\n[Chorus]\n[E]Look who's laughing now\n[G#m]that you've\n[A]was-\n[B7]ted\n[E]How many years\n[G#m]and you've\n[A]barely even tas-\n[B7]ted\n[E]Anything remote-\n[G#m]ly close to\n[A]Everything you've bo-\n[B7]asted about\n[E]Look who's crying now\n[G#m]\n[A]\n[B7]\n\n[Solo]\n[E]\n[G#m]\n[A]\n[B7]\n[E]\n[G#m]\n[A]\n[B7]\n\n[Verse 3]\n[E]Driftwood floats, after\n[B]years of erosion\n[A]Incoming tide touches\nroots to expose them\n[E]Quicksand steals\n[B]my shoes\n[A]Clouds bring the f-\nstop blues\n[E]\n[B]\n[A]\n\n[Chorus]\n[E]Look who's laughing now\n[G#m]that you've\n[A]was-\n[B7]ted\n[E]How many years\n[G#m]and you've\n[A]barely even tas-\n[B7]ted\n[E]Anything remote-\n[G#m]ly close to\n[A]Everything you've bo-\n[B7]asted about\n[E]Look who's crying now\n[G#m]\n[A]\n[B7]\n\n[Outro]\n[E]\n[G#m]\n[A]\n[B7]\n[E]\n[G#m]\n[A]\n[B7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "F-Stop Blues *alt",
+  "id": "cd7568609d2244fd667773782f41b343fdfb3b828414395dfeb79df34038e5a1",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 215,
+  "normalizedKey": "jack johnson|f stop blues",
+  "playableChords": [
+    "E",
+    "G#m",
+    "A",
+    "B7",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    },
+    {
+      "measure": 93,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cd7568609d2244fd667773782f41b343fdfb3b828414395dfeb79df34038e5a1",
+    "version": "BCFZ"
+  },
+  "tempo": 126,
+  "title": "F-Stop Blues",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

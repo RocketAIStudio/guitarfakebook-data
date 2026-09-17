@@ -1,0 +1,69 @@
+{
+  "artist": "John Lennon",
+  "artistNormalized": "john lennon",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[D]\n\n[Verse 1]\n[D]My [D/A]Mummy's Dead\n[D][D/A]I\n[D]can't get it [D/A]through my head\n[D]  [D/A]\n[D]Though it's [D/A]been so\n[D]many [D/A]years\n[D]My [A]Mummy's Dead\n[D][D/A]I\n\n[Verse 2]\n[D]can't [D/A]ex-\n[D]plain [D/A]\n[D]So [A]much\n[D]Pain [D/A]\n[D]I could [D/A]never\n[D]show [D/A]it\n[D]My [D/A]Mummy's\n[D]Dead",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x00232"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "My Mummy's Dead",
+  "id": "7626030aa689feed79719a294a39a835b171c6bf52094e5e5c83ce24a8037b0a",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 38,
+  "normalizedKey": "john lennon|my mummy s dead",
+  "playableChords": [
+    "D",
+    "D/A",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7626030aa689feed79719a294a39a835b171c6bf52094e5e5c83ce24a8037b0a",
+    "version": "BCFZ"
+  },
+  "tempo": 91,
+  "title": "My Mummy's Dead",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,97 @@
+{
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnny cash",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[C7]\n[F]I\n\n[Verse 1]\n[F]hear the train a comin', It's\nrolling round the bend. And\nI ain't seen the sunshine since\nI don't know when. I'm\n[Bb]stuck in Folsom prison,\nand time keeps draggin' on.\n[F]\nBut that\n[C7]train keeps a rollin'\non down to San An-\n[F]ton. When I\n\n[Verse 2]\n[F]was just a baby my\nmama told me, \"Son,\nalways be a good boy, don't\never play with guns.\" But I\n[Bb]shot a man in Reno\njust to watch him\n[F]die.\nWhen I\n[C7]hear that whistle blowing\nI hang my head and\n[F]cry.\n\n[Solo]\n[F]\n[Bb]\n[F]\n[C7]\n[F]I\n\n[Verse 3]\n[F]bet there's rich folks eating from a fan-\ncy dining car. They're\nprobably drinkin' coffee and\nsmoking big cigars. Well I\n[Bb]know I had it coming,\nI know I can't be\n[F]free,\nBut those\n[C7]people keep a movin',\nAnd that's what tortures\n[F]me.\n\n[Solo]\n[F]\n[Bb]\n[F]\n[C7]\n[F]Well if they'd\n\n[Verse 4]\n[F]free me from his prison, If that rail-\nroad train was mine, I\nbet I'd move it all a little far-\nther down the line. Far\n[Bb]from Folsom prison,\nthat's where I want to\n[F]stay,\nAnd I'd\n[C7]let that lonesome whistle\nblow my blues a-\n[F]way.\n\n[Outro]\n[C7]\n[F]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x35353",
+        "x3535x",
+        "x-3-2-3-1-0",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Folsom Prison Blues *alt",
+  "id": "8821759840e08ffd93f5a50560fce1cf80824d9aa8f20c88b297eeeac1311477",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 213,
+  "normalizedKey": "johnny cash|folsom prison blues",
+  "playableChords": [
+    "C7",
+    "F",
+    "Bb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Solo"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 48,
+      "name": "Solo"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8821759840e08ffd93f5a50560fce1cf80824d9aa8f20c88b297eeeac1311477",
+    "version": "BCFZ"
+  },
+  "tempo": 102,
+  "title": "Folsom Prison Blues",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

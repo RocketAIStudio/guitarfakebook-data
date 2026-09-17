@@ -1,0 +1,162 @@
+{
+  "artist": "Judas Priest",
+  "artistNormalized": "judas priest",
+  "capo": "No capo",
+  "chordPositionCount": 46,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[Em]\n[Am]\n[D]\n[B]\n[Em]\n[Am]\n[B7]\n[Em]\n\n[Verse]\n[Em]Before the\n[Am]dawn,\n[D]I hear you\n[B]whisper\n[Em]In your\n[Am]sleep \"Don't\n[B7]let the morning\n[Em]take him\"\nOutside the\n[Am]birds\n[D]begin to call\n[B]\n[Em]As if to\n[Am]summon\n[B7]up my\n[Em]leaving\n\n[Chorus]\n[C]It's been a life-\n[G]time\n[E]since I found\n[Am7]someone\n[C]Since I found\n[G]someone who would stay\n[D]\n[C]I've waited too\n[G]long,\n[E]and now you're lea-\n[Am7]ving\nOh, please don't\n[C]take it all away\n[B7]\n[Em]\n\n[Solo]\n[C]\n[G/B]\n[Am7]\n[C]\n[G/B]\n[Am7]\n[C]\n[G/B]\n[Am7]\n[C]\n[G/B]\n[Em]\n\n[Chorus]\n[C]It's been a life-\n[G]time\n[E]since I found\n[Am7]someone\n[C]Since I found\n[G]someone who would stay\n[D]\n[C]I've waited too\n[G]long,\n[E]and now you're lea-\n[Am7]ving\nOh, please don't\n[C]take it all away\n[B7]\n\n[Outro]\n[Em]Before the\n[Am]dawn,\n[D]I hear you whis-\n[B]per\n[Em]In your\n[Am]sleep \"Don't\n[B7]let the morning\n[Em]take him\"",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Before the Dawn *alt",
+  "id": "5ab4c223e946d5f9bf4ad9baea29a8519c9b78503a55caff1e061a93ee00fe97",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 127,
+  "normalizedKey": "judas priest|before the dawn",
+  "playableChords": [
+    "Em",
+    "Am",
+    "D",
+    "B",
+    "B7",
+    "C",
+    "G",
+    "E",
+    "Am7",
+    "G/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Solo"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5ab4c223e946d5f9bf4ad9baea29a8519c9b78503a55caff1e061a93ee00fe97",
+    "version": "BCFZ"
+  },
+  "tempo": 106,
+  "title": "Before the Dawn",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

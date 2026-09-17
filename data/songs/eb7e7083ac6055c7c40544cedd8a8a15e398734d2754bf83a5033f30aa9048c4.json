@@ -1,0 +1,101 @@
+{
+  "artist": "John Mayer",
+  "artistNormalized": "john mayer",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]  [D]\n[C]\n[G]  [D]\n[G]  [D]\n[C]\n[C]  [D]\n[G]\n\n[Pre-Verse]\n[G]  [D]\n[C]\n[G]  [D]\n[G]  [D]\n[C]\n[C]  [D]\n[G]\n\n[Verse 1]\n[G]Close your [D]eyes and\n[C]clone yourself\nBuild your heart and\n[D][G]army\n[G]To [D]defend your\n[C]innocence\n[C]While you do [D]everything\n[G]wrong\n[G]Don't be [D]scared to\n[C]walk alone\nDon't be scared to\n[G]like [D]it\n[G]There's no [D]time that you\n[C]must be home\n[C]So sleep where [D]your darkness\n[G]falls\n\n[Chorus]\n[G]Alive in the [D]age of\n[C]worry\nSmile in the age of\n[D][G]worry Go\n[G]wild in the [D]age of\n[C]worry And sing\n[C]Worry, [D]why should I\n[G]care?\n\n[Pre-Verse]\n[G]  [D]\n[C]\n[C]  [D]\n[G]\n\n[Verse 2]\n[G]No your [D]fight is\n[C]not within\nYours is with your\n[D][G]timing\n[G]Dream your [D]dreams but\n[C]don't pretend\n[C]Make friends with [D]what you\n[G]are\n[G]Give your [D]heart then\n[C]change your mind\nYou're allowed to\n[G]do [D]it\n[G]'Cause God [D]knows it's been\n[C]done to you\n[C]And somehow [D]you got through\n[G]it\n\n[Chorus]\n[G]Alive in the [D]age of\n[C]worry\nRage in the age of\n[D][G]worry Sing\n[G]out in the [D]age of\n[C]worry And sing\n[C]Worry, [D]why should I\n[G]care?\n\n[Bridge]\n[G]  [D]\n[C]\nRage in the age of\n[G]worry [D]Act your\n[G]age in the [D]age of\n[C]worry And sing\n[C]Worry, [D]get out of\n[G]here!\n[C]  [D]\n[G]\n[C]  [D]\n\n[Outro]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Age of Worry",
+  "id": "eb7e7083ac6055c7c40544cedd8a8a15e398734d2754bf83a5033f30aa9048c4",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 194,
+  "normalizedKey": "john mayer|age of worry",
+  "playableChords": [
+    "G",
+    "D",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Bridge"
+    },
+    {
+      "measure": 80,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "eb7e7083ac6055c7c40544cedd8a8a15e398734d2754bf83a5033f30aa9048c4",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Age of Worry",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

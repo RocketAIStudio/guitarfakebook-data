@@ -1,0 +1,97 @@
+{
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnny cash",
+  "capo": "1",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[A]\n[D]\n[A]\nIn a\n\n[Verse 1]\n[A]little cabaret\nin a\nSouth Texas\n[E]border town Sat a\nboy and his guitar\nAnd the\npeople came from\n[A]all around And all the girls\nfrom there to\n[E]Austin\nWere\nslipping away from home\nand putting\njewelery in\n[A]hock To take the\ntrip,\nto go and\n[E]listen\nTo the\nlittle darkhaired\nboy That played the Ten-\nnessee flat top\n[A]box And he would\n\n[Break]\n[D]play\n[A]\n[D]\n[A]\n[D]\n[A]\nWell, he\n\n[Verse 2]\n[A]couldn't ride or\nwrangle And he\nnever cared to\n[E]make a dime But\ngive him his guitar,\nand\nhe'd be happy all\n[A]the time And all the girls\nfrom nine to\n[E]ninety\nWere\nsnapping fingers,\ntapping toes And\nbegging him don't\n[A]stop And hypnotized\nand fasci-\n[E]nated\nBy the\nlittle darkhaired\nboy That played the Ten-\nnessee flat top\n[A]box And he would\n\n[Break]\n[D]play\n[A]\n[D]\n[A]\n[D]\n[A]\nThen\n\n[Verse 3]\n[A]one day he was\ngone, and\nno one ever\n[E]saw him around He'd\nvanished like the breeze,\nand they for-\ngot him in the\n[A]little town But all the girls\nstill dreamed a-\n[E]bout him\nAnd a\nhung around the\ncabaret un-\ntil the doors were\n[A]locked And then one\nday\non the Hit Parade\n[E]\nWas a\nlittle darkhaired\nboy That played the Ten-\nnessee flat top\n[A]box And he would\n\n[Break]\n[D]play\n[A]\n[D]\n[A]\n[D]\n[A]\n\n[Outro (Fade Out)]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tennessee Flat-Top Box",
+  "id": "523debe7829c972942d27e09a319ddcf24aa1e1a6e9c0948203b77524fe9db54",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 249,
+  "normalizedKey": "johnny cash|tennessee flat top box",
+  "playableChords": [
+    "A",
+    "D",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Break"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 76,
+      "name": "Break"
+    },
+    {
+      "measure": 95,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 119,
+      "name": "Break"
+    },
+    {
+      "measure": 136,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "523debe7829c972942d27e09a319ddcf24aa1e1a6e9c0948203b77524fe9db54",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "Tennessee Flat-Top Box",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

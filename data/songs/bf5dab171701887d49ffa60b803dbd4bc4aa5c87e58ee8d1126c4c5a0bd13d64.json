@@ -1,0 +1,130 @@
+{
+  "artist": "Joshua Radin",
+  "artistNormalized": "joshua radin",
+  "capo": "4",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Am]  [F]\n[C]  [G]\n[Am]  [F]\n[C]  [G]\n\n[Verse 1]\n[Am]I [F]should know\n[C]who I am [G]by now\n[Am]I [F]walk\n[C]the record stand [G]somehow\n[Am]Thinking [F]of winter\n[C]  [G]\n[Am]Your name is [F]the splinter in-\n[C]side me [G]While\n\n[Pre-Chorus]\n[Am]I wait [F]\n[C]  [G]\n\n[Chorus]\n[Dm]And I remember\n[G]the sound\n[C]Of your November down-\n[F]town\n[Dm]And I remember\n[G]the truth\n[C]A warm December with\n[F]you But I don't\n[G]have to [C]make [C/B]this mis-\n[Am]take And I don't\n[G]have to [C]stay [C/B]this\n[Am]way If only I would wake\n[C]\n\n[Verse 2]\n[Am]The walk [F]has all\n[C]been cleared [G]by now Your\n[Am]voice [F]is all I\n[C]hear [G]somehow\n[Am]Calling out [F]winter\n[C]  [G]\n[Am]Your voice is [F]the splinter in-\n[C]side me [G]While I\n\n[Pre-Chorus]\n[Am]wait [F]\n[C]  [G]\n\n[Chorus]\n[Dm]And I remember\n[G]the sound\n[C]Of your November down-\n[F]town\n[Dm]And I remember\n[G]the truth\n[C]A warm December with\n[F]you But I don't\n[G]have to [C]make [C/B]this mis-\n[Am]take And I don't\n[G]have to [C]stay [C/B]this\n[Am]way If only I would wake\n[C]\n\n[Bridge]\n[Am]I [G]could have\n[F]lost myself [C][C/B]In\n[Am]rough blue [G]waters\n[F]in your eyes [C][C/B]And\n[Am]I [G]miss you still\n[F]  [C]  [C/B]\n\n[Chorus]\n[Dm]And I remember\n[G]the sound\n[C]Of your November down-\n[F]town\n[Dm]And I remember\n[G]the truth\n[C]A warm December with\n[F]you But I don't\n[G]have to [C]make [C/B]this mis-\n[Am]take And I don't\n[G]have to [C]stay [C/B]this\n[Am]way If only I would wake\n[C]\n\n[Outro]\n[F]  [Am]\n[G]  [C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/B": {
+      "catalog": [
+        "x22010"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "winter",
+  "id": "bf5dab171701887d49ffa60b803dbd4bc4aa5c87e58ee8d1126c4c5a0bd13d64",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 238,
+  "normalizedKey": "joshua radin|winter",
+  "playableChords": [
+    "Am",
+    "F",
+    "C",
+    "G",
+    "Dm",
+    "C/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bf5dab171701887d49ffa60b803dbd4bc4aa5c87e58ee8d1126c4c5a0bd13d64",
+    "version": "BCFZ"
+  },
+  "tempo": 84,
+  "title": "winter",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

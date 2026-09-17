@@ -1,0 +1,112 @@
+{
+  "artist": "James Brown",
+  "artistNormalized": "james brown",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "Wo! I feel good,\n\n[Verse 1]\n[D]\nI knew that I would,\nnow\nI feel good,\n[G]\nI knew that I would,\n[D]now\nSo good,\n[A]so good,\n[G]I got you\n[D]\nWo! I feel nice\n\n[Verse 2]\n[D]\nlike sugar and spice\nI feel nice,\n[G]\nlike sugar and spice\n[D]\nSo nice,\n[A]so nice,\n[G]I got you\n[D]\n\n[Bridge]\n[D]\nWhen I\n\n[Chorus]\n[G]hold you in my\narms I\n[D]know that I can do no wrong\nand\n[G]when I hold you in\nmy arms My\n[A]love won't do you no harm\nAnd I feel\n\n[Verse 3]\n[D]nice,\nlike sugar and spice\nI feel nice,\n[G]\nlike sugar and spice\n[D]\nSo nice,\n[A]so nice,\n[G]I got you\n[D]\n\n[Bridge]\n[D]\nWhen I\n\n[Chorus]\n[G]hold you in my\narms I\n[D]know that I can't do no wrong\nand\n[G]when I hold you in\nmy arms My\n[A]love can't do me no harm\nAnd I feel\n\n[Verse 4]\n[D]nice,\nlike sugar and spice\nI feel nice,\n[G]\nlike sugar and spice\n[D]\nSo nice,\n[A]so nice,\n[G]I got you\n[D]\nWo! I feel good,\n\n[Verse 5]\n[D]\nI knew that I would,\nnow\nI feel good,\n[G]\nI knew that I would,\n[D]now\nSo good,\n[A]so good,\n[G]I got you\n[D]\nSo good,\n\n[Outro]\n[A]so good,\n[G]'cause I got you\n[D]\nuse I\n[A]got you\n[G]\n[D]\n[Dsus2]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Got You",
+  "id": "7d49c17883e694032e50fb31125fee7e91226c7209d2aa8dde564da17f22709a",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 196,
+  "normalizedKey": "james brown|i got you",
+  "playableChords": [
+    "D",
+    "G",
+    "A",
+    "Dsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Bridge"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Bridge"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 74,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 86,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7d49c17883e694032e50fb31125fee7e91226c7209d2aa8dde564da17f22709a",
+    "version": "BCFZ"
+  },
+  "tempo": 144,
+  "title": "I Got You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

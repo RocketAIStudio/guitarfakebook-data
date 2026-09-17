@@ -1,0 +1,114 @@
+{
+  "artist": "Jack Johnson",
+  "artistNormalized": "jack johnson",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[B/E]\n[B]\n[B/E]\n[B]\n[B/E]\n[B]\n[F#5]\nBack when all\n\n[Verse 1]\n[E13]my little goals seemed so\n[B]important\n[E13]Every pot of gold fill and full\n[B]of distortion\n[E13]Heaven was a place still in\n[B]space not in motion But so-\n[F#5]on\nI got yo-\n\n[Chorus]\n[E13]u I got e-\n[B]verything I've got yo-\n[E13]u I don't ne-\n[B]ed nothing More than\n[E13]you I got e-\n[B]verything I've got you\n[F#5]\nWe went\n\n[Verse 2]\n[E13]walking through the hills Tryin' to pretend\n[B]that we both know\n[E13]Maybe if we save up We can build\n[B]a little home But\n[E13]then the hell storm came and yelled, \"You\n[B]need to let go, you've got no cont-\n[F#5]rol No\"\nI got yo-\n\n[Chorus]\n[E13]u I got e-\n[B]verything I've got yo-\n[E13]u I don't ne-\n[B]ed nothing More than\n[E13]you I got e-\n[B]verything I've got you\n[F#5]\nThis\n\n[Bridge]\n[G#m7]weight's too much alo-\n[B]ne Some\n[G#m7]days I can't\n[B]hold it at all You\n[G#m7]take it on for me\n[B]When to-\n[C#7sus4]morrow's too much I'll\n[E13]carry it all, I got\n\n[Pre-Chorus]\n[B]you\nAnd when to-\n[C#7sus4]morrow's too much I'll\n[E13]carry it all I got\n[B]you\nI got yo-\n\n[Chorus]\n[E13]u I got e-\n[B]verything I've got yo-\n[E13]u I don't ne-\n[B]ed nothing More than\n[E13]you I got e-\n[B]verything I've got you\n[F#5]\n\n[Outro]\n[B/E]\n[B]\n[B/E]\n[B]\n[B/E]\n[B]\n[F#5]\n[B]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "0x0000",
+        "05400x",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7"
+      ],
+      "catalogCount": 5
+    },
+    "B/E": {
+      "catalog": [
+        "5x4444"
+      ],
+      "catalogCount": 1
+    },
+    "C#7sus4": {
+      "catalog": [
+        "20020x"
+      ],
+      "catalogCount": 1
+    },
+    "E13": {
+      "catalog": [
+        "55540x"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "x02023"
+      ],
+      "catalogCount": 1
+    },
+    "G#m7": {
+      "catalog": [
+        "x2400x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Got You",
+  "id": "b4a055530fa838f13076b8b92d255a4ecac35e562d9085e4b544a7fe15769894",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 241,
+  "normalizedKey": "jack johnson|i got you",
+  "playableChords": [
+    "B/E",
+    "B",
+    "F#5",
+    "E13",
+    "G#m7",
+    "C#7sus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    },
+    {
+      "measure": 50,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b4a055530fa838f13076b8b92d255a4ecac35e562d9085e4b544a7fe15769894",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "I Got You",
+  "tuning": "B F# B F# B D#",
+  "variantRole": "primary"
+}

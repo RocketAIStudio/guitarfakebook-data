@@ -1,0 +1,93 @@
+{
+  "artist": "J.J. Cale",
+  "artistNormalized": "j j cale",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[A]\n[A]\n[C]\n[D]\n[A]\n\n[couplet 1]\nIf you ' re ever in Oklahoma -\n-\nAnd they don't care about\nDallas, Texas\n\n[refrain 1]\n[D]\n[A]\n\n[couplet 2]\n\n[refrain 2]\n\n[solo]\n\n[refrain 3]\n\n[couplet 3 ( repeat 1)]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "If You're Ever In Oklahoma",
+  "id": "3bfeaefe06fce0266e4c46bb7b415b62e12aca9f201ec197b7b9c9c9916fe077",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 32,
+  "normalizedKey": "j j cale|if you re ever in oklahoma",
+  "playableChords": [
+    "A",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 11,
+      "name": "couplet 1"
+    },
+    {
+      "measure": 19,
+      "name": "refrain 1"
+    },
+    {
+      "measure": 27,
+      "name": "couplet 2"
+    },
+    {
+      "measure": 35,
+      "name": "refrain 2"
+    },
+    {
+      "measure": 43,
+      "name": "solo"
+    },
+    {
+      "measure": 51,
+      "name": "refrain 3"
+    },
+    {
+      "measure": 59,
+      "name": "couplet 3 ( repeat 1)"
+    }
+  ],
+  "source": {
+    "format": "gp4",
+    "sha256": "3bfeaefe06fce0266e4c46bb7b415b62e12aca9f201ec197b7b9c9c9916fe077",
+    "version": "FICHIER GUITAR PRO v4.06"
+  },
+  "tempo": 130,
+  "title": "If You're Ever In Oklahoma",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

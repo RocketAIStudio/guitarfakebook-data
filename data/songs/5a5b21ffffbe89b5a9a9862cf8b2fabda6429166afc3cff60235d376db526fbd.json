@@ -1,0 +1,117 @@
+{
+  "artist": "John Mayer Trio",
+  "artistNormalized": "john mayer trio",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[C9]\nEveryday\n\n[Verse 1]\n[C9]\nEveryday\nI have the blues\nEvery-\n[F7]day\nEveryday\n[C9]I have the blues\nWhen you see\n[G7]me worried baby\n[F7]Cause you I hate to\n[C9]lose\n\n[Verse 2]\n[C9]Nobody loves me\nNobody seems to care\n[F7]Nobody loves me\n[C9]Nobody seems to care\nSpeaking of\n[G7]bad luck and trouble\n[F7]Well you know I had my\n[C9]share\n\n[Solo]\n[C9]\n[F7]\n[C9]\n[G7]\n[F7]\n[C9]\n[C9]\n[F7]\n[C9]\n[G7]\n[F7]\n[C9]\n[C9]\n[F7]\n[C9]\n[G7]\n[F7]\n[C9]\n\n[Outro]\n[C9]\n[F7]\n[C9]\n[G9]  [F#9]\n[F9]\n[C9]\n[D9]  [C#9]  [C9]",
+  "diagrams": {
+    "C#9": {
+      "catalog": [
+        "x43444"
+      ],
+      "catalogCount": 1
+    },
+    "C9": {
+      "catalog": [
+        "x3233x",
+        "x32333"
+      ],
+      "catalogCount": 2
+    },
+    "D9": {
+      "catalog": [
+        "x54555"
+      ],
+      "catalogCount": 1
+    },
+    "F#9": {
+      "catalog": [
+        "x98999"
+      ],
+      "catalogCount": 1
+    },
+    "F7": {
+      "catalog": [
+        "131211",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "F9": {
+      "catalog": [
+        "x87888"
+      ],
+      "catalogCount": 1
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G9": {
+      "catalog": [
+        "x-10-9-10-10-10"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Everyday I Have the Blues",
+  "id": "5a5b21ffffbe89b5a9a9862cf8b2fabda6429166afc3cff60235d376db526fbd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 71,
+  "normalizedKey": "john mayer trio|everyday i have the blues",
+  "playableChords": [
+    "C9",
+    "F7",
+    "G7",
+    "G9",
+    "F#9",
+    "F9",
+    "D9",
+    "C#9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Solo"
+    },
+    {
+      "measure": 78,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5a5b21ffffbe89b5a9a9862cf8b2fabda6429166afc3cff60235d376db526fbd",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Everyday I Have the Blues",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

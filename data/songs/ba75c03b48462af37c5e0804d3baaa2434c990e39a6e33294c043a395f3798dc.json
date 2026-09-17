@@ -1,0 +1,142 @@
+{
+  "artist": "Incantation",
+  "artistNormalized": "incantation",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[C5]\n\n[Verse 1]\n[C5]Commands of\n[A5]mind must\n[C5]be\n[F5]\n[G5]\n[G#5]\n[C5]Unnumbered\n[C#5]spirits will\n[C5]seeк\n[F5]\n[G5]\n[G#5]\n\n[Bridge]\n[C5]Each\nholds\nsway over\nthee\nThe\nvessel on-\nly yearns to\nsee\n\n[Verse 2]\n[C5]But we\n[A5]plant the very\n[C5]seed\n[F5]\n[G5]\n[G#5]\n[C5]Which guides\n[C#5]to de-\n[C5]ceive\n[F5]\n[G5]\n[G#5]\n\n[Bridge]\n[C5]\n\n[Verse 3]\n[C5]No banish-\n[A5]ment can\n[C5]cure\n[F5]\n[G5]\n[G#5]\n[C5]The muse's\n[C#5]nature so\n[C5]pure\n[F5]\n[G5]\n[G#5]\n\n[Bridge]\n[C5]Pure\nhis\neyes they\nknow\nYour at-\ntempts to de-\nny\nshow\n\n[Verse 4]\n[C5]Ecstasy every\n[A5]life you\n[C5]take\n[F5]\n[G5]\n[G#5]\n[C5]Driven by our\n[C#5]ethereal\n[C5]hate\n[F5]\n[G5]\n[G#5]\n\n[Bridge]\n[C#5]\n\n[Verse 5]\n[C#dim]\n[C5]\n[C#dim]Again\n[C5]Consume\nthe\nignorant\nReg-\n[C#dim]ret\n[C5]Speeds\nyour des-\ncent\n\n[Bridge]\n[C5]\nRebirth\n\n[Verse 6]\n[C5]through\n[A5]your\n[C5]shell\n[F#5]\n[G5]\n[G#5]\n[C5]No\n[A5]longer a\n[C5]denizen of\n[F#5]hell\n[G5]\n[G#5]\n\n[Outro]\n[C#dim]\n[C5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#dim": {
+      "catalog": [
+        "x-8-9-10-9-x"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "x133xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "8-10-10-x-x-x",
+        "x355xx"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "799xxx",
+        "x244xx"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Muse",
+  "id": "ba75c03b48462af37c5e0804d3baaa2434c990e39a6e33294c043a395f3798dc",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 106,
+  "normalizedKey": "incantation|muse",
+  "playableChords": [
+    "C5",
+    "A5",
+    "F5",
+    "G5",
+    "G#5",
+    "C#5",
+    "C#dim",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Bridge"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 64,
+      "name": "Bridge"
+    },
+    {
+      "measure": 72,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 85,
+      "name": "Bridge"
+    },
+    {
+      "measure": 97,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 121,
+      "name": "Bridge"
+    },
+    {
+      "measure": 133,
+      "name": "Verse 6"
+    },
+    {
+      "measure": 145,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ba75c03b48462af37c5e0804d3baaa2434c990e39a6e33294c043a395f3798dc",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "Muse",
+  "tuning": "C F A# D# G C",
+  "variantRole": "primary"
+}

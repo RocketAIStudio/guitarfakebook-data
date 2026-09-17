@@ -1,0 +1,136 @@
+{
+  "artist": "Johnny Winter",
+  "artistNormalized": "johnny winter",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Bm]\nI was born\n\n[Verse 1]\n[Bm]in a cross-\nfire Hurri-\ncane\nIn a house\nmama\nin the fallin'\nrain\nWell it's\n\n[Chorus]\n[D]all\n[A]right,\n[E]in fact it's a gas\n[Bm]It's\n[D]all\n[A]right,\n[E]jumpin jack flash is a\n[Bm]gas gas gas\n\n[Interrude]\n[Bm]\nI was\n\n[Verse 2]\n[Bm]raised by\na toothless bearded haag\nI was\nschooled with a strap\nright across my back\nWell it's\n\n[Chorus]\n[D]all right,\n[A]\n[E]in fact it's a\n[Bm]gas It's\n[D]all right,\n[A]\n[E]jumpin jack flash is a\n[Bm]gas gas gas\n\n[Interlude]\n[Bm]  [E]\n[D]  [A]\n[Bm]  [E]\n[A]\n[Bm]  [E]\n[D]  [A]\n[Bm]  [E]\n\n[Solo 1]\n[Bm]\n\n[Interlude]\n[Bm]\nI was\n\n[Verse 3]\n[Bm]drowned, washed\nup and left for dead\nI looked\ndown at my\nfeet and I saw they\nbled\nI looked\ndown\nat the cross from across\nmy bed\nI was crowned\nwith a spike\nright through my head\nIt's\n\n[Chorus]\n[D]all right,\n[A]\n[E]in fact it's a\n[Bm]gas It's\n[D]all\n[A]right\n[E]jumpin jack flash is a\n[Bm]gas gas gas\n\n[Interlude]\n[Bm]\n\n[Solo 2]\n[Bm]\n\n[Interlude]\n[Bm]\n\n[Outro]\n[Bm]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "799777",
+        "x-2-4-4-3-2",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Jumpin' Jack Flash",
+  "id": "3da7d339758c27a15cb200d82b01362948dae535724e9c0bb1736a6529960c67",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 142,
+  "normalizedKey": "johnny winter|jumpin jack flash",
+  "playableChords": [
+    "Bm",
+    "D",
+    "A",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Interrude"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 80,
+      "name": "Interlude"
+    },
+    {
+      "measure": 88,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 104,
+      "name": "Chorus"
+    },
+    {
+      "measure": 114,
+      "name": "Interlude"
+    },
+    {
+      "measure": 118,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 136,
+      "name": "Interlude"
+    },
+    {
+      "measure": 144,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3da7d339758c27a15cb200d82b01362948dae535724e9c0bb1736a6529960c67",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Jumpin' Jack Flash",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

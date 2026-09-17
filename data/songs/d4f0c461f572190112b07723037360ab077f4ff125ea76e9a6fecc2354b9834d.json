@@ -1,0 +1,141 @@
+{
+  "artist": "Joni Mitchell",
+  "artistNormalized": "joni mitchell",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C]\n[Am]\n[F]\n[G]\nIt's\n\n[Verse 1]\n[C]coming on Christmas They're\ncutting down trees They're\nputting up reindeer And singing\nsongs of joy and peace\n[Am]Oh I wish I had a river\nI could skate\n[G]away on\nBut\n[C]it don't snow here It\nstays pretty green I'm gonna\nmake a lot of money Then I'm gonna quit\nthis crazy scene I\n[Am]wish I had a river\nI could skate\n[G]away on\nI\n\n[Chorus]\n[F]wish I had a river so long\n[G]I would\n[C]teach my feet to\n[F]fly [Em]\n[Dm]\nOh I\n[C]wish I had a river\n[G]I could skate away\n[Cadd11]on\nI\nmade my baby\n\n[Bridge]\n[C]cry\n[Am]\n[G]\nHe\n\n[Verse 2]\n[C]tried hard to help me You know, he\nput me at ease And he\nloved me so naughty Made me weak\nin the knees Oh I\n[Am]wish I had a river\nI could skate\n[G]away on\n[C]I'm so hard to handle I'm\nselfish and I'm sad Now I've gone and\nlost the best baby That I\never had Oh I\n[Am]wish I had a river\nI could skate\n[G]away on\nI\n\n[Chorus]\n[F]wish I had a river so long\n[G]I would\n[C]teach my feet to\n[F]fly [Em]\n[Dm]\nOh I\n[C]wish I had a river\n[G]I could skate away\n[Cadd11]on\nI\nmade my baby\n\n[Bridge]\n[C]say goodbye\n[Am]\n[G]\nIt's\n\n[Verse 3]\n[C]coming on Christmas They're\ncutting down trees They're\nputting up reindeer And singing\nsongs of joy and peace\n[Am]I wish I had a river\nI could skate\n[G]away\non\n\n[Outro]\n[G]\n[F]\n[Dm]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd11": {
+      "catalog": [
+        "x33010"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "River",
+  "id": "d4f0c461f572190112b07723037360ab077f4ff125ea76e9a6fecc2354b9834d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 272,
+  "normalizedKey": "joni mitchell|river",
+  "playableChords": [
+    "C",
+    "Am",
+    "F",
+    "G",
+    "Em",
+    "Dm",
+    "Cadd11"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 71,
+      "name": "Bridge"
+    },
+    {
+      "measure": 77,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 87,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d4f0c461f572190112b07723037360ab077f4ff125ea76e9a6fecc2354b9834d",
+    "version": "BCFZ"
+  },
+  "tempo": 101,
+  "title": "River",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

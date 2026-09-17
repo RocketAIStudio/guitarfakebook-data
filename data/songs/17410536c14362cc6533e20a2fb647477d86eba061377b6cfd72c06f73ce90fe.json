@@ -1,0 +1,129 @@
+{
+  "artist": "James Bay",
+  "artistNormalized": "james bay",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Verse 1]\n[G]From the\n[G/B]hot strobe [C]lights and the [Em]spiked punch\n[G/D]bliss And the\n[G/B]long walks [C]home in the [Em]dark we'll\n[G]miss\n[G/B]Nobody [C]teaches you how [Em]to remini-\n[G/D]sce\n[G/B]Nobody [C]teaches you to [Em]hurt like\n[G]this Then we slide\n\n[Chorus]\n[C]into the arms of some\n[G]one else Yeah, we slide\n[Em][C]into the arms of some-\n[G]one else No more\n\n[Verse 2]\n[G/B]coked up, [C]broke, [Em]nocturnal\n[G/D]kids Was that\n[G/B]ever even [C]us? Do we [Em]know what we\n[G]missed?\n[G/B]Nobody [C]teaches you [Em]how to win\n[G/D]big\n[G/B]Nobody [C]said there's no [Em]reverse on\n[G]this Then we slide\n\n[Chorus]\n[C]into the arms of some\n[G]one else Yeah, we slide\n[Em][C]into the arms of some-\n[G]one else In disguise,\nwe [C]get a little [Em]better at con-\n[D]trolling [G]ourselves around [C]midnight Then we slide\n[G][C]into the arms [Em]of some-\n[D]one else\n[G]\n\n[Verse 3]\n[G]Nobody wants to, [C]nobody wants to\n[G/D]Nobody wants to, [C]nobody wants to\n[G]Nobody wants to wake [Am]up [Em]alone\n[C]Then we slide\n\n[Chorus]\n[G/D][Am]into the arms of some\n[G/D]one else [G]Yeah, we\n[Em]slide [Am]into the arms [C]of some-\n[G]one else In disguise,\nwe [C]get a little [Em]better at con-\n[D]trolling [G]ourselves around\n[C]midnight But then we\n[G]slide [C]into the arms of some,\n[D]someone else\n\n[Outro]\n[G/B]The [C]weight of the [Em]world is\n[G/D]love Under the burden of solitude,\n[G/B][Am]under the [C]burden of\n[G]dissatisfaction the weight The weight we carry is\n[G/B]love [C]\n[G/D]And so must rest in the arms of love at last,\n[G/B]must rest [Am]in the [Em]arms of\n[G]love",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20033"
+      ],
+      "catalogCount": 1
+    },
+    "G/D": {
+      "catalog": [
+        "xx0003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Slide",
+  "id": "17410536c14362cc6533e20a2fb647477d86eba061377b6cfd72c06f73ce90fe",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 286,
+  "normalizedKey": "james bay|slide",
+  "playableChords": [
+    "G",
+    "G/B",
+    "C",
+    "Em",
+    "G/D",
+    "D",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "17410536c14362cc6533e20a2fb647477d86eba061377b6cfd72c06f73ce90fe",
+    "version": "BCFZ"
+  },
+  "tempo": 63,
+  "title": "Slide",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

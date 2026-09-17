@@ -1,0 +1,104 @@
+{
+  "artist": "Jack Johnson",
+  "artistNormalized": "jack johnson",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n[D]  [Bm]\n[G]  [A]\n[D]  [Bm]\n[G]  [A]\n\n[Verse 1]\n[D]She's just [Bm]waiting for the sum-\n[G]mertime when the [A]weather's fine\n[D]She could hitch a ride [Bm]out of town\n[G]And so far away [A]from that low\n[D]down [Bm]\n[G]good for [A]nothing mis-\n[D]take making [Bm]fool With ex-\n[G]cuses like [A]baby that was a long\n\n[Chorus]\n[D]time ago\n[Bm]But\n[G]that's just a euphemism\n[A]if you want the truth he was out\n[D]of control\n[Bm]But a\n[G]short timesa long time\n[A]then your mind just won't let go\n\n[Interlude]\n[D]\n\n[Guitar Solo]\n[D]  [Bm]\n[G]  [A]\n[D]  [Bm]\n[G]  [A]\n\n[Verse 2]\n[D]Well summer came [Bm]along and then it\n[G]was gone and so was [A]she But\n[D]not from him [Bm]because he followed her\n[G]just to let her know [A]Her\n[D]dreams are dreams [Bm]\n[G]And all this [A]livings so much\n[D]harder than it seems [Bm]\n[G]But girl don't [A]let your\n[D]dreams be [Bm]dreams\n[G]You know this [A]livings not so\n[D]hard as it seems [Bm]\n[G]Don't let [A]your\n\n[Outro]\n[D]dreams [Bm]\n[G][A]be\n[D]dreams [Bm]\n[G][A]Your\n[D]dreams [Bm]\n[G][A]your\n[D]dreams [Bm]\n[G][A]be\n[D]dreams",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dreams Be Dreams",
+  "id": "511892fa37a26f86f4019154d67c93173106b1df247e096c38080bbd7186ca50",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 162,
+  "normalizedKey": "jack johnson|dreams be dreams",
+  "playableChords": [
+    "D",
+    "Bm",
+    "G",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Interlude"
+    },
+    {
+      "measure": 35,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "511892fa37a26f86f4019154d67c93173106b1df247e096c38080bbd7186ca50",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "Dreams Be Dreams",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

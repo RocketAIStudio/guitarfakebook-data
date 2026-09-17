@@ -1,0 +1,141 @@
+{
+  "artist": "Journey",
+  "artistNormalized": "journey",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[B]\n[Abm]\n[Gb]\n[E]Highway\n\n[Verse 1]\n[B]run Into the\n[Abm]midnight sun\n[E]Wheels go round and round You're on my\n[B]mind\nRestless\nhearts Sleep a-\n[Abm]lone tonight\n[E]Sending all my love Along the\n[Gb][Gbsus4]wire They\n\n[Chorus]\n[E]say that the road Ain't no [Abm]place to start a fami-\n[B]ly\n[E]Right down the line [Abm]It's been you and me\n[B]And\n[E]lovin' a music man [Abm]Ain't always what it's\n[B]supposed to be Oh,\n[Gb]girl, you stand [Eb]by\n[Gb]me I'm fo-\n[Dbm]rever yours [B]\n[E]Faithfully\n\n[Interlude]\n[B]\n[Abm]\n[Gb]\n[E]Circus\n\n[Verse 2]\n[B]life Under the\n[Abm]big top world\n[E]We all need the clowns make us\n[B]smile\nThrough space and\ntime Always a-\n[Abm]nother show\n[E]Wondering where Iam Lost wit-\n[Gbsus4]hout [Gb]you And\n\n[Chorus]\n[E]being apart Ain't [Abm]easy on this\n[B]love affair Two\n[E]strangers learn to [Abm]fall in love again\n[B]\n[E]I get the joy [Abm]of rediscove-\n[B]ring you Oh,\n[Gb]girl, you stand [Eb]by\n[Gb]me I'm fo-\n[Dbm]rever yours [B]\n[E]Faithfully\n\n[Interlude]\n[B]\n[Abm]\n[Gb]\n[E]\n[B]\n[Abm]\n[Gb]\n[E]\n[B]Faithfu-\n[Abm]lly I'm still\n[Gb]yours\n[E]\n\n[Solo]\n[B]\n[Abm]\n[Gb]\n[E]I'm fore-\n[B]ver yours\n[Abm]Ever yours\n[Gb]\n[E]\n\n[Outro]\n[B]Faithfully\n[Abm]\n[Gb]\n[E]",
+  "diagrams": {
+    "Abm": {
+      "catalog": [
+        "466444",
+        "x-x-6-8-9-7",
+        "x-11-13-13-12-11",
+        "16-18-18-16-16-16",
+        "x-x-18-20-21-19"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x2444x",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Dbm": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x6534x",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "Gbsus4": {
+      "catalog": [
+        "244422"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Faithfully *alt",
+  "id": "f13148ffcb93c9cd02157e9d44ec9279a44690e0233e70251a81312326b15f02",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 192,
+  "normalizedKey": "journey|faithfully",
+  "playableChords": [
+    "B",
+    "Abm",
+    "Gb",
+    "E",
+    "Gbsus4",
+    "Eb",
+    "Dbm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Interlude"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Interlude"
+    },
+    {
+      "measure": 59,
+      "name": "Solo"
+    },
+    {
+      "measure": 67,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f13148ffcb93c9cd02157e9d44ec9279a44690e0233e70251a81312326b15f02",
+    "version": "BCFZ"
+  },
+  "tempo": 65,
+  "title": "Faithfully",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,148 @@
+{
+  "artist": "Judy Collins",
+  "artistNormalized": "judy collins",
+  "capo": "1",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[C]\n[G]\n[C]\n[G]There are\n\n[Verse 1]\n[C]places I re-\n[Am]member [C7]All my\n[F]life, [Fm/Bb]though\n[C]some have changed Some for-\n[C]ever not for\n[Am]better [C7]Some have\n[F]gone [Fm/Bb]and\n[C]some remain All these\n\n[Chorus]\n[Am]pla ces had their\n[D7]moments With\n[F]lovers and [Fm]friends I\n[C]still can recall Some are\n[Am]dead and some are\n[D7]living In\n[F]my [Fm]life I've\n[C]loved them all\n[C]\n[G]\n[C]\n[G]But of\n\n[Verse 2]\n[C]all these friends and\n[Am]lovers [C7]There is\n[F]no [Fm/Bb]one com-\n[C]pares with you And these\n[C]memories lose their\n[Am]meaning [C7]When I\n[F]think of [Fm/Bb]love as\n[C]something new Though I\n\n[Chorus]\n[Am]know I'll never lose af-\n[D7]fection For\n[F]people and things [Fm]that\n[C]went before I\n[Am]know I'll often stop and think a-\n[D7]bout them In\n[F]my [Fm]life I\n[C]love you more\n\n[Interlude]\n[C]\n[Am]  [C7]\n[F]  [Fm/Bb]\n[C]\n[C]\n[Am]  [C7]\n[F]  [Fm/Bb]\n[C]Though I\n\n[Chorus]\n[Am]know I'll never lose af-\n[D7]fection For\n[F]people and things [Fm]that\n[C]went before I\n[Am]know I'll often stop and think a-\n[D7]bout them In\n[F]my [Fm]life I\n[C]love you more\n\n[Outro]\n[C]\n[G]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "Fm/Bb": {
+      "catalog": [
+        "x13111"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "In My Life",
+  "id": "886e607c84a1b1837fc10a19206749e8d0541b6c99aa951888ef65bd6cacc72b",
+  "key": "D♭",
+  "keyIdentified": true,
+  "lyricEventCount": 171,
+  "normalizedKey": "judy collins|in my life",
+  "playableChords": [
+    "C",
+    "G",
+    "Am",
+    "C7",
+    "F",
+    "Fm/Bb",
+    "D7",
+    "Fm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "886e607c84a1b1837fc10a19206749e8d0541b6c99aa951888ef65bd6cacc72b",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "In My Life",
+  "tuning": "C A D G B E",
+  "variantRole": "primary"
+}

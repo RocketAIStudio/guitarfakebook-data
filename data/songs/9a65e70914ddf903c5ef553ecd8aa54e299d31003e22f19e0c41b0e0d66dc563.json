@@ -1,0 +1,97 @@
+{
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnny cash",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]\n[C]\n[G]\n[D]\n[G]\n\n[Verse 1]\n[G]Love\nis a [C]burning\n[G]thing\n[C]\n[G]\nAnd it\nmakes\na [D]firery\n[G]ring\n[D]\n[G]\nBound\nby [C]wild de-\n[G]sire\n[C]\n[G]\nI fell in to a\n[D]ring of\n[G]fire\n\n[Chorus]\n[D]I fell\ninto a\n[C]burning ring of f-\n[G]ire I went\n[D]down, down,\ndown And the\n[C]flames went h-\n[G]igher And it\nburns, burns,\nburns\nThe [D]ring of\n[G]fire\nThe [D]ring of\n[G]fire\n\n[Bridge]\n[G]\n[C]\n[G]\n[D]\n[G]\n[C]\n[G]\n[D]\n[G]\n\n[Chorus]\n[D]I fell\ninto a\n[C]burning ring of f-\n[G]ire I went\n[D]down, down,\ndown And the\n[C]flames went h-\n[G]igher And it\nburns, burns,\nburns\nThe [D]ring of\nfire\n[G]The [D]ring of\n[G]fire\nThe\n\n[Verse 2]\n[G]taste\nof [C]love is\n[G]sweet\n[C]\n[G]\nWhen\nhearts\nlike [D]ours\n[G]meet\n[D]\n[G]\nI fell for yo-\nu [C]like a\n[G]child\n[C]\n[G]\nOh,\nbut the [D]fire went\n[G]wild\n\n[Chorus]\n[D]I fell\ninto a\n[C]burning ring of f-\n[G]ire I went\n[D]down, down,\ndown And the\n[C]flames went h-\n[G]igher And it\nburns, burns,\nburns\n[G]The [D]ring of\n[G]fire\nThe [D]ring of\n[G]fire\n\n[Outro - Chorus]\n[D]I fell\ninto a\n[C]burning ring of f-\n[G]ire I went\n[D]down, down,\ndown And the\n[C]flames went h-\n[G]igher And it\nburns, burns,\nburns\nThe [D]ring of\n[G]fire\nThe [D]ring of\n[G]fi-\nre And it\nburns, burns,\nburns\n[G]The [D]ring of\n[G]fire\nThe [D]ring of\n[G]fire\nThe [D]ring of\n[G]fire\n[D]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ring Of Fire",
+  "id": "9a65e70914ddf903c5ef553ecd8aa54e299d31003e22f19e0c41b0e0d66dc563",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 228,
+  "normalizedKey": "johnny cash|ring of fire",
+  "playableChords": [
+    "G",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Bridge"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 78,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 100,
+      "name": "Chorus"
+    },
+    {
+      "measure": 115,
+      "name": "Outro - Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9a65e70914ddf903c5ef553ecd8aa54e299d31003e22f19e0c41b0e0d66dc563",
+    "version": "BCFZ"
+  },
+  "tempo": 107,
+  "title": "Ring Of Fire",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

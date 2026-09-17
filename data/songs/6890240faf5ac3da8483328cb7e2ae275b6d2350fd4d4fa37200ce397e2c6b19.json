@@ -1,0 +1,104 @@
+{
+  "artist": "John Lennon",
+  "artistNormalized": "john lennon",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n[F#m]\n[D]\n[E7]\n[A]\n\n[Verse 1]\n[A]When the night\nhas come\n[F#m]And the land is dark\nAnd the\n[D]moon is the\n[E7]only light\n[A]we see\nNo I won't\n[A]be afraid\nNo I\n[F#m]won't be af-\nraid Just as\n[D]long as you\n[E7]stand, stand\n[A]by me And\ndarling, darling\n\n[Verse 2]\n[A]stand by\nme Oh, now, now,\n[F#m]stand by\nme\n[D]Stand by me,\n[E7]stand by\n[A]me\nIf the sky\n[A]that we look u-\npon\n[F#m]Should tumble and\nfall And the\n[D]mountain should\n[E7]crumble to the\n[A]sea\nI won't cry,\n\n[Verse 3]\n[A]I won't cry\nNo I\n[F#m]won't shed a\ntear Just as\n[D]long as you\n[E7]stand, stand\n[A]by me And\ndarling, darling\n[A]stand by\nme Oh, now, now,\n[F#m]stand by\nme\n[D]Stand by me,\n[E7]stand by me,\n[A]stand by\nme\n\n[Solo]\n[A]\n[F#m]\n[D]\n[E7]\n[A]\n[A]\n[F#m]\n[D]\n[E7]\n[A]When-\never you're in trouble won't you\n\n[Outro]\n[A]stand by me\nOh, now, now,\n[F#m]stand by me\nStand by\n[D]me, stand by\n[E7]me, stand\n[A]by me\nDarling, darling\n[A]stand by me\nStand by me\n[F#m]Oh stand by\nme, stand by\n\n[Fade Out]\n[D]me, stand\n[E7]by me stand\n[A]by me",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "02013x",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Stand By Me *alt",
+  "id": "6890240faf5ac3da8483328cb7e2ae275b6d2350fd4d4fa37200ce397e2c6b19",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 175,
+  "normalizedKey": "john lennon|stand by me",
+  "playableChords": [
+    "A",
+    "F#m",
+    "D",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    },
+    {
+      "measure": 85,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6890240faf5ac3da8483328cb7e2ae275b6d2350fd4d4fa37200ce397e2c6b19",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "Stand By Me",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

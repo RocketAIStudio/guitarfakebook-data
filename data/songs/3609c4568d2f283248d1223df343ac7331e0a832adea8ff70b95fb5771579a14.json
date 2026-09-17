@@ -1,0 +1,120 @@
+{
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnny cash",
+  "capo": "1",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\n\n[Verse 1]\nEarly one mor-\nning while\nmaking the rounds\nI\ntook a shot of co-\ncaine and I\n[G]shot my woman\ndown I\nwent right\nhome and I\nwent to\nbed I\n[C]stuck that loving\nforty four be-\nneath my head\n\n[Verse 2]\n[C]Got up next\nmorning and I\ngrabbed that gun\nTook a shot of co-\ncaine and a-\n[G]way I run\nMade a good\nrun but I\nrun too\nslow They\n[C]overtook me\ndown in Juarez,\nMexico\n\n[Verse 3]\n[C]Late in the\nhot joints\ntaking the pills\nIn walked the\nsheriff from\n[G]Jericho Hill\nHe\nsaid, \"Willy\nLee, your name is\nnot Jack\nBrown You're\n[C]the dirty\nhack that shot your\nwoman down\"\n\n[Verse 4]\n[C]Said \"Yes, oh\nyes, my name is\nWilly Lee\nIf\nyou've got the\nwarrant just a-\n[G]read it to me\nShot her down\nbecause she\nmade me\nslow I\n[C]thought I was her\ndaddy but she\nhad five more.\"\n\n[Verse 5]\n[C]\nWhen I was arres-\nted I was\ndressed in black,\nThey\nput me on a\ntrain and they\n[G]took me back\nHad no\nfriend for to\ngo my bail\nThey\n[C]slapped my dried up\ncarcass in that\ncounty jail\n\n[Verse 6]\n[C]Early next\nmorning about a\nhalf past nine\nI spied the\nsheriff coming\n[G]down the line\nTalked and he coughed\nas he\ncleared his throat\nHe said, \"Come\n[C]on you dirty\nhack into that\ndistrict court\"\n\n[Verse 7]\n[C]Into the court-\nroom, my\ntrial began\nWhere I was\nhandled by\n[G]twelve honest\nmen\nJust be-\nfore the jury\nstarted out\nI\n[C]saw that little judge\ncommence to\nlook about\n\n[Verse 8]\n[C]\nIn about five\nminutes,\nin walked the man\nHolding the\nverdict in\n[G]his right hand\nThe\nverdict read,\nin the\nfirst degree\nI\n[C]hollered, \"Lawdy,\nLawdy, have\nmercy on me\"\n\n[Verse 9]\n[C]The judge he\nsmiled as he\npicked up his pin\nNinetynine\nyears in the\n[G]Folsom Pen\nNinetynine\nyears under-\nneath that ground\nI\n[C]can't forget the\nday I shot that\nbad bitch down\n\n[Outro]\n[C]Come on, you've\ngot to listen\n[F]unto me\n[D]Lay off that\nwhisky, and\n[G]let that\ncocaine\n[C]be",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Cocaine Blues",
+  "id": "3609c4568d2f283248d1223df343ac7331e0a832adea8ff70b95fb5771579a14",
+  "key": "D♭",
+  "keyIdentified": true,
+  "lyricEventCount": 399,
+  "normalizedKey": "johnny cash|cocaine blues",
+  "playableChords": [
+    "C",
+    "G",
+    "F",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 70,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 88,
+      "name": "Verse 6"
+    },
+    {
+      "measure": 104,
+      "name": "Verse 7"
+    },
+    {
+      "measure": 120,
+      "name": "Verse 8"
+    },
+    {
+      "measure": 137,
+      "name": "Verse 9"
+    },
+    {
+      "measure": 153,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3609c4568d2f283248d1223df343ac7331e0a832adea8ff70b95fb5771579a14",
+    "version": "BCFZ"
+  },
+  "tempo": 122,
+  "title": "Cocaine Blues",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

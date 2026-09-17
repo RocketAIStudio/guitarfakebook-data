@@ -1,0 +1,100 @@
+{
+  "artist": "Julian Casablancas + The Voidz",
+  "artistNormalized": "julian casablancas the voidz",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[Dm]\n\n[Verse 1]\n[Bb]Chasing all your dreams\n[F#]like any fool\n[Dm]\nOb-\n[Bb]serving the absurd\n[F#]from a piano stool\n[Dm]\nAnd it's the\n[Bb]first time you got the\n[F#]truth that's for\n[Dm]sure\n[Bb]Now the bad feelings\n[F#]they come in waves\n\n[Bridge]\n[G]\n\n[Interlude]\n[Bb]\n[Dm]\n\n[Verse 2]\n[Bb]Feeding on your night-\n[F#]mares to procure\n[Dm]\n[Bb]Trusting in their words\n[F#]today no more\n[Dm]\nAnd it's the\n[Bb]first time you got it\n[F#]right that's for\n[Dm]sure\n[Bb]Black hole sucking us\n[F#]into oblivion\n\n[Outro]\n[G]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "M.utually A.ssured D.estruction",
+  "id": "bf81b2a0216eb92a981adac2efd1c25ccdbbfb80d950911324aa3e48b125db2e",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 82,
+  "normalizedKey": "julian casablancas the voidz|m utually a ssured d estruction",
+  "playableChords": [
+    "G",
+    "Dm",
+    "Bb",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 30,
+      "name": "Bridge"
+    },
+    {
+      "measure": 34,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 71,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bf81b2a0216eb92a981adac2efd1c25ccdbbfb80d950911324aa3e48b125db2e",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "M.utually A.ssured D.estruction",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

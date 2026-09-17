@@ -1,0 +1,141 @@
+{
+  "artist": "Johnny Nash",
+  "artistNormalized": "johnny nash",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D]\n\n[Verse 1]\n[D]I can see clear-\n[G]ly now, the rain\n[D]is gone,\nI can see all\n[G]obstacles\n[A]in my way\n[D]Gone are the\n[G]dark clouds that had\n[D]me blind\nIt's gonna be a bright,\n\n[Chorus]\n[C]bright\n[G]SunShiny day.\n[D]\nIt's gonna be a bright,\n[C]bright\n[G]SunShiny day.\n[D]\n\n[Verse 2]\n[D]I think I can make\n[G]it now, the pain\n[D]is gone\nAll of the bad\n[G]feelings have\n[A]disappeared\n[D]Here is the rain-\n[G]bow I've been pra-\n[D]yin' for\nIt's gonna be a bright,\n\n[Chorus]\n[C]bright\n[G]SunShiny day.\n[D]\n\n[Interlude]\n[F]Look all around,\nthere's nothin' but\n[C]blue skies\n[F]Look straight ahead,\nnothin' but\n[A]blue skies\n[C#m]\n[G]\n[C#m]\n[G]\n[C]\n[D6]\n[A]\n\n[Verse 3]\n[D]I can see clear-\n[G]ly now, the rain\n[D]is gone,\nI can see all\n[G]obstacles\n[A]in my way\n[D]Gone are the\n[G]dark clouds that had\n[D]me blind\nIt's gonna be a bright,\n\n[Chorus]\n[C]bright\n[G]SunShiny day.\n[D]\nIt's gonna be a bright,\n[C]bright\n[G]SunShiny day.\n[D]\nGonna be a bright,\n\n[Fade Out]\n[C]bright\n[G]SunShiny day.\n[D]\nOh gonna bright,\n[C]bright\n[G]SunShiny\n[D]day.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D6": {
+      "catalog": [
+        "xx0202"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Can See Clearly Now",
+  "id": "6d56b7db1c86b84a01838170b68bc96fc30f388a57e6567a6cc4602b2f06775b",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 182,
+  "normalizedKey": "johnny nash|i can see clearly now",
+  "playableChords": [
+    "D",
+    "G",
+    "A",
+    "C",
+    "F",
+    "C#m",
+    "D6"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Interlude"
+    },
+    {
+      "measure": 56,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 68,
+      "name": "Chorus"
+    },
+    {
+      "measure": 76,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6d56b7db1c86b84a01838170b68bc96fc30f388a57e6567a6cc4602b2f06775b",
+    "version": "BCFZ"
+  },
+  "tempo": 124,
+  "title": "I Can See Clearly Now",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

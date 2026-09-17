@@ -1,0 +1,142 @@
+{
+  "artist": "Kamelot",
+  "artistNormalized": "kamelot",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C#m]\n[C#m]\n[A]\n[Am]\n[C#m]\n[A]\n[Am]\n\n[Verse 1]\n[C#m]Silent tears\nin a sea of so-\nrrow If\nonly God would\ntalk to me And\npromise me tomo-\nrrow\nDrowning in my-\n\n[Pre-Chorus]\n[A]self as\n[B]I Am\n[C#m]facing imperfe-\nction But the\n[A]pain makes me fee-\n[B]l I am\n[G#]still alive\n[C#m]In\n\n[Chorus]\n[C#m]raven-\nlight You\n[A]came to me\n[Am]From\n[C#m]silence\nrose A\n[A]symphony of\n[Am]coming winters whi-\n[C#m]te\n\n[Interlude]\n[C#m]\n[A]\n[Am]\n\n[Verse 2]\n[C#m]Paralyzed\ncaught in despera-\ntion\nEndless nights Re-\nvisiting in-\nternal conversa-\ntions\nFinally I\n\n[Pre-Chorus]\n[A]made my\n[B]peace With\n[C#m]self intoxica-\ntion So I\n[A]bleed just to kno-\n[B]w I am\n[G#]not alone\n[C#m]In\n\n[Chorus]\n[C#m]raven-\nlight You\n[A]came to me\n[Am]From\n[C#m]silence\nrose A\n[A]symphony of\n[Am]coming winters whi-\n[A]te\n\n[Bridge]\n[F#m]May light em-\n[G#]brace the da-\n[A]rkest hour\nLet it shine to\n[F#m]orchestrate The sha-\n[G#]dows o-\n[A]f the night\n\n[Solo]\n[G#]\n[A]\n[G#]\n[A]\n[C#m]\n[A]\n[G#]\n[C#m]In\n\n[Chorus]\n[C#m]raven-\nlight You\n[A]came to me\n[Am]From\n[C#m]silence\nrose A\n[A]symphony of co-\n[Am]ming I\n[C#m]love the\nway You\n[A]sing to me\n[Am]From\n[C#m]silence\nTo a soaring\n[A]symphony My\n[Am]rose in winter\n\n[Outro]\n[C#m]white.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x13331",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x13321",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x32010",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "000231",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "555786",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "x02220"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "RavenLight",
+  "id": "f069272be8a2943ec5356e4a2335cb87510a66342cf987eb10178e8aca682efd",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 222,
+  "normalizedKey": "kamelot|ravenlight",
+  "playableChords": [
+    "C#m",
+    "A",
+    "Am",
+    "B",
+    "G#",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Interlude"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Bridge"
+    },
+    {
+      "measure": 77,
+      "name": "Solo"
+    },
+    {
+      "measure": 90,
+      "name": "Chorus"
+    },
+    {
+      "measure": 106,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f069272be8a2943ec5356e4a2335cb87510a66342cf987eb10178e8aca682efd",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "RavenLight",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "primary"
+}

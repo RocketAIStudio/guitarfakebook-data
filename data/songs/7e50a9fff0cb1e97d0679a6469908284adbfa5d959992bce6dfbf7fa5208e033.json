@@ -1,0 +1,114 @@
+{
+  "artist": "Kaiser Chiefs",
+  "artistNormalized": "kaiser chiefs",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]  [Dm]\n[Em]  [Dm]\n[C]  [Dm]\n[Em]  [Dm]\n\n[Verse 1]\n[C]We went to the [Dm]youth club And we\n[Em]looked out of [Dm]place\n[C]I didn't know where [Dm]to look So I\n[Em]looked at your [Dm]face\n[C]But you were a [Dm]boxing champ And\n[Em]I was a [Dm]weakling\n[C]You didn't give [Dm]me a chance\n[Em]You gave me a [Dm]beating And I\nthank you very much that you did\n[G]\n\n[Verse 2]\n[C]And as the [Dm]time went by We\n[Em]stayed out of [Dm]trouble\n[C]Before I could [Dm]realize\n[Em]My age had [Dm]doubled The\n[Am]man I became is a [G]tragic bore And\n[F]he's not a boxing champ [Em]anymore If there's\n[Am]one thing I've learned, it's to [G]run away At\n[F]least I enjoy what I [Em]do today And I\n[F]thank you very much that I do\n[G]\n\n[Outro]\n[C]  [Dm]\n[Em]  [Dm]\n[C]  [Dm]\n[Em]  [Dm]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "BOXING CHAMP",
+  "id": "7e50a9fff0cb1e97d0679a6469908284adbfa5d959992bce6dfbf7fa5208e033",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 135,
+  "normalizedKey": "kaiser chiefs|boxing champ",
+  "playableChords": [
+    "C",
+    "Dm",
+    "Em",
+    "G",
+    "Am",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7e50a9fff0cb1e97d0679a6469908284adbfa5d959992bce6dfbf7fa5208e033",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "BOXING CHAMP",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,100 @@
+{
+  "artist": "Jack Johnson",
+  "artistNormalized": "jack johnson",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]Mother, mother o-\ncean\nI have heard you call\nWe\n[C]wanted to sail upon\nyour waters Since\nI was three feet tall\n[G]'Cause you've seen it all,\n[Am]\n[D]you've seen it all\n[G]\n\n[Verse 2]\n[G]I've watched the men who rode\nyou\nThe switch from sails to steam\nAnd\n[C]in your belly you hold\nThe treasures\nfew have ever seen\n[G]Most of 'em dreams\n[Am]\n[D]Most of 'em dreams\n[G]\n\n[Verse 3]\n[G]Oh, yes, I am a pi-\nrate A\nfew hundred years too\nlate The\n[C]cannons don't thunder There's\nnothin' to plunder I'm an\nunderforty victim of fate\n[G]Arriving too late,\n[Am]\n[D]arriving too\n[G]late\n\n[Verse 4]\n[G]I've done a bit of smug-\nglin' We\nlive run my share of grass\nI\n[C]made enough money to buy\nMiami But I\npissed it away so fast\n[G]It's never meant to last,\n[Am]\n[D]it's never meant to last\n[G]\nWell,\n\n[Verse 5]\n[G]I have been drunk now for\nover two weeks I've\npassed out and I rallied and I\nsprung a few leaks But I've\n[C]got to stop wishin', I've\ngot to go fishin'\nDown to rock bottom again\n[G]We just a few friends,\n[Am]\n[D]just a few friends\n[G]\nWe just a few friends,\n[Am]\n[D]just a few friends\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pirate looks at 40",
+  "id": "20d623aa1ad617e0d9034870a5ef236e856ee4f1a99807db6db9a0ff5e74bef5",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 227,
+  "normalizedKey": "jack johnson|pirate looks at 40",
+  "playableChords": [
+    "G",
+    "C",
+    "Am",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 5"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "20d623aa1ad617e0d9034870a5ef236e856ee4f1a99807db6db9a0ff5e74bef5",
+    "version": "BCFZ"
+  },
+  "tempo": 115,
+  "title": "Pirate looks at 40",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

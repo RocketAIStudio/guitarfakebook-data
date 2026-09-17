@@ -1,0 +1,151 @@
+{
+  "artist": "John Prine",
+  "artistNormalized": "john prine",
+  "capo": "No capo",
+  "chordPositionCount": 37,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[G]  [Am]\n[D7]\n[G]  [Am]\n[D7]\n[Bm/D]\n[C]\n[G]\n[D/F#]\n\n[Verse 1]\nWe had an apartment in the ci-\nty\nMe and Loretta liked living there\nIt'd been years since the kids\nhad grown A life\nof their own, and left us\nalone\nJohn and Linda live in O-\nmaha\nAnd Joe is somewhere on the\nroad\nWe lost Davy in the Ko-\nrean war And I still don't\nknow what for, don't matter\nanymore\n\n[Chorus]\n[F]You know that old trees just grow\n[G]stronger And old\n[F]rivers grow wilder every day\n[G]\n[Bm]Old people just grow\n[C]lonesome Waiting for\n[G]someone to say, \"Hel-\n[D]lo in there, hel-\n[G]lo\"\n\n[Interlude]\n[G]  [Am]\n[D7]\n[G]  [Am]\n[D7]\n[Bm/D]\n[C]\n[G]\n[D/F#]\n\n[Verse 2]\nMe and Loretta, we don't talk\nmuch more\nShe sits and stares through the back door screen\nAnd all the news just repeats\nitself Like some forgot-\nten dream that we've\nboth seen\nSomeday I'll go and call up Ru-\ndy\nWe worked together at the factory\nBut what could I say if he asks\n\"What's new?\" \"Nothing, what's\nwith you? Nothing much\nto do\"\n\n[Chorus]\n[F]You know that old trees just grow\n[G]stronger And old\n[F]rivers grow wilder every day\n[G]\n[Bm]Old people just grow\n[C]lonesome Waiting for\n[G]someone to say, \"Hel-\n[D]lo in there, hel-\n[G]lo\"\n\n[Outro]\n[G]So if you're [Am]walking down the street\n[D7]sometime\n[G]And spot some [Am]hollow ancient eyes\n[D7]\n[Bm/D]Please don't just pass 'em\n[C]by and stare As if you\n[G]didn't care, say, \"Hel-\n[D/F#]lo in there, hel-\n[G]lo\"",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Bm/D": {
+      "catalog": [
+        "xx0432"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "200232"
+      ],
+      "catalogCount": 1
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hello In There",
+  "id": "52ea75809b6451dbffeff62545cdaa826e08d9a9bb022467264820dfbf4abfd8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 273,
+  "normalizedKey": "john prine|hello in there",
+  "playableChords": [
+    "G",
+    "Am",
+    "D7",
+    "Bm/D",
+    "C",
+    "D/F#",
+    "F",
+    "Bm",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Interlude"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 68,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "52ea75809b6451dbffeff62545cdaa826e08d9a9bb022467264820dfbf4abfd8",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "Hello In There",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

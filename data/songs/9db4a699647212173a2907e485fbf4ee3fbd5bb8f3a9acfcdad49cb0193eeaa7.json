@@ -1,0 +1,118 @@
+{
+  "artist": "Jack Johnson",
+  "artistNormalized": "jack johnson",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E]  [C#m]\n[E]  [C#m]\n[E]  [C#m]\n[E]  [C#m]\n\n[Verse 1]\n[E]Look at [G#]all those fancy cloth-\n[C#m]es [A]\n[E]But [G#]these could keep us warm\n[C#m]just like [A]those\n[E][G#]And what about your soul?\n[C#m]Is it cold? [A]Is it\n[F#m]straight from the mold, and rea-\n[B]dy to be sold?\n\n[Verse 2]\n[E]And cars and phones [G#]and diamond rings\n[C#m][A]Bling, bling,\n[E]because those [G#]are only remo-\n[C#m]vable things [A]\n[E][G#]And what about your mind?\n[C#m]Does it [A]shine?\n[F#m]Are there things that concern you,\n[B]more than your time?\n\n[Chorus]\n[E]Gone, [B]going, go-\n[C#m]ne Everything, [A]gone, give a\n[E]damn Gone [B]be the birds, when\n[C#m]they don’t wanna sing [A]Gone,\n[E]people, [B]all\n[C#m]awkward with their things [A]Go-\n[E]ne [C#m]\n[E]  [C#m]\n\n[Verse 3]\n[E]Look at [G#]you, out to make a\n[C#m]deal [A]\n[E]You try to [G#]be appealing, but\n[C#m]you lose your peel [A]\n[E][G#]And what about those sho-\n[C#m]es you’re in today? [A]They’ll do no go-\n[F#m]od, on the bridges you\n[B]burnt along the way Are\n\n[Chorus]\n[E]you [B]willing to sell\n[C#m]anything? [A]Gone, with your\n[E]herd Leave your [B]footprints And we’ll\n[C#m]shame them with our words [A]Go-\n[E]ne, people, [B]all\n[C#m]careless and [A]consumed, gone\n[E]Gone, [B]going, go-\n[C#m]ne Everything, [A]gone, give a\n[E]damn Gone [B]be the birds, when\n[C#m]they don’t wanna sing [A]Gone,\n[E]people, [B]all\n[C#m]awkward with their things [A]Go-\n[E]ne",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "x-9-11-11-10-9",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Gone",
+  "id": "9db4a699647212173a2907e485fbf4ee3fbd5bb8f3a9acfcdad49cb0193eeaa7",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 223,
+  "normalizedKey": "jack johnson|gone",
+  "playableChords": [
+    "E",
+    "C#m",
+    "G#",
+    "A",
+    "F#m",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9db4a699647212173a2907e485fbf4ee3fbd5bb8f3a9acfcdad49cb0193eeaa7",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Gone",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

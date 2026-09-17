@@ -1,0 +1,131 @@
+{
+  "artist": "Kataklysm",
+  "artistNormalized": "kataklysm",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[B5]\n[B5]\n[G5]\n[E5]\n[B5]\n[G5]\n[E5]\n\n[Verse 1]\n[B5]Shades of black en-\ngulf the skies\nDeath calls all the\n[B5]dead to rise [C#5]\n[B5]See the pestilence\nwalk the Earth\nHear the screams,\n[D5]covered in [C#5]darkness\n[B5]Look down at the\nworld below\nEntrenched is a\n[B5]sea of [C#5]sorrow\n[B5]Come forth,\nunholy one\nAs death\n[D5]comes to us [C#5]all\n\n[Chorus]\n[B5]\nEle-\nvate\n[C5]\n[B5]\nEle-\nvate\n\n[Intro Riff]\n[B5]\nI won't\nlet you take me a-\n[G5]way\n[E5]I won't\nlet you drag me\n[B5]down\nAre you\nhere for me?\n[G5]\nBecause\n[E5]\nI'm already\n\n[Bridge]\n[D5]dead [B5][C5][B5][D5]\n[B5]  [D5]\n[D5]  [B5]  [C5]  [B5]  [D5]\n[B5]  [A5]  [F#5]\n[D5]  [B5]  [C5]  [B5]  [D5]\n[B5]  [D5]\n[D5]  [B5]  [C5]  [B5]  [D5]\n[B5]  [E5]\n[D5][B5]I'm the [C5]lion [B5][D5]\n[B5]  [D5]\n[D5][B5]I'm the [C5]fire [B5][D5]\n[B5]  [A5]  [F#5]\n[D5][B5]I'm the strength [C5][B5]that [D5]binds\n[B5]us all [D5]\n[D5][B5]I'm the hope [C5][B5]that [D5]fears\n[B5]us all [E5]\n\n[Verse 2]\n[B5]\nIs this every-\n[B5]thing you [C#5]wanted?\n[B5]Misery from a\ncold embrace\nShattered dreams of a\n[D5]past erased [C#5]\n[B5]Senseless rage of the\nfailures obtained\nBreaking point all the\n[B5]blood you drained [C#5]\n[B5]My pain,\nyour savior\nAs death\n[D5]comes to us [C#5]all\n\n[Chorus]\n[B5]\nEle-\nvate\n[C5]\n[B5]\nEle-\nvate\n\n[Intro Riff]\n[B5]\nI won't\nlet you take me a-\n[G5]way\n[E5]I won't\nlet you drag me\n[B5]down\nAre you\nhere for me?\n[G5]\nBecause\n[E5]\nI'm already\n\n[Interlude]\n[B5]dead\n[G5]\n[E5]\n[B5]\n[G5]\n[E5]Ele-\nvate me\n\n[Outro]\n[B5]\n[C5]\n[B5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "022xxx",
+        "x799xx"
+      ],
+      "catalogCount": 2
+    },
+    "C#5": {
+      "catalog": [
+        "x-9-11-11-x-x",
+        "244xxx"
+      ],
+      "catalogCount": 2
+    },
+    "C5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x022xx",
+        "577xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Elevate",
+  "id": "b40b9b7b8bbb0ab20ae04149cdac6ce8bd28dbc4b52539baf29ba270b72cdf7a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 202,
+  "normalizedKey": "kataklysm|elevate",
+  "playableChords": [
+    "B5",
+    "G5",
+    "E5",
+    "C#5",
+    "D5",
+    "C5",
+    "A5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Intro Riff"
+    },
+    {
+      "measure": 61,
+      "name": "Bridge"
+    },
+    {
+      "measure": 77,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 93,
+      "name": "Chorus"
+    },
+    {
+      "measure": 101,
+      "name": "Intro Riff"
+    },
+    {
+      "measure": 117,
+      "name": "Interlude"
+    },
+    {
+      "measure": 133,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b40b9b7b8bbb0ab20ae04149cdac6ce8bd28dbc4b52539baf29ba270b72cdf7a",
+    "version": "BCFZ"
+  },
+  "tempo": 143,
+  "title": "Elevate",
+  "tuning": "B E A D F# B",
+  "variantRole": "primary"
+}

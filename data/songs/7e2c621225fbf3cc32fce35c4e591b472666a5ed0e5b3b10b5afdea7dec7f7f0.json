@@ -1,0 +1,96 @@
+{
+  "artist": "Iron And Wine",
+  "artistNormalized": "iron and wine",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Cmaj7]  [G]\n[Cmaj7]  [G]\n[Cmaj7]  [G]\n[Cmaj7]  [G]\n[Cmaj7]  [G]\n[Cmaj7]  [G]\n[Cmaj7]  [G]\n[Cmaj7]  [G]\n\n[Verse 1]\n[Cmaj7]Talk of [G]yesterday and\n[Cmaj7]she will [G]show her\n[Cmaj7]Brothers [G]photographed in\n[Cmaj7]kalised [G]clothes.\n[Cmaj7]Say [G]tomorrow and she'll\n[Cmaj7]say come [G]find me,\n[Cmaj7]On a beach [G]and there will\n[Cmaj7]be no [G]moon. But\n\n[Chorus]\n[A7sus4]say [F#madd11/B]to-\n[Cmaj7]day and she will\n[A7sus4]kiss [F#madd11/B]your\n[Cmaj7]face and maybe for-\n\n[Bridge]\n[Cmaj7]give. [G]\n[Cmaj7]  [G]\n[Cmaj7]  [G]\n[Cmaj7]  [G]\n\n[Verse 2]\n[Cmaj7]Talk of [G]yesterday like\n[Cmaj7]bargain [G]shoestring,\n[Cmaj7]She will kick [G]the car and\n[Cmaj7]find her [G]friends.\n[Cmaj7]Say [G]tomorrow and then\n[Cmaj7]she'll [G]describe some\n[Cmaj7]Old [G]communion cups and\n[Cmaj7]someones [G]coat. But\n\n[Chorus]\n[A7sus4]say [F#madd11/B]to-\n[Cmaj7]day and she may\n[A7sus4]look [F#madd11/B]your\n[Cmaj7]way and lead you\n\n[Outro]\n[Cmaj7]home. [G]\n[Cmaj7]  [G]\n[Cmaj7]  [G]\n[Cmaj7]  [G]",
+  "diagrams": {
+    "A7sus4": {
+      "catalog": [
+        "x0203x"
+      ],
+      "catalogCount": 1
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x3200x",
+        "x-3-2-0-0-0",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "F#madd11/B": {
+      "catalog": [
+        "x2420x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "32000x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Communion Cups And Someone's Coat",
+  "id": "7e2c621225fbf3cc32fce35c4e591b472666a5ed0e5b3b10b5afdea7dec7f7f0",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 105,
+  "normalizedKey": "iron and wine|communion cups and someone s coat",
+  "playableChords": [
+    "Cmaj7",
+    "G",
+    "A7sus4",
+    "F#madd11/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7e2c621225fbf3cc32fce35c4e591b472666a5ed0e5b3b10b5afdea7dec7f7f0",
+    "version": "BCFZ"
+  },
+  "tempo": 76,
+  "title": "Communion Cups And Someone's Coat",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

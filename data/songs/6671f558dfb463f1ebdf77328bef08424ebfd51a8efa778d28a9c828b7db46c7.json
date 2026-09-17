@@ -1,0 +1,102 @@
+{
+  "artist": "HORSE The Band",
+  "artistNormalized": "horse the band",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D5]\n[D5]\n\n[Verse 1]\n[D5]Taken by vul-\ntures,\nSwooped down to the rap-\ning\nStolen by re-\nlentness talons.\n[D5]Taken by vul-\ntures,\nSwooped down to the ki-\nll\nStolen by re-\nlentness talons.\n\n[Chorus]\n[Dm7]Aban-don\n[Dmmaj7]with reckless\n[Dm7]Aban-don\n[Dmmaj7]with reckless\n[Dsus2]Aban-don\nwith reckless\n[Dm]Aban-don\n[Dm7]Take me\n[Dmmaj7]\n[Dm7]Take me\n[Dmmaj7]\n[Dsus2]Take me\n[Dm]Take me\n[Dm7]\n[Dmmaj7]\n[Dm7]\n[Dmmaj7]\n[Dsus2]\n[Dm]\n\n[Verse 2]\n[D5]Weak and blood\nred\nFrom a broken\nbeak\nHere comes the sound of\ndusty wings\nHungry for dead\nthings\n\n[Outro]\nSlaves:\nMasturbate to a single\nnote\n[Ebdim]Taken by vultures\n[Ebdim]Taken by vultures\n[D5]Taken by vultures\nTaken by vultures\n[D5]Taken by vultures\nTaken by vultures\n[D5]Taken by vultures\nTaken by vultures\n[D5]Taken by vultures\nTake me away\n[D5]",
+  "diagrams": {
+    "D5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "000231",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm7": {
+      "catalog": [
+        "00321x",
+        "x-x-0-2-1-1",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dmmaj7": {
+      "catalog": [
+        "00322x"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2": {
+      "catalog": [
+        "000230"
+      ],
+      "catalogCount": 1
+    },
+    "Ebdim": {
+      "catalog": [
+        "x6787x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Taken By Voltures",
+  "id": "6671f558dfb463f1ebdf77328bef08424ebfd51a8efa778d28a9c828b7db46c7",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 146,
+  "normalizedKey": "horse the band|taken by voltures",
+  "playableChords": [
+    "D5",
+    "Dm7",
+    "Dmmaj7",
+    "Dsus2",
+    "Dm",
+    "Ebdim"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 66,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6671f558dfb463f1ebdf77328bef08424ebfd51a8efa778d28a9c828b7db46c7",
+    "version": "BCFZ"
+  },
+  "tempo": 275,
+  "title": "Taken By Voltures",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,119 @@
+{
+  "artist": "Jon Lajoie",
+  "artistNormalized": "jon lajoie",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]  [Gsus4/B]\n[Am7]  [G]\n[Fadd9]  [G]\n[C]  [G]\n\n[Verse 1]\n[C]Have you ever watched the [Gsus4/B]sun go dow-\n[Am7]n? And you're thinking bout' the [G]world spinning round\n[Fadd9]Have you ever been [G]high as fuck?\n[C]  [G]\n\n[Verse 2]\n[C]You're in the bathroom [Gsus4/B]mirror talking to yourse-\n[Am7]lf And your dog's looking [G]at you like you need help\n[Fadd9]Have you ever been [G]high as fuck?\n[C]  [G]\n\n[Verse 3]\n[C]Then you feel your heart [Gsus4/B]pumping really fa-\n[Am7]st And you're convinced that you're [G]gonna have a heart attack\n[Fadd9]Have you ever been [G]high as fuck?\n[C]  [G]\n\n[Verse 4]\n[C]You close your eyes and you're [Gsus4/B]on a chicken fa-\n[Am7]rm The only problem's that the [G]chickens have human arms\n[Fadd9]You say \"that's fucked up, why do the [G]chickens have human arms?\"\n[C]  [G]\n\n[Verse 5]\n[C]You need snacks so you [Gsus4/B]walk to the corner sto-\n[Am7]re But you're scared because you [G]think that they will know you're high\n[Fadd9]So you walk around the [G]block to buy some ti-\n[C]me [G]\n\n[Verse 6]\n[C]You finally decide [Gsus4/B]to go in the sto-\n[Am7]re But you're so high you don't know [G]why you're there anymore\n[Fadd9]So you just buy a pack of gum [G]and get the hell out of there\n[C][G]You're\n\n[Bridge 1]\n[Am7]walking home and you're [Gsus4/B]mouth is\n[C]dry [Gsus4/B]You should have\n[Am7]bought some juice and snacks but you [Gsus4/B]were too\n[C]high [Gsus4/B]\n[Am7]Thinking 'bout [Gsus4/B]ketchup\n[C]chips [Gsus4/B]And for\n[Am7]some reason the game [Gsus4/B]Battleshi-\n[C]p And you start thinking about how fun it was to play\n\n[Bridge 2]\n[C]games like battleship when you were a kid And how, as we\nget older we forget how to play and just to enjoy our-\nselves So you say \"Guess What? I'm gonna make up a game right now\nAnd it involves a baseball bat and a porcupine And I'm gonna try to\nkill a porcupine with a baseball bat But then you don't know where to find\na porcupine You go on ebay and you do a search but people don't sell\nporcupines on the internet And you say \"You know what\n[G]world? You've got me cornered again!\" I'm gonna roll a-\nnother joint\n\n[Outro]\n[C]You ever eat a whole [Gsus4/B]bag of crackers\n[Am7]that were so old That they [G]weren't crispy anymore?\n[Fadd9]Have you ever been [G]high\nas fu-\n[C]ck?",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02013",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32013",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Fadd9": {
+      "catalog": [
+        "xx3213"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus4/B": {
+      "catalog": [
+        "x20013"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "High As Fuck",
+  "id": "d8a71442e1ea115cccd0432825fcf4a4e1e9d06bfbe2a4340fbdbed9095b8a88",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 429,
+  "normalizedKey": "jon lajoie|high as fuck",
+  "playableChords": [
+    "C",
+    "Gsus4/B",
+    "Am7",
+    "G",
+    "Fadd9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 6"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge 1"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 46,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d8a71442e1ea115cccd0432825fcf4a4e1e9d06bfbe2a4340fbdbed9095b8a88",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "High As Fuck",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

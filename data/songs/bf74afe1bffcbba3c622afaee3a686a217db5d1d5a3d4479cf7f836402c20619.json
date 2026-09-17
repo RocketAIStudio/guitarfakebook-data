@@ -1,0 +1,127 @@
+{
+  "artist": "Interpol",
+  "artistNormalized": "interpol",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]\n[Bm]\n[G]\n[Bm]\n[G]\n[Bm]\n[G]\n[Bm]Yeah but\n\n[Verse 1]\n[G]nobody searches\nAnd\n[Am]nobody cares some-\n[Em]how When the\n[G]loving that you've wasted\nComes\n[Am]raining from a hapless\n[Em]cloud Then\n[G]I might stop and look upon your\nface Disap-\n[Am]pear in the sweet sweet\n[Em]gaze See the\n[G]living that surrounds me\nDissi-\n[Am]pate in a violet\n[Em]blaze\n\n[Pre-Chorus]\n[Bm]\n[Em]Can't you see what you've done\n[Am]to my heart\nand soul?\n[Bm]\n[Em]This is a wasteland\n[Am]now\nWe\n\n[Chorus]\n[Bm]spies, we\n[Am]slow hands Put the\n[Em]weights around your-\nself [D]We\n[Bm]spies, oh yeah, we\n[Am]slow hands You put the\n[Em]weights all around your\nself [D]now\n[G]I sub-\n\n[Verse 2]\n[G]mit my incentive is\nromance I watch the\n[Am]pole dance of the\n[Em]stars We re-\n[G]joice cause the hurting is so\npainless From the\n[Am]distance of passing\n[Em]cars But\n[G]I am married to your charms and\ngrace I just feel\n[Am]crazy like the good old\n[Em]days You\n[G]make me want to pick up a gui-\ntar And cele-\n[Am]brate the myriad ways\n[Em]that I love you\n\n[Pre-chorus]\n[Bm]\n[Em]Can you see what you've done\n[Am]to my heart\nand soul?\n[Bm]\n[Em]This is a wasteland\n[Am]now\nWe\n\n[Chorus]\n[Bm]spies, oh, we\n[Am]slow hands You put the\n[Em]weights all around your-\nself [D]We\n[Bm]spies, oh yeah, we\n[Am]slow hands Killer for\n[Em]hire you know not your-\nself [D]\n\n[Interlude]\n[Bm]\n[G]\n[Am]\n[Em]\n[Bm]\n[G]\n[Am]\n[Em]\n[Bm]\n[G]\n[Am]\n[Em]We\n\n[Chorus]\n[Bm]spies, we\n[Am]slow hands You put the\n[Em]weights all around your-\nself [D]We\n[Bm]spies, oh yeah, we\n[Am]slow hands We re-\n[Em]tire like nobody\nelse [D]We\n\n[Outro]\n[Bm]spies, intimate\n[Am]slow hands Killer for\n[Em]hire you know not your-\nself [D]We\n[Bm]spies, intimate\n[Am]slow hands You let the\n[Em]face slap around her\nself [D]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x79987",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Slow Hands",
+  "id": "bf74afe1bffcbba3c622afaee3a686a217db5d1d5a3d4479cf7f836402c20619",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 304,
+  "normalizedKey": "interpol|slow hands",
+  "playableChords": [
+    "G",
+    "Bm",
+    "Am",
+    "Em",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 58,
+      "name": "Pre-chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Interlude"
+    },
+    {
+      "measure": 88,
+      "name": "Chorus"
+    },
+    {
+      "measure": 96,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bf74afe1bffcbba3c622afaee3a686a217db5d1d5a3d4479cf7f836402c20619",
+    "version": "BCFZ"
+  },
+  "tempo": 145,
+  "title": "Slow Hands",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

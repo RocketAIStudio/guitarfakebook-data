@@ -1,0 +1,79 @@
+{
+  "artist": "I Hate Punk Rock",
+  "artistNormalized": "i hate punk rock",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\nOne, two One, two, [B5]three, [E5]four!\n\n[Verse]\n[G5]I hate punk rock\n[C5][B5][E5]Be-\n[G5]cause you really, really suck [E5]\n[G5][C5][B5][E5]Cauz\n[G5]I hate punk rock [E5]\n[G5][C5][B5][E5]Rock\n[G5]tattoos and mohawks [E5]\n[G5]  [C5]  [B5]  [E5]\n\n[Chorus]\n[D5]Don't know what it's all about I\n[C5]stoned about this fact\n[G5]I hate [C5]punk [B5]rock, [E5]\n[G5]I hate [C5]punk [B5]rock [E5]\n[D5]When it turn punk rock\n[C5]fact follow nation\n[G5]I hate [C5]punk [B5]rock, [E5]\n[G5]I hate [C5]punk [B5]rock [E5]Be-\n[G5]cause you really, really suck [E5]Bec-\n[G5]ause you really, really, [E5][B5]really\n[G5]suck!",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "D.O.A.",
+  "id": "7bbd7a0850a4376b154848f87e9fb3ad9c2a41777ce09a0dd8c40421d40f39fb",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 86,
+  "normalizedKey": "i hate punk rock|d o a",
+  "playableChords": [
+    "B5",
+    "E5",
+    "G5",
+    "C5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7bbd7a0850a4376b154848f87e9fb3ad9c2a41777ce09a0dd8c40421d40f39fb",
+    "version": "BCFZ"
+  },
+  "tempo": 154,
+  "title": "D.O.A.",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

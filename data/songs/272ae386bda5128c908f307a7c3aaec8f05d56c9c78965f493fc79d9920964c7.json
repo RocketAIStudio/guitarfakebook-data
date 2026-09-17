@@ -1,0 +1,97 @@
+{
+  "artist": "John Prine",
+  "artistNormalized": "john prine",
+  "capo": "3",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]\n[C]\n[G]\n[C]\n[G]\n[D]\n[C]\n[G]\n\n[Verse 1]\n[G]You and me,\n[C]sittin' in the back of my\n[G]memory\nLike a\nhoney bee\n[C]buzzin' 'round a glass of sweet\n[G]Chablis\n[D]Radio's on,\n[C]windows rolled up and my\n[G]mind's rolled down\n[D]Headlights shining like\n[C]silver moon's rollin'\n[G]on the ground\n\n[Verse 2]\n[G]We made love in\n[C]every way love can\n[G]be made\nAnd\nwe made time,\n[C]look like time could\n[G]never fade\n[D]Friday Night,\n[C]we both made the\n[G]guitar hum\n[D]Saturday made\n[C]Sunday feel like it would\n[D]never come\nGonna be a long\n\n[Chorus]\n[G]\nMonday\n[C]Sittin' all alone on a\nmountain by a river that has\n[G]no end\nGonna be a long\nMonday\n[D]Stuck like the tick of a clock\nthat's come unwound\n[C]\nagain\n[G]\n\n[Refrain]\n[G]\n[C]\n[G]\n[C]\n[G]\n[D]\n[C]\n[G]\n\n[Verse 3]\n[G]Soul to soul,\n[C]heart to heart and\n[G]cheek to cheek\nNow\ncome on, baby,\n[C]give me a kiss that'll\n[G]last all week\nThe\n[D]thought of you\n[C]leavin' again\n[G]brings me down\nThe\n[D]promise of your\n[C]sweet love brings\n[D]me around\nGonna be a long\n\n[Chorus]\n[G]\nMonday\n[C]Sittin' all alone on a\nmountain by a river that has\n[G]no end\nIt's gonna be a long\nMonday\n[D]Stuck like the tick of a clock\nthat's come unwound\n[C]\nagain\n[D]\nand a-\n[G]gain\n\n[Outro]\n[G]\n[C]\n[G]\n[C]\n[G]\n[D]\n[C]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Long Monday",
+  "id": "272ae386bda5128c908f307a7c3aaec8f05d56c9c78965f493fc79d9920964c7",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 238,
+  "normalizedKey": "john prine|long monday",
+  "playableChords": [
+    "G",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Refrain"
+    },
+    {
+      "measure": 79,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 95,
+      "name": "Chorus"
+    },
+    {
+      "measure": 110,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "272ae386bda5128c908f307a7c3aaec8f05d56c9c78965f493fc79d9920964c7",
+    "version": "BCFZ"
+  },
+  "tempo": 154,
+  "title": "Long Monday",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

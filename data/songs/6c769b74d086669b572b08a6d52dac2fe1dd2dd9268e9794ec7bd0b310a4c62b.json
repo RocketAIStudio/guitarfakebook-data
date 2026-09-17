@@ -1,0 +1,142 @@
+{
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnny cash",
+  "capo": "3",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Em]\n\n[Verse 1]\n[Em]Belinda was\n[Am]mine 'til the\n[G]time that I\n[Em]found her\n[G]Holdin'\n[Am]Jim\n[G]And lovin'\n[Am]him\n[Em]Then Sue came along,\n[Am]loved me\n[G]strong, that's what\n[Em]I thought\n[G]Me and\n[Am]Sue,\n[G]But that died,\n[Am]too\n\n[Pre-Chorus]\n[G]Don't know that I will\n[C]but until\n[G]love can find\n[D]me\nAnd girl who'll\n[C]stay and won't play\n[G]games behind\n[D]me I'll\nbe what I am\n\n[Chorus]\n[Em]\n[D]A solitary man\n[Em]\n[D]A solitary man\n\n[Bridge]\n[Em]\n\n[Verse 2]\n[Em]I've had it to here,\n[Am]being\n[G]where love's a\n[Em]small word\n[G]A part time\n[Am]thing\n[G]A paper\n[Am]ring\n[Em]I know it's been\n[Am]done havin'\n[G]one girl who\n[Em]loves me\n[G]Right or\n[Am]wrong\n[G]Weak or\n[Am]strong\n\n[Pre-Chorus]\n[G]Don't know that I will\n[C]but until\n[G]love can find\n[D]me\nAnd girl who'll\n[C]stay and won't play\n[G]games behind\n[D]me I'll\nbe what I am\n\n[Chorus]\n[Em]\n[D]A solitary man\n[Em]\n[D]A solitary man\n\n[Bridge]\n[Em]\n\n[Solo]\n[Em]\n[Am]\n[Em]\n[Am]\n\n[Pre-Chorus]\n[G]Don't know that I will\n[C]but until\n[G]love can find\n[D]me\nAnd girl who'll\n[C]stay and won't play\n[G]games behind\n[D]me I'll\nbe what I am\n\n[Chorus]\n[Em]\n[D]A solitary man\n[Em]\n[D]A solitary man\n[Em]\n[D]Solitary man\n[Emadd9]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Emadd9": {
+      "catalog": [
+        "024000"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Solitary Man",
+  "id": "6c769b74d086669b572b08a6d52dac2fe1dd2dd9268e9794ec7bd0b310a4c62b",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 201,
+  "normalizedKey": "johnny cash|solitary man",
+  "playableChords": [
+    "Em",
+    "Am",
+    "G",
+    "C",
+    "D",
+    "Emadd9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Bridge"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 60,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge"
+    },
+    {
+      "measure": 75,
+      "name": "Solo"
+    },
+    {
+      "measure": 83,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 92,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6c769b74d086669b572b08a6d52dac2fe1dd2dd9268e9794ec7bd0b310a4c62b",
+    "version": "BCFZ"
+  },
+  "tempo": 173,
+  "title": "Solitary Man",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

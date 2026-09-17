@@ -1,0 +1,97 @@
+{
+  "artist": "John Mayer",
+  "artistNormalized": "john mayer",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[F#7]\nThey\n\n[Verse 1]\n[F#7]call me the breeze\nI keep blow-\ning down the road\nThey\n[B7]call me the breeze\nI keep blow-\ning down the road\n[F#7]\nI ain't got\n[C#7]me nobo-\ndy\n[B7]I dod't care\nme no load\n[F#7]\nAin’t no\n\n[Verse 2]\n[F#7]change in the wea-\nther\nAin’t no\nchange in me\nAin’t no\n[B7]change in the wea-\nther\nAin’t no\nchange in me\n[F#7]\nI ain't hid-\n[C#7]in' from nobo-\ndy\n[B7]Nobody's\nhidin' for me\n[F#7]\n\n[Solo 1]\n[F#7]\n[B7]\n[F#7]\n[C#7]\n[B7]\n[F#7]\nI got that\n\n[Verse 3]\n[F#7]green light babe\nI gotta\nkeep movin' on\nI got that\n[B7]green light babe\nI gotta\nkeep movin' on\n[F#7]\nI might\n[C#7]go up to Califor-\nnia Might\n[B7]go down to Geor-\ngia I don't know\n[F#7]\n\n[Solo 2]\n[F#7]\n[B7]\n[F#7]\n[C#7]\n[B7]\n[F#7]\n\n[Outro]\n[F#7]\n\n[Fade Out]\n[B7]",
+  "diagrams": {
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#7": {
+      "catalog": [
+        "x46464",
+        "x-4-3-4-2-1",
+        "9-8-6-6-6-7",
+        "9-11-9-10-9-9",
+        "x-x-11-13-12-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "2423xx",
+        "2-4-2-3-2-2",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Call Me The Breeze",
+  "id": "f2424f457fae2d041d19c28c89e6c18052e0a749c9eb0db61efbff909d19959c",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 120,
+  "normalizedKey": "john mayer|call me the breeze",
+  "playableChords": [
+    "F#7",
+    "B7",
+    "C#7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 62,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 86,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 110,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 134,
+      "name": "Outro"
+    },
+    {
+      "measure": 142,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f2424f457fae2d041d19c28c89e6c18052e0a749c9eb0db61efbff909d19959c",
+    "version": "BCFZ"
+  },
+  "tempo": 174,
+  "title": "Call Me The Breeze",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

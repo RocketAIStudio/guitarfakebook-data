@@ -1,0 +1,103 @@
+{
+  "artist": "Jack Johnson",
+  "artistNormalized": "jack johnson",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]  [Ammaj7]\n[E]  [F#m]\n[A]  [Ammaj7]\n[E][F#m]Well,\n\n[Verse]\n[A]how [Ammaj7]many times must\n[E]we go [F#m]through this? You've\n[A]always been [Ammaj7]mine, woman I\n[E]thought [F#m]you knew this\n[A]How [Ammaj7]many times must\n[E]we go [F#m]through this? You'll\n[A]always be [Ammaj7]mine,\n[E]Cupid [F#m]only misses\n\n[Chorus]\n[Bm]sometimes\n[E]Mmm..,\n[A]  [Ammaj7]\n[E][F#m]mmm..,\n[A]  [Ammaj7]\n[E][F#m]But\n\n[Break]\n[Bm]we could end up\n[E]broken hearted\n[A]We don't [Ammaj7]remember why\n[F#m]all this started And if\n[Bm]they try to tell you love\n[E]fades with time Tell them\n[A]there's no [Ammaj7]such thing as\n[F#m]time It's our\n\n[Chorus]\n[Bm]time\n[E]It's our\n[A][Ammaj7]time\n[E][F#m]It's our\n[A][Ammaj7]time\n[E][F#m]It's our\n[A]time",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Ammaj7": {
+      "catalog": [
+        "576555"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Cupid",
+  "id": "4c53af18be442aa05839975cd15ecd410c90a4b998de4b215d7dfa773041ed80",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 97,
+  "normalizedKey": "jack johnson|cupid",
+  "playableChords": [
+    "A",
+    "Ammaj7",
+    "E",
+    "F#m",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Break"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4c53af18be442aa05839975cd15ecd410c90a4b998de4b215d7dfa773041ed80",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Cupid",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,110 @@
+{
+  "artist": "Kate Bush",
+  "artistNormalized": "kate bush",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Asus2]\n[Asus2]\n[Asus2/F]\n[F]\n[Dm]\nIt's\n\n[Verse 1]\n[Asus2]wonderful.\n[Am/C]Everywhere,\n[Dsus2]so\nwhite. [Asus2]\nThe\n[Asus2/F]river\nhas\nfrozen\n[Dm]o-\nver.\n\n[Verse 2]\n[Asus2]Not a soul\non the ice.\n[Am/C]Only me\n[Dsus2]skating\nfast. [Asus2]\nI'm\n[Asus2/F]speeding\npast\n[Dm]trees,\nLeaving\n\n[Chorus]\n[Asus2]little lines\nin the ice,\n[Am/C]Cotting out,\n[Dsus2]little lines\n[Asus2]in the ice,\n[Am/C]Splitting,\n[Dsus2]splitting sound.\n[Asus2]Silver heels\n[Am/C]spitting,\n[Dsus2]spitting snow.\n\n[Verse 3]\n[Asus2]\nThere's\n[Asus2/F]something\nmoving\n[Dm]under.\nUn-\n\n[Chorus]\n[Asus2]der the ice\nmoving\n[Am/C]Under ice\n[Dsus2]through water.\n[Asus2]Trying to (It's\n[Am/C]me) Get out\n[Dsus2]of the cold\n[Asus2]water (It's me)\n[Am/C]Something\n[Dsus2]Someone help them.\n\n[Outro]\n[Asus2]",
+  "diagrams": {
+    "Am/C": {
+      "catalog": [
+        "x32210"
+      ],
+      "catalogCount": 1
+    },
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "Asus2/F": {
+      "catalog": [
+        "102200"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Under Ice",
+  "id": "2cc9dd2b06a3f2302374a875d4c8e539c4bc24f7c4e6a58436f2ac6e4dd3a507",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 103,
+  "normalizedKey": "kate bush|under ice",
+  "playableChords": [
+    "Asus2",
+    "Asus2/F",
+    "F",
+    "Dm",
+    "Am/C",
+    "Dsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2cc9dd2b06a3f2302374a875d4c8e539c4bc24f7c4e6a58436f2ac6e4dd3a507",
+    "version": "BCFZ"
+  },
+  "tempo": 65,
+  "title": "Under Ice",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,108 @@
+{
+  "artist": "Jake Bugg",
+  "artistNormalized": "jake bugg",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E]  [B]  [A]\n[E]  [B]  [A]\n[E]  [B]  [A]\n[E]  [B]  [A]\n\n[Verse 1]\n[E]Morning It's [B]another pure [A]grey mor-\n[E]ning Don't [B]know what the [A]day is hol-\n[E]ding When I [B]get uptight [A]and I walk\n[E]right into The [B]path of a [A]lightning\n[E]bolt [B][A]\n[E]  [B]  [A]\n[E]Sirens Of an [B]ambulance [A]comes\n[E]howling Right [B]through the [A]center of\n[E]town and No one [B]blinks an eye [A]and I\n[E]look up to the sky of The [B]path of a [A]lightning\n[E]bolt [B][A]\n[E]  [B]  [A]\n[E]Met her As the [B]angels [A]parted\n[E]for her But she [B]only brought [A]me\n[E]torture But that's [B]what [A]happens When it's\n[E]you who's standing in the [B]path of a [A]lightning\n[E]bolt [B][A]\n[E]\n\n[Chorus]\n[A]Everyone I see just wants to\n[D/A]walk with gritted teeth But [A]I just\n[E]stand by and I\nwait my time They say you\n[A]gotta tow the line They want the\n[D/A]water not the wine But [A]when I\n[E]see the signs I\n[B]jump on that [A]lightning bolt\n\n[Bridge]\n[E]  [B]  [A]\n[E]  [B]  [A]\n[E]  [B]  [A]\n[E]  [B]  [A]\n\n[Verse 2]\n[E]Chances People [B]tell you not to [A]take chan-\n[E]ces When they [B]tell you that there [A]aren't any\n[E]answers And I [B]was starting to [A]agree But I\n[E]awoke suddenly in the [B]path of a [A]lightning\n[E]bolt [B][A]\n[E]  [B]  [A]\n[E]Fortune People [B]talking all [A]about\n[E]fortune Do you [B]make it or [A]does it just\n[E]call you In the [B]blinking of an [A]eye Just a-\n[E]nother passerby in the [B]path of a [A]lightning\n[E]bolt [B][A]\n[E]\n\n[Chorus]\n[A]Everyone I see just wants to\n[D/A]walk with gritted teeth But [A]I just\n[E]stand by and I\nwait my time They say you\n[A]gotta tow the line They want the\n[D/A]water not the wine But [A]when I\n[E]see the signs I\n[B]jump on that [A]lightning bolt\n[E]  [B]  [A]\n\n[Bridge]\n[E]  [B]  [A]\n[E]  [B]  [A]\n[E]  [B]  [A]\n[E][B][A]It was\n\n[Verse 3]\n[E]silent I was [B]lying back [A]gazing\n[E]skyward When the [B]moment [A]got\n[E]shattered I [B]remembered what she [A]said And\n[E]then she fled in the [B]path of a [A]lightning\n\n[Outro]\n[E]bolt [B][A]\n[E]  [B]  [A]\n[E]  [B]  [A]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x0423x"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lightning Bolt",
+  "id": "c244b37527072530b9b48aadc5bb53722afa834cb82df00245eb1905fbfb2aac",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 340,
+  "normalizedKey": "jake bugg|lightning bolt",
+  "playableChords": [
+    "E",
+    "B",
+    "A",
+    "D/A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Bridge"
+    },
+    {
+      "measure": 60,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 64,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c244b37527072530b9b48aadc5bb53722afa834cb82df00245eb1905fbfb2aac",
+    "version": "BCFZ"
+  },
+  "tempo": 116,
+  "title": "Lightning Bolt",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

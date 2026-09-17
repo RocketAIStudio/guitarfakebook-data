@@ -1,0 +1,115 @@
+{
+  "artist": "Jason Mraz",
+  "artistNormalized": "jason mraz",
+  "capo": "2",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n[G]\n[D]\n[G]\n\n[Verse 1]\n[C]If I stayed here, would you fol-\n[G]low Could we put time in a bot-\n[D]tle And forget all of our to-\n[Em]do's\n[C]Pretend we checked in to a\n[G]chateau In a world with no tomor-\n[D]rows Just time for me and\n[Em]you\n\n[Pre-Chorus]\n[Am][G]Do you wanna go\n[D]Anywhere,\n[Am][G]ba-\n[D]by I've got no\n\n[Chorus]\n[C]plans for us today Got no\n[G]plans to get away I've got no\n[D]plans, except for loving you\n[Em]I've got no\n[C]plans for us tonight So\n[G]baby, hold me tight I've got no\n[D]plans, except for loving\n[G]you\n\n[Verse 2]\n[C]If we dream it we can be\n[G]it I'm putting all my feel-\n[D]ings Into spending time with you\n[Em]\n[C]I could sit right here all e-\n[G]vening Just listening to you breath-\n[D]ing And taking in the view\n[Em]\n\n[Pre-Chorus]\n[Am][G]Do you wanna go\n[D]Anywhere,\n[Am][G]ba-\n[D]by I've got no\n\n[Chorus]\n[C]plans for us today Got no\n[G]plans to get away I've got no\n[D]plans, except for loving you\n[Em]I've got no\n[C]plans for us tonight So\n[G]baby, hold me tight I've got no\n[D]plans, except for loving\n[G]you",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32013",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "No Plans",
+  "id": "78c201ef7c8ba63dad2068d7b4beab474ff21dd323722148caf51a91b2302f02",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 208,
+  "normalizedKey": "jason mraz|no plans",
+  "playableChords": [
+    "C",
+    "G",
+    "D",
+    "Em",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "78c201ef7c8ba63dad2068d7b4beab474ff21dd323722148caf51a91b2302f02",
+    "version": "BCFZ"
+  },
+  "tempo": 76,
+  "title": "No Plans",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

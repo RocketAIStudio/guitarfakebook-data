@@ -1,0 +1,145 @@
+{
+  "artist": "Hozier",
+  "artistNormalized": "hozier",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Cm]\n\n[Verse 1]\n[Cm]There is a roadway,\nmuddy and foxgloved\nWhenever I'd have\nlife enough, my heart is\nscream in' of\nAnd in a few days\nI would be there, love\nWhatever here that's\nleft of me is yours just\nas it was\n\n[Chorus]\n[Ab]\nJust as it [Bb]was, baby\n[Gm]Be-\nfore the [Cm]otherness\n[Eb]came [Fm]\n[Ab]And I\nknew its name [Bb]\n[Gm]The drug, the\ndark, the [Eb]light, the [Fm]flame The\n\n[Bridge]\n[Cm]highs hit the heights of my\n[Csus4/D]baby And its hold\n[Eb]had the fight of my\n[Fm]baby And the lights\n[Ab]were as bright as my ba-\n[Cm]by\n[Fm]But your love was unmoved\n\n[Interlude]\n[Cm]\n\n[Verse 2]\n[Cm]Tell me if somehow,\nsome of it remains\nHow long you would\nwait for me? And how long I've\nbeen away\nThe\nshape that I'm in now, your\nshape in the doorway\nMake your good love\nknown to me Or just tell me\n'bout your day\n\n[Chorus]\n[Ab]\nJust as it [Bb]was, baby\n[Gm]Be-\nfore the [Cm]otherness\n[Eb]came [Fm]\n[Ab]And I\nknew its name [Bb]\n[Gm]The drug, the\ndark, the [Eb]light, the [Fm]shame The\n\n[Bridge]\n[Cm]highs hit the heights of my\n[Csus4/D]baby And its hold\n[Eb]had the fight of my\n[Fm]baby And the lights\n[Ab]were as bright as my ba-\n[Cm]by\n[Fm]But your love was unmoved\n[Cm]And the sights\nwere as stark as my ba-\n[Csus4/D]by And the cold\n[Eb]cut as sharp as my\n[Fm]baby And the nights\n[Ab]were as dark as my ba-\n[Cm]by\n[Fm]And half as beautiful too\n\n[Outro]\n[Cm]\n\n[Outro 2]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x32010",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "xx0232",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "022000",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "Csus4/D": {
+      "catalog": [
+        "202200"
+      ],
+      "catalogCount": 1
+    },
+    "Eb": {
+      "catalog": [
+        "320003",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "x02210",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "x24432",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "As It Was",
+  "id": "43a00ce2b29404868e5a7723354a144846da5ec4a0d004ab3aa0275f05d4bb49",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 256,
+  "normalizedKey": "hozier|as it was",
+  "playableChords": [
+    "Cm",
+    "Ab",
+    "Bb",
+    "Gm",
+    "Eb",
+    "Fm",
+    "Csus4/D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Interlude"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Bridge"
+    },
+    {
+      "measure": 77,
+      "name": "Outro"
+    },
+    {
+      "measure": 82,
+      "name": "Outro 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "43a00ce2b29404868e5a7723354a144846da5ec4a0d004ab3aa0275f05d4bb49",
+    "version": "BCFZ"
+  },
+  "tempo": 86,
+  "title": "As It Was",
+  "tuning": "C F A# D# G C",
+  "variantRole": "primary"
+}

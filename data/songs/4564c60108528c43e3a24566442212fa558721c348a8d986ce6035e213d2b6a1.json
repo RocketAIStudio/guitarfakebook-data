@@ -1,0 +1,115 @@
+{
+  "artist": "Jake Bugg",
+  "artistNormalized": "jake bugg",
+  "capo": "3",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]  [Fmaj7/C]\n[C]  [G]\n[Am]  [Fmaj7/C]\n[C]  [G]\n\n[Verse 1]\n[Am]Am I [Fmaj7/C]crazy or\n[C]am I [G]blind\n[Am]Someone [Fmaj7/C]told me I'm out\n[C]my [G]mind oh\n[Am]  [Fmaj7/C]\n[C]  [G]\n[Am]Someone [Fmaj7/C]told me a girl\n[C]I [G]like\n[Am]Fell in love [Fmaj7/C]and all I\n[C]did was [G]cry oh\n[Am]  [Fmaj7/C]\n[C]  [G]\n\n[Chorus]\n[F]Someone hold me\nI'm done with this\n[C]game\n[G]\n[F]Said I'm sorry\nbut I'm not to\n[C]blame\n[Am]What a shame\n[G]\noh\n\n[Interlude]\n[Am]  [Fmaj7/C]\n[C]  [G]\n[Am]  [Fmaj7/C]\n[C]  [G]\n\n[Verse 2]\n[Am]Tried to [Fmaj7/C]break from this\n[C]lonely [G]pain\n[Am]Someone [Fmaj7/C]told me I'm just\n[C]insane [G]oh\n[Am]  [Fmaj7/C]\n[C]  [G]\n[Am]Broke my [Fmaj7/C]heart\n[C]when I [G]knew\n[Am]That I [Fmaj7/C]could never\n[C]be with [G]you oh\n[Am]  [Fmaj7/C]\n[C]  [G]\n\n[Chorus]\n[F]Someone loved me\nbut not today\n[C]\n[G]\n[F]Will you show me,\nshow me a\n[C]way\n[Am]How to love\n[G]\noh\n\n[Interlude]\n[Am]  [Fmaj7/C]\n[C]  [G]\n[Am]  [Fmaj7/C]\n[C]  [G]\n\n[Outro]\n[Am]Someone [F]told me a\n[C]girl I [G]like\n[Am]Fell in love [F]and all I\n[C]did was [G]cry oh\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7/C": {
+      "catalog": [
+        "x33210"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Someone Told Me",
+  "id": "4564c60108528c43e3a24566442212fa558721c348a8d986ce6035e213d2b6a1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 128,
+  "normalizedKey": "jake bugg|someone told me",
+  "playableChords": [
+    "Am",
+    "Fmaj7/C",
+    "C",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Interlude"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Interlude"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4564c60108528c43e3a24566442212fa558721c348a8d986ce6035e213d2b6a1",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Someone Told Me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

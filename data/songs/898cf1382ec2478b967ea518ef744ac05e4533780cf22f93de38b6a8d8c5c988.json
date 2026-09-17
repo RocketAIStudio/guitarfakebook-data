@@ -1,0 +1,143 @@
+{
+  "artist": "Hi-Standard",
+  "artistNormalized": "hi standard",
+  "capo": "No capo",
+  "chordPositionCount": 41,
+  "chordSymbolCount": 9,
+  "content": "[Verse 1]\n[A]Don't you\n[F#m]know you are my an-\n[Bm]gel?\n[E]\n[A]On my\n[F#m]knees I fall for you\n[Bm]\n[E]Can I\n[A]say this is love\n[C#]\n[D]Why don't we just get\n[Dm]lost in the\n[A]wind? [G#m]There's no end,\n[E][F#m]forever toge-\n[D]ther [E]This is love\n[A]\n[E]\n\n[Verse 2]\n[A]Embraced\n[F#m]in your warm and soft-\n[Bm]ness\n[E]\n[A]Deep in-\n[F#m]side, we are as one\n[Bm]\n[E]Can I\n[A]say this is love\n[C#]\n[D]Why don't we just get\n[Dm]lost in the\n[A]dark? [G#m]There's no end,\n[E][F#m]forever toge-\n[D]ther [E]This is love\n[A]\n[E]\n\n[Bridge]\n[C#]Hand in\nhand, we'll join and then\n[F#m]grow old toge-\nther\n[C#]Let me\nshare my life with you\n[F#m]and pass the years\n[Bm]Don't need words\n[C#m]\n[D]Can't even ex-\n[E]plain\n\n[Verse 3]\n[A]Even\n[F#m]when I hold you tight-\n[Bm]ly\n[E]\n[A]I'm in\n[F#m]the palm of your hand\n[Bm]\n[E]Can I\n[A]say this is love\n[C#]\n[D]Why don't we just get\n[Dm]lost in the\n[A]crowd? [G#m]There's no end,\n[E][F#m]forever toge-\n[D]ther [E]This is love\n[F#m][C#]Yeah,\n[D]sweetheart [E]This is\n[A]love.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "0221x0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "2442xx",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "4664xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "This Is Love",
+  "id": "898cf1382ec2478b967ea518ef744ac05e4533780cf22f93de38b6a8d8c5c988",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 163,
+  "normalizedKey": "hi standard|this is love",
+  "playableChords": [
+    "A",
+    "F#m",
+    "Bm",
+    "E",
+    "C#",
+    "D",
+    "Dm",
+    "G#m",
+    "C#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "898cf1382ec2478b967ea518ef744ac05e4533780cf22f93de38b6a8d8c5c988",
+    "version": "BCFZ"
+  },
+  "tempo": 200,
+  "title": "This Is Love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

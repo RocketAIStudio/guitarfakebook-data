@@ -1,0 +1,85 @@
+{
+  "artist": "KC and the Sunshine Band",
+  "artistNormalized": "kc and the sunshine band",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Bb7]\n\n[Verse 1]\n[Bb7]Girl, to be with you\nis my favorite thing\nYeah,\nuh huh, yeah\n[Eb7]I can't wait till I\nsee you again Yeah, yeah,\n[Bb7]uh\nhuh, uh huh\n[F7]I want to put on\n[Eb7]my my my my my boogie shoes\n[Bb7]Just to boogie with you,\nyeah\n[F7]I want to put on\n[Eb7]my my my my my boogie\n[Bb7]shoes Just to boogie with\nyou,\n\n[Verse 2]\n[Bb7]I want to do it\ntill the sun comes up\nOh\nyeah, u huh, uh huh\n[Eb7]I want to do it\ntill I can't get enough\n[Bb7]Yeah,\nyeah, uh huh\n[F7]I want to put on\n[Eb7]my my my my my boogie\n[Bb7]shoes Just to boogie with you,\nwell\n[F7]I want to put on\n[Eb7]my my my my my boogie\n[Bb7]shoes Just to boogie with\nyou,\n\n[Solo]\n[Bb7]\n[Eb7]\n[Bb7]\n[F7]woo! Woo! I want to\n[Eb7]put on my my my my my\n[Bb7]boogie shoes Just to boogie\nwith\n[F7]you, yeah I want to\n[Eb7]put on my my my my my\n[Bb7]boogie shoes Just to boogie with\nyou,\n\n[Outro]\n[F7]yeah I want to put\n[Eb7]on my my my my my boogie\n[Bb7]shoes Just to boogie with\nyou,\n[F7]yeah I want to put\n[Eb7]on my my my my my boogie\n[Bb7]shoes Just to boogie with you,\nyeah\n[F7]I want to put on\n[Eb7]my my my my my boogie shoes\n[Bb7]Just to boogie with\nyou,\nyeah",
+  "diagrams": {
+    "Bb7": {
+      "catalog": [
+        "x1313x",
+        "x-1-3-1-3-1",
+        "6-5-3-3-3-4",
+        "6-8-6-7-6-6",
+        "x-x-8-10-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb7": {
+      "catalog": [
+        "x68686",
+        "x-x-1-3-2-3",
+        "x-6-5-6-4-3",
+        "11-10-8-8-8-9",
+        "11-13-11-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "1312xx",
+        "1-3-1-2-1-1",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Boogie Shoes",
+  "id": "caff6962af486ffa57d2ebfe6d22ec0605c15bdb4896a655cd898ac14539e42d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 217,
+  "normalizedKey": "kc and the sunshine band|boogie shoes",
+  "playableChords": [
+    "Bb7",
+    "Eb7",
+    "F7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Solo"
+    },
+    {
+      "measure": 54,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "caff6962af486ffa57d2ebfe6d22ec0605c15bdb4896a655cd898ac14539e42d",
+    "version": "BCFZ"
+  },
+  "tempo": 114,
+  "title": "Boogie Shoes",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,97 @@
+{
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnny cash",
+  "capo": "1",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[D]I still\n[E]miss some-\n[A]one\nAt my\n\n[Verse 1]\n[A]door the\n[D]leaves are\n[E]falling\nThe\n[D]cold wild\n[E]wind will\n[A]come\nSweethearts walk\n[D]by to-\n[E]gether\nAnd\n[D]I still\n[E]miss some-\n[A]one\nI\ngo out\n[D]on a\n[E]party\nAnd\n[D]look for a\n[E]little\n[A]fun\nBut I\nfind a\n[D]darkened\n[E]corner\n'Cause\n[D]I still\n[E]miss some-\n[A]one\nNo, I\n\n[Chorus]\n[D]never got\n[E]over those\n[A]blues eyes\nI\n[D]see them\n[E]every-\n[A]where\nI\n[D]miss those\n[E]arms that\n[A]held me\nWhen all\n[D]the\n[E]love was\n[A]there\nI\n\n[Verse 2]\n[A]wonder\n[D]if she's\n[E]sorry\nFor\n[D]leaving what\n[E]we'd be-\n[A]gun\nThere's\nsomeone\n[D]for me\n[E]somewhere\nAnd\n[D]I still\n[E]miss some-\n[A]one\n\n[Refrain]\n[D]\n[E]\n[A]\n[D]I still\n[E]miss some-\n[A]one\nNo, I\n\n[Chorus]\n[D]never got\n[E]over those\n[A]blues eyes\nI\n[D]see them\n[E]every-\n[A]where\nI\n[D]miss those\n[E]arms that\n[A]held me\nWhen all\n[D]the\n[E]love was\n[A]there\nI\n\n[Verse 3]\n[A]wonder\n[D]if she's\n[E]sorry\nFor\n[D]leaving what\n[E]we'd be-\n[A]gun\nThere's\nsomeone\n[D]for me\n[E]somewhere\nAnd\n[D]I still\n[E]miss some-\n[A]one\n\n[Outro]\n[D]I still\n[E]miss some-\n[A]one",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Still Miss Someone",
+  "id": "e7db72ddfa9d89b07e098a7985a59e55fe99ba7126ec8bc2938ac836f177077c",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 182,
+  "normalizedKey": "johnny cash|i still miss someone",
+  "playableChords": [
+    "D",
+    "E",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 70,
+      "name": "Refrain"
+    },
+    {
+      "measure": 78,
+      "name": "Chorus"
+    },
+    {
+      "measure": 94,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 110,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e7db72ddfa9d89b07e098a7985a59e55fe99ba7126ec8bc2938ac836f177077c",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "I Still Miss Someone",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

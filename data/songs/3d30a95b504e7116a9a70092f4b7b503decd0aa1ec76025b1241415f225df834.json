@@ -1,0 +1,110 @@
+{
+  "artist": "John Mayer",
+  "artistNormalized": "john mayer",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A/E]  [E]\n[A/E]  [E]  [B/F#]  [E]\n[A/E]  [E]\n[A/E]\n[E]\n[A/E]  [E]  [B/F#]  [E]\n[A/E]  [E]\n[A/E]If you wanna\n\n[Verse 1]\n[A/E]roll [E]me, then you gotta\n[A/E]roll [E]me all [B/F#]night [E]long\n[A/E]  [E]\n[A/E]And if you wanna\n[A/E]use [E]me, then you gotta\n[A/E]use [E]me til [B/F#]I'm [E]gone\n[A/E]  [B/F#]\n[A/E]\n\n[Pre-Chorus]\n[A/E]I'm not a fallen angel,\n[C#m/E]I just fell behind\n[E]I'm out of luck and I'm out of time\n[A/E]\nIf you don't wanna love me, [B/F#]\n[E6]let me go\n[F#m7add11]I'm runnin for the last train\n[A/E]I'm runnin for the [B/F#]last train home\n\n[Chorus]\n[A/E]  [E]\n[A/E]  [E]  [B/F#]  [E]\n[A/E]  [B/F#]\n[A/E]If you wanna\n\n[Verse 2]\n[A/E]know [E]me, then you gotta\n[A/E]know [E]me through [B/F#]and [E]through\n[A/E]  [E]\n[A/E]And if you're gonna\n[A/E]hurt [E]me, then you gotta\n[A/E]hold [E]me next [B/F#]to [E]you\n[A/E]  [B/F#]\n[A/E]\n\n[Pre-Chorus]\n[A/E]No matter how you work it,\n[C#m/E]things go wrong\n[E]I put my heart where it don't belong\n[A/E]\nSo if you're comin with me [B/F#]\n[E6]let me know\n[F#m7add11]Well, maybe you're the last train\n[A/E]Well, maybe you're the [B/F#]last train home\n\n[Chorus]\n[E]I'm on the last train runnin\n[A/E][E]I'm on the [B/F#]last train [E]runnin\n[A/E]And I surrender [E]\n[A/E]And I surrender\n[E]I'm on the last train runnin\n[A/E][E]I'm on the [B/F#]last train [E]runnin\n[A/E]And I surrender [B/F#]\n[A/E]And I surrender\n\n[Outro]\n[A/E][E]I'm on the last train runnin\n[A/E][E]I'm on the [B/F#]last train [E]runnin\n[A/E]And I surrender [E]\n[A/E]And I surrender\n[E]I'm on the last train runnin\n[A/E][E]I'm on the [B/F#]last train [E]runnin\n[A/E]And I surrender [B/F#]\n[A/E]And I surrender\n[E]\n[A/E]  [E]  [B/F#]  [E]\n[A/E]  [E]\n[A/E]\n[E]\n[A/E]  [E]  [B/F#]  [E]\n[A/E]  [B/F#]\n[A/E]",
+  "diagrams": {
+    "A/E": {
+      "catalog": [
+        "x77654"
+      ],
+      "catalogCount": 1
+    },
+    "B/F#": {
+      "catalog": [
+        "x9987x"
+      ],
+      "catalogCount": 1
+    },
+    "C#m/E": {
+      "catalog": [
+        "x76654"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "x76453",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "E6": {
+      "catalog": [
+        "x76655"
+      ],
+      "catalogCount": 1
+    },
+    "F#m7add11": {
+      "catalog": [
+        "x97655"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Last Train Home",
+  "id": "3d30a95b504e7116a9a70092f4b7b503decd0aa1ec76025b1241415f225df834",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 248,
+  "normalizedKey": "john mayer|last train home",
+  "playableChords": [
+    "A/E",
+    "E",
+    "B/F#",
+    "C#m/E",
+    "E6",
+    "F#m7add11"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3d30a95b504e7116a9a70092f4b7b503decd0aa1ec76025b1241415f225df834",
+    "version": "BCFZ"
+  },
+  "tempo": 93,
+  "title": "Last Train Home",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

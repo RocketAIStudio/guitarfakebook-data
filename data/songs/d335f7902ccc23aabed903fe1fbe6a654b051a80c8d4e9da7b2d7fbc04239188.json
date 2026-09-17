@@ -1,0 +1,143 @@
+{
+  "artist": "Johnny Rivers",
+  "artistNormalized": "johnny rivers",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n\n[Verse 1]\n[Em]There's a man who\n[Am]leads a life of dan-\n[Em]ger\nTo\neveryone he meets\nhe stays a\n[B7]stranger\nWith\n[Em]every move he makes\na-\n[Am]nother chance he takes\n[Em]Odds are he won't\n[Am]live to see tomor-\n[Em]row\nSecret\n\n[Chorus]\n[Bm]agent man,\n[Em]secret\n[Bm]agent man\n[Em]They've\n[C7]given you a num-\nber and\ntaken away your name\n\n[Bridge]\n[Em]\nBe-\n\n[Verse 2]\n[Em]ware of pretty fa-\n[Am]ces that you find\n[Em]\nA\npretty face can hide\nan evil\n[B7]mind\nAh, be care-\n[Em]ful what you say\nOr you'll\n[Am]give yourself away\n[Em]Odds are you won't\n[Am]live to see tomor-\n[Em]row\nSecret\n\n[Chorus]\n[Bm]agent man,\n[Em]secret\n[Bm]agent man\n[Em]They've\n[C7]given you a num-\nber and\ntaken away your name\n\n[Bridge]\n[Em]\n\n[Solo]\n[Em]\n[Am]\n[Em]\n[B7]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\nSecret\n\n[Chorus]\n[Bm]agent man,\n[Em]secret\n[Bm]agent man\n[Em]They've\n[C7]given you a num-\nber and\ntaken away your name\n\n[Bridge]\n[Em]\n\n[Verse 3]\n[Em]Swingin' on the\n[Am]Riviera one\n[Em]day\nAnd then\nlayin' in the Bom-\nbay alley\n[B7]next day\nOh no, you\n[Em]let the wrong word\nslip While kis-\n[Am]sing persuasive\nlips The\n[Em]odds are you won't\n[Am]live to see tomor-\n[Em]row\nSecret\n\n[Chorus]\n[Bm]agent man,\n[Em]secret\n[Bm]agent man\n[Em]They've\n[C7]given you a num-\nber and\ntaken away your name\n\n[Bridge]\n[Em]\n\n[Outro]\n[Em]Secret a-\ngent man",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x35353",
+        "x-3-2-3-1-0",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Secret Agent Man",
+  "id": "d335f7902ccc23aabed903fe1fbe6a654b051a80c8d4e9da7b2d7fbc04239188",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 241,
+  "normalizedKey": "johnny rivers|secret agent man",
+  "playableChords": [
+    "Em",
+    "Am",
+    "B7",
+    "Bm",
+    "C7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Bridge"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Solo"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    },
+    {
+      "measure": 84,
+      "name": "Bridge"
+    },
+    {
+      "measure": 88,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 104,
+      "name": "Chorus"
+    },
+    {
+      "measure": 111,
+      "name": "Bridge"
+    },
+    {
+      "measure": 118,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d335f7902ccc23aabed903fe1fbe6a654b051a80c8d4e9da7b2d7fbc04239188",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Secret Agent Man",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,101 @@
+{
+  "artist": "John Prine",
+  "artistNormalized": "john prine",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]\n[C]\n[D]\n[G]\n[C]\n[D]\n[G]\n\n[Verse 1]\n[G]You come home late\nand you come home ear-\n[C]ly\n[D]You come on big\nwhen you're feeling small\n[G]\nYou come home straight\nand you come home cur-\n[C]ly\n[D]Sometimes you don't\ncome home at all\n[G]\n\n[Chorus]\n[G]So what in the world's\ncome o-\n[C]ver you\n[D]And what in\nheaven's name have you done\n[G]\nYou've broken the speed\nof the sound of lone-\n[C]liness\n[D]You're out there\nrunning just to be on the\n[G]run\n\n[Verse 2]\n[G]Well I got a\nheart that burns with a\n[C]fever\n[D]And I got a\nworried and a jealous mind\n[G]\nHow can a\nlove that'll last fore-\n[C]ver\n[D]Get\nleft so far behind\n[G]\n\n[Chorus]\n[G]So what in the world's\ncome o-\n[C]ver you\n[D]And what in\nheaven's name have you done\n[G]\nYou've broken the speed\nof the sound of lone-\n[C]liness\n[D]You're out there\nrunning just to be on the\n[G]run\n\n[Solo]\n[G]\n[C]\n[D]\n[G]\n[C]\n[D]\n[G]\n\n[Verse 3]\n[G]It's a mighty mean\nand a dreadful sor-\n[C]row\n[D]It's crossed the e-\nvil line today\n[G]\nWell, how can you\nask about tomor-\n[C]row\n[D]We ain't got\none word to say\n[G]\n\n[Chorus]\n[G]So what in the world's\ncome o-\n[C]ver you\n[D]And what in\nheaven's name have you done\n[G]\nYou've broken the speed\nof the sound of lone-\n[C]liness\n[D]You're out there\nrunning just to be on the\n[G]run\n\n[Outro]\n[D]You're out there\nrunning just to be on the\n[G]run\n[D]You're out there\nrunning just to be on the\n[G]run",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Speed Of The Sound Of Loneliness",
+  "id": "84b542c398a27c9253eb9e290cf92b618855348a419444b4277902e6a00ae96e",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 255,
+  "normalizedKey": "john prine|speed of the sound of loneliness",
+  "playableChords": [
+    "G",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Solo"
+    },
+    {
+      "measure": 97,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 113,
+      "name": "Chorus"
+    },
+    {
+      "measure": 129,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "84b542c398a27c9253eb9e290cf92b618855348a419444b4277902e6a00ae96e",
+    "version": "BCFZ"
+  },
+  "tempo": 163,
+  "title": "Speed Of The Sound Of Loneliness",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

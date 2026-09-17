@@ -1,0 +1,126 @@
+{
+  "artist": "John Denver",
+  "artistNormalized": "john denver",
+  "capo": "3",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]  [C]\n[G]  [C]\n[G]  [C]\n[G]  [C]\n\n[Chorus]\n[G]Sunshine [C]on my shoul-\n[G]ders [C]makes me hap-\n[G]py [C]\n[G]  [C]\n[G]Sunshine [C]in my eyes\n[G][C]can make me cry\n[Am7]\n[D]  [D7]\n[G]Sunshine [C]on the wa-\n[G]ter [C]looks so\n[G]lovely [C]\n[G]  [C]\n[G]Sunshine [C]almost al-\n[G]ways [C]makes me\n[G]high [C]\n[G]  [C]\n\n[Verse 1]\n[G]If I [Am7]had a\n[Bm]day [C]that I could give\n[G]you [Am7]\n[Bm]  [C]\n[G]I'd give to you [Am7]a\n[Bm]day just [C]like today\n[Am7]\n[D]  [D7]\n[G]If I had [Am7]a song\n[Bm][C]that I could sing\n[G]for you [Am7]\n[Bm]  [C]\n[G]I'd sing a song [Am7]to\n[Bm]make you feel [C]this\n[G]way [Am7]\n[Bm]  [C]\n\n[Chorus]\n[G]Sunshine [C]on my shoul-\n[G]ders [C]makes me hap-\n[G]py [C]\n[G]  [C]\n[G]Sunshine [C]in my eyes\n[G][C]can make me\n[Am7]cry\n[D]  [D7]\n[G]Sunshine [C]on the wa-\n[G]ter [C]looks so\n[G]lovely [C]\n[G]  [C]\n[G]Sunshine [C]almost al-\n[G]ways [C]makes me\n[G]high [C]\n[G]  [C]\n\n[Verse 2]\n[G]If I [Am7]had\n[Bm]a tale [C]that I could tell\n[G]you [Am7]\n[Bm]  [C]\n[G]I'd tell a tale [Am7]\n[Bm]sure to [C]make you smile\n[Am7]\n[D]  [D7]\n[G]If I had [Am7]a\n[Bm]wish [C]that I could wish\n[G]for you [Am7]\n[Bm]  [C]\n[G]I'd make a wish [Am7]for\n[Bm]sunshine [C]for all the\n[G]while [Am7]\n[Bm]  [C]\n\n[Chorus]\n[G]Sunshine [C]on my shoul-\n[G]ders [C]makes me happy\n[G]  [C]\n[G]  [C]\n[G]Sunshine [C]in my eyes\n[G]can [C]make me cry\n[Am7]\n[D]  [D7]\n[G]Sunshine [C]on the wa-\n[G]ter [C]looks so\n[Am7][G]lovely\n[Bm]  [C]\n[G]Sunshine [C]almost al-\n[G]ways [C]makes me\n[G]high [Am7]\n[Bm]  [C]\n\n[Outro]\n[G]Sunshine [C]almost all\n[G]the time [C]makes me\n[G]high [Am7]\n[Bm]  [C]\n[G]Sunshine [C]almost al-\n[G]ways [C]\n[G]  [Am7]\n[Bm]  [C]\n[G]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sunshine On My Shoulders",
+  "id": "bfd2f09c4257c66b63c12adf03563be9a27f38bc1d182a137ef0063e7ba6685f",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 212,
+  "normalizedKey": "john denver|sunshine on my shoulders",
+  "playableChords": [
+    "G",
+    "C",
+    "Am7",
+    "D",
+    "D7",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bfd2f09c4257c66b63c12adf03563be9a27f38bc1d182a137ef0063e7ba6685f",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "Sunshine On My Shoulders",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

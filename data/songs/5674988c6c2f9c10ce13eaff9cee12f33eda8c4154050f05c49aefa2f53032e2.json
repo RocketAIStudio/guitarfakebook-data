@@ -1,0 +1,124 @@
+{
+  "artist": "Invent, Animate",
+  "artistNormalized": "invent animate",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Fm]\n[Db]\n[Fm]\n[Db]\n[Fm]\n[Db]\n[Fm]\n[Db]\n\n[Verse 1]\n[Db]Native [Fm]tongues\n[Bbm]We [Fm]have accepted\n[Db]That we can never\nsee eye to eye\n[Fm]With one another\nFear remains on your\nsoul,\nand as life un-\n[Fm]folds [Db]\n[Fm]You [Db]have become\n[Fm]the tale untold\n\n[Bridge 1]\n[Bbm]\n[Gb5]\n[Bbm]Bury\nme under\n[Gb5]dirt and sorrow\n[Bbm]Like a\nbroken dream\n[Ab][Gb]This was\nnever meant to be\n[Bbm]End the\nnoise, end it now\n[Gb5]Slow\nvoices surround me\n[Bbm]With nowhere to\ngo\n[Ab]I refuse [Gb]to\nlisten\n[Bbm]\n[Gb5]\n\n[Chorus]\n[Bbm]Empty\nstares\n[Gb5]from uneasy\neyes\n[Bbm]I see you’re\ndead inside\n[Gb5]Stuck in\ngloom, so soon\n\n[Bridge 2]\n[Bbm]  [Gb]\n[Db]  [Gb]\nAm I in the\nwrong?\nAm I losing\nground?\n\n[Interlude]\n[Bbm]The judgement you\nspeak\nHas skewed all\nclarity\nPacing a-\nround the room\nAll the eyes\nare now on you\n\n[Chorus]\n[Bbm]Empty\nstares\n[Gb5]from uneasy\neyes\n[Bbm]I see you’re\ndead inside\n[Gb5]Stuck in\ngloom, so soon\n\n[Bridge 3]\n[Bbm]The outcast in\nme\n[Gb5]Can see right through\nThe\n[Bbm]desperation\nin you\n[Gb5]\n\n[Outro]\n[Bbm]\n[Gb5]\n[Bbm]I have just one word of ad-\nvice A\n[Gb5]message to the\nstray:\n[Gb5]You’ve become\nstagnant\nYou’ve become\ntame\nStop living\nhalfway,\nstop living\nhalfway\nStop living\nhalfway.\n[Bbm]\n[Gb5]\n[Bbm]\n[Gb5]\n[Bbm]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm": {
+      "catalog": [
+        "x-1-3-3-2-1",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13",
+        "18-20-20-18-18-18"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "Soul Sleep",
+  "id": "5674988c6c2f9c10ce13eaff9cee12f33eda8c4154050f05c49aefa2f53032e2",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 211,
+  "normalizedKey": "invent animate|soul sleep",
+  "playableChords": [
+    "Fm",
+    "Db",
+    "Bbm",
+    "Gb5",
+    "Ab",
+    "Gb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge 1"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 67,
+      "name": "Interlude"
+    },
+    {
+      "measure": 75,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Bridge 3"
+    },
+    {
+      "measure": 91,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5674988c6c2f9c10ce13eaff9cee12f33eda8c4154050f05c49aefa2f53032e2",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Soul Sleep",
+  "tuning": "F C# G# C# F# A# D#",
+  "variantRole": "primary"
+}

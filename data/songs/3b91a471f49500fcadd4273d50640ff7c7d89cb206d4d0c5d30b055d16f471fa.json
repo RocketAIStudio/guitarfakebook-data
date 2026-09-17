@@ -1,0 +1,129 @@
+{
+  "artist": "Ingrid Michaelson",
+  "artistNormalized": "ingrid michaelson",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C]\n\n[Verse 1]\n[C]Don't you worry, there\nmy honey\n[Csus4]We might not have\nany money\n[Am]But we've got our love\nto pay the bills\n[F]\nMay\n[C]be I think you're\ncute and funny, May\n[Csus4]be I wanna do\nwhat bunnies do\n[Am]with you, If you\nknow what I mean\n[F]\nOh,\n\n[Chorus]\n[C]let's get rich and buy\n[E7]our parents Homes\n[F]in the South of France\n[C]Let's get rich\n[C]and give every-\n[E7]body nice sweaters And teach\n[F]them how to dance\n[G]Let's get rich\n[C]and build our house\n[E7]on a mountain Making\n[F]everybody look like ants\n[D7]From way up there,\n[C]you and I,\n[F][G]you and I\n[C]\nWell\n\n[Verse 2]\n[C]you might be a\nbit confused And you\n[Csus4]might be a lit\ntle bit bruised But\n[Am]baby how we spoon\nlike no one else\n[F]\nSo I\n[C]will help you\nread those books If\n[Csus4]you will soothe my wor\nried looks And\n[Am]we will put the lone\nsome on the shelf\n[F]\nOh,\n\n[Chorus]\n[C]let's get rich and buy\n[E7]our parents Homes\n[F]in the South of France\n[C]Let's get rich\n[C]and give every-\n[E7]body nice sweaters And teach\n[F]them how to dance\n[G]Let's get rich\n[C]and build our house\n[E7]on a mountain Making\n[F]everybody look like ants\n[D7]From way up there,\n[C]you and I,\n[F][G]you and I\n[C]\nOh,\n\n[Chorus]\n[C]let's get rich and buy\n[E7]our parents Homes\n[F]in the South of France\n[C]Let's get rich\n[C]and give every-\n[E7]body nice sweaters And teach\n[F]them how to dance\n[G]Let's get rich\n[C]and build our house\n[E7]on a mountain Making\n[F]everybody look like ants\n[D7]From way up there,\n[C]you and I,\n[F][G]you and I\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Csus4": {
+      "catalog": [
+        "x3301x"
+      ],
+      "catalogCount": 1
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You And I",
+  "id": "3b91a471f49500fcadd4273d50640ff7c7d89cb206d4d0c5d30b055d16f471fa",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 296,
+  "normalizedKey": "ingrid michaelson|you and i",
+  "playableChords": [
+    "C",
+    "Csus4",
+    "Am",
+    "F",
+    "E7",
+    "G",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3b91a471f49500fcadd4273d50640ff7c7d89cb206d4d0c5d30b055d16f471fa",
+    "version": "BCFZ"
+  },
+  "tempo": 136,
+  "title": "You And I",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

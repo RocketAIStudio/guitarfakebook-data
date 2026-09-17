@@ -1,0 +1,144 @@
+{
+  "artist": "John Lennon",
+  "artistNormalized": "john lennon",
+  "capo": "2",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 8,
+  "content": "[Verse 1]\n[G]Look at me\n[Em]\n[A7]what am I supposed to be?\nwhat am I supposed to be?\n[G]Look at me\n[Em]\n[A7]what am I supposed to be?\nwhat am I supposed to be?\n\n[Chorus]\n[C]Look at me\n[Am]\n[Bm7]Oh My Lo -\n[Em]ve\n[Bm7]Oh My Lo -\n[Em]ve\n\n[Verse 2]\n[G]Here I am\n[Em]\n[A7]what am I supposed to do?\nwhat am I supposed to do?\n[G]Here I am\n[Em]\n[A7]What can I do for you?\nWhat can I do for you?\n\n[Chorus]\n[C]Here I am\n[Am]\n[Bm7]Oh My Lo -\n[Em]ve\n[Bm7]Oh My Lo -\n[Em]ve [Emmaj7]Look at me,\n[Em7]  [A7]\n[Em]Oh [Emmaj7]Please Look at me,\n[Em7]My Love [A7]\n\n[Chorus]\n[C]Here I am\n[Am]\n[Bm7]Oh My Lo -\n[Em]ve\n\n[Verse 3]\n[G]Who am I?\n[Em]\n[A7]Nobody knows but me\nNobody knows but me\n[G]Who am I?\n[Em]\n[A7]Nobody else can see\nJust you and me\n\n[Chorus]\n[C]Who are we\n[Am]\n[Bm7]Oh My Lo -\n[Em]ve\n[Bm7]Oh My Lo -\n[Em]ve\n[Bm7]Oh My Lo -\n[Em]ve",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "020000",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12",
+        "x-19-21-19-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Emmaj7": {
+      "catalog": [
+        "021000"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Look At Me",
+  "id": "fbd8f98ef57c6d86ead3c86e4adba5998ada28594767734a29227a17ee485047",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 156,
+  "normalizedKey": "john lennon|look at me",
+  "playableChords": [
+    "G",
+    "Em",
+    "A7",
+    "C",
+    "Am",
+    "Bm7",
+    "Emmaj7",
+    "Em7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fbd8f98ef57c6d86ead3c86e4adba5998ada28594767734a29227a17ee485047",
+    "version": "BCFZ"
+  },
+  "tempo": 74,
+  "title": "Look At Me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

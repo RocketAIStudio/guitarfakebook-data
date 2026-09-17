@@ -1,0 +1,143 @@
+{
+  "artist": "James Brown",
+  "artistNormalized": "james brown",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Dm]  [A7]\n[Dm]\n[C7]\nThis is a man's world,\n\n[Verse 1]\n[Dm][Am]this is a\n[Dm]man's world [Am]\n\n[Chorus]\n[Gm]But it wouldn't be nothing,\n[A7]nothing without a woman or a\n\n[Intelude]\n[Dm]girl [Am]\n[Dm][Am]You see,\n\n[Verse 2]\n[Dm]man made the cars [Am]\n[Dm]to take us over the road [Am]\n[Dm]Man made the train [Am]\n[Dm]to carry the [Am]heavy load\n\n[Verse 3]\n[Dm]Man made the [Am]electric light\n[Dm]to take us out of the dark [Am]\n[Dm]Man [Am]made the boat for the water,\n[Dm]like Noah [Am]made the ark This is a\n\n[Chorus]\n[Gm]man's, man's, man's world\n[A7]But it wouldn't be nothing, nothing without a woman\n\n[Interlude]\n[Dm]or a girl [Am]\n[Dm]  [Am]\n\n[Verse 4]\n[Dm]Man thinks about our [Am]little bitty baby girls\n[Dm]and our baby [Am]boys\n[Dm]Man made them [Am]happy,\n[Dm]'cause man [Am]made them toys\n\n[Verse 5]\n[Dm]And after man [Am]make everything, every-\n[Dm]thing he can [Am]You know that man makes money,\n[Dm]to buy [Am]from other man\n[Dm][Am]This is a\n\n[Chorus]\n[Gm]man's world But it wouldn't be nothing,\n[A7]nothing, not one little thing, without a woman\n\n[Interlude]\n[Dm]or a girl [Am]\n\n[Verse 6]\n[Dm][Am]He's lost\n[Dm]in the wilderness [Am]\n[Dm]He's lost [Am]\n[Dm]in [Am]bitterness\n\n[Outro]\n[Dm]  [Am]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "It's a man's man's man's world",
+  "id": "23f849838aa33357edc4b5009bde9dd08a02a1c1a51c6003495e13530dcbdabf",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 193,
+  "normalizedKey": "james brown|it s a man s man s man s world",
+  "playableChords": [
+    "Dm",
+    "A7",
+    "C7",
+    "Am",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 7,
+      "name": "Chorus"
+    },
+    {
+      "measure": 9,
+      "name": "Intelude"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Interlude"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 6"
+    },
+    {
+      "measure": 38,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "23f849838aa33357edc4b5009bde9dd08a02a1c1a51c6003495e13530dcbdabf",
+    "version": "BCFZ"
+  },
+  "tempo": 63,
+  "title": "It's a man's man's man's world",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

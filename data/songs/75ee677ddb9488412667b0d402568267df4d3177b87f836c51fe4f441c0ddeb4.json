@@ -1,0 +1,112 @@
+{
+  "artist": "Joy Division",
+  "artistNormalized": "joy division",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C5]\n[C5]  [D5]\n[E]\n[C5]\n[C5]  [D5]\n[E]\n[C5]\n[C5]  [D5]\n[E]\n[C5]\n[C5]  [D5]\n[E]\n[C5]\n[C5]  [D5]\n[E]\n\n[Pre-Verse]\n[C5]\n[C5]  [D5]\n[E]\nTo the\n[C5]centre of the city where all\n[C5]roads meet, [D5]waiting for you\n[E]\nTo the\n\n[Verse 1]\n[C5]depths of the ocean where all\n[C5]hopes sank, [D5]searching for you,\n[E]\nI was\n[C5]moving through the silence without\n[C5]motion, [D5]waiting for yo-\n[Em]u,\nIn a\n[C5]room with a window in the\n[D5]corner I found\n[E]truth.\n\n[Solo]\n[C5]\n[C5]  [D5]\n[E]\n[C5]\n[C5]  [D5]\n[E]\n[C5]\n[C5]  [D5]\n[E]\n[C5]\n[C5]  [D5]\n[E]\n[C5]\n[C5]  [D5]\n\n[Break]\n[E]\n[C5]\n[C5]  [D5]\n[E]\nIn the\n\n[Verse 2]\n[C5]shadowplay, acting out your\n[C5]own death, [D5]knowing no\n[E]more,\nAs the\n[C5]assassins all grouped in four\n[C5]lines, [D5]dancing on the\n[E]floor,\nAnd with\n[C5]cold steel, odour on their\n[C5]bodies made a [D5]move to con-\n[E]nect,\nBut I could\n[C5]only stare in disbelief\n[C5]as the [D5]crowds all\n[E]left.\n\n[Break]\n[C5]\n[D5]\n[E5]  [D5]\n[D5]  [E5]  [D5]  [E5]\n[C5]\n[D5]\n[E5]\nI did\n\n[Verse 3]\n[C5]everything,\n[D5][C5]everything I\n[E]wanted to\nI let them\n[C5]use you\n[C5]for [D5]their own\n[E]ends,\nTo the\n[C5]centre of the city in the\n[C5]night, [D5]waiting for you,\n[E]\nTo the\n[C5]centre of the city in the\n[C5]night, [D5]waiting for you.\n[E]\n\n[Solo 2]\n[C5]\n[C5]  [D5]\n[E]\n[C5]\n[C5]  [D5]\n[E]\n[C5]\n[C5]  [D5]\n[E]\n[C5]\n[C5]  [D5]\n[E]\n[C5]\n[C5]  [D5]\n[E]\n[C5]\n[C5]  [D5]\n[E]\n[C5]\n[C5]  [D5]\n[E]\n[C5]\n[C5]  [D5]\n[E]\n[C5]\n[C5]  [D5]\n[E]",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "10-12-12-x-x-x",
+        "x577xx"
+      ],
+      "catalogCount": 2
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Shadowplay",
+  "id": "75ee677ddb9488412667b0d402568267df4d3177b87f836c51fe4f441c0ddeb4",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 179,
+  "normalizedKey": "joy division|shadowplay",
+  "playableChords": [
+    "C5",
+    "D5",
+    "E",
+    "Em",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 21,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Solo"
+    },
+    {
+      "measure": 59,
+      "name": "Break"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 81,
+      "name": "Break"
+    },
+    {
+      "measure": 89,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 105,
+      "name": "Solo 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "75ee677ddb9488412667b0d402568267df4d3177b87f836c51fe4f441c0ddeb4",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Shadowplay",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

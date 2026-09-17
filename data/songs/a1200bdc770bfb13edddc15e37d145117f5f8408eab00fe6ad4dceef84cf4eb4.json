@@ -1,0 +1,112 @@
+{
+  "artist": "Judas Priest",
+  "artistNormalized": "judas priest",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n[Am]  [C]  [D]\n[Am]\n[Am]  [C]  [D]\n\n[Verse 1]\n[Am]I know you like it hot\nLove to writhe and sweat\n[Am]\n[Am]  [C]  [D]\n[Am]You think that this feels good You\nain't felt nothin' yet\n[Am]\n[Am]  [C]  [D]\n\n[Pre-Chorus]\n[C]Redhot licks in the palm\nof my hand\n[D]Feel your body quake As we\n[Em]hit the promised land I'm heavy\n\n[Chorus]\n[Am]duty\n[Am][C]I'm [D]heavy\n[Am]duty\n[Am]  [C]  [D]\n\n[Intrelude]\n\n[Verse 2]\n[Am]We'll rise inside ya till the\npower splits your head\n[Am]\n[Am]  [C]  [D]\n[Am]We're gonna rock ya till your\nmetal Hunger's fed\n[Am]\n[Am]  [C]  [D]\n\n[Pre-Chorus]\n[C]Let's all join forces Rule\nwith iron hand\n[D]And prove to all the world\n[Em]Metal rules the land\n\n[Chorus]\n[Am]\n[Am][C]We're [D]heavy\n[Am]duty\n[Am][C]We're [D]heavy\n\n[Outro]\n[Am]duty\n[Am][C]We're [D]heavy\n[Am]duty So come\non let's tell the world [C][D]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Heavy Duty",
+  "id": "a1200bdc770bfb13edddc15e37d145117f5f8408eab00fe6ad4dceef84cf4eb4",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 130,
+  "normalizedKey": "judas priest|heavy duty",
+  "playableChords": [
+    "Am",
+    "C",
+    "D",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a1200bdc770bfb13edddc15e37d145117f5f8408eab00fe6ad4dceef84cf4eb4",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Heavy Duty",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

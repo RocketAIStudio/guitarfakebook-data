@@ -1,0 +1,104 @@
+{
+  "artist": "John Mayer",
+  "artistNormalized": "john mayer",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n[G]\n[A]\n[G]\n[A]\n[G]\n[A]\n[G]\n[A]\n[G]\n[A]\n[G]\n\n[Verse 1]\n[A]I'm a lazy lo-\n[G]ver Underco\n[A]ver, wasting time\n[G]\n[A]Then one day in sum-\n[G]mer I changed my nu-\n[A]mber To cut my line\n[G]\n\n[Chorus]\n[D/F#]\n[G]Good love is on the way\n[A]\nI'll be\n[D/F#]lonely but I know I'll be okay\n[G]Good love is on the way\n[A]\n\n[Verse 2]\n[A]Three years broken hear-\n[G]ted Now her ghost\n[A]is finally gone\n[G]\n[A]Done with broken peo-\n[G]ple This is me\n[A]I'm working on\n[G]'Cause I know..\n\n[Chorus]\n[D/F#]\n[G]Good love is on the way\n[A]\nI'll be\n[D/F#]lonely but I know I'll be okay\n[G]Good love is on the way\n[A]\n\n[Bridge]\n[A]\nGood to go for wherever I'm needed\nBags are packed and I'm down by the door\nYou can take all the tricks up my sleeve, I don't\nneed them anymore\n[E7]\n\n[Solo]\n[A]\n[G]\n[A]\n[G]\n[A]\n[G]\n[A]\n[G]\n\n[Chorus]\n[D/F#]\n[G]Good love is on the way\n[A]\nI'll be\n[D/F#]lonely but I know I'll be okay\n[G]Good love is on the way\n[A]\nI'll be\n[D/F#]lonely, lonely, lonely, lonely, yeah\n[G]Good love is on the way\n[A]\n[D/F#]\n[G]Good love is on the way\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "200232"
+      ],
+      "catalogCount": 1
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Good Love Is On The Way",
+  "id": "ae1d48ab2d7afcf8b398b8ef74285c2988d8b7d56dd26692fa23e409585399c9",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 185,
+  "normalizedKey": "john mayer|good love is on the way",
+  "playableChords": [
+    "A",
+    "G",
+    "D/F#",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 54,
+      "name": "Solo"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ae1d48ab2d7afcf8b398b8ef74285c2988d8b7d56dd26692fa23e409585399c9",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "Good Love Is On The Way",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

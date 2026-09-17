@@ -1,0 +1,112 @@
+{
+  "artist": "John Mayer",
+  "artistNormalized": "john mayer",
+  "capo": "1",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[Em]\n[C]  [G]\n[Em]\n[C]  [G]\n\n[Verse 1]\n[G]How much of my [Em]mother has my mo-\n[C]ther left in me? [G]\nHow much of my love will be insane\n[D]to some degree? And\n[G]what about this [Em]feeling that I'm\n[C]never good enough? [G]Will it wash\n[Em]out in the [G]water, or is it al-\n[D]ways in the blood?\n[G]\n\n[Verse 2]\n[G]How much of my [Em]father am I des-\n[C]tined to become? [G]Will I dim\nthe lights inside me just to sa-\n[D]tisfy someone? Will I let\n[G]this woman kill [Em]me, or do away\n[C]with jealous love? [G]Will it wash\n[Em]out in the [G]water, or is it al-\n[D]ways in the blood?\n[G]I can\n\n[Chorus]\n[Em]feel the love I want [G]I can\n[C]feel the love I need [G]But it's\n[Em]never gonna come [G]the way I am\n[D]Could I change\n[Em]it if I [G]wanted? Can I\n[C]rise above the [G]flood? Will it wash\n[Em]out in the [G]water Or is it al-\n[D]ways in the blood?\n[G]\n\n[Verse 3]\n[G]How much like my [Em]brothers do my bro-\n[C]thers wanna be? [G]Does a bro-\nken home become another bro-\n[D]ken family? Or will we be\n[G]there for each [Em]other like nobo-\n[C]dy ever could? [G]Will it wash\n[Em]out in the [G]water, or is it al-\n[D]ways in the blood?\n[G]I can\n\n[Chorus]\n[Em]feel the love I want [G]I can\n[C]feel the love I need [G]But it's\n[Em]never gonna come [G]the way I am\n[D]Could I change\n[Em]it if I [G]wanted? Can I rise\n[C]above the flood? [G]Will it wash\n[Em]out in the [G]water Or is it al-\n[D]ways in the blood?\n[G]\n\n[Solo]\n[Em]\n[C]  [G]\n[Em]\n[C]  [G]\n[Em]\n[C]  [G]\n[Em]  [G]\n[D][G]I can\n\n[Chorus]\n[Em]feel the love I want [G]I can\n[C]feel the love I need [G]But it's\n[Em]never gonna come [G]the way I am\n[D]Could I change\n[Em]it if I [G]wanted? Can I rise\n[C]above the flood? [G]Will it wash\n[Em]out in the [G]water Or is it al-\n[D]ways in the blood? [G]\n\n[Outro]\n[Em]  [G]\n[C]  [G]\n[Em]  [G]\n[D]\n[Em]  [G]\n[C]  [G]\n[Em]  [G]\n[D]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "In The Blood",
+  "id": "68215ad499941290de9c477f37cdab4379f27f1379c8df2a70743e9f6caec5cb",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 344,
+  "normalizedKey": "john mayer|in the blood",
+  "playableChords": [
+    "G",
+    "Em",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Solo"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "68215ad499941290de9c477f37cdab4379f27f1379c8df2a70743e9f6caec5cb",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "In The Blood",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

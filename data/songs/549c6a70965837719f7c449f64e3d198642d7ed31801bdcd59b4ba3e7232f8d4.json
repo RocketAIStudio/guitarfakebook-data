@@ -1,0 +1,115 @@
+{
+  "artist": "John Mayer",
+  "artistNormalized": "john mayer",
+  "capo": "4",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G][F]Goodbye\n\n[Verse 1]\n[G]cold, [F]goodbye\n[G]rain [F]Goodbye\n[G]sorrow , [F]and goodbye\n[G]shame [F]I'm\n[C]headed out west with my headphones on\n[Am]Boarded a flight with a song in the back of my\n[G]soul [F]And no one kno-\n[G]ws [F]I\n[D]just found out her ghost left town The\n[C]queen of California is stepping down, down\n[G]  [F]\n[G][F]Hello\n\n[Verse 2]\n[G]beauty , [F]hello\n[G]strange [F]Hello\n[G]wonder, [F]what's your\n[G]name? [F]\n[C]Looking for the Sun that Neil Young hung A-\n[Am]fter the Gold Rush of ninety seventy o-\n[G]ne [F]\n[G][F]I\n[D]just found out her ghost left town The\n[C]queen of California is stepping down, down\n[G]  [F]\n[G]  [F]\n\n[Bridge]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[C]\n[Am]\n[G]  [F]\n[G]  [F]\n[D]\n[C]\n[G]  [F]\n[G][F]If you\n\n[Verse 3]\n[G]see her , [F]say hel-\n[G]lo [F]Just don't\n[G]tell me , [F]I told you so\n[G]  [F]\n[C]Joni wrote \"Blue\" in her house by the sea I've\n[Am]got to believe there's another color waiting on\n[G]me [F]To set me\n[G]free [F]I\n[D]just found out her ghost left town The\n[C]queen of California is stepping down, down,\n[G]down. [F]\n[G]  [F]\n\n[Outro]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n\n[(Fade out)]\n[G]  [F]\n[G]  [F]\n[G]  [F]\n[G]  [F]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Queen of California",
+  "id": "549c6a70965837719f7c449f64e3d198642d7ed31801bdcd59b4ba3e7232f8d4",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 202,
+  "normalizedKey": "john mayer|queen of california",
+  "playableChords": [
+    "G",
+    "F",
+    "C",
+    "Am",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    },
+    {
+      "measure": 77,
+      "name": "(Fade out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "549c6a70965837719f7c449f64e3d198642d7ed31801bdcd59b4ba3e7232f8d4",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "Queen of California",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

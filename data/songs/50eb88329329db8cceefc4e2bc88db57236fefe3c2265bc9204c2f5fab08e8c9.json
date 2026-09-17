@@ -1,0 +1,126 @@
+{
+  "artist": "John Mayall & The Bluesbreakers",
+  "artistNormalized": "john mayall the bluesbreakers",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am7]\n[Dm7]\n[Am7]\n[Em7]\n[Dm7]\n[Am7]\nAll the love I miss lov-\n\n[Verse 1]\n[Am7]ing,\nall the kiss I miss kiss-\ning\nAll the love I miss lov-\n[Dm7]ing,\nall the kiss I miss kiss-\n[Am7]ing\nBefore I met you\n[Em7]baby,\n[Dm7]never knew what I was\n[Am7]missing\nAll your love, pretty\n\n[Verse 2]\n[Am7]baby,\nthat I got in store for\nyou\nAll your love, pretty\n[Dm7]baby,\nthat I got in store for\n[Am7]you\nI love you pretty\n[Em7]baby,\n[Dm7]well I say you love me\n[Am7]too\n\n[Solo]\n[Am7]\n[Dm7]\n[Am7]\n[Em7]\n[Dm7]\n[Am7]\n[A7]\n[D7]\n[A7]\n[E7]\n[D7]\n[A7]\nAll your loving, pretty\n\n[Verse 3]\n[A7]baby,\nall your loving, pretty\nbaby\nAll your loving, pretty\n[D7]baby,\nall your loving, pretty\n[A7]baby\nSince I first met you\n[E7]baby,\n[D7]I never knew what I was\n[A7]missing\nHey, hey ba-\n\n[Verse 4]\n[A7]by,\nhey, hey ba-\nby\nYeah, yeah, yeah, yeah, yeah,\n[D7]baby,\noh, oh, ba-\n[A7]by\nSince I first met you\n[E7]baby,\n[D7]never knew what I was\n[A7]missing\n\n[Outro]\n[Am7]\n[Dm7]\n[Am7]\n[Em7]\n[Dm7]\n[Am7]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm7": {
+      "catalog": [
+        "xx0211",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022033",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "All Your Love",
+  "id": "50eb88329329db8cceefc4e2bc88db57236fefe3c2265bc9204c2f5fab08e8c9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 167,
+  "normalizedKey": "john mayall the bluesbreakers|all your love",
+  "playableChords": [
+    "Am7",
+    "Dm7",
+    "Em7",
+    "A7",
+    "D7",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Solo"
+    },
+    {
+      "measure": 62,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 74,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 86,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "50eb88329329db8cceefc4e2bc88db57236fefe3c2265bc9204c2f5fab08e8c9",
+    "version": "BCFZ"
+  },
+  "tempo": 108,
+  "title": "All Your Love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

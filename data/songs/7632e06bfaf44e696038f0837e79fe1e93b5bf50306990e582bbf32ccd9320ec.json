@@ -1,0 +1,55 @@
+{
+  "artist": "Interpol",
+  "artistNormalized": "interpol",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 1,
+  "content": "[Intro]\n[Am]\n\n[Verse]\n[Am]\nDirection\nDirection\nDirection\nDirection\nDirection\nDirection\nDirection\nDirection\nDirection\nDirection\nDirection\nDirection\n\n[Outro]\n[Am]Direction\nDirection\nDirection\nDirection",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Direction",
+  "id": "7632e06bfaf44e696038f0837e79fe1e93b5bf50306990e582bbf32ccd9320ec",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 48,
+  "normalizedKey": "interpol|direction",
+  "playableChords": [
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 58,
+      "name": "Verse"
+    },
+    {
+      "measure": 78,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7632e06bfaf44e696038f0837e79fe1e93b5bf50306990e582bbf32ccd9320ec",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Direction",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

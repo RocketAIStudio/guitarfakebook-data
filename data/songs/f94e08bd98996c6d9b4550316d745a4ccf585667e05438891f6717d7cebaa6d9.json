@@ -1,0 +1,116 @@
+{
+  "artist": "Joni Mitchell",
+  "artistNormalized": "joni mitchell",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n[B]  [E]\nThey\n\n[Verse 1]\n[A]paved paradise And put up a parking [E]lot\nWith a pink\n[A]hotel, a boutique And a [E]swing-\ning hotspot\n\n[Chorus]\n[E]Don't it always [Badd11/E]seem to go [E]That you\ndon't know what you've got til its gone They\n[A]paved paradise [E]And [B]put up a parking [E]lot\nThey\n\n[Verse 2]\n[A]took all the trees And put 'em in a tree [E]museum\nAnd they\n[A]charged the people [E]A [B]dollar and a half ju st [E]\nto seem 'em\n\n[Chorus]\n[E]Don't it always [Badd11/E]seem to go, [E]That you\ndon't know what you've got Til its gone They\n[A]paved paradise [E]And [B]put up a parking [E]lot\n\n[Verse 3]\n[A]Hey farmer farmer Put away the [E]DDT\nnow Give me\n[A]spots on apples [E]And [B]leave me the birds and the bees [E]\nPlease! Don't\n\n[Chorus]\n[E]it always [Badd11/E]seem to go, [E]That you\ndon't know what you've got Til its gone They\n[A]paved paradise [E]And [B]put up a parking [E]lot\n\n[Verse 4]\n[A]Late last night I heard the screen door [E]slam\n[A][E][B]And [E]a\nbig yellow taxi Took away my old men\n\n[Chorus]\n[E]  [Badd11/E]  [E]\nDon't it always seem to go, That you\n[A]don't know what [E]you've got [B]Til its gone They\npaved paradise And put up a parking lot\n\n[Chorus]\n[E]Don't it always [Badd11/E]seem to go, [E]That you\ndon't know what you've got Til its gone They\n\n[Outro]\n[A]paved paradise [E]And [B]put up a parking [E]lot\nThey\n[A]paved paradise [E]And [B]put up a parking [E]lot\nThey\n[A]paved paradise [E][B]And put up a [E]parking\nlot",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "555555",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "777777",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Badd11/E": {
+      "catalog": [
+        "040300"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "000000",
+        "054300",
+        "0543xx",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Big Yellow Taxi *alt",
+  "id": "f94e08bd98996c6d9b4550316d745a4ccf585667e05438891f6717d7cebaa6d9",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 276,
+  "normalizedKey": "joni mitchell|big yellow taxi",
+  "playableChords": [
+    "A",
+    "B",
+    "E",
+    "Badd11/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f94e08bd98996c6d9b4550316d745a4ccf585667e05438891f6717d7cebaa6d9",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Big Yellow Taxi",
+  "tuning": "E B E G# B E",
+  "variantRole": "alt"
+}

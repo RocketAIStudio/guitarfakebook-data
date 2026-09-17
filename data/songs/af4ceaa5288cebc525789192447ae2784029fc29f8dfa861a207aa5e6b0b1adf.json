@@ -1,0 +1,126 @@
+{
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnny cash",
+  "capo": "1",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E5]  [G5]\n[E]\n[G5]\n[E]\nNow I\n\n[Verse 1]\n[E]taught the weeping\nwillow how to cry,\n[G5]\n[E]And I\nshowed the clouds how to\ncover up a clear\n[F#]blue sky.\n[B7]And the tears\n[E]that I cried for that\nwoman are gonna\n[A]flood you Big\nRiver. Then I'm\n[E]gonna sit right\n[B7]here until I die.\n[E5]  [G5]\n[E]I\n\n[Verse 2]\n[E]met her acci-\ndentally in St.\nPaul, [G5]Minne-\n[E]sota. And it\ntore me up every time\nI heard her drawl,\n[F#]Southern drawl.\n[B7]Then I\n[E]heard my dream went back\nDownstream ca-\n[A]vortin' in Daven-\nport, And I\n[E]followed you, Big\n[B7]River, when you called.\n[E5]  [G5]\n[E]Oh, guitar\n\n[Interlude]\n[E]  [G5]\n[E]\n[G5]\n[E]\n[A]\n[E5]  [G5]\n[E]\n[B7]\n[E]  [G5]\n[E]Then you\n\n[Verse 3]\n[E]took me to St.\nLouis later on,\n[G5]down the\n[E]river. A\nfreighter said she's\nbeen here but she's gone,\n[F#]boy, she's gone.\n[B7]I found\n[E]her trail in\nMemphis, but she\n[A]just walked up the\nbluff. She raised a\n[E]few eyebrows and then she\n[B7]went on down alone.\n[E5]  [G5]\n[E]Now, won't you\n\n[Verse 4]\n[E]bat it down by Baton\nRouge, River Queen,\n[G5]roll it\n[E]on.\nTake that woman on\ndown to New Orleans,\n[F#]New Orleans.\n[B7]Go on,\n[E]I've had enough;\ndump my\n[A]blues down in the gulf.\n[E]She loves you, Big\n[B7]River, more than me.\n[E5]  [G5]\n[E]Ah, yeah!\n\n[Interlude]\n[E]  [G5]\n[E]\n[G5]\n[E]\n[A]\n[E5]  [G5]\n[E]\n[B7]\n[E]  [G5]\n[E]Now I\n\n[Verse 5]\n[E]taught the weeping\nwillow how to\ncry, [G5]cry, cry\n[E]And I\nshowed the clouds how to\ncover up a clear\n[F#]blue sky.\n[B7]And the tears\n[E]that I cried for that\nwoman are gonna\n[A]flood you Big\nRiver. Then I'm\n[E]gonna sit right\n[B7]here until I die.\n[E5]  [G5]\n[E]\n\n[Outro]\n[E5]  [G5]\n[E5]  [G5]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Big River",
+  "id": "af4ceaa5288cebc525789192447ae2784029fc29f8dfa861a207aa5e6b0b1adf",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 284,
+  "normalizedKey": "johnny cash|big river",
+  "playableChords": [
+    "E5",
+    "G5",
+    "E",
+    "F#",
+    "B7",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Interlude"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 83,
+      "name": "Interlude"
+    },
+    {
+      "measure": 95,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 111,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "af4ceaa5288cebc525789192447ae2784029fc29f8dfa861a207aa5e6b0b1adf",
+    "version": "BCFZ"
+  },
+  "tempo": 182,
+  "title": "Big River",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

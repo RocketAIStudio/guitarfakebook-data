@@ -1,0 +1,112 @@
+{
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnny cash",
+  "capo": "1",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E]\nHey\n\n[Verse 1]\n[E]porter! Hey\nporter! Would you\ntell me the time?\nHow much longer will it\nbe till we cross That\n[F#7]Mason Dixon\n[B7]Line? At\n[E]daylight would ya tell\nthat engi-\nneer To slow it down?\n[A]Or\nbetter still, just\n[E]stop the train 'Cause I\n[B7]want to look around\n[E]\nHey\n\n[Verse 2]\n[E]porter! Hey\nporter! What\ntime did you say?\nHow much longer will it\nbe till I can\n[F#7]See the light of\n[B7]day? When\n[E]we hit Dixie will you\ntell that engi-\nneer To ring his\n[A]bell? And ask\neverybody that\n[E]ain't asleep To stand\n[B7]right up and\n[E]yell\n\n[Solo 1]\n[E]\n[F#7]\n[B7]\n[E]\n[A]\n[E]\n[B7]\n[E]\nHey\n\n[Verse 3]\n[E]porter! Hey\nporter! It's\ngetting light out-\nside\nThis old train is\npuffing smoke And I\n[F#7]have to strain my\n[B7]eyes But ask\n[E]that engi-\nneer if he will Blow\nhis whistle\n[A]please 'Cause I\nsmell frost on\n[E]cotton leaves And I\n[B7]feel that Southern\n[E]breeze\nHey\n\n[Verse 4]\n[E]porter! Hey\nporter! Please\nget my bags for me\nI\nneed nobody to tell\nme now That\n[F#7]we're in Tennes-\n[B7]see Go\n[E]tell that engi-\nneer to make that\nLonesome whistle\n[A]scream We're\nnot so far from home\n[E]So take it ea-\n[B7]sy on the\n[E]steam\n\n[Solo 2]\n[E]\n[F#7]\n[B7]\n[E]\n[A]\n[E]\n[B7]\n[E]\nHey\n\n[Verse 5]\n[E]porter! Hey\nporter! Please\nopen up the door\nWhen they\nstop the train I'm going to\nget off first 'Cause I\n[F#7]can't wait no\n[B7]more Tell that\n[E]engineer I said\nthanks a lot And I\ndidn't mind the fare\n[A]I'm going to\nset my feet on\n[E]Southern soil And\n[B7]breathe that Southern air\n[E]\n\n[Outro]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hey Porter",
+  "id": "91cef513547c355b3c178f8c621dade8afa4f6d59f484ffadebdcc302c890aae",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 288,
+  "normalizedKey": "johnny cash|hey porter",
+  "playableChords": [
+    "E",
+    "F#7",
+    "B7",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 74,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 91,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 108,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 125,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "91cef513547c355b3c178f8c621dade8afa4f6d59f484ffadebdcc302c890aae",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Hey Porter",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

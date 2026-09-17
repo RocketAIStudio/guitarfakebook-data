@@ -1,0 +1,104 @@
+{
+  "artist": "Julien Baker",
+  "artistNormalized": "julien baker",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\n[Dm]\n[Am]\n[Fsus2]\n\n[Verse 1]\n[C]\nI'm staying in\ntonight\n[Dm]\nI won't\nstop you from\nleaving\n[Am]\nI\nknow that I'm not\nwhat you\n[Fsus2]wan-\nted\nAm\nI?\n[C]\nWanted someone\nwho I used\nto be like\n[Dm]\nNow you\nthink I'm not\ntrying\n[Am]\nWell, don't ar-\ngue it's not\nworth the\n[Fsus2]ef-\nfort\nto\nlie\n\n[Chorus]\n[C]\nYou\ndon't want to\nbring it up\n[Dm]\nAnd I\nalready know\nhow we look\n[Am]You don't have\nto remind\nme so much\nHow I\n[Fsus2]dis-\nap-\npoint\nyou\n[C]It's\njust that I\ntalked to some-\nbody again\n[Dm]That\nknows how to help\nme get bet-\nter Until\n[Am]then\nI should just\ntry not to miss\nany-\n[Fsus2]more\nAp-\npoint-\nments\n\n[Bridge]\n[C]\n[Dm]\n[Am]\n[Fsus2]\n\n[Verse 2]\n[C]\nI\nthink if I\nruin this\n[Dm]\nThat I\nknow I can\nlive with it\n[Am]Nothing turns out\nlike I\npictured it May-\nbe the\n[Fsus2]emptiness is\njust a\nlesson in can-\nvases\n[C]\nI\nthink if I fail\nagain\n[Dm]\nThat I know\nyou're still\nlistening\n[Am]Maybe it's all\ngonna\nturn out alright\nAnd I\n[Fsus2]know that it's not,\nbut I\nhave to believe\nthat it is\n\n[Interlude]\n[C]\nI\nhave to believe\nthat it is\n[Dm]\nI\nhave to believe\nthat it is\n[Am]\nI\nhave to believe\nthat it is\n[Fsus2]\n\n[Chorus]\n[C]\nAnd\nwhen I tell\nyou that it is\n[Dm]\nOh, it's not\nfor my\nbenefit\n[Am]Maybe it's all\ngonna\nturn out alright\nOh, I\n[Fsus2]know that it's not,\nbut I\nhave to believe\nthat it is\n\n[Outro]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Fsus2": {
+      "catalog": [
+        "x-8-10-10-8-8"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Appointments",
+  "id": "22c77632e669c5097fbca7c49e468ec1b4e7c9c455d8d8fd55ce9406e5d1074e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 264,
+  "normalizedKey": "julien baker|appointments",
+  "playableChords": [
+    "C",
+    "Dm",
+    "Am",
+    "Fsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 82,
+      "name": "Bridge"
+    },
+    {
+      "measure": 98,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 130,
+      "name": "Interlude"
+    },
+    {
+      "measure": 146,
+      "name": "Chorus"
+    },
+    {
+      "measure": 162,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "22c77632e669c5097fbca7c49e468ec1b4e7c9c455d8d8fd55ce9406e5d1074e",
+    "version": "BCFZ"
+  },
+  "tempo": 111,
+  "title": "Appointments",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

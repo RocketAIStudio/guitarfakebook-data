@@ -1,0 +1,127 @@
+{
+  "artist": "Keane",
+  "artistNormalized": "keane",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro (Fade In)]\n[D]\n\n[Intro]\n[D]\n\n[Verse 1]\n[D]You can shape a dying day\nInto something better\nWe can hold the ghosts at bay\nBuild something together\n[F#m7]You can see the beauty in\n[Bm]A dirty, rain-lashed street\n[G]Or a\nplan that goes nowhere\n[F#m7]You can make this town feel kind\n[Bm]Though the buildings cry\n[G]But you\ndon't belong, don't belong\n\n[Chorus]\n[A]You can chase the [D]night away\n[F#m7]Guess I'm trying to say\n[G]You\nheal me like the light of day\n[A]You can keep me [D]searching on\n[F#m7]You say it won't be long\n[G]'Til\nall the pain we felt is gone It\n\n[Bridge]\n[D]won't be long\n\n[Verse 2]\n[D]Sorry I'm distracted by\nThings that you can't help with\nA-\nloneness you can't recognise\nOr\nknow unless you've felt it\n[F#m7]Show me how to love again\n[Bm]Let the branches bend\n[G]Life's\nrolling on, rolling on\n\n[Chorus]\n[A]You can chase the [D]night away\n[F#m7]Guess I'm trying to say\n[G]You\nheal me like the light of day\n[A]You can keep me [D]searching on\n[F#m7]You say it won't be long\n[G]'Til\nall the pain we felt is gone It\n\n[Bridge]\n[F#m7]won't be long [Bm]'Til your\n[G]mind stops reeling It\n[F#m7]won't be long [Bm]'Til reg-\n[G]ret surrenders Its\n[F#m7]hold [Bm]and the\n[G]scars start healing\n[A]Falling off a cliff and still wonde-\n[G]ring Where the ground has gone\n[A]Something in your faith It keeps me\n[G]searching on, searching on\n\n[Chorus]\n[A]You can chase the [D]night away\n[F#m7]Guess I'm trying to say\n[G]You\nheal me like the light of day\n[A]You can keep me [D]searching on\n[F#m7]You say it won't be long\n[G]'Til\nall the pain we felt is gone It\n[D]won't be long\n[F#m7]Guess I'm trying to say\n[G]You\nheal me like the light of day\n[A]You can keep me [D]searching on\n[F#m7]You say it won't be long\n[G]'Til\nall the pain we felt is gone It\n\n[Outro]\n[D]won't be long",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "242222",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14",
+        "x-21-23-21-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Chase The Night Away",
+  "id": "354d5d287f541b7025e77516d1d46071c85467ffaf891bcddf135d5170ec484d",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 338,
+  "normalizedKey": "keane|chase the night away",
+  "playableChords": [
+    "D",
+    "F#m7",
+    "Bm",
+    "G",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro (Fade In)"
+    },
+    {
+      "measure": 5,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "354d5d287f541b7025e77516d1d46071c85467ffaf891bcddf135d5170ec484d",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "Chase The Night Away",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

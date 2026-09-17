@@ -1,0 +1,118 @@
+{
+  "artist": "Joji",
+  "artistNormalized": "joji",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Em]\n[B7/F#]\n[G]\n[C]  [G6/B]  [Am]  [G]\n\n[Verse 1]\n[Am]I fell for your\nmagic, [C][G6/B][Am][G]\n[Am]I tasted your\nskin\n[Em]And though this is\n[B7/F#]tragic, at least\n[G]I found the end\n[C]  [G6/B]  [Am]  [G]\n[Am]I witnessed your\nmadness, [C][G6/B][Am][G]\n[Am]you shed light on my\nsins\n[Em]And if we share in this\n[B7/F#]sadness, then where\n[G]have you been? I\n\n[Chorus]\n[C]know [G6/B]you're [Am]not [G]in\n[Am]love like you\nused to be [C]Guess [G6/B]I'm [Am]not [G]the\n[Am]one, like you\nused to think So you just\n[Em]run\n[B7/F#]\n[G]\n[C]I [G6/B]know [Am]that [G]I'm\n[Am]stuck in this\nmisery [C]Guess [G6/B]I'm [Am]not [G]enough,\n[Am]like you\nused to think So I'll just\n[Em]run, ooh\n[B7/F#]\n[G]\n[C]  [G6/B]  [Am]  [G]\n\n[Verse 2]\n[Am]You bathe in your\nvictory [C][G6/B][Am][G]\n[Am]You blew out on my\nfuse\n[Em]And if I took on the\n[B7/F#]planet Will I\n[G]pay my dues?\n[C]  [G6/B]  [Am]  [G]\n[Am]Your love was a\nmystery [C][G6/B][Am][G]\n[Am]Yeah, my love is a\nfool\n[Em]And I travel the\n[B7/F#]country just to\n[G]get to you I\n\n[Chorus]\n[C]know [G6/B]you're [Am]not [G]in\n[Am]love like you\nused to be [C]Guess [G6/B]I'm [Am]not [G]the\n[Am]one, like you\nused to think So you just\n[Em]run\n[B7/F#]\n[G]\n[C]I [G6/B]know [Am]that [G]I'm\n[Am]stuck in this\nmisery [C]Guess [G6/B]I'm [Am]not [G]enough,\n[Am]like you\nused to think So I'll just\n[Em]run\n[B7/F#]\n[G]\n[C]  [G6/B]  [Am]  [G]  [C]  [G6/B]  [Am]  [G]\n\n[Solo]\n[Em]\n[B7/F#]\n[G]\n[Am]\n[Em]\n[B7/F#]\n[G]\n[Am]\n\n[Outro]\n[Em]And I travel the\n[B7/F#]country\n[G]\n[Am]\n[Em]And I travel the\n[B7/F#]country just to\n[G]get to you\n[Am]I know you're not in\n[Em]love\n[B7/F#]I know you're not in\n[G]love\n[Am]I know you're not in\nlove",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B7/F#": {
+      "catalog": [
+        "201202"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G6/B": {
+      "catalog": [
+        "x20000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Run",
+  "id": "7cf459cf8b6e45cb1c8dad6a2f1fc8418266c87fd5d59b1edab8ec1b786938fb",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 232,
+  "normalizedKey": "joji|run",
+  "playableChords": [
+    "Em",
+    "B7/F#",
+    "G",
+    "C",
+    "G6/B",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Solo"
+    },
+    {
+      "measure": 77,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7cf459cf8b6e45cb1c8dad6a2f1fc8418266c87fd5d59b1edab8ec1b786938fb",
+    "version": "BCFZ"
+  },
+  "tempo": 79,
+  "title": "Run",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

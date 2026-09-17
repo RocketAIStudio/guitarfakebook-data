@@ -1,0 +1,111 @@
+{
+  "artist": "Jimi Hendrix",
+  "artistNormalized": "jimi hendrix",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G5]\n[G5]\n[Fsus2]\n\n[1st Verse]\n[G5]Is that the stars ___\nin the sky _____________ or is it uh,\n[Fsus2]rain __________ fallin'\ndown ? _\n[G5]Would it burn _ me _____\nif I touched the sun,\n[Fsus2]so ___ big, ____ so\n____ round ? _\n[G]Oh my\nheart burns _with feel - ing yeah, _\noh but my mind\n_________ is so cold _ and reel - in'\n\n[Chorus]\nIs this love ____\nba -  by ? Yeah !\nOr is it con - \n[G5]fu sion ?\n\n[2nd Verse]\n[G5]Oh _____ my\nhead is ____ pound - in', poundin',\n[Fsus2]goin' _ 'round\nand a - round. ___\n[G5]Must there al - ways _\nbe these colors\n[Fsus2]without names\nwithout sounds ?\n[G]You know I\nlove you ___ ba by.\nYour mind is tellin' me a\nsomethin' all together diff'rent.\n\n[Chorus]\nHa ! Is this love ____\nba by, _ or is it\n[G5]con -\nfu sion ?\n\n[Guitar Solo]\n[A5]\n[F]\n[D]\n[A5]\n[F]\n[D]\n\n[3rd Verse]\n[G5]Oh __ my head ___\nis pound - in',  poundin',\n[Fsus2]go in' 'round _ and\nround,_ round and round.\n[G5]Must there\nal - ways be these _  col-ors\n[Fsus2]uh, without names__\nwithout sounds ?\n[G]My\nmind is __ cold, ___\noh but my\nheart grows __ so __ bold. ___\n\n[Outro Chorus]\nIs this love ___\nba - by, ________\nor is it con -\n[G5]fu sion ?\n[G5]Oh __ it's the stars ___\n[Fsus2]a -bove you.\n[G5]\n[G5]\n[Fsus2]\n[G5]\n[G5]\n[G5]\n[Fsus2]\n[G5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "Love or Confusion",
+  "id": "aa32aa695cf4683f6b32ea04c4a0a4a252e1946d54da269fd84f795d76b68154",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 119,
+  "normalizedKey": "jimi hendrix|love or confusion",
+  "playableChords": [
+    "G5",
+    "Fsus2",
+    "G",
+    "A5",
+    "F",
+    "D",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "1st Verse"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "2nd Verse"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 53,
+      "name": "3rd Verse"
+    },
+    {
+      "measure": 65,
+      "name": "Outro Chorus"
+    }
+  ],
+  "source": {
+    "format": "gp3",
+    "sha256": "aa32aa695cf4683f6b32ea04c4a0a4a252e1946d54da269fd84f795d76b68154",
+    "version": "FICHIER GUITAR PRO v3.00"
+  },
+  "tempo": 108,
+  "title": "Love or Confusion",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

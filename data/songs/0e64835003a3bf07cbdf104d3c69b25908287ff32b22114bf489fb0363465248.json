@@ -1,0 +1,155 @@
+{
+  "artist": "Jack Johnson",
+  "artistNormalized": "jack johnson",
+  "capo": "No capo",
+  "chordPositionCount": 37,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[G]\n[Em]\n[Bm7]  [A]\n[G]\n[Bm7]  [Em]\n[G]\n[Bm7]\n[Dsus2]\n[Bm7]\n[A]Hey little\n\n[Verse 1]\n[Em]girl [Bm7]you might not know\nthis song [Dsus2]\n[Bm7]This is not the kind of song that yo-\n[A]u can sing along to we Hey little\n[Em]girl [Bm7]Maybe some\nday [Dsus2]\n[Bm7]Least that's what all the good\n[A]people will say Hey little\n\n[Pre-Chorus]\n[G]girl, look what you've done\n[Bm7]You've gone and\n\n[Chorus]\n[Bm7]stole my heart and [A7sus4]made it your own\n[G]You've\n[Bm7]stole my heart and [A7sus4]made it your own\n[G]Hey little\n\n[Verse 2]\n[Em]girl, [Bm7]\nblack and white [Dsus2]and right and wrong\n[Bm7]Only live inside a song\n[A]I will sing to you You don't e-\n[Em]ver have to [Bm7]feel lonely You will\nnever lose [Dsus2]any tears You don't\n[Bm7]have to feel any sadness When you\n[A]look back on the years How can I\n[G]look you in the eyes And\n[Em]tell you such big lies The\n[Bm7]best I can do is try to show\n[A]you How to love with no fear\n\n[Pre-Chorus]\n[G]My little\n[Em7]girl You've gone and\n\n[Chorus]\n[Bm7]stole my heart and [A7sus4]made it your own\n[G]You've\n[Bm7]stole my heart and [A7sus4]made it your own\n[G]\n\n[Solo/Outro]\n[Em]\n[Bm]  [D]\n[Bm7]\n[A]\n[Em]\n[Bm]  [D]\n[Bm7]\n[A]\n[G]\n[Bm7]  [G]\n[Bm7]  [A7sus4]\n[G]\n[Bm7]  [A7sus4]\n[G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7sus4": {
+      "catalog": [
+        "x02030"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "xx2453",
+        "022000",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "x79787",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "12-14-12-12-12-12",
+        "x-19-21-19-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "320033",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "My Little Girl",
+  "id": "0e64835003a3bf07cbdf104d3c69b25908287ff32b22114bf489fb0363465248",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 182,
+  "normalizedKey": "jack johnson|my little girl",
+  "playableChords": [
+    "G",
+    "Em",
+    "Bm7",
+    "A",
+    "Dsus2",
+    "A7sus4",
+    "Em7",
+    "Bm",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Solo/Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0e64835003a3bf07cbdf104d3c69b25908287ff32b22114bf489fb0363465248",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "My Little Girl",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

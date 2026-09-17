@@ -1,0 +1,142 @@
+{
+  "artist": "JANK",
+  "artistNormalized": "jank",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\nYour sae-\n\n[Chorus]\n[Gb5]tia\nIs was-\nted [Ab][Eb5]\n[Db5]I'm co-\n[Gb5]ming\nMy little ali-\nen [Ab][Eb5]\n[Db5]\n\n[Verse]\n[Bbm]  [Db]  [Ab]  [B]  [E5]\n[Gb5]Get back in your ship\n[Bbm]  [Db]  [Ab]  [B]  [E5]\n[Gb5]Before they put you in\n[Bbm]  [Db]  [Ab]  [B]  [E5]\n[Gb5]They have no common sense\n[Bbm]  [Db]  [Ab]  [B]  [E5]\n[Gb5]My sweet alien\n\n[Interlude]\n[Gb5]\nCome beam me up now\nCome and beam me up now\nCome beam me up now\nCome and beam me up now\nCome beam me up now\nCome and beam me up now\nCome beam me up now\nCome and beam me up now\nCome beam me up now\nCome and beam me up now\nCome beam me up now\nCome and beam me up now\n\n[Outro]\n[Gb5]Come beam me up now\nCome and beam me up now\n[Gbmaj7]Come beam me up now\nCome and beam me up now\n[Gbsus2]Come beam me up now\nCome and beam me up now\n[Gbmaj7]Come beam me up now\nCome and beam me up now",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "747655",
+        "x02220",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x35550",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm": {
+      "catalog": [
+        "x24432",
+        "x-1-3-3-2-1",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Db5": {
+      "catalog": [
+        "00023x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "3335xx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gb5": {
+      "catalog": [
+        "550033"
+      ],
+      "catalogCount": 1
+    },
+    "Gbmaj7": {
+      "catalog": [
+        "555777",
+        "2-4-3-3-2-2",
+        "x-x-4-6-6-6",
+        "x-9-8-6-6-6",
+        "x-9-11-10-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "Gbsus2": {
+      "catalog": [
+        "555785"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Vin Decent",
+  "id": "e862c0ed70cc7e3e3ceae31949f061614ae1e57af614f1351939dec923db321f",
+  "key": "G♭",
+  "keyIdentified": true,
+  "lyricEventCount": 147,
+  "normalizedKey": "jank|vin decent",
+  "playableChords": [
+    "Gb5",
+    "Ab",
+    "Eb5",
+    "Db5",
+    "Bbm",
+    "Db",
+    "B",
+    "E5",
+    "Gbmaj7",
+    "Gbsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse"
+    },
+    {
+      "measure": 26,
+      "name": "Interlude"
+    },
+    {
+      "measure": 43,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e862c0ed70cc7e3e3ceae31949f061614ae1e57af614f1351939dec923db321f",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Vin Decent",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "primary"
+}

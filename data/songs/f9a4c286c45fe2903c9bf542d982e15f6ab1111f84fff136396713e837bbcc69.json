@@ -1,0 +1,115 @@
+{
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnny cash",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]  [Asus4]\n[A]  [Asus4]\nWell I\n\n[Verse 1]\n[F#m]won't [E]back [A]down,\nno I\n[F#m]won't [E]back [A]down\nYou can\n[F#m]stand me up [E]at [D]the\ngates of hell But I\n[F#m]won't [E]back [A]down\nGonna\n\n[Verse 2]\n[F#m]stand [E]my [A]ground,\nwon't be\n[F#m]turned [A][E]around\nAnd I'll\n[F#m]keep this world [E]from [D]\ndraggin' me down Gonna\n[F#m]stand [E]my [A]ground\nand I\n[F#m]won't [E]back [A]down\n\n[Chorus]\n[D]Hey\n[E]baby,\n[D]there ain't no easy way out\n[E]\n[D]Hey\n[E]I will\n[F#m]stand [E]my [A]ground\nand I\n[F#m]won't [E]back [A]down\n\n[Pre-Verse]\n[A]  [Asus4]\n[A]  [Asus4]\nWell I\n\n[Verse 3]\n[F#m]know [E]what's [A]right,\nI got\n[F#m]just [E]one [A]life\nIn a\n[F#m]world that keeps [E]on [D]\npushin' me around But I\n[F#m]stand [E]my [A]ground\nand I\n[F#m]won't [E]back [A]down\n\n[Chorus]\n[D]Hey\n[E]baby,\n[D]there ain't no easy way out\n[E]\n[D]Hey\n[E]I will\n[F#m]stand [E]my [A]ground\nand I\n[F#m]won't [E]back [A]down\nNo I\n\n[Outro]\n[F#m]won't [E]back [A]\ndown.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Wont Back Down",
+  "id": "f9a4c286c45fe2903c9bf542d982e15f6ab1111f84fff136396713e837bbcc69",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 132,
+  "normalizedKey": "johnny cash|i wont back down",
+  "playableChords": [
+    "A",
+    "Asus4",
+    "F#m",
+    "E",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 48,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f9a4c286c45fe2903c9bf542d982e15f6ab1111f84fff136396713e837bbcc69",
+    "version": "BCFZ"
+  },
+  "tempo": 115,
+  "title": "I Wont Back Down",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

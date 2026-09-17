@@ -1,0 +1,111 @@
+{
+  "artist": "Jim Croce",
+  "artistNormalized": "jim croce",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]  [G]\n[Am]  [F]\n[C]  [G]\n[C][G]Well, out of\n\n[Verse 1]\n[C]Southern [G]Illinois come a\n[Am]down home country boy [F]He's gonna\n[C]make it in the city playin' [G]guitar in the studio\n[C][G]Oh well, he\n[C]hadn't been there an hour, [G]when he\n[Am]met a Broadway flower [F]You know she\n[C]took him for his money and she [G]left him in a cheap hotel\n[C][G]Oh well, it's\n\n[Verse 2]\n[C]easy for you to see [G]that that\n[Am]country boy is me [F]Say and\n[C]how am I ever gonna break [G]the news to the folks back home?\n[C][G]Well, I was\n[C]gonna be a great success [G]Things sure en-\n[Am]ded up a mess [F]\n[C]But in the process [G]I got messed up, too\n[F][C][G]Hello\n\n[Chorus]\n[G]Mama and Dad, I had to [F]call collect [G]'Cause I\n[F]ain't got a cent [G]to my name [C][G]Well I'm\n[Am]sleepin' in the hotel doorway And tonight\n[G]they say it's [F]gonna rain [G]And if you'd\n[C]only send [Bm]me some [Am]money [G]I'll be\n[C]back on my [Bm]feet again [Am][G]\n[C]Send it in [Bm]care of the [Am]Sunday [G]Mission\n[G]Box number [C]ten\n[C]  [Bm]  [Am]  [G]\n[G][C]Well, back in\n\n[Verse 3]\n[C]Southern [G]Illinois they're still\n[Am]worryin' 'bout their boy [F]\n[C]But this boy's goin' [G]home soon's he gets the fare\n[C][G]Because as\n[C]soon as I got my bread [G]I got a\n[Am]pipe upside my head [F]You know they\n[C]left me in an alley Took my [G]money and my guitar, too\n[F][C][G]Hello\n\n[Chorus]\n[G]Mama and Dad, I had to [F]call collect [G]'Cause I\n[F]ain't got a cent [G]to my name [C][G]Well I'm\n[Am]sleepin' in the hotel doorway And tonight\n[G]they say it's [F]gonna rain [G]And if you'd\n[C]only send [Bm]me some [Am]money [G]I'll be\n[C]back on my [Bm]feet again [Am][G]\n[C]Send it in [Bm]care of the [Am]Sunday [G]Mission\n[G]Box number [C]ten\n[C]  [Bm]  [Am]  [G]\n[G]  [C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Box#10",
+  "id": "7e01b719964ac3ad01b34f08adb8cfa47ee641a4cc3692a572b672f03943fafd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 327,
+  "normalizedKey": "jim croce|box 10",
+  "playableChords": [
+    "C",
+    "G",
+    "Am",
+    "F",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7e01b719964ac3ad01b34f08adb8cfa47ee641a4cc3692a572b672f03943fafd",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "Box#10",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

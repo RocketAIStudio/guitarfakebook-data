@@ -1,0 +1,113 @@
+{
+  "artist": "John Lennon",
+  "artistNormalized": "john lennon",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Am]\nAs\n\n[Verse 1]\n[Am]soon as you're born they\n[G]make you feel\n[Am]small\nBy\ngiving you no time in-\n[G]stead of it all\n[Am]\n'Til the\npain is so big you feel\n[G]nothing at all\n[Am]\nA\n\n[Chorus]\n[Am]working class hero is\n[G]something to be\n[Am]\nA\n[Am]working class [G]hero is\n[D]something to be\n[Am]\nThey\n\n[Verse 2]\n[Am]hurt you at home and they\n[G]hit you at\n[Am]school\nThey\nhate you if you're clever and they\n[G]despise a fo-\n[Am]ol\n'Til you're\nso fucking crazy you can't\n[G]follow their ru -\n[Am]les\nA\n\n[Chorus]\n[Am]working class he ro is\n[G]something to be\n[Am]\nA\n[Am]working class he [G]ro is\n[D]something to be\n[Am]\nWhen they've\n\n[Verse 3]\n[Am]tortured and scared you for\n[G]2 0 odd years\n[Am]\nThen they expect you to\n[G]pick a career\n[Am]\nWhen you\ncan't really function, you're\n[G]so full of fear\n[Am]\nA\n\n[Chorus]\n[Am]working class he ro is\n[G]something to be\n[Am]\nA\n[Am]working class he [G]ro is\n[D]something to be\n[Am]\nKeep you\n\n[Verse 4]\n[Am]doped with religion, and\n[G]sex, and T.-\n[Am]V.\nAnd you\nthink you're so clever and\n[G]classless and fre-\n[Am]e\nBut you're\nstill fucking peasants as far\n[G]as I can see\n[Am]\nA\n\n[Chorus]\n[Am]working class he ro is\n[G]something to be\n[Am]\nA\n[Am]working class he [G]ro is\n[D]something to be\n[Am]\nThere's room\n\n[Verse 5]\n[Am]at the top they are\n[G]telling you\n[Am]still\nBut\nfirst you must learn how to\n[G]smile as you kill\n[Am]\nIf you\nwant to be like the folks\n[G]on the hill\n[Am]\nA\n\n[Chorus]\n[Am]working class he ro is\n[G]something to be\n[Am]\nA\n[Am]working class he [G]ro is\n[D]something to be\n[Am]\nIf you\n\n[Outro]\n[Am]want to be a he ro well\n[G]just follow me\nIf you\nwant to be a he ro well\n[G]just follow me [D]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Working Class Hero",
+  "id": "8741a537cc41734123aaa39d8c406aec2f2e7dbb98194c51e4c2ad787aad41e4",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 328,
+  "normalizedKey": "john lennon|working class hero",
+  "playableChords": [
+    "Am",
+    "G",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 75,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 95,
+      "name": "Chorus"
+    },
+    {
+      "measure": 104,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8741a537cc41734123aaa39d8c406aec2f2e7dbb98194c51e4c2ad787aad41e4",
+    "version": "BCFZ"
+  },
+  "tempo": 79,
+  "title": "Working Class Hero",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

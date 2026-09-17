@@ -1,0 +1,144 @@
+{
+  "artist": "John Lennon",
+  "artistNormalized": "john lennon",
+  "capo": "No capo",
+  "chordPositionCount": 40,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[F#m]\n[C#]\n[F#m]\n[D7]\n[G]\n[A7]\n[D]\n[F#m]\n[G]\n[A7]\n[D]\nLove is real,\n\n[Verse 1]\n[F#m]\n[C#]real is love\n[F#m]\n[D7]Love is feel-\n[G]ing,\n[A7]feeling love\n[D]\n[F#m]Love is want-\n[Em7]ing\n[A7]to be loved\n[D]\nLove is touch,\n\n[Verse 2]\n[F#m]\n[C#]touch is love\n[F#m]\n[D7]Love is reach-\n[G]ing,\n[A7]reaching love\n[D]\n[F#m]Love is ask-\n[Em7]ing\n[A7]to be loved\n[D]\nLove is you\n\n[Bridge]\n[F]\n[G]You and me\n[D]\nLove is know\n[Em7]ing\n[G]we can be\n[D]\nLove is free,\n\n[Verse 3]\n[F#m]\n[C#]free is love\n[F#m]\n[D7]Love is li-\n[G]ving,\n[A7]living love\n[D]\n[F#m]Love is need-\n[Em7]ing\n[A7]to be loved\n[D]\n\n[Outro]\n[F#m]\n[C#]\n[F#m]\n[D7]\n[G]\n[A7]\n[D]\n[F#m]\n[G]\n[A7]\n[D]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02223",
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x43121",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "320033",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Love",
+  "id": "54fcdb6ac015a300a48fa673f7fbb216457f03cfedaab835c14a4c2545bc9225",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 74,
+  "normalizedKey": "john lennon|love",
+  "playableChords": [
+    "F#m",
+    "C#",
+    "D7",
+    "G",
+    "A7",
+    "D",
+    "Em7",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Bridge"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 58,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "54fcdb6ac015a300a48fa673f7fbb216457f03cfedaab835c14a4c2545bc9225",
+    "version": "BCFZ"
+  },
+  "tempo": 81,
+  "title": "Love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

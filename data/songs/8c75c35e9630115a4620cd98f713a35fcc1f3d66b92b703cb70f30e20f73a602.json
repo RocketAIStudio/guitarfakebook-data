@@ -1,0 +1,158 @@
+{
+  "artist": "how i met your mother",
+  "artistNormalized": "how i met your mother",
+  "capo": "No capo",
+  "chordPositionCount": 46,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[G]\n[Gmaj7]\n[Em7]\n[Am]\n[D]\n[D7]\n\n[Verse 1]\n[G]Hold me close and hold me\n[Gmaj7]fast The magic spell you\n[Em7]cast This is la vie en\n[Am]rose\n[D]When you kiss me, Heaven\n[Am]sighs And though I close my\n[F#dim/C]eyes I see la vie en\n[D][Bm]rose\n[G]When you press me to your\n[Gmaj7]heart And in a world a-\n[Em7]part A world where roses\n\n[Chorus]\n[Am]bloom\n[G]And when you speak Angels\n[Am]sing from above\n[D]Every day words Seems to\n[Cm]turn into love songs\n\n[Verse 2]\n[G]Give your heart and soul to\n[Gmaj7]me And life will always\n[C]be\n[Am]La vie en rose\n\n[Outro]\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "020000",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12",
+        "x-19-21-19-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#dim/C": {
+      "catalog": [
+        "x3421x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7": {
+      "catalog": [
+        "354433",
+        "3-2-0-0-0-2",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7",
+        "x-10-12-11-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "La vie en rose",
+  "id": "8c75c35e9630115a4620cd98f713a35fcc1f3d66b92b703cb70f30e20f73a602",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 97,
+  "normalizedKey": "how i met your mother|la vie en rose",
+  "playableChords": [
+    "G",
+    "Gmaj7",
+    "Em7",
+    "Am",
+    "D",
+    "D7",
+    "F#dim/C",
+    "Bm",
+    "Cm",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8c75c35e9630115a4620cd98f713a35fcc1f3d66b92b703cb70f30e20f73a602",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "La vie en rose",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

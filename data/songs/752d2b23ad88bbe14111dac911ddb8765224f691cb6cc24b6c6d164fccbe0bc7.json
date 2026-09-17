@@ -1,0 +1,93 @@
+{
+  "artist": "Johnny cash",
+  "artistNormalized": "johnny cash",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[C]\n\n[Verse 1]\n[C]We got married in a\nfever,\nhotter than a pepper\nsprout,\nWe've been talkin' 'bout\nJackson\never since the fire went\nout I'm goin' to\n[F]Jackson,\nI'm gonna mess a-\n[C]round,\nYeah, I'm goin' to\n[F]Jackson,\n[G]Look out Jackson\n[C]town. Well,\n\n[Verse 2]\n[C]go on down to\nJackson;\ngo ahead and wreck your\nhealth. Go\nplay your hand you\nbigtalkin' man, make a\nbig fool of your-\nself, Yeah, go to\n[F]Jackson\ngo comb your\n[C]hair! Honey, I'm\ngonna snowball\n[F]Jackson.\n[G]See if I\n[C]care. When\n\n[Verse 3]\n[C]I breeze into that\ncity,\npeople gonna stoop and\nbow.\nAll them women gonna\nmake me,\nteach 'em what they don't know\nhow, I'm goin' to\n[F]Jackson,\nyou turna loosea my\n[C]coat.\n'Cos I'm goin' to\n[F]Jackson.\n[G]\"Goodbye,\" that's all she\n[C]wrote. But they'll\n\n[Verse 4]\n[C]laugh at you in\nJackson, and I'll be\ndancin' on a Pony\nKeg. They'll\nlead you 'round town like a\nscalded hound, With your\ntail tucked between your\nlegs, Yeah, go to\n[F]Jackson,\nyou bigtalkin'\n[C]man.\nAnd I'll be waitin' in\n[F]Jackson,\n[G]behind my Jaypan\n[C]Fan,\nWell now,\n\n[Verse 5]\n[C]we got married in a\nfever,\nhotter than a pepper\nSprout,\nWe've been talkin' 'bout\nJackson,\never since the fire went\nout I'm goin' to\n[F]Jackson,\nand that's a\n[C]fact.\nYeah, we're goin' to\n[F]Jackson,\n[G]ain't never comin'\n[C]back.\n\n[Outro (Fade Out)]\n[C]Well,\nwe got married in a\nfever,\nhotter than a pepper\nsprout' And\nwe've been talkin' 'bout\nJackson,",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Jackson",
+  "id": "752d2b23ad88bbe14111dac911ddb8765224f691cb6cc24b6c6d164fccbe0bc7",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 292,
+  "normalizedKey": "johnny cash|jackson",
+  "playableChords": [
+    "C",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 66,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 81,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "752d2b23ad88bbe14111dac911ddb8765224f691cb6cc24b6c6d164fccbe0bc7",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "Jackson",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

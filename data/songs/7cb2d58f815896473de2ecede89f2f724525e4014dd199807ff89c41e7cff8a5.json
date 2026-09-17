@@ -1,0 +1,117 @@
+{
+  "artist": "John Mayer",
+  "artistNormalized": "john mayer",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[F#m7]\n\n[Verse 1]\n[F#m7]Some of us, we're\nhardly ever here\nThe rest of us, we're\nborn to disappear\nHow do I stop myself from\nbeing just a number?\nHow will I hold my head to\nkeep from goin' under?\n\n[Chorus]\n[A]Down to the wire\nI wanted water, but I'll\n[B]walk through the fire\nIf this is what it takes to\n[A]take me even higher\nThen I'll come through Like I\n[B]do when the world keeps\ntesting me, testing me, testing\n\n[Break]\n[F#m7]me\n\n[Verse 2]\n[F#m7]How did they find me here?\nWhat do they want from me?\nAll of these vultures hiding\nright outside my door\nI hear them whispering\nThey're tryin' to ride it out\nThey've never gone this long with-\nout a kill before\n\n[Chorus]\n[A]Down to the wire\nI wanted water, but I'll\n[B]walk through the fire\nIf this is what it takes to\n[A]take me even higher\nThen I'll come through Like I\n[B]do when the world keeps\ntesting me, testing me, testing\n\n[Guitar Solo]\n[F#m7]me\n\n[Piano Solo]\n[A]\n[F#m7]\n[A]\n[F#m7]\n\n[Verse 3]\n[F#m7]Wheels up I\ngot to leave this evening\nI can't seem to shake these vultures\noff of my trail\nPower is made by\npower being taken\nSo I keep on running to pro-\ntect my situation\n\n[Chorus]\n[A]Down to the wire\nI wanted water, but I'll\n[B]walk through the fire\nIf this is what it takes to\n[A]take me even higher\nThen I'll come through Like I\n[B]do when the world keeps\ntesting me, testing me, now\n\n[Break]\n[A]Ooh,\n[B]ooh,\n[A]ooh,\n[B]ooh\n\n[Outro]\n[F#m7]Whatcha gonna do about it?\nWhatcha gonna do about it?\nWhatcha gonna do about it?\nDon't\n\n[Outro (Fade Out)]\n[F#m7]give up, give up\nDon't\ngive up, give up, give\nup Don't\ngive up, give up\nDon't\ngive up, give up, give\nup",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "242222",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14",
+        "x-21-23-21-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Vultures",
+  "id": "7cb2d58f815896473de2ecede89f2f724525e4014dd199807ff89c41e7cff8a5",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 335,
+  "normalizedKey": "john mayer|vultures",
+  "playableChords": [
+    "F#m7",
+    "A",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Break"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 54,
+      "name": "Piano Solo"
+    },
+    {
+      "measure": 62,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 70,
+      "name": "Chorus"
+    },
+    {
+      "measure": 78,
+      "name": "Break"
+    },
+    {
+      "measure": 86,
+      "name": "Outro"
+    },
+    {
+      "measure": 94,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7cb2d58f815896473de2ecede89f2f724525e4014dd199807ff89c41e7cff8a5",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "Vultures",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

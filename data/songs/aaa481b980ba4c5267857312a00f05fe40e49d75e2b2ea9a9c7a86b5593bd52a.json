@@ -1,0 +1,78 @@
+{
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnny cash",
+  "capo": "1",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n[C]I got cotton in the\n[G7]bottom land It's\nup and growin' and I\n[C]got a good stand\nMy good wife and them\n[G7]kids of mine Gonna\nget new shoes, come\n[C]Pickin' Time\n[G7]Get new shoes come\n[C]Pickin' Time.\n\n[Verse 1]\nEv'ry night when I\n[G7]go to bed I\nthank the Lord that my kids\n[C]are fed They\nlive on beans eight\n[G7]days and nine\nBut I\nget 'em fat come\n[C]Pickin' Time\n[G7]Get 'em fat come\n[C]Pickin' Time.\nThe\n\n[Verse 2]\ncorn is yellow and the\n[G7]beans are high The\nsun is hot in the\n[C]summer sky The\nwork is hard til\n[G7]layin' by\nLayin' by til\n[C]Pickin' Time\n[G7]Layin' by til\n[C]Pickin' Time.\nIt's\n\n[Verse 3]\nhard to see by the\n[G7]coaloil light And I\nturn it off purty\n[C]early at night 'Cause\na jug of coaloil\n[G7]costs a dime\nBut I\nstay up late come\n[C]Pickin' Time\n[G7]Stay up late come\n[C]Pickin' Time.\n\n[Verse 4]\nMy old wagon barely\n[G7]gets me to town I\npatched the wheels and I\n[C]watered 'em down\nKeep her in shape so she'll\n[G7]be fine\nTo\nhaul my cotton come\n[C]Pickin' Time\n[G7]Haul my cotton come\n[C]Pickin' Time.\nLast\n\n[Verse 5]\n[C]Sunday mornin' when they\n[G7]passed the hat It was\nstill nearly empty back\n[C]where I sat But the\npreacher smiled and said\n[G7]that's fine The\nLord'll wait til\n[C]Pickin' Time The\n[G7]Lord'll wait til\n[C]Pickin' Time.",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pichin' Time",
+  "id": "aaa481b980ba4c5267857312a00f05fe40e49d75e2b2ea9a9c7a86b5593bd52a",
+  "key": "D♭",
+  "keyIdentified": true,
+  "lyricEventCount": 262,
+  "normalizedKey": "johnny cash|pichin time",
+  "playableChords": [
+    "C",
+    "G7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 48,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 60,
+      "name": "Verse 5"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "aaa481b980ba4c5267857312a00f05fe40e49d75e2b2ea9a9c7a86b5593bd52a",
+    "version": "BCFZ"
+  },
+  "tempo": 156,
+  "title": "Pichin' Time",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

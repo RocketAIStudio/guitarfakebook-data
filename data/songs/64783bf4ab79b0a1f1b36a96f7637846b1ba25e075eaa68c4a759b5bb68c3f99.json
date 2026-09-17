@@ -1,0 +1,136 @@
+{
+  "artist": "Ira Wolf",
+  "artistNormalized": "ira wolf",
+  "capo": "3",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[G]\nI want someone\n\n[Verse 1]\n[G]\nto remind\n[Am7]me to wear sun-\nscreen And take my\n[Em7]vitamins\nwhen it slips my mind\n[Cadd9]\nI want someone\n[G]\nwho knows\n[Am7]how I like my cof-\nfee And\n[Em7]wants to share a bed\nfor more than a night\n[Cadd9]\nBut I'm\n\n[Chorus]\n[Dadd11/A]stubborn,\n[Em7]selfish,\n[Cadd9]easily jea-\n[Dadd11/A]lous at times\n[Am7]\nI'm hard to\n[Em7]love,\nand I just want some-\n[Cadd9]one\n[Dadd11/A]to try\n[G]\nI want someone\n\n[Verse 2]\n[G]\nwho knows that I'm\n[Dadd11]not made for m-\nornings And doesn't scold\n[Em7]me for\nsmoking when I\n[Cadd9]drink\nI want some-\n[G]one\nwho listens\n[Dadd11]when they've heard the sto-\nries\n[Em7]And gives me enough\nspace to breathe\n[Cadd9]\nCause I'm\n\n[Chorus 2]\n[Dadd11/A]stubborn,\n[Em7]selfish,\n[Cadd9]easily jea-\n[Dadd11]lous at times\n[Am7]\nI'm hard to\n[Em7]love,\nand I just want some-\n[Cadd9]one\n[Dadd11/A]to try\n\n[Bridge]\n[A7]\n[Cadd9]\nTo try\n[A7]\n[Cadd9]\n[Dadd11]\nI want some-\n\n[Verse 3]\n[G]one\nwho can ground\n[D/F#]me when I'm too\nhigh\n[Em7]And light up the dark\nside of my\n[Cadd9]head\nI want some-\n[G]one\nto share my c-\n[D/F#]offee, my sun-\nscreen My mor-\n[Em7]nings, my\nstories, and my\n[Cadd9]bed\nSomeone\n\n[Chorus]\n[Dadd11/A]stubborn,\n[Em7]selfish,\n[Cadd9]and easily jea-\n[Dadd11/A]lous would be fine\n[Am7]\nI won't\n[Em7]mind\nif they're hard to\n[Cadd9]love\nI just want some-\n[Dadd11]one\nTo try",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x0201x",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x3203x"
+      ],
+      "catalogCount": 1
+    },
+    "D/F#": {
+      "catalog": [
+        "200232"
+      ],
+      "catalogCount": 1
+    },
+    "Dadd11": {
+      "catalog": [
+        "x5403x"
+      ],
+      "catalogCount": 1
+    },
+    "Dadd11/A": {
+      "catalog": [
+        "x00032"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "0x000x",
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sunscreen",
+  "id": "64783bf4ab79b0a1f1b36a96f7637846b1ba25e075eaa68c4a759b5bb68c3f99",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 217,
+  "normalizedKey": "ira wolf|sunscreen",
+  "playableChords": [
+    "G",
+    "Am7",
+    "Em7",
+    "Cadd9",
+    "Dadd11/A",
+    "Dadd11",
+    "A7",
+    "D/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus 2"
+    },
+    {
+      "measure": 61,
+      "name": "Bridge"
+    },
+    {
+      "measure": 71,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 87,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "64783bf4ab79b0a1f1b36a96f7637846b1ba25e075eaa68c4a759b5bb68c3f99",
+    "version": "BCFZ"
+  },
+  "tempo": 136,
+  "title": "Sunscreen",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

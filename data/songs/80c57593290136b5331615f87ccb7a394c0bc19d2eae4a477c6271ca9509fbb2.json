@@ -1,0 +1,125 @@
+{
+  "artist": "Jack Johnson",
+  "artistNormalized": "jack johnson",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[A]\n\n[Verse 1]\n[A]A billion people died on the news\n[Bm]tonight\n[A]But not so many cried at the ter-\n[Bm]rible sight Well mama said\n[A]It's just make believe\n[C#m]You can't believe everything you see So\n[Bm]baby close your eyes to the lullabies\n[D]On [Dm]the news\n[A]tonight\n[Bm]\n\n[Verse 2]\n[A]Who's the one to decide that it would be\n[Bm]alright\n[A]To put the music behind the news\n[Bm]tonight Well mama said\n[A]You can't believe everything you hear\n[C#m]The diagetic world is so unclear\n[Bm]So baby close your ears\n[D][C#m]On the news tonight\n[Bm]On the news tonight\n[F#m]The\n[Bm]unobtrusive tones on the news tonight\n[F#m]And mama said\n[A]Mmm\n[E]\n\n[Verse 3]\n[A]Why don't the newscasters cry when they read about\n[Bm]people who die At\n[A]least they could be decent enough to put just a\n[Bm]tear in their eyes Mama said\n[A]It's just make believe\n[C#m]You can't believe everything you see So\n[Bm]baby close your eyes to the lullabies\n[D][Dm]On the news\n[A]tonight\n[Bm]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The News *alt 2",
+  "id": "80c57593290136b5331615f87ccb7a394c0bc19d2eae4a477c6271ca9509fbb2",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 201,
+  "normalizedKey": "jack johnson|the news",
+  "playableChords": [
+    "A",
+    "Bm",
+    "C#m",
+    "D",
+    "Dm",
+    "F#m",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "80c57593290136b5331615f87ccb7a394c0bc19d2eae4a477c6271ca9509fbb2",
+    "version": "BCFZ"
+  },
+  "tempo": 62,
+  "title": "The News",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

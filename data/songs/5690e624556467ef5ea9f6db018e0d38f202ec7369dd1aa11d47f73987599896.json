@@ -1,0 +1,130 @@
+{
+  "artist": "Hozier",
+  "artistNormalized": "hozier",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\n[Dm]\n[C]\n[Dm]\n[C]\n[G]\n[C]\n\n[Verse 1]\n[C]I couldn't\nutter my\nlove when it\ncounted\nAh, but I'm\nsinging like a\n[F]bird, 'bout it\n[C]now\nI couldn't\nwhisper when\nyou needed it\n[Dm]shouted\nAh, but I'm\nsinging like a\n[F]bird, 'bout it\n[C]now\n\n[Chorus]\n[Am]Words hung above\n[G6/B]\nBut\n[C]never would\n[F]form\nLike a\n[Am]cry at the\n[G]final\n[C]breath that is\n[Am]drawn\nRe-\nmember me love,\n[G6/B]\nwhen\n[C]I'm re-\n[F]born\nAs the\n[Am]shrike to your\n[G]sharp\nand\nglorious\n\n[Interlude 1]\n[C]thorn\n[Dm]\n[Am]\n[G]\n[C]\nAnd I\n\n[Verse 2]\n[C]had no i-\ndea on what\nground I was\n[Dm]found in\nAll of that\ngoodness is\n[F]goin' with you\n[C]now\nThen when I\nmet you my\nvirtues un-\n[Dm]counted\nAll of that\ngoodness is\n[F]goin' with you\n[C]now\n\n[Chorus]\n[Am]Driving a-\n[G6/B]lone,\n[C]following your\n[F]form\n[Am]Hung like the\n[G]pelt\nof some\n[C]prey you had\n[Am]worn\nRe-\nmember me love,\n[G6/B]\nwhen\n[C]I'm re-\n[F]born\nAs the\n[Am]shrike to your\n[G]sharp\nand\nglorious\n\n[Interlude 2]\n[C]thorn\n[Dm]\n[F]\n[C]\n[Dm]\n[Am]\n[G]\n[C]\nI\n\n[Verse 3]\n[C]fled to the\ncity with\nso much discoun-\n[Dm]ted\nAh, but I'm\nflying like a\n[F]bird to you\n[C]now\nBack to the hed-\ngerows where\nbodies are\n[Dm]mounted\nAh, but I'm\nflying like a\n[F]bird to you\n[C]now\nI was\n\n[Chorus]\n[Am]hatched by your\n[G6/B]warmth\nAnd\n[C]I was trans-\n[F]formed\nBut you're\n[Am]grounded and\n[G]giving\nAnd\n[C]darkening\n[Am]scorn\nRe-\nmember me love,\n[G6/B]\nwhen\n[C]I'm re-\n[F]born\nAs the\n[Am]shrike to your\n[G]sharp\nand\nglorious\n[C]thorn",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "xx321x",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G6/B": {
+      "catalog": [
+        "x20000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Shrike",
+  "id": "5690e624556467ef5ea9f6db018e0d38f202ec7369dd1aa11d47f73987599896",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 260,
+  "normalizedKey": "hozier|shrike",
+  "playableChords": [
+    "C",
+    "Dm",
+    "G",
+    "F",
+    "Am",
+    "G6/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 88,
+      "name": "Interlude 1"
+    },
+    {
+      "measure": 103,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 131,
+      "name": "Chorus"
+    },
+    {
+      "measure": 159,
+      "name": "Interlude 2"
+    },
+    {
+      "measure": 189,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 217,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5690e624556467ef5ea9f6db018e0d38f202ec7369dd1aa11d47f73987599896",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Shrike",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

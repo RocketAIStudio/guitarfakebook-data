@@ -1,0 +1,119 @@
+{
+  "artist": "Hoobastank",
+  "artistNormalized": "hoobastank",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\n\n[Verse 1]\n[E]I'm\nnot a perfect p-\n[C#m]erson There's\nmany thing I wish I didn't d-\n[E]o But\nI continue le-\n[C#m]arning I\nnever meant to do those things to yo-\n[A]u And\nso I have to say before I g-\n[B]o\nThat I just want you to kn-\n\n[Chorus]\n[E]ow I've\nfound a reason for m-\n[C#m]e To\nchange who I used to b-\n[A]e A\nreason to start over\n[B]new\nAnd the reason is\n\n[Verse 2]\n[E]you I'm\nsorry that I hu-\n[C#m]rt you It's\nsomething I must live with everyda-\n[E]y And\nall the pain I put yo-\n[C#m]u through I\nwish that I could take it all a-\n[A]way And\nbe the one who catches all your t-\n[B]ears\nThat's why I need you to he-\n\n[Chorus]\n[E]ar I've\nfound a reason for m-\n[C#m]e To\nchange who I used to b-\n[A]e A\nreason to start over\n[B]new\nAnd the reason is\n\n[Bridge]\n[D]you\nAnd the reason is\n[E]you\nAnd the reason is\n[D]you\nAnd the reason is\n[E]you\n\n[Verse 3]\n[E]I'm\nnot a perfect p-\nerson I\nnever meant to do those things to\n[A]you And\nso I have to say before I g-\n[B]o\nThat I just want you to kn-\n\n[Chorus - Outro]\n[E]ow I've\nfound a reason for m-\n[C#m]e To\nchange who I used to b-\n[A]e A\nreason to start over\n[B]new\nAnd the reason is\n[E]you I've\nfound a reason to show\n[C#m]A\nside of me you didn't\n[A]know A\nreason for all that I\n[B]do\nAnd the reason is\n[E]you",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x22222",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x44444",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x6665x",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x77777",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "xx2102",
+        "x99999",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Reason",
+  "id": "a4d05ba31dab29d4cff97151b49aae8d5a0e01e77d56064048d86eb0a6bd3eb4",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 291,
+  "normalizedKey": "hoobastank|the reason",
+  "playableChords": [
+    "E",
+    "C#m",
+    "A",
+    "B",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus - Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a4d05ba31dab29d4cff97151b49aae8d5a0e01e77d56064048d86eb0a6bd3eb4",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "The Reason",
+  "tuning": "D G D G B D",
+  "variantRole": "primary"
+}

@@ -1,0 +1,124 @@
+{
+  "artist": "Iron & Wine",
+  "artistNormalized": "iron wine",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Emadd9]\n[Cmaj7]\n[Amadd11]\n[G/B]\n[G/C]\n[Emadd9]\n[Cmaj7]\n[Amadd11]\n[G/B]\n[G/C]\n\n[Verse 1]\n[Emadd9]\nSome days her\n[Cmaj7]shape in the\ndoorway Will\n[Amadd11]speak to me A\n[G/B]bird's wing on the\n[G/C]window\n[Emadd9]\nSometimes I'll\n[Cmaj7]hear when she's\nsleeping Her\n[Amadd11]fever dream A\n[G/B]language on her\n[G/C]face\n\n[Chorus]\n[Amadd11]\n\"I want your\n[D5]flo-\nwers like\n[Amadd11]babies\nwant\n[D5]God's\nlove Or\n[Amadd11]maybe\nas\n[D5]sure\nas to-\n[Amadd11]morrow\nwill\n[G]come\"\n[Cadd9]\n[G]\n\n[Solo]\n[Emadd9]\n[Cmaj7]\n[Amadd11]\n[G/B]\n[G/C]\n[Emadd9]\n[Cmaj7]\n[Amadd11]\n[G/B]\n[G/C]\n\n[Verse 2]\n[Emadd9]\nSome days, like\n[Cmaj7]rain on the\ndoorstep She'll\n[Amadd11]cover me With\n[G/B]grace in all she\n[G/C]offers\n[Emadd9]\nSometimes I'd\n[Cmaj7]like just to\nask her What\n[Amadd11]honest words She\n[G/B]can't afford to\n[G/C]say,\nlike\n\n[Chorus]\n[Amadd11]\"I want\nyour\n[D5]flo-\nwers like\n[Amadd11]babies\nwant\n[D5]God's\nlove Or\n[Amadd11]maybe\nas\n[D5]sure\nas to-\n[Amadd11]morrow\nwill\n[G]come\"\n[Cadd9]\n[G]\n\n[Outro]\n[Emadd9]\n[Cmaj7]\n[Amadd11]\n[G/B]\n[G/C]\n[Emadd9]\n[Cmaj7]\n[Amadd11]\n[G/B]\n[G/C]",
+  "diagrams": {
+    "Amadd11": {
+      "catalog": [
+        "x02210"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32010"
+      ],
+      "catalogCount": 1
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "Emadd9": {
+      "catalog": [
+        "022004"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320000",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20030"
+      ],
+      "catalogCount": 1
+    },
+    "G/C": {
+      "catalog": [
+        "x35000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Fever Dream",
+  "id": "b9623b7ac48e2acf7852ae744ef1935f4a3e10296f75c31816f1e5ea139448d6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 119,
+  "normalizedKey": "iron wine|fever dream",
+  "playableChords": [
+    "Emadd9",
+    "Cmaj7",
+    "Amadd11",
+    "G/B",
+    "G/C",
+    "D5",
+    "G",
+    "Cadd9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Solo"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 83,
+      "name": "Chorus"
+    },
+    {
+      "measure": 101,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b9623b7ac48e2acf7852ae744ef1935f4a3e10296f75c31816f1e5ea139448d6",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "Fever Dream",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

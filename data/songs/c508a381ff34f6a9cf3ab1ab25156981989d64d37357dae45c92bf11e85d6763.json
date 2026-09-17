@@ -1,0 +1,153 @@
+{
+  "artist": "Jethro Tull",
+  "artistNormalized": "jethro tull",
+  "capo": "No capo",
+  "chordPositionCount": 47,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\nSit ting on a park bench\n[Bb]eyeing little girlswith [C]bad intent hey\n[D]Aqualung\n\n[Verse]\n[Em]  [D]\n[D]\n[Am]  [A7sus2]  [Em]  [Em7]\n[Dsus4]",
+  "diagrams": {
+    "A7sus2": {
+      "catalog": [
+        "x02000"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x1333x",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x3555x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x5777x",
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus4": {
+      "catalog": [
+        "xx0233"
+      ],
+      "catalogCount": 1
+    },
+    "Eb": {
+      "catalog": [
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "020000",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12",
+        "x-19-21-19-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Aqualung",
+  "id": "c508a381ff34f6a9cf3ab1ab25156981989d64d37357dae45c92bf11e85d6763",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 13,
+  "normalizedKey": "jethro tull|aqualung",
+  "playableChords": [
+    "Db",
+    "Eb",
+    "F",
+    "Bb",
+    "C",
+    "D",
+    "Em",
+    "Am",
+    "A7sus2",
+    "Em7",
+    "Dsus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse"
+    }
+  ],
+  "source": {
+    "format": "gp4",
+    "sha256": "c508a381ff34f6a9cf3ab1ab25156981989d64d37357dae45c92bf11e85d6763",
+    "version": "FICHIER GUITAR PRO v4.06"
+  },
+  "tempo": 63,
+  "title": "Aqualung",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

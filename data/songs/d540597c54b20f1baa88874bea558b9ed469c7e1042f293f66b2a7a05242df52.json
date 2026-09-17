@@ -1,0 +1,131 @@
+{
+  "artist": "Journey",
+  "artistNormalized": "journey",
+  "capo": "No capo",
+  "chordPositionCount": 29,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[D7sus2]\n\n[Interlude]\n[Bm7]\n[Asus2]\n[A]\n[Asus2]\n[D/A]  [A]\n[D/A]  [A]\n\n[Solo]\n[E]\n[B]\n[E]\n[B]\n[E]\n[B]\n[A]Aaah\n[E/G#]Aaah\n[F#m7]\n[E/G#]\n[A]Aaah\n[E/G#]Aaah\n[F#m7]\n[E/G#]\n[A]Aaah\n[E/G#]Aaah\n[F#m7]\n\n[Outro]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x20202",
+        "x-2-4-2-3-2",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x0423x"
+      ],
+      "catalogCount": 1
+    },
+    "D7sus2": {
+      "catalog": [
+        "x57555"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E/G#": {
+      "catalog": [
+        "476454"
+      ],
+      "catalogCount": 1
+    },
+    "F#m7": {
+      "catalog": [
+        "242222",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14",
+        "x-21-23-21-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Majestic",
+  "id": "d540597c54b20f1baa88874bea558b9ed469c7e1042f293f66b2a7a05242df52",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 6,
+  "normalizedKey": "journey|majestic",
+  "playableChords": [
+    "D7sus2",
+    "Bm7",
+    "Asus2",
+    "A",
+    "D/A",
+    "E",
+    "B",
+    "E/G#",
+    "F#m7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Interlude"
+    },
+    {
+      "measure": 23,
+      "name": "Solo"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d540597c54b20f1baa88874bea558b9ed469c7e1042f293f66b2a7a05242df52",
+    "version": "BCFZ"
+  },
+  "tempo": 142,
+  "title": "Majestic",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

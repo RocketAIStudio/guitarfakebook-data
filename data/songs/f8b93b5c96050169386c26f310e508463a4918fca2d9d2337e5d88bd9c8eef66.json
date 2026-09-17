@@ -1,0 +1,111 @@
+{
+  "artist": "Jack Johnson",
+  "artistNormalized": "jack johnson",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n[Fsus2]\n[Fadd9]\n[Gadd11]\n[C]\n[Fsus2]\n[Fadd9]\n[Gadd11]\n[C]\n[Fsus2]\n[Fadd9]\n[Gadd11]\n[C]\n[Fsus2]\n[Fadd9]\n[Gadd11]\n\n[Verse 1]\n[C]And I will\n[Fsus2]wait here a whi-\n[Fadd9]le\n[Gadd11]Just long enough to be\n[C]\n[Fsus2]Sure that yo-\n[Fadd9]u\n[Gadd11]Didn't make a wrong turn\n\n[Verse 2]\n[C]And I\n[Fsus2]wait long eno-\n[Fadd9]ugh\n[Gadd11]Maybe an hour or two\n[C]Be-\n[Fsus2]fore I deci-\n[Fadd9]de It\n[Gadd11]wasn't me it was\n\n[Chorus]\n[C]you\n[Fsus2]\n[Fadd9]It\n[Gadd11]wasn't me it was\n[C]you\n[Fsus2]\n[Fadd9]\n[Gadd11]\n\n[Verse 3]\n[C]And I would\n[Fsus2]like you to know\n[Fadd9]Al-\n[Gadd11]though it seems sad to say\n[C]This was\n[Fsus2]only the worst\n[Fadd9]\n[Gadd11]Hour of my\n\n[Chorus]\n[C]day\n[Fsus2]\n[Fadd9]The worst\n[Gadd11]hour of my\n[C]day\n[Fsus2]\n[Fadd9]\n[Gadd11]\n\n[Bridge]\n[F]\nHow long has it been on your mind\n[Gadd11]\n[F]And do you\nthink about it when we laugh\n[Gadd11]\n[F]I\nthink that it's a big mista-\n[Gadd11]ke\n[F]Cuz I\nthink that we could make it last\n[Gadd11]\nEven if it's just for a whi-\n\n[Verse 4]\n[C]le And\n[Fsus2]I will wait here for\n[Fadd9]now\n[Gadd11]Just long enough to be\n[C]\n[Fsus2]Sure that yo-\n[Fadd9]u\n[Gadd11]Really wanna go thro-\n\n[Chorus]\n[C]ugh with it\n[Fsus2]\n[Fadd9]Cuz I don't\n[Gadd11]really wanna go thro-\n[C]ugh with it\n[Fsus2]\n[Fadd9]Do you\n[Gadd11]really wanna go thro-\n[C]ugh with it?\n[Fsus2]\n[Fadd9]\n[Gadd11]\n[C]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "10321x",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "Fadd9": {
+      "catalog": [
+        "10301x"
+      ],
+      "catalogCount": 1
+    },
+    "Fsus2": {
+      "catalog": [
+        "xx301x"
+      ],
+      "catalogCount": 1
+    },
+    "Gadd11": {
+      "catalog": [
+        "32001x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wrong Turn",
+  "id": "f8b93b5c96050169386c26f310e508463a4918fca2d9d2337e5d88bd9c8eef66",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 189,
+  "normalizedKey": "jack johnson|wrong turn",
+  "playableChords": [
+    "C",
+    "Fsus2",
+    "Fadd9",
+    "Gadd11",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 81,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f8b93b5c96050169386c26f310e508463a4918fca2d9d2337e5d88bd9c8eef66",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Wrong Turn",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,130 @@
+{
+  "artist": "Jimi Hendrix",
+  "artistNormalized": "jimi hendrix",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]Alright\nNow dig this baby\nYou don't\n\n[Verse 1]\n[D]care for me I don't\ncare about that You\ngot a new fool ha! I\nlike it like that\nI have only one\nburnin' desire\nLet me stand next to your\nfire\n\n[Chorus]\n[D]Let me stand next to [Cadd9]your\nfire\nLet me [D]stand next to [Cadd9]your\nfire\n[D]Let me stand next to [Cadd9]your\nfire\n[D]Let me stand next to [Cadd9]your\nfire\n[D]Listen here baby\nAnd stop actin' so crazy\nYou say your\n\n[Verse 2]\n[D]mama isn't home It ain't\nmy concern Just\nplay with me and you\nwon't get burned\nI have only one\nitchin' desire\nLet me stand next to your\nfire\n\n[Chorus]\n[D]Let me stand next to [Cadd9]your\nfire\n[D]Let me stand next to [Cadd9]your\nfire\n[D]Let me stand next to [Dadd9]your\nfire\n[D]Let me stand next to [Cadd9]your\nfire Yeah,\n\n[Bridge]\n[D]Ah move over\nRover\n[Cadd9]And let Jimi take\nover\n[A]Yeah you know what I'm\ntalkin' about\n[C]Yeah\nget on with it baby\n\n[Solo]\n[E]\nThat's what I'm talkin' about\nNow dig this\n[D]Ha\nNow listen\nbaby You try to\n\n[Verse 3]\n[D]give me your money You better\nsave it babe\nSave it for your\nrainy day\nI have only one\nburnin' desire\nLet me stand next to your\nfire\n\n[Chorus]\n[D]Let me stand next to [Cadd9]your\nfire\n[D]Let me stand next to [Cadd9]your\nfire\n[D]Let me stand next to [Cadd9]your\nfire\n[D]Let me stand next to [Cadd9]your\nfire\n\n[Outro]\n[E]\n[D]\n[E]\n[D]\n[E]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x-x-10-9-8-10"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "10-12-12-11-10-10",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dadd9": {
+      "catalog": [
+        "x-x-12-11-10-12"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "12-14-14-13-12-12",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Fire *alt 2",
+  "id": "067a8ff1d553d526eee29405adc1c20fd7287a23fc6b0b8453c50ed5cc28dc0f",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 259,
+  "normalizedKey": "jimi hendrix|fire",
+  "playableChords": [
+    "D",
+    "Cadd9",
+    "Dadd9",
+    "A",
+    "C",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Bridge"
+    },
+    {
+      "measure": 54,
+      "name": "Solo"
+    },
+    {
+      "measure": 70,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 78,
+      "name": "Chorus"
+    },
+    {
+      "measure": 86,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "067a8ff1d553d526eee29405adc1c20fd7287a23fc6b0b8453c50ed5cc28dc0f",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Fire",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

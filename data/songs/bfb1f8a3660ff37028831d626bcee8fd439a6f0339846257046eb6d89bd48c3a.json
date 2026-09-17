@@ -1,0 +1,104 @@
+{
+  "artist": "Joan Baez",
+  "artistNormalized": "joan baez",
+  "capo": "3",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\n[Em]\n[Dm]\n[Em]\n[C]\n[Em]\n[Dm]\n[Em]\n[C]\n[Em]\n[Dm]\n[Em]\n[C]\nI\n\n[Verse 1]\n[C]once\nloved a\n[Em]boy,\nand the\n[Dm]bold\nbrownhaired\n[G]boy\nI would\n[C]come\nand would\n[Dm]go\n[Em]at his requ-\n[C]est;\n[Em]\n[Dm]\n[Em]And this\n\n[Verse 2]\n[C]bold\nbonny\n[Em]boy\nwas my\n[Dm]pride\nand my\n[G]joy\nAnd I\n[C]built\nhim a\n[Dm]bower\n[Em]in my\n[C]breast.\n[Em]\n[Dm]\n[Em]\n\n[Interlude]\n[C]\n[Em]\n[Dm]\n[Em]\n[C]\nAnd this\n\n[Verse 3]\n[C]girl\nwho has\n[Em]taken\nmy\n[Dm]bold,\nbonny\n[G]love,\nMay she\n[C]make\nof it\n[Dm]all\n[Em]that she\n[C]can;\n[Em]\n[Dm]\n[Em]For\n\n[Verse 4]\n[C]whe\nther he\n[Em]loves me\nor loves\n[Dm]me\n[G]not,\nI will\n[C]walk\nwith my\n[Dm]love\n[Em]now and\n[C]then.\n[Em]\n[Dm]\n[Em]\n\n[Outro]\n[C]\n[Em]\n[Dm]\n[G]\n[C]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Once Loved A Boy",
+  "id": "bfb1f8a3660ff37028831d626bcee8fd439a6f0339846257046eb6d89bd48c3a",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 81,
+  "normalizedKey": "joan baez|i once loved a boy",
+  "playableChords": [
+    "C",
+    "Em",
+    "Dm",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 48,
+      "name": "Interlude"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 71,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 87,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bfb1f8a3660ff37028831d626bcee8fd439a6f0339846257046eb6d89bd48c3a",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "I Once Loved A Boy",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

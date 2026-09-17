@@ -1,0 +1,121 @@
+{
+  "artist": "James Blunt",
+  "artistNormalized": "james blunt",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G]\n[Dsus4/F#]\n[Em7]\n[Csus2]\n[G]\n[Dsus4/F#]\n[Em7]\n[Csus2]\n[G]My life is brilliant.\n[Dsus4/F#]\n[Em7]\n[Csus2]\n\n[Verse1]\n[G]My life is brilliant.\n[Dsus4/F#]My love is pure.\n[Em7]I saw an angel.\n[Csus2]Of that I'm sure. She smiled\n[G]at me on the subway. She was\n[Dsus4/F#]with another man. But\n[Em7]I won't lose no sleep on that, 'Cause\n[Csus2]I've got a plan.\n\n[Chorus]\n[Csus2]You're [Dadd11]beautiful.\n[G]You're beautiful.\n[Csus2]You're [Dadd11]beautiful, it's true.\n[G]I saw\n[Csus2]your face [Dadd11]in a\n[G]crowded [G/F#]place, [Em7]And I\n[Csus2]don't know what [Dadd11]to do,\n[Em7]'Cause I'll\n[Csus2]never be [Dadd11]with you.\n\n[Bridge]\n[G]\n[Dsus4/F#]\n[Em7]\n[Csus2]Yeah, she caught\n\n[Verse 2]\n[G]my eye, As we\n[Dsus4/F#]walked on by. She could\n[Em7]see from my face that I was,\n[Csus2]Fucking high, And I\n[G]don't think that I'll\n[Dsus4/F#]see her again, But\n[Em7]we shared a moment that will last\n[Csus2]till the end.\n\n[Chorus]\n[Csus2]You're [Dadd11]beautiful.\n[G]You're beautiful.\n[Csus2]You're [Dadd11]beautiful, it's true.\n[G]I saw\n[Csus2]your face [Dadd11]in a\n[G]crowded [G/F#]place, [Em7]And I\n[Csus2]don't know what [Dadd11]to do,\n[Em7]'Cause I'll\n[Csus2]never be [Dadd11]with you.\n[G]\n\n[Bridge]\n[Csus2]Na na na [Em7]na\n[Csus2]Na na na [Em7]na\n[Csus2]Na na na [Em7]na N-\n[Dadd9]a\n\n[Chorus]\n[Csus2]You're [Dadd11]beautiful.\n[G]You're beautiful.\n[Csus2]You're [Dadd11]beautiful, it's true.\n[G]There must\n[Csus2]be an [Dadd11]angel with a\n[G]smile on [G/F#]her face, [Em7]When she\n[Csus2]thought up that I should be with you. [Dadd11]\n[G]  [G/F#]  [Em7]\nBut it's\n[Csus2]time to face [Dadd11]the truth,\n[Em7]I will\n[Csus2]never be [Dadd11]with you.\n[G]",
+  "diagrams": {
+    "Csus2": {
+      "catalog": [
+        "x30033"
+      ],
+      "catalogCount": 1
+    },
+    "Dadd11": {
+      "catalog": [
+        "x5403x"
+      ],
+      "catalogCount": 1
+    },
+    "Dadd9": {
+      "catalog": [
+        "x54xx0"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus4/F#": {
+      "catalog": [
+        "200233"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "020033",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/F#": {
+      "catalog": [
+        "220033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You Are Beautiful",
+  "id": "ff04ea6f9f53ba4af92ad724f184576118b09c5b3c1262c1c690f35291494fb6",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 251,
+  "normalizedKey": "james blunt|you are beautiful",
+  "playableChords": [
+    "G",
+    "Dsus4/F#",
+    "Em7",
+    "Csus2",
+    "Dadd11",
+    "G/F#",
+    "Dadd9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Bridge"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Bridge"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ff04ea6f9f53ba4af92ad724f184576118b09c5b3c1262c1c690f35291494fb6",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "You Are Beautiful",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

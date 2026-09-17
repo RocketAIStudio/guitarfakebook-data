@@ -1,0 +1,130 @@
+{
+  "artist": "Keane",
+  "artistNormalized": "keane",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\nA\n\n[Verse 1]\n[A]pint set on the piano\nBy the open window\nYour\n[E]arm around my shoulder\nOne\n[Dsus2]song after another\n[A]A\n\n[Verse 2]\n[A]church to praise the good times\nAnd\nshelter from the bad times\nAnd\n[E]when our run came to an end\nFelt\n[D]like I'd lost my best friend\n[A]For a\n\n[Chorus]\n[A]moment I was dreaming\n[E]\n[Dsus2]We were just beginning\n[A]Thought,\n[D]\"Finally I've come home\n[A]\n[Dsus2]Finally I've come home\"\n[A]\n\n[Bridge]\n[A]\n\n[Verse 3]\n[A]Officer, let me explain\nI\nlost something I love today\nYeah,\n[E]I know what it looks like\nA\n[Dsus2]rich kid with a good life\n[A]Now\n\n[Verse 4]\n[A]I know you're too young to\nHave\ndone things you can't undo\nTo\n[E]rake over your dreams And\nknow\n[D]this is what they've come to\n[A]I\n\n[Interlude]\n[A]woke up in a strange room\n[E]\n[Dsus2]Time to start again now\n[A]No one to\n[D]help you find a way through\n[A]You're just\n[Dsus2]meant to guess it somehow\n[E]Well, for a\n\n[Chorus]\n[A]moment I was dreaming\n[E]\n[Dsus2]We were just beginning\n[F#m]Thought,\n[D]\"Finally I've come home\n[A/G#]\n[Dsus2]Finally I've come home\"\n[A]\n\n[Outro]\n[A]\n[E]\n[F#m]\n[Dsus2]\n[A]\n[E]\n[A]\n[D]\n[A]\n[E]\n[Dsus2]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A/G#": {
+      "catalog": [
+        "4422xx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Strange Room",
+  "id": "62596579ca86fb09f5ffa3ccdc9dd18c93a473f91fed145f5dd65ae2ea73f830",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 197,
+  "normalizedKey": "keane|strange room",
+  "playableChords": [
+    "A",
+    "E",
+    "Dsus2",
+    "D",
+    "F#m",
+    "A/G#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "62596579ca86fb09f5ffa3ccdc9dd18c93a473f91fed145f5dd65ae2ea73f830",
+    "version": "BCFZ"
+  },
+  "tempo": 74,
+  "title": "Strange Room",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

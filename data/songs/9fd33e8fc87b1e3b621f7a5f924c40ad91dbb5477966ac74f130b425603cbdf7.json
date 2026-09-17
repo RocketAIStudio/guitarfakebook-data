@@ -1,0 +1,128 @@
+{
+  "artist": "Juice WRLD",
+  "artistNormalized": "juice wrld",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[G#m][F#]Uh, I don't wanna try bruh\n[E]  [G#m]  [F#]\n[E]  [G#m]  [F#]\n[E]  [D#m]\n[G#m]  [F#]\n[E]  [G#m]  [F#]\n[E]  [G#m]  [F#]\n[E]  [D#m]\n\n[Verse]\n[G#m][F#]Uh, acidic, a bunch of bad habits with\n[E]bad magic Can't disappear and [G#m]re-appear in the same [F#]sentence, I'm bad at it\n[E]The Mad Hatter, the Perc packer The mom [G#m]thrasher The Perc mixed with the [F#]syrup turn me into a contractor\n[E]A straight tweak, so high I can't speak Been [D#m]three weeks, I still haven't met my peak\n[G#m][F#]Like I could be someone other than myself\n[E]Like I could find a little Heaven up in my [G#m]Hell Yeah I know it never [F#]ever end well Yeah I know I\n[E]always fall victim to a rich spell [G#m]Uh, [F#]like abracadabra The\n[E]flow so raw, forgot to grab Magnums [D#m]Been raw-doggin' bitches ever since I went platinum\n[G#m]I feel like Hell full of bad [F#]bitches Wonder if it's room in Heaven for savages\n[E]My life's a canvas, I'm paintin' in blood like [G#m]a cannibal Rip off [F#]his head and I salvage it,\n[E]huh A little too [G#m]graphic At least you [F#]niggas know that I still got the passion Of\n[E]someone who don't got shit, but the [D#m]clothes on they back And its been that way since way back since\n[G#m][F#]Like I'm a killer or somethin' These niggas\n[E]lip-singin' like Milli Vanilli or somethin' I'm [G#m]like Lil' Wayne I got a [F#]milli-milli-milli or somethin' I guess,\n[E]I'm rich, in [G#m]broke [F#]pockets Bountiful,\n[E]my soul's [D#m]empty, so deep, ten feet\n\n[Outro 1]\n[Bm][A]Times ten feet\n[G][Bm]Fuck [A]love, it's gon' take more to convince me,\n[Bm]that you with me [A]And not against me\n[G]Where I'm from we loaded up Pop [Bm]out and turn [A]niggas into mince meat\n\n[Outro 2]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "x68876"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "10 Feet",
+  "id": "9fd33e8fc87b1e3b621f7a5f924c40ad91dbb5477966ac74f130b425603cbdf7",
+  "key": "G♯",
+  "keyIdentified": true,
+  "lyricEventCount": 344,
+  "normalizedKey": "juice wrld|10 feet",
+  "playableChords": [
+    "G#m",
+    "F#",
+    "E",
+    "D#m",
+    "Bm",
+    "A",
+    "G",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 25,
+      "name": "Outro 1"
+    },
+    {
+      "measure": 29,
+      "name": "Outro 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9fd33e8fc87b1e3b621f7a5f924c40ad91dbb5477966ac74f130b425603cbdf7",
+    "version": "BCFZ"
+  },
+  "tempo": 51,
+  "title": "10 Feet",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

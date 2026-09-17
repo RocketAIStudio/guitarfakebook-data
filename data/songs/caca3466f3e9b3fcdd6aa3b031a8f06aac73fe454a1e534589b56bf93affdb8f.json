@@ -1,0 +1,81 @@
+{
+  "artist": "Janis Joplin",
+  "artistNormalized": "janis joplin",
+  "capo": "3",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "Oh\n\n[Verse 1]\n[C]Lord, won't you buy me a\n[F]Mercedes [C]Benz My\nfriends all drive Porsches, I\nmust make [G]amends Worked\n[C]hard all my lifetime, no\n[F]help from my [C]friends So\nLord, won't you buy me a\n[G]Mercedes [C]Benz Oh\n\n[Verse 2]\n[C]Lord, won't you buy me a\n[F]color [C]TV\nDialing For Dollars is\ntrying to find [G]me I\n[C]wait for delivery each\n[F]day until [C]three So oh\nLord, won't you buy me a\n[G]color [C]TV Oh\n\n[Verse 3]\n[C]Lord, won't you buy me a\n[F]night on the town [C]I'm\ncounting on you, Lord,\nplease don't let me down [G]\n[C]Prove that you love me and\n[F]buy the next [C]round Oh\nLord, won't you buy me a\n[G]night on the town [C]Everybody Oh\n\n[Verse 4]\n[C]Lord, won't you buy me a\n[F]Mercedes [C]Benz My\nfriends all drive Porsches, I\nmust make [G]amends Worked\n[C]hard all my lifetime, no\n[F]help from my [C]friends So\nLord, won't you buy me a\n[G]Mercedes [C]Benz",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mercedes Benz",
+  "id": "caca3466f3e9b3fcdd6aa3b031a8f06aac73fe454a1e534589b56bf93affdb8f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 181,
+  "normalizedKey": "janis joplin|mercedes benz",
+  "playableChords": [
+    "C",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "caca3466f3e9b3fcdd6aa3b031a8f06aac73fe454a1e534589b56bf93affdb8f",
+    "version": "BCFZ"
+  },
+  "tempo": 84,
+  "title": "Mercedes Benz",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

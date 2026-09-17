@@ -1,0 +1,112 @@
+{
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnny cash",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\nI found\n\n[Verse 1]\n[A]him by the rail-\n[E]road track this mor-\n[A]ning\nI could see that he\n[E]was nearly\n[A]dead\n[D]I knelt down beside\nhim and I\n[A]listened\nJust to\n[B7]hear the words\nthe dying fellow said\n[E]\nHe said they\n\n[Verse 2]\n[A]let me out of pri-\n[E]son out in Fris-\n[A]co\nFor\nten long years I've\n[E]paid for what I've done\n[A]\nI was try-\n[D]ing to get back\nto Louisia-\n[A]na\nTo\n[E]see my Rose\nand get to know my son\n[A]\n\n[Chorus]\n[D]Give my love to Rose\nplease, won't you\n[A]mister?\n[E]Take her all my\nmoney, tell her\n[A]buy some pretty clothes\n[D]Tell my boy that\ndaddy's so proud\n[A]of him\nAnd\n[E]don't forget to\ngive my love to\n[A]Rose\n\n[Break]\n[A]\nWon't you\n\n[Verse 3]\n[A]tell them I said thanks\n[E]for waiting for\n[A]me\nTell my boy to\n[E]help his mom\n[A]at home\n[D]Tell my Rose to\ntry to find a-\n[A]nother\nCause\n[B7]it ain't right that\nshe should live alone\n[E]\n\n[Verse 4]\n[A]Mister here's a bag\n[E]with all my\n[A]money\nIt won't last them\n[E]long the way it goes\n[A]\n[D]God bless you for fin-\nding me this mor-\n[A]ning\nNow\n[E]don't forget to\ngive my love to Rose\n[A]\n\n[Chorus]\n[D]Give my love to Rose\nplease, won't you\n[A]mister?\n[E]Take her all my\nmoney, tell her\n[A]buy some pretty clothes\n[D]Tell my boy that\ndaddy's so proud\n[A]of him\nAnd\n\n[Outro]\n[E]don't forget to\ngive my love\nto\n[A]Rose",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Give My Love To Rose",
+  "id": "2f2ff6c7ec7b991da16232cde0b9cfff8481e8b6c6dbbf33b3ec8c08ab6a2bed",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 251,
+  "normalizedKey": "johnny cash|give my love to rose",
+  "playableChords": [
+    "A",
+    "E",
+    "D",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Break"
+    },
+    {
+      "measure": 62,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 78,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 94,
+      "name": "Chorus"
+    },
+    {
+      "measure": 106,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2f2ff6c7ec7b991da16232cde0b9cfff8481e8b6c6dbbf33b3ec8c08ab6a2bed",
+    "version": "BCFZ"
+  },
+  "tempo": 66,
+  "title": "Give My Love To Rose",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

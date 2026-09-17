@@ -1,0 +1,123 @@
+{
+  "artist": "Interpol",
+  "artistNormalized": "interpol",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\n\n[Verse 1]\n[Am]Come and see me and may\nbe you'll die\nBut I can keep you in art\nwork, the fluid kind\n[Dm]That's enough for excite\nments today\nProstrated faded, it's\npay to play\n[Am]Come and see me yeah, may\nbe you'll try\nI've been holding these py\nros till they could fly\n[Dm]Open up and enligh\nten again\nEnjoy the skyline, it's an\nincremental end\n\n[Chorus]\n[Am]Walk in on your own\n[G]feet Says\n[C]the [Dsus2]rover\n[Am]It's my way or they all\n[G]leave Says\n[C]the [Dsus2]rover\n\n[Intrelude]\n[Am]\n[G]\n[C]The [Dsus2]rover\n\n[Verse 2]\n[Am]Ça suffit, hell yeah, may\nbe it's time\nYou can't stick to the high\nways, it's suicide\n[Dm]I'm welling up with excite\nments again\nThe apex resolves, you need to\ntell your friends\n\n[Chorus]\n[Am]Walk in on your own\n[G]feet Says\n[G]leave Says\n[C]the [Dsus2]rover\n[Am]\n[G]\n[C]The [Dsus2]rover\n[Am]\n[G]\n[C]The [Dsus2]rover\n\n[Intrelude]\n[Am]\n[G]\n[C]  [Dsus2]\n\n[Verse 3]\n[Am]Come and see me, yeah ba\nby, let's cry\nSatin face in\nsome worlds we’d be too kind\n[Dm]Nature’s subjected to\nfires again\nFalling for my in\ndependence\n\n[Chorus]\n[Am]Walk in on your own\n[G]feet Says\n[C]the [Dsus2]rover\n[Am]It's my way or they all\n[G]leave Says\n[C]the [Dsus2]rover\n[Am]Said hop in,\n[G]all in\n[C]The [Dsus2]rover\n[Am]Hop in,\n[G]all in\n[C]The [Dsus2]rover\n\n[Outro]\n[Am]\n[G]\n[C]The [Dsus2]rover\n[Am]All in,\n[G]all in\n[C]The [Dsus2]rover\n[Am]He barely has to\n[G]seek repentants\n[C]  [Dsus2]\n[Am]\n[G]\n[C]  [Dsus2]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "000230"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "5554xx",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Rover",
+  "id": "0ae547d325614fd128f98b6fbf8b133eba010ae5f856b3032a9bbbdc16d591b3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 260,
+  "normalizedKey": "interpol|the rover",
+  "playableChords": [
+    "Am",
+    "Dm",
+    "G",
+    "C",
+    "Dsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 56,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0ae547d325614fd128f98b6fbf8b133eba010ae5f856b3032a9bbbdc16d591b3",
+    "version": "BCFZ"
+  },
+  "tempo": 99,
+  "title": "The Rover",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

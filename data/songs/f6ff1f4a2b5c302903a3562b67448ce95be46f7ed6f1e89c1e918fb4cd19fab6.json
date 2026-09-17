@@ -1,0 +1,125 @@
+{
+  "artist": "John Lennon",
+  "artistNormalized": "john lennon",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E]\n[F#m7]\n\n[Verse 1]\n[E]Hold on John,\nJohn Hold on It's gonna\n[F#m7]be al right\nYou gonna win\n[G#m7]the fight\n[A13]  [B13]\n\n[Verse 2]\n[E]Hold on Yo ko,\nYoko hold on It's gonna\n[F#m7]be al right\nYou gonna make\n[G#m7]the flight\n[A13][B13]When you'r\n\n[Chorus]\n[Bm7]by [C#m7]yourself And there's\n[Bm7]noone [C#m7]else You just\n[Bm7]have [C#m7]yourself And you\n[Bm7]tell [C#m7]yourself Just to\n\n[Interlude]\n[E]hold on\n[F#m7]\n[G#m7]\n[A13]  [B13]\n\n[Verse 3]\n[E]Hold on world,\nworld hold on It's gonna\n[F#m7]be al right\nYou gonna see\n[G#m7]the light\n[A13][B13]Oh and,\n\n[Chorus]\n[Bm7]when you're [C#m7]one\n[Bm7]Really [C#m7]one Well, you\n[Bm7]get things [C#m7]done Like they've\n[Bm7]never been [C#m7]done So\n[E]hold on",
+  "diagrams": {
+    "A13": {
+      "catalog": [
+        "575675"
+      ],
+      "catalogCount": 1
+    },
+    "B13": {
+      "catalog": [
+        "797897"
+      ],
+      "catalogCount": 1
+    },
+    "Bm7": {
+      "catalog": [
+        "797777",
+        "x-2-4-2-3-2",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#m7": {
+      "catalog": [
+        "9-11-9-9-9-9",
+        "x-4-6-4-5-4",
+        "x-x-11-13-12-12",
+        "x-16-18-16-17-16",
+        "21-23-21-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "242222",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14",
+        "x-21-23-21-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#m7": {
+      "catalog": [
+        "464444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hold On",
+  "id": "f6ff1f4a2b5c302903a3562b67448ce95be46f7ed6f1e89c1e918fb4cd19fab6",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 106,
+  "normalizedKey": "john lennon|hold on",
+  "playableChords": [
+    "E",
+    "F#m7",
+    "G#m7",
+    "A13",
+    "B13",
+    "Bm7",
+    "C#m7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Interlude"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f6ff1f4a2b5c302903a3562b67448ce95be46f7ed6f1e89c1e918fb4cd19fab6",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "Hold On",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,115 @@
+{
+  "artist": "Joan Baez",
+  "artistNormalized": "joan baez",
+  "capo": "1",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n\n[Verse 1]\n[Em]The trees they grow high, [Am]The leaves\n[Em]they do grow [G]green\n[Bm]Many is the time my\n[Em]true love I've seen\n[C]Many an hour [Am]I've\n[Em]watched him all alone [G]He's\n[Bm]young, But he's [Am]daily growing\n[Em]\n\n[Verse 2]\n[Em]Father, dear [Am]father, You've\n[Em]done me great [G]wrong\n[Bm]You've married me to a\n[Em]boy who is too young\n[C]I'm twice [Am]twelve and\n[Em]he is but fourteen [G]He's\n[Bm]young, But he's [Am]daily growing\n[Em]\n\n[Verse 3]\n[Em]Daughter, dear [Am]daughter, I've\n[Em]done you no [G]wrong\n[Bm]I've married you to a\n[Em]great lord's son\n[C]He'll make a [Am]lord for\n[Em]you to wait upon [G]He's\n[Bm]young, But he's [Am]daily growing\n[Em]\n\n[Verse 4]\n[Em]Father, dear [Am]father, if\n[Em]you see [G]fit We'll\n[Bm]send him to college for\n[Em]one year yet I'll\n[C]tie blue [Am]ribbons\n[Em]all around his head [G]To\n[Bm]let the mai dens [Am]know that he's mar-\n[Em]ried\nOne\n\n[Verse 5]\n[Em]day I was [Am]looking o'er my\n[Em]father's castle [G]wall I\n[Bm]spied all the boys as\n[Em]playing with the ball My\n[C]own true [Am]love was the\n[Em]flower of them all [G]He's\n[Bm]young, but he's [Am]daily growing\n[Em]\nAt the age\n\n[Verse 6]\n[Em]of fourteen, [Am]he\n[Em]was a married [G]man At the\n[Bm]age of fifteen, the\n[Em]father of a son At the\n[C]age of sixteen, [Am]his\n[Em]grave it was green [G]And\n[Bm]death had put an end [Am]to his growing\n[Em]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Trees They Do Grow High",
+  "id": "e7f8acca04414681a086907f375b242a3f80d40b2889d7000420693c6e4e351b",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 236,
+  "normalizedKey": "joan baez|the trees they do grow high",
+  "playableChords": [
+    "Em",
+    "Am",
+    "G",
+    "Bm",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 60,
+      "name": "Verse 6"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e7f8acca04414681a086907f375b242a3f80d40b2889d7000420693c6e4e351b",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "The Trees They Do Grow High",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

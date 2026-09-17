@@ -1,0 +1,126 @@
+{
+  "artist": "Jack Johnson",
+  "artistNormalized": "jack johnson",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]  [E]\n[F#m]  [D]\n[A]  [E]\n[F#m]  [D]\n[A]  [E]\n[F#m]  [D]\n[A]  [E]\n[F#m]  [D]\n\n[Verse 1]\n[A]A brand new [E]baby was born\n[F#m]yesterday [D]Just in time\n[A]  [E]\n[F#m]  [D]\n[A]Papa [E]cried, baby cried\n[F#m]Said Your tears [D]are like\n[A]mine [E]\n[F#m]  [D]\n[A]I heard some [E]words From a friend\n[F#m]on the phone [D]didn't sound so\n[A]good [E]\n[F#m]  [D]\n[A]The doctor [E]gave him two\n[F#m]weeks to live [D]I'd give him more\n[E]if I could\n\n[Chorus]\n[A]  [D]\n[Bm]You [C#m]know that I would\n[A]now [D]\n[Bm]If [C#m]only I could\n[A]  [D]\n[Bm]You [C#m]know that I would\n[A]now [D]\n[Bm]If [C#m]only I could\n\n[Interlude]\n[A]  [E]\n[F#m]  [D]\n[A]  [E]\n[F#m]  [D]\n[A]  [E]\n[F#m]  [D]\n[A]  [E]\n[F#m]  [D]\n\n[Verse 2]\n[A]Down the [E]middle drops one\n[F#m]more [D]Grain of sand\n[A]  [E]\n[F#m][D]They say that\n[A]New life makes [E]losing life ea-\n[F#m]sier [D]to under-\n[A]stand [E]\n[F#m]  [D]\n[A]Words are kind [E]They helped ease\n[F#m]the mind I'll [D]miss my old\n[A]friend [E]\n[F#m][D]And though you\n[A]gotta go [E]We'll keep a\n[F#m]piece of your soul [D]One goes out\n[E]One comes in\n\n[Chorus]\n[A]  [D]\n[Bm]You [C#m]know that I would\n[A]now [D]\n[Bm]If [C#m]only I could\n[A]  [D]\n[Bm]You [C#m]know that I would\n[A]now [D]\n[Bm]If [C#m]only I could\n\n[Outro]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "If I Could",
+  "id": "018130da54ca12c3733aca07816da8e6ceb157d089e7fe9fde28da92d2d4dd3f",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 159,
+  "normalizedKey": "jack johnson|if i could",
+  "playableChords": [
+    "A",
+    "E",
+    "F#m",
+    "D",
+    "Bm",
+    "C#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Interlude"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "018130da54ca12c3733aca07816da8e6ceb157d089e7fe9fde28da92d2d4dd3f",
+    "version": "BCFZ"
+  },
+  "tempo": 114,
+  "title": "If I Could",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,104 @@
+{
+  "artist": "Imagine Dragons",
+  "artistNormalized": "imagine dragons",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n[G]\n[Bm]\n[A]\n[D]\n\n[Verse 1]\n[D]Something about the way that you\nwalked into my living room\n[G]Casually and confident\nlookin' at the mess I am But\n[Bm]still you,\n[A]still you want me\n[D]\nStress lines and cigarettes,\npolitics and deficits\n[G]Late bills and overages,\nscreamin' and hollerin' But\n[Bm]still you,\n[A]still you want me\n[D]\n\n[Chorus]\n[D]Oh,\nI always let you\n[G]down\nYou're shattered on the\n[Bm]ground But still I find you\n[A]there Next to\n[D]me\nAnd\n[D]oh,\nstupid things I\n[G]do\nI'm far from good, it's\n[Bm]true But still I find\n[A]you Next to\n[D]me\nThere's\n\n[Verse 2]\n[D]something about the way that you\nalways see the pretty view\n[G]Overlook the blooded mess,\nalways lookin' effortless And\n[Bm]still you,\n[A]still you want me\n[D]\n[D]I got no innocence,\nfaith ain't no privilege\n[G]I am a deck of cards,\nvice or a game of hearts And\n[Bm]still you,\n[A]still you want me\n[D]\n\n[Chorus]\n[D]Oh,\nI always let you\n[G]down\nYou're shattered on the\n[Bm]ground But still I find you\n[A]there Next to\n[D]me\nAnd\n[D]oh,\nstupid things I\n[G]do\nI'm far from good, it's\n[Bm]true But still I find\n[A]you Next to\n[D]me\nSo\n\n[Bridge]\n[D]thank you\nfor taking a chance\n[G]on me\nI know it isn't\n[Bm]easy\n[A]But I hope to be\n[D]worth it\nSo\nthank you\nfor taking a chance\n[G]on me\nI know it isn't\n[Bm]easy\n[A]But I hope to be\n[D]worth it\n\n[Chorus]\n[D]Oh,\nI always let you\n[G]down\nYou're shattered on the\n[Bm]ground But still I find you\n[A]there Next to\n[D]me\nAnd\noh,\nstupid things I\n[G]do\nI'm far from good, it's\n[Bm]true But still I find\n[A]you Next to\n[D]me",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Next To Me",
+  "id": "237f81072912dcb8c48d804226869b751193c2843dcda19b585e39a693112c3b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 302,
+  "normalizedKey": "imagine dragons|next to me",
+  "playableChords": [
+    "D",
+    "G",
+    "Bm",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Bridge"
+    },
+    {
+      "measure": 91,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "237f81072912dcb8c48d804226869b751193c2843dcda19b585e39a693112c3b",
+    "version": "BCFZ"
+  },
+  "tempo": 168,
+  "title": "Next To Me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

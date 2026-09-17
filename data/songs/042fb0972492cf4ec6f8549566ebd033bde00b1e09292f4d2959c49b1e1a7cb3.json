@@ -1,0 +1,115 @@
+{
+  "artist": "Jimi Hendrix",
+  "artistNormalized": "jimi hendrix",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Eb]\n[Eb7#9]\n[Eb]\nWell, I\n\n[Verse 1]\n[Eb]stand up next to a mountain\nAnd I chop it down with the edge of my hand\nYeah,\nwell, I\nstand up next to a mountain\nAnd chop it down with the edge of my\nhand\nWell, I\n\n[Pre-Chorus]\n[Db7]pick up all the pieces and make an island\n[Ab/C]Might even raise a little sand\n[Eb]Yeah\n'Cause I'm a\n\n[Chorus]\n[B7]voodoo child\n[Db7]Lord knows I'm a voo-\n[Eb]doo child, baby\n\n[Solo 1]\n[Eb]\nWanna say one more last thing\nI didn't mean\n\n[Verse 2]\n[Eb]to take up all your sweet time\nI'll give it right back to you, ah one of these days,\nhahaha\nI said I didn't\nmean to take up all your sweet time\nI'll give it right back one of these\ndays Yeah\nI don't\n\n[Pre-Chorus]\n[Db7]meet you no more in this world, then ah\n[Ab/C]I'll meet you in the next one And don't be late\n[Eb]Don't be late\n'Cause I'm a\n\n[Chorus]\n[B7]voodoo child, voodoo child\n[Db7]Lord knows that I'm a\n[Eb]voodoo child, hey,\nhey, hey\n\n[Outro]\n[Eb]\nI'm a voodoo child, baby\nI don't take no for an an-\nswer\nQuestion know",
+  "diagrams": {
+    "Ab/C": {
+      "catalog": [
+        "x42220"
+      ],
+      "catalogCount": 1
+    },
+    "B7": {
+      "catalog": [
+        "x35353",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "Db7": {
+      "catalog": [
+        "x57575",
+        "x-4-3-4-2-1",
+        "x-4-6-4-6-4",
+        "9-8-6-6-6-7",
+        "9-11-9-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "022100",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "Eb7#9": {
+      "catalog": [
+        "576785"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Vodoo Child (Slight Return)",
+  "id": "042fb0972492cf4ec6f8549566ebd033bde00b1e09292f4d2959c49b1e1a7cb3",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 196,
+  "normalizedKey": "jimi hendrix|vodoo child slight return",
+  "playableChords": [
+    "Eb",
+    "Eb7#9",
+    "Db7",
+    "Ab/C",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 36,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 64,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 74,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 78,
+      "name": "Chorus"
+    },
+    {
+      "measure": 82,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "042fb0972492cf4ec6f8549566ebd033bde00b1e09292f4d2959c49b1e1a7cb3",
+    "version": "BCFZ"
+  },
+  "tempo": 89,
+  "title": "Vodoo Child (Slight Return)",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

@@ -1,0 +1,134 @@
+{
+  "artist": "Joe Walsh",
+  "artistNormalized": "joe walsh",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E5]\n\n[Solo 1]\n[D5]  [E5]\n[D5]  [E5]\n[D5]  [E5]\n[D5]  [E5]\n\n[Verse 1]\n[E5]Spent the last year\nRocky Mountain Way\nCouldn't get much hig-\nher [A][G5]\n[E5]Out to pasture\nThink it's safe to say [A][G5]\n[E5]Time to open fi-\nre [G5][G#5]And we\n\n[Chorus]\n[A5]don't need the ladies\nCrying 'cause the storie's sad\n[E5]\n'cause the\n[A5]Rocky Mountain Way Is\nbetter than the way we had\n[B5]\n\n[Solo 2]\n[D5]  [E5]\n[D5]  [E5]\n[D5]  [E5]\n[D5]  [E5]\nWell he's\n\n[Verse 2]\n[E5]tellin' us this And he's tellin' us that\nChanges it every day\nSay's it doesn't mat-\nter [A][G5]\n[E5]Bases are loaded and Casey's at bat\nPlayin' it play by play [A][G5]\n[E5]Time to change the bat-\nter [G5][G#5]And we\n\n[Chorus]\n[A5]don't need the ladies\nCrying 'cause the storie's sad,\n[E5]\n[A5]Rocky Mountain Way Is\nbetter than the way we had\n[B5]\nHey, hey,\n\n[Solo 3]\n[D5]hey, hey [E5]\n[D5]  [E5]\n[D5]  [E5]\n[D5]  [E5]\n[A]  [G5]\n\n[Interlude]\n[E5]\n\n[Bridge]\n[A5]\n[E5]\n[A5]\n[B5]\n\n[Outro]\n[D5]  [E5]\n[D5]  [E5]\n[D5]  [E5]\n[D5]  [E5]\n[D5]  [E5]\n[D5]  [E5]\n\n[Fade Out]\n[D5]  [E5]\n[D5]  [E5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x57xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx",
+        "x79xxx"
+      ],
+      "catalogCount": 2
+    },
+    "G#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rocky Mountain Way",
+  "id": "c21349d56cf1eab3249851c73bd8140a9060594da51902c707c0e4bcd9fa5ab4",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 136,
+  "normalizedKey": "joe walsh|rocky mountain way",
+  "playableChords": [
+    "E5",
+    "D5",
+    "A",
+    "G5",
+    "G#5",
+    "A5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Solo 3"
+    },
+    {
+      "measure": 66,
+      "name": "Interlude"
+    },
+    {
+      "measure": 90,
+      "name": "Bridge"
+    },
+    {
+      "measure": 98,
+      "name": "Outro"
+    },
+    {
+      "measure": 110,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c21349d56cf1eab3249851c73bd8140a9060594da51902c707c0e4bcd9fa5ab4",
+    "version": "BCFZ"
+  },
+  "tempo": 86,
+  "title": "Rocky Mountain Way",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

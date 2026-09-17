@@ -1,0 +1,112 @@
+{
+  "artist": "Julie Byrne",
+  "artistNormalized": "julie byrne",
+  "capo": "5",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Bm]\n[D]\n[G]\n\n[Verse 1]\n[Bm]Sing a\ncall to\n[D]morning dove\nOver the prairie,\nthrough the hills\nI\nhear it\n[Bm]still in the\nsinging of the bread\n[D]\nFrom your lips\nwhich\nsplashed my\ndull house\nWith\nmusic\n\n[Chorus]\n[G]I went out\n[A]walking in the wood\n[D]\nBy\n[G]river which\n[A]never sleeps\n[D]\n[G]All I bare,\n[A]\n[D]all I\nsieve I thought of\n[G]you so\n[A]presently\n[D]\n[G]\n[A]\n\n[Bridge]\n[D]\n\n[Verse 2]\n[Bm]I\ndreamt of the war-\n[D]mest\ndays of love\nWhich\nknew not sor-\nrow\nnor betrayal\nWhen\ntruth was\n[Bm]will in the\nsinging of the gale\n[D]But\nwhen I lay\nin a\nverdant field\nNone could stay\nmy ri-\nsing\n\n[Chorus]\n[G]I went out\n[A]walking in the wood\n[D]\nAnd the\n[G]light casts\n[A]long from the moon\n[D]\nAnd\n[G]life is short\n[A]as a\n[D]breath half-\ntaken I could\n[G]not wait to\n[A]tell you truth\n[D]\n[G]I'm been\n[A]wait in\n\n[Bridge]\n[D]you\n[G]\n\n[Interlude]\n[D]\n\n[Outro]\n[D]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "777877",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "999999",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "000100",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "555655",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Morning Dove",
+  "id": "986e2b2aa31946bb800f7cba027b6a3b82b2f3e5752ceb411245760c1f553d3b",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 147,
+  "normalizedKey": "julie byrne|morning dove",
+  "playableChords": [
+    "Bm",
+    "D",
+    "G",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Bridge"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 82,
+      "name": "Chorus"
+    },
+    {
+      "measure": 100,
+      "name": "Bridge"
+    },
+    {
+      "measure": 108,
+      "name": "Interlude"
+    },
+    {
+      "measure": 119,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "986e2b2aa31946bb800f7cba027b6a3b82b2f3e5752ceb411245760c1f553d3b",
+    "version": "BCFZ"
+  },
+  "tempo": 191,
+  "title": "Morning Dove",
+  "tuning": "D A D F A D",
+  "variantRole": "primary"
+}

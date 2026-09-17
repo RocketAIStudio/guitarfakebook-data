@@ -1,0 +1,140 @@
+{
+  "artist": "Journey",
+  "artistNormalized": "journey",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[D]  [Bm7]\n[D/F#]  [A]\n[Bm7]  [C]\n[D]When the\n\n[Chorus]\n[D]lights go [Bm]down in the\n[C]city And the\n[D]sun shines [Bm]on the\n[C]bay Ooh, I\n[D]want to be there yeah, [Bm]in my\n[C]city Ooh,\n[Bm7]ooh, [C]\n[D]ooh,\n\n[Verse]\n[D]So you [Bm]think you-\n[C]'re lonely\n[D]Well [Bm]my friend I'm lo-\n[C]nely too\n[D]I want to go [Bm]back to my\n[C]city by the bay\n[Bm7]Ooh, [C]ooh,\n[D]ooh It's\n\n[Bridge]\n[Bm]sad, [A][G]oh there's been\n[D]mornings Out on the road with-\n[Bm]out you [A][G]Without your\n[D]charms, [A][A#]\n[Bm]Ooh, [A][G]my, my,\n[D]my, my, my, my\n[Bm7]Ooh, [C]\n[D]ooh When the\n\n[Chorus]\n[D]lights go [Bm]down in the\n[C]city And the\n[D]sun shines [Bm]on the\n[C]bay Oh, I\n[D]want to be there yeah, [Bm]in my\n[C]city Ooh,\n[Bm7]ooh, [C]\n[D]ooh\n\n[Guitar Solo]\n[Bm]  [A]  [G]\n[D]\n[Bm]  [A]  [G]\n[D]  [A]  [A#]\n[Bm]  [A]  [G]\n[D]\n[Bm7]  [C]\n[D]When the\n\n[Chorus]\n[D]lights go [Bm]down in the\n[C]city And the\n[D]sun shines [Bm]on the\n[C]bay Oh, I\n[D]want to be there yeah, [Bm]in my\n[C]city Ooh,\n[Bm7]ooh, [C]\n[D]ooh, mm,\n[Bm7]ooh [C]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#": {
+      "catalog": [
+        "x13331"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "2xx232"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lights *alt",
+  "id": "b7b936fa650089a93fda3201df6dc58fa2de5d0990a33016d15064a5a2e25a76",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 151,
+  "normalizedKey": "journey|lights",
+  "playableChords": [
+    "D",
+    "Bm7",
+    "D/F#",
+    "A",
+    "C",
+    "Bm",
+    "G",
+    "A#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b7b936fa650089a93fda3201df6dc58fa2de5d0990a33016d15064a5a2e25a76",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Lights",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

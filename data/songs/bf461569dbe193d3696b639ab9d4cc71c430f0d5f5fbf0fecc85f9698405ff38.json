@@ -1,0 +1,97 @@
+{
+  "artist": "Joan Baez",
+  "artistNormalized": "joan baez",
+  "capo": "5",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Am]  [E7]\n[Am]\n[C]\n[Am]She went up-\n\n[Verse 1]\n[Am]stairs [E7]to make her\n[Am]bed And not one\n[C]word to her mother\n[Am]said. Her mother she\n[Am][E7]went upstairs\n[Am]too Saying, \"Daughter, oh\n[C]daughter, what's troublin'\n[Am]you?\":\n\"Oh mother, dear,\n\n[Verse 2]\n[Am][E7]I cannot\n[Am]tell That railroad\n[C]boy that I love so\n[Am]well. He courted\n[Am]me [E7]my life a-\n[Am]way And now at\n[C]home will no longer\n[Am]stay.\"\n\"There is a place\n\n[Verse 3]\n[Am][E7]in London\n[Am]town That railroad\n[C]boy goes and sits\n[Am]down. He takes that\n[Am]strange [E7]girl on his\n[Am]knee And he tells to\n[C]her what he won't tell\n[Am]me.\"\n\n[Interlude]\n[Am]  [E7]\n[Am]\n[C]\n[Am]Her father\n\n[Verse 4]\n[Am]he [E7]came home from\n[Am]work Sayin', \"Where is my\n[C]daughter, she seems so\n[Am]hurt\" He went up-\n[Am]stairs [E7]to give her\n[Am]hope An' he found her\n[C]han gin' by a\n[Am]rope.\nHe took his knife\n\n[Verse 5]\n[Am][E7]and he cut her\n[Am]down And on her\n[C]bosom these words he\n[Am]found: \"Go dig my\n[Am]grave [E7]both wide and\n[Am]deep, Put a marble\n[C]stone at my head and\n[Am]feet,\nAnd on my\n\n[Verse 6]\n[Am]breast, [E7]put a snow white\n[Am]dove To tell the\n[C]world that I died of\n[Am]love.\n[C]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Railroad Boy",
+  "id": "bf461569dbe193d3696b639ab9d4cc71c430f0d5f5fbf0fecc85f9698405ff38",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 193,
+  "normalizedKey": "joan baez|railroad boy",
+  "playableChords": [
+    "Am",
+    "E7",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 32,
+      "name": "Interlude"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 6"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bf461569dbe193d3696b639ab9d4cc71c430f0d5f5fbf0fecc85f9698405ff38",
+    "version": "BCFZ"
+  },
+  "tempo": 87,
+  "title": "Railroad Boy",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

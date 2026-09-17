@@ -1,0 +1,118 @@
+{
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnny cash",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Bbm]\n[Db][Ebm][Fm]You can run\n\n[Verse 1]\n[Bbm]on for a long time\n[Bbmadd11]Run on for a long time\n[Bbm]Run on for a long time\n[Db]Sooner or [Bbm]later God'll [Fm]cut you [Bbm]down\n[Db]Sooner or [Ebm]later God'll [Fm]cut you\n[Bbm]down Go tell\n\n[Chorus]\n[Bbm]that long tongue liar Go and\n[Bbmadd11]tell that midnight [Bbm]rider Tell the ram-\nbler, the gambler, the back biter\n[Db]Tell 'em that God's [Bbm]gonna [Fm]cut 'em [Bbm]down\n[Db]Tell 'em that God's [Ebm]gonna [Fm]cut 'em\n[Bbm]down\nWell\n\n[Verse 2]\n[Bbm]my goodness gracious let me tell you the news My\nhead's been wet with the midnight dew\nI've been down on bended knee tal-\nkin' to the man from Galilee He\nspoke to me in the voice so sweet I\nthought I heard the shuffle of the angel's feet He\ncalled my name and my heart stood still When\nhe said, \"John go do My will!\" Go\n\n[Chorus]\n[Bbm]tell that long tongue liar Go and\n[Ebsus2]tell that midnight [Bbm]rider Tell the ram-\nbler, the gambler, the back biter\n[Db]Tell 'em that God's [Bbm]gonna [Fm]cut 'em [Bbm]down\n[Db]Tell 'em that God's [Ebm]gonna [Fm]cut 'em\n[Bbm]down You can\nrun on for a long time\n[Bbmadd11]Run on for a [Bbm]long time\nRun on for a long time\n[Db]Sooner or [Bbm]later God'll [Fm]cut you [Bbm]down\n[Db]Sooner or [Ebm]later God'll [Fm]cut you\n[Bbm]down Well you may\n\n[Verse 3]\n[Bbm]throw your rock and hide your hand\nWorkin' in the dark against your fellow man But as\nsure as God made black and white What's\ndone in the dark will be brought to the light You can\n\n[Chorus]\n[Bbm]run on for a long time\n[Bbmadd11]Run on for a [Bbm]long time\nRun on for a long time\n[Db]Sooner or [Bbm]later God'll [Fm]cut you [Bbm]down\n[Db]Sooner or [Ebm]later God'll [Fm]cut you\n[Bbm]down Go tell\nthat long tongue liar Go and tell\n[Bbmadd11]that midnight [Bbm]rider Tell the ram-\nbler, the gambler, the back biter\n[Db]Tell 'em that God's [Bbm]gonna [Fm]cut you [Bbm]down\n[Db]Tell 'em that God's [Bbm]gonna [Fm]cut you [Bbm]down\n[Db]Tell 'em that God's [Ebm]gonna [Fm]cut you\n[Bbm]down",
+  "diagrams": {
+    "Bbm": {
+      "catalog": [
+        "x24432",
+        "x-1-3-3-2-1",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Bbmadd11": {
+      "catalog": [
+        "x22432"
+      ],
+      "catalogCount": 1
+    },
+    "Db": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Ebm": {
+      "catalog": [
+        "022000",
+        "x-x-1-3-4-2",
+        "x-6-8-8-7-6",
+        "11-13-13-11-11-11",
+        "x-x-13-15-16-14"
+      ],
+      "catalogCount": 5
+    },
+    "Ebsus2": {
+      "catalog": [
+        "0244xx"
+      ],
+      "catalogCount": 1
+    },
+    "Fm": {
+      "catalog": [
+        "244222",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "God's Gonna Cut You Down",
+  "id": "bf3b6914f48b83e7085a7274b7e12dac93460b05096ae6cd5a814ac850e2d935",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 382,
+  "normalizedKey": "johnny cash|god s gonna cut you down",
+  "playableChords": [
+    "Bbm",
+    "Db",
+    "Ebm",
+    "Fm",
+    "Bbmadd11",
+    "Ebsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bf3b6914f48b83e7085a7274b7e12dac93460b05096ae6cd5a814ac850e2d935",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "God's Gonna Cut You Down",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

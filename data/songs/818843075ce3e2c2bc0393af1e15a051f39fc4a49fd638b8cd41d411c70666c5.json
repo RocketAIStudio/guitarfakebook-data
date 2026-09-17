@@ -1,0 +1,156 @@
+{
+  "artist": "Jimi Hendrix",
+  "artistNormalized": "jimi hendrix",
+  "capo": "No capo",
+  "chordPositionCount": 40,
+  "chordSymbolCount": 20,
+  "content": "[B7]\n[Bb7]\n\n[band in]\n[E7]\n[B7]\n[F#7]\n[E7]  [D7]\n[B7]\n[F#7]\n[B7]\n[Bb7]\n[B7]\n[E7]\n[B7]\n[F#7]\n[E7]  [D7]\n[B7]\n[F#7]\n\n[Verse]\n[B7]There's a red house over yonder, baby,\n[E7]Lord, that's where my baby stays.\n[B7]\n[E7]Lord, have mercy, there's a red house over yonder,\nLord, that's where my baby stays.\n[B7]\n[F#7]Hey, I ain't been home to see my baby,\n[E7]I just got outta jail'n' its been,ah, ninety-nine'\n[B7]one-half days, now.\nHey, that's a long time, y'know what I mean ? [F#7]\n\n[Verse]\n[B7]Wait a minute, something's wrong,\n[E7]Lord, have mercy, the key won't unlock the door.\n[B7]\n[E7]Wait a minute, something's wrong.\nNo the key won't unlock this door.\n[B7]\n[F#7]Hey, I got a bad feelin',\n[E7]Lord, my baby don't live here no more.\n[B7](spoken) She ain't said a damn thing about leaving either,\n[F#7]\n\n[Guitar Solo]\n[B7]\n[E7]\n[B7]but I still got my guitar ...\n[E7]\n[B7]\n[F#7]\n[E7]\n[B7]\n\n[Verse]\n[B7]Hey, I believe I'll go back over yonder,\n[E7]way back over yonder across the hill.\n[B7]  [C7]  [C13]\n[B7]  [C13]  [B9]  [C9]  [C#9]  [D9]  [D#9]\n[E7]Hey, I think I'll go back over yonder, baby, [F9]\n[E7]way over yonder across the hill.\n[B7]  [B13]  [C13]  [D13]  [E13]  [D13]\n[C13]  [B13]\n[F#7]Hey, if my baby don't love me no more.\n[E]Lord, I know good'n'well that a, her sister will.\n\n[Outro]\n[B]\n[C9/E]  [B9/D#]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bb7": {
+      "catalog": [
+        "x-1-3-1-3-1",
+        "6-5-3-3-3-4",
+        "6-8-6-7-6-6",
+        "x-x-8-10-9-10",
+        "x-13-12-13-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x-3-2-3-1-0",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "x-x-0-2-1-2",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "2-4-2-3-2-2",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "Red House",
+  "id": "818843075ce3e2c2bc0393af1e15a051f39fc4a49fd638b8cd41d411c70666c5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 26,
+  "normalizedKey": "jimi hendrix|red house",
+  "playableChords": [
+    "B7",
+    "Bb7",
+    "E7",
+    "F#7",
+    "D7",
+    "C7",
+    "C13",
+    "B9",
+    "C9",
+    "C#9",
+    "D9",
+    "D#9",
+    "F9",
+    "B13",
+    "D13",
+    "E13",
+    "E",
+    "B",
+    "C9/E",
+    "B9/D#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 5,
+      "name": "band in"
+    },
+    {
+      "measure": 25,
+      "name": "Verse"
+    },
+    {
+      "measure": 37,
+      "name": "Verse"
+    },
+    {
+      "measure": 49,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 61,
+      "name": "Verse"
+    },
+    {
+      "measure": 71,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gp3",
+    "sha256": "818843075ce3e2c2bc0393af1e15a051f39fc4a49fd638b8cd41d411c70666c5",
+    "version": "FICHIER GUITAR PRO v3.00"
+  },
+  "tempo": 84,
+  "title": "Red House",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

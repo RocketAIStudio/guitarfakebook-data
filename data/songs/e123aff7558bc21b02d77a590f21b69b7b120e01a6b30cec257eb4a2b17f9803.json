@@ -1,0 +1,100 @@
+{
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnny cash",
+  "capo": "2",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[C]\n[G]\n[C]\n[G]\n[D7]\n[G]The other nigh-\n\n[Verse 1]\n[G]t dear, as I lay\nsleeping I dreamed I\n[C]held you in my\n[G]arms When I a-\n[C]woke, dear, I was mis-\n[G]taken So I bo-\nwed my [D]head and I\n[G]cried You are my\n\n[Chorus]\n[G]sunshine, my only\nsunshine You make me\n[C]happy when skies are\n[G]gray You'll never know\n[C]dear, how much I\n[G]love you Please don't\ntake my [D]sunshine a-\n[G]way\n\n[Bridge]\n[G]\n[C]\n[G]\n[C]\n[G]\n[D]\n[G]I've always\n\n[Verse 2]\n[G]loved you and made you\nhappy And nothing\n[C]else could come bet-\n[G]ween But now you've\n[C]left me to love ano-\n[G]ther You have\nshattered all [D]of my\n[G]dreams You are my\n\n[Chorus]\n[G]sunshine, my only\nsunshine You make me\n[C]happy when skies are\n[G]gray You'll never know\n[C]dear, how much I\n[G]love you Please don't\ntake my [D]sunshine a-\n[G]way.",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You are my Sunshine",
+  "id": "e123aff7558bc21b02d77a590f21b69b7b120e01a6b30cec257eb4a2b17f9803",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 149,
+  "normalizedKey": "johnny cash|you are my sunshine",
+  "playableChords": [
+    "G",
+    "C",
+    "D7",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Bridge"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e123aff7558bc21b02d77a590f21b69b7b120e01a6b30cec257eb4a2b17f9803",
+    "version": "BCFZ"
+  },
+  "tempo": 79,
+  "title": "You are my Sunshine",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

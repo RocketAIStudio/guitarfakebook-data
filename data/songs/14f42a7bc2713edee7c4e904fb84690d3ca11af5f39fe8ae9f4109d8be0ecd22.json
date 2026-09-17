@@ -1,0 +1,125 @@
+{
+  "artist": "Jimi Hendrix",
+  "artistNormalized": "jimi hendrix",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[F#m7]\nFoxy, [B]\n[F#m7]\nFoxy [B]\n\n[Verse 1]\n[F#m7]You know you are a cute\nlittle heart [B]breaker\n[F#m7]Foxy\nyeah, [B]\n[F#m7]And you know you are a sweet\nlittle lover [B]maker\n[F#m7]Foxy\n[B]\n\n[Chorus]\n[F#]I wanna take you home,\n[E]yeah [B]\n[F#]I won't do you no harm\n[E]  [B]\n[F#m7]You've got to be all mine,\n[E]all mine [B]\n[F#]ooh Foxy Lady\n[F#m7]\n[F#7(#9)]Foxy, [B]\n[F#m7]\nFoxy [B]I see\n[F#m7]you come down on the scene\noh [B]\n[F#]Foxy\n[B]\n[F#m7]You make me wanna\nget up anda [B]scream\n[F#m7]Foxy,\noh baby [B]listen now\n\n[Chorus]\n[F#5]I've made up my mind,\n[E/G#]  [B]\n[F#5]I'm tired of wasting all\n[E/G#]my precious [B]time\n[F#5]You've got to be all\n[E]mine, all [B]mine\n[F#]Ooh, Foxy Lady\nOoh,\n\n[Solo]\n[F#m7]\nFoxy Lady,\nyeah yeah\n\n[Chorus]\n[F#]I've made up my mind,\n[E]  [B]\n[F#m7]I'm tired of wasting\n[E]all my precious [B]time\n[F#]You've got to be all\n[E]mine, all mine [B]\n[F#]Foxy Lady,\n\n[Outro]\n[F#m7]You look\nso good, Foxy [B]oh yeah Foxy\n[F#m7]yeah, give us some,\n[B]Foxy\n[F#m7]Foxy\n[B]Foxy\n[F#m7]Fo-\nxy [B]Foxy\n[F#m7]Foxy Foxy\n[B]\n[F#m7]\n[B]\n[F#m7]\n[B]\n[F#m7]\n[B]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x2444x",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E/G#": {
+      "catalog": [
+        "x-11-9-9-9-x"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#5": {
+      "catalog": [
+        "x-9-11-11-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "F#7(#9)": {
+      "catalog": [
+        "xx4355"
+      ],
+      "catalogCount": 1
+    },
+    "F#m7": {
+      "catalog": [
+        "242222",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14",
+        "x-21-23-21-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Foxey Lady *alt",
+  "id": "14f42a7bc2713edee7c4e904fb84690d3ca11af5f39fe8ae9f4109d8be0ecd22",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 178,
+  "normalizedKey": "jimi hendrix|foxey lady",
+  "playableChords": [
+    "F#m7",
+    "B",
+    "F#",
+    "E",
+    "F#7(#9)",
+    "F#5",
+    "E/G#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Solo"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "14f42a7bc2713edee7c4e904fb84690d3ca11af5f39fe8ae9f4109d8be0ecd22",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "Foxey Lady",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,111 @@
+{
+  "artist": "John Mayer",
+  "artistNormalized": "john mayer",
+  "capo": "4",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n\n[Verse 1]\n[C]I'm such a bore,\nI'm such a bummer\nThere must be more\nbehind the summer\n[F]I want someone\nto make some trouble\n[C]Been way too safe\ninside my bubble,\n\n[Pre-Chorus]\n[Am]oh Take me out\n[C]and keep me up all night\n[F]\nLet me live\n[Am]on the wil-\n[C]der side of the light\n[F]\n[G]Carry me\n\n[Chorus]\n[F]away\nCarry me\naway\nCarry me away\n[C]\nCarry me\n[F]away\nCarry me\naway\nCarry me away\n[Am]\n[C]\n[F]\n[G]\n[Am]\n[C]\n[F]\n[G]\n\n[Verse 2]\n[F]You carnivore,\nyou loose cannon\nCan I have some more?\nI can't understand it\n[C]You fast car,\nyou foolish spender\nYou know you are,\nand I surrender\n[F]So come on over\nand wake me up\nPut some of your te-\nquila in my coffee cup\n[C]You know I need you,\nand that's for sure\nYou're just the kinda\ncrazy I've been lookin' for\n\n[Chorus]\n[F]Away\nCarry me\naway\nCarry me away\n[C]\nWhere the\nsun hits my face all\ndifferent Carry me\n[F]away\nCarry me\naway\nCarry me away\n\n[Outro]\n[Am]\n[G]\n[D/F#]\n[F]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "20023x"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Carry Me Away",
+  "id": "8f6ef584158214f66b00be26d4c06001a7725f633a0e310193df9e05d40c4471",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 202,
+  "normalizedKey": "john mayer|carry me away",
+  "playableChords": [
+    "C",
+    "F",
+    "Am",
+    "G",
+    "D/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8f6ef584158214f66b00be26d4c06001a7725f633a0e310193df9e05d40c4471",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Carry Me Away",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

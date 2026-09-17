@@ -1,0 +1,146 @@
+{
+  "artist": "INXS",
+  "artistNormalized": "inxs",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\n\n[Bridge]\n[A]\n\n[Verse 1]\n[A]I'm standing here\non the ground\n[E/G#]\n[F#m]The sky above\nwon't fall\ndown\n[Bm]See no evil\n[D]in all di-\n[A]rections\nResolution\nof hap-\npiness\n[E/G#]\n[F#m]Things have been dark\nFor too long\n\n[Chorus]\n[Bm]Don't change for you\n[D]\n[Bm]Don't change a thing\n[D]for me\n[A]\n[Bm]Don't change for you\n[D]\n[Bm]Don't change a thing\n[D]for me\n\n[Bridge]\n[A]\n\n[Verse 2]\n[A]I found a love\nI had lost\n[E/G#]\n[F#m]It was gone\nfor too long\n[Bm]Hear no evil\n[D]in all di-\n[A]rections\nExecution\nof bit-\nterness\n[E/G#]\n[F#m]Message recei-\nved loud and\nclear\n\n[Chorus]\n[Bm]Don't change for you\n[D]\n[Bm]Don't change a thing\n[D]for me\n[A]\n[Bm]Don't change for you\n[D]\n[Bm]Don't change a thing\n[D]for me\n\n[Interlude]\n[A]\n\n[Bridge]\n[A]\n\n[Verse 3]\n[A]I'm standing here\non the ground\n[E/G#]\n[F#m]The sky above\nwon't fall\ndown\n[Bm]See no evil\n[D]in all di-\n[A]rections\nResolution\nof hap-\npiness\n[E/G#]\n[F#m]Things have been dark\nfor too long\n\n[Chorus]\n[Bm]Don't change for you\n[D]\n[Bm]Don't change a thing\n[D]for me\n[A]\n[Bm]Don't change for you\n[D]\n[Bm]Don't change a thing\n[D]for me\n[A]\n[Bm]Don't change for you\n[D]\n[Bm]Don't change a thing\n[D]for me\n\n[Bridge]\n[A]\n\n[Outro]\n[F#m]Don't\n[E]change\n[D]\n[F#m]Don't\n[E]change\n[D]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E/G#": {
+      "catalog": [
+        "xx6454"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Don't Change",
+  "id": "4a943eeb4a4e144ecc7d21bb42ac5518c89ceff8ab538367ffd80927cc288676",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 188,
+  "normalizedKey": "inxs|don t change",
+  "playableChords": [
+    "A",
+    "E/G#",
+    "F#m",
+    "Bm",
+    "D",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Bridge"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Bridge"
+    },
+    {
+      "measure": 72,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 92,
+      "name": "Chorus"
+    },
+    {
+      "measure": 102,
+      "name": "Interlude"
+    },
+    {
+      "measure": 110,
+      "name": "Bridge"
+    },
+    {
+      "measure": 118,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 138,
+      "name": "Chorus"
+    },
+    {
+      "measure": 154,
+      "name": "Bridge"
+    },
+    {
+      "measure": 162,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4a943eeb4a4e144ecc7d21bb42ac5518c89ceff8ab538367ffd80927cc288676",
+    "version": "BCFZ"
+  },
+  "tempo": 164,
+  "title": "Don't Change",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

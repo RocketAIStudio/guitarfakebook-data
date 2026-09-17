@@ -1,0 +1,115 @@
+{
+  "artist": "Iron Maiden",
+  "artistNormalized": "iron maiden",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E5]\n[G5]\n[E5]\n[C5]  [D5]\n[E5]\n[G5]\n[E5]\n[C5]  [D5]\n\n[Pre-Verse]\n[E5]\n[G5]\n[E5]\n[C5]  [D5]\n[E5]\n[G5]\n[E5]\n[C5]  [D5]\n\n[Verse 1]\n[E5]Just sixteen, a\n[C5]pickup truck, [D5]\n[E5]Out of money,\n[G5]out of luck [A5]I've\n[E5]got nowhere to\n[C5]call my own, [D5]\n[E5]Hit the gas, and\n[G5]here I go [A5]\n\n[Chorus]\n[E5]I'm running free\n[G5][E5]yeah, [D5]\n[E5]I'm running free\n[C5]  [D5]\n[E5]I'm running free\n[G5][E5]yeah, [D5]\n[E5]Oh I'm running free\n[C5]  [D5]\n\n[Verse 2]\n[E5]Spent the night in an\n[C5]L. A. jail, [D5]And\n[E5]listened to the\n[G5]sirens wail [A5]They\n[E5]ain't got a\n[C5]thing on me, [D5]I'm\n[E5]running wild, I'm\n[G5]running free [A5]\n\n[Chorus]\n[E5]I'm running free\n[G5][E5]yeah, [D5]\n[E5]I'm running free\n[C5]  [D5]\n[E5]I'm running free\n[G5][E5]yeah, [D5]\n[E5]Oh I'm running free\n[C5]  [D5]\n\n[Interlude 1]\n[E5]\n[G5]\n[E5]\n[C5]  [D5]\n[E5]\n[G5]\n[E5]\n[C5]  [D5]\n[E5]\n[C5]  [D5]\n[E5]\n\n[Chorus]\n[E5]I'm running free\n[G5][E5]yeah, [D5]\n[E5]I'm running free\n[C5]  [D5]\n[E5]I'm running free\n[G5][E5]yeah, [D5]\n[E5]Oh I'm running free\n[C5]  [D5]\n\n[Interlude 2]\n[E5]\n[C5]  [D5]\n[E5]\n[C5]  [D5]\n[E5]\n[C5]  [D5]\n[E5]\n[C5]  [D5]\n\n[Verse 3]\n[E5]Puller here at the\n[C5]Bottle Top, [D5]\n[E5]Whiskey, dancing,\n[G5]disco hop [A5]Now\n[E5]all the boys are\n[C5]after me, [D5]And\n[E5]that's the way it's\n[G5]gonna be [A5]\n\n[Chorus]\n[E5]I'm running free\n[G5][E5]yeah, [D5]\n[E5]I'm running free\n[C5]  [D5]\n[E5]I'm running free\n[G5][E5]yeah, [D5]\n[E5]Oh I'm running free\n[C5]  [D5]\n\n[Outro]\n[E5]\n[G5]\n[A5]\n[C5]  [D5]\n[E5]\n[G5]\n[A5]\n[C5]  [D5]\n[E5]\n[G5]\n[A5]\n[C5]  [D5]\n[E5]\n[G5]\n[A5]\n[C5]  [D5]\n[E5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "57xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x35xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x57xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "02xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "35xxxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Running free *alt",
+  "id": "2b81dfd3b48a423ca4da1fcb067789a5837451d300a1be0367c4e8f7acab1cf5",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 176,
+  "normalizedKey": "iron maiden|running free",
+  "playableChords": [
+    "E5",
+    "G5",
+    "C5",
+    "D5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Interlude 1"
+    },
+    {
+      "measure": 79,
+      "name": "Chorus"
+    },
+    {
+      "measure": 87,
+      "name": "Interlude 2"
+    },
+    {
+      "measure": 103,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 111,
+      "name": "Chorus"
+    },
+    {
+      "measure": 119,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2b81dfd3b48a423ca4da1fcb067789a5837451d300a1be0367c4e8f7acab1cf5",
+    "version": "BCFZ"
+  },
+  "tempo": 171,
+  "title": "Running free",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

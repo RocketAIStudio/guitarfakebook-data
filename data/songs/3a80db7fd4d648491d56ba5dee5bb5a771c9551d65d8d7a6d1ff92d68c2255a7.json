@@ -1,0 +1,127 @@
+{
+  "artist": "Kaleo",
+  "artistNormalized": "kaleo",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n\n[Verse 1]\n[Em]Oh, father, tell\n[A]me, do we get\n[C]what we [Am]deserve?\n[Em]Oh, we\nget [C]what we [Am]de-\nserve [Em]\nAnd way down we go\n\n[Chorus]\n[Em]  [C]\n[Am]Oh, way down we go\n[Em]  [C]\n[Am]Say way down we go\n[Em]  [C]\n[Am]Way down we go\n[Em]  [C]  [Am]\nOh, you let your\n\n[Verse 2]\n[Em]feet run wild [C]\n[Am]Time has come as we all\n[Em]oh, [C]go down\n[Am]Yeah, but for the fall,\n[Em][C]my\n[Am]Do you dare to look him right\n[Em]in the eyes? [C]\n[Am]Oh, 'cause they will\n\n[Pre-Chorus]\n[Em]run you down, down 'til the dark\n[D]Yes, and they will\n[C]run you down, down 'til you fall\n[Am]Oh, and they will\n[Em]run you down, down 'til you go\n[D]Yeah, 'til you can't crawl\n[C]no more\n[Am]And way down we go\n\n[Chorus]\n[Em]  [C]\n[Am]Oh, way down we go\n[Em]  [C]\n[Am]Say way down we go\n[Em]  [C]\n[Am]Oh, 'cause they will\n[D]run you down, down 'til you fall\n[Am]Oh, way down we go\n\n[Solo]\n[Em]  [C]\n[Am]\n[Em]  [C]\n[Am]\n\n[Bridge 1]\n[Em]\n[D]\n[C]\n[Am]\n[Em]\n[D]\n[C]\n[Am]Oh, babe babe\n\n[Bridge 2]\n[Em]yeah\n[D]Wow baby\n[C]\n[Am]Baby\n[Em]\n[D]Way down we go\n[C]\n[Am]Oh\n[Em]\n[D]Yeah\n[C]\n[Am]And way down we go\n\n[Outro]\n[Em]  [C]\n[Am]Oh, way down we go\n[Em]  [C]\n[Am]Say way down we go,\n[Em]ooh [C]\n[Am]Way down we go\n[Em]  [C]\n[Am]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Way Down We Go",
+  "id": "3a80db7fd4d648491d56ba5dee5bb5a771c9551d65d8d7a6d1ff92d68c2255a7",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 176,
+  "normalizedKey": "kaleo|way down we go",
+  "playableChords": [
+    "Em",
+    "A",
+    "C",
+    "Am",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Solo"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge 1"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3a80db7fd4d648491d56ba5dee5bb5a771c9551d65d8d7a6d1ff92d68c2255a7",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "Way Down We Go",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

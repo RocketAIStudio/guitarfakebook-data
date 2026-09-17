@@ -1,0 +1,152 @@
+{
+  "artist": "John Lennon",
+  "artistNormalized": "john lennon",
+  "capo": "No capo",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[C]\n[F]\n[C]\n[F]\n\n[Verse 1]\n[C]Imagine there's [Cmaj7]no heaven\n[F]\n[C]It's easy if you [Cmaj7]try\n[F]\n[C]No hell [Cmaj7]below us\n[F]\n[C]Above us [Cmaj7]only sky\n[F]\n\n[Pre-Chorus]\n[F]Imagine all [F/E]the peo-\n[Dm]ple [C]\n[G]Living for today...\n[G7]Ahaah...\n\n[Verse 2]\n[C]Imagine there's [Cmaj7]no countries\n[F]\n[C]It isn't hard [Cmaj7]to do\n[F]\n[C]Nothing to kill [Cmaj7]or die\n[F]for\n[C]And no religion, [Cmaj7]too\n[F]\n\n[Pre-Chorus]\n[F]Imagine [F/E]all the peo-\n[Dm]ple [C]\n[G]Living life in peace...\n[G7]You...\n\n[Chorus]\n[F]You may [G]say I'm a\n[C]dreamer [E7]\n[F]But I'm [G]not the only one\n[C]  [E7]\n[F]I hope [G]someday you'll\n[C]join us [E7]\n[F]And the [G]world will\n[C]be as one\n\n[Verse 3]\n[C]Imagine no [Cmaj7]possessions\n[F]\n[C]I wonder if you [Cmaj7]can\n[F]\n[C]No need for greed [Cmaj7]or hun\n[F]ger\n[C]A brotherhood [Cmaj7]of man\n[F]\n\n[Pre-Chorus]\n[F]Imagine [F/E]all the peo-\n[Dm]ple [C]\n[G]Sharing all the world...\n[G7]You...\n\n[Chorus]\n[F]You may [G]say I'm a\n[C]dreamer [E7]\n[F]But I'm [G]not the only one\n[C]  [E7]\n[F]I hope [G]someday you'll\n[C]join us [E7]\n[F]And the [G]world will\n[C]live as one",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F/E": {
+      "catalog": [
+        "0x321x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Imagine",
+  "id": "6640ee5ae046d52e5d05c8769dff7c828d54c9d130004492a99ec23020221726",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 172,
+  "normalizedKey": "john lennon|imagine",
+  "playableChords": [
+    "C",
+    "F",
+    "Cmaj7",
+    "F/E",
+    "Dm",
+    "G",
+    "G7",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 45,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6640ee5ae046d52e5d05c8769dff7c828d54c9d130004492a99ec23020221726",
+    "version": "BCFZ"
+  },
+  "tempo": 74,
+  "title": "Imagine",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

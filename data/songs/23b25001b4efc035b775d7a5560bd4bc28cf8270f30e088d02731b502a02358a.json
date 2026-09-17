@@ -1,0 +1,145 @@
+{
+  "artist": "John Lennon",
+  "artistNormalized": "john lennon",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D]  [Daug]\n[Bm/D]  [D7]\n[G]\n\n[Verse 1]\n[D]People say we got it [Daug]made.\n[Bm/D]Don't they know we're so [D7]afra id? I\n[G]sola\n[D]tion.\n\n[Verse 2]\n[D]We're afraid to be alone, [Daug]\n[Bm/D]everybody got to [D7]have a ho me. I\n[G]sola\n[D]tion.\n\n[Verse 3]\n[D]Just a boy and a little [Daug]girl,\n[Bm/D]trying to change the whole wide [D7]world. I\n[G]sola\n[D]tion.\n\n[Verse 4]\n[D]The world is just a [Daug]little town,\n[Bm/D]everybody trying to [D7]put us do wn. I\n[G]\n[A]so-\n\n[Chorus]\n[G7]la-\n[D]ti on. I\n\n[Bridge]\n[D]don't expect you [A]\n[G]to understand, [A]\n[D]after you've cau sed [A]\n[G]so much pa in. [A]\n[G]But then aga in, [A]\n[G]you're not to bla me. [A]\n[G]You're just a hu man, [A]a\n[G7]victim of the [A]insa ne.\n\n[Interlude]\n[D]  [Daug]\n[Bm/D]  [D7]\n[G]\n\n[Verse 5]\n[D]We're afraid of [Daug]everyone,\n[Bm/D]Afraid of the sun. [D7]I\n[G]sola\n[D]tion.\n\n[Verse 6]\n[D]The sun will never [Daug]disappear,\n[Bm/D]but the world may not have [D7]many ye ars. I\n[G]\n[A]so-\n\n[Chorus]\n[G7]la-\n[D]ti on.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm/D": {
+      "catalog": [
+        "xx0432"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Daug": {
+      "catalog": [
+        "xx0332"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "35343x",
+        "3-2-0-0-0-1",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Isolation",
+  "id": "23b25001b4efc035b775d7a5560bd4bc28cf8270f30e088d02731b502a02358a",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 188,
+  "normalizedKey": "john lennon|isolation",
+  "playableChords": [
+    "D",
+    "Daug",
+    "Bm/D",
+    "D7",
+    "G",
+    "A",
+    "G7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Bridge"
+    },
+    {
+      "measure": 30,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 6"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "23b25001b4efc035b775d7a5560bd4bc28cf8270f30e088d02731b502a02358a",
+    "version": "BCFZ"
+  },
+  "tempo": 58,
+  "title": "Isolation",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

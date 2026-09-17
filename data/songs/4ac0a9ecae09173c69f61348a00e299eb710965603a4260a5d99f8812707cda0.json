@@ -1,0 +1,130 @@
+{
+  "artist": "John Mayer",
+  "artistNormalized": "john mayer",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\n[C/E]\n\n[Guitar Solo 1]\n[G]\n[C/E]\n[G]\n[C/E]\n\n[Verse 1]\n[G]Gravity\nis working a-\n[C/E]gainst me\nAnd\n[G]gravity\nwants to bring me\n[C/E]down\nOh I'll\n\n[Chorus]\n[Am7]never know what\nmakes this man With\n[D7]all the love that his\nheart can stand\n[Gm/Bb]Dream of ways to\n[D#maj7]throw it all away\n[D7]\nOh,\n\n[Verse 2]\n[G]gravity\nis working a-\n[C/E]gainst me\nAnd\n[G]gravity\nwants to bring me\n[C/E]down\nOh tw-\n\n[Chorus]\n[Am7]ice as much ain't\ntwice as good And\n[D7]can't sustain like\none half could It's\n[Gm/Bb]wanting more That's gonna\n[D#maj7]send me to my knees\n[D7]\n\n[Guitar Solo 2]\n[G]\n[C/E]\n[G]\n[C/E]\nOh tw-\n\n[Chorus]\n[Am7]ice as much ain't\ntwice as good And\n[D7]can't sustain like\none half could It's\n[Gm/Bb]wanting more That's gonna\n[D#maj7]send me to my knees\n[D7]\nOh\n\n[Verse 3]\n[G]gravity,\nstay the hell a-\n[C/E]way from me\nOh\n[G]gravity\nhas taken better men\n[C/E]than me\nNow, how can that be? Just keep me where the light\n\n[Outro]\n[G]is\nJust keep me where the\n[C/E]light is\nJust keep me where r the\n[G]light is\nC'mon keep me where the\n[C/E]light is\nC'mon keep me where the\n\n[Outro (Fade Out)]\n[G]light is\nC'mon keep me where\n[C/E]keep me where the light is\n[G]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C/E": {
+      "catalog": [
+        "032010"
+      ],
+      "catalogCount": 1
+    },
+    "D#maj7": {
+      "catalog": [
+        "x68786"
+      ],
+      "catalogCount": 1
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gm/Bb": {
+      "catalog": [
+        "x10033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Gravity",
+  "id": "4ac0a9ecae09173c69f61348a00e299eb710965603a4260a5d99f8812707cda0",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 196,
+  "normalizedKey": "john mayer|gravity",
+  "playableChords": [
+    "G",
+    "C/E",
+    "Am7",
+    "D7",
+    "Gm/Bb",
+    "D#maj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Guitar Solo 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Guitar Solo 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    },
+    {
+      "measure": 77,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4ac0a9ecae09173c69f61348a00e299eb710965603a4260a5d99f8812707cda0",
+    "version": "BCFZ"
+  },
+  "tempo": 62,
+  "title": "Gravity",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

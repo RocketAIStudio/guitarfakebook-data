@@ -1,0 +1,119 @@
+{
+  "artist": "Hozier",
+  "artistNormalized": "hozier",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F#m]  [C#]\n[D]\n[A]  [Bm]\n[F#m]\n[C#]\n[D]\n[A]  [Bm]\n[F#m]\n\n[Verse 1]\n[F#m]When I was a child, [A]I hear-\n[D]d voices...\n[Bm]Some would [D]sing and some would scream\n[C#]\n[F#m]You soon find you [A]have\n[D]few choices...\n[Bm]I learned the [C#]voices died with\n[F#m]me\n[F#m]When I was a child I'd [A]sit fo-\n[D]r hours\n[Bm]Staring [D]into open flame\n[C#]\n[F#m]Something in it [A]had a\n[D]power\n[Bm]Could barely [C#]tear my eyes\n[F#m]away\n\n[Chorus]\n[F#m]All you have is your\n[D]fire... [F#m]\nAnd the place you need to reach\n[C#]\n[F#m]Don't you [A]ever,\n[D]tame your [F#m]demon\nBut always [C#]keep 'em on a leash\n[F#m]\n\n[Interlude]\n[F#m]  [C#]\n[D]\n[A]  [Bm]\n[F#m]\n\n[Verse 2]\n[F#m]When I was sixteen my [A]senses\n[D]fooled me\n[Bm]Thought gasoline [D]was on my cloth-\n[C#]es\n[F#m]I knew that something would [A]always\n[D]rule me...\n[Bm]I knew the scent [C#]was mine alone\n[F#m]\n\n[Chorus]\n[F#m]All you have is your\n[D]fire... [F#m]\nAnd the place you need to reach\n[C#]\n[F#m]Don't you [A]ever,\n[D]tame your [F#m]demon\nAlways [C#]keep 'em on a leash\n[F#m]\n\n[Bridge]\n[F#m]When I was a man [C#]I thought it en-\n[D]ded\n[A]When I [Bm]knew loves perfect\n[F#m]ache\nBut my peace has [C#]always depen-\n[D]ded\n[A]On all the [Bm]ashes in my way\n[F#m]\n\n[Chorus]\n[F#m]All you have is your\n[D]fire... [F#m]\nAnd the place you need to reach\n[C#]\n[F#m]Don't you [A]ever,\n[D]tame your [F#m]demon\nBut always [C#]keep 'em on a leash\n[F#m]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x43121",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Arsonist's Lullaby",
+  "id": "20c588d33940eb4fa7bb0d8ebe70b166b1daa2eb9c2934625b82a3ac2a528a01",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 223,
+  "normalizedKey": "hozier|arsonist s lullaby",
+  "playableChords": [
+    "F#m",
+    "C#",
+    "D",
+    "A",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "20c588d33940eb4fa7bb0d8ebe70b166b1daa2eb9c2934625b82a3ac2a528a01",
+    "version": "BCFZ"
+  },
+  "tempo": 65,
+  "title": "Arsonist's Lullaby",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,115 @@
+{
+  "artist": "INXS",
+  "artistNormalized": "inxs",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\n[F]\n[Dm]\n[F]Don't\n\n[Verse 1]\n[Am]ask me What you\n[F]know is true Don't have to\n[Dm]tell you I\n[F]love your precious heart\n\n[Chorus]\n[C]I [F]I was\n[C]standing [F]You were\n[C]there [F]Two worlds col-\n[C]lided [F]And they could\n[Gsus2]never tear us apart\n[Am]\nWe could\n\n[Verse 2]\n[Am]live For a\n[F]thousand years But if I\n[Dm]hurt you I'd make\n[F]wine from your tears I\n[Am]told you That\n[F]we could fly 'Cause we\n[Dm]all have wings But\n[F]some of us don't know why\n\n[Chorus]\n[C]I [F]I was\n[C]standing [F]You were\n[C]there [F]Two worlds col-\n[C]lided [F]And they could\n[Gsus2]never ever tear us a-\npart [Am]\n\n[Solo]\n[Am]\n[F]\n[Dm]\n[F]\n\n[Chorus]\n[C]I [F]I was\n[C]standing [F]You were\n[C]there [F]Two worlds col-\n[C]lided [F]And they could\n[Gsus2]never tear us apart\n\n[Outro]\n[C]I [F]You were\n[C]standing [F]I was\n[C]there [F]Two worlds col-\n[C]lided [F]And they could\n[Gsus2]never tear us apart [F]\n[C]  [F]\n[C]  [F]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus2": {
+      "catalog": [
+        "3000xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Never Tear Us Apart",
+  "id": "8c076ea0c4a2b683a9018734856dc483ec0760e5bec232518a96b27fe9d506b2",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 149,
+  "normalizedKey": "inxs|never tear us apart",
+  "playableChords": [
+    "Am",
+    "F",
+    "Dm",
+    "C",
+    "Gsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Solo"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8c076ea0c4a2b683a9018734856dc483ec0760e5bec232518a96b27fe9d506b2",
+    "version": "BCFZ"
+  },
+  "tempo": 97,
+  "title": "Never Tear Us Apart",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

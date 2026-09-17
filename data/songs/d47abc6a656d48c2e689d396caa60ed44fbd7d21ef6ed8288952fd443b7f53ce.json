@@ -1,0 +1,115 @@
+{
+  "artist": "Joe Walsh",
+  "artistNormalized": "joe walsh",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n\n[Verse 1]\n[C]So many\nroads to walk\n[F]Guess that's how it\n[C]goes\nSo many\nwords to talk\n[F]No one really\n[C]knows\n[G]  [C]\n[F]The ways to say the mea-\n[C]ning [G][C]\n[F]Or the meaning of the\n[C]names [G][C]\n[F]Here I am Lord\n[C]Walking down the road And I'm\n[F]on my [C]own a-\n[Dm]gain\n[G]With the\n[C]rosewood bitters\n\n[Verse 2]\n[C]Too much going\non today\n[F]Hard to draw the\n[C]line\nCan't see going\non this way\n[F]Justifies the\n[C]time\n[G]  [C]\n[F]With pleasures of the mo-\n[C]ment [G][C]\n[F]No it don't seem\n[C]right [G][C]\n[F]Here I am Lord\n[C]One more for the road Good\n[F]night [C]Irene good\n[Dm]night\n[G]And the\n\n[Chorus]\n[F]rosewood bitters\nWake me with a smile in the mor-\n[C]ning\nOh and the\n[F]rosewood bitters\nHelp me with the times I feel\n[C]blue\n\n[Interlude]\n[C]\n[F]  [Em]\n[Dm]\n[F]  [Em]\n[Dm]\n[F]  [Em]\n[Dm]\n[G]And the\n\n[Chorus]\n[F]rosewood bitters\nWake me with a smile in the mor-\n[C]ning\nOh and the\n[F]rosewood bitters\nHelp me with the times I feel\n[C]blue\n\n[Outro]\n[C]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "rosewood bitters",
+  "id": "d47abc6a656d48c2e689d396caa60ed44fbd7d21ef6ed8288952fd443b7f53ce",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 169,
+  "normalizedKey": "joe walsh|rosewood bitters",
+  "playableChords": [
+    "C",
+    "F",
+    "G",
+    "Dm",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Interlude"
+    },
+    {
+      "measure": 68,
+      "name": "Chorus"
+    },
+    {
+      "measure": 76,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d47abc6a656d48c2e689d396caa60ed44fbd7d21ef6ed8288952fd443b7f53ce",
+    "version": "BCFZ"
+  },
+  "tempo": 97,
+  "title": "rosewood bitters",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

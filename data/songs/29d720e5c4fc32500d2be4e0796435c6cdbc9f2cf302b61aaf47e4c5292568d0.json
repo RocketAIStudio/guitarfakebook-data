@@ -1,0 +1,122 @@
+{
+  "artist": "Jack Johnson",
+  "artistNormalized": "jack johnson",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[B]\n[D#]\n[G#m]\n[E]\n[B]\n[G#m]\n[F#]\n[E]\n[B]\n\n[Verse 1]\n[B]No Good with faces and I'm\n[D#]bad with names\n[G#m]Gave me directions but it's\n[E]all the same, oh no\n[B]I'm lost\n[G#m]\n[F#]I'm too\n[E]tired to try\n[B]\n\n[Verse 2]\n[B]Streetlamps are broken black the\n[D#]way I came\n[G#m]Who broke the moonlight watch it\n[E]wax and wane, oh no\n[B]I'm lost\n[G#m]\n[F#]I'm too\n[E]tired to try\n[B]\n[B/A#]\n\n[Chorus]\n[G#m]Let's not get ahead\n[B]of ourselves now\n[E]There's no need for rain,\n[B]it's our own [B/A#]parade\n[G#m]Let's not be afraid\n[B]of our reflections\n[E]It's not only you\n[D#]you're looking at now\n\n[Interlude]\n[B]\n[D#]\n[G#m]\n[E]\n[B]\n[G#m]\n[F#]\n[E]\n[B]\n\n[Verse 3]\n[B]Road signs are stolen left here\n[D#]hole in this flame\n[G#m]Who stole my patience, who\n[E]stole my way, oh no\n[B]I'm lost\n[G#m]\n[F#]I'm too\n[E]tired to try\n[B]\n[B/A#]\n\n[Chorus]\n[G#m]Let's not get ahead\n[B]of ourselves now\n[E]There's no need for rain,\n[B]it's our own [B/A#]parade\n[G#m]Let's not be afraid\n[B]of our reflections\n[E]It's not only you\n[D#]you're looking at now\n\n[Bridge]\n[G#m]Let's not get ahead\n[B]of ourselves now\n[E]There's no need for raid\n[B]it's our own parade\n[G#m]Let's not be afraid\n[B]of our reflections\n[E]It's not only you\n[B]you're looking [D#]at now\n[E]Who\n[G#m]you're looking at now\n[E]Who\n[G#m]you're looking at now\n[E]\n[F#]\n\n[Verse 4 / Outro]\n[B]No Good with faces and I'm\n[D#]bad with names\n[G#m]Gave me directions but it's\n[E]all the same, oh no\n[B]I'm lost\n[G#m]\n[F#]I'm too\n[E]tired to try\n[B]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B/A#": {
+      "catalog": [
+        "6998xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#": {
+      "catalog": [
+        "x68886"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "No Good With Faces",
+  "id": "29d720e5c4fc32500d2be4e0796435c6cdbc9f2cf302b61aaf47e4c5292568d0",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 250,
+  "normalizedKey": "jack johnson|no good with faces",
+  "playableChords": [
+    "B",
+    "D#",
+    "G#m",
+    "E",
+    "F#",
+    "B/A#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Interlude"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Bridge"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 4 / Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "29d720e5c4fc32500d2be4e0796435c6cdbc9f2cf302b61aaf47e4c5292568d0",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "No Good With Faces",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

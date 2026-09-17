@@ -1,0 +1,119 @@
+{
+  "artist": "Judas Priest",
+  "artistNormalized": "judas priest",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n[C]\n[D]\n[Em]\n[C]\n[D]\n[Em]\nNow when the\n\n[Verse 1]\n[Em]day goes to sleep and the\nfull moon looks\n[G]  [A]  [G]\n[A][G][Em]And the\nnight is so black that the\ndarkness cooks\n[G]  [A]  [G]\n[A][G][Em]And you come\n[G]creeping around,\n[A]making me do things I don't\n[Em]want to do\n\n[Bridge]\n[Em]\n[D]\n[Em]\n[D]\n[Em]\n[D]\n[Em]\n[D]\n[Em]\nCan't be-\n\n[Verse 2]\n[Em]lieve that you need my love\nso bad\n[G]  [A]  [G]\n[A][G][Em]Come\nsneaking around, trying to\ndrive me mad\n[G]  [A]  [G]\n[A]  [G]  [Em]\n[G]Busting in all my dreams,\n[A]making me see things I don't\n[Em]want to see\n\n[Bridge]\n[Em]\n[D]\n[Em]\n[D]\n[Em]\n[D]\n[Em]\n[D]\n\n[Solo]\n[Em]\n[C]\n[D]\n[Em]\n[C]\n[D]\n[Em]\n[C]\n[D]\n[Em]\n[C]\n[D]\n[Em]\n'Cause you're the\n\n[Verse 3]\n[Em]Green Manalishi with the\ntwopronged crown\n[G]  [A]  [G]\n[A][G][Em]All night\ndragging us up, or you're\nbringing us down\n[G]  [A]  [G]\n[A][G][Em]Just\n[G]taking my love, and slip away\n[A]Leaving me here, try-\n[Em]ing to keep from following you\n\n[Outro]\n[Em]\n[C]\n[D]\n[Em]\n[C]\n[D]\n[Em]\n[C]\n[D]\n[Em]\n[C]\n[D]\n[Em]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Green Manalishi (With The Two-Pronged Crown) *alt",
+  "id": "b91f2170cb6519d87aa1f17cc6822cac46b7f300c00be9dd0589ebc07c4ec8a9",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 123,
+  "normalizedKey": "judas priest|the green manalishi with the two pronged crown",
+  "playableChords": [
+    "Em",
+    "C",
+    "D",
+    "G",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 48,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 77,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 88,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b91f2170cb6519d87aa1f17cc6822cac46b7f300c00be9dd0589ebc07c4ec8a9",
+    "version": "BCFZ"
+  },
+  "tempo": 124,
+  "title": "The Green Manalishi (With The Two-Pronged Crown)",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

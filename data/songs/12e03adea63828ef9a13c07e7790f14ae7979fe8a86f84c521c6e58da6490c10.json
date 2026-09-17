@@ -1,0 +1,116 @@
+{
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnny cash",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n\n[Verse 1]\n[A]You wired me awake And\nhit me with a hand of broken na-\nils\nYou tied my lead and pulled my\nchain To watch my blood begin to boil\nBut I'm going to break [G]\n\n[Chorus]\n[A]I'm going to break my [G]\n[A]Going to break my [G]rusty\n[A]cage and run\nI'm going to break [G]\n[A]I'm going to break my [G]\n[A]Going to break my rusty\n[G]cage\n\n[Pre-Verse]\n[A]and run\n\n[Verse 2]\n[A]Too cold to start a fire I'm\nburning diesel, burning dinosaur\nbones\nI'll take the river down to\nStillwater And ride a pack of dogs\nBut I'm going to break [G]\n\n[Chorus]\n[A]I'm going to break my [G]\n[A]Going to break my [G]rusty\n[A]cage and run\nI'm going to break [G]\n[A]I'm going to break my [G]\n[A]Going to break my rusty\n[G]cage\nand run\n\n[Bridge]\n[E]\nWhen the\n\n[Verse 3]\n[E]forest burns along the road\nLike\nGod's eyes in my headlights\nWhen the\ndogs are looking for their bones\nAnd it's\nraining icepicks on your steel shore\n\n[Chorus]\n[E]But I'm going to break\nI'm going to break my\nGoing to break my rusty\ncage and run\nI'm going to break\nI'm going to break my\nGoing to break my rusty\ncage and run\nBut I'm going to break\nI'm going to break my\nGoing to break my rusty\ncage and run\nI'm going to break\nI'm going to break my\nGoing to break my rusty\n[D]cage\nand\n\n[Outro]\n[E]run",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rusty cage",
+  "id": "12e03adea63828ef9a13c07e7790f14ae7979fe8a86f84c521c6e58da6490c10",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 253,
+  "normalizedKey": "johnny cash|rusty cage",
+  "playableChords": [
+    "A",
+    "G",
+    "E",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Bridge"
+    },
+    {
+      "measure": 44,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "12e03adea63828ef9a13c07e7790f14ae7979fe8a86f84c521c6e58da6490c10",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Rusty cage",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

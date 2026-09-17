@@ -1,0 +1,130 @@
+{
+  "artist": "John Denver & Placido Domingo",
+  "artistNormalized": "john denver placido domingo",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]  [F#m]\n[D]  [E]\n[A]  [F#m]\n[Bm]  [E]\nPerhaps\n\n[Verse 1]\n[A]love is like a [F#m]resting place A\n[Bm]shelter from the [E]storm, it e-\n[A]xists to give you [F#m]comfort It is\n[Bm]there to keep you [E]warm, and\n[C#m]in those times of [F#m]trouble When\n[D]you are most [E]alone, the\n[Bm]memory of [E]love will bring you\n[A]home [E]Perhaps\n\n[Verse 2]\n[A]love is like a [F#m]window Per-\n[Bm]haps an open door, [E]it in-\n[A]vites you to come [F#m]close It\n[Bm]wants to show you more, [E]and\n[C#m]even if you [F#m]lose yourself And\n[D]don't know what to do [E]the\n[Bm]memory of [E]love will see you\n[A]through Oh,\n\n[Chorus]\n[C#m]love to some is [F#m]like a cloud To\n[D]some as strong [E]as steel, [A]for\n[C#m]some a way of [F#m]living For\n[D]some a way [E]to [A]feel, and\n[C#m]some say love is [F#m]holding on And\n[D]some say [E]letting [A]go, and\n[C#m]some say love is [F#m]everything\n[Bm]Some say they don't [E]know\nPerhaps\n\n[Verse 3]\n[A]love is like the [F#m]ocean full of\n[Bm]conflict, full of [E]pain Like a\n[A]fire when its [F#m]cold outside,\n[Bm]or thunder when it [E]rains If\n[C#m]I should live [F#m]forever and\n[D]all my dreams come [E]true My\n[Bm]memories of [E]love will be of\n[A]you\n\n[Interlude]\n[C#m]  [F#m]\n[D]  [E]  [A]\n[C#m]  [F#m]\n[D][E][A]And\n\n[Chorus]\n[C#m]some say love is [F#m]holding on And\n[D]some say [E]letting [A]go, and\n[C#m]some say love is [F#m]everything\n[Bm]Some say they don't [E]know\nPerhaps\n\n[Ourto]\n[A]love is like the [F#m]ocean full of\n[Bm]conflict, full of [E]pain Like a\n[A]fire when its cold [F#m]outside,\n[Bm]or thunder when it [E]rains If\n[C#m]I should live [F#m]forever and\n[D]all my dreams come [E]true My\n[Bm]memories of [E]love will be of\n[A]you [F#m]\n[D]  [E]  [A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Perhaps Love",
+  "id": "d87614fa668016a94db7a232f08a0257cf67345edab51cb2be9b02e9313e7906",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 290,
+  "normalizedKey": "john denver placido domingo|perhaps love",
+  "playableChords": [
+    "A",
+    "F#m",
+    "D",
+    "E",
+    "Bm",
+    "C#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 40,
+      "name": "Interlude"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Ourto"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d87614fa668016a94db7a232f08a0257cf67345edab51cb2be9b02e9313e7906",
+    "version": "BCFZ"
+  },
+  "tempo": 77,
+  "title": "Perhaps Love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

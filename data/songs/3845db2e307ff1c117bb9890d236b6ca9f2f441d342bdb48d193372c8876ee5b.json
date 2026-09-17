@@ -1,0 +1,118 @@
+{
+  "artist": "Joan Baez",
+  "artistNormalized": "joan baez",
+  "capo": "4",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\n[D]\n[A]\n[D]\nDon't sing\n\n[Verse 1]\n[A]love songs,\nyou'll wake\n[D]my mo ther\nShe's sleeping\n[A]here\nright by\n[Bm]my side\nAnd in her\n[G]right hand\na sil ver\n[Em]dagger,\nShe says that\n[Bm]I\n[G]can't be\n[A]your bride.\n[G]\n[A]\nAll men are\n\n[Verse 2]\n[A7]false,\nsays my\n[D]mo ther,\nThey'll tell you\n[A]wicked,\nlo vin'\n[Bm]lies.\nThe very next\n[G]evening,\nthey'll court a-\n[Em]nother,\nLeave you a\n[Bm]lone\n[G]to pine and\n[A]sigh.\n[G]\n[A]\nMy daddy\n\n[Verse 3]\n[A7]is\na handsome\n[D]de vil\nHe's got a\n[A]chain\nfive miles\n[Bm]long,\nAnd on eve-\n[G]ry link\na heart does\n[Em]dangle\nOf another\n[Bm]maid\n[G]he's loved and\n[A]wronged.\n[G]\n[A]\nGo court a\n\n[Verse 4]\n[A7]no\nther tender\n[D]mai den,\nAnd hope that\n[A]she\nwill be your\n[Bm]wife,\nFor I have\n[G]been warned,\nand I've de-\n[Em]cided\nTo sleep a\n[Bm]lone\n[G]all of my\n[A]life.\n[G]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Silver Dagger",
+  "id": "3845db2e307ff1c117bb9890d236b6ca9f2f441d342bdb48d193372c8876ee5b",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 149,
+  "normalizedKey": "joan baez|silver dagger",
+  "playableChords": [
+    "A",
+    "D",
+    "Bm",
+    "G",
+    "Em",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3845db2e307ff1c117bb9890d236b6ca9f2f441d342bdb48d193372c8876ee5b",
+    "version": "BCFZ"
+  },
+  "tempo": 138,
+  "title": "Silver Dagger",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

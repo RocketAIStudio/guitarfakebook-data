@@ -1,0 +1,143 @@
+{
+  "artist": "Jimi Hendrix",
+  "artistNormalized": "jimi hendrix",
+  "capo": "No capo",
+  "chordPositionCount": 37,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[Ebm7]\n[Gb]\n[Abm7]\n[Ebm7]\n[Bbm7]  [A]\n[Abm7]  [B]\n[Gb]  [Eadd9]  [Esus2]\n[B]\n[Db]\nWell she's\n\n[Verse 1]\n[Ebm7]walking through the clo-\n[Gb]uds With a\n[Abm7]circus mind That's running\n[Ebm7]wild\n[Bbm7]Butterflies and zebras and [A]moonbea-\n[Abm7]ms And [B]fairy ta-\n[Gb]les That's [Eadd9]all she ever thinks about\n[B]Riding with the\n[Db]wind\nWhen I'm\n\n[Verse 2]\n[Ebm7]sad she comes to m-\n[Gb]e With a thou-\n[Abm7]sand smiles She gives to me\n[Ebm7]free\n[Bbm7]It's alright, she says [A]It's alright\n[Abm7]Take [B]anything you want\n[Gb]from me [Eadd9]Anything\n[B]\n[Db]Anything\n\n[Solo]\n[Ebm7]\n[Gb]Fly on little wing.\n[Abm7]\n[Ebm7]\n[Bbm7]  [A]\n[Abm7]  [B]\n[Gb]  [Eadd9]\n[B]\n[Db]\n\n[Fade Out]\n[Ebm7]\n[Gb]\n[Abm7]\n[Ebm7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x13331",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Abm7": {
+      "catalog": [
+        "x02010",
+        "4-6-4-4-4-4",
+        "x-x-6-8-7-7",
+        "x-11-13-11-12-11",
+        "16-18-16-16-16-16"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x32010",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm7": {
+      "catalog": [
+        "x2423x",
+        "x-1-3-1-2-1",
+        "6-8-6-6-6-6",
+        "x-x-8-10-9-9",
+        "x-13-15-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Eadd9": {
+      "catalog": [
+        "xx3213"
+      ],
+      "catalogCount": 1
+    },
+    "Ebm7": {
+      "catalog": [
+        "022030",
+        "x-x-1-3-2-2",
+        "x-6-8-6-7-6",
+        "11-13-11-11-11-11",
+        "x-x-13-15-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "Esus2": {
+      "catalog": [
+        "xx3011"
+      ],
+      "catalogCount": 1
+    },
+    "Gb": {
+      "catalog": [
+        "355433",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Little Wing *alt 4",
+  "id": "ee0b186d73af41fd5e5946ee9c13b7245b9459fd2dc3977cbd32396c7a1128af",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 94,
+  "normalizedKey": "jimi hendrix|little wing",
+  "playableChords": [
+    "Ebm7",
+    "Gb",
+    "Abm7",
+    "Bbm7",
+    "A",
+    "B",
+    "Eadd9",
+    "Esus2",
+    "Db"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Solo"
+    },
+    {
+      "measure": 42,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ee0b186d73af41fd5e5946ee9c13b7245b9459fd2dc3977cbd32396c7a1128af",
+    "version": "BCFZ"
+  },
+  "tempo": 67,
+  "title": "Little Wing",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

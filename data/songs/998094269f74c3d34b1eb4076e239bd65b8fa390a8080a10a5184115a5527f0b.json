@@ -1,0 +1,104 @@
+{
+  "artist": "Jack Johnson",
+  "artistNormalized": "jack johnson",
+  "capo": "3",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n[G]\n[Em]\n[G]\n\n[Verse 1]\n[D]When your mind is a mess\nso is mine I can't sle-\n[G]ep 'Cause it hurts when I think\nmy thoughts aren't at pe-\n[Em]ace With the plans that we ma-\nke, chances we ta-\n[G]ke They're not yours they're not mi-\nne There's waves I can't bre-\n[D]ak All the words that we sa-\nid ain't the words that we me-\n[G]an Words can fall short\ncan't see the unse-\n[Em]en 'Cause the world is awa-\nke for somebody's sa-\n[G]ke Now please close your ey-\nes woman please get some sle-\n\n[Chorus]\n[D]ep And know that if I\n[A]knew all of the [G]answers I wo-\n[D]uld not hold them from you\n[A]Know all of the [G]things that I know\n[D]'Cause we've told each other\n[A]There is no [G]other wa-\n[Em]y\nMm, mm,\n[G]mm\n\n[Interlude]\n[D]\n\n[Verse 2]\n[D]Well, too much silence can be\nmisleading You're\n[G]drifting I can hear it in the\nway that you're breathing We\n[Em]don't really need to find re-\nason 'cause out the same do-\n[G]or that it came But it's le-\naving, it's leaving\n[D]Leaving like a day that's done a\npart of a season Re-\n[G]solve is just a concept that's just\ndead as the leaves But at le-\n[Em]ast we could sleep it's\nall that we need When we wa-\n[G]ke we would find our\nminds would be free to go to\n\n[Chorus]\n[D]sleep And know that if I\n[A]knew all of the [G]answers I wo-\n[D]uld not hold them from you\n[A]Know all of the [G]things that I know\n[D]'Cause we've told each other\n[A]There is no [G]other wa-\n[Em]y\nMm, mm,\n[G]mm\n\n[Outro]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "222000",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "5554xx",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "No Other Way",
+  "id": "998094269f74c3d34b1eb4076e239bd65b8fa390a8080a10a5184115a5527f0b",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 305,
+  "normalizedKey": "jack johnson|no other way",
+  "playableChords": [
+    "D",
+    "G",
+    "Em",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Interlude"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 71,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "998094269f74c3d34b1eb4076e239bd65b8fa390a8080a10a5184115a5527f0b",
+    "version": "BCFZ"
+  },
+  "tempo": 116,
+  "title": "No Other Way",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,107 @@
+{
+  "artist": "Jeremy Messersmith",
+  "artistNormalized": "jeremy messersmith",
+  "capo": "4",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Am]\n[C]\n[F]\n[G]\n[Am]\n[C]\n[F]\n[G]\n\n[Verse 1]\n[Am]\nLucy takes the\n[C]long way\n[F]home\n[G]\n[Am]\nMeets me in a\n[C]field of\n[F]stone\n[G]\n[Am]She says I don't\nknow how I'm suppo-\n[C]sed to feel\n[F]\n[G]\n[Am]My body's cold\nmy guts are\n[C]twisted\n[F]steel\n[G]\n\n[Chorus]\n[Am]And I feel like\n[G]I'm some kind of\n[F]Frankenstein\n[C]  [C/B]\n[Am]Waiting for a\n[G]shock to bring me\n[F]back to life\n[C][C/B]But I\n[Am]don't want to\n[G]spend my time\n[F]\n[Am]Waiting for\n[G]lightning to\n[F]strike\n\n[Interlude]\n[Am]\n[C]\n[F]\n[G]\n[Am]\n[C]\n[F]\n[G]\n\n[Verse 2]\n[Am]So,\nunderneath a\n[C]concrete\n[F]sky\n[G]\n[Am]\nLucy puts her\n[C]hand in\n[F]mine\n[G]\n[Am]She says\nlife's a game we're\n[C]meant to lose\n[F]\n[G]\n[Am]But stick by\nme and I will\n[C]stick by\n[F]you\n[G]\n\n[Chorus]\n[Am]'Cause I'm like a\n[G]princess in a\n[F]castle high\n[C]  [C/B]\n[Am]Waiting for a\n[G]kiss to bring me\n[F]back to life\n[C][C/B]But I\n[Am]don't want to\n[G]spend my\n[F]time\n[Am]Waiting for\n[G]just another\n[F]guy\nHuu..\n\n[Interlude / Outro]\n[Am]\n[C]\n[F]\n[G]\n[Am]\n[C]\n[F]\n[G]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/B": {
+      "catalog": [
+        "x22010"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "A Girl, a Boy, and a Graveyard",
+  "id": "9ea574fc226342d8e334384cee702ee6879b95f738e56d0bdb2f18baf1418808",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 146,
+  "normalizedKey": "jeremy messersmith|a girl a boy and a graveyard",
+  "playableChords": [
+    "Am",
+    "C",
+    "F",
+    "G",
+    "C/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Interlude"
+    },
+    {
+      "measure": 75,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 103,
+      "name": "Chorus"
+    },
+    {
+      "measure": 121,
+      "name": "Interlude / Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9ea574fc226342d8e334384cee702ee6879b95f738e56d0bdb2f18baf1418808",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "A Girl, a Boy, and a Graveyard",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

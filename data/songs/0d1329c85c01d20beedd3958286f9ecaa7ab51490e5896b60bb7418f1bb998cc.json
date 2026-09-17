@@ -1,0 +1,95 @@
+{
+  "artist": "Jamie N Commons",
+  "artistNormalized": "jamie n commons",
+  "capo": "4",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Dm]\n[Dm/F]  [Dm/E]\n[Dm]\n\n[Verse 1]\n[Dm]Oh lord live inside me\nLead me on my way\nOh lord live inside me\nLead me on my way Lead me\n[Dm/F]home\n[Dm/E]Lead me\n[Dm]home\n\n[Verse 2]\n[Dm]Oh lord in the darkness\nLead me on my way\nOh lord in the darkness\nLead me on my way Lead me\n[Dm/F]home\n[Dm/E]Lead me\n[Dm]home\n\n[Interlude]\n[Bbmaj7/D]Hummm\n[Gm6/D]\n[Dm]\n[Bbmaj7/D]Hummm\n[Gm6/D]\n[Dm]\n\n[Verse 3]\n[Dm]Oh lord heaven's waiting\nOpen up your door\nOh lord heaven's waiting\nOpen up your door Lead me\n[Dm/F]home\n[Dm/E]Lead me\n[Dm]home\nLead me\n\n[Outro]\n[Dm/F]home\n[Dm/E]Lead me\n[Dm]home\nLead me\n[Dm/F]home\n[Dm/E]Lead me home\n[Dm]",
+  "diagrams": {
+    "Bbmaj7/D": {
+      "catalog": [
+        "010231"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "0x0231",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm/E": {
+      "catalog": [
+        "2x0231"
+      ],
+      "catalogCount": 1
+    },
+    "Dm/F": {
+      "catalog": [
+        "3x0231"
+      ],
+      "catalogCount": 1
+    },
+    "Gm6/D": {
+      "catalog": [
+        "01203x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lead Me Home",
+  "id": "0d1329c85c01d20beedd3958286f9ecaa7ab51490e5896b60bb7418f1bb998cc",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 103,
+  "normalizedKey": "jamie n commons|lead me home",
+  "playableChords": [
+    "Dm",
+    "Dm/F",
+    "Dm/E",
+    "Bbmaj7/D",
+    "Gm6/D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Interlude"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 42,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0d1329c85c01d20beedd3958286f9ecaa7ab51490e5896b60bb7418f1bb998cc",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "Lead Me Home",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

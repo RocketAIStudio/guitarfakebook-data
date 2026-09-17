@@ -1,0 +1,145 @@
+{
+  "artist": "John Mayer",
+  "artistNormalized": "john mayer",
+  "capo": "2",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[A]\n[D/A]\n[A]\n[D/A]I guess I just\n\n[Verse 1]\n[A]feel like\n[D/A]I guess I just\n[A]feel like\n[D/A]Nobody's\n[F#m]honest, nobody's\n[D]true Everyone's\n[F#m]lyin' to make it on\n[D]through I guess I just\n[A]feel like\n[D/A]I'm the same way\n[A]too\n[D/A]\n\n[Break]\n[A]Ooh\n[D]ooh,\n[A]ooh\n[D]ooh I guess I just\n\n[Verse 2]\n[A]feel like\n[D/A]good things are\n[A]gone\n[D/A]And the weight of my\n[A]worries\n[D/A]is too much to take\n[A]on\n[D/A]I think I re-\n[F#m]member the dream that I\n[D]had That love's gonna\n[F#m]save us from a world that's gone\n[D]mad I guess I just\n[A]feel like\n[D/A]What happened to\n[A]that?\n[D/A]\n\n[Solo 1]\n[G]\n[F#m]\n[G]\n[F#m]\n[E]\n\n[Break]\n[A]\n[D/A]\n[Amaj7]\n[D/A]I guess I just\n\n[Verse 3]\n[A]feel like\n[D/A]the joke's gettin'\n[A]old\n[D/A]And the future is\n[A]fading\n[D/A]and the past is on\n[A]hold\n[D/A]But I know that I'm\n[F#m]open and I know that I'm\n[D]free And I'll always let\n[F#m]hope in wherever I'll\n[D]be And if I go\n[F#m]blind, I'd still find my\n[D]way I guess I just\n[A]felt like\n[D/A]givin' up to-\n[A]day\n[D/A]\n\n[Break]\n[A]\n[D/A]Mmm, yeah, yeah\n[A]\n[D/A]\n\n[Solo 2]\n[A]\n[D/A]\n[A]\n[D/A]\n[A]\n[D/A]\n[A]\n[D/A]\n[A]\n[D/A]\n[A]\n[D/A]\n[A]\n[D/A]\n[A]\n[D/A]\n\n[Outro (Fade Out)]\n[A]\n[D/A]\n[A]\n[D/A]\n[A]\n[D/A]\n[A]\n[D/A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Amaj7": {
+      "catalog": [
+        "x02120",
+        "5-4-2-2-2-4",
+        "5-7-6-6-5-5",
+        "x-x-7-9-9-9",
+        "x-12-11-9-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x0423x"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Guess I Just Feel Like",
+  "id": "2ba5888afe010688ed5f04db466a0cce9c6e31c5bee7599001e475e5a8ccfbcb",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 175,
+  "normalizedKey": "john mayer|guess i just feel like",
+  "playableChords": [
+    "A",
+    "D/A",
+    "F#m",
+    "D",
+    "G",
+    "E",
+    "Amaj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Break"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 45,
+      "name": "Break"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 67,
+      "name": "Break"
+    },
+    {
+      "measure": 71,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 87,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2ba5888afe010688ed5f04db466a0cce9c6e31c5bee7599001e475e5a8ccfbcb",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Guess I Just Feel Like",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,85 @@
+{
+  "artist": "Jimi Hendrix",
+  "artistNormalized": "jimi hendrix",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Bb7]\n[Eb7]\n[Bb7]\n[F7]\n[Eb7]\n[Bb7]\nThere's a\n\n[Verse 1]\n[Bb7]red house over yonder,\nThat's where my baby stays\n[Eb7]Lord, there's a red house over yonder\nLord, that's where my baby sta-\n[Bb7]ys\n[F7]I ain't been home to see my baby\n[Eb7]In ninety nine and one half days\n[Bb7]\nWait a\n\n[Verse 2]\n[Bb7]minute, something's wrong here\nThe key won't unlock this door\n[Eb7]Wait a minute, something's wrong,\nlord, have mercy This key won't unlock\n[Bb7]this door, Something's goin' on here\nI have a\n[F7]bad bad feeling\n[Eb7]That my baby don't live here no more\n[Bb7]\nThat's alright, i still got my guitar, look out now\n\n[Solo]\n[Bb7]\n[Eb7]\n[Bb7]\n[F7]\n[Eb7]\n[Bb7]\nWell, I might as well\n\n[Verse 3]\n[Bb7]go back over yonder,\nWay back up on the hill\nThat's something to do\n[Eb7]Lord, I might as well go back over yonder,\nWay back yonder cross the hill\n[Bb7]\n[F7]'Cause if my baby don't love me no more\n[Eb7]I know her sister will\n[Bb7]",
+  "diagrams": {
+    "Bb7": {
+      "catalog": [
+        "x21202",
+        "x-1-3-1-3-1",
+        "6-5-3-3-3-4",
+        "6-8-6-7-6-6",
+        "x-x-8-10-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb7": {
+      "catalog": [
+        "020100",
+        "x-x-1-3-2-3",
+        "x-6-5-6-4-3",
+        "x-6-8-6-8-6",
+        "11-10-8-8-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "242322",
+        "1-3-1-2-1-1",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Red House *alt",
+  "id": "9a89fc14b6b1a4204feeb06a3fb66156c242db2f79068bec34c2e02e6c3dd2dc",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 163,
+  "normalizedKey": "jimi hendrix|red house",
+  "playableChords": [
+    "Bb7",
+    "Eb7",
+    "F7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Solo"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9a89fc14b6b1a4204feeb06a3fb66156c242db2f79068bec34c2e02e6c3dd2dc",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Red House",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

@@ -1,0 +1,100 @@
+{
+  "artist": "J. J. Cale",
+  "artistNormalized": "j j cale",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Em]\n[A]\n[Em]\n[A]\n[Em]\n[G]\n[A]\n[Em]\n\n[Verse 1]\n[Em]Bring down the curtain,\nsaw the show tonight\nIt's so\n[A]dark outside,\nsoon be li-\n[Em]ght\nE-\n[A]nough is enough,\ncan't do it no\n[Em]more\n[G]Bring down the curtain,\n[A]close the door\n[Em]\n\n[Verse 2]\n[Em]Sometime you do,\nsometime you don't\nSometime you will and\nsometime you won't Some-\n[A]times it's better\nto leave it\n[Em]alone\n[A]Slow it down, ease\nit, you let it be\n[Em]gone, gone,\ngone\n[G]Bring down the curtain,\n[A]we've been movin' on\n[Em]\n\n[Solo]\n[Em]\n[A]\n[Em]\n[A]\n[Em]\n[G]\n[A]\n[Em]\n\n[Verse 3]\n[Em]Say what you want,\nit's something else again\nNo\n[A]matter what you say,\nit'll come to an\n[Em]end\nE-\n[A]nough is enough,\ncan't do it no\n[Em]more\n[G]Bring down the curtain\n[A]\n[G]Bring down the curtain\n[A]\n[G]Bring down the curtain,\n[A]close the door\n\n[Outro]\n[Em]\n[E7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bring Down The Curtain",
+  "id": "ed73a20d4c211be9aa9a8dc098cb04b8ccaa57f204b117ec7d558e922a289161",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 132,
+  "normalizedKey": "j j cale|bring down the curtain",
+  "playableChords": [
+    "Em",
+    "A",
+    "G",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 66,
+      "name": "Solo"
+    },
+    {
+      "measure": 82,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 100,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ed73a20d4c211be9aa9a8dc098cb04b8ccaa57f204b117ec7d558e922a289161",
+    "version": "BCFZ"
+  },
+  "tempo": 146,
+  "title": "Bring Down The Curtain",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

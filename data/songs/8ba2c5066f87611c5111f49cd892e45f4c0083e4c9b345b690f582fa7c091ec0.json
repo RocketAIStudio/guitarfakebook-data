@@ -1,0 +1,133 @@
+{
+  "artist": "InMe",
+  "artistNormalized": "inme",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Dsus2]\n[Am]\n[E/G#]\n[Am]\n\n[Verse 1]\n[Am]Father, oh dear Father won't you\ncome in from the cold? I can\nhear the drunks in the background and it's getting\nkind of old. Oh\n[Dm]Father\n[F]won't you come in from the\n[Am]cold?\nSomeday when I'm older I'll be\neating these here words. The\ngrand scheme closes in on me, sobrie-\nty grows blurred. Oh\n[Dm]Father\n[F]I'll be eating these here\n[Am]wo rds.\nAnd I know that the\n\n[Chorus]\n[C]poison\nclouds the screams and the\n[E]noise\nand we nearly got\n[Am]away this time\nbut you cannot es-\n[Dsus2]cape these problems.\nSoftly\n\n[Verse 2]\n[Am]longing for a hero in a\nlife of living hard.\nTinkling the ivories in an\nelephant graveyard. Oh\n[Dm]Father\n[F]won't you stop living so\n[Am]hard?\nAnd I know that the\n\n[Chorus]\n[C]poison\nclouds the screams and the\n[E]noise\nand we nearly got\n[Am]away this time\nbut you cannot es-\n[Dsus2]cape these problems.\nBut these so called\n[C]heroes\nare all so del-\n[E]irious\nthat they’ll never get\n[Am]away this time.\nGiving up giving up is our\n[Dsus2]only crime.\n\n[Solo]\n[Dm]\n[Am]\n[E/G#]\n[C]\n[Dm]\n[Am]\n[E/G#]\n[Am]\nAnd I know that the\n\n[Chorus]\n[C]poison\nclouds the screams and the\n[E]noise\nand we nearly got\n[Am]away this time\nbut you cannot es-\n[Dsus2]cape these problems.\nBut these so called\n[C]heroes\nare all so del-\n[E]irious\nthat they’ll never get\n[Am]away this time.\nGiving up giving up is our\n[Dsus2]only crime.\n\n[Outro]\n[Am]\n[E/G#]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E/G#": {
+      "catalog": [
+        "422400"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hymn: Ivory Elder",
+  "id": "8ba2c5066f87611c5111f49cd892e45f4c0083e4c9b345b690f582fa7c091ec0",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 249,
+  "normalizedKey": "inme|hymn ivory elder",
+  "playableChords": [
+    "Dsus2",
+    "Am",
+    "E/G#",
+    "Dm",
+    "F",
+    "C",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8ba2c5066f87611c5111f49cd892e45f4c0083e4c9b345b690f582fa7c091ec0",
+    "version": "BCFZ"
+  },
+  "tempo": 124,
+  "title": "Hymn: Ivory Elder",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

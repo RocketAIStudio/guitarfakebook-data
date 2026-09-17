@@ -1,0 +1,123 @@
+{
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnny cash",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\n[Dm]\n[E]\n[Am]\nI'm just a poor\n\n[Verse 1]\n[Am]\nwayfaring\nstranger\nTraveling through\n[Dm]\nthis world below\n[Am]\nThere is no sick-\nness,\nno toil, nor\ndanger\nIn that bright land\n[Dm]\n[E]to which I go\n[Am]\nI'm going there\n\n[Pre-Chorus]\n[F]\nto see my\n[C]Father\nAnd all my loved\n[F]ones\nwho've gone on\n[E]\nI'm just go-\n\n[Chorus]\n[Am]\ning over Jor-\ndan\nI'm just go-\n[Dm]\n[E]ing over home\n[Am]\n\n[Interlude]\n[Am]\n[Dm]\n[Am]\n[Dm]\n[E]\n[Am]\nI know dark clouds\n\n[Verse 2]\n[Am]\nwill gather a-\nround me\nI know my way\n[Dm]\nis hard and\n[Am]steep\nBut beauteous fields\narise be-\nfore me\nWhere God's redeemed,\n[Dm]\n[E]their vigils keep\n[Am]\nI'm going there\n\n[Pre-Chorus]\n[F]\nto see my\n[C]Mother\nShe said she'd meet\n[F]me\nwhen I come\n[E]\nSo, I'm just go-\n\n[Chorus]\n[Am]\ning over Jor-\ndan\nI'm just go-\n[Dm]\n[E]ing over home\n[Am]\nI'm just go-\ning over Jor-\ndan\nI'm just go-\n[Dm]\n[E]ing over home\n\n[Outro]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wayfaring Stranger",
+  "id": "1134ece787d328f794a539fe3f3025454bf7814848448608d3254b8f54ffb999",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 151,
+  "normalizedKey": "johnny cash|wayfaring stranger",
+  "playableChords": [
+    "Am",
+    "Dm",
+    "E",
+    "F",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Interlude"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 74,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 82,
+      "name": "Chorus"
+    },
+    {
+      "measure": 96,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1134ece787d328f794a539fe3f3025454bf7814848448608d3254b8f54ffb999",
+    "version": "BCFZ"
+  },
+  "tempo": 118,
+  "title": "Wayfaring Stranger",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

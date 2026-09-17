@@ -1,0 +1,101 @@
+{
+  "artist": "Jerry Lee Lewis",
+  "artistNormalized": "jerry lee lewis",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[C]You shake my nerves and you\nrattle my brain\n[F7]Too much love drives a\nman insane\n[G7]You broke my will\n[F7]But what a thrill\n[C]Goodness gracious, great\nballs of fire!\n\n[Verse 1]\n[C]I laughed at love 'cause I\nthought it was funny\n[F7]You came along and you\nmoved me honey\n[G7]I've changed my mind\n[F7]This love is fine\n[C]Goodness gracious, great\nballs of fire!\n\n[Chorus]\n[F7]Kiss me baby\nOoh,\n[C]\nit feels good\n[F7]Hold me baby,\nyeah\n\n[Bridge]\n[G7]I want to love you like a\nlover should\nYou're fine,\nso kind\nI'm gon' tell this world that you're\nmine, mine, mine, mine\n\n[Verse 2]\n[C]I chew my nails, I\ntwiddle my thumbs\n[F7]I'm gettin' nervous honey,\nbut it sure is fun\n[G7]Come on baby,\n[F7]you drive me crazy\n[C]Goodness gracious, great\nballs of fire!\n\n[Solo]\n[C]\n[F7]\n[G7]\n[F7]\n[C]\n[C]\n[F7]\n[G7]\n[F7]\n\n[Chorus]\n[C]Oh,\n[F7]kiss me baby\nOoh,\n[C]\nfeels good\n[F7]Hold me baby,\nyeah\n\n[Bridge]\n[G7]I want to love you like a\nlover should\nYou're fine,\nso kind\nI'm gon' tell this world that you're\nmine, mine, mine, mine\n\n[Outro]\n[C]I chew my nails and I\ntwiddle my thumbs\n[F7]I'm real nervous but it\nsure is fun\n[G7]Come on baby,\n[F7]you're driving me crazy\n[C]Goodness gracious, great\nballs of fire!",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "131211",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "35343x",
+        "3-2-0-0-0-1",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Great Balls of Fire",
+  "id": "2113e54d8a31817e29014fe69181396931f08b79c6def93db60003cf83fb6965",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 219,
+  "normalizedKey": "jerry lee lewis|great balls of fire",
+  "playableChords": [
+    "C",
+    "F7",
+    "G7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Bridge"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Solo"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Bridge"
+    },
+    {
+      "measure": 66,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2113e54d8a31817e29014fe69181396931f08b79c6def93db60003cf83fb6965",
+    "version": "BCFZ"
+  },
+  "tempo": 163,
+  "title": "Great Balls of Fire",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

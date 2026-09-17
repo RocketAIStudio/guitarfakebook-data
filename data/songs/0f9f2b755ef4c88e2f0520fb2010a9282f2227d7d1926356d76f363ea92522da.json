@@ -1,0 +1,119 @@
+{
+  "artist": "Joan Baez",
+  "artistNormalized": "joan baez",
+  "capo": "3",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\nFair young\n\n[Verse 1]\n[Am]maid all\n[D]in a gar\n[Am]den\nStange\nyoung man,\n[D]pas ser by\n[Am]\nHe said,\n[C]\"Fair maid,\nwill you mar ry\n[G]me?\"\nThis then,\n[Bm]sir,\nwas her rep-\n[Am]ly:\nOh, no, kind\n\n[Verse 2]\n[Am]sir, I\n[D]cannot marry thee\n[Am]\nFor I've a\nlove who\n[D]sails all on the\n[Am]sea.\nHe's been\n[C]gone\nfor se ven\n[G]years\nStill no\n[Bm]man\nshall marry\n[Am]me\nWhat if he's in\n\n[Verse 3]\n[Am]some\n[D]bat tle\n[Am]slain\nOr drowned\nin the\n[D]deep salt sea\n[Am]\nWhat if he's\n[C]found\nano ther\n[G]love\nAnd he and his\n[Bm]love\nboth married\n[Am]be?\nIf he's\n\n[Verse 4]\n[Am]in some\n[D]bat tle\n[Am]slain\nI will die\nwhen the\n[D]moon doth wane\n[Am]\nIf he's drowned\n[C]\nin the deep salt\n[G]sea\nI'll be\n[Bm]true\nto his memo-\n[Am]ry\nAnd if he's\n\n[Verse 5]\n[Am]found a-\n[D]no ther\n[Am]love\nAnd he and his\nlove both\n[D]mar ried be\n[Am]\nI'll wish them\n[C]health\nand hap pi -\n[G]ness\nWhere they\n[Bm]dwell\nac ross the\n[Am]sea\nHe picked her\n\n[Verse 6]\n[Am]up all\n[D]in his\n[Am]arms\nAnd kisses\ngave her:\n[D]One, two,\n[Am]three\nSaid, weep no\n[C]more,\nmy own true\n[G]love\nI am your\n[Bm]long -\nlost\n[Am]John Riley!\nSaid, weep no\n\n[Outro]\n[C]more,\nmy own true\n[G]love\nI am your\n[Bm]long -\nlost\n[Am]John Riley!",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "John Riley",
+  "id": "0f9f2b755ef4c88e2f0520fb2010a9282f2227d7d1926356d76f363ea92522da",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 222,
+  "normalizedKey": "joan baez|john riley",
+  "playableChords": [
+    "Am",
+    "D",
+    "C",
+    "G",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 63,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 101,
+      "name": "Verse 6"
+    },
+    {
+      "measure": 119,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0f9f2b755ef4c88e2f0520fb2010a9282f2227d7d1926356d76f363ea92522da",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "John Riley",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

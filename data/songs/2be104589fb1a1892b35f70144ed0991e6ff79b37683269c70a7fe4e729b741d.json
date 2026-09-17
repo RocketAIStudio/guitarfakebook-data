@@ -1,0 +1,130 @@
+{
+  "artist": "Jack Johnson",
+  "artistNormalized": "jack johnson",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\n[G]\n[D]  [G]\n[D]  [G]\n[A]\n[G]\n[D]  [G]\n[D]  [G]\n[A]\n[G]\n[D]  [G]\n[D]  [G]\n\n[Verse 1]\n[A]Watch you when you say What you\n[G]are and when you blame Every-\n[D]one, you [G]broken\n[D]king [G]\n[A]Watch you change the frame or Watch you\n[G]when you take your aim At the\n[D]sum of [G]every-\n[D]thing [G]'Cause\n\n[Chorus]\n[G]you and your\n[A]heart Shouldn't\n[D]feel so far apart\n[G]You [F#]can\n[G]choose what you\n[A]take Why you gotta\n[D]break and make it feel so hard\n[G]  [Ab]\n\n[Bridge]\n[A]\n[G]\n[D]  [G]\n[D]  [G]\n[A]\n[G]\n[D]  [G]\n[D]  [G]\n\n[Verse 2]\n[A]Lay there in the street Like broken\n[G]glass reflecting pieces of the\n[D]sun But you're [G]not the\n[D]flame You [G]got the\n[A]people passing by Because you\n[G]know what you don't like It's just so\n[D]easy, it's [G]just so\n[D]easy [G]But\n\n[Chorus]\n[G]you and your\n[A]heart Shouldn't\n[D]feel so far apart\n[G]You [F#]can\n[G]choose what you\n[A]take Why you gotta\n[D]break and make it feel so hard\n[G][F#]Oh and\n[G]you and your\n[A]heart Shouldn't\n[D]feel so far apart\n[G]You [F#]can\n[G]choose what you\n[A]take Why you gotta\n[D]break and make it feel so hard\n[G]  [Ab]\n\n[Break]\n[A]  [D]\n[A]  [D]\n[A]  [D]\n[A]  [D]\n[E]\nYou draw so\n\n[Outro]\n[A]many lines in [D]the sand Lost the\n[A]fingernails on [D]your hands How you're\n[A]gonna scratch [D]any backs? Better\n[A]hope the tide will [D]take our lines a-\n[E]way Take all\nour lines and\n[A]Hope the [D]tide will\n[A]take our [D]lines and\n[A]Hope the [D]tide will\n[A]take our [D]lines a-\n[E]way Take all\nour lines away\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "7776xx",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Ab": {
+      "catalog": [
+        "6665xx",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "0042xx",
+        "12-12-12-11-x-x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "222100",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "4443xx",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "5554xx",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You and Your Heart",
+  "id": "2be104589fb1a1892b35f70144ed0991e6ff79b37683269c70a7fe4e729b741d",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 233,
+  "normalizedKey": "jack johnson|you and your heart",
+  "playableChords": [
+    "A",
+    "G",
+    "D",
+    "F#",
+    "Ab",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Bridge"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Break"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2be104589fb1a1892b35f70144ed0991e6ff79b37683269c70a7fe4e729b741d",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "You and Your Heart",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,92 @@
+{
+  "artist": "Joji",
+  "artistNormalized": "joji",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am7]  [Am9]\n[Am7]  [Am9]\n[Gmaj7]  [G]\n[Gmaj7]  [G]\n[Am7]  [Am9]\n[Am7]  [Am9]\n[Gmaj7]  [G]\n[Gmaj7][G]I\n\n[Verse]\n[Am7]looked at you and said, [Am9]oh-\n[Am7]ohoh [Am9]Don't\n[Gmaj7]hate me, [G]am I cra-\n[Gmaj7]zy? [G]\n[Am7]So [Am9]tenderly you watch\n[Am7]me burn, you [Am9]watch me burn, oh\n[Gmaj7]So tell [G]me, am I cra-\n[Gmaj7]zy? [G]\n\n[Chorus]\n[Am7]  [Am9]\n[Am7][Am9]'Cause I\n[Gmaj7]do, [G]'cause I\n[Gmaj7]do [G]\n[Am7]  [Am9]\n[Am7][Am9]'Cause I\n[Gmaj7]do, [G]'cause I\n[Gmaj7]do [G]\n[Am7]  [Am9]\n[Am7][Am9]'Cause I\n[Gmaj7]do, [G]'cause I\n[Gmaj7]do [G]\n\n[Outro]\n[Am7][Am9]La la\n[Am7]la la, la la la, la [Am9]la la, la la la la,\n[Gmaj7][G]god-\n[Gmaj7]damn [G]\n[Am7]Ooh oh [Am9]And I\n[Am7]don't wanna die [Am9]No, I\n[Gmaj7]don't wanna die [G]I\n\n[Fade Out]\n[Gmaj7]don't wanna die [G]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "5x5555",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Am9": {
+      "catalog": [
+        "5x5557"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7": {
+      "catalog": [
+        "320002",
+        "3-5-4-4-3-3",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7",
+        "x-10-12-11-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Worldstar Money",
+  "id": "05f7e27b68aedc899a6e6243afa6356ecdcca7357c2a23dbc4f51c68f42fa3de",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 89,
+  "normalizedKey": "joji|worldstar money",
+  "playableChords": [
+    "Am7",
+    "Am9",
+    "Gmaj7",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Outro"
+    },
+    {
+      "measure": 37,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "05f7e27b68aedc899a6e6243afa6356ecdcca7357c2a23dbc4f51c68f42fa3de",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "Worldstar Money",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

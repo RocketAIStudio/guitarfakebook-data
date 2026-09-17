@@ -1,0 +1,130 @@
+{
+  "artist": "Jackson Browne",
+  "artistNormalized": "jackson browne",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Bbsus4/F]\n[Bb/F]  [F]\n[Bbsus4/F]\n[Bb/F]\nDoc tor, my\n\n[Verse 1]\n[F]eyes have seen the years\nAnd the slow\n[Am]parade of fears\nwithout cry-\n[Dm]ing Now I want\n[Bb/F]to understand\n[F]\nI have done\nall that I could\nTo see the e-\n[Am]vil and the good\nwithout hid-\n[Dm]ing You must help\n[Bb/F]me if you can\n[F]\nDoctor, my eyes\n\n[Chorus]\n[Dm]\n[F]\nTell me what is wrong\nWas I [Dm]unwise\nto leave them o-\n\n[Re-Intro]\n[C]pen for so [Bb/F]\nlong\n[F]\n[Bb/F]\n'Cause I have wan-\n\n[Verse 2]\n[F]dered through this world\nAnd as each mo-\n[Am]ment has unfurled\nI've been wait-\n[Dm]ing to awa-\n[Bb/F]ken from these dreams\n[F]\nPeople go\njust where they will\nI never no-\n[Am]ticed them un-\ntil I got this feel-\n[Dm]ing That it's lat-\n[Bb/F]er than it seems\n[F]\nDoctor, my eyes\n\n[Chorus]\n[Dm]\n[F]\nTell me what you see\nI hear their [Dm]cries\nJust say if it's\n[C]too late for [Bbsus4/F]\n\n[Pre-Solo]\nme\n[Bb/F]\n[F]\n\n[Solo]\n[Bbsus4/F]\n[Bb/F]\n[F]\n[Bbsus4/F]\n[Bb/F]\n[F]\n[Bbsus4/F]\n[Bb/F]\n[F]\n[Bbsus4/F]\n[Bb/F]\n[F]\nDoctor, my eyes\n\n[Chorus]\n[Dm]\n[F]They\ncannot see the sky\nIs this the [Dm]prize\nFor having learned\n[C]how not to [Bb/F]\n\n[Outro]\ncry\n[F]\n[Bb/F]\n[F]\n[Bb/F]\n[F]\n[Bb/F]\n[F]\n[Bb/F]\n[F]\n[Bb/F]\n[F]\n[Bb/F]\n[F]\n[Bb/F]\n[F]\n[Bb/F]\n[F]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb/F": {
+      "catalog": [
+        "113331"
+      ],
+      "catalogCount": 1
+    },
+    "Bbsus4/F": {
+      "catalog": [
+        "113341"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Doctor My Eyes",
+  "id": "0d3b648768818573c26727eebf723b5d08d63580d5b6c6a17b3bf35656fec423",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 171,
+  "normalizedKey": "jackson browne|doctor my eyes",
+  "playableChords": [
+    "Bbsus4/F",
+    "Bb/F",
+    "F",
+    "Am",
+    "Dm",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Re-Intro"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Pre-Solo"
+    },
+    {
+      "measure": 66,
+      "name": "Solo"
+    },
+    {
+      "measure": 84,
+      "name": "Chorus"
+    },
+    {
+      "measure": 91,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0d3b648768818573c26727eebf723b5d08d63580d5b6c6a17b3bf35656fec423",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Doctor My Eyes",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}
