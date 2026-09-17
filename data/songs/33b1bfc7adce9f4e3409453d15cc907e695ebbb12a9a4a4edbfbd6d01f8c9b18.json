@@ -6,14 +6,54 @@
   "chordSymbolCount": 8,
   "content": "[Intro]\n[Eb5]  [C5]  [Eb5]  [Gb5]\n[Eb5]  [C5]  [Eb5]  [Gb5]\n[Eb5]  [C5]  [Eb5]  [Gb5]\n[Eb5]  [C5]  [Eb5]  [Ab5]\n[Eb5][C5][Eb5][Gb5]Hey\n[Eb5]  [C5]  [Eb5]  [Gb5]\n[Eb5]  [C5]  [Eb5]  [Gb5]\n[Eb5][C5][Eb5][Gb5]My\n\n[Verse 1]\n[Eb5]flag is down [C5][Eb5][Gb5]My\n[Eb5]hands have shrunk [C5][Eb5][Gb5]\n[Eb5]Never fear, [C5][Eb5]for I [Gb5]shall\n[Eb5]die [C5]Long [Eb5]before [Gb5]I'm\n[Eb5]gone Now list-\nen at me [Eb5][F5]Hey\n\n[Pre-Verse]\n[Eb5]  [C5]  [Eb5]  [Gb5]\n[Eb5]  [C5]  [Eb5]  [Gb5]\n[Eb5]  [C5]  [Eb5]  [Gb5]\n[Eb5][C5][Eb5][Gb5]My\n\n[Verse 2]\n[Eb5]head is [C5]shaking [Eb5][Gb5]And\n[Eb5]no one knows [C5][Eb5][Gb5]They're\n[Eb5]fading [C5][Eb5][Gb5]But\n[Eb5]don't give [C5]in [Eb5][Gb5]Re-\n[Eb5]pair\n\n[Interlude]\n[Eb5][C5][Eb5][Gb5]Hey\n[Eb5][C5][Eb5][Gb5]Yeah\n[Eb5]\n\n[Solo]\n[Eb5][C5][Eb5][Gb5]Hey\n[Eb5]  [C5]  [Eb5]  [Gb5]\n[Eb5]  [C5]  [Eb5]  [Gb5]\n[Eb5]  [C5]  [Eb5]  [Gb5]\n[E5]  [Db5]  [E5]  [G5]\n[E5]  [Db5]  [E5]  [G5]\n[Eb5][C5][Eb5]Yeah [Gb5]\n[Eb5]  [C5]  [Eb5]  [Gb5]\n\n[Break]\n[Eb5]Breathe\nthe life right\n\n[Pre-Verse]\n[Eb5]on [C5][Eb5][Gb5]\n[Eb5]  [C5]  [Eb5]  [Gb5]\n[Eb5]  [C5]  [Eb5]  [Gb5]\n[Eb5]  [C5]  [Eb5]  [Gb5]\n\n[Chorus]\n[Eb5]\n\n[Outro]\n[Eb5]",
   "diagrams": {
-    "Ab5": {"catalog": ["x355xx"], "catalogCount": 1},
-    "C5": {"catalog": ["022xxx"], "catalogCount": 1},
-    "Db5": {"catalog": ["133xxx"], "catalogCount": 1},
-    "E5": {"catalog": ["466xxx"], "catalogCount": 1},
-    "Eb5": {"catalog": ["355xxx"], "catalogCount": 1},
-    "F5": {"catalog": ["577xxx"], "catalogCount": 1},
-    "G5": {"catalog": ["799xxx"], "catalogCount": 1},
-    "Gb5": {"catalog": ["688xxx"], "catalogCount": 1}
+    "Ab5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Db5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gb5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    }
   },
   "diagramsAvailable": true,
   "difficulty": "",
@@ -23,23 +63,66 @@
   "keyIdentified": true,
   "lyricEventCount": 54,
   "normalizedKey": "68|life has its design",
-  "playableChords": ["Eb5","C5","Gb5","Ab5","F5","E5","Db5","G5"],
+  "playableChords": [
+    "Eb5",
+    "C5",
+    "Gb5",
+    "Ab5",
+    "F5",
+    "E5",
+    "Db5",
+    "G5"
+  ],
   "schema": "guitarfakebook.library-song.v1",
   "sections": [
-    {"measure":1,"name":"Intro"},
-    {"measure":9,"name":"Verse 1"},
-    {"measure":15,"name":"Pre-Verse"},
-    {"measure":19,"name":"Verse 2"},
-    {"measure":24,"name":"Interlude"},
-    {"measure":27,"name":"Solo"},
-    {"measure":35,"name":"Break"},
-    {"measure":37,"name":"Pre-Verse"},
-    {"measure":43,"name":"Chorus"},
-    {"measure":51,"name":"Outro"}
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Interlude"
+    },
+    {
+      "measure": 27,
+      "name": "Solo"
+    },
+    {
+      "measure": 35,
+      "name": "Break"
+    },
+    {
+      "measure": 37,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Outro"
+    }
   ],
-  "source": {"format":"gpx","sha256":"33b1bfc7adce9f4e3409453d15cc907e695ebbb12a9a4a4edbfbd6d01f8c9b18","version":"BCFZ"},
-  "tempo":77,
-  "title":"Life Has Its Design",
-  "tuning":"C F A# D# G C",
-  "variantRole":"primary"
+  "source": {
+    "format": "gpx",
+    "sha256": "33b1bfc7adce9f4e3409453d15cc907e695ebbb12a9a4a4edbfbd6d01f8c9b18",
+    "version": "BCFZ"
+  },
+  "tempo": 77,
+  "title": "Life Has Its Design",
+  "tuning": "C F A# D# G C",
+  "variantRole": "primary"
 }
