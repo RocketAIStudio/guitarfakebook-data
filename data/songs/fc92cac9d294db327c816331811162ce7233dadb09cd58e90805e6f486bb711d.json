@@ -1,0 +1,83 @@
+{
+  "artist": "Terrorgruppe",
+  "artistNormalized": "terrorgruppe",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[B5]\n\n[Verse 1]\n[B5]Adolf Hitler\ndem sein Bart\n[G5]Ist von ganz be-\nsondrer Art\n[E5]Kinder da ist\netwas faul\n\n[Chorus]\n[C5]So ein kleiner\n[D5]Bart\n[C5]So ein kleiner\n[D5]Bart\n[C5]\n[D5]Bart Und\n\n[Outro]\nso ein groBes\nMaul [G5]",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "10-12-12-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Adolf Hitler",
+  "id": "fc92cac9d294db327c816331811162ce7233dadb09cd58e90805e6f486bb711d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 38,
+  "normalizedKey": "terrorgruppe|adolf hitler",
+  "playableChords": [
+    "B5",
+    "G5",
+    "E5",
+    "C5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fc92cac9d294db327c816331811162ce7233dadb09cd58e90805e6f486bb711d",
+    "version": "BCFZ"
+  },
+  "tempo": 205,
+  "title": "Adolf Hitler",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

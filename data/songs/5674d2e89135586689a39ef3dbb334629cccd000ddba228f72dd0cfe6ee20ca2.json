@@ -1,0 +1,123 @@
+{
+  "artist": "Status Quo",
+  "artistNormalized": "status quo",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]  [F]\n[G]\n[C]\nAh\n\n[Verse 1]\n[C]here we are and here we are and\nhere we go,\n[F]All aboard and we're\nhittin' the road, Here we\n[C]go\n[G]rockin' all over the world.\n[C]\nAh\n[C]giddyup and giddyup and\nget away, We're\n[F]goin' crazy and we're go\nin today, Here we\n[C]go, ro\n[G]ckin' all over the world.\n[C]\nAnd I like\n\n[Chorus]\n[C]it, I like it, I like\nit, I like it, I li\n[F]lilike it, li -\nlilike it, We go,\n[C]\n[G]rockin' all over the world.\n[C]\n\n[Solo]\n[C]\n[F]\n[C]\n[G]\n[C]\n[C]\n[C7]\n[F]\n[C]\n[G]\n[C]\nI'm\n\n[Verse 2]\n[C]gona tell your mama what you're\ngonna do,\n[F]Come on out with your dan-\ncing shoes, Here we\n[C]go,\n[G]rockin' all over the wo-\n[C]rld.\nAnd I like\n\n[Chorus]\n[C]it, I like it, I like\nit, I like it, I li\n[F]lilike it, li -\nlilike it, We go,\n[C]\n[G]rockin' all over the world.\n[C]\nAnd I [C]like\n\n[Bridge]\nit, I like it, I [C7]like\nit, I like it, I [F]li\nlilike it, li [F#dim7]-\nlilike it, We [C]go,\n[G]ro\nckin' all over the [C]world.\nAnd I like\n\n[Chorus]\n[C]it, I like it, I like\nit, I like it, I li\n[F]lilike it, li -\nlilike it, We go,\n[C]\n[G]rockin' all over the world.\n[C]\nAnd I like\n\n[Outro]\n[C]it, I like it, I like\n[C7]it, I like it, I li\n[F]lilike it, li -\n[F#dim7]lilike it, We go,\n[C]\n[G]rockin' all over the world.\n[C]\n[C]\n[C7]\n[F]\n[F#dim7]\n[C]\n[G]\n[C]\n[C]\n[C7]\n[F]\n[F#dim7]\n[C]\n[G]\n[C]\n[C]\n[C7]\n[F]\n[F#dim7]\n[C]\n[G]\n\n[Fade Out]\n[C]\n[C]\n[C7]\n[F]\n[F#dim7]\n[C]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x35353",
+        "x-3-2-3-1-0",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#dim7": {
+      "catalog": [
+        "2x121x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rockin' All Over The World",
+  "id": "5674d2e89135586689a39ef3dbb334629cccd000ddba228f72dd0cfe6ee20ca2",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 290,
+  "normalizedKey": "status quo|rockin all over the world",
+  "playableChords": [
+    "C",
+    "F",
+    "G",
+    "C7",
+    "F#dim7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Solo"
+    },
+    {
+      "measure": 48,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Bridge"
+    },
+    {
+      "measure": 72,
+      "name": "Chorus"
+    },
+    {
+      "measure": 80,
+      "name": "Outro"
+    },
+    {
+      "measure": 110,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5674d2e89135586689a39ef3dbb334629cccd000ddba228f72dd0cfe6ee20ca2",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "Rockin' All Over The World",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,99 @@
+{
+  "artist": "Tenacious D",
+  "artistNormalized": "tenacious d",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n\n[Verse]\n[G][C]Apocalyp-\n[E]to,\n[C][G]end of the\n[E]world\n[G][C]Apocalyp-\n[E]to, searching for\n[F]that [G]special girl\n[A]She [E]is the last\n[F]one [G]in the world\n[A]Ride!\n\n[Chorus]\n[G][C]Apocalyp-\n[E]to,\n[C][G]end of the\n[E]line\n[G][C]Apocalyp-\n[E]to this is o-\n[F]ur [G]time to shine\n[E][A]Tenacious D\n[F]has [G]got to shine\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "02210x",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "1332xx",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "32003x",
+        "3554xx",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "POST-APOCALYPTO THEME",
+  "id": "863b7b84e597ee53a65f6ad44c4175c43d5765c737e94a5b947b4c6fdbb736bb",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 59,
+  "normalizedKey": "tenacious d|post apocalypto theme",
+  "playableChords": [
+    "C",
+    "G",
+    "E",
+    "F",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse"
+    },
+    {
+      "measure": 12,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "863b7b84e597ee53a65f6ad44c4175c43d5765c737e94a5b947b4c6fdbb736bb",
+    "version": "BCFZ"
+  },
+  "tempo": 148,
+  "title": "POST-APOCALYPTO THEME",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

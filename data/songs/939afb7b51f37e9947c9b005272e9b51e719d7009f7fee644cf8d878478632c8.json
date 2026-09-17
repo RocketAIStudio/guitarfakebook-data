@@ -1,0 +1,158 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 46,
+  "chordSymbolCount": 10,
+  "content": "Who knows\n\n[Verse 1]\n[F]how long [Dm]I've loved\n[Gm7]you [C7]You know\n[F]I love [Dm]you still\n[Am][F7]Will I wait\n[Bb]a [C7]lonely life-\n[Dm]time [F]If you want\n[Bb]me to, [C7]I will.\n[F]  [Dm]\n[Gm7][C7]For if\n\n[Verse 2]\n[F]I [Dm]ever saw\n[Gm7]you [C7]I did-\n[F]n't catch [Dm]your name\n[Am][F7]But it ne-\n[Bb]ver [C7]really mat-\n[Dm]tered [F]I will al-\n[Bb]ways feel [C7]the same.\n[F]  [F7]\n\n[Chorus]\n[Bb]Love you [Am]forever and\n[Dm]forever\n[Gm7]Love you with all [C7]my heart\n[F]  [F7]\n[Bb]Love you [Am]whenever we're\n[Dm]together\n[G7]Love you when we're apart.\n[C7]And when\n\n[Verse 3]\n[F]at last [Dm]I find\n[Gm7]you [C7]Your song\n[F]will fill [Dm]the air\n[Am][F7]Sing it loud\n[Bb]so I [C7]can hear\n[Dm]you [Bb][F]Make it ea-\n[Bb]sy to [C7]be near\n[Dm]you [Bb][F]For the things\n[Bb]you do [C7]endear\n[Dm]you [Bb]to [F]me [Fdim]Oh,\n[Gm7]you know, [C7]I will\n\n[Outro]\n[Db7]\nI will.\n[F]\n[F7]\n[Bb]  [Am]\n[Dm]\n[Gm7]  [C7]\n[F]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "Db7": {
+      "catalog": [
+        "x46464",
+        "x-4-3-4-2-1",
+        "9-8-6-6-6-7",
+        "9-11-9-10-9-9",
+        "x-x-11-13-12-13"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "131211",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "Fdim": {
+      "catalog": [
+        "xx3101"
+      ],
+      "catalogCount": 1
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gm7": {
+      "catalog": [
+        "353333",
+        "x-x-5-7-6-6",
+        "x-10-12-10-11-10",
+        "15-17-15-15-15-15",
+        "x-22-24-22-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Will *alt",
+  "id": "939afb7b51f37e9947c9b005272e9b51e719d7009f7fee644cf8d878478632c8",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 132,
+  "normalizedKey": "the beatles|i will",
+  "playableChords": [
+    "F",
+    "Dm",
+    "Gm7",
+    "C7",
+    "Am",
+    "F7",
+    "Bb",
+    "G7",
+    "Fdim",
+    "Db7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 38,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "939afb7b51f37e9947c9b005272e9b51e719d7009f7fee644cf8d878478632c8",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "I Will",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

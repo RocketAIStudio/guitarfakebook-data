@@ -1,0 +1,164 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 40,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[G]\nI've got\n\n[Verse 1]\n[G]every reason on earth\nto be mad\nCos\nI've just lost the on\nly girl I had\n[D7]\nAnd if I\n[C7]could get my way\nI'd\nget myself locked\nup today But I can't\n\n[Chorus]\n[G]so I cry\n[D7]instead\n[G]\nI've got a\n\n[Verse 2]\n[G]chip on my shoulder that's\nbigger than my feet\nI\ncan't talk to peo\nple that I meet\n[D7]\nAnd if I\n[C7]could see you now\nI'd\ntry to make you\nsad somehow But I can't\n\n[Chorus]\n[G]so I cry\n[D7]instead\n[G]\nDon't want to\n\n[Bridge]\n[Bm]cry when there's people there\nI get\n[A7]shy when they start to stare\nI'm\n[D]gonna hide myself away,\nay hay But\n[Em]I'll come back a-\n[A]gain someday [D7]And when I\n\n[Verse 3]\n[G]do you'd better hide\nall the girls\nI'm\ngonna break their hearts\nall 'round the world\n[D7]\nYes, I'm\n[C7]gonna break them in two\nAnd\nshow you what your loving man\ncan do Until then\n\n[Chorus]\n[G]I'll cry\n[D7]instead\n[G]\nDon't want to\n\n[Bridge]\n[Bm]cry when there's people there\nI get\n[A7]shy when they start to stare\nI'm\n[D]gonna hide myself away,\nay hay But\n[Em]I'll come back a-\n[A]gain someday [D7]And when I\n\n[Verse 4]\n[G]do you'd better hide\nall the girls\nCos'\nI'm gonna break their hearts\nall 'round the world\n[D7]\nYes, I'm\n[C7]gonna break them in two\nAnd\nshow you what your loving man\ncan do Until then\n\n[Chorus]\n[G]I'll cry\n[D7]instead\n[G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I'll Cry Instead",
+  "id": "f49ebddc5949deea4c6cf4397f653c187dc5df2dec4b757347220729294737c5",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 255,
+  "normalizedKey": "the beatles|i ll cry instead",
+  "playableChords": [
+    "G",
+    "D7",
+    "C7",
+    "Bm",
+    "A7",
+    "D",
+    "Em",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Bridge"
+    },
+    {
+      "measure": 44,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Bridge"
+    },
+    {
+      "measure": 68,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 80,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f49ebddc5949deea4c6cf4397f653c187dc5df2dec4b757347220729294737c5",
+    "version": "BCFZ"
+  },
+  "tempo": 194,
+  "title": "I'll Cry Instead",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

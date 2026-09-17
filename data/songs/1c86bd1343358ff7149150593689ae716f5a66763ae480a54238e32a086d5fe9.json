@@ -1,0 +1,133 @@
+{
+  "artist": "Sum 41",
+  "artistNormalized": "sum 41",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Verse 1]\n[Em]I never wanted to be\nAnother one in the same\n[Am]I may never fit in\nBut I will always remain\n[G]If only you could\nread my mind\n[D]If only just for\n[D/A]one more time\n[Em]You say there's no where to run\nBut I got nothin' to hide\n[Am]I can see through the shit\nEven through these black eyes\n[G]A confession of a\ndangerous mind\n[D]A direction to per-\nfection is the last thing I want\n\n[Bridge]\n[Em]\n[Am]\n[G]\n[D]\n\n[Verse 2]\n[Em]So tell me when does enough\never become enough\n[C]If everything is to lose,\nand I will never give up\n[G]I don't care what you've\ngot in mind\n[D]The truth is never\n[D/A]hard to find\n[Em]I've been trying to break\nthe only link in the chain\n[C]I've been pleading the 5th,\ncause I got nothin' to say\n[G]A bad plan with no\nwarning signs\n[D]A god given region\nwith the passion I don't\n\n[Chorus]\n[Em]want Cause\nthis I say to\n[C]you I'm\nbleeding out of my\n[G]heart\nTell me if it's\n[D]true This is\ntearing me a-\n[Em]part So\ntell me one more\n[C]time Cause\nI can't let you\n[G]go If\nthis is where it\n[D]lies, tell me Cause\nI just need to know\n\n[Bridge]\n[Em]\nThe\ntruth\nis\nall\nI\nneeded\nto know\nDo\nyou\nStill\nfeel\nThe\nsame way\nStill\nDon't\n[D/A]tell\n\n[Interlude]\n[Em]\n[C/E]\n[Em]\n[C/E]\n[D/A]\n\n[Chorus]\n[Em]Cause\nthis I say to\n[C]you I'm\nbleeding out of my\n[G]heart\nTell me if it's\n[D]true This is\ntearing me apart\n[Em]So\ntell me one more\n[C]time Cause\nI can't let you\n[G]go If\nthis is where it\n[D]lies, tell me Cause\nI just need to\n[Em]know Cause\nthis I say to\n[C]you I'm\nbleeding out of my\n[G]heart\nTell me if it's\n[D]true This is\ntearing me apart\n[Em]So\ntell me one more\n[C]time Cause\nI can't let you\n[G]go If\nthis is where it\n[D]lies, tell me Cause\n[D/A]I just need to\n\n[Outro]\n[Em]know",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/E": {
+      "catalog": [
+        "03555x"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "557775"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Black Eyes",
+  "id": "1c86bd1343358ff7149150593689ae716f5a66763ae480a54238e32a086d5fe9",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 356,
+  "normalizedKey": "sum 41|black eyes",
+  "playableChords": [
+    "Em",
+    "Am",
+    "G",
+    "D",
+    "D/A",
+    "C",
+    "C/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 93,
+      "name": "Interlude"
+    },
+    {
+      "measure": 105,
+      "name": "Chorus"
+    },
+    {
+      "measure": 137,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1c86bd1343358ff7149150593689ae716f5a66763ae480a54238e32a086d5fe9",
+    "version": "BCFZ"
+  },
+  "tempo": 177,
+  "title": "Black Eyes",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

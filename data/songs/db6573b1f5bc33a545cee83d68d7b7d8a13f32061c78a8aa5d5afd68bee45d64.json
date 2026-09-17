@@ -1,0 +1,137 @@
+{
+  "artist": "Taylor Swift",
+  "artistNormalized": "taylor swift",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Gm]\n[F]\n[Gm]\n[F]\n[Gm]\n[F]\n[Gm]\n[F]  [Gm6]\n[F]\n\n[Verse 1]\n[Gm]Our comingofage has come and gone\n[F]Suddenly this summer, it's clear\n[Gm]I never had the courage of my convictions\n[F]As long as danger is near\n[Gm]And it's just around the corner, dar-\n[F]lin' 'Cause it lives in me\n[Gm]No, I could never give you peace\n[F]  [Gm6]\n\n[Bridge]\n[F]\n\n[Chorus]\n[Gm]But I'm a fire and I'll keep your brittle heart warm\n[F]If your cascade, ocean wave blues come\n[Gm]All these people think love's for show But I would\n[F]die for you in secret The devil's in the\n[Bb]details, but you got a friend in me\n[F]Would it\n[Gm]be enough if I could never give you peace?\n[F]\n\n[Verse 2]\n[Bb]Your integrity makes me seem small\n[F]You paint dreamscapes on the wall\n[Bb]I talk shit with my friends,\n[F]it's like I'm [Gm6]wasting your honor\n\n[Bridge]\n[F]\n\n[Interlude]\n[F]And you know that I'd\n[Dm/A]swing with you for the fen-\n[C/G]ces Sit with you in the tren-\n[Bb]ches Give you my wild,\n[Am]give you a child Give you the\n[Gm]silence that only comes when two people understand each other\n[F]Family that I chose, now that I see your brother as my brother\n[Gm]Is it enough?\n[F]But there's\n[Bb]robbers to the east, clowns to the west I'd\n[Am]give you my sunshine, give you my best But the\n[Gm]rain is always gonna come if you're standin'\n\n[Bridge]\n[F]with me\n\n[Chorus]\n[Gm]But I'm a fire and I'll keep your brittle heart warm\n[F]If your cascade, ocean wave blues come\n[Gm]All these people think love's for show But I would\n[F]die for you in secret The devil's in the\n[Bb]details, but you got a friend in me\n[F]Would it\n[Bb]be enough if I could never give you peace?\n[F]Would it\n[Bb]be enough if I could never give you peace?\n[F]Would it\n[Bb]be enough if I could never give you peace?\n[F]  [Gm6]\n\n[Outro]\n[F]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "Dm/A": {
+      "catalog": [
+        "x03231"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    },
+    "Gm6": {
+      "catalog": [
+        "xx5353"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "peace",
+  "id": "db6573b1f5bc33a545cee83d68d7b7d8a13f32061c78a8aa5d5afd68bee45d64",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 345,
+  "normalizedKey": "taylor swift|peace",
+  "playableChords": [
+    "Gm",
+    "F",
+    "Gm6",
+    "Bb",
+    "Dm/A",
+    "C/G",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Bridge"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Bridge"
+    },
+    {
+      "measure": 40,
+      "name": "Interlude"
+    },
+    {
+      "measure": 52,
+      "name": "Bridge"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "db6573b1f5bc33a545cee83d68d7b7d8a13f32061c78a8aa5d5afd68bee45d64",
+    "version": "BCFZ"
+  },
+  "tempo": 75,
+  "title": "peace",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

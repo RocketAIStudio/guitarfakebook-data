@@ -1,0 +1,140 @@
+{
+  "artist": "The 1975",
+  "artistNormalized": "the 1975",
+  "capo": "1",
+  "chordPositionCount": 28,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[C]\n[F]\n[C]\n[F]\n[C]\n[G]\n[F]\nBe my mistake\n\n[Verse 1]\n[C]\n[F]Then\nturn out the light\n[C]\n[F]She\nbought me those\n[C]jeans\n[Gsus4/B]The ones\n[Am]\n[G]you like\n[Fsus2]\n[G]I\ndon't want a hug\n\n[Verse 2]\n[C]\n[F]I\njust wanna sleep\n[C]\n[F]The\nsmell of your\n[C]hair\n[Gsus4/B]Reminds\n[Am]me of\n[G]her feet\n[Fsus2]\n[G]\nSo\n\n[Chorus]\n[Fsus2]don't wait out-\nside my hotel\n[C]room\nJust\n[G]wait 'til I give\nyou a sign\n[Am]\n[Gsus4/B]'Cause I\n[Fsus2]\nget\n[C]lonesome\nsometimes\n[G]\nSave all the jokes\n[Fsus2]\nyou're gonna make\n[C]\nWhile I see\n[G/G#]how much drink\nI can take\n[Am7]\n[G]Then\n[Fsus2]be\n[G]my\nmistake\n\n[Bridge]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]I\nshould not have called\n\n[Verse 3]\n[C]\n[F]'Cause\nwe should not speak\n[C]\n[F]You\ndo make me\n[C]hard\n[Gsus4/B]\n[Am]But\n[G]she makes me\n[Fsus2]weak\n[G]\nSo\n\n[Chorus]\n[Fsus2]don't wait out-\nside my hotel\n[C]room\nJust\n[G]wait 'til I give\nyou a sign\n[Am]\n[Gsus4/B]'Cause I\n[Fsus2]\nget\n[C]lonesome\nsometimes\n[G]\nSave all the jokes\n[Fsus2]\nyou're gonna make\n[C]\nWhile I see\n[G/G#]how much drink\nI can take\n[Am7]\n[G]Then\n[Fsus2]be\n[G]my\nmistake\n\n[Outro]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x0201x",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fsus2": {
+      "catalog": [
+        "xx3011"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/G#": {
+      "catalog": [
+        "42000x"
+      ],
+      "catalogCount": 1
+    },
+    "Gsus4/B": {
+      "catalog": [
+        "x20013"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Be My Mistake",
+  "id": "18698aea94b1349af1ae2085f07c0d4a45e4be6a888c2bc7bcb7f25dfe636880",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 153,
+  "normalizedKey": "the 1975|be my mistake",
+  "playableChords": [
+    "C",
+    "F",
+    "G",
+    "Gsus4/B",
+    "Am",
+    "Fsus2",
+    "G/G#",
+    "Am7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 78,
+      "name": "Bridge"
+    },
+    {
+      "measure": 90,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 106,
+      "name": "Chorus"
+    },
+    {
+      "measure": 134,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "18698aea94b1349af1ae2085f07c0d4a45e4be6a888c2bc7bcb7f25dfe636880",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Be My Mistake",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

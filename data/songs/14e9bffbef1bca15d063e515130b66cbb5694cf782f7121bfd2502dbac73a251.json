@@ -1,0 +1,116 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C7]\n[F7]\n[C7]\n[G7]\n[F7]\n[C7]\nWell, come\n\n[Verse 1]\n[C7]on pretty baby, won't you\nwalk with me? Come\non, pretty baby, won't you\ntalk with me? Come\non pretty baby, give me\none more chance\nTry to save\nour romance! Slow down,\n\n[Chorus]\n[F7]\nbaby, now you're\nmoving way too fast\n[C7]\nYou gotta\n[G7]gimme little lovin',\n[F7]gimme little loving Ow!\n[C7]If you\nwant our love to last\n\n[Pre-Verse]\n[C7]\nWell, I\n\n[Verse 2]\n[C7]used to walk you home,\nbaby, after school\nCarry your books home, too\nBut\nnow you got a boyfriend\ndown the street\nBaby what you're trying to\ndo? You better slow down!\n\n[Chorus]\n[F7]\nBaby, now you're\nmoving way too fast\n[C7]\nYou gotta\n[G7]gimme little lovin',\n[F7]gimme little loving Brrr!\n[C7]If you\nwant our love to last\n\n[Bridge]\n[C7]\n\n[Guitar Solo]\n[C7]\n[F7]\n[C7]\n[G7]\n[F7]\n[C7]\nWell\nyou\n\n[Verse 3]\n[C7]know that I love you, tell the\nworld I do Come\non, pretty baby, why can't\nyou be true? I\nneed your loving, oh\nso bad The\nbest little woman I\never had Slow down!\n\n[Chorus]\n[F7]\nBaby, now you're\nmoving way too fast\n[C7]\nYou gotta\n[G7]gimme little lovin',\n[F7]gimme little loving Awe!\n[C7]If you\nwant our love to last\n\n[Outro]\n[C7]\n[C9]",
+  "diagrams": {
+    "C7": {
+      "catalog": [
+        "x35353",
+        "x-3-2-3-1-0",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "C9": {
+      "catalog": [
+        "x32333"
+      ],
+      "catalogCount": 1
+    },
+    "F7": {
+      "catalog": [
+        "131211",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Slow Down *alt",
+  "id": "14e9bffbef1bca15d063e515130b66cbb5694cf782f7121bfd2502dbac73a251",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 222,
+  "normalizedKey": "the beatles|slow down",
+  "playableChords": [
+    "C7",
+    "F7",
+    "G7",
+    "C9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Bridge"
+    },
+    {
+      "measure": 74,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 98,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 106,
+      "name": "Chorus"
+    },
+    {
+      "measure": 118,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "14e9bffbef1bca15d063e515130b66cbb5694cf782f7121bfd2502dbac73a251",
+    "version": "BCFZ"
+  },
+  "tempo": 169,
+  "title": "Slow Down",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

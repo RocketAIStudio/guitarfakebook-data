@@ -1,0 +1,119 @@
+{
+  "artist": "The Beach Boys",
+  "artistNormalized": "the beach boys",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[B]\n[G#m]\n[C#m]\n[F#]\n\n[Verse 1]\n[B]There's a\nworld where\nI can\ngo And\ntell my\n[A]secrets\n[B]to\n[G#m]In my\n\n[Chorus]\n[C#m]room\n[A]\n[F#]\nIn my\n[B]room\n[A]\n[B]\n\n[Verse 2]\n[B]In this\nworld I\nlock out\nAll my\nworries\n[A]and my\n[B]fears\n[G#m]In my\n\n[Chorus]\n[C#m]room\n[A]\n[F#]\nIn my\n[B]room\n[A]\n[B]\n\n[Bridge]\n[C#m]Do my\ndreaming\n[F#]and my\nscheming\n[G#m]Lie [F#]a-\n[G#m]wake [F#]and\n[B]pray\n[G#m]Do my\ncrying\n[F#]and my\nsighing\n[C#m]Laugh at\nyester-\nday\n[F#]\n\n[Verse 3]\n[B]Now it's\ndark and\nI'm a-\nlone But\nI won't\n[A]be a-\n[B]fraid\n[G#m]In my\n\n[Chorus]\n[C#m]room\n[A]\n[F#]\nIn my\n[B]room\n[A]\n[B]\n\n[Outro]\n[B]Room,\n[A]\n[B]\n[A]my\n[B]room\n[A]\n[B]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "In My Room",
+  "id": "ec3a1dc0ec4787cb8b8a3ce8b0f89bec185960adfa7286455cf60a6f2f96d130",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 86,
+  "normalizedKey": "the beach boys|in my room",
+  "playableChords": [
+    "B",
+    "G#m",
+    "C#m",
+    "F#",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Bridge"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ec3a1dc0ec4787cb8b8a3ce8b0f89bec185960adfa7286455cf60a6f2f96d130",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "In My Room",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

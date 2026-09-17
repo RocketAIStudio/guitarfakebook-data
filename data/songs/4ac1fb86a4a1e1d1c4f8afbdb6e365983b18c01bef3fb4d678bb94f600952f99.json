@@ -1,0 +1,76 @@
+{
+  "artist": "Strung Out",
+  "artistNormalized": "strung out",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D5]\n\n[Verse 1]\n[D5]The view from this perspec-\ntive's getting sta-\n[F5]le\n[D5]As my best de-\n[C5]fenses crumble one\n[A#5]more time\n[F5]The walls are gettin' [A#5]tighter Voices\n[C5]gettin' [F5]louder Des-\n[A#5]peration's growing in-\nside my [C5]mind [F5]\n\n[Chorus]\n[D5]So\n[C5]I just\n[A#5]hide a-\nway\n[D5]I\n[C5]don't want\n[A#5]any-\nthing from\n\n[Outro]\n[F5]you!",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "888xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "10-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Klawsterphobia",
+  "id": "4ac1fb86a4a1e1d1c4f8afbdb6e365983b18c01bef3fb4d678bb94f600952f99",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 50,
+  "normalizedKey": "strung out|klawsterphobia",
+  "playableChords": [
+    "D5",
+    "F5",
+    "C5",
+    "A#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4ac1fb86a4a1e1d1c4f8afbdb6e365983b18c01bef3fb4d678bb94f600952f99",
+    "version": "BCFZ"
+  },
+  "tempo": 216,
+  "title": "Klawsterphobia",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

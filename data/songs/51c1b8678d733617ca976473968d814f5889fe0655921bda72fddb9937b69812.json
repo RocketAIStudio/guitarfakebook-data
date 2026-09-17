@@ -1,0 +1,137 @@
+{
+  "artist": "The Animals",
+  "artistNormalized": "the animals",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G]\n[D]\n[G]\n[D]If you\n\n[Verse 1]\n[G]ever change your\n[D]mind About\n[G7]leaving, leaving me be-\n[C]hind Oh,\n[G]bring it to me, [D6]bring your sweet\n[C]loving [D7]Bring it on home to\n[G]me, [C]oh\n[G]yeah [D]You know I\n\n[Verse 2]\n[G]laughed, when you\n[D7]left But now I\n[G7]know I've only hurt my-\n[C7]self Oh,\n[G]bring it to me, [D7]bring your sweet\n[C7]loving [D7]Bring it on home to\n[G]me, yeah, [C7]yeah,\n[G]yeah [D7]I'll give you\n\n[Verse 3]\n[G]jewelry, money\n[D7]too And that's\n[G7]not all, all I'll do for\n[C7]you Oh,\n[G]bring it to me, [D7]bring your sweet\n[C7]loving [D7]Bring it on home to\n[G]me, yeah, [C7]yeah,\n[G]yeah, [D7]yeah\n\n[Interlude]\n[G]\n[D7]\n[G7]\n[C7]\n[G]  [D7]\n[C7]  [D7]\n[G]  [C7]\n[G][D7]You know I'll\n\n[Verse 4]\n[G]always be your\n[D7]slave Until I'm\n[G7]dead and buried in my\n[C7]grave Oh,\n[G]bring it to me, [D7]bring your sweet\n[C7]loving [D7]Bring it on home to\n[G]me, yeah, [C7]yeah,\n[G]yeah [D7]If you\n\n[Verse 5]\n[G]ever change your\n[D7]mind About\n[G7]leaving, leaving me be-\n[C7]hind Oh,\n[G]bring it to me, [D7]bring your sweet\n[C7]loving [D7]Bring it on home to\n[G]me, yeah, [C7]yeah,\n[G]yeah, [C7]yeah\n\n[Outro]\n[G]  [C7]\n[G]  [C7]\n[G]  [C7]\n[G]  [C7]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D6": {
+      "catalog": [
+        "xx0202"
+      ],
+      "catalogCount": 1
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bring It On Home",
+  "id": "51c1b8678d733617ca976473968d814f5889fe0655921bda72fddb9937b69812",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 180,
+  "normalizedKey": "the animals|bring it on home",
+  "playableChords": [
+    "G",
+    "D",
+    "G7",
+    "C",
+    "D6",
+    "D7",
+    "C7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 29,
+      "name": "Interlude"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "51c1b8678d733617ca976473968d814f5889fe0655921bda72fddb9937b69812",
+    "version": "BCFZ"
+  },
+  "tempo": 84,
+  "title": "Bring It On Home",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

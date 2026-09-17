@@ -1,0 +1,112 @@
+{
+  "artist": "Taylor Swift",
+  "artistNormalized": "taylor swift",
+  "capo": "3",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n\n[Verse 1]\n[D]Salt air,\n[Gsus2]and the rust on your\n[Em7]door I never needed\nanything more\n[D]Whispers\n[Gsus2]of \"Are you sure?\"\n[Em7]\"Never have I\never before\" But\n\n[Chorus]\n[D]I can see us lost in the memory\n[Gsus2]August slipped away into a moment in time\n[Em7]'Cause it was never mine\n[A]And\n[D]I can see us twisted in bedsheets\n[Gsus2]August sipped away like a bottle of wine\n[Em7]'Cause you were never mine\n[A]\n\n[Verse 2]\n[D]Your back\n[Gsus2]beneath the sun\n[Em7]Wishin' I could\nwrite my name on it\n[D]Will you call\n[Gsus2]when you're back at school?\n[Em7]I remember\nthinkin' I had you But\n\n[Chorus]\n[D]I can see us lost in the memory\n[Gsus2]August slipped away into a moment in time\n[Em7]'Cause it was never mine\n[A]And\n[D]I can see us twisted in bedsheets\n[Gsus2]August sipped away like a bottle of wine\n[Em7]'Cause you were never mine\n[A]\n\n[Break]\n[D]\n[Gsus2]\n[Em7]\n[A]\n\n[Bridge]\n[D]Back when we were still changin' for the\n[Gsus2]better Wanting was enough\n[Em7]For me, it was enough\n[A]To live for the\n[D]hope of it all Cancel plans just in\n[Gsus2]case you'd call And say, \"Meet me behind the mall\"\n[Em7]So much for summer love\n[A]and saying \"us\" 'Cause you weren't mine\n[D]to lose\n[Gsus2]You weren't mine to lose,\n[Em7]no\n[A]But\n\n[Chorus]\n[D]I can see us lost in the memory\n[Gsus2]August slipped away into a moment in time\n[Em7]'Cause it was never mine\n[A]And\n[D]I can see us twisted in bedsheets\n[Gsus2]August sipped away like a bottle of wine\n[Em7]'Cause you were never mine\n[A]\n\n[Outro]\n[D]'Cause you were never\n[Gsus2]mine Never mine\n[Em7]\n[A]But do you remember? Remember\n[D]when I pulled up and said \"Get in the car\" And then\n[Gsus2]canceled my plans just in case you'd call?\n[Em7]Back when I was livin' for the hope of it all, for the\n[A]hope of it all \"Meet me behind the mall\"\n[D]\n[Gsus2]\n[Em7]\n[A]Remember\n[D]when I pulled up and said \"Get in the car\" And then\n[Gsus2]canceled my plans just in case you'd call?\n[Em7]Back when I was livin' for the hope of it all\n[A]For the hope of it all,\n[D]for the\n[Gsus2]hope of it all\n[Em7]\n[A]\n[D]\n[Gsus2]\n[Em7]\n[A]\n[D]\n[Gsus2]\n[Em7]\n[A]\n\n[Fade Out]\n[D]\n[Gsus2]\n[Em7]\n[A]\n[D]\n[Gsus2]\n[Em7]\n[A]\n[D]\n[Gsus2]\n[Em7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022033",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus2": {
+      "catalog": [
+        "3x0233"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "august",
+  "id": "9234090699d6f1b9a719733df474b99afe060dbd209d4a9542952a09c970bac8",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 407,
+  "normalizedKey": "taylor swift|august",
+  "playableChords": [
+    "D",
+    "Gsus2",
+    "Em7",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Break"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    },
+    {
+      "measure": 87,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9234090699d6f1b9a719733df474b99afe060dbd209d4a9542952a09c970bac8",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "august",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,125 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "I'm\n\n[Verse1]\n[A]so [G#7]tired, I\n[D]haven't slept a wink [E]I'm\n[A]so [F#m]tired,\n[D]my mind is on [E]the blink I\n[A]wonder should I [Eaug]get up and\n[F#m]fix myself a drink\n[Dm]No, no, no I'm\n\n[Verse2]\n[A]so tired [G#7]I\n[D]don't know what to do [E]I'm\n[A]so tired [F#m]\n[D]my mind is set [E]on you I\n[A]wonder should I call [Eaug]you but I\n[F#m]know what you'd do\n[Dm]\n\n[Chorus]\n[A]You'd say I'm putting you on But it's\nno joke, it's doing me harm You know I\n[E]can't sleep, I can't stop my brain You know it's\nthree weeks, I'm going insane You know I'd\n[D]give you everything I've got For a little peace of mind\n[A]I'm\n\n[Verse3]\n[A]so tired [G#7]I'm\n[D]feeling so upset [E]Al-\n[A]though I'm [F#m]so tired\n[D]I'll have another [E]cigarette And\n[A]curse Sir Walter [Eaug]Raleigh He was\n[F#m]such a stupid\n[Dm]get\n\n[Chorus]\n[A]You'd say I'm putting you on But it's\nno joke, it's doing me harm You know I\n[E]can't sleep, I can't stop my brain You know it's\nthree weeks, I'm going insane You know I'd\n[D]give you everything I've got For a little peace of mind\n[A]\n\n[Outro]\n[D]give you everything I've got For a little peace of mind\n[A]\n[D]give you everything I've got For a little peace of mind\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Eaug": {
+      "catalog": [
+        "x7655x"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#7": {
+      "catalog": [
+        "464544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I'm So Tired *alt",
+  "id": "a5905ae7bf88729a73251fe83729e9c43036feba41f457e86f3348d0b0d1a2d5",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 229,
+  "normalizedKey": "the beatles|i m so tired",
+  "playableChords": [
+    "A",
+    "G#7",
+    "D",
+    "E",
+    "F#m",
+    "Eaug",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse1"
+    },
+    {
+      "measure": 9,
+      "name": "Verse2"
+    },
+    {
+      "measure": 16,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse3"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a5905ae7bf88729a73251fe83729e9c43036feba41f457e86f3348d0b0d1a2d5",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "I'm So Tired",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

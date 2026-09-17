@@ -1,0 +1,109 @@
+{
+  "artist": "The Beach Boys",
+  "artistNormalized": "the beach boys",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C/G]As I\n\n[Verse]\n[C]sit and close my eyes There's\n[Am7]peace in my mind And I'm\n[C/G]hoping that you'll find it too\n[Fmaj7][F#dim7]And these\n[C/G]feelings in my heart I\nknow are meant for you\n[F/A]Meant\nfor [G]you...\n\n[Outro]\n[C/G]\n[G]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "F#dim7": {
+      "catalog": [
+        "23424x"
+      ],
+      "catalogCount": 1
+    },
+    "F/A": {
+      "catalog": [
+        "x03211"
+      ],
+      "catalogCount": 1
+    },
+    "Fmaj7": {
+      "catalog": [
+        "1x3210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "32003x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Meant For You",
+  "id": "8f48a46cefbd39704e025cd53a7ff434491833ce6ada84b8c663adc60c5e030c",
+  "key": "D♭",
+  "keyIdentified": true,
+  "lyricEventCount": 37,
+  "normalizedKey": "the beach boys|meant for you",
+  "playableChords": [
+    "C/G",
+    "C",
+    "Am7",
+    "Fmaj7",
+    "F#dim7",
+    "F/A",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse"
+    },
+    {
+      "measure": 10,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8f48a46cefbd39704e025cd53a7ff434491833ce6ada84b8c663adc60c5e030c",
+    "version": "BCFZ"
+  },
+  "tempo": 73,
+  "title": "Meant For You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

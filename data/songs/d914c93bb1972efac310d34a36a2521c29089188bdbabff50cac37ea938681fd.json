@@ -1,0 +1,53 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[D]I once had\n[G]a girl, or\nshould I say\nshe once had\nme? She asked me\nto stay and\nshe told me\nto sit an-\nywhere.",
+  "diagrams": {
+    "D": {
+      "catalog": [
+        "0xxx75",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "0xxx87",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Norwegian Wood (This Bird Has Flown)",
+  "id": "d914c93bb1972efac310d34a36a2521c29089188bdbabff50cac37ea938681fd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 27,
+  "normalizedKey": "the beatles|norwegian wood this bird has flown",
+  "playableChords": [
+    "D",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [],
+  "source": {
+    "format": "gp4",
+    "sha256": "d914c93bb1972efac310d34a36a2521c29089188bdbabff50cac37ea938681fd",
+    "version": "FICHIER GUITAR PRO v4.06"
+  },
+  "tempo": 100,
+  "title": "Norwegian Wood (This Bird Has Flown)",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

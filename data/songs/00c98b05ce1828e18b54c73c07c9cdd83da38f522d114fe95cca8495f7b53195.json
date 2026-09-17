@@ -1,0 +1,79 @@
+{
+  "artist": "Teen Idols",
+  "artistNormalized": "teen idols",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\nIt may be hard when it's just\nme and you\nHope makes a meal when we eat\nKetchup soup\n\n[Verse 1]\n[A5]I know it's [E5]hard when we sell\n[D5]plasma [A5]to pay for dinner\n[A5]I promise [E5]it'll all pay\n[D5]off some [A5]day\n[C5]It's funny No Money\n[D5]Makes childrens noses runny\n\n[Chorus]\n[A5]It may be [G5]hard when it's just\n[D5]me and [A5]you\n[A5]Hope makes a [G5]meal when we eat\n[D5]Ketchup [A5]soup\n[A5]It may be [G5]hard when it's just\n[D5]me and [A5]you\n[A5]Hope makes a [G5]meal when we eat\n[D5]Ketchup [A5]soup\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ketchup Soup",
+  "id": "00c98b05ce1828e18b54c73c07c9cdd83da38f522d114fe95cca8495f7b53195",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 97,
+  "normalizedKey": "teen idols|ketchup soup",
+  "playableChords": [
+    "A5",
+    "E5",
+    "D5",
+    "C5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "00c98b05ce1828e18b54c73c07c9cdd83da38f522d114fe95cca8495f7b53195",
+    "version": "BCFZ"
+  },
+  "tempo": 148,
+  "title": "Ketchup Soup",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

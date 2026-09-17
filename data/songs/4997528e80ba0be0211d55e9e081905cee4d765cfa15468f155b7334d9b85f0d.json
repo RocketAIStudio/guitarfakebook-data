@@ -1,0 +1,108 @@
+{
+  "artist": "Stone Temple Pilots",
+  "artistNormalized": "stone temple pilots",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n\n[Verse 1]\n[A]Our bed we live, our bed we sleep\nMaking love and I become\nyou Flesh is warm with naked feet\nStabbing thorns and you become\n[A]me [F]\n[G]Oh, [A]I'd beg for you,\n[A]  [F]\n[G]oh [A]you know I'll beg for you\n\n[Chorus]\n[F]Pick a song and sing a\n[G]yellow nectarine\n[F]Take a bath I'll drink the\n[G]water that you leave [Am]If you\n[F]should die before me ask if\n[G]you could bring a friend [Am]\n[F]Pick a flower hold your\n[G]breath and drift away [Am]\n\n[Verse 2]\n[A]She holds my hand, we share a laugh\nSipping orange blossom bree-\nzes Love is still and sweat remains\nCherished gift unselfish fee-\n[A]ling [F]\n[G]Oh, [A]I'd beg for you,\n[A]  [F]\n[G]oh you [A]know I'll beg for you\n\n[Chorus]\n[F]Pick a song and sing\n[G]a yellow nectarine\n[F]Take a bath I'll drink the\n[G]water that you leave [Am]If you\n[F]should die before me ask if\n[G]you could bring a friend [Am]\n[F]Pick a flower hold your\n[G]breath and drift away [Am]\n\n[Bridge]\n[A]\n\n[Verse 3]\n[A]She tells me things, I listen well\nDrink the wine save the wa-\nter Skin is smooth I steal a glance\nDragon flies are gliding o-\n[A]ver [F]\n[G]Oh [A]I'd beg for you,\n[A]  [F]\n[G]oh you [A]know I'll beg for you\n\n[Chorus]\n[F]Pick a song and sing\n[G]a yellow nectarine\n[F]Take a bath I'll drink the\n[G]water that you leave [Am]If you\n[F]should die before me ask if\n[G]you could bring a friend [Am]\n[F]Pick a flower hold your\n[G]breath and drift away [Am]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Still Remains *alt",
+  "id": "4997528e80ba0be0211d55e9e081905cee4d765cfa15468f155b7334d9b85f0d",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 270,
+  "normalizedKey": "stone temple pilots|still remains",
+  "playableChords": [
+    "A",
+    "F",
+    "G",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4997528e80ba0be0211d55e9e081905cee4d765cfa15468f155b7334d9b85f0d",
+    "version": "BCFZ"
+  },
+  "tempo": 65,
+  "title": "Still Remains",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

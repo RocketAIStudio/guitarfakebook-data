@@ -1,0 +1,139 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F#m]\n[D]\n[E7]\n\n[Verse 1]\n[A]I've just seen a face\nI can't for-\nget the time or\nplace Where we just\n[F#m]met She's just the girl\nfor me And I\nwant all the\nworld to see We've\n[D]met,\nmmmmmm-\n[E]mmmm'mmmmmm\n[A]\n\n[Verse 2]\n[A]Had it been a-\nnother day I\nmight have looked the\nother way And\n[F#m]I'd have never been\naware But\nas it is I'll\ndream of her Tonight,\n[D]\ndidi-\n[E]didi'n'di\n[A]\n\n[Chorus]\n[E]Falling,\nyes I am\n[D]falling\nAnd she keeps\n[A]calling\n[D]Me back again\n[A]\n\n[Verse 3]\n[A]I have never known\nThe like of\nthis, I've been alone\nAnd I have\n[F#m]missed things And kept out\nof sight But\nother girls were\nnever quite Like this,\n[D]\ndada-\n[E]n'dada'n'da\n[A]\n\n[Chorus]\n[E]Falling,\nyes I am\n[D]falling\nAnd she keeps\n[A]calling\n[D]Me back again\n[A]\n\n[Solo]\n[A]\n[F#m]\n[D]\n[E]\n[A]\n\n[Chorus]\n[E]Falling,\nyes I am\n[D]falling\nAnd she keeps\n[A]calling\n[D]Me back again\n[A]\n\n[Verse 4]\n[A]I've just seen a face\nI can't for-\nget the time or\nplace Where we just\n[F#m]met She's just the girl\nfor me And I\nwant all the\nworld to see We've\n[D]met,\nmmmmmm-\n[E]mmmm'mmmmmm\n[A]\n\n[Chorus]\n[E]Falling,\nyes I am\n[D]falling\nAnd she keeps\n[A]calling\n[D]Me back again\n[A]\n\n[Chorus]\n[E]Falling,\nyes I am\n[D]falling\nAnd she keeps\n[A]calling\n[D]Me back again\n[A]\n\n[Chorus]\n[E]Oh, Falling,\nyes I am\n[D]falling\nAnd she keeps\n[A]calling\n[D]Me back again\n\n[Outro]\n[D]\n[E]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I've Just Seen A Face *alt",
+  "id": "24c1ce5ee903cfd980166d0a958170905c3a62df5a9b682fd2ff19d00e259dd8",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 253,
+  "normalizedKey": "the beatles|i ve just seen a face",
+  "playableChords": [
+    "F#m",
+    "D",
+    "E7",
+    "A",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Solo"
+    },
+    {
+      "measure": 76,
+      "name": "Chorus"
+    },
+    {
+      "measure": 84,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 96,
+      "name": "Chorus"
+    },
+    {
+      "measure": 104,
+      "name": "Chorus"
+    },
+    {
+      "measure": 112,
+      "name": "Chorus"
+    },
+    {
+      "measure": 118,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "24c1ce5ee903cfd980166d0a958170905c3a62df5a9b682fd2ff19d00e259dd8",
+    "version": "BCFZ"
+  },
+  "tempo": 240,
+  "title": "I've Just Seen A Face",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

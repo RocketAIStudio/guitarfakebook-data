@@ -1,0 +1,144 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 8,
+  "content": "Close your eyes\n\n[Verse 1]\n[F#m]and I'll kiss\n[B]you To-\n[E]morrow I'll miss\n[C#m]you Re-\n[A]member I'll\n[F#m]always be\n[D]true\n[B7]And then\n[F#m]while I'm away\n[B]I'll write\n[E]home every day\n[C#m]And I'll\n[A]send all my\n[B]loving to you\n[E]\nI'll pretend\n\n[Verse 2]\n[F#m]that I'm kis-\n[B]sing The\n[E]lips I am mis-\n[C#m]sing And\n[A]hope that my\n[F#m]dreams will come\n[D]true\n[B7]And then\n[F#m]while I'm away\n[B]I'll write\n[E]home every day\n[C#m]And I'll\n[A]send all my\n[B]loving to you\n[E]\nAll my\n\n[Chorus]\n[C#m]loving I\n[Caug]will send to you\n[E]\nAll my lo-\n[C#m]ving, dar-\n[Caug]ling I'll be true\n[E]\n\n[Solo]\n[A]\n[E]\n[B7]\n[E]\nClose your eyes\n\n[Verse 3]\n[F#m]and I'll kiss\n[B]you To-\n[E]morrow I'll miss\n[C#m]you Re-\n[A]member I'll\n[F#m]always be\n[D]true\n[B7]And then\n[F#m]while I'm away\n[B]I'll write\n[E]home every day\n[C#m]And I'll\n[A]send all my\n[B]loving to you\n[E]\nAll my\n\n[Chorus]\n[C#m]loving I\n[Caug]will send to you\n[E]\nAll my lo-\n[C#m]ving, dar-\n[Caug]ling I'll be true\n[E]\nAll my\n\n[Outro]\n[C#m]loving,\nall my lo-\n[E]ving\nooh All my\n[C#m]loving\nI will send to you\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "Caug": {
+      "catalog": [
+        "x32110"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "All My Loving",
+  "id": "44786ee13b31f5bd4507dedad8a7ab12f264184fe46a446629453045729c7b09",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 177,
+  "normalizedKey": "the beatles|all my loving",
+  "playableChords": [
+    "F#m",
+    "B",
+    "E",
+    "C#m",
+    "A",
+    "D",
+    "B7",
+    "Caug"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Solo"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "44786ee13b31f5bd4507dedad8a7ab12f264184fe46a446629453045729c7b09",
+    "version": "BCFZ"
+  },
+  "tempo": 157,
+  "title": "All My Loving",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

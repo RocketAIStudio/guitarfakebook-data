@@ -1,0 +1,111 @@
+{
+  "artist": "The 1975",
+  "artistNormalized": "the 1975",
+  "capo": "3",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n[Em]\n[Am7]\n[F]\nWell, we're he-\n\n[Verse 1]\n[C]re\nWe're at the common agai-\n[Em]n\nSmoked six of the te-\n[Am7]n fags that I only\nbought an hour ago\n[F]\nSaid, 'Well I\n[C],\nI like the look of you-\n[Em]r shoes\nI like the way that your fa-\n[Am7]ce looks when I'm a-\nrguing with you'\n[F]\nAnd so when,\n\n[Chorus]\n[Am7]\nwhen we all grow o-\n[G]ld\nI hope this song will remi-\n[F]nd you I'm not ha-\nlf as bad as what\n[C]you've been to-\n[G]ld And when I\n[Am7]knock\nat a hundred and two\n[G]\nAnd I see your paja-\n[F]mas I can't stop\nsmiling at you\n[C]\n[G]That's why we-\n\n[Verse 2]\n[C]'re here,\nwe're at the common agai-\n[Em]n\nI've been pouring my hea-\n[Am7]rt out towards your o-\nptimisti-\n[F]c grin\nI said, 'Well\n[C]I\nlike the cut of your jib\n[Em]\nI like the way that your fa-\n[Am7]ce looks when you're ya-\npping on abou-\n[F]t him'\nBut on this\n\n[Chorus]\n[Am7]shirt\nI found your smell\n[G]\nI just sat there for a-\n[F]ges contempla-\nting what to do\n[C]with myse-\n[G]lf I called you up\n[Am7]\nat a hundred and two\n[G]\nWe just sat there for a-\n[F]ges Talking abou-\nt that boy what was\n[C]getting on to\n[G]you.\n\n[Outro]\n[C]\n[Em]\n[Am7]\n[F]\n[C]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "102",
+  "id": "dd28ab35353fb636bce2336980323d07286dbcfcff26094dc9c5a24e45528d1f",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 255,
+  "normalizedKey": "the 1975|102",
+  "playableChords": [
+    "C",
+    "Em",
+    "Am7",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dd28ab35353fb636bce2336980323d07286dbcfcff26094dc9c5a24e45528d1f",
+    "version": "BCFZ"
+  },
+  "tempo": 93,
+  "title": "102",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

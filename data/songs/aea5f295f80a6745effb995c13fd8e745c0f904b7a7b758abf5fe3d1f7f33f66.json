@@ -1,0 +1,120 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[B]\n[A]\n[E]\n[B7]\n\n[Verse 1]\n[E]I been told when a\nboy kiss a girl\nTake a trip a-\nround the world Hey,\n\n[Chorus]\n[A]hey\nHey,\n[E]hey\nHey,\n[B]hey,\n[A]yeah, she say ya do\n[E]\n[B7]\n\n[Verse 2]\n[E]My girl says when I\nkiss her lips\nGets a thrill through her\nfingertips Hey,\n\n[Chorus]\n[A]hey\nHey,\n[E]hey\nHey,\n[B]hey,\n[A]yeah, she say ya do\n[E]\n[B7]Well, I talk about\n\n[Interlude]\n[E]boys\nDon't ya know I mean\nboys\nWell, I talk about boys,\n[A]now\nAaahhh,\n[E]boys\nWell, I talk about\n[B]boys, now\n[A]What a bundle of joy!\n[E](Alright, George!)\n[B7]\n\n[Solo]\n[E]\n[A]\n[E]\n[B]\n[A]\n[E]\n[B7]\n\n[Verse 3]\n[E]My girl says when I\nkiss her lips\nGets a thrill through her\nfingertips Hey,\n\n[Chorus]\n[A]hey\nHey,\n[E]hey\nHey,\n[B]hey,\n[A]yeah, she say ya do\n[E]\n[B7]Well, I talk about\n\n[Interlude]\n[E]boys\nDon't ya know I mean\nboys\nWell, I talk about boys,\n[A]now\nAaahhh,\n[E]boys\nWell, I talk about\n[B]boys, now\n[A]What a bundle of joy!\n[E]Oh, oh,\n[B7]ah yeah\n\n[Outro]\n[E]boys\nDon't ya know I mean\nboys?\nOoh, boys\n[A]\nAh\n[E]ha",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Boys *alt",
+  "id": "aea5f295f80a6745effb995c13fd8e745c0f904b7a7b758abf5fe3d1f7f33f66",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 167,
+  "normalizedKey": "the beatles|boys",
+  "playableChords": [
+    "B",
+    "A",
+    "E",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Interlude"
+    },
+    {
+      "measure": 42,
+      "name": "Solo"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Interlude"
+    },
+    {
+      "measure": 78,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "aea5f295f80a6745effb995c13fd8e745c0f904b7a7b758abf5fe3d1f7f33f66",
+    "version": "BCFZ"
+  },
+  "tempo": 144,
+  "title": "Boys",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

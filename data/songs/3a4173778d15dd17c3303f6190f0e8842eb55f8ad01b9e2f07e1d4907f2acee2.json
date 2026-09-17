@@ -1,0 +1,142 @@
+{
+  "artist": "SYML",
+  "artistNormalized": "syml",
+  "capo": "3",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am]\n[C]\n[F]\n[Dm]\n\n[Verse 1]\n[Am]Cold\n[C]bones,\n[F]yeah, that's my love\n[Dm]\n[Am]She hides a-\n[C]way, like a\n[F]ghost\n[Dm]Oh, oh\n\n[Chorus]\n[Am]does she know that we\n[C]bleed the same?\n[F]\n[Dm]Oh, oh\n[Am]don't wanna cry but I\n[F]break that way\n[C]\n\n[Verse 2]\n[Am]Cold\n[C]sheets,\n[F]oh, where's my love?\n[Dm]\n[Am]I am searching\n[C]high, I'm searching\n[F]low in the\n[Dm]night Oh, oh\n\n[Chorus]\n[Am]does she know that we\n[C]bleed the same?\n[F]\n[Dm]Oh, oh\n[Am]don't wanna cry but I\n[F]break that way\n[C]\n\n[Interlude]\n[G]Did she run away?\n[Em]Did she run away? I don't\n[F]know\n[G]If she ran away\n[Em]If she ran away, come back\n[F]home\nJust come\nhome\n\n[Solo Piano]\n[Am]\n[C]\n[F]\n[Dm]\n[Am]\n[C]\n[F]\n[Dm]\n\n[Verse 3]\n[Am]I got a\n[C]fear,\n[F]oh, in my blood\n[Dm]\n[Am]She was carried\n[C]up into the\n[F]clouds, high a-\n[Dm]bove Oh, oh\n\n[Chorus]\n[Am]if you bled, I\n[C]bleed the same\n[F]\n[Dm]Oh, oh\n[Am]if you're scared, I'm\n[F]on my way\n[C]\n\n[Interlude]\n[G]Did you run away?\n[Em]Did you run away? I don't\n[F]need to know\n[G]If you ran away\n[Em]If you ran away, come back\n[F]home\nJust come\nhome\n\n[Outro]\n[Am]\n[C]\n[F]\n[Dm]\n[Am]\n[C]\n[F]\n[Dm]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Where's My Love",
+  "id": "3a4173778d15dd17c3303f6190f0e8842eb55f8ad01b9e2f07e1d4907f2acee2",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 171,
+  "normalizedKey": "syml|where s my love",
+  "playableChords": [
+    "Am",
+    "C",
+    "F",
+    "Dm",
+    "G",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Interlude"
+    },
+    {
+      "measure": 47,
+      "name": "Solo Piano"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 71,
+      "name": "Interlude"
+    },
+    {
+      "measure": 80,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3a4173778d15dd17c3303f6190f0e8842eb55f8ad01b9e2f07e1d4907f2acee2",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "Where's My Love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

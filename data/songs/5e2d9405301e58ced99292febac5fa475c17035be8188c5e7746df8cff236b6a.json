@@ -1,0 +1,142 @@
+{
+  "artist": "The Alan Parsons Project",
+  "artistNormalized": "the alan parsons project",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 10,
+  "content": "[Verse 1]\n[Cadd9]Watching, [Bb/C]waiting,\n[C]rising, [D/C]falling,\n[C]Listening, [Bb/C]calling,\n[C]drifting. [Bb/C]\n[Cadd9]Touching, [Bb/C]feeling,\n[C]seeing, [D/C]belieing,\n[C]Hoping, [Bb/C]sending,\n[C]leaving. [Bb/C]\n\n[Chorus]\n[Dm7]I couldn't say why you and\n[Em7]I are Gemeni If i\n[Eb]tried to write a million words a day\n[Dm7]I\n[Cadd9]see your [Bb/C]shadow\n[C]coming [D/C]closer Then\n[C]watch you [Bb/C]drifting away\n[C]  [Bb/C]\n\n[Verse 2]\n[Cadd9]Watching, [Bb/C]waiting,\n[C]rising, [D/C]falling,\n[C]Listening, [Bb/C]calling,\n[C]drifting. [Bb/C]\n[Cadd9]Touching, [Bb/C]feeling,\n[C]seeing, [D/C]belieing,\n[C]Hoping, [Bb/C]sending,\n[C]leaving. [Bb/C]\n\n[Chorus]\n[Dm7]I couldn't say why you and\n[Em7]I are Gemeni We are\n[Eb]traveling a million worlds away\n[Dm7]I\n[Cadd9]see your [Bb/C]shadow\n[C]coming [D/C]closer Then\n[C]watch you [Bb/C]drifting away\n[C]  [Bb/C]\n\n[Outro]\n[Cadd9]Watch you [Bb/C]drifting away\n[C]  [D/C]\n[Cm7]  [F/C]\n[Cm7add11]",
+  "diagrams": {
+    "Bb/C": {
+      "catalog": [
+        "x3333x"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32030"
+      ],
+      "catalogCount": 1
+    },
+    "Cm7": {
+      "catalog": [
+        "x35343",
+        "8-10-8-8-8-8",
+        "x-x-10-12-11-11",
+        "x-15-17-15-16-15",
+        "20-22-20-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Cm7add11": {
+      "catalog": [
+        "x33343"
+      ],
+      "catalogCount": 1
+    },
+    "D/C": {
+      "catalog": [
+        "x30232"
+      ],
+      "catalogCount": 1
+    },
+    "Dm7": {
+      "catalog": [
+        "x57565",
+        "x-x-0-2-1-1",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "x79787",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "12-14-12-12-12-12",
+        "x-19-21-19-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F/C": {
+      "catalog": [
+        "8x7565"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Gemini",
+  "id": "5e2d9405301e58ced99292febac5fa475c17035be8188c5e7746df8cff236b6a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 142,
+  "normalizedKey": "the alan parsons project|gemini",
+  "playableChords": [
+    "Cadd9",
+    "Bb/C",
+    "C",
+    "D/C",
+    "Dm7",
+    "Em7",
+    "Eb",
+    "Cm7",
+    "F/C",
+    "Cm7add11"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5e2d9405301e58ced99292febac5fa475c17035be8188c5e7746df8cff236b6a",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "Gemini",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

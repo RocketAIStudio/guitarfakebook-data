@@ -1,0 +1,148 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[E7]\n\n[Verse 1]\n[E7]Got a good reason\nFor\ntaking the easy way out\n[A7]Got a good reason\nFor\n[E7]taking the easy way out\nnow She was a\n\n[Chorus]\n[F#7]day\ntripper\nOne way ticket, yeah\nIt took me\n[A7]so\n[G#7]long to find out\n[C#7]And I found\n[B7]out\n[E7]\n\n[Verse 2]\n[E7]She's a big teaser\nShe took me half the way there\n[A7]She's a big teaser\n[E7]She took me half the way there,\nnow She was a\n\n[Chorus]\n[F#7]day\ntripper\nOne way ticket, yeah\nIt took me\n[A7]so\n[G#7]long to find out\n[C#7]And I found\n[B7]out\n\n[Interlude]\n[B7]\n[Bsus4]\n[B7]\n[Bsus4]\n[B7]\n[Bsus4]\n[B7]Ah,\n[Bsus4]ah,\n[B7]ah,\n[Bsus4]ah,\n[B7]ah,\n[Bsus4]ah\n[E7]\n\n[Verse 3]\n[E7]Tried to please her\nShe only played one night stand\n[A7]Tried to please her\n[E7]She only played one night stand,\nnow She was a\n\n[Chorus]\n[F#7]day\ntripper\nSunday driver, yeah\nIt took me\n[A]so\n[G#7]long to find out\n[C#7]And I found\n[B7]out\n\n[Outro]\n[E7]\nDay tripper,\nday tripper, yeah\nDay tripper,\nday tripper, yeah\n[E7]Day tripper",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "575655",
+        "5-4-2-2-2-3",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "7978xx",
+        "797877",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bsus4": {
+      "catalog": [
+        "79997x"
+      ],
+      "catalogCount": 1
+    },
+    "C#7": {
+      "catalog": [
+        "9-11-9-10-9-9",
+        "x-4-3-4-2-1",
+        "x-4-6-4-6-4",
+        "9-8-6-6-6-7",
+        "x-x-11-13-12-13"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "G#7": {
+      "catalog": [
+        "464544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Day Tripper *alt 2",
+  "id": "27b52a6297e093746818a82c3a38f39dd815dc30843869017ccec199bd30167b",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 167,
+  "normalizedKey": "the beatles|day tripper",
+  "playableChords": [
+    "E7",
+    "A7",
+    "F#7",
+    "G#7",
+    "C#7",
+    "B7",
+    "Bsus4",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Interlude"
+    },
+    {
+      "measure": 63,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 71,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "27b52a6297e093746818a82c3a38f39dd815dc30843869017ccec199bd30167b",
+    "version": "BCFZ"
+  },
+  "tempo": 138,
+  "title": "Day Tripper",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

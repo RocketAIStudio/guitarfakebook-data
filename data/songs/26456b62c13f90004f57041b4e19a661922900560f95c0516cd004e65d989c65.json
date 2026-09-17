@@ -1,0 +1,108 @@
+{
+  "artist": "Sum 41",
+  "artistNormalized": "sum 41",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Fm]Lately, I'm\nnot quite myself.\n[Db]Maybe, I\ndo need some help.\n[Ab]Just my\nconfusion,\n[Eb]Trust my\n[Eb][Db]delusion.\n[Fm]Don't you, Reg-\nret you met me?\n[Db]Go through, These\nsteps to get me,\n[Ab]Back to\nwhere we start,\n[Eb]'Fore I\nfall [Db]apart. if [Eb]I could\n\n[Verse 1]\n[Fm]black out, It'd be-\ncome so clear,\n[Db]Standing facetoface with every-\nthing I fear.\n[Ab]Watch so close-\nly, But\n[Eb]still I don't\nsee. As\n[Fm]bad as it seems, A piece of\nmind I steal, In\nordinary life, The conse-\nquence is real.\n[Ab]I'm past the point\nof re-\n[Eb]ali-\nty. This isn't me,\n\n[Chorus]\n[Fm]This isn't you,\nBut it's just\n[Db]everything we do.\nTill you\n[Ab]open up your eyes,\nAnd under-\n[Eb]stand this isn't real.\nThis isn't me,\n[Fm]This isn't you,\nThis is\n[Db]everything but true,\nTill we\n[Ab]come to realize,\nIt's what we\n[Eb]put each other through.\nIt's like a\n\n[Verse 2]\n[Fm]bad dream, Becoming\nall so true,\n[Db]Leaving me with nothing else\nleft to do.\n[Ab]Now so help-\nless, I'm\n[Eb]not so self-\nish. Tell me,\n[Fm]How does it feel to have a\nface like that,\nHow does it feel to be re-\nplaced like that.\n[Ab]Now so face-\nless, Do\n[Eb]you still\nfeel? This isn't me,\n\n[Chorus]\n[Fm]This isn't you,\nBut it's just\n[Db]everything we do.\nTill you\n[Ab]open up your eyes,\nAnd under-\n[Eb]stand this isn't real.\nThis isn't me,\n[Fm]This isn't you,\nThis is\n[Db]everything but true,\nTill we\n[Ab]come to realize,\nIt's what we\n[Eb]put each other through.\n\n[Break]\n[Fm]\nIt's\n[Db]hard to be-\nlieve right\n[Fm]now,\n[Db]This seems to\nbe real.\n[Fm]\nStill\n[Db]phasing by\nthis time,\n[Fm]\nSo\n[Db]why can't I\nwake up?\n\n[Solo]\n[Fm]\n[Db]\n[Ab]\n[Eb]\n[Fm]\n[Db]\n[Ab]\n[Eb]\nThis isn't me,\n\n[Chorus]\n[Fm]This isn't you,\nBut it's just\n[Db]everything we do.\nTill you\n[Ab]open up your eyes,\nAnd under-\n[Eb]stand this isn't real.\nThis isn't me,\n[Fm]This isn't you,\nThis is\n[Db]everything but true,\nTill we\n[Ab]come to realize,\nIt's what we\n[Eb]put each other through.",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x02220",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "xx2100",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "xx4222",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Open Your Eyes",
+  "id": "26456b62c13f90004f57041b4e19a661922900560f95c0516cd004e65d989c65",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 375,
+  "normalizedKey": "sum 41|open your eyes",
+  "playableChords": [
+    "Fm",
+    "Db",
+    "Ab",
+    "Eb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Break"
+    },
+    {
+      "measure": 100,
+      "name": "Solo"
+    },
+    {
+      "measure": 116,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "26456b62c13f90004f57041b4e19a661922900560f95c0516cd004e65d989c65",
+    "version": "BCFZ"
+  },
+  "tempo": 195,
+  "title": "Open Your Eyes",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "primary"
+}

@@ -1,0 +1,159 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 41,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[E7]Hello little\n[A]girl [F#]\n[Bm]Hello [E]little\n[A]girl [F#]\n[Bm]Hello [E]little\n[A]girl [F#]\n[Bm][E]When I\n\n[Verse 1]\n[A]see you everyday I say,\n[D]\"Mm mm [E]\n[D]hello [E]little girl\"\n[A][E]When you're\n[A]passing on your way I say,\n[D]\"Mm mm [E]\n[D]hello [E]little girl\"\n[A][E]When I\n\n[Verse 2]\n[A]see you passing by I cry,\n[D]\"Mm mm [E]\n[D]hello [E]little girl\"\n[A][E]When I\n[A]try to catch your eye I cry,\n[D]\"Mm mm [E]\n[D]hello [E]little girl\"\n[A]\n\n[Bridge]\n[A]I send you [F#]flowers but\n[Bm]you don't care [E]\n[A]You never [F#]seem to see me\n[Bm]standing there [E]\n[A]I often [F#]wonder what you're\n[Bm]thinking of [E]\n[A]I hope it's [F#]me and\n[Bm]love love love [E]So I\n\n[Verse 3]\n[A]hope there'll come a day When you'll say,\n[D]\"Mm [E]\n[D]you're my [E]little girl\"\n[A]  [E]\n\n[Interlude]\n[A]\n[D]  [E]\n[D]  [E]\n[A]\n\n[Bridge]\n[A]It's not the first time that it's\n[Bm]happened to me, [E]\n[A]It's been a long [F#]lonely\n[Bm]time [E]\n[A]And it's so [F#]funny\n[Bm]funny to see [E]\n[A]that I'm [F#]about to lose my\n[Bm]mind mind mind [E]So I\n\n[Verse 4]\n[A]hope there'll come a day When you say,\n[D]\"Mm mm [E]\n[D]You're my [E]little girl,\n[A]mm mm [F#]mm\n[Bm]You're my [E]little girl,\n[A]mm mm [F#]mm\"\n[Bm]You're my [E]little girl,\n[A]oh yeah [F#]\n[Bm]You're my [E]little\n[A]girl [C#m]\n[Bm]  [Dm]\n[A]Do do do do do\n[A6]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A6": {
+      "catalog": [
+        "x02222"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hello Little Girl",
+  "id": "ca843ae7699e3d33952ccd199280029854468b0f3603fb1c49387953213b0ebf",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 213,
+  "normalizedKey": "the beatles|hello little girl",
+  "playableChords": [
+    "E7",
+    "A",
+    "F#",
+    "Bm",
+    "E",
+    "D",
+    "C#m",
+    "Dm",
+    "A6"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Bridge"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 36,
+      "name": "Interlude"
+    },
+    {
+      "measure": 40,
+      "name": "Bridge"
+    },
+    {
+      "measure": 48,
+      "name": "Verse 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ca843ae7699e3d33952ccd199280029854468b0f3603fb1c49387953213b0ebf",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Hello Little Girl",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

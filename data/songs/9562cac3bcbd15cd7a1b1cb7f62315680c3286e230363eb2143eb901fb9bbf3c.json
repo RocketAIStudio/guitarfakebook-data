@@ -1,0 +1,148 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[F#m]A taste of\nhoney\n[A]Tasting much swee\n[E]ter than\n[F#m]wine\nI\n\n[Verse 1]\n[F#m]dream of\n[F#mmaj7]your first\n[F#m7]kiss And\n[B]then I\n[F#m]feel u-\n[F#mmaj7]pon my\n[F#m7]lips a-\n[B]gain A taste of\n\n[Chorus]\n[F#m]honey (taste of\nhoney)\n[A]Tasting much swee-\n[E]ter than\n[F#m]wine [Bm]\n[F#m]\n[F#m]  [Bm]\n[F#m]I will\n\n[Bridge]\n[F#m7]re-\n[B]turn, yes I\n[F#m]will return\n[B]I'll come\n[A]back for the\n[E]honey and\n[F#m]you\nYours\n\n[Verse 2]\n[F#m]was the\n[F#mmaj7]kiss that a-\n[F#m7]woke my\n[B]heart There\n[F#m]lingers\n[F#mmaj7]still, though we're\n[F#m7]far a-\n[B]part That taste of\n\n[Chorus]\n[F#m]honey (taste of\nhoney)\n[A]Tasting much swee-\n[E]ter than\n[F#m]wine [Bm]\n[F#m]\n[F#m]  [Bm]\n[F#m]I will\n\n[Bridge]\n[F#m]return,\n[B]yes I\n[F#m]will return\n[B]I'll come\n[A]back\nfor the\n[E]honey\nand\n\n[Outro]\n[F#m]you [Bm]\n[F#m]  [Bm]\n[F#m]  [Bm]\n[F#]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "242222",
+        "2x2220",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#mmaj7": {
+      "catalog": [
+        "243222"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "A Taste Of Honey *alt",
+  "id": "9562cac3bcbd15cd7a1b1cb7f62315680c3286e230363eb2143eb901fb9bbf3c",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 116,
+  "normalizedKey": "the beatles|a taste of honey",
+  "playableChords": [
+    "F#m",
+    "A",
+    "E",
+    "F#mmaj7",
+    "F#m7",
+    "B",
+    "Bm",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Bridge"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9562cac3bcbd15cd7a1b1cb7f62315680c3286e230363eb2143eb901fb9bbf3c",
+    "version": "BCFZ"
+  },
+  "tempo": 101,
+  "title": "A Taste Of Honey",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,167 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 45,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[F#7]\n[B7]\n[E7]\n[B7]I call your name\n\n[Verse 1]\n[E7]\nbut you're not there\n[C#7]\nWas I to bla\n[F#7]me\nfor being unfair\n[B7]\nOh I can't\n\n[Verse 2]\n[E7]sleep at night\nSince you've been gone\n[C#7]\nI never\n[F#7]weep at night\n[A]I [Am]can't go on\n[E7]\nDon't you know I can't\n\n[Bridge]\n[A7]take it\nI don't know who can\n[C#m]\nI'm not goin' to\n[F#7]ma ke it\nI'm not that kind of man\n[C7]\n[B7]Oh I can't\n\n[Verse 3]\n[E7]sleep at night\nBut just the same\n[C#7]\nI never\n[F#7]weep at night\n[A]I [Am]call your name\n[E7]Aww\n\n[Interlude]\n[E7]\n[C#7]\n[F#7]\n[A]  [Am]\n[E7]\nDon't you know I can't\n\n[Bridge]\n[A7]take it\nI don't know who can\n[C#m]\nI'm not goin' to\n[F#7]ma ke it\nI'm not that kind of\n[C7]man\n[B7]Oh I can't\n\n[Verse 4]\n[E7]sleep at night\nBut just the same\n[C#7]\nI never\n[F#7]weep at night [A]\nI [Am]call your name\n[E7]  [A7]\nI call your na -\n\n[Outro]\n[E7]me [A7]\nI call your na -\n[E7]me [A7]\nI call your name\n[E7]  [A7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#7": {
+      "catalog": [
+        "x4342x",
+        "x-4-3-4-2-1",
+        "x-4-6-4-6-4",
+        "9-8-6-6-6-7",
+        "9-11-9-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Call Your Name *alt",
+  "id": "c711e5626df09fbb186352e531a30a87b9a095b082b57fe40dfc9d5c728e4d51",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 148,
+  "normalizedKey": "the beatles|i call your name",
+  "playableChords": [
+    "F#7",
+    "B7",
+    "E7",
+    "C#7",
+    "A",
+    "Am",
+    "A7",
+    "C#m",
+    "C7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Bridge"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 38,
+      "name": "Interlude"
+    },
+    {
+      "measure": 46,
+      "name": "Bridge"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 62,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c711e5626df09fbb186352e531a30a87b9a095b082b57fe40dfc9d5c728e4d51",
+    "version": "BCFZ"
+  },
+  "tempo": 126,
+  "title": "I Call Your Name",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

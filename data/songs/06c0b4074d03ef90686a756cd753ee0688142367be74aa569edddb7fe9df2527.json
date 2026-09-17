@@ -1,0 +1,134 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\n[D]\n[A]\n[E]\n[A]\n\n[Verse 1]\n[A]They\nsay it's your birth day\nIt's\nmy birthday too, yeah\n[D]They\nsay it's your birth day\n[A]We're\ngonna have a good time\n[E]I'm\nglad it's your birth day\n[A]Happy\nbirthday to you\n\n[Interlude]\n[A]\n\n[Bridge]\n[E]\nYes we're going to a\npar ty par ty\nYes we're going to a\npar ty par ty\nYes we're going to a\npar ty par ty\n\n[Chorus]\n[C]I would\n[G]like you to dance\n[C](Birthday) Take a\n[G]chachachachance\n[C](Birthday) I would\n[G]like you to dance\n[C](Birthday)\n[G]Dance\n[B]\n[E]yeah\n\n[Interlude]\n[A]\n[D]\n[A]\n[E]\n[A]\n\n[Break]\n[A]\n[G]\n[A]\n[G]\n\n[Chorus]\n[C]I would\n[G]like you to dance\n[C](Birthday) Take a\n[G]chachachachance\n[C](Birthday) I would\n[G]like you to dance\n[C](Birthday)\n[G]Dance!\n[B]Dance\n[E]\n\n[Verse 2]\n[A]They\nsay it's your birth day\nIt's\nmy birthday too, yeah\n[D]They\nsay it's your birth day\n[A]We're\ngonna have a good time\n[E]I'm\nglad it's your birth day\n[A]Happy\nbirthday to you",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Birthday",
+  "id": "06c0b4074d03ef90686a756cd753ee0688142367be74aa569edddb7fe9df2527",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 168,
+  "normalizedKey": "the beatles|birthday",
+  "playableChords": [
+    "A",
+    "D",
+    "E",
+    "C",
+    "G",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Interlude"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Interlude"
+    },
+    {
+      "measure": 64,
+      "name": "Break"
+    },
+    {
+      "measure": 68,
+      "name": "Chorus"
+    },
+    {
+      "measure": 78,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "06c0b4074d03ef90686a756cd753ee0688142367be74aa569edddb7fe9df2527",
+    "version": "BCFZ"
+  },
+  "tempo": 139,
+  "title": "Birthday",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

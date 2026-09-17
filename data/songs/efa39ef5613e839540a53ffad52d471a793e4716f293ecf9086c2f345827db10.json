@@ -1,0 +1,130 @@
+{
+  "artist": "Smashing Pumpkins",
+  "artistNormalized": "smashing pumpkins",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E5]\n[D]  [A]\n[E5]\nFreak\n\n[Verse 1]\n[E5]out Give\nin Doesn't mat\n[D]ter what you [A]believe in\n[E5]Stay\ncool And be\n[D]somebody's fool [A]this year\n[E5]'Cause they\nknow Who is righ-\n[D]teous, what is bold [A]\n\n[Chorus]\n[C]So I'm told [G]\n[D]Who wants [A]\n[C]honey [G]As\n[D]long as [A]there's some\n[C]money [G]\n[D]Who wants [A]that ho-\n[C]\n[E5]ney?\n\n[Verse 2]\n[E5]\nHip-\nsters u-\nnite Come a-\n[D]lign for the big fight [A]to rock\n[E5]for you Be-\nware All those\n[D]angels with their wings [A]glued on\n[E5]Stay\ndown We are frigh-\n[D]tened and we're scared [A]\n\n[Chorus]\n[C]If you don't stare [G]\n[D]Who wants [A]\n[C]honey [G]As\n[D]long as [A]there's some\n[C]money [G]\n[D]Who wants [A]that ho-\n[C]  [G]\n[E]ney? [D]Let me\n[A]out [C][G]\n[E]Let [D]let me\n[A]out [C][G]\n[E]Let [D]let me\n[A]out [C][G]\n[E]Let [D]let me\n[A]out [C][G]\n\n[Bridge]\n[E5]\n\n[Solo]\n[D]  [A]\n[E5]\n[D]  [A]\n[E5]\n[D]  [A]\n[E5]\n[D]  [A]\n[C]  [G]\n\n[Interlude]\n[D]Tell me all [A]of your\n[C]secrets [G]\n[D]Cannot help [A]but be-\n[C]lieve this [G]is true\n[D]Tell me all [A]of your\n[C]secrets [G]I know,\n[D]I know, I [A]know Should\n[C]have listened when I told [G]\n[D]Who wants [A]that\n[C]honey [G]\n[D]As long as there [A]is some\n[C]money [G]\n[D]Who wants [A]that ho-\n[C]\n[E]ney? [D]Let me\n[A]out [C][G]\n[E]Let [D]let me\n[A]out [C][G]\n[E]Let [D]let me\n[A]out [C][G]\n[E]Let [D]let me\n[A]out [C][G]\n\n[Outro]\n[E5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Cherub Rock *alt",
+  "id": "efa39ef5613e839540a53ffad52d471a793e4716f293ecf9086c2f345827db10",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 193,
+  "normalizedKey": "smashing pumpkins|cherub rock",
+  "playableChords": [
+    "E5",
+    "D",
+    "A",
+    "C",
+    "G",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Bridge"
+    },
+    {
+      "measure": 70,
+      "name": "Solo"
+    },
+    {
+      "measure": 78,
+      "name": "Interlude"
+    },
+    {
+      "measure": 100,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "efa39ef5613e839540a53ffad52d471a793e4716f293ecf9086c2f345827db10",
+    "version": "BCFZ"
+  },
+  "tempo": 87,
+  "title": "Cherub Rock",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

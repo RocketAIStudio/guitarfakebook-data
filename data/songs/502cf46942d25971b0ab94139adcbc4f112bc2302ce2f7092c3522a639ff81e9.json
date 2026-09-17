@@ -1,0 +1,115 @@
+{
+  "artist": "Stevie Ray Vaughan",
+  "artistNormalized": "stevie ray vaughan",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Bm]\n[Em]\n[Bm]\n[F#7]\n[Em]\n[Bm]  [Em]\n[Bm]  [F#7]\n[Bm]\n[Em]\n[Bm]\n[F#7]\n[Em]\n[Bm]  [Em]\n[Bm]  [F#7]\n\n[Verse 1]\n[Bm]Went down to Tin Pan Alley\nSee what was going on\nThings was to hot down there\nCouldn't stay very long Hey\n[Em]hey hey hey,\nAlley's the roughest place I've ever\n[Bm]been\n[F#7]All the people down there\n[Em]Livin' for their whisky, wine, and gin\n[Bm]  [Em]\n[Bm]  [F#7]\n\n[Verse 2]\n[Bm]I heard a woman scream\nYeah and I peeped through the door\nSome cat was workin' on Annie with a\nLord with a twobyfour Hey\n[Em]hey hey hey,\nAlley's the roughest place I've ever\n[Bm]been\n[F#7]All the people down there\n[Em]Livin' for their whisky, wine, and gin\n[Bm]  [Em]\n[Bm]  [F#7]\n\n[Verse 3]\n[Bm]I heard a pistol shoot\nYeah and it was a forty four\nSomebody killed a crap shooter 'cause he didn't\nShake, rattle, and roll Hey hey hey\n[Em]hey,\nAlley's the roughest place I've ever\n[Bm]been\n[F#7]All the people down there\n[Em]Livin' for their whisky, wine, and gin\n[Bm]  [E]\n[Bm]  [F#7]\n\n[Solo]\n[Bm]\n[Em]\n[Bm]\n[F#m]\n[Em]\n[Bm]  [Em]\n[Bm]  [F#7]\n\n[Verse 4]\n[Bm]I saw a cop standing\nWith his hand on his gun\nHe said this is a raid, boy now\nLord Nobody run Hey\n[Em]hey hey hey,\nAlley's the roughest place I've ever\n[Bm]been\n[F#m]Yeah they took me away from Alley\n[Em]Lord they took me right back to the pen\n\n[Outro]\n[Bm]  [Em]\n[Bm]",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "02210x",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "2423xx",
+        "2-4-2-3-2-2",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "2442xx",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tin Pan Alley",
+  "id": "502cf46942d25971b0ab94139adcbc4f112bc2302ce2f7092c3522a639ff81e9",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 230,
+  "normalizedKey": "stevie ray vaughan|tin pan alley",
+  "playableChords": [
+    "Bm",
+    "Em",
+    "F#7",
+    "E",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 62,
+      "name": "Solo"
+    },
+    {
+      "measure": 74,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 84,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "502cf46942d25971b0ab94139adcbc4f112bc2302ce2f7092c3522a639ff81e9",
+    "version": "BCFZ"
+  },
+  "tempo": 60,
+  "title": "Tin Pan Alley",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

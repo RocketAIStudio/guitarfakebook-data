@@ -1,0 +1,186 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 50,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[E]\n\n[Chorus]\n[B]Good day\n[F#]sunshine, [B]\n[B]Good day\n[F#]sunshine, [B]\n[E7]Good day\nsunshine. I need to\n\n[Verse 1]\n[A]laugh, [F#7]and when the\n[B7]sun is out\n[E7]I've got something I can\n[A]laugh about, I feel good,\n[A][F#7]in a spe-\n[B7]cial way.\n[E7]I'm in love and it's a\n[A]sunny day.\n\n[Chorus]\n[B]Good day\n[F#]sunshine, [B]\n[B]Good day\n[F#]sunshine, [B]\n[E7]Good day\nsunshine. We take a\n\n[Verse 2]\n[A]walk, [F#7]the sun is\n[B7]shining down,\n[E7]Burns my feet as they touch\n[A]the ground.\n\n[Solo]\n[D]  [B7]\n[E7]\n[A7]\n[D]\n\n[Chorus]\n[B]Good day\n[F#]sunshine, [B]\n[B]Good day\n[F#]sunshine, [B]\n[E7]Good day\nsunshine. And then we\n\n[Verse 3]\n[A]lie, [F#7]beneath a\n[B7]shady tree,\n[E7]I love her and she's lov-\n[A]ing me. She feels good,\n[A][F#7]she knows she's\n[B7]looking fine.\n[E7]I'm so proud to know that\n[A]she is mine.\n\n[Chorus]\n[B]Good day\n[F#]sunshine, [B]\n[B]Good day\n[F#]sunshine, [B]\n[E7]Good day\nsunshine.\n\n[Chorus]\n[B]Good day\n[F#]sunshine, [B]\n[B]Good day\n[F#]sunshine, [B]\n[E7]Good day\nsunshine,\n\n[Outro]\n[F]Good day sun-\nshine.\nGood day sun-\nshine.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Good Day Sunshine *alt",
+  "id": "f885593cf3afe3cabe2b2caa7456a892360dd21457679efd2174499444b45267",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 159,
+  "normalizedKey": "the beatles|good day sunshine",
+  "playableChords": [
+    "E",
+    "B",
+    "F#",
+    "E7",
+    "A",
+    "F#7",
+    "B7",
+    "D",
+    "A7",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Solo"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f885593cf3afe3cabe2b2caa7456a892360dd21457679efd2174499444b45267",
+    "version": "BCFZ"
+  },
+  "tempo": 117,
+  "title": "Good Day Sunshine",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

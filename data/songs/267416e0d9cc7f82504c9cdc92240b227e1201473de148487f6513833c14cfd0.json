@@ -1,0 +1,97 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]\nIf the\n\n[Verse 1]\n[G]rain comes They\n[C]run and [D]hide their\n[G]heads They\n[C]might as [D]well be\n[G]dead If the\n[C]rain comes\nIf the\n[G]rain\ncomes When the\n\n[Verse 2]\n[G]sun shines They\n[C]slip [D]into the\n[G]shade And\n[C]sip their [D]lemo-\n[G]nade When the\n[C]sun shines\nWhen the\nsun\n[G]shines\n\n[Chorus]\n[G]Rain,\n[C]\nI don't mind\n[G]\n[G]Shine,\n[C]\nthe weather's fine\n[G]\nI can\n\n[Verse 3]\n[G]show you That\n[C]when it [D]starts to rain\n[G]\n[D][C]Everything's the\n[G]same I can\n[C]show you\nI can\n[G]show\nyou\n\n[Chorus]\n[G]Rain,\n[C]\nI don't mind\n[G]\n[G]Shine,\n[C]\nthe weather's fine\n[G]\nCan you\n\n[Verse 4]\n[G]hear me That\n[C]when it [D]rains and shines\n[G]It's\n[C]just a [D]state of\n[G]mind Can you\n[C]hear me\nCan you\n[G]hear\nme\n\n[Outro (Fade Out)]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rain *alt",
+  "id": "267416e0d9cc7f82504c9cdc92240b227e1201473de148487f6513833c14cfd0",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 113,
+  "normalizedKey": "the beatles|rain",
+  "playableChords": [
+    "G",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 67,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "267416e0d9cc7f82504c9cdc92240b227e1201473de148487f6513833c14cfd0",
+    "version": "BCFZ"
+  },
+  "tempo": 113,
+  "title": "Rain",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

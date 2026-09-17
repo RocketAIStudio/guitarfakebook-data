@@ -1,0 +1,120 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E]\nWell how\n\n[Verse 1]\n[E]come you say you will\nwhen you won't\n[C]Say you do, baby,\nwhen you don't?\n[E]Let me know honey\nhow you feel\n[C]Tell the truth now,\nis love real? But ah\n\n[Chorus]\n[B7]ah\nwell honey don't,\n[E]\nwell honey don't\nHoney don't,\nhoney don't,\n[A7]\nhoney don't\n[E]\nI say you\n[B7]will when you won't, ah\nah, honey, don't\n[E]\nWell I\n\n[Verse 2]\n[E]love you, baby, and you\nought to know\n[C]I like the way that you\nwear your clothes\n[E]Everything about you is so\ndoggone sweet You\n[C]got that sand all\nover your feet But ah\n\n[Chorus]\n[B7]ah\nwell honey don't,\n[E]\nhoney don't\nHoney don't,\nhoney don't,\n[A7]\nhoney don't\n[E]\nI say you\n[B7]will when you won't, ah\nah, honey, don't\n[E]Ah, rock\non George, one time for me.\n\n[Solo]\n[E]\n[C]\n[E]\n[C]\n[B7]I feel fine.\n\n[Interlude]\n[E]\n[A7]Mmmm\n[E]\n[B7]I said\n[E]\nWell\n\n[Verse 3]\n[E]sometimes I love you on a\nSaturday night\n[C]Sunday morning you don't\nlook right\n[E]You've been out\npainting the town\n[C]Ah ah baby, been\nstepping around But ah\n\n[Chorus]\n[B7]ah\nwell honey don't,\n[E]I\nsaid honey don't\nHoney don't,\nhoney don't,\n[A7]\nhoney don't\n[E]\nI say you\n[B7]will when you won't, ah\nah, honey, don't\n[E]Ah, rock\non George, for Ringo one time.\n\n[Solo 2]\n[E]\n[C]\n[E]\n[C]\n[B7]\n\n[Chorus]\n[E]\nWell honey don't,\nwell honey\n[A7]don't\nA little little honey\n[E]don't\nI say you\n[B7]will when you won't, ah\nah, honey, don't\n[E]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Honey Don't *alt",
+  "id": "6ab56a1b31bfb7538d7fbffe452427c7ec2eb82ed6a4fb74e5ea0411507647dd",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 256,
+  "normalizedKey": "the beatles|honey don t",
+  "playableChords": [
+    "E",
+    "C",
+    "B7",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Solo"
+    },
+    {
+      "measure": 62,
+      "name": "Interlude"
+    },
+    {
+      "measure": 74,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 82,
+      "name": "Chorus"
+    },
+    {
+      "measure": 98,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 106,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6ab56a1b31bfb7538d7fbffe452427c7ec2eb82ed6a4fb74e5ea0411507647dd",
+    "version": "BCFZ"
+  },
+  "tempo": 162,
+  "title": "Honey Don't",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

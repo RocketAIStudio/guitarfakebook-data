@@ -1,0 +1,115 @@
+{
+  "artist": "STRFKR",
+  "artistNormalized": "strfkr",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n[C]  [G]\n[Am]  [D]\n[C]\n[Am]\n[Em]\n[C]  [G]\n[Am]  [D]\n[C]\n[Am]\n\n[Verse 1]\n[Em]Fall away from the\nedge of the world Where I'm fine\n[C]on my own [G]\nFelt right alone\n[Am]  [D]\n[C]Bled\n[Am]White\n[Em]Soft cell where there's\nnowhere to go There where no-\n[C]body knows [G]\nThere's\nnothing at all\n[Am]  [D]\n[C]Shadow light\n[Am]Shadow light\n\n[Chorus]\n[G]My thoughts all\nevil and pure Gone away\nfrom my own\n[Em]design\n[C]Satellite\n[Am]Show me light\n[G]I felt so\nclose to a cure In a mo-\nment of pas-\n[Em]sing time\n[C]Show me light\n[Am]Satellite\n[C]Show me light\n[Am]Lonely light\n\n[Interlude]\n[Em]\n[C]  [G]\n[Am]  [D]\n[C]\n[Am]\n[Em]\n[C]  [G]\n[Am]  [D]\n[C]\n[Am]\n\n[Verse 2]\n[Em]Slow wave tangled\nup in a haze Of a short\n[C]faded [G]memory\nMoving\ndown there in front of\n[Am]me [D]\n[C]Relaying\n[Am]Repeating\n[Em]Body rides\nover the falls Where I'm fin-\n[C]ding my home [G]\nWhere there's\nnothing at all\n[Am]  [D]\n[C]Shadow light\n[Am]Shadow light\n\n[Chorus]\n[G]My thoughts all\nevil and pure Gone away\nfrom my own\n[Em]design\n[C]Satellite\n[Am]Show me light\n[G]I felt so\nclose to a cure In a mo-\nment of pas-\n[Em]sing time\n[C]Show me light\n[Am]Satellite\n\n[Outro]\n[C]Show me light\n[Am]Lonely light\n[C]Show me light\n[Am]Only light",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Satellite",
+  "id": "f9174445c96eda5be7f65335bc881f251ac3e07e4a8630b4abe6136b8ba18305",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 196,
+  "normalizedKey": "strfkr|satellite",
+  "playableChords": [
+    "Em",
+    "C",
+    "G",
+    "Am",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Interlude"
+    },
+    {
+      "measure": 78,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 96,
+      "name": "Chorus"
+    },
+    {
+      "measure": 112,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f9174445c96eda5be7f65335bc881f251ac3e07e4a8630b4abe6136b8ba18305",
+    "version": "BCFZ"
+  },
+  "tempo": 116,
+  "title": "Satellite",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

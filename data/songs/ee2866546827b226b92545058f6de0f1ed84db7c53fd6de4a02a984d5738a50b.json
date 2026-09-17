@@ -1,0 +1,108 @@
+{
+  "artist": "The Animals",
+  "artistNormalized": "the animals",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]Come on baby, let the\ngood times roll\nCome on baby, let me\nthrill your soul\n[D7]Come on baby, let the\ngood times roll,\nroll all night long\n[G]Oh baby,\n\n[Chorus]\n[C]feel so\n[G]good\n[D7]when you're\n[G]home\n[C]Come on\n[G]ba by,\n[A7]rock me all night\n[D7]long\n\n[Verse 2]\n[G]Come on baby, let's\nclose the door\nCome on baby, let's\nrock some more\n[D7]Come on baby, let the\ngood times roll,\nroll all night long\n[G]\n\n[Interlude]\n[G]\n[D7]\n[G]\n[C]\n[G]\n[D7]\n[G]\n[C]\n[G]\n[A7]\n[D7]\n\n[Verse 3]\n[G]Come on baby, let's\nclose the door\nCome on honey, let's\nrock some more\n[D7]Come on baby, let the\ngood times roll,\nroll all night long\n[G]Oh baby,\n\n[Chorus]\n[C]feel so\n[G]good\n[D7]when you're\n[G]home\n[C]Come on\n[G]ba by,\n[A7]rock me all night\n[D7]long\n\n[Verse 4]\n[G]Come on baby, let the\ngood times roll\nCome on baby, let me\nthrill your soul\n[D7]Come on baby, let the\ngood times roll,\nroll all night long\n[G]  [D7]  [G]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Let The Good Times Roll",
+  "id": "ee2866546827b226b92545058f6de0f1ed84db7c53fd6de4a02a984d5738a50b",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 158,
+  "normalizedKey": "the animals|let the good times roll",
+  "playableChords": [
+    "G",
+    "D7",
+    "C",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Interlude"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Verse 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ee2866546827b226b92545058f6de0f1ed84db7c53fd6de4a02a984d5738a50b",
+    "version": "BCFZ"
+  },
+  "tempo": 147,
+  "title": "Let The Good Times Roll",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

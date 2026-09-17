@@ -1,0 +1,111 @@
+{
+  "artist": "Sum 41",
+  "artistNormalized": "sum 41",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]\n[E/G#]\n[F#m]\n[Bm]\n[A]\n[E]\n\n[Verse 1]\n[A]Look\n[E/G#]at\n[F#m]me\n[Bm]Who am I\nsupposed to be and\n[A]what do I believe?\n[E]Can\n[A]you\n[E/G#]tell\n[F#m]me\n[Bm]Since you've made\nup your mind Who\n[A]knows what you believe\n[E]And I\n\n[Chorus]\n[Bm]just\n[A]don't\n[E]know\nOh I\n[Bm]just\n[A]don't\n[E]know\nWho I'm supposed to be\n\n[Bridge]\n[A]\n[E/G#]\n[F#m]\n[Bm]\n[A]\n[E]\n\n[Verse 2]\n[A]Look\n[E/G#]at\n[F#m]me\n[Bm]Am I the\nimage of your\n[A]hopes and tragedies?\n[E]Just\n[A]look\n[E/G#]at me\n[F#m]\n[Bm]Will I\never be\n[A]more than just a\n[E]memory? 'Cause you\n\n[Chorus]\n[Bm]just\n[A]don't\n[E]know\nWell, you\n[Bm]just\n[A]don't\n[E]know\nAll I am is\n[Bm]me\n[A]\n[E]\nAll I am is\n[Bm]me\n[A]\n[E]\nAll I am is\n\n[Outro]\n[A]me\n[E/G#]\n[F#m]\n[Bm]\n[A]\n[E]\n[A]\n[E/G#]\n[F#m]\n[Bm]\n[A]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E/G#": {
+      "catalog": [
+        "xx6454"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Look At Me",
+  "id": "0667c6aa0ee7c1a4c61de8d2b0012794b3b276c93e4d1e1da1f839390390847b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 102,
+  "normalizedKey": "sum 41|look at me",
+  "playableChords": [
+    "A",
+    "E/G#",
+    "F#m",
+    "Bm",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0667c6aa0ee7c1a4c61de8d2b0012794b3b276c93e4d1e1da1f839390390847b",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Look At Me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

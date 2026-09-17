@@ -1,0 +1,127 @@
+{
+  "artist": "Sum 41",
+  "artistNormalized": "sum 41",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A5]\n[F#5]\n[A5]\n[F#5]\n[A5]\n[F#5]\n[A5]\n[F#5]\n[A5]\n[F#5]\n[A5]\n[F#5]\n[D5]\n[B5]\n[G5]\n[A5]\nIt's\n\n[Verse 1]\n[D5]far beyond your\nreach, it\n[B5]holds a place in\ntime,\n[E5]Somewhere a-\nhead is the\n[G5]back of the\nline. I\n[D5]can't re-\nlate to\n[B5]your mis-\ntakes,\n[E5]awkwardly\nspeaking with\n[G5]nothing to\nsay.\n\n[Interlude]\n[D5]\n[B5]\n[G5]\n[A5]\n\n[Verse 2]\n[D5]Caught up in your\nlife, ex-\n[B5]cuses are so\nlame,\n[E5]You may be\ndifferent but\n[G5]I'm still the\nsame. The\n[D5]reasons that you\nthought, the in-\n[B5]tention that you\ncaught, You\n[E5]say things are\nsimple we\n[G5]both know they're\nnot.\n\n[Bridge]\n[E5]You\ncan't let it go,\n[G5]\n\n[Pre-Chorus]\n[D5]Whoa.\n\n[Bridge]\n[E5]You\ncan't but I\n[G5]know.\n\n[Pre-Chorus]\n[D5]Whoa,\nWhoa\n[B5]you don't even\n[G5]know.\n\n[Chorus]\n[D5]It's not in\n[B5]what you\n[G5]do, more in\n[A5]what you say.\n[D5]It's not in\n[B5]what you\n[G5]do, more in\n[A5]what you say.\n[D5]It's not in\n[B5]what you\n[G5]do, more in\n[A5]what you say.\n[D5]It's not in\n[B5]what you\n[G5]do\n[A5]what you\n\n[Interlude]\n[D5]do\n[B5]\n[G5]\n[A5]\n[D5]\n[B5]\n[G5]\n[A5]\n\n[Verse 3]\n[D5]A\nmillion questions\n[B5]asked, the\nremnants of the\n[E5]past. You've\nalways been de-\n[G5]nied, but\nalways by your\n[D5]side. I've\nalways tried to,\n[B5]to\nunderstand you,\n[E5]The\nworlds not\n[G5]learning from\nyou.\n\n[Pre-Chorus]\n[D5]Whoa.\n[B5]\n[G5]\n[D5]Whoa.\n[B5]\n[G5]\n\n[Outro]\n[D5]It's not in\n[B5]what you\n[G5]do, more in\n[A5]what you say.\n[D5]It's not in\n[B5]what you\n[G5]do, more in\n[A5]what you say.\n[D5]It's not in\n[B5]what you\n[G5]do, more in\n[A5]what you say.\n[D5]It's not in\n[B5]what you\n[G5]do\n[A5]what you\n[D5]do",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx",
+        "x244xx"
+      ],
+      "catalogCount": 2
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Summer *alt 2",
+  "id": "64e842c7c669f5df72631924ddb73ba657287f5499cc14027f26ed464fecbdea",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 230,
+  "normalizedKey": "sum 41|summer",
+  "playableChords": [
+    "A5",
+    "F#5",
+    "D5",
+    "B5",
+    "G5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Chorus"
+    },
+    {
+      "measure": 97,
+      "name": "Interlude"
+    },
+    {
+      "measure": 113,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 129,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 137,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "64e842c7c669f5df72631924ddb73ba657287f5499cc14027f26ed464fecbdea",
+    "version": "BCFZ"
+  },
+  "tempo": 230,
+  "title": "Summer",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

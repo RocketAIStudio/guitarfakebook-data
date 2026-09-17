@@ -1,0 +1,86 @@
+{
+  "artist": "System of a down",
+  "artistNormalized": "system of a down",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n[Fm]\n\n[Verse 1]\n[Gm]Plagiarized e-\nxistence exist\nAmong the wri-\nters of the word\nShake your spear at\nShakespeare\nShake your spear at\nShakespeare\n\n[Chorus]\n[Fm]Loud and\nnoisy\nStrong refrige-\nrators\nGaining inde-\npendence\nGaining inde-\npendence\n\n[Verse 2]\n[Gm]Stupid people\ndo stupid things\nSmart people out-\nsmart each other\nThen themselves, then\nthemselves\nThen themselves, then\nthemselves\n\n[Chorus]\n[Fm]Take me\ndown there\nPhotographic\nrelapse\nPeople feeding\nfrenzy\nThe devil is so\nlovely\n\n[Interlude]\n[Fm]The\ndevil is so lovely\nThe\ndevil is so lovely\nSo lovely\nSo lovely\n\n[Verse 3]\n[Gm]My blue moon ri-\nvets in exits\nForewarned custo-\nmary spirits\nBy myself, by\nmyself\nBy myself, by\nmyself\n\n[Chorus]\n[Fm]Take me\ndown there\nPhotographic\nrelapse\nPeople feeding\nfrenzy\nThe devil is so\nlovely\nTake me\ndown there\nPhotographic\nrelapse\nPeople feeding\nfrenzy\nThe devil is so\nlovely",
+  "diagrams": {
+    "Fm": {
+      "catalog": [
+        "555333",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "x02210",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ddevil *alt 2",
+  "id": "34eb0d1f4f3c052fc7eb6147a831d0db71bdc2014f42854d88e3d0210634e09a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 191,
+  "normalizedKey": "system of a down|ddevil",
+  "playableChords": [
+    "Fm",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Interlude"
+    },
+    {
+      "measure": 62,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 70,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "34eb0d1f4f3c052fc7eb6147a831d0db71bdc2014f42854d88e3d0210634e09a",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Ddevil",
+  "tuning": "C G C F A D",
+  "variantRole": "alt"
+}

@@ -1,0 +1,134 @@
+{
+  "artist": "T. Rex",
+  "artistNormalized": "t rex",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]  [C]  [G]\n[C][G]Oh\n\n[Verse 1]\n[G]Baby Mystic\nLady You do own\n[C]my night [C/B]\n[Am]Put my dogs\n[Em]to fright\n[G]Yea Yea Yea Yea Yea\n[C]  [G]\n[C][G]Oh\n\n[Verse 2]\n[G]Riding sliding\nSorceress In your dun\n[C]garees [C/B]\n[Am]Got me on\n[Em]my knees\n[G]Yea Yea Yea Yea Yea\n[C]  [G]\n[C][G]Oh The\n\n[Pre-Chorus]\n[Am]people in your life are\n[D]cruel\n[G]Keep on ri ding that\nhard road The\n[Am]lovers in you life are\n[D]few\n[G]Keep on ri ding that\nhard road\n\n[Chorus]\n[G]Baby baby ba\nby Oh\n[Em]baby baby ba\nby\n\n[Verse 3]\n[G]Pleasant crescent moon\nFills my heart\n[C]with pain [C/B]\n[Am]Fills my toes\n[Em]with rain\n[G]Yea Yea Yea Yea Yea\n[C]  [G]\n[C][G]Oh\n\n[Verse 4]\n[G]Bobby you're\nhobby With the lear\n[C]ned ones [C/B]\n[Am]Like a set\n[Em]ting sun\n[G]Yea Yea Yea Yea Yea\n[C]  [G]\n[C][G]Oh The\n\n[Pre-Chorus]\n[Am]people in your life are\n[D]cruel\n[G]Keep on ri ding that\nhard road The\n[Am]lovers in you life are\n[D]few\n[G]Keep on ri ding that\nhard road\n\n[Chorus]\n[G]Baby baby ba\nby barararara\nBaby baby ba\nby barararara\n[Em]Baby baby ba\nby barararara\n[G]Baby baby ba\nby barararara\n\n[Outro]\n[G]Baby baby ba\nby barararara\n[Em]Baby baby ba\nby barararara\n[G]Baby baby ba\nby barararara\nBaby baby ba\nby barararara\n[Em]Baby baby ba\nby barararara\n[G]Baby baby ba\nby barararara\nBaby baby ba\nby barararara\n[Em]Baby baby ba\nby barararara\n[G]Baby baby ba\nby barararara\nBaby baby ba\nby barararara\n[Em]Baby baby ba\nby barararara",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/B": {
+      "catalog": [
+        "x22010"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mystic Lady",
+  "id": "e95cd0f513c16f598f0ccd62c68a6e4124db7648811b8d7c4016e71ccc6af8c1",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 351,
+  "normalizedKey": "t rex|mystic lady",
+  "playableChords": [
+    "G",
+    "C",
+    "C/B",
+    "Am",
+    "Em",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 20,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 48,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e95cd0f513c16f598f0ccd62c68a6e4124db7648811b8d7c4016e71ccc6af8c1",
+    "version": "BCFZ"
+  },
+  "tempo": 106,
+  "title": "Mystic Lady",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

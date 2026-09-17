@@ -1,0 +1,77 @@
+{
+  "artist": "Teenage Bottlerocket",
+  "artistNormalized": "teenage bottlerocket",
+  "capo": "No capo",
+  "chordPositionCount": 3,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[E5]\n\n[Verse 1]\n[A5]I just\n[D5]wanted you to go-\n[A5]go\n[D5]\n[A5]I just\n[D5]wanted you to go-\n[A5]go\n[D5]\n[A5]I just\n[D5]wanted you to go-\n[A5]go\n[D5]\n[A5]I just\n[D5]wanted you to go-\n[A5]go\n[D5]\n\n[Chorus]\n[E5]Now I'm feeling\nso sick and tired I\n[D5]can not sleep\n[E5]Everybody's\ngot their fingers\n[D5]pointing at me\nI just wanted you to\n[A5]gogo\n[D5]I just wanted you to\n[A5]gogo\n[E5]I just wanted you to\n[A5]gogo\n[D5]I just wanted you to\n[A5]gogo\n[E5]\n\n[Verse 2]\n[A5]I just\n[D5]wanted you to go-\n[A5]go\n[D5]\n[A5]I just\n[D5]wanted you to go-\n[A5]go\n[D5]\n[A5]I just\n[D5]wanted you to go-\n[A5]go\n[D5]\n[A5]I just\n[D5]wanted you to go-\n[A5]go\n[D5]\n\n[Chorus]\n[E5]Now I'm feeling\nso sick and tired I\n[D5]can not sleep\n[E5]Everybody's\ngot their fingers\n[D5]pointing at me\nI just wanted you to\n[A5]gogo\n[D5]I just wanted you to\n[A5]gogo\n[E5]I just wanted you to\n[A5]gogo\n[D5]I just wanted you to\n[A5]gogo\n[E5]\n\n[Outro]\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Go-Go",
+  "id": "a7f20abf5ae95d287f0134f3935f72e01bc38cca93c2015c994a976193fd6321",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 172,
+  "normalizedKey": "teenage bottlerocket|go go",
+  "playableChords": [
+    "E5",
+    "A5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a7f20abf5ae95d287f0134f3935f72e01bc38cca93c2015c994a976193fd6321",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Go-Go",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

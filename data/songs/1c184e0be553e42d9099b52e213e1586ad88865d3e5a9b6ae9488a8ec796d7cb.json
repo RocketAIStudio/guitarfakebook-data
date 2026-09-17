@@ -1,0 +1,113 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]\n[C]\n[G]\n[C]\n[G]\n[C]\n[G]\n\n[Verse 1]\n[G]Love, love me do\n[C]You\n[G]know I love you\n[C]I'll\n[G]always be true\n[C]So\nplease,\nlove me\n\n[Chorus]\n[G]do\n[C]Whoa, love\n[G]me do\n[C]\n\n[Verse 2]\n[G]Love, love me do\n[C]You\n[G]know I love you\n[C]I'll\n[G]always be true\n[C]So\nplease,\nlove me\n\n[Chorus]\n[G]do\n[C]Whoa, love\n[G]me do\n\n[Bridge]\n[D]Someone to\nlove\n[C]Somebody\n[G]new\n[D]Someone to\nlove\n[C]Someone like\n[G]you\n\n[Verse 3]\n[G]Love, love me do\n[C]You\n[G]know I love you\n[C]I'll\n[G]always be true\n[C]So\nplease,\nlove me\n\n[Chorus]\n[G]do\n[C]Whoa, love\n[G]me do\n\n[Interlude]\n[D]\n[C]\n[G]\n[D]\n[C]\n[G]\n[D]\n\n[Verse 4]\n[G]Love, love me do\n[C]You\n[G]know I love you\n[C]I'll\n[G]always be true\n[C]So\nplease,\nlove me\n\n[Chorus]\n[G]do\n[C]Whoa, love\n[G]me do\n[C]Yeah, love\n\n[Outro]\n[G]me do\n[C]Whoa,\n[G]love me do\n[C]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32013",
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Love Me Do",
+  "id": "1c184e0be553e42d9099b52e213e1586ad88865d3e5a9b6ae9488a8ec796d7cb",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 121,
+  "normalizedKey": "the beatles|love me do",
+  "playableChords": [
+    "G",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Bridge"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Interlude"
+    },
+    {
+      "measure": 68,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1c184e0be553e42d9099b52e213e1586ad88865d3e5a9b6ae9488a8ec796d7cb",
+    "version": "BCFZ"
+  },
+  "tempo": 148,
+  "title": "Love Me Do",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

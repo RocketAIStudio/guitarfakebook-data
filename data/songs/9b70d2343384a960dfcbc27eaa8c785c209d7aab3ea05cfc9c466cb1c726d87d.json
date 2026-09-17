@@ -1,0 +1,120 @@
+{
+  "artist": "Tears For Fears",
+  "artistNormalized": "tears for fears",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n\n[Verse 1]\n[F#m]All around me are fa-\n[A]miliar faces\n[E]Worn out places,\n[B]worn out faces\n[F#m]Bright and early for the\n[A]daily races\n[E]Going nowhere,\n[B]going nowhere\n[F#m]Their tears are filling\n[A]up their glasses\n[E]No expression,\n[B]no expression\n[F#m]Hide my head I want to\n[A]drown my sorrow\n[E]No tomorrow,\n[B]no tomorrow\n\n[Pre-Chorus]\n[F#m]And I find it kind of\n[B]funny, I find it kind of\n[F#m]sad The dreams in which I'm\n[B]dying are the best I've ever\n[F#m]had I find it hard to\n[B]tell you, `cause I find it hard to\n[F#m]take When people run in\n[B]circles, it's a very very\n\n[Chorus]\n[F#m]Mad world\n[B]\n[F#m]Mad world\n[B]\n[F#m]Mad world\n[B]\n[F#m]Mad world\n[B]\n\n[Verse 2]\n[F#m]Children waiting for the\n[A]day they feel good\n[E]Happy birthday,\n[B]happy birthday\n[F#m]Made to feel the way that\n[A]every child should\n[E]Sit and listen,\n[B]sit and listen\n[F#m]Went to school and I was\n[A]very nervous\n[E]No one knew me,\n[B]no one knew me\n[F#m]Hello teacher tell me\n[A]what's my lesson\n[E]Look right through me,\n[B]look right through me\n\n[Pre-Chorus]\n[F#m]And I find it kind of\n[B]funny, I find it kind of\n[F#m]sad The dreams in which I'm\n[B]dying are the best I've ever\n[F#m]had I find it hard to\n[B]tell you, `cause I find it hard to\n[F#m]take When people run in\n[B]circles, it's a very very\n\n[Chorus]\n[F#m]Mad world\n[B]\n[F#m]Mad world\n[B]\n[F#m]Mad world\n[B]\n[F#m]Mad world\n[B]\n\n[Interlude]\n[F#m]\n[A]\n[E]\n[B]\n[F#m]\n[A]\n[E]\n[B]\n\n[Pre-Chorus]\n[F#m]And I find it kind of\n[B]funny, I find it kind of\n[F#m]sad The dreams in which I'm\n[B]dying are the best I've ever\n[F#m]had I find it hard to\n[B]tell you, `cause I find it hard to\n[F#m]take When people run in\n[B]circles, it's a very very\n\n[Chorus]\n[F#m]Mad world\n[B]\n[F#m]Mad world\n[B]\n[F#m]Enlarging your\n[B]world\n[F#m]Mad world\n[B]\n\n[Outro]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mad World *alt",
+  "id": "9b70d2343384a960dfcbc27eaa8c785c209d7aab3ea05cfc9c466cb1c726d87d",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 335,
+  "normalizedKey": "tears for fears|mad world",
+  "playableChords": [
+    "F#m",
+    "A",
+    "E",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 72,
+      "name": "Interlude"
+    },
+    {
+      "measure": 80,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 88,
+      "name": "Chorus"
+    },
+    {
+      "measure": 96,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9b70d2343384a960dfcbc27eaa8c785c209d7aab3ea05cfc9c466cb1c726d87d",
+    "version": "BCFZ"
+  },
+  "tempo": 119,
+  "title": "Mad World",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

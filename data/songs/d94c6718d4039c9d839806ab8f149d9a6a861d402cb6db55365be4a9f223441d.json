@@ -1,0 +1,93 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Verse 1]\n[G]You tell lies thinking\nI can't see\nYou can't cry 'cause you're\nlaughing at me I'm down\n[C]\nI'm down\n[G]\nI'm down\n[C]\n[D]How can you [G]laugh when you\nknow I'm down\n[D][G]When you\nknow I'm down\n\n[Verse 2]\n[G]Man buys ring woman\nthrows it away\nSame old thing happens\neveryday I'm down\n[C]\nI'm down\n[G]\nI'm down\n[C]\n[D]How can you [G]laugh when you\nknow I'm down\n[D][G]When you\nknow I'm down\n\n[Guitar Solo]\n[G]\n[C]\n[G]\n[D]\n[G]\n\n[Verse 3]\n[G]We're all alone and there's\nnobody else\nYou still moan, \"Keep your\nhands to yourself!\" I'm down\n[C]\nOh babe I'm down\n[G]\nI'm down\n[C]\n[D]How can you [G]laugh when you\nknow I'm down\n[D][G]When you\nknow I'm down woo\n\n[Organ Solo]\n[G]\n[C]\n[G]\n[D]\n[C]\n[G]\nOh baby know I'm down\n\n[Verse 4]\n[G]\nI guess I'm down\nI'm down on the\n[C]ground\nI'm down\n[G]\nOh baby I'm upside\n[D]down\n[C]Oh yeah yeah\n[G]yeah yeah\nyeah I'm\n\n[Outro (Fade Out)]\n[G]down\nOh baby I'm down\nI'm feeling upside\n[C]down\nI'm down\n[G]\nOh baby I'm down\n[D]\n[C]Oh baby I'm down\n[G]\nOh baby I'm\n[G]down\nOh baby I'm down\nOh baby I'm down\n[C]\nOh baby I'm down\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Im down",
+  "id": "d94c6718d4039c9d839806ab8f149d9a6a861d402cb6db55365be4a9f223441d",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 184,
+  "normalizedKey": "the beatles|im down",
+  "playableChords": [
+    "G",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 55,
+      "name": "Organ Solo"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 79,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d94c6718d4039c9d839806ab8f149d9a6a861d402cb6db55365be4a9f223441d",
+    "version": "BCFZ"
+  },
+  "tempo": 163,
+  "title": "Im down",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

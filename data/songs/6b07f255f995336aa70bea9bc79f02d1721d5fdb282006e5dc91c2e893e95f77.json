@@ -1,0 +1,85 @@
+{
+  "artist": "Teenage Bottlerocket",
+  "artistNormalized": "teenage bottlerocket",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[G#5]Rathead, never\n[F#5]combs his hair\n[G#5]Rathead, doesn’t\n[F#5]even care\n[G#5]Rathead, he’s from\n[F#5]outer space\n[G#5]Rathead, he’s a\n[F#5]closet case\n\n[Interlude]\n[E5]\n\n[Verse 2]\n[G#5]Rathead, never\n[F#5]got a date\n[G#5]Rathead, from a-\n[F#5]nother state\n[G#5]Rathead, don’t\n[F#5]be alarmed\n[G#5]Rathead, he’s\n[F#5]in your car\n\n[Interlude]\n[E5]\n\n[Verse 3]\n[B5]Rathead can’t go\n[F#5]out at night\n[E5]Rathead wears his\n[F#5]pants so tight\n[B5]Rathead seems so\n[F#5]far away Even\n[E5]though you saw him\n[F#5]yesterday He can’t\n[B5]seem to find a\n[F#5]place to work ‘Cause he’s\n[E5]labeled as a\n[F#5]social jerk\n[B5]Rathead likes to\n[F#5]sleep all day\n[E5]Rathead knows no\n[F#5]other way He’s a\n\n[Chorus]\n[B5]rathead\n[F#5]\n[E5]He’s a\n[B5]rathead\n[F#5]\n[E5]He’s a\n[B5]rathead\n[F#5]\n[E5]He’s a\n[B5]rathead",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx",
+        "x-9-11-11-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "G#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rathead",
+  "id": "6b07f255f995336aa70bea9bc79f02d1721d5fdb282006e5dc91c2e893e95f77",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 134,
+  "normalizedKey": "teenage bottlerocket|rathead",
+  "playableChords": [
+    "G#5",
+    "F#5",
+    "E5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Interlude"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Interlude"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6b07f255f995336aa70bea9bc79f02d1721d5fdb282006e5dc91c2e893e95f77",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Rathead",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,88 @@
+{
+  "artist": "Terrorizer",
+  "artistNormalized": "terrorizer",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A5]\n\n[Bridge]\n[A5]\n\n[Verse 1]\n[A5]Do you see the pain Do you see the power\nDo you see the hate Do you see the shit\n[F#5]\nYou\n\n[Verse 2]\n[F#5]say you're for the system What harm can it really do\nTo back up some deceiver The promises they made to you\n[F5]\n[D#5]\n\n[Verse 3]\n[F5]\n[D#5]\n[F5]\n[D#5]\n[F5]\n[D#5]\n[A5]\n\n[Verse 4]\n[A5]Do you see the pain Do you see the power\nDo you see the hate Do you see the shit\n[F#5]\nYou\n\n[Verse 5]\n[F#5]say you're for the system What harm can it really do\nTo back up some deceiver The promises they made to you",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Condemned System",
+  "id": "16845d17e523fee560de95ca6c85c4a7fac88020f9a08bf58fea6d7059576bff",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 72,
+  "normalizedKey": "terrorizer|condemned system",
+  "playableChords": [
+    "A5",
+    "F#5",
+    "F5",
+    "D#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Bridge"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 5"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "16845d17e523fee560de95ca6c85c4a7fac88020f9a08bf58fea6d7059576bff",
+    "version": "BCFZ"
+  },
+  "tempo": 220,
+  "title": "Condemned System",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

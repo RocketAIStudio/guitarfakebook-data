@@ -1,0 +1,133 @@
+{
+  "artist": "T. Rex",
+  "artistNormalized": "t rex",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Verse 1]\n[D]Every dawn [D/C#]of our lives\n[E7/B]a heart is [A]forged\n[D]and Lin ked with [Bm]lore to the one so\n[A]similar\n[D]Born with [D/C#]blessed life dust\n[E7/B]Stored beneath its [A]soul\n[D]To bless and pass [Bm]on to its child\n[A]ren.\n\n[Chorus]\n[G]Even though the win [E7/B]d may blow it all\n[F#m]away\n[G]Don't ever wor [E7/B]ry 'cos\n[A]I'm your fri end.\n\n[Verse 2]\n[D]Every dawn [D/C#]of our lives\n[E7/B]a heart is [A]forged\n[D]and Lin ked with [Bm]lore to the one so\n[A]similar\n[D]Born with [D/C#]blessed life dust\n[E7/B]Stored beneath its [A]soul\n[D]To bless and pass [Bm]on to its child\n[A]ren.\n\n[Chorus]\n[G]Even though the win [E7/B]d may blow it all\n[F#m]away\n[G]Don't ever wor [E7/B]ry 'cos\n[A]I'm your fri end.\n\n[Solo]\n[D]  [D/C#]\n[E7/B]  [A]\n[D]  [Bm]\n[A]\n[D]  [D/C#]\n[E7/B]  [A]\n[D]  [Bm]\n[A]\n\n[Chorus]\n[G]Even though the win [E7/B]d may blow it all\n[F#m]away\n[G]Don't ever wor [E7/B]ry 'cos\n[A]I'm your fri end.\n\n[Chorus]\n[G]Even though the win [E7/B]d may blow it all\n[F#m]away\n[G]Don't ever wor [E7/B]ry 'cos\n[A]I'm your fri end.\n\n[Outro]\n[D]  [D/C#]\n[E7/B]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/C#": {
+      "catalog": [
+        "x40232"
+      ],
+      "catalogCount": 1
+    },
+    "E7/B": {
+      "catalog": [
+        "x22434"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "A Day Laye",
+  "id": "04324b17e0924bd55227c387c9a6f25136c4737c9da311a31aa929e440afb59b",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 194,
+  "normalizedKey": "t rex|a day laye",
+  "playableChords": [
+    "D",
+    "D/C#",
+    "E7/B",
+    "A",
+    "Bm",
+    "G",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Solo"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "04324b17e0924bd55227c387c9a6f25136c4737c9da311a31aa929e440afb59b",
+    "version": "BCFZ"
+  },
+  "tempo": 86,
+  "title": "A Day Laye",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

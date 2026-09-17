@@ -1,0 +1,172 @@
+{
+  "artist": "Steven Wilson",
+  "artistNormalized": "steven wilson",
+  "capo": "3",
+  "chordPositionCount": 44,
+  "chordSymbolCount": 12,
+  "content": "[Intro]\n[Em7]\n[Em6]\n[Cadd9]\n[G]  [G/F#]\n[Em7]\n[Em6]\n[Cadd9]\n[G]  [G/F#]\n\n[Verse 1]\n[Em7]All that I know\n[Em6]is You'll be gone\n[Cadd9]before I get\n[G]home [G/F#]\n[Em7]Heartbreaker but\n[Em6]terfly On a wheel\n[Cadd9]before I let\n[G]go [G/F#]\n\n[Chorus]\n[Em]Nothing left for\n[Asus4]us\n[A7]Nothing is left\n[Cadd9]the blank\n[G]tapes\n[Em]Nothing left for\n[Asus4]us\n[A7]Nothing is left\n[Cadd9]the blank\n[A7]tapes In your\n[F]car [Em]\n[A]\n\n[Verse 2]\n[Em7]Once I could hold\n[Em6]you And the world\n[Cadd9]reflected\n[G]back at me [G/F#]\n[Em7]We lost perspec\n[Em6]tive On the things\n[Cadd9]that are in\n[G]love that seems [G/F#]\n\n[Chorus]\n[Em]Nothing left for\n[Asus4]us\n[A7]Nothing is left\n[Cadd9]the blank\n[G]tapes\n[Em]Nothing left for\n[Asus4]us\n[A7]Nothing is left\n[Cadd9]the blank\n[A7]tapes In your\n[F]car [Em]\n[A]\n\n[Outro]\n[A]\n[Em]\n[Em]\n[C]\n[Bm]\n[Em]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "x02023",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em6": {
+      "catalog": [
+        "022020"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/F#": {
+      "catalog": [
+        "220032"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Blank Tapes",
+  "id": "7162ec2ec3a510bbf3a009fff0c59062db7fba051fe515ff9536f16d52627214",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 111,
+  "normalizedKey": "steven wilson|blank tapes",
+  "playableChords": [
+    "Em7",
+    "Em6",
+    "Cadd9",
+    "G",
+    "G/F#",
+    "Em",
+    "Asus4",
+    "A7",
+    "F",
+    "A",
+    "C",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7162ec2ec3a510bbf3a009fff0c59062db7fba051fe515ff9536f16d52627214",
+    "version": "BCFZ"
+  },
+  "tempo": 116,
+  "title": "Blank Tapes",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

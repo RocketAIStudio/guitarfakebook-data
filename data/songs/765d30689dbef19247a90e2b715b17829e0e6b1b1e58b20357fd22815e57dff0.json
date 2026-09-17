@@ -1,0 +1,158 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "7",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\n\n[Verse 1]\n[A]If I need ed some\none to love\nYou're the one that I'd\nbe thin king of\n\n[Chorus]\n[G]\nIf I need ed some\n[A]one\n\n[Verse 2]\n[A]If I had some more\ntime to spend\nThen I guess I'd be\nwith you my friend\n\n[Chorus]\n[G]\nIf I need ed some\n[A]one\n\n[Bridge]\n[Em]Had you come some o\n[F#]ther day Then\nit might not have been\n[Bm]like this\n[Em]But you see now I'm\n[F#]too much in love\n[Bm]\n[E]\n\n[Verse 3]\n[A]Carve your num ber on\nmy wall And\nmaybe you will get\na call from me\n\n[Chorus]\n[G]\nIf I need ed some\n[A]one\n\n[Break]\n[A]\n[G]\n[A]\n\n[Verse 4]\n[A]If I had some more\ntime to spend\nThen I guess I'd be\nwith you my friend\n\n[Chorus]\n[G]\nIf I need ed some\n[A]one\n\n[Bridge]\n[Em]Had you come some o\n[F#]ther day Then\nit might not have been\n[Bm]like this\n[Em]But you see now I'm\n[F#]too much in love\n[Bm]\n[E]\n\n[Verse 5]\n[A]Carve your num ber on\nmy wall And\nmaybe you will get\na call from me\n\n[Chorus]\n[G]\nIf I need ed some\n[A]one\n\n[Outro]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "If I Needed Someone *alt",
+  "id": "765d30689dbef19247a90e2b715b17829e0e6b1b1e58b20357fd22815e57dff0",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 180,
+  "normalizedKey": "the beatles|if i needed someone",
+  "playableChords": [
+    "A",
+    "G",
+    "Em",
+    "F#",
+    "Bm",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Break"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "765d30689dbef19247a90e2b715b17829e0e6b1b1e58b20357fd22815e57dff0",
+    "version": "BCFZ"
+  },
+  "tempo": 127,
+  "title": "If I Needed Someone",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,130 @@
+{
+  "artist": "The 1975",
+  "artistNormalized": "the 1975",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Ab]\n[Db]\n[Bbm]  [Fm]\n[Eb]\n[Db]\n\n[Pre-Verse]\n[Ab]  [Eb]\n[Fm]\n[Cm]\n[Db]\n[Ab]  [Eb]\n[Fm]\n[Cm]\n[Db]This\n\n[Verse 1]\n[Ab]feeling, [Eb]\nit's [Fm]something when you call\n[Cm]me\n[Db]I'm\n[Ab]dealing [Eb]\nin [Fm]death and being lone-\n[Cm]ly\n[Db]\n[Ab]Try it, [Eb]\n[Fm]don't like it\n[Cm]\n[Db]And\n[Ab]leaving you [Eb]here is the\nthing that I [Fm]fear, so I\n[Cm]fight it\n[Db]Do you wanna leave\n\n[Chorus]\n[Ab]at [Eb]the same time?\n[Fm]Do you wanna leave\n[Cm]at the same time?\n[Db]Do you wanna leave\n[Ab]at [Eb]the same time?\n[Fm]Do you wanna leave\n[Cm]at the same time?\n[Db]I'm\n\n[Verse 2]\n[Ab]reeling, [Eb]\nI [Fm]know that I'm appall-\n[Cm]ing\n[Db]But this\n[Ab]feeling, [Eb]\nit [Fm]could be our\n[Cm]calling\n[Db]Not\n[Ab]dying, [Eb]no,\n[Fm]just lying\n[Cm]\n[Db]\n[Ab]Seeing you [Eb]here is the\nmoment it's [Fm]clear 'cause I'm\n[Cm]crying\n[Db]Do you wanna leave\n\n[Chorus]\n[Ab]at [Eb]the same time?\n[Fm]Do you wanna leave\n[Cm]at the same time?\n[Db]Do you wanna leave\n[Ab]at [Eb]the same time?\n[Fm]Do you wanna leave\n[Cm]at the same time?\n[Db]\n\n[Outro 1]\n[Ab]  [Eb]\n[Fm]\n[Cm]\n[Db]\n[Ab]  [Eb]\n[Fm]\n[Cm]\n[Db]\n\n[Outro 2]\n[Ab]\n[Db]\n[Bbm]  [Fm]\n[Eb]\n[Db]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "466544",
+        "4-3-1-1-1-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm": {
+      "catalog": [
+        "x13321",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13",
+        "18-20-20-18-18-18"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "xx1343",
+        "x68886",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bagsy Not In Net",
+  "id": "344b41f944b72fee53cd8887e1695953f21ccb55d779e95bcd25e45519e59cfa",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 153,
+  "normalizedKey": "the 1975|bagsy not in net",
+  "playableChords": [
+    "Ab",
+    "Db",
+    "Bbm",
+    "Fm",
+    "Eb",
+    "Cm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Outro 1"
+    },
+    {
+      "measure": 72,
+      "name": "Outro 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "344b41f944b72fee53cd8887e1695953f21ccb55d779e95bcd25e45519e59cfa",
+    "version": "BCFZ"
+  },
+  "tempo": 133,
+  "title": "Bagsy Not In Net",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,143 @@
+{
+  "artist": "Tame Impala",
+  "artistNormalized": "tame impala",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 9,
+  "content": "[Verse 1]\n[Dm]\n[F]\n[Dm]Bet he feels like an\nelephant Shaking his\nbig grey trunk for the\nhell of it [F]You\nknow [G5]that you're dreaming\nabout being loved by\n[Dm]him\n[A5]Too [Bb5]bad [A5]your [A5][Ab5]chances [Ab5]are\n[G5]slim [F]\n\n[Verse 2]\n[Dm]\n[F]\nAnd [Dm]it’s not like\nMr. Shock To get\nshy when I ask who always is\non top? [F]There\nmust [G5]be something deep\ndown in the middle down there\n[Dm]\n[A5]He’s [Bb5]not [A5]too [Ab5][A5][Ab5]easily\n[G5]scared [F]\n\n[Verse 3]\n[Dm]\n[F]\nHe’s [Dm]got friends but they\nget fear Wouldn't\ncare too much if he just\ndisappeared [F]Oh,\nlook, see there he is\nnow coming down the stairs\n[Dm]\n[C]  [Bb5]\n[G5]  [Em]\n\n[Interlude]\n[D5]\n(Here he comes)\n[Dm]\n[F]\n[G5]\n[Em]\n[F]  [G5]  [Em]  [G5]\n[Dm]\n[C]  [Bb5]\n[G5]  [Em]\n[Dm]\n[F]\n[G5]\n[Em]\n[F]  [G5]  [Em]  [G5]\n[Dm]\n[C]  [Bb5]\n[G5]  [Em]\n\n[Solo]\n[Dm]\n[F]\n[G5]\n[Dm]\n[C]  [Bb5]\n[G5]  [Em]\n\n[Verse 4]\n[Dm]\n[F]\nHe [Dm]pulled the mirrors off his\nCadillac (yeah) ‘Cause he\ndoesn’t like it looking like he\nlooks back [F]He\ntalks [G5]like his opini-\non is a simple fact\n\n[Verse 5]\n[Dm]\n[F][Dm]Somebody\ngrabbed his collar\nHe cried the\nwhole way home [F]He\nwon’t [G5]remember a\nthing 'til it starts a-\n[Dm]gain\n[A5]That’s [Bb5]how [A5]it [Ab5]is [A5]'til [Ab5]the\n[G5]end\n\n[Outro]\n(yeah) [F]\n[Dm]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Ab5": {
+      "catalog": [
+        "666xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bb5": {
+      "catalog": [
+        "888xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "4577xx"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "222000",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "xx3211",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Elephant",
+  "id": "efd684a0293b66d98fb52c5bfe342e12a7427945ee8cce1ede1e14f0d6f528b7",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 181,
+  "normalizedKey": "tame impala|elephant",
+  "playableChords": [
+    "Dm",
+    "F",
+    "G5",
+    "A5",
+    "Bb5",
+    "Ab5",
+    "C",
+    "Em",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    },
+    {
+      "measure": 69,
+      "name": "Solo"
+    },
+    {
+      "measure": 85,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 93,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 105,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "efd684a0293b66d98fb52c5bfe342e12a7427945ee8cce1ede1e14f0d6f528b7",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Elephant",
+  "tuning": "B E A D G B E",
+  "variantRole": "primary"
+}

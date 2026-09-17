@@ -1,0 +1,93 @@
+{
+  "artist": "System of a down",
+  "artistNormalized": "system of a down",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Chorus]\n[C]The kombucha mush-\nroom people,\nSitting around all day,\nWho can believe you,\nWho can believe you,\nLet your mother pray,\n[Cm]\n\n[Verse 1]\nWell I'm not there all the time you know\nSome people, some people, some people, Call it in-\nsane, yeah they call it in-\nsane,\nI play Russian roulette everyday, a\nman's sport, With a bullet called\nlife, yeah mama called\nlife, You know\nthat every time I try to go Where I\nreally want to be, It's already where\nI am, Cause I'm already\nthere.\n\n[Chorus]\n[C]The kombucha mush-\nroom people,\nSitting around all day,\nWho can believe you,\nWho can believe you,\nLet your mother pray,\n[Cm]\n\n[Verse 2]\nI got a gun the other day from\nSako, It's cute, small, fits right in my\npocket, Yeah, right in my\npocket,\nMy girl, you know, she lashes out at me sometimes,\nAnd I just fucking kick her, and then,\nbaby, she's\nO.K.\nPeople are always chasing me down, Trying to push my face to the\nground, Where all they really want to do, Is suck out my mother fucking\nbrains, my\nbrains.\n\n[Chorus]\n[C]The kombucha mush-\nroom people,\nSitting around all day,\nWho can believe you,\nWho can believe you,\nLet your mother pray,\n\n[Bridge]\n[Db]I sit, [Db][C]in my desolate room,\n[Db]no lights, [Db][C]no music,\n[Db]Just anger, [Db][C]I've killed everyone,\n[Db]I'm away forever, [Db][C]but I'm feeling better,\n\n[Outro]\n[Db]How do I feel, [Db][C]What do I say,\n[Db]Fuck you, it all [Db]goes [C]away,\n[Db]How do I feel, [Db][C]What do I say,\n[Db]Fuck you, it all [Db]goes [C]away,\n[Db]How do I feel, [Db][C]What do I say,\n[Db]In the end it all [Db]goes [C]away,\n[Db]How do I feel, [Db][C]What do I say,\n[Db]In the end it all [Db]goes [C]away,\n[Db]How do I feel, [Db]What do [C]I say,\n[Db]In the end it all [Db]goes [C]away,\n[Db]How do I feel, [Db]What do [C]I say,\n[Db]In the end it all [Db]goes [C]away,\n[C]How do I feel, What do I say,\nIn the end it all goes away,\nHow do I feel, What do I say,\nIn the end it all goes away,\nIn the end it all goes away,\nIn the end it all goes away,\nIn the end it all goes away,\nIn the end it all goes away.",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "004xxx",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "003xxx",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "1110xx",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sugar *alt 2",
+  "id": "aaeb4532e02e11b32cd375619c009cdb4c4d1cf4bbd9211abb04dbfeb0aa8f13",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 443,
+  "normalizedKey": "system of a down|sugar",
+  "playableChords": [
+    "C",
+    "Cm",
+    "Db"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Chorus"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Bridge"
+    },
+    {
+      "measure": 64,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "aaeb4532e02e11b32cd375619c009cdb4c4d1cf4bbd9211abb04dbfeb0aa8f13",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Sugar",
+  "tuning": "C G C F A D",
+  "variantRole": "alt"
+}

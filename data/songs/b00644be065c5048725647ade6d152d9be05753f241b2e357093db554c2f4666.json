@@ -1,0 +1,73 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[G]Oh\n\n[Verse 1]\n[C/G]dirty Maggie Mae\nthey have\n[G]taken her away\nAnd she\nnever walk down\nLime Street any mo-\n[D]re\nOh the\n\n[Chorus]\n[G]judge he guilty found\nher for\n[C/G]robbing a homeward boun\nder That\n[D]dirty no good\nrobbing Maggie Mae\n[G]\nThis is a\n\n[Bridge]\n[C/G]part of Liverpool,\nthey\n[G]returned me to\nTwo pounds ten a week,\n[C/G]that was my pa-\n[D]y\n[G]",
+  "diagrams": {
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Maggie Mae",
+  "id": "b00644be065c5048725647ade6d152d9be05753f241b2e357093db554c2f4666",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 74,
+  "normalizedKey": "the beatles|maggie mae",
+  "playableChords": [
+    "G",
+    "C/G",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Bridge"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b00644be065c5048725647ade6d152d9be05753f241b2e357093db554c2f4666",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Maggie Mae",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

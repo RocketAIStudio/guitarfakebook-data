@@ -1,0 +1,132 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Am7]\n\n[Verse 1]\n[Am7]Once there was a way,\nTo get back home-\n[Dm]ward.\n[G7]Once there was a way\nTo get back home.\n[E7][C]Sleep, pretty dar-\n[Am]ling, Dot not cry\n[Dm7]\n[G7]And I will sing a lullaby.\n[C]\n\n[Chorus]\n[C]Gol den slum-\n[Fadd9]bers, Fill your eyes\n[C]\nSmiles await\n[Fadd9]you when you rise\n[E7][C]Sleep pretty dar-\n[Am]ling Do not cry\n[Dm7]\n[G7]And I will sing a lullaby.\n[C]\n\n[Verse 2]\n[Am7]Once there was a way\nTo get back home-\n[Dm]ward\n[G7]Once there was a way\nTo get back home\n[E7][C]Sleep, pretty dar-\n[Am]ling Do not cry\n[Dm7]\n[G7]And I will sing a lullaby.\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02213",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Dm7": {
+      "catalog": [
+        "xx0211",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Fadd9": {
+      "catalog": [
+        "1x3213"
+      ],
+      "catalogCount": 1
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Golden Slumbers",
+  "id": "b3e3d3c671099925a735ecd4e8cdbd27bf72838b83b6edb627949c29e49ec040",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 107,
+  "normalizedKey": "the beatles|golden slumbers",
+  "playableChords": [
+    "Am7",
+    "Dm",
+    "G7",
+    "C",
+    "E7",
+    "Am",
+    "Dm7",
+    "Fadd9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b3e3d3c671099925a735ecd4e8cdbd27bf72838b83b6edb627949c29e49ec040",
+    "version": "BCFZ"
+  },
+  "tempo": 81,
+  "title": "Golden Slumbers",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,96 @@
+{
+  "artist": "T. Rex",
+  "artistNormalized": "t rex",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n\n[Verse 1]\n[C]There's gold\nin the moun tains And a peo\nple living in the sea\nOh yeah\nThere's gold\n[F]in the moun tains And a peo\nple living in the sea\n[C]Oh yeah\nYou know that I\n[G]love you and don't\n[F]you know That you love me\n[C]Yes you do\n\n[Verse 2]\n[C]We make feas\nties of the beas ties But the beas-\nties just live in the wild\nOh yeah\nWe make feas\n[Am]ties of the beas ties But the beas-\nties just live in the wild\n[C]Oh yeah\nYou know that you're\n[G]slower now And you were fas\n[F]ter when you were A child\n[C]Yes you were.\n\n[Verse 3]\n[C]There's gold\nin the moun tains And a peo\nple living in the sea\nOh yeah\nThere's gold\n[F]in the moun tains And a peo\nple living in the sea\n[C]Oh yeah\nYou know that I\n[G]love you and don't\n[F]you know That you love me\n[C]Yes you do You know you do\nYou always do oohoo\n\n[Outro]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Organ Blues",
+  "id": "fb17ede5c7a8895c0f61a58850b5d3f604a65c2698460161eed2527539409967",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 187,
+  "normalizedKey": "t rex|organ blues",
+  "playableChords": [
+    "C",
+    "F",
+    "G",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 47,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fb17ede5c7a8895c0f61a58850b5d3f604a65c2698460161eed2527539409967",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Organ Blues",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

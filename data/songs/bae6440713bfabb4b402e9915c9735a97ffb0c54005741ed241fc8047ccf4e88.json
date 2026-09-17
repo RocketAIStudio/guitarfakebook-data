@@ -1,0 +1,93 @@
+{
+  "artist": "Surf Curse",
+  "artistNormalized": "surf curse",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[A]\n[F#m]\n[A]\n[F#m]\n\n[Verse 1]\n[A]Don't\nkill\nme, just\nhelp me run a-\n[F#m]way From\nevery-\none, I\nneed a place to\n[A]stay Where\nI\ncan\ncover up my\n[F#m]face\nDon't\ncry,\nI am just a\n\n[Chorus]\n[D]freak\nI am just a\n[A]freak\nI am just a\n[D]freak\nI am just a\n\n[Bridge]\n[A]freak\n[F#m]\n[A]\n[F#m]\n\n[Verse 2]\n[A]My\nhead\nis\nfilled with para-\n[F#m]sites\nBlack\nholes\ncover up my\n[A]eyes I\ndream of\nyou\nalmost every\n[F#m]night\nHopeful-\nly I\nwon't wake up this\n\n[Chorus]\n[D]time\nI\nwon't wake up this\n[A]time\nI\nwon't wake up this\n[D]time\nI\nwon't wake up this\n\n[Outro]\n[A]time\n[F#m]\n[A]\n[F#m]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "freaks",
+  "id": "bae6440713bfabb4b402e9915c9735a97ffb0c54005741ed241fc8047ccf4e88",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 100,
+  "normalizedKey": "surf curse|freaks",
+  "playableChords": [
+    "A",
+    "F#m",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bae6440713bfabb4b402e9915c9735a97ffb0c54005741ed241fc8047ccf4e88",
+    "version": "BCFZ"
+  },
+  "tempo": 178,
+  "title": "freaks",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

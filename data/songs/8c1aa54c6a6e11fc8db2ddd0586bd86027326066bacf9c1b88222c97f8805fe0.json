@@ -1,0 +1,133 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Verse 1]\n[G]You know you made me\n[Em]cry\n[G]I see no use in wondering\n[Em]why I\n[D]cry for\n[G]you\n[D7]\n[G]And now you changed your\n[Em]mind\n[G]I see no reason to change\n[Em]mine I\n[D]cry it's\n[Am7]through,\n[D7]ooh\n\n[Chorus]\n[Am]You're giving me the\n[Bm]same old line\n[G]I'm wondering\n[Em]why\n[Am]You hurt me then\nYou're back again\n[Bm]No, no,\n[D7]no, not a second\n[Em]time\n\n[Interlude]\n[Am]\n[Bm]\n[G]\n[Em]\n[Am]\n[Bm]\n[D7]\n[Em]\n\n[Verse 2]\n[G]You know you made me\n[Em]cry\n[G]I see no use in wondering\n[Em]why I\n[D]cry for\n[G]you,\n[D7]yeah\n[G]And now you changed your\n[Em]mind\n[G]I see no reason to change\n[Em]mine I\n[D]cry it's\n[Am7]through,\n[D7]ooh\n\n[Chorus]\n[Am]You're giving me the\n[Bm]same old line\n[G]I'm wondering\n[Em]why\n[Am]You hurt me then\nYou're back again\n[Bm]No, no,\n[D7]no, not a second\n[Em]time\nNot a second\n\n[Outro]\n[G]ti me\n[Em]Not the second\n[G]ti\n[Em]me No, no, no, no,\n[G]no Not a second\n[Em]time",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Not A Second Time *alt",
+  "id": "8c1aa54c6a6e11fc8db2ddd0586bd86027326066bacf9c1b88222c97f8805fe0",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 163,
+  "normalizedKey": "the beatles|not a second time",
+  "playableChords": [
+    "G",
+    "Em",
+    "D",
+    "D7",
+    "Am7",
+    "Am",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Interlude"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8c1aa54c6a6e11fc8db2ddd0586bd86027326066bacf9c1b88222c97f8805fe0",
+    "version": "BCFZ"
+  },
+  "tempo": 126,
+  "title": "Not A Second Time",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

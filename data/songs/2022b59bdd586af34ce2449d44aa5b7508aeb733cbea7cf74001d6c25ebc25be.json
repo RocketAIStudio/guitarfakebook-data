@@ -1,0 +1,159 @@
+{
+  "artist": "Teen Suicide",
+  "artistNormalized": "teen suicide",
+  "capo": "No capo",
+  "chordPositionCount": 41,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[E]\n\n[Pre-Verse]\n[E]  [A]\n[E]  [G#m7]\n\n[Verse 1]\n[E]I don’t want to go to\n[C#m]sleep [G#m7]\n[F#m]And I don’t want to\n[A]dream [B]\n[E]On a table or\n[C#m]on the [G#m7]floor\n[F#m]In a car outside at\n[A]night in the [B]snow\n\n[Pre-Verse]\n[E]  [A]\n[E]  [G#m7]\n\n[Verse 2]\n[E]Waking up in someone\n[C#m]else’s [G#m7]bed\n[F#m]Something tells me I’m\n[A]losing my [B]head\n[E]I don’t want to\n[C#m]leave [G#m7]\n[F#m]Just dye my hair and\n[A]sleep [B]\n\n[Pre-Verse]\n[E]  [A]\n[E][G#m7]The\n\n[Verse 3]\n[A]world is ending\n[Am]in my dreams\n[E]Every week for\n[C#m]the last few [G#m7]years When\n[A]it really ends they’ll fill my\n[Am]body with flames\n[E]You and I will be a\n[C#m]household [G#m7]name\n\n[Outro]\n[Amaj7]\n[G#m7]\n[E]  [Bm]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Amaj7": {
+      "catalog": [
+        "x02120",
+        "5-4-2-2-2-4",
+        "5-7-6-6-5-5",
+        "x-x-7-9-9-9",
+        "x-12-11-9-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#m7": {
+      "catalog": [
+        "464444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "we found two dead swans and filled their bodies with flowers",
+  "id": "2022b59bdd586af34ce2449d44aa5b7508aeb733cbea7cf74001d6c25ebc25be",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 78,
+  "normalizedKey": "teen suicide|we found two dead swans and filled their bodies with flowers",
+  "playableChords": [
+    "E",
+    "A",
+    "G#m7",
+    "C#m",
+    "F#m",
+    "B",
+    "Am",
+    "Amaj7",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 23,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 33,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2022b59bdd586af34ce2449d44aa5b7508aeb733cbea7cf74001d6c25ebc25be",
+    "version": "BCFZ"
+  },
+  "tempo": 57,
+  "title": "we found two dead swans and filled their bodies with flowers",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,137 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "She\n\n[Intro]\n[Em]loves you, yeah,\nyeah, yeah She\n[A]loves you, yeah,\nyeah, yeah. She\n[C]loves you, yeah,\nyeah, yeah,\n[G]yeah.\nYou\n\n[Verse 1]\n[G]think you lost your love,\n[Em]Well, I\n[Bm]saw her yester-\n[D]day. It's\n[G]you she's thinking of,\n[Em]And she\n[Bm]told me what to\n[D]say. She says she\n[G]loves you And you\nknow that can't be\n[Em]bad.\nYes, she\n[Cm]loves you And you\nknow you should be\n[D]glad.\nShe\n\n[Verse 2]\n[G]said you hurt her so\n[Em]She\n[Bm]almost lost her\n[D]mind. But\n[G]now she said she knows\n[Em]You're\n[Bm]not the hurting\n[D]kind. She says she\n[G]loves you And you\nknow that can't be\n[Em]bad.\nYes, she\n[Cm]loves you And you\nknow you should be\n[D]glad.\nShe\n\n[Chorus]\n[Em]loves you, yeah,\nyeah, yeah She\n[A]loves you, yeah,\nyeah, yeah. With a\n[Cm]love like that You\n[D]know you should be\n[G]glad\nYou\n\n[Verse 3]\n[G]know it's up to you,\n[Em]I\n[Bm]think it's only\n[D]fair.\n[G]Pride can hurt you, too,\n[Em]A-\n[Bm]pologize to\n[D]her. Because she\n[G]loves you And you\n[G]know that can't be\n[Em]bad.\nYes, she\n[Cm]loves you And you\nknow you should be\n[D]glad.\nShe\n\n[Chorus]\n[Em]loves you, yeah,\nyeah, yeah. She\n[A]loves you, yeah,\nyeah, yeah. With a\n[Cm]love like that You\n[D]know you should Be\n[G]glad!\n[Em]With a\n[Cm]love like that You\n[D]know you should Be\n[G]glad!\n[Em]With a\n[Cm]love like that You\n[D]know you\nshould Be\n\n[Outro]\n[G]glad!\n[Em]Yeah,\nyeah, yeah.\n[C]Yeah,\nyeah, yeah,\n[G]yeah.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x3554x",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "She Loves You",
+  "id": "37701b87b98da551c7f144160054010acea3bf4248683a0dd44f69846ae648ce",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 236,
+  "normalizedKey": "the beatles|she loves you",
+  "playableChords": [
+    "Em",
+    "A",
+    "C",
+    "G",
+    "Bm",
+    "D",
+    "Cm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "37701b87b98da551c7f144160054010acea3bf4248683a0dd44f69846ae648ce",
+    "version": "BCFZ"
+  },
+  "tempo": 155,
+  "title": "She Loves You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

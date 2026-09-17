@@ -1,0 +1,118 @@
+{
+  "artist": "The Avett Brothers",
+  "artistNormalized": "the avett brothers",
+  "capo": "3",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\n[Fmaj7/C]\n[C]\n[Fmaj7/C]\n[C]\n\n[Verse 1]\n[C]If I get [Cadd9/B]murdered in the ci-\n[Am]ty [G]\n[F]Don't go [G]revengin' in my name\n[C]\n[C]One person dead [Cadd9/B]from such is plen-\n[Am]ty [G]\n[F]No need to go [G]get locked away\n[C]\n[Am]When I leave [G]your a-\n[C]rms\n[Am]The things that [G]I think of\n[C]\n[Am]No need to [G]get overala-\n[F]rmed [C]\nI'm [G]comin' home\n\n[Bridge]\n[C]\n[Fmaj7/C]\n[C]\n[Fmaj7/C]\n[C]\n\n[Verse 2]\n[C]I wonder which [Cadd9/B]brother is bet-\n[Am]ter [G]\n[F]Which one our [G]parents love the most\n[C]\n[C]I sure did get [Cadd9/B]in lots of trouble\n[Am]  [G]\n[F]They seem to let [G]the other go\n[C]\n[Am]A tear fell [G]from my father's eye-\n[C]s\n[Am]I wondered what [G]my Dad would say\n[C]\n[Am]He said, \"I love [G]you and I'm prou-\n[F]d of you both [C]In so\nmany [G]different ways.\"\n\n[Bridge]\n[C]\n[Fmaj7/C]\n[C]\n[Fmaj7/C]\n[C]\n\n[Verse 3]\n[C]If I get [Cadd9/B]murdered in the ci-\n[Am]ty [G]\n[F]Go read the [G]letter in my desk\n[C]\n[C]Don't bother with [Cadd9/B]all my belon-\n[Am]gings [G]\n[F]Pay [G]attention to the list\n[C]\n[Am]Make sure my [G]sister knows I loved\n[C]her\n[Am]Make sure my [G]mother knows the same\n[C]\n[Am]Always [G]remember there was\n[F]nothing worth [C]sharing Like the\nlove that let us [G]share our na-\n[C]me\n[Am]Always [G]remember there was\n[F]nothing worth [C]sharing Like the\nlove that let us [G]share our na-\n\n[Outro]\n[C]me.\n[Fmaj7/C]\n[C]\n[Fmaj7/C]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9/B": {
+      "catalog": [
+        "x20010"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7/C": {
+      "catalog": [
+        "x33210"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Murder In The City",
+  "id": "cac7df8dad9432536a6786e97fc6daf2eecc8c62761078e18e4fa01f7f63bdea",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 223,
+  "normalizedKey": "the avett brothers|murder in the city",
+  "playableChords": [
+    "C",
+    "Fmaj7/C",
+    "Cadd9/B",
+    "Am",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Bridge"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Bridge"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 74,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cac7df8dad9432536a6786e97fc6daf2eecc8c62761078e18e4fa01f7f63bdea",
+    "version": "BCFZ"
+  },
+  "tempo": 107,
+  "title": "Murder In The City",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,100 @@
+{
+  "artist": "Steve Wallis",
+  "artistNormalized": "steve wallis",
+  "capo": "4",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n\n[Verse 1]\n[Am]I wake up in my\n[F]house\n[C]Alone in/my bed\n[G6]\n[Am]Six am is screa-\n[F]ming\n[C]Back to this again\n[G6]\n[Am]I do it with my/eyes\n[F]closed\n[C]Wear marks in the cement\n[G6]\n[Am]How the hell am I\n[F]supposed\n[C]To/wash you from my\n[G6]head\n\n[Chorus]\n[Am]Melbourne Rain\n[F]Fall on me a-\n[C]gain\n[G6]\n[Am]Around my feet\n[F]Stuck on your\n[C]door step\n[G6]\n[Am]Hallway light\n[F]Trace your silhou-\n[C]ette\n[G6]\n[Am]Melbourne Rain\n[F]Fall on me\n[C]again\n[G6]\n\n[Verse 2]\n[Am]I take a breath and step\n[F]in\n[C]Get blown through the ci-\n[G6]ty\n[Am]Everyone keeps\n[F]asking me\n[C]For twenty cents of\n[G6]pity\n[Am]All that I am as-\n[F]king\n[C]Is baby please think\n[G6]of me\n[Am]Yesterday was blue\n[F]skies and bicycles\n[C]And I miss you al-\n[G6]ready\n\n[Chorus]\n[Am]Melbourne Rain\n[F]Fall on me a-\n[C]gain\n[G6]\n[Am]Around my feet\n[F]Stuck on your\n[C]door step\n[G6]\n[Am]Hallway light\n[F]Trace your silhou-\n[C]ette\n[G6]\n[Am]Melbourne Rain\n[F]Fall on me\n[C]again\n[G6]\n\n[Bridge]\n[Am]\n[F]\n[C]\n[G6]\n[Am]\n[F]\n[C]\n[G6]\n\n[Chorus]\n[Am]Melbourne Rain\n[F]Fall on me a-\n[C]gain\n[G6]\n[Am]Around my feet\n[F]Stuck on your\n[C]door step\n[G6]\n[Am]Hallway light\n[F]Trace your silhou-\n[C]ette\n[G6]\n[Am]Melbourne Rain\n[F]Fall on me\n[C]again\n[G6]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Melbourne Rain",
+  "id": "86368bad05114e5a5adefe3947a65dd1e61f3cfac1c8b613ba59d645455cf229",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 202,
+  "normalizedKey": "steve wallis|melbourne rain",
+  "playableChords": [
+    "Am",
+    "F",
+    "C",
+    "G6"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge"
+    },
+    {
+      "measure": 82,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "86368bad05114e5a5adefe3947a65dd1e61f3cfac1c8b613ba59d645455cf229",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "Melbourne Rain",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,63 @@
+{
+  "artist": "Sufjan Stevens",
+  "artistNormalized": "sufjan stevens",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 1,
+  "content": "[Intro]\n[Em]\n\n[Verse 1]\nAbraham, worth a\nrighteous one. Take up\non the wood, Put it\non your son.\nLake or lamb. There is\nnone to harm. When the\nangel came, You had\nraised your arm.\n\n[Chorus]\n\n[Verse 2]\nAbraham, put off\non your son. Take in-\nstead the ram Until\nJesus comes.\n\n[Chorus]",
+  "diagrams": {
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Abraham",
+  "id": "b06ad8c3311cce3b0589419379b640eac809ccc0a685331d7b48d9401b3c21fc",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 74,
+  "normalizedKey": "sufjan stevens|abraham",
+  "playableChords": [
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b06ad8c3311cce3b0589419379b640eac809ccc0a685331d7b48d9401b3c21fc",
+    "version": "BCFZ"
+  },
+  "tempo": 50,
+  "title": "Abraham",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,118 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\n[A7sus4]\n[A]\n[A7sus4]\n[A]\n[A7sus4]\n[A]\n[A7sus4]\n\n[Verse 1]\n[A]I want to tell\nyou\nMy head is filled\nwith things [B]to say\n[E7b9]When you're here\nAll those words,\nthey seem to\n[A]slip a way\n\n[Verse 2]\n[A]When I get near\nyou\nThe games begin\nto drag [B]me down\nIt's alright\nI'll make you\nmaybe next\n[A]time a round\n\n[Bridge]\n[Bm]But if I seem\n[Bdim]to act unkind\n[A]It's only\n[B]me, it's not my mi\n[Bm]nd\n[Bdim]That is confu\n[A]sing things\n\n[Verse 3]\n[A]I want to tell\nyou\nI feel hung up\nbut I don't [B]know why\n[E7b9]I don't mind\nI could wait\nfore ver,\n[A]I've got time\n\n[Bridge]\n[Bm]Sometimes I wish\n[Bdim]I knew you well,\n[A]Then I could\n[B]speak my mind and tell\n[Bm]you\n[Bdim]Maybe you'd un\n[A]derstand\n\n[Verse 4]\n[A]I want to tell\nyou\nI feel hung up\nbut I don't [B]know why\n[E7b9]I don't mind\nI could wait\nfore ver,\n[A]I've got time,\n\n[Outro]\n[A]\n[A7sus4]\n[A]I've got time,\n[A7sus4]\n[A]I've got time\n[A7sus4]\n[A]\n[A7sus4]\n[A]\n[A7sus4]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7sus4": {
+      "catalog": [
+        "x02030"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bdim": {
+      "catalog": [
+        "x2343x"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "E7b9": {
+      "catalog": [
+        "020101"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Want To Tell You *alt",
+  "id": "9a0ca67357806e9d616694df120ef3ef5c34aaa7140e27425687ea80be6aef45",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 161,
+  "normalizedKey": "the beatles|i want to tell you",
+  "playableChords": [
+    "A",
+    "A7sus4",
+    "B",
+    "E7b9",
+    "Bm",
+    "Bdim"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Bridge"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Bridge"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9a0ca67357806e9d616694df120ef3ef5c34aaa7140e27425687ea80be6aef45",
+    "version": "BCFZ"
+  },
+  "tempo": 127,
+  "title": "I Want To Tell You",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

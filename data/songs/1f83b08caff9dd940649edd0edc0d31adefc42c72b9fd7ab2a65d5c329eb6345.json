@@ -1,0 +1,108 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[E7]I want to be your lover baby,\nI want to be your man,\nI want to be your lover baby,\nI want to be your man,\nLove you like no other baby,\nLike no other can,\nLove you like no other baby,\nLike no other can,\n\n[Chorus]\n[E7]I want to be your man,\n[F#7][B7]I want to be your man,\n[E7][C#7]I want to be your man,\n[F#7][B7]I want to be your\n[E7]man.\n\n[Verse 2]\n[E7]Tell me that you love me baby,\nLet me understand,\nTell me that you love me baby,\nI want to be your man.\nI want to be your lover baby,\nI want to be your man,\nI want to be your lover baby,\nI want to be your man.\n\n[Chorus]\n[E7]I want to be your man,\n[F#7][B7]I want to be your man,\n[E7][C#7]I want to be your man,\n[F#7][B7]I want to be your\n[E7]man.\n\n[Guitar Solo]\n[E7]\n\n[Verse 3]\n[E7]I want to be your lover baby,\nI want to be your man,\nI want to be your lover baby,\nI want to be your man.\nLove you like no other baby,\nLike no other can,\nLove you like no other baby,\nLike no other can.\n\n[Chorus]\n[E7]I want to be your man,\n[F#7][B7]I want to be your man,\n[E7][C#7]I want to be your man,\n[F#7][B7]I want to be your\n[E7]man.\n\n[Outro (Fade Out)]\n[E7]I want to be your man,\nI want to be your man,\nI want to be your man,\nI want to be your man,",
+  "diagrams": {
+    "B7": {
+      "catalog": [
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#7": {
+      "catalog": [
+        "x46464",
+        "x-4-3-4-2-1",
+        "9-8-6-6-6-7",
+        "9-11-9-10-9-9",
+        "x-x-11-13-12-13"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I wanna be your man",
+  "id": "1f83b08caff9dd940649edd0edc0d31adefc42c72b9fd7ab2a65d5c329eb6345",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 265,
+  "normalizedKey": "the beatles|i wanna be your man",
+  "playableChords": [
+    "E7",
+    "F#7",
+    "B7",
+    "C#7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1f83b08caff9dd940649edd0edc0d31adefc42c72b9fd7ab2a65d5c329eb6345",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "I wanna be your man",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,111 @@
+{
+  "artist": "Sum 41",
+  "artistNormalized": "sum 41",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[A#m]Some say we're [C#]never meant to grow up\n[D#m]I'm sure they [F#]never knew enough\n[A#m]I know the [C#]pressures won't go\n[D#m]away [F#]It's too late\n[A#m]Find out the [C#]difference somehow\n[D#m]It's too late to [F#]even have faith\n[A#m]Don't think [C#]things will ever change\n[D#m]You must be [F#]dreaming\n\n[Chorus]\n[A#m]Think before you [F#]make up your mind\n[C#]You don't seem [G#]to realize\n[D#m]I can do [F#]this on my own\n[C#]And if I fall [G#]I'll take it all\n[D#m]It's so [F#]easy after all\n\n[Bridge]\n[A#m]  [C#]\n[D#m]  [F#]\n\n[Verse 2]\n[A#m]Believe me 'cause [C#]now's the time to try\n[D#m]Don't wait, the [F#]chance will pass you by\n[A#m]Time's up to [C#]figure it out\n[D#m]You can't say [F#]it's too late\n[A#m]Seems like [C#]everything we knew\n[D#m]Turned out were [F#]never even true\n[A#m]Don't trust, [C#]things will never change\n[D#m]You must be [F#]dreaming\n(dreaming)\n\n[Chorus]\n[A#m]Think before you [F#]make up your mind\n[C#]You don't seem [G#]to realize\n[D#m]I can do [F#]this on my own\n[C#]And if I fall [G#]I'll take it all\n[D#m]It's so [F#]easy after all\n\n[Solo]\n[F#]  [C#]\n[D#m]  [A#m]\n[F#]  [C#]\n[D#m]  [A#m]\n[F#]  [C#]\n[D#m]  [A#m]\n[F#]  [C#]\n[D#m]  [A#m]\n[F#]\n\n[Verse 3]\n[A#m]Some say we're [C#]better off without\n[D#m]Knowing what [F#]life is all about\n[A#m]I'm sure they'll [C#]never realize\n[D#m]the way [F#]It's too late\n[A#m]Somehow it's [C#]different everyday\n[D#m]In some ways it [F#]never fades away\n[A#m]Seems like it's [C#]never gonna change\n[D#m]I must be [F#]dreaming\n(dreaming, dreaming)\n\n[Chorus]\n[A#m]Think before you [F#]make up your mind\n[C#]You don't seem [G#]to realize\n[D#m]I can do [F#]this on my own\n[A#m]Think before you [F#]make up your mind\n[C#]You don't seem [G#]to realize\n[D#m]I can do [F#]this on my own\n[C#]And if I fall [G#]I'll take it all\n[D#m]It's so [F#]easy after all\n[A#m]Believe me, [F#]it's alright\n[C#]It's so [G#]easy after all\n[A#m]Believe me, [F#]it's alright\n[C#]It's so [G#]easy after all\n\n[Outro]\n[F#]",
+  "diagrams": {
+    "A#m": {
+      "catalog": [
+        "x24432"
+      ],
+      "catalogCount": 1
+    },
+    "C#": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "022000"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "320003",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "x02220"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Some Say",
+  "id": "97aa79124098622150578ce540069f1bdfb76212225101d95b5cbe29006005f2",
+  "key": "A♯",
+  "keyIdentified": true,
+  "lyricEventCount": 337,
+  "normalizedKey": "sum 41|some say",
+  "playableChords": [
+    "A#m",
+    "C#",
+    "D#m",
+    "F#",
+    "G#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Bridge"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Solo"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "97aa79124098622150578ce540069f1bdfb76212225101d95b5cbe29006005f2",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "Some Say",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

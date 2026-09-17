@@ -1,0 +1,141 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E]\n\n[Verse 1]\n[E]Last night I\nsaid these words to\n[A]my [E]girl.\n[G]  [A]  [B]\n[E]I know you'll\nnever even\n[A]try [E]girl.\nCome\n\n[Chorus]\n[A]on come\n[F#m]on come\n[C#m]on come\n[A]on, please\n[E]please me oh\n[A]yeah like [B]I please\n[E]you.\n[A]  [B]\n\n[Verse 2]\n[E]You don't need\nme to show the\n[A]way [E]love.\n[G]  [A]  [B]\n[E]Why do I\nalways have to\n[A]say [E]love?\nCome\n\n[Chorus]\n[A]on come\n[F#m]on come\n[C#m]on come\n[A]on, please\n[E]please me oh\n[A]yeah like [B]I please\n[E]you.\n\n[Bridge]\n[A]I don't wanna sound complaining\n[B]but you know there's always rain in\n[E]my heart.\n[A]I do all the pleasing with you\n[B]it's so hard to reason with\n[E]you oh\n[A]yeah why [B]do you make me\n[E]blue?\n\n[Verse 3]\n[E]Last night I\nsaid these words to\n[A]my [E]girl.\n[G]  [A]  [B]\n[E]I know you'll\nnever even\n[A]try [E]girl.\nCome\n\n[Chorus]\n[A]on come\n[F#m]on come\n[C#m]on come\n[A]on, please\n[E]please me oh\n[A]yeah like [B]I please\n[E]you. oh\n[A]yeah like [B]I please\n[E]you, oh\n[A]yeah like [B]I please\n[E]you. [G]\n[C]  [B]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Please Please Me *alt",
+  "id": "235ece3a956f28b5e2761aa3f15384318fb263a718e4f64077924aed913f1bdf",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 159,
+  "normalizedKey": "the beatles|please please me",
+  "playableChords": [
+    "E",
+    "A",
+    "G",
+    "B",
+    "F#m",
+    "C#m",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Bridge"
+    },
+    {
+      "measure": 48,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "235ece3a956f28b5e2761aa3f15384318fb263a718e4f64077924aed913f1bdf",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Please Please Me",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,100 @@
+{
+  "artist": "Sufjan Stevens",
+  "artistNormalized": "sufjan stevens",
+  "capo": "3",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Dm]\n[C]\n[Am]\n[F]\n[Dm]\n[C]\n[Am]\n[F]\n\n[Verse 1]\n[Dm]His\nfather was a drin-\n[C]ker\nand his\n[Am]mother\ncried in\n[F]bed\n[Dm]\nFolding John Wayne's t-\n[C]shirts\nwhen the\n[Am]swingset\nhit his\n[F]head\n[Dm]The\nneighbors they adored\n[C]him\nFor his\n[Am]humor\nand his\n[F]conver-\nsation\n[Dm]Look\nunderneath the house\n[C]there\nFind the few\n\n[Chorus]\n[Am]living things,\nrotting fast,\n[F]in their sleep\nOh the dead\n[Dm]\n2 7 peo-\n[C]ple\nEven more,\n[Am]they were boys,\nwith their cars,\n[F]summer jobs\nOh my God\n[Dm]\n[C]\n[Am]\nAre you\n[F]one of them?\n[Dm]He\n\n[Verse 2]\ndressed up like a clown\n[C]for them\nWith his\n[Am]face paint\nwhite and\n[F]red\n[Dm]And\non his best beha-\n[C]vior\nIn a\n[Am]dark room\non the\n[F]bed he\nkissed them all\n[Dm]He'd\nkill ten thousand peo-\n[C]ple\nWith a slight\n\n[Chorus]\n[Am]of his hand,\nrunning far,\n[F]running fast\nto the dead\n[Dm]He\ntook off all their clothes\n[C]for them\nHe put a cloth\n[Am]on their lips,\nquiet hands,\n[F]quiet kiss\non the mouth\n[Dm]\n[C]\n[Am]\n[F]\n[Dm]And\n\n[Verse 3]\nin my best beha-\n[C]vior\nI am\n[Am]really\njust like\n[F]him\n[Dm]\nLook beneath the\n[C]floor boards\nFor the\n[Am]secrets\nI have\n[F]hid",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "John Wayne Gacy Jr",
+  "id": "3abe7270b8446c646e663f5ea2e51b4d0554a6a29a4812b193d0bd5693891039",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 196,
+  "normalizedKey": "sufjan stevens|john wayne gacy jr",
+  "playableChords": [
+    "Dm",
+    "C",
+    "Am",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 86,
+      "name": "Chorus"
+    },
+    {
+      "measure": 107,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3abe7270b8446c646e663f5ea2e51b4d0554a6a29a4812b193d0bd5693891039",
+    "version": "BCFZ"
+  },
+  "tempo": 162,
+  "title": "John Wayne Gacy Jr",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

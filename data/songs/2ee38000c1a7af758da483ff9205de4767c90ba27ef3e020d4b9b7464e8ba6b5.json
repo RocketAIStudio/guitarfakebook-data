@@ -1,0 +1,127 @@
+{
+  "artist": "System Of A Down",
+  "artistNormalized": "system of a down",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[F5]\n\n[Verse 1]\n[E5][G#5]Preflight [D#5][F#5]delight,\n[F5]\n[E5][G#5]Defaced [F#5]street [D#5]lights,\n[F5]A\n[E5][G#5]pyramid [F#5]mind [D#5]fuck,\n[F5]\n[G#5]Don't [E5]leave [F#5]your [D#5]seats\n[F5]now,\n\n[Chorus]\n[C5][F5]Popcorn\n[G#5][G5]everywhere,\n[F5]canned, [G#5][C5]Cliche\n[G5][B5]people [F#5][A#5]organs\n[F5]rare, [C5]Corn\n[G#5][G5]everywhere\n[F5]canned, [G#5][C5]Cliche\n[G5][B5]people [F#5][A#5]organs\n[F5]rare,\nRare,\nRare,\nRare.\n\n[Verse 2]\n[G#5]I [E5]want [F#5]to [D#5]be,\n[F5]A\n[E5][G#5]fallen [D#5][F#5]ruby,\n[F5]\n[G#5]Guest [D#5][F#5][E5]vibrations,\n[F5]\n[G#5]Don't [E5]leave [F#5]your [D#5]seats\n[F5]now,\n\n[Chorus]\n[C5][F5]Humans\n[G#5][G5]everywhere,\n[F5]canned, [G#5][C5]Cliche\n[G5][B5]people [F#5][A#5]organs\n[F5]rare, [C5]Humans\n[G#5][G5]everywhere\n[F5]canned, [G#5][C5]Cliche\n[G5][B5]people [F#5][A#5]cannot\n[F5]dare,\nDare,\nDare,\nDare.\n\n[Bridge]\n[E5]\n[F5]\n[E5]\n[F5]\n\n[Chorus]\n[C5][F5]Humans\n[G#5][G5]everywhere,\n[F5]canned, [G#5][C5]Cliche\n[G5][B5]people [F#5][A#5]organs\n[F5]rare, [C5]Humans\n[G#5][G5]everywhere,\n[F5]canned, [G#5][C5]Cliche\n[G5][B5]people [F#5][A#5]cannot\n[F5]dare, [C5]Humans\n[G#5][G5]everywhere,\n[F5]canned, [G#5][C5]Cliche\n[G5][B5]people [F#5][A#5]organs\n[F5]rare, [C5]Humans\n[G#5][G5]everywhere,\n[F5]canned, [G#5][C5]Cliche\n[G5][B5]people [F#5][A#5]cannot\n\n[Outro]\n[F5]dare,\nDare,\nDare,\nDare.",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x-9-11-11-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "666xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "888xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "CUBert *alt",
+  "id": "2ee38000c1a7af758da483ff9205de4767c90ba27ef3e020d4b9b7464e8ba6b5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 149,
+  "normalizedKey": "system of a down|cubert",
+  "playableChords": [
+    "F5",
+    "G#5",
+    "E5",
+    "F#5",
+    "D#5",
+    "C5",
+    "G5",
+    "B5",
+    "A#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2ee38000c1a7af758da483ff9205de4767c90ba27ef3e020d4b9b7464e8ba6b5",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "CUBert",
+  "tuning": "C G C F A D",
+  "variantRole": "alt"
+}

@@ -1,0 +1,79 @@
+{
+  "artist": "Teenage Bottlerocket",
+  "artistNormalized": "teenage bottlerocket",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "Don't mess with\n\n[Chorus]\n[F#5]Patrick [A5]\n[D5]You'll [E5]get your\n[F#5]face kicked [A5]\n[D5]You'll [E5]get your\n[F#5]head split [A5]\n[D5]You [E5]mess with\n[F#5]Patrick [A5]\n[D5]\n\n[Verse]\n[F#5]\n[D5]\n[B5]People think he's\nundercover\n[F#5]\n[D5]\n[B5]You might think he's\njust another...\n[F#5]\n[D5]\n[B5]Freak decked out in\nnormal cloths\n[F#5]\n[D5]\n[B5]You'll get a\nbusted nose Don't mess with\n\n[Chorus]\n[F#5]Patrick [A5]\n[D5]You'll [E5]get your\n[F#5]face kicked [A5]\n[D5]You'll [E5]get your\n[F#5]head split [A5]\n[D5]You [E5]mess with\n[F#5]Patrick",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Patrick",
+  "id": "667e35b9b1c7e953bce13eac3899f3afb178a467f562e5d63b1608e87c0dc54b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 69,
+  "normalizedKey": "teenage bottlerocket|patrick",
+  "playableChords": [
+    "F#5",
+    "A5",
+    "D5",
+    "E5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Chorus"
+    },
+    {
+      "measure": 10,
+      "name": "Verse"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "667e35b9b1c7e953bce13eac3899f3afb178a467f562e5d63b1608e87c0dc54b",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Patrick",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

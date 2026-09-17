@@ -1,0 +1,93 @@
+{
+  "artist": "The 5 6 7 8's",
+  "artistNormalized": "the 5 6 7 8 s",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\nWoo hoo woo hoo hoo\n[Bb]\n[Bb]\n[Eb]\n[Bb]\n[F][Eb]Yeah\n[Bb]\n\n[Verse 1]\nWoo hoo woo hoo hoo\nWoo hoo woo hoo hoo\n[Eb]Woo hoo woo hoo hoo\n[Bb]Woo hoo woo hoo hoo\n[F]Woo hoo [Eb]woo hoo\n[Bb]Woo hoo woo hoo hoo\n\n[Breakdown]\n[Bb]\n[Eb]\n[Bb]\n[F]  [Eb]\n[Bb]\n[Bb]\n[Eb]\n[Bb]\n[F]  [Eb]\n[Bb]\n\n[Verse 2]\n[Bb]Woo hoo woo hoo hoo\nWoo hoo woo hoo hoo\n[Eb]Woo hoo woo hoo hoo\n[Bb]Woo hoo woo hoo hoo\n[F]Woo hoo [Eb]woo hoo\n[Bb]Woo hoo woo hoo hoo\n\n[Breakdown]\n[Bb]\n[Eb]\n[Bb]\n[F]  [Eb]\n[Bb]\n[Bb]\n[Eb]\n[Bb]\n[F]  [Eb]\n[Bb]\n\n[Verse 3]\n[Bb]Woo hoo woo hoo hoo\nWoo hoo woo hoo hoo\n[Eb]Woo hoo woo hoo hoo\n[Bb]Woo hoo woo hoo hoo\n[F]Woo hoo [Eb]woo hoo\n[Bb]Woo hoo woo hoo hoo\n[Bb]Woo hoo woo hoo hoo\nWoo hoo woo hoo hoo\n[Eb]Woo hoo woo hoo hoo\n[Bb]Woo hoo woo hoo hoo\n[F]Woo hoo [Eb]woo hoo\n\n[Outro]\n[Bb]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "6887xx",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x6888x",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "x-8-10-10-10-x",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Woo Hoo",
+  "id": "37d10b7d82cb1fd9d5bef82a1a607da435837bc671c655326fc929df2ae45caf",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 117,
+  "normalizedKey": "the 5 6 7 8 s|woo hoo",
+  "playableChords": [
+    "Bb",
+    "Eb",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Breakdown"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Breakdown"
+    },
+    {
+      "measure": 48,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "37d10b7d82cb1fd9d5bef82a1a607da435837bc671c655326fc929df2ae45caf",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "Woo Hoo",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

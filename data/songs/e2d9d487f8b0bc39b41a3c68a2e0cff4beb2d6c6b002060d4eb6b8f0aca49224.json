@@ -1,0 +1,149 @@
+{
+  "artist": "Stone Temple Pilots",
+  "artistNormalized": "stone temple pilots",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 9,
+  "content": "[Intro 1]\n[G5]  [D]  [A7sus4]\n[G5]  [D]  [A]\n[G5]  [D]  [A7sus4]\n[G5]  [D]  [A]\n\n[Intro 2]\n[A5]\n\n[Verse 1]\n[A5]Can you see\nlike a child?\nCan you see\nwhat I want?\n[A5]I wanna run through your wicked garden\nHeard that's the place to find you\nCause I'm alive So alive now\nI know the darkness blinds you\n[A5]Can you see\nwithout eyes?\nCan you speak\nwithout lies?\n[A5]I wanna drink from you naked fountain\nI can drown your sorrows\nI'm gonna burn Burn you to life now\nOuqt of the chains that bind you [F#5]Can\n\n[Chorus]\nyou [D5]see just [B5]\nlike a child? [F#5]\nCan you [D5]see just [B5]\nwhat I want? [F#5]\nCan I [D5]bring you [B5]\nback to life? [F#5]\nAre you [D5]scared of [E7]life?\n[G5]Burn,\n\n[Bridge]\n[A5]burn, [G5]\nburn [A5][G5]\nBurn your [A5]wicked [G5]\ngarden down [A5][G5]\nBurn, [A5]burn, [G5]\nburn [A5][G5]Burn\nyour wicked [A5]garden to the [G5]\nground [A5]\n\n[Intrelude]\n[A5]\n\n[Verse 2]\n[A5]Can you feel\npain inside?\nCan you love?\nCan you cry?\n[A5]I wanna run through your wicked garden\nHeard that's the place to find you\nBut I'm alive So alive now\nOut of the dark that blinds you [F#5]Can\n\n[Chorus]\nyou [D5]see just [B5]\nlike a child? [F#5]\nCan you [D5]see just [B5]\nwhat I want? [F#5]\nCan I [D5]bring you [B5]\nback to life? [F#5]\nAre you [D5]scared of [E7]life?\n[G5]Burn,\n\n[Bridge]\n[A5]burn, [G5]\nburn [A5][G5]\nBurn your [A5]wicked [G5]\ngarden down [A5][G5]\nBurn, [A5]burn, [G5]\nburn [A5][G5]Burn\nyour wicked [A5]garden to the [G5]\nground [A5]\n\n[Outro]\n[G5]  [D]  [A7sus4]\n[G5]  [D]  [A]\n[G5]  [D]  [A7sus4]\n[G5]  [D]  [A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "x022xx",
+        "577xxx"
+      ],
+      "catalogCount": 2
+    },
+    "A7sus4": {
+      "catalog": [
+        "x02233"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "3x0033",
+        "355xxx"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wicked Garden *alt",
+  "id": "e2d9d487f8b0bc39b41a3c68a2e0cff4beb2d6c6b002060d4eb6b8f0aca49224",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 227,
+  "normalizedKey": "stone temple pilots|wicked garden",
+  "playableChords": [
+    "G5",
+    "D",
+    "A7sus4",
+    "A",
+    "A5",
+    "F#5",
+    "D5",
+    "B5",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 5,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e2d9d487f8b0bc39b41a3c68a2e0cff4beb2d6c6b002060d4eb6b8f0aca49224",
+    "version": "BCFZ"
+  },
+  "tempo": 77,
+  "title": "Wicked Garden",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

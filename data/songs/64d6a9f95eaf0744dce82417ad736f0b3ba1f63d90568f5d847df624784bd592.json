@@ -1,0 +1,134 @@
+{
+  "artist": "Tame Impala",
+  "artistNormalized": "tame impala",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[C]\n[Dm]\n[C]\n[Cm]\nBut is there something\n\n[Verse]\n[Am]more than that?\nBut is there something\n[A#6]more than that?\n[Dm]But is there something\n[C]more than that?\nBut is there something\n[D#maj7]more than that?\n[D#5]But is there something\n\n[Chorus]\n[Am/E]more than that?\nBut is there something\n[A#6]more than that?\n[Dm]But is there something\n[C/E]more than that?\nBut is there something\n[D#maj7]more than that?\n[Cm/G]But is there something\n[Am/E]more than that?\nBut is there something\n[A#6]more than that?\n[Dm]But is there something\n[C/E]more than that?\nBut is there something\n[D#maj7]more than that?\n[Cm/G]But is there something\n\n[Fade Out]\n[Am/E]more than that?\nBut is there something\n[A#6]more than that?\n[Dm]",
+  "diagrams": {
+    "A#6": {
+      "catalog": [
+        "x1303x"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am/E": {
+      "catalog": [
+        "xx2210"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/E": {
+      "catalog": [
+        "xx2010"
+      ],
+      "catalogCount": 1
+    },
+    "Cm": {
+      "catalog": [
+        "x3104x",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "Cm/G": {
+      "catalog": [
+        "xx554x"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "xx104x"
+      ],
+      "catalogCount": 1
+    },
+    "D#maj7": {
+      "catalog": [
+        "xx1333"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Nangs",
+  "id": "64d6a9f95eaf0744dce82417ad736f0b3ba1f63d90568f5d847df624784bd592",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 112,
+  "normalizedKey": "tame impala|nangs",
+  "playableChords": [
+    "C",
+    "Dm",
+    "Cm",
+    "Am",
+    "A#6",
+    "D#maj7",
+    "D#5",
+    "Am/E",
+    "C/E",
+    "Cm/G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "64d6a9f95eaf0744dce82417ad736f0b3ba1f63d90568f5d847df624784bd592",
+    "version": "BCFZ"
+  },
+  "tempo": 84,
+  "title": "Nangs",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

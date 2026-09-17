@@ -1,0 +1,99 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[E]Mean Mister Mustard, sleeps\nin the park, shaves in the\ndark trying to save paper.\n[B7]Sleeps in a hole on the road\n[C7]  [C#7]  [D7]\nSaving up to buy him soup clo-\nthes [C#7][C7][B7]\nKeeps a ten bob note up his nose,\nSuch a\n[E]mean old man. [C7]\n[B7]Such a\n[E]mean old man. [C7]\n[B7]\n\n[Verse 2]\n[E]His sister Pam works\nin a shop She never\nstops, she's a gogetter\n[B7]Takes him out to look at the que-\nen [C7][C#7][D7]\nOnly place that he's ever be-\nen [C#7][C7][B7]\nAlways shouts out something obsce-\nne Such a\n\n[Outro]\n[E]dirty old [C7]man [B7]\n[E]Dirty old [C7]man [B7]",
+  "diagrams": {
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#7": {
+      "catalog": [
+        "x46464",
+        "x-4-3-4-2-1",
+        "9-8-6-6-6-7",
+        "9-11-9-10-9-9",
+        "x-x-11-13-12-13"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x35353",
+        "x32310",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "x57575",
+        "x-x-0-2-1-2",
+        "x-5-4-5-3-2",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mean Mr. Mustard",
+  "id": "8db5e0d79e88dbac2713e2bd748922efbca81d30640d0fe1335a9cddd9328d0d",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 106,
+  "normalizedKey": "the beatles|mean mr mustard",
+  "playableChords": [
+    "E",
+    "B7",
+    "C7",
+    "C#7",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8db5e0d79e88dbac2713e2bd748922efbca81d30640d0fe1335a9cddd9328d0d",
+    "version": "BCFZ"
+  },
+  "tempo": 101,
+  "title": "Mean Mr. Mustard",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

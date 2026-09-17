@@ -1,0 +1,91 @@
+{
+  "artist": "Tencious D",
+  "artistNormalized": "tencious d",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Verse]\n[D]\nSave the world,\n[Bb/D]save the world\n[G/D]You've got to save the world\n[Eb]Save the\n\n[Chorus]\n[D]world All the boys and girls\n[Bb/D]From around the world\n[G/D]You've got to save the\n[Eb]world [F]Save the...\n\n[Outro]\n[D]world",
+  "diagrams": {
+    "Bb/D": {
+      "catalog": [
+        "xx0331"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "xx1343",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "xx3565",
+        "1-3-3-2-1-1",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G/D": {
+      "catalog": [
+        "xx0003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "SAVE THE WORLD",
+  "id": "a55c348a4d4d11f763b79f8d48392d56e26f7ba62738d10833836659e27015aa",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 34,
+  "normalizedKey": "tencious d|save the world",
+  "playableChords": [
+    "D",
+    "Bb/D",
+    "G/D",
+    "Eb",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse"
+    },
+    {
+      "measure": 6,
+      "name": "Chorus"
+    },
+    {
+      "measure": 10,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a55c348a4d4d11f763b79f8d48392d56e26f7ba62738d10833836659e27015aa",
+    "version": "BCFZ"
+  },
+  "tempo": 76,
+  "title": "SAVE THE WORLD",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

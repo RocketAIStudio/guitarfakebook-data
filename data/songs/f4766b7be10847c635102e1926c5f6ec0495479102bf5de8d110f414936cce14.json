@@ -1,0 +1,126 @@
+{
+  "artist": "Taylor Swift",
+  "artistNormalized": "taylor swift",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\n\n[Verse 1]\n[A]I've been having a hard time adjusting\n[D]I had the shiniest wheels, now they're rusting\n[A]I didn't know if you'd care if I came back\n[E/G#]I have a lot of regrets about that\n[F#m]Pulled the car off the road to the lookout\n[D]Could've followed my fears all the way down\n[E]And maybe I don't quite know what to say But I'm\nhere in your doorway I just wanted you\n\n[Chorus]\n[F#m]to know that [D]this is me trying\n[A]I just wanted you\n[A/C#]to know that [D]this is me trying\n[E]\n[A]\n[D]\n[A]\n[E]\n\n[Verse 2]\n[A]They told me all of my cages were mental\n[D]So I got wasted like all my potential\n[A]And my words shoot to kill when I'm mad\n[E/G#]I have a lot of regrets about that\n[F#m]I was so ahead of the curve, the curve became a\n[D]sphere Fell behind all my classmates and I ended up\n[E]here Pouring out my heart to a stranger But I\ndidn't pour the whiskey I just wanted you\n\n[Chorus]\n[F#m]to know that [D]this is me trying\n[A]I just wanted you\n[A/C#]to know that [D]this is me trying\n[E]At least I'm try-\n[A]ing\n[D]\n[A]\n[E/G#]And it's\n\n[Bridge]\n[F#m]hard to be at a party when I feel like an open\n[D]wound It's hard to be anywhere these days when all I want is\n[E]you You're a flashback in a film reel on the one screen in\nmy town And I just wanted you\n\n[Chorus]\n[F#m]to know that [D]this is me trying\n[A]And maybe I don't quite... I just wanted you\n[A/C#]to know that [D]this is me trying\n[E]At least I'm try-\n\n[Outro]\n[A]ing\n\n[Fade Out]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A/C#": {
+      "catalog": [
+        "x42220"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E/G#": {
+      "catalog": [
+        "422100"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "This Is Me Trying",
+  "id": "f4766b7be10847c635102e1926c5f6ec0495479102bf5de8d110f414936cce14",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 304,
+  "normalizedKey": "taylor swift|this is me trying",
+  "playableChords": [
+    "A",
+    "D",
+    "E/G#",
+    "F#m",
+    "E",
+    "A/C#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    },
+    {
+      "measure": 53,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f4766b7be10847c635102e1926c5f6ec0495479102bf5de8d110f414936cce14",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "This Is Me Trying",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

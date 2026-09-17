@@ -1,0 +1,147 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "2",
+  "chordPositionCount": 29,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[E]\nYou\n\n[Verse 1]\n[E]tell me that you've got every-\nthing you want\nAnd your bird can\nsing But you don't get me,\n[F#m]\n[A]you don't get\n[E]me\n\n[Verse 2]\n[E]You say you've seen\nseven wonders\nand your bird is\ngreen But you can't see me,\n[F#m]\n[A]you can't see\n[E]me\n\n[Chorus]\n[G#m]When your prized posse-\n[G#mmaj7]ssions\n[G#m7]start to weigh you do-\n[C#7]wn\n[E]Look in my direc-\n[F#m]tion, I'll be ro-\nund, I'll be ro-\n[B7]und\n\n[Guitar Solo]\n[E]\n[F#m]\n[A]\n[E]\n\n[Chorus]\n[G#m]When your bird is bro-\n[G#mmaj7]ken\n[G#m7]will it bring you do-\n[C#7]wn\n[E]You may be awo-\n[F#m]ken, I'll be ro-\nund, I'll be ro-\n[B7]und You\n\n[Verse 3]\n[E]tell me that you've heard every\nsound there is\nAnd your bird can\nswing But you can't hear me,\n[F#m]\n[A]you can't hear\n[E]me\n\n[Outro]\n[E]\n[F#m]\n[A]\n[E]\n[A/E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A/E": {
+      "catalog": [
+        "002220"
+      ],
+      "catalogCount": 1
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#7": {
+      "catalog": [
+        "x46464",
+        "x-4-3-4-2-1",
+        "9-8-6-6-6-7",
+        "9-11-9-10-9-9",
+        "x-x-11-13-12-13"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    },
+    "G#m7": {
+      "catalog": [
+        "464444"
+      ],
+      "catalogCount": 1
+    },
+    "G#mmaj7": {
+      "catalog": [
+        "465444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "And Your Bird Can Sing *alt",
+  "id": "9a210c182c0ee73eb22db3526e878ec43deb673031177766d2bbc1c2a1f90ca9",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 128,
+  "normalizedKey": "the beatles|and your bird can sing",
+  "playableChords": [
+    "E",
+    "F#m",
+    "A",
+    "G#m",
+    "G#mmaj7",
+    "G#m7",
+    "C#7",
+    "B7",
+    "A/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9a210c182c0ee73eb22db3526e878ec43deb673031177766d2bbc1c2a1f90ca9",
+    "version": "BCFZ"
+  },
+  "tempo": 133,
+  "title": "And Your Bird Can Sing",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

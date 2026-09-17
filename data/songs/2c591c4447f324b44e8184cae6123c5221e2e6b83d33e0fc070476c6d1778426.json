@@ -1,0 +1,123 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "I'm a\n\n[Intro]\n[Am]lo-\n[D]ser I'm a\n[Am]lo -\n[D]ser And I'm\n[Am]not what I appear\n[F]to be [D]\n\n[Verse 1]\n[G]Of all the love\n[D]I have won\n[F]or have lost\n[G]\nThere is one love\n[D]I should\n[F]never have\n[G]crossed\nShe was a girl\n[D]in a mil\n[F]lion, my friend\n[G]\nI should have known\n[D]she would\n[F]win in the\n[G]end I'm a lo\n\n[Chorus]\n[Am]ser\n[D]And I lost\n[Am]someone who's near\n[D]to me I'm a lo\n[G]ser\n[Em]And I'm\n[Am]not what I appear\n[F]to be [D]\n\n[Verse 2]\n[G]Although I laugh\n[D]and I act\n[F]like a clown\n[G]\nBeneath this mask\n[D]I am\n[F]wearing a\n[G]frown\nMy tears are fal\n[D]ling like rain\n[F]from the sky\n[G]\nIs it for her\n[D]or my-\n[F]self that I\n[G]cry I'm a lo\n\n[Chorus]\n[Am]ser\n[D]And I lost\n[Am]someone who's near\n[D]to me I'm a lo\n[G]ser\n[Em]And I'm\n[Am]not what I appear\n[F]to be [D]\n\n[Interlude]\n[G]\n[D]\n[F]\n[G]\n[D]\n[F]\n[G]\n[Am]\n[D]\n[Am]\n[D]\n[G]\n[Em]\n[Am]\n[F]  [D]\n\n[Verse 3]\n[G]What have I done\n[D]to deserve\n[F]such a fate\n[G]\nI realize\n[D]I have\n[F]left it too\n[G]late\nAnd so it's true,\n[D]pride comes be\n[F]fore a fall\n[G]\nI'm telling you\n[D]so that\n[F]you won't lose\n[G]all I'm a lo\n\n[Chorus]\n[Am]ser\n[D]And I lost\n[Am]someone who's near\n[D]to me I'm a lo\n[G]ser\n[Em]And I'm\n[Am]not what I appear\n[F]to be [D]\n\n[Outro]\n[G]\n[D]\n[F]\n[G]\n[D]\n[F]\n[G]\n[Am]\n[D]\n[Am]\n[D]\n[G]\n[Em]\n[Am]\n[F]  [D]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I'm A Loser *alt",
+  "id": "2c591c4447f324b44e8184cae6123c5221e2e6b83d33e0fc070476c6d1778426",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 225,
+  "normalizedKey": "the beatles|i m a loser",
+  "playableChords": [
+    "Am",
+    "D",
+    "F",
+    "G",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 48,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Interlude"
+    },
+    {
+      "measure": 72,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 88,
+      "name": "Chorus"
+    },
+    {
+      "measure": 96,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2c591c4447f324b44e8184cae6123c5221e2e6b83d33e0fc070476c6d1778426",
+    "version": "BCFZ"
+  },
+  "tempo": 121.435,
+  "title": "I'm A Loser",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

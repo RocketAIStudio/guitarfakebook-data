@@ -1,0 +1,144 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 47,
+  "chordSymbolCount": 11,
+  "content": "[D]\nHer Majesty's a\n[Bm]pretty nice girl But she\n[Em7]doesn't have a [A7]lot to say\n[D]\n[D]Her Majesty's a\n[Bm]pretty nice girl But she\n[E7]changes from day to day\n[A]\n[Bm]I want to tell her that I\n[Bsus2]love her a lot But I\n[D7]gotta get a bellyful of\n[G]wine\n[Gdim7]Her Majesty's a\n[D]pretty nice [B7]girl Someday\n[Em7]I'm going to [A7]make her mine,\n[D]oh yeah [B7]Some-\n[Em7]day I'm going to [A7]make her mine\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Bsus2": {
+      "catalog": [
+        "x24422"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gdim7": {
+      "catalog": [
+        "xx5320"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Her Majesty",
+  "id": "81eacdb8089fbba7e3f9aa78d962e7cc4e94a2bb8c1dcccdd50e36b5ec4d0604",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 87,
+  "normalizedKey": "the beatles|her majesty",
+  "playableChords": [
+    "D",
+    "Bm",
+    "Em7",
+    "A7",
+    "E7",
+    "A",
+    "Bsus2",
+    "D7",
+    "G",
+    "Gdim7",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [],
+  "source": {
+    "format": "gpx",
+    "sha256": "81eacdb8089fbba7e3f9aa78d962e7cc4e94a2bb8c1dcccdd50e36b5ec4d0604",
+    "version": "BCFZ"
+  },
+  "tempo": 202,
+  "title": "Her Majesty",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

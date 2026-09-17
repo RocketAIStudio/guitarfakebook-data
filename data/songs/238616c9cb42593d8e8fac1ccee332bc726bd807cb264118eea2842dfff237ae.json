@@ -1,0 +1,127 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]\n[Em]\n[G]\n[Em]\n[G]\n[Em]\n\n[Verse 1]\n[C]It's not the way you smile\nthat touched my\n[G]heart.\n[C]It's not the way you kiss\nthat tears me a-\n[G]part.\nUh, oh,\n\n[Pre-Chorus]\n[Em]many, many, many\nnights go by,\n[Am]I sit alone at\nhome and cry over\n[G]you. What can I\n[Em]do.\n\n[Chorus]\n[C]Can't help myself,\n[D]\n'cause baby, it's\n[G]you.\n[Em]Baby, it's\n[G]you.\n[Em]\n\n[Verse 2]\n[C]You should hear what they say\nabout\n[G]you, \"cheat,\"\n\"cheat.\"\n[C]They say, they say you\nnever never never ever been\n[G]true.\nUh oh,\n\n[Pre-Chorus]\n[Em]It doesn't matter\nwhat they say,\n[Am]I know I'm gonna love you\nany old way. What can I do,\n[G]and it's true.\n[Em]\n\n[Chorus]\n[C]Don't want nobo-\n[D]dy, nobody,\n'cause baby, it's\n[G]you.\n[Em]Baby, it's\n[G]you.\n[Em]\n\n[Solo]\n[C]\n[D]\n[G]\n[C]\n[D]\n[G]\nUh oh,\n\n[Pre-Chorus]\n[Em]It doesn't matter\nwhat they say,\n[Am]I know I'm gonna love you\nany old way. What can I do,\n[G]and it's true.\n[Em]\n\n[Chorus]\n[C]Don't want nobo-\n[D]dy, nobody,\n'cause baby, it's\n[G]you.\n[Em]Baby, it's\n[G]you.\n[Em]Don't leave me all alo-\n[G]ne...\n[Em]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Baby It's You",
+  "id": "238616c9cb42593d8e8fac1ccee332bc726bd807cb264118eea2842dfff237ae",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 189,
+  "normalizedKey": "the beatles|baby it s you",
+  "playableChords": [
+    "G",
+    "Em",
+    "C",
+    "Am",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Solo"
+    },
+    {
+      "measure": 57,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "238616c9cb42593d8e8fac1ccee332bc726bd807cb264118eea2842dfff237ae",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "Baby It's You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

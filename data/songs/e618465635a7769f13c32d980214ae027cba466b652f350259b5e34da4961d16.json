@@ -1,0 +1,112 @@
+{
+  "artist": "System of a down",
+  "artistNormalized": "system of a down",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Cm]\n\n[Verse 1]\n[Cm]I need not\nfear the love\n[Bm]You love to\nlove the fear\n[G]I never want to\nbe a lone\n[Bb]I've for-\ngotten too\n[Cm]The road keeps\nmoving the clouds\n[Bm]The clouds be-\ncome unreal\n[G]I guess I'll always\nbe at home\n[Bb]Do you\nwant me to\n\n[Chorus]\n[Cm]try?\n[G]\n[Bb]Directing your\n[Cm]night\n[G]\n[Bb]\n\n[Verse 2]\n[Cm]An exit\nlights the sky\n[Bm]The sky be-\ncomes complete\n[G]Travelling hearts di-\nvine the throne\n[Bb]I've for-\ngotten too\n[Cm]Friction,\nlines, bumps\n[Bm]The highway\nsong complete\n[G]The signs are all\nturning right\n[Bb]Do you\nwant me to\n\n[Chorus]\n[Cm]try?\n[G]\n[Bb]Directing your\n[Cm]night\n[G]\n[Bb]Want me to\n[Cm]try\n[G]\n[Bb]Directing your\n[Cm]LIFE\n[G]\n[Bb]\n\n[Interlude]\n[Cm]\n[G]\n[Bb]\n[Cm]\n[G]\n[Bb]\n\n[Bridge]\n[Cm]\n\n[Chorus]\n[Cm]The purest forms\n[G]of life\nOur days are ne\n[Bb]ver coming back\n[Cm]The cannons of\n[G]our time\nOur days are ne\n[Bb]ver coming back\n[Cm]The purest forms\n[G]of life\nOur days are ne\n[Bb]ver coming back\n[Cm]The cannons of\n[G]our time Our\ndays are never e\n[Bb]ver coming back\n\n[Interlude]\n[Cm]\n[G]\n[Bb]\n[Cm]\n[G]\nOur days are ne\n[Bb]ver coming back\n[Cm]\n[G]\nOur days are ne\n[Bb]ver coming back\n[Cm]\n[G]\nOur days are ne\n[Bb]ver coming back\n[Cm]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x32010",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x46654",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "000231",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "x02220",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Highway song *alt 2",
+  "id": "e618465635a7769f13c32d980214ae027cba466b652f350259b5e34da4961d16",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 204,
+  "normalizedKey": "system of a down|highway song",
+  "playableChords": [
+    "Cm",
+    "Bm",
+    "G",
+    "Bb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Interlude"
+    },
+    {
+      "measure": 77,
+      "name": "Bridge"
+    },
+    {
+      "measure": 83,
+      "name": "Chorus"
+    },
+    {
+      "measure": 99,
+      "name": "Interlude"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e618465635a7769f13c32d980214ae027cba466b652f350259b5e34da4961d16",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Highway song",
+  "tuning": "C G C F A D",
+  "variantRole": "alt"
+}

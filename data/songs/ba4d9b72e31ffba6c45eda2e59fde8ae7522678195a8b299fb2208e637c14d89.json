@@ -1,0 +1,98 @@
+{
+  "artist": "Stevie Ray Vaughan & Double Trouble",
+  "artistNormalized": "stevie ray vaughan double trouble",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\nThe sky is\n[B7]cryin....\n[E9]Can't you see the tears roll down the\n[B7]street\nThe sky is\n[E9]cryin....\nCan't you see the tears roll down the street\n[B7]\n[Gb9]I've been lookin' for my baby yeah\n[E9]And I wonder where can\n[B7]she be\n[Gb7]I saw\n\n[Verse 2]\n[B7]my baby early one morning\n[E9]She was walkin' on down the\n[B7]street\nI saw my\n[E9]baby early this morning\nShe was walkin' on down the\n[B7]street\nYou know it\n[Gb9]hurt me, hurt me so bad\n[E9]Made my poor heart skip a\n[B7]beat\n[Gb7]\n\n[Solo]\n[B7]\n[E9]\n[B7]\n[E9]\n[B7]\n[Gb9]\n[E9]\n[B7]\n[Gb7]\n[B7]\n[E9]\n[B7]\n[E9]\n[B7]\n[Gb9]\n[E9]\n[B7]\n[Gb9]I've got a\n\n[Verse 3]\n[B7]real real real real bad feelin'\n[E9]That my baby, she don't love me no\n[B7]more\nI've got a\n[E9]real real bad feelin'\nThat my baby don't love me no\n[B7]more\nYou know the\n[Gb9]sky's the sky's been crying\n[E9]Can you see the tears roll down my\n[B7]nose [E9]\n[B7]  [C9]  [B9]",
+  "diagrams": {
+    "B7": {
+      "catalog": [
+        "x35353",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "B9": {
+      "catalog": [
+        "x32333"
+      ],
+      "catalogCount": 1
+    },
+    "C9": {
+      "catalog": [
+        "x43444"
+      ],
+      "catalogCount": 1
+    },
+    "E9": {
+      "catalog": [
+        "131213"
+      ],
+      "catalogCount": 1
+    },
+    "Gb7": {
+      "catalog": [
+        "353433",
+        "2-4-2-3-2-2",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "Gb9": {
+      "catalog": [
+        "353435"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Sky Is Crying",
+  "id": "ba4d9b72e31ffba6c45eda2e59fde8ae7522678195a8b299fb2208e637c14d89",
+  "key": "C♭",
+  "keyIdentified": true,
+  "lyricEventCount": 152,
+  "normalizedKey": "stevie ray vaughan double trouble|the sky is crying",
+  "playableChords": [
+    "B7",
+    "E9",
+    "Gb9",
+    "Gb7",
+    "C9",
+    "B9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Solo"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ba4d9b72e31ffba6c45eda2e59fde8ae7522678195a8b299fb2208e637c14d89",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "The Sky Is Crying",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

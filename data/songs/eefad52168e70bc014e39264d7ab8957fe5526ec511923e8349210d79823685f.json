@@ -1,0 +1,119 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\n[B7]In spite of all the\n\n[Verse 1]\n[E]danger\nIn spite of all that\nmay be\n[E7]I'll do anything for\n[A]you Anything you want me\n[B]to If you'll be true to\n[E]me [A]\n[E]In spite of all the\n\n[Verse 2]\n[E]heartache\nThat you may\ncause me\n[E7]I'll do anything for\n[A]you Anything you want me\n[B]to If you'll be true to\n[E]me [A]\n[E]I'll\n\n[Chorus]\n[A]look after\nyou Like I've\n[E]never done be-\n[E7]fore I'll\n[A]keep all the\nothers From\n[B]knocking at your\n[B7]door In spite of all the\n\n[Verse 3]\n[E]danger\nIn spite of all that\nmay be\n[E7]I'll do anything for\n[A]you Anything you want me\n[B]to If you'll be true to\n[E]me [A]\n[E]\n\n[Guitar Solo]\n[E]\n[E7]\n[A]\n[E]\n[B]\n[A]\n[E]\n[B7]In spite of all the\n\n[Verse 4]\n[E]heartache\nThat you may cause\nme\n[E7]I'll do anything for\n[A]you Anything you want me\n[B]to If you'll be true to\n[E]me [A]\n[E]I'll do anything for\n\n[Outro]\n[A]you Anything you want me\n[B]to If you'll be true to\n[E]me [A]\n[E]  [B]  [E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "In spite of all the danger",
+  "id": "eefad52168e70bc014e39264d7ab8957fe5526ec511923e8349210d79823685f",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 168,
+  "normalizedKey": "the beatles|in spite of all the danger",
+  "playableChords": [
+    "E",
+    "B7",
+    "E7",
+    "A",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 36,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 48,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 56,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "eefad52168e70bc014e39264d7ab8957fe5526ec511923e8349210d79823685f",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "In spite of all the danger",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

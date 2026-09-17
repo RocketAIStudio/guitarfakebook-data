@@ -1,0 +1,122 @@
+{
+  "artist": "Snail Mail",
+  "artistNormalized": "snail mail",
+  "capo": "2",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Emadd9]\n[F#m7]\n[Gsus2]\n[Aadd11]\n[Gsus2]\n\n[Pre-Verse]\n[Emadd9]\n[F#m7]\n[Gsus2]\n[Aadd11]\n[Gsus2]\n\n[Verse 1]\n[Emadd9]Oh,\ndon't see\n[F#m7]ya now\n[Gsus2]Wait,\ndon't [Aadd11]just gi-\n[Gsus2]ve out\n[Emadd9]Mo-\nve from your\n[F#m7]old house\n[Gsus2]This city\ncan [Aadd11]be so\n[Gsus2]loud\n\n[Chorus]\n[Aadd11]Say\nwhat you\n[Gsus2]gotta\n[Aadd11]Sleep\nin some-\n[Gsus2]how\n\n[Pre-Verse]\n[Emadd9]\n[F#m7]\n[Gsus2]\n[Bm7]\n[Aadd11]\n\n[Verse 2]\n[Emadd9]Lose sight\nof Wherever you\n[F#m7]are\nDo you know\n[Gsus2]when\nYou've gone [Aadd11]too far?\n[Gsus2]\nIf it's\n[Emadd9]all\nash and dust\n[F#m7]\nWell, then I\n[Emadd9]won't let You to take\n[Bm7]me for a ri-\n[Aadd11]de\n\n[Chorus]\n[Aadd11]Say\nwhat you\n[Gsus2]gotta\n[Aadd11]Sleep\nin some\n[Gsus2]how\n[Aadd11]Leave\nthings on\n[Gsus2]Speaking\nterms\n[Aadd11]And\nI'll see you aro-\n\n[Bridge]\n[Emadd9]und\n[F#m7]\n[Emadd9]\n[Bm7]\n[D]\n[Aadd11]It's all\n[Emadd9]\nash and dust\n[F#m7]\nAnd I\n[Emadd9]won't let You take\n[Bm7]me for a ride\n[D]\n[Aadd11]And it's all\n[Emadd9]\nover us\n[F#m7]\nAnd still I\n[Emadd9]won't let You take\n[Bm7]me for a ride\n[D]\n[Aadd11]hoo,\n[Emadd9]hoo,\nhoo, hoo,\nHoo,\nhoo.\n[Bm7]\nhoo.\n[Aadd11]\n\n[Outro]\n[Emadd9]\n[F#m7]\n[Gsus2]\n[Aadd11]\n[Gsus2]",
+  "diagrams": {
+    "Aadd11": {
+      "catalog": [
+        "x00220"
+      ],
+      "catalogCount": 1
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Emadd9": {
+      "catalog": [
+        "022002"
+      ],
+      "catalogCount": 1
+    },
+    "F#m7": {
+      "catalog": [
+        "244252",
+        "2-4-2-2-2-2",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus2": {
+      "catalog": [
+        "300233"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Speaking Terms",
+  "id": "d3e82cd24511e016a4ed82309c2a3e4161d0c0a92a808dc66ff121383537b6a2",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 130,
+  "normalizedKey": "snail mail|speaking terms",
+  "playableChords": [
+    "Emadd9",
+    "F#m7",
+    "Gsus2",
+    "Aadd11",
+    "Bm7",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    },
+    {
+      "measure": 80,
+      "name": "Bridge"
+    },
+    {
+      "measure": 112,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d3e82cd24511e016a4ed82309c2a3e4161d0c0a92a808dc66ff121383537b6a2",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "Speaking Terms",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

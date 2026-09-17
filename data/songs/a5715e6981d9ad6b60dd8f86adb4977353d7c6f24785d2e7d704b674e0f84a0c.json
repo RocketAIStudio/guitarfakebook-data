@@ -1,0 +1,145 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E7]\nLittle child,\n\n[Chorus]\n[E7]little child\nLittle child,\nwon't you [A]dance with me?\n[E7]I'm\n[B7]so sad and\n[A]lonely\n[F#7]Baby take a chance with me\n[B7]Little child,\n\n[Chorus]\n[E7]little child\nLittle child,\nwon't you [A]dance with me?\n[E7]I'm\n[B7]so sad and\n[A]lonely\n[F#7]Baby take a [B7]chance with me\n[E]If you\n\n[Verse 1]\n[E]want someone To make you\n[B7]feel so fine Then we'll\n[E]have some fun When you're\n[E7]mine, all mine So come\n[F#7]on, come on, come\n[B7]on Little child,\n\n[Chorus]\n[E7]little child\nLittle child,\nwon't you [A]dance with me?\n[E7]I'm\n[B7]so sad and\n[A]lonely\n[F#7]Baby take a [B7]chance with me\n[E]\n\n[Interlude]\n[E7]\n[A]\n[E7]\n[B7]\n[A7]\n[F#7]\n[B7]When you're\n\n[Verse 2]\n[E]by my side You're the\n[B7]only one Don't you\n[E]run and hide Just come\n[E7]on, come on So come\n[F#7]on, come on, come\n[B7]on Little child,\n\n[Chorus]\n[E7]little child\nLittle child,\nwon't you [A]dance with me?\n[E7]I'm\n[B7]so sad and\n[A]lonely\n[F#7]Baby take a [B7]chance with me\n[E]Oh yeah [C#7]\n\n[Outro]\n[F#7]Baby take a [B7]chance with me\n[E]Oh yeah [C#7]\n[F#7]Baby take a [B7]chance with me\n[E]Oh yeah [C#7]\n[F#7]Baby take a [B7]chance with me\n[E]Oh yeah [C#7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#7": {
+      "catalog": [
+        "x46464",
+        "x-4-3-4-2-1",
+        "9-8-6-6-6-7",
+        "9-11-9-10-9-9",
+        "x-x-11-13-12-13"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Little Child",
+  "id": "a5715e6981d9ad6b60dd8f86adb4977353d7c6f24785d2e7d704b674e0f84a0c",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 193,
+  "normalizedKey": "the beatles|little child",
+  "playableChords": [
+    "E7",
+    "A",
+    "B7",
+    "F#7",
+    "E",
+    "A7",
+    "C#7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Interlude"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a5715e6981d9ad6b60dd8f86adb4977353d7c6f24785d2e7d704b674e0f84a0c",
+    "version": "BCFZ"
+  },
+  "tempo": 152,
+  "title": "Little Child",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

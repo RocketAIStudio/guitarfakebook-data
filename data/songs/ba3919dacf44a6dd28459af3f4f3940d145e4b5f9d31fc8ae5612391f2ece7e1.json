@@ -1,0 +1,162 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 38,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[A]  [E]\n[A]  [E]\nThere are\n\n[Verse 1]\n[A]places I [E]re-\nmember [F#m][A7/G]All my\nlife, [D][Dm]though\nsome [A]have changed Some for-\n[A]ever not [E]for\nbetter [F#m][A7/G]Some have\ngone [D][Dm]and\nsome [A]remain All these\n\n[Chorus]\n[F#m]places had their mo-\n[D]ments With\n[G]lovers and friends I\n[A]still can recall Some are\n[F#m]dead and some are\n[B5]living In\nmy life [D5]I've\nloved them [A]all\n[E]\nBut of\n\n[Verse 2]\nall [A]these friends [E]and\nlovers [F#m][A7/G]There is\nno [D]one [Dm]com-\npares [A]with you And these\nmemories lose [E]their\nmeaning [F#m][A7/G]When I\nthink [D]of love as\n[A]something new Though I\n\n[Chorus]\n[F#m]know I'll never lose\n[D]affection For\n[G]people and things that\n[A]went before I\n[F#m]know I'll often stop and think a-\n[B5]bout them In\nmy [D5]life I\nlove you [A]more\n\n[Solo]\n[A]  [E]\n[F#m]  [A7/G]\n[D]  [Dm]\n[A]\n[E]\n[F#m]  [A7/G]\n[D]  [Dm]\n[A]Though I\n\n[Chorus]\n[F#m]know I'll never lose\n[D]affection For\n[G]people and things that\n[A]went before I\n[F#m]know I'll often stop and think a-\n[B5]bout them In\nmy [D5]life I\nlove you [A]more\n\n[Outro]\n[A]  [E]\nIn\n[Dm]my life I\nlove you\n[A]more [E]\n[E7]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "57765x",
+        "5776xx",
+        "x02220",
+        "5-4-2-2-2-5"
+      ],
+      "catalogCount": 5
+    },
+    "A7/G": {
+      "catalog": [
+        "302020"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "x5777x",
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "x5776x",
+        "x5323x",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "0221xx",
+        "02210x",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "xx213x",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "24422x",
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "3554xx",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "In My Life",
+  "id": "ba3919dacf44a6dd28459af3f4f3940d145e4b5f9d31fc8ae5612391f2ece7e1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 175,
+  "normalizedKey": "the beatles|in my life",
+  "playableChords": [
+    "A",
+    "E",
+    "F#m",
+    "A7/G",
+    "D",
+    "Dm",
+    "G",
+    "B5",
+    "D5",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Solo"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ba3919dacf44a6dd28459af3f4f3940d145e4b5f9d31fc8ae5612391f2ece7e1",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "In My Life",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

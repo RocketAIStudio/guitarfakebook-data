@@ -1,0 +1,106 @@
+{
+  "artist": "Stevie Ray Vaughan",
+  "artistNormalized": "stevie ray vaughan",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F#7]\n[B7]\n[F#7]\n[C#7]\n[F#7]\n[B7]\n[F#7]\n[B7]\n[F#7]\n[C#7]\n[B7]\n[F#7]  [B7]\n[F#7][C#7]Well there's\n\n[Verse 1]\n[F#7]floodin' down in Texas\n[B7]All of the telephone lines are down\n[F#7]\nWell there's\n[B7]floodin' down in Texas\nAll of the telephone lines are down\n[F#7]\nAnd I've been\n[C#7]tryin' to call my baby\n[B7]Lord and I can't get a single sound\n[F#7]  [B7]\n[F#7][C#7]Well dark\n\n[Verse 2]\n[F#7]clouds are rollin'\n[B7]Man I'm standin' out in the rain\n[F#7]\nWell dark\n[B7]clouds are rollin'\nMan I'm standin' out in the rain\n[F#7]\nYeah flood\n[C#7]water keep a rollin'\n[B7]Man it's about to drive poor me insane\n[F#7]  [B7]\n[F#7]  [C#7]\n\n[Solo]\n[F#7]\n[B7]\n[F#7]\n[B7]\n[F#7]\n[C#7]\n[B7]\n[F#7]  [B7]\n[F#7]  [C#7]\n[F#7]\n[B7]\n[F#7]\n[B7]\n[F#7]\n[C#7]\n[B7]\n[F#7]  [B7]\n[F#7][C#7]Well I'm\n\n[Verse 3]\n[F#7]leavin' you baby\n[B7]Lord and I'm goin' back home to stay\n[F#7]\nWell I'm\n[B7]leavin' you baby\nLord and I'm goin' back home to stay\n[F#7]\nWell back\nhome are no floods or tornados [C#9][C9]\n[B9]Baby and the sun shines every-\nday [F#7]\n[F#7]",
+  "diagrams": {
+    "B7": {
+      "catalog": [
+        "x35353",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "B9": {
+      "catalog": [
+        "x32333"
+      ],
+      "catalogCount": 1
+    },
+    "C#7": {
+      "catalog": [
+        "x5453x",
+        "x-4-3-4-2-1",
+        "x-4-6-4-6-4",
+        "9-8-6-6-6-7",
+        "9-11-9-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#9": {
+      "catalog": [
+        "x54555"
+      ],
+      "catalogCount": 1
+    },
+    "C9": {
+      "catalog": [
+        "x43444"
+      ],
+      "catalogCount": 1
+    },
+    "F#7": {
+      "catalog": [
+        "353433",
+        "2-4-2-3-2-2",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Texas Flood",
+  "id": "3907a59505d8a8610e3fd3b9b8cc520e9d030d9e58ccdf4c7cafac695074d3a7",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 156,
+  "normalizedKey": "stevie ray vaughan|texas flood",
+  "playableChords": [
+    "F#7",
+    "B7",
+    "C#7",
+    "C#9",
+    "C9",
+    "B9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Solo"
+    },
+    {
+      "measure": 66,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3907a59505d8a8610e3fd3b9b8cc520e9d030d9e58ccdf4c7cafac695074d3a7",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "Texas Flood",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

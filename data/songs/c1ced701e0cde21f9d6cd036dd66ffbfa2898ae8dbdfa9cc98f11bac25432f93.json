@@ -1,0 +1,155 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 37,
+  "chordSymbolCount": 9,
+  "content": "[Verse 1]\n[Am]I told you about\n[F7]strawberry fields\n[Am]You know the place where\n[F7]nothing is real\n[Am]Well here's another\n[Gm7]place you can go\n[C7]Where\n[Gm7]everything flows.\n[C7]Lo-\n\n[Chorus]\n[F7]oking through the bentbacked tul-\n[D7]ips To see\n[F7]how the other half li-\n[D7]ve Lo-\n[F7]oking through a glass onion.\n[G]\n\n[Verse 2]\n[Am]I told you about the\n[F7]walrus and me, man\n[Am]You know that we're as\n[F7]close as can be, man\n[Am]Well here's another\n[Gm7]clue for you all\n[C7]The\n[Gm7]walrus was Paul.\n[C7]Stan-\n\n[Chorus]\n[F7]ding on the cast iron shore, yeah\n[D7]La-\n[F7]dy Madonna trying to make ends meet,\n[D7]yeah Lo-\n[F7]oking through the glass onion\n[G]\n\n[Bridge]\n[Am]\nOh yeah,\n[F/A]\noh\n[D7/A]yeah,\noh\n[Am7]yeah\n[F7]Looking through the glass oni-\n[G]on.\n\n[Verse 3]\n[Am]I told you about the\n[F7]fool on the hill\n[Am]I tell you man he's\n[F7]living there still\n[Am]Well here's another\n[Gm7]place you can be\n[C7]\n[Gm7]Listen to me.\n[C7]Fix-\n\n[Chorus]\n[F7]ing a hole in the o-\n[D7]cean Trying\n[F7]to make a dovetail joint,\n[D7]yeah Lo-\n[F7]oking through a glass onion.\n[G]\n\n[Outro]\n[F7]\n[D7]\n[F7]\n[D7]\n[F7]\n[D7]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02213",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7/A": {
+      "catalog": [
+        "x00212"
+      ],
+      "catalogCount": 1
+    },
+    "F/A": {
+      "catalog": [
+        "x03211"
+      ],
+      "catalogCount": 1
+    },
+    "F7": {
+      "catalog": [
+        "131211",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gm7": {
+      "catalog": [
+        "353333",
+        "x-x-5-7-6-6",
+        "x-10-12-10-11-10",
+        "15-17-15-15-15-15",
+        "x-22-24-22-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Glass Onion",
+  "id": "c1ced701e0cde21f9d6cd036dd66ffbfa2898ae8dbdfa9cc98f11bac25432f93",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 191,
+  "normalizedKey": "the beatles|glass onion",
+  "playableChords": [
+    "Am",
+    "F7",
+    "Gm7",
+    "C7",
+    "D7",
+    "G",
+    "F/A",
+    "D7/A",
+    "Am7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c1ced701e0cde21f9d6cd036dd66ffbfa2898ae8dbdfa9cc98f11bac25432f93",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Glass Onion",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

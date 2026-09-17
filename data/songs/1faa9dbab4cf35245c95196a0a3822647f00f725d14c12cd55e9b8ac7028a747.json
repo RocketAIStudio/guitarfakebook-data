@@ -1,0 +1,145 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\nOh\n[D]yeah, oh\n[A]yeah Oh\n[D]yeah, oh\n[A]yeah I-\n\n[Verse 1]\n[D]magine I'm in\nlove with you It's\n[G]easy cos I\n[A7]know I've i-\n[D]magined I'm in\n[Bm]love with you\n[G]Many, many, many times be-\n[A7]fore It's not\n\n[Chorus]\n[D]like me to pre-\n[Am7]tend But I'll\n[D]get you, I'll get you in the\n[Bm]end Yes I\n[G]will, I'll get you in the\n[A7]end Oh\n[D]yeah, oh\n[A]yeah I\n\n[Verse 2]\n[D]think about you\nnight and day I\n[G]need you and it's\n[A7]true When I\n[D]think about you,\n[Bm]I can say I'm\n[G]never, never, never, ne ver\n[A7]blue So I'm\n\n[Chorus]\n[D]telling you, my\n[Am7]friend That I'll\n[D]get you, I'll get you in the\n[Bm]end Yes I\n[G]will, I'll get you in the\n[A7]end Oh\n[D]yeah, oh\n[A]yeah Well, there's\n\n[Bridge]\n[G]gonna be a\ntime When I'm\n[D]gonna change your\nmind So you\n[E7]might as well re-\nsign yourself to\n[A7]me Oh\nyeah I-\n\n[Verse 3]\n[D]magine I'm in\nlove with you It's\n[G]easy cos I\n[A7]know I've i-\n[D]magined I'm in\n[Bm]love with you\n[G]Many, many, many times be-\n[A7]fore It's not\n\n[Chorus]\n[D]like me to pre-\n[Am7]tend But I'll\n[D]get you, I'll get you in the\n[Bm]end Yes I\n[G]will, I'll get you in the\n[A7]end Oh\n\n[Outro]\n[D]yeah, oh\n[A]yeah Whoa\n[D]yeah",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I'll Get You",
+  "id": "1faa9dbab4cf35245c95196a0a3822647f00f725d14c12cd55e9b8ac7028a747",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 225,
+  "normalizedKey": "the beatles|i ll get you",
+  "playableChords": [
+    "D",
+    "A",
+    "G",
+    "A7",
+    "Bm",
+    "Am7",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Bridge"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1faa9dbab4cf35245c95196a0a3822647f00f725d14c12cd55e9b8ac7028a747",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "I'll Get You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

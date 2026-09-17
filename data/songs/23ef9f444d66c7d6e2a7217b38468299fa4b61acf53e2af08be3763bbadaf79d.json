@@ -1,0 +1,101 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[D7]\n[G7]\n[D7]\n[G7]\n[A7]\n[D7]\nWell gonna\n\n[Verse 1]\n[D7]write a little letter Gonna\n[G7]mail it to my local D. J.\n[D7]\nIt's a\n[G7]rocking little record I want\nmy jockey to play\n[D7]\nRoll o-\n[G7]ver Beethoven Gotta\n[A7]hear it again today\n[D7]\nYou know my\n\n[Verse 2]\n[D7]temperature's risng And the\n[G7]jukebox blows a fuse\n[D7]\nMy\n[G7]heart beating rhythm While my\nsoul keeps singing the blues\n[D7]\nRoll o-\n[G7]ver Beethoven And\n[A7]tell Tchaikovsky the news\n[D7]\nI got a\n\n[Verse 3]\n[D7]rocking pneumonia I\n[G7]need a shot of rhythm and blues\n[D7]\nI think I\n[G7]caught it off the writer Sittin'\ndown by the rhythm reviews\n[D7]\nRoll o-\n[G7]ver Beethoven We're\n[A7]rockin' in two by two\n[D7]\nWell if you\n\n[Bridge]\n[D7]feel it and like it\nWell get your lover and\nreel and rock it\nRoll it over and\n[G7]move on up Just\ntriffle further and\n[D7]reel and rock it\nRoll it over Roll o-\n[G7]ver Beethoven A\n[A7]rocking in two by two\n[D7]Oh\n\n[Solo]\n[D7]\n[G7]\n[D7]\n[G7]\n[D7]\n[G7]\n[A7]\n[D7]\n\n[Verse 4]\n[D7]Well early in the morning I'm a\n[G7]giving you the warning Don't you\n[D7]step on my blue suede\nshoes\n[G7]Hey diddle diddle I'll\nplay my fiddle\n[D7]Ain't got nothing to lose\nRoll o-\n[G7]ver Beethoven And\n[A7]tell Tchaikovsky the news\n[D7]\nYou know she\n\n[Verse 5]\n[D7]wiggles like a glow worm\n[G7]Dance like a spinning\n[D7]top\nShe's got a\n[G7]crazy partner Ought a\nsee them reel an rock\n[D7]\nLong as\n[G7]she's got a dime The\n[A7]music will never stop\n[D7]\nRoll over Bee-\n\n[Outro]\n[D7]thoven\nRoll over Bee-\nthoven\nRoll over Bee-\n[G7]thoven\nRoll over Bee-\n[D7]thoven\nRoll over Bee-\n[A7]thoven Dig to these\nrhythm and blues\n[D7]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x-12-14-12-14-12",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "10-12-10-11-10-x",
+        "x-x-0-2-1-2",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "x-10-12-10-12-10",
+        "3-2-0-0-0-1",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Roll Over Beethoven *alt",
+  "id": "23ef9f444d66c7d6e2a7217b38468299fa4b61acf53e2af08be3763bbadaf79d",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 320,
+  "normalizedKey": "the beatles|roll over beethoven",
+  "playableChords": [
+    "D7",
+    "G7",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Bridge"
+    },
+    {
+      "measure": 62,
+      "name": "Solo"
+    },
+    {
+      "measure": 74,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 86,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 98,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "23ef9f444d66c7d6e2a7217b38468299fa4b61acf53e2af08be3763bbadaf79d",
+    "version": "BCFZ"
+  },
+  "tempo": 164,
+  "title": "Roll Over Beethoven",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

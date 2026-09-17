@@ -1,0 +1,132 @@
+{
+  "artist": "Stephen Day",
+  "artistNormalized": "stephen day",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[Verse 1]\n[Gb/Ab]Have you been out-\n[Dbmaj7]side lately? Those\n[Db7]leaves sure are changing Reminds\n[Ebm/Gb]me of that time we spent ho-\nurs carving faces Making\n[F7]jackolanterns light [Ab/Bb]up in the night\n[Bbm/G]It's an\n[Gbmaj7]image that's ingrained inside\nmy mind Well, that\n\n[Verse 2]\n[Dbmaj7]year spent waiting Walk-\n[Db7]ing empty pavement I\n[Ebm/Gb]got by just fine Didn't no-\ntice what was vacant Now the\n[F7]falling leaves that [Ab/Bb]echo out your name\n[Bbm/G]\n[Gbmaj7]Fill the space of you the same\nI'm still\n\n[Chorus]\n[Dbmaj7]falling out of love\n[Db7]with you\n[Gbmaj7]\nAnd I'm\n[Dbmaj7]heading for the door\n[Db7]Not sur if I'll\n[Gbmaj7]go through\nMemories, they\n[F7]take so long [Ab/Bb]to e-\n[Bbm/G]rase Will they\n[Gbmaj7]ever even start\nto\n\n[Bridge]\n[Dbmaj7]fade?\n[Db7]\n[Gbmaj7]\n[Dbmaj7]\n[Db7]\n[Gbmaj7]\nWhen the nights\n\n[Verse 3]\n[Dbmaj7]get cold Some-\n[Db7]times when I look over I\n[Gbmaj7]see you by a fire with your hands\nout in the open And I\n[F7]wonder if you're [Ab/Bb]singing autumn's song\n[Bbm/G]Or\n[Gbmaj7]if I'm singing all alone\n[F7]I must be [Ab/Bb]singing on my own\n[Bbm/G]\n[Gbmaj7]\nI'm still\n\n[Chorus]\n[Dbmaj7]falling out of love\n[Db7]with you\n[Gbmaj7]\nAnd I'm\n[Dbmaj7]heading for the door\n[Db7]Not sur if I'll\n[Gbmaj7]go through\nMemories, they\n[F7]take so long [Ab/Bb]to e-\n[Bbm/G]rase Will they\n[Gbmaj7]ever even start\nto\n\n[Outro]\n[Dbmaj7]fade?\n[Db7]I'm on my way\n[Gbmaj7]\n[Dbmaj7]\n[Db7]Just not today\n[Gbmaj7]",
+  "diagrams": {
+    "Ab/Bb": {
+      "catalog": [
+        "x2x220"
+      ],
+      "catalogCount": 1
+    },
+    "Bbm/G": {
+      "catalog": [
+        "4x443x"
+      ],
+      "catalogCount": 1
+    },
+    "Db7": {
+      "catalog": [
+        "xx0212",
+        "x-4-3-4-2-1",
+        "x-4-6-4-6-4",
+        "9-8-6-6-6-7",
+        "9-11-9-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Dbmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-4-3-1-1-1",
+        "x-4-6-5-6-4",
+        "9-8-6-6-6-8",
+        "9-11-10-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Ebm/Gb": {
+      "catalog": [
+        "3xx000"
+      ],
+      "catalogCount": 1
+    },
+    "F7": {
+      "catalog": [
+        "242322",
+        "1-3-1-2-1-1",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "Gb/Ab": {
+      "catalog": [
+        "x0543x"
+      ],
+      "catalogCount": 1
+    },
+    "Gbmaj7": {
+      "catalog": [
+        "3x443x",
+        "2-4-3-3-2-2",
+        "x-x-4-6-6-6",
+        "x-9-8-6-6-6",
+        "x-9-11-10-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Autumn's Song",
+  "id": "42c75588018d164e69eb853c2259eb020df15a89bcfad8832fcc102d36646eb2",
+  "key": "D♭",
+  "keyIdentified": true,
+  "lyricEventCount": 235,
+  "normalizedKey": "stephen day|autumn s song",
+  "playableChords": [
+    "Gb/Ab",
+    "Dbmaj7",
+    "Db7",
+    "Ebm/Gb",
+    "F7",
+    "Ab/Bb",
+    "Bbm/G",
+    "Gbmaj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Bridge"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "42c75588018d164e69eb853c2259eb020df15a89bcfad8832fcc102d36646eb2",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "Autumn's Song",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

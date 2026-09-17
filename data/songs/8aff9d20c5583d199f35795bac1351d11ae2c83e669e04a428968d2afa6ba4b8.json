@@ -1,0 +1,107 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\nA\n\n[Verse 1]\n[C7]bad little kid moved\ninto my neighborhood\nHe\nwon't do nothing right just\nsitting down and looks so good\nHe\n[F7]don't want to go to school\nand learn to read and write\nJust\n[C7]sits around the house and plays the\nrock and roll music all night\nWell, he\n[G]put some tacks on teachers chair\n[F]Puts chewing gum in little girl's hair\n[C7]Hey, junior, be-\nhave yourself [G]\n\n[Verse 2]\n[C7]Buys every rock and roll\nbook on the magazine\nstand\nEvery\ndime that he get is\nlost to the jukebox man\nWell he\n[F7]worries his teacher till at\nnight she's ready to poop\nFrom\n[C7]rocking and arolling\nspinning in a hula\nhoop\nWell this\n[G]rock and roll has got to stop\n[F]Junior's head is hard as rock\n[C7]Now, junior, be-\nhave yourself [G]\n\n[Interlude]\n[C7]\n[F7]\n[C7]\n[G]\n[F]\n[C7]\n[G]\n\n[Verse 3]\n[C7]Going tell your mama you\nbetter do what she said\nGet\nto the barber shop and get that\nhair cut off your head\n[F7]Threw the canary and you\nfed it to the neighbors cat\nYou\n[C7]gave the cocker spaniel a\nbath in mother's laundramat\nWell,\n[G]mama's head has got to stop\n[F]Junior's head is hard as rock\n[C7]Now, junior, be-\nhave yourself [C]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "131211",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bad Boy *alt",
+  "id": "8aff9d20c5583d199f35795bac1351d11ae2c83e669e04a428968d2afa6ba4b8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 234,
+  "normalizedKey": "the beatles|bad boy",
+  "playableChords": [
+    "C",
+    "C7",
+    "F7",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8aff9d20c5583d199f35795bac1351d11ae2c83e669e04a428968d2afa6ba4b8",
+    "version": "BCFZ"
+  },
+  "tempo": 138,
+  "title": "Bad Boy",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

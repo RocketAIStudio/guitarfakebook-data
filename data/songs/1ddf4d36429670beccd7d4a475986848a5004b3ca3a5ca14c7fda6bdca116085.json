@@ -1,0 +1,130 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[G#7b9/E]\nWhenever I\n\n[Verse 1]\n[C#m]\nwant you a-\n[E]round, yeah.\nAll I gotta\n[C#m]do,\nIs\n\n[Chorus]\n[F#m]call you on the phone, And\nyou'll come running home, Yeah,\n[Am]that's all I\n[E]gotta do.\nAnd when I,\n\n[Verse 2]\n[C#m]\nI wanna\n[E]kiss you, yeah.\nAll I gotta\n[C#m]do,\nIs\n\n[Chorus]\n[F#m]whisper in your ear The\nwords you long to hear, And\n[Am]I'll be\n[E]kissing you.\nAnd the same goes for\n\n[Bridge]\n[A]me, Whenever you\nwant me at all. I'll be\n[C#m]here, yes I will, when-\never you call. You\n[A]just gotta call on me,\n[E]yeah, You\n[A]just gotta call on me.\n[E]\nAnd when I,\n\n[Verse 3]\n[C#m]\nI wanna\n[E]kiss you, yeah.\nAll I gotta\n[C#m]do,\nIs\n\n[Chorus]\n[F#m]call you on the phone, And\nyou'll come running home, Yeah,\n[Am]that's all I\n[E]gotta do.\nAnd the same goes for\n\n[Bridge]\n[A]me, Whenever you\nwant me at all. I'll be\n[C#m]here, yes I will, when-\never you call. You\n[A]just gotta call on me,\n[E]yeah, You\n[A]just gotta call on me,\n[E]oh, You\n[A]just gotta call on me.\n[E]\nMmmm-\n\n[Outro]\n[C#m]m....\n[E]\n[C#m]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#7b9/E": {
+      "catalog": [
+        "x76575"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "All I've Got To Do *alt",
+  "id": "1ddf4d36429670beccd7d4a475986848a5004b3ca3a5ca14c7fda6bdca116085",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 191,
+  "normalizedKey": "the beatles|all i ve got to do",
+  "playableChords": [
+    "G#7b9/E",
+    "C#m",
+    "E",
+    "F#m",
+    "Am",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 56,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1ddf4d36429670beccd7d4a475986848a5004b3ca3a5ca14c7fda6bdca116085",
+    "version": "BCFZ"
+  },
+  "tempo": 119,
+  "title": "All I've Got To Do",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

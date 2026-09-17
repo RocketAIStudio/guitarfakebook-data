@@ -1,0 +1,104 @@
+{
+  "artist": "Staind",
+  "artistNormalized": "staind",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\nIf you just\n[E]walked a-\nway What could I\n[Asus2]really\nsay? Would it matter\n[C#m7]anyway?\nWould it change how you feel?\n[Asus2]\nI am the\n\n[Verse 2]\n[E]mess you\nchose The closet you\n[Asus2]cannot\nclose The devil in you\n[C#m7]I suppose\nCause the wounds never heal\n[Asus2]\n\n[Chorus]\n[E]But everything chan-\nges If I could\n[Asus2]Turn back the years\nIf you could\n[C#m7]Learn to forgive\nme Then I could\n[Asus2]learn to\nfeel Sometimes the\n\n[Verse 3]\n[E]things I\nsay In moments of\n[Asus2]disar-\nray Succumbing to the\n[C#m7]games we play\nTo make sure that it's real\n[Asus2]\n\n[Chorus]\n[E]But everything chan-\nges If I could\n[Asus2]Turn back the years\nIf you could\n[C#m7]Learn to forgive\nme Then I could\n[Asus2]learn to\nfeel\n\n[Solo]\n[C#m7]\n[Asus2]\n[E]\n[Bsus4]\n[C#m7]\n[Asus2]\n[E]\n[Bsus4]\n[Asus2]\n\n[Bridge]\nWhen it's just\n[E]me and\nyou Who knows what\n[Asus2]we could\ndo If we can just\n[C#m7]make it through\nThe toughest part of the day\n[Asus2]\n\n[Chorus]\n[E]But everything chan-\nges If I could\n[Asus2]Turn back the years\nIf you could\n[C#m7]Learn to forgive\nme Then I could\n[Asus2]Learn how to feel\nThen we could\n[C#m7]Stay here toge-\nther And we could\n[Asus2]Conquer the world\nIf we could\n[C#m7]Say that fore-\nver Is more than\n[Asus2]just a\nword If you just\n\n[Outro]\n[E]walked a-\nway What could I\n[Asus2]really\nsay? And would it matter\n[C#m7]anyway?\nIt wouldn't change how you feel\n[Asus2]",
+  "diagrams": {
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "Bsus4": {
+      "catalog": [
+        "x24400"
+      ],
+      "catalogCount": 1
+    },
+    "C#m7": {
+      "catalog": [
+        "x46633",
+        "x-4-6-4-5-4",
+        "9-11-9-9-9-9",
+        "x-x-11-13-12-12",
+        "x-16-18-16-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Everything Changes",
+  "id": "54e2c024946e2bd587f3cbfb261594d02a7f5cf21a9738b7f993075109f63ab5",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 243,
+  "normalizedKey": "staind|everything changes",
+  "playableChords": [
+    "E",
+    "Asus2",
+    "C#m7",
+    "Bsus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Solo"
+    },
+    {
+      "measure": 51,
+      "name": "Bridge"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 76,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "54e2c024946e2bd587f3cbfb261594d02a7f5cf21a9738b7f993075109f63ab5",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Everything Changes",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

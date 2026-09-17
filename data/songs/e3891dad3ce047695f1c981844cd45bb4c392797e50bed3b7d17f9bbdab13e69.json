@@ -1,0 +1,133 @@
+{
+  "artist": "Stevie Wonder",
+  "artistNormalized": "stevie wonder",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C#m7]\n[F#9]\n[B9]\n[E]Isn't she\n\n[Verse 1]\n[C#m7]lovely\n[F#9]Isn't she\n[B9]wonderful\n[E]Isn't she\n[C#m7]precious\n[F#9]Less than one\n[B9]minute old\n[E]I never thought\n\n[Chorus]\n[Amaj7]through love we'd be\n[G#7b9][G#7]Making\n[C#m7]one as lovely as she\n[F#9]But isn't she\n[B9]lovely\n[B9]made from love\n[E]\n[E]Isn't she\n\n[Verse 2]\n[C#m7]pretty\n[F#9]Truly the\n[B9]angel's best\n[E]Boy, I'm so\n[C#m7]happy\n[F#9]We have been\n[B9]heaven blessed\n[E]I can't believe\n\n[Chorus]\n[Amaj7]what God has done\n[G#7b9][G#7]Through us\n[C#m7]he's given life to one\n[F#9]But isn't she\n[B9]lovely\n[B9]made from love\n[E]\n[E]\n\n[Harp solo 1]\n[C#m7]\n[F#9]\n[B9]\n[E]\n[C#m7]\n[F#9]\n[B9]\n[E]\n[Amaj7]\n[G#7b9]  [G#7]\n[C#m7]\n[F#9]\n[B9]\n[B9]\n[E]\n[E]Isn't she\n\n[Verse 3]\n[C#m7]lovely\n[F#9]Life and love\n[B9]are the same\n[E]Life is A-\n[C#m7]isha\n[F#9]The meaning\n[B9]of her name\n[E]Londie, it could\n\n[Chorus]\n[Amaj7]have not been done\n[G#7b9][G#7]With out\n[C#m7]you who conceived the one\n[F#9]That's so very\n[B9]lovely\n[B9]made from love\n[E]\n[E]\n\n[Harp solo 2]\n[C#m7]\n[F#9]\n[B9]\n[E]\n[C#m7]\n[F#9]\n[B9]\n[E]\n[Amaj7]\n[G#7b9]  [G#7]\n[C#m7]\n[F#9]\n[B9]\n[B9]\n[E]\n[E]\n\n[Harp solo 3 & fade]\n[C#m7]\n[F#9]\n[B9]\n[E]\n[C#m7]\n[F#9]\n[B9]\n[E]\n[Amaj7]\n[G#7b9]  [G#7]\n[C#m7]\n[F#9]\n[B9]\n[B9]\n[E]\n[E]",
+  "diagrams": {
+    "Amaj7": {
+      "catalog": [
+        "x02120",
+        "5-4-2-2-2-4",
+        "5-7-6-6-5-5",
+        "x-x-7-9-9-9",
+        "x-12-11-9-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "B9": {
+      "catalog": [
+        "x21222"
+      ],
+      "catalogCount": 1
+    },
+    "C#m7": {
+      "catalog": [
+        "x42424",
+        "x-4-6-4-5-4",
+        "9-11-9-9-9-9",
+        "x-x-11-13-12-12",
+        "x-16-18-16-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#9": {
+      "catalog": [
+        "24x324"
+      ],
+      "catalogCount": 1
+    },
+    "G#7": {
+      "catalog": [
+        "xx11x2"
+      ],
+      "catalogCount": 1
+    },
+    "G#7b9": {
+      "catalog": [
+        "xx4545"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Isn't She Lovely",
+  "id": "e3891dad3ce047695f1c981844cd45bb4c392797e50bed3b7d17f9bbdab13e69",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 141,
+  "normalizedKey": "stevie wonder|isn t she lovely",
+  "playableChords": [
+    "C#m7",
+    "F#9",
+    "B9",
+    "E",
+    "Amaj7",
+    "G#7b9",
+    "G#7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Harp solo 1"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Harp solo 2"
+    },
+    {
+      "measure": 85,
+      "name": "Harp solo 3 & fade"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e3891dad3ce047695f1c981844cd45bb4c392797e50bed3b7d17f9bbdab13e69",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Isn't She Lovely",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

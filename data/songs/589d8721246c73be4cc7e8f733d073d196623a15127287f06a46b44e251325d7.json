@@ -1,0 +1,122 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]  [A]\n[E]\n[D]  [A]\n[E]Well you should\n\n[Verse 1]\n[D]see [A]Polythene\n[E]Pam She's so good-\n[D]looking but she [A]looks like a man\n[E]Well you should\n[G]see her in drag dressed in her\n[B7]polythene bag Yes you should\n\n[Chorus]\n[C]see [D]Polythene\n[E]Pam\n[C]Yeah [D]yeah yeah\n[E]\n[D]  [A]\n[E]\n[D]  [A]\n[E]Get a\n\n[Verse 2]\n[D]dose of her in [A]jackboots and kilt\n[E]She's killer-\n[D]diller when she's [A]dressed to the hilt\n[E]She's the\n[G]kind of a girl that makes the\n[B7]\"News of the World\" Yes you could\n\n[Chorus]\n[C]say she was [D]attractively\n[E]built\n[C]Yeah [D]yeah yeah\n[E]\n[D]  [A]\n[E]\n[D]  [A]\n[E]\n\n[Solo]\n[D]  [A]\n[E]\n[D]  [A]\n[E]\n[D]  [A]\n[E]\n[D]  [A]\n[E]\n[D]  [A]\n[E]\n[D]  [A]\n[E]\n[D]  [A]\n[E]\n[D]  [A]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Polythene Pam",
+  "id": "589d8721246c73be4cc7e8f733d073d196623a15127287f06a46b44e251325d7",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 92,
+  "normalizedKey": "the beatles|polythene pam",
+  "playableChords": [
+    "D",
+    "A",
+    "E",
+    "G",
+    "B7",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "589d8721246c73be4cc7e8f733d073d196623a15127287f06a46b44e251325d7",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Polythene Pam",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

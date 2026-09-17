@@ -1,0 +1,111 @@
+{
+  "artist": "Sturgill Simpson",
+  "artistNormalized": "sturgill simpson",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\nIntroducing Metamodern Sounds in Country\nMusic I've seen\n\n[Verse 1]\n[E]Jesus play with flames In a lake of\nfire that I was standing\n[A]in\nMet the\n[B7]devil in Se attle And\nspent 9 months inside the lions\n[E]den\nMet\nBuddha yet another time\nAnd he showed me a glowing light with-\n[A]in\n[B7]But I swear that God is there Every\ntime I glare in the eyes of my best\n[E]friend\n\n[Chorus]\n[A]Says my son, \"It's all been done And\nsomeday you're gonna wake up old and\n[E]gray\nSo\n[A]go and try to have some fun\nShowing warmth to everyone You\nmeet and greet and cheat along the\n[B7]way\"\nThere's a\n\n[Verse 2]\n[E]gateway in our minds That leads somewhere\nout there, far beyond this\n[A]plane\nWhere\n[B7]reptile aliens made of light\nCut you open and pull out all your\n[E]pain\nTell me\nhow you make illegal\nSomething that we all make in our\n[A]brain\nSome\n[B7]say you might go crazy\nBut then again it might make you go\n[E]sane\n\n[Bridge]\n[A]Every time I take a look In-\nside that old and fabled book I'm\nblinded and reminded of The pain\ncaused by some old man in the\n[E]sky\n[A]Marijuana, LSD\nPsilocybin, and DMT\nThey all changed the way I see But love's\nthe only thing that ever saved my\n[B7]life\nSo don't\n\n[Verse 3]\n[E]waste your mind on nursery rhymes Or\nfairy tales of blood and wine It's\n[A]turtles all the [G#m]way down the\n[F#m]line So to\n\n[Outro]\n[A]each their own 'til we go home To\nother realms our souls must roam\nTo and through the myth that we\nall call\n[B7]space and\n[E]time",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Turtles All The Way Down",
+  "id": "c8a9ed3be834c027c559c1adf1bbf21d540377501202f90fa9cd000f30b5a6c0",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 325,
+  "normalizedKey": "sturgill simpson|turtles all the way down",
+  "playableChords": [
+    "E",
+    "A",
+    "B7",
+    "G#m",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 44,
+      "name": "Bridge"
+    },
+    {
+      "measure": 56,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 60,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c8a9ed3be834c027c559c1adf1bbf21d540377501202f90fa9cd000f30b5a6c0",
+    "version": "BCFZ"
+  },
+  "tempo": 91,
+  "title": "Turtles All The Way Down",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

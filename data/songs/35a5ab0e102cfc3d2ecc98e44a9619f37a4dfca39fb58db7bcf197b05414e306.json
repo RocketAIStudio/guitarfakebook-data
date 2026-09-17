@@ -1,0 +1,147 @@
+{
+  "artist": "The Beach Boys",
+  "artistNormalized": "the beach boys",
+  "capo": "No capo",
+  "chordPositionCount": 37,
+  "chordSymbolCount": 9,
+  "content": "[Verse 1]\n[Gm]Little bird up [F/G]in a tree Looked\n[Gm]down and sang a [F/G]song to me Of\n[Gm]how it began [F/G]\n[Bb]Na na na [F]na na na na\n[Bb]Na na na [F]na na na na\n[Bb]Na na na\n[Gm]The trout in the [F/G]shiny brook Gave the\n[Gm]worm another look And told me [F/G]not to worry About\n[Gm]my life [F/G]\n[C]Na na na [G]na na na na\n[C]Na na na [G]na na na na\n[C]Na na na\n[Gm]Tree in my [F/G]own backyard Stands\n[Gm]all alone Bears [F/G]fruit for me And it tastes\n[Gm]so good [F/G]\n\n[Pre-Chorus]\n[Bbm7]Where's my pretty bird [Eb/Bb]He\n[Bbm7]must have flown away [Eb/Bb]If\n[Bbm7]I keep singing He'll come back some-\n[Eb/Bb]day\n\n[Verse 2]\n[Gm]Dawn, [F/G]bird still gone\n[Gm]Guess I'll go [F/G]mow the low\n[Gm]\n[Bb]What a day, [F]what a day\n[Bb]Ooo, what a [F]baeutiful day this\n[Bb]is\n\n[Intrelude]\n[G]  [D]\n[G]  [D]\n[G]\n[Bb]  [F]\n[Bb]  [F]\n[Bb]\n\n[Chorus]\n[Gm]Little bird up in the tree Looked\n[F/G]down a sang a song to me\n[Gm]The trout in a shiny brook Gave the\n[F/G]worm another look And told me not to worry about\n[C]my life\n[G]\n\n[Outro]\n[C]Little bird looked down And sang a song\n[G]to me\n[C]Little bird looked down And sang a song\n[G]to me\n[C]Little bird looked down And sang a song\n[G]to me",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm7": {
+      "catalog": [
+        "x13121",
+        "6-8-6-6-6-6",
+        "x-x-8-10-9-9",
+        "x-13-15-13-14-13",
+        "18-20-18-18-18-18"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb/Bb": {
+      "catalog": [
+        "6x5343"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F/G": {
+      "catalog": [
+        "3x3211"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Little Bird",
+  "id": "35a5ab0e102cfc3d2ecc98e44a9619f37a4dfca39fb58db7bcf197b05414e306",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 216,
+  "normalizedKey": "the beach boys|little bird",
+  "playableChords": [
+    "Gm",
+    "F/G",
+    "Bb",
+    "F",
+    "C",
+    "G",
+    "Bbm7",
+    "Eb/Bb",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "35a5ab0e102cfc3d2ecc98e44a9619f37a4dfca39fb58db7bcf197b05414e306",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Little Bird",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

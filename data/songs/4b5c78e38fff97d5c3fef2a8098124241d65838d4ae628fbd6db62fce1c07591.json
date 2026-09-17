@@ -1,0 +1,85 @@
+{
+  "artist": "Sublime",
+  "artistNormalized": "sublime",
+  "capo": "1",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]\n[D]\n[G]\nBy the rivers of\n\n[Verse 1]\n[G]Babylon\nWhere he sat\ndown\nAnd there he\n[D]wept\nwhen he remembered\n[G]Zion\nOh from the wicked,\ncarry us away cap-\ntivity Re-\n[C]quired from us a song\n[G]\nHow can we sing king Al-\npha's song in a\n[D]strange land?\n[G]\nSo let the\n\n[Chorus]\nwords of our\n[D]mouth And the medi-\n[G]tations of our hearts\n[D]Be ac-\n[G]ceptable in thy\n[D]sight\nOverri-\n[G]de\n\n[Solo]\n[D]\n[G]\nBy the rivers of\n\n[Verse 2]\nBabylon\nWhere he sat\ndown\nAnd there he\n[D]wept\nwhen he remembered\n[G]Zion\nOh from the wicked,\ncarry us away cap-\ntivity Re-\n[C]quired from us a song\n[G]\nHow can we sing king Al-\npha's song in a\n[D]strange land?\n[G]\nHow can we sing king Al-\npha's song in a\n[D]strange\n[G]land?",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rivers of babylon",
+  "id": "4b5c78e38fff97d5c3fef2a8098124241d65838d4ae628fbd6db62fce1c07591",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 149,
+  "normalizedKey": "sublime|rivers of babylon",
+  "playableChords": [
+    "G",
+    "D",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Solo"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4b5c78e38fff97d5c3fef2a8098124241d65838d4ae628fbd6db62fce1c07591",
+    "version": "BCFZ"
+  },
+  "tempo": 114,
+  "title": "Rivers of babylon",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

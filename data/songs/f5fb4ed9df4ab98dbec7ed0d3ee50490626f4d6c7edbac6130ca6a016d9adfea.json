@@ -1,0 +1,108 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F]The\nworld is treating me\n[G]bad...\n[C]Misery\n[Am]  [G]\n\n[Verse 1]\n[C]I'm the kind of\n[F]guy Who\n[C]never used to\n[F]cry The\nworld is treating me\n[G]bad...\n[C]Misery!\n[Am]I've\n\n[Verse 2]\n[C]lost her now for\n[F]sure I\n[C]won't see her no\n[F]more It's\ngonna be a\n[G]drag...\n[C]Misery!\n\n[Bridge]\n[Am]I'll remember\nall the little\n[C]things we've done\n[Am]Can't she see she'll\nalways be the\n[G]only one,\nonly one\n\n[Verse 3]\n[C]Send her back to\n[F]me Cos\n[C]everyone can\n[F]see With-\nout her I will\n[G]be in\n[C]misery\n\n[Bridge]\n[Am]I'll remember\nall the little\n[C]things we've done\n[Am]She'll remember\nand she'll miss her\n[G]only one,\nlonely one\n\n[Verse 4]\n[C]Send her back to\n[F]me Cos\n[C]everyone can\n[F]see With-\nout her I will\n[G]be in\n[C]misery\n[Am](Oh oh oh) In\n\n[Outro]\n[C]misery\n[Am](Ooh ee ooh ooh) My\n[C]misery\n[Am](La la la la la la)",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "577555",
+        "x02210",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "320003",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Misery *alt",
+  "id": "f5fb4ed9df4ab98dbec7ed0d3ee50490626f4d6c7edbac6130ca6a016d9adfea",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 169,
+  "normalizedKey": "the beatles|misery",
+  "playableChords": [
+    "F",
+    "G",
+    "C",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Bridge"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 38,
+      "name": "Bridge"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 54,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f5fb4ed9df4ab98dbec7ed0d3ee50490626f4d6c7edbac6130ca6a016d9adfea",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Misery",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

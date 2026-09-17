@@ -1,0 +1,119 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\nDon't let me\n\n[Chorus]\n[F#m]down,\n[F#m7]don't let me\n[E]down [Esus4]\n[E]Don't let me\n[F#m]down,\n[F#m7]don't let me\n[E]down [Esus4]\n\n[Verse 1]\n[E]Nobody ever loved me like she\n[F#m]does Oh, she does,\n[F#m7]yeah, she does\n[E]  [Esus4]\n[E]And if somebody loved me like she\n[F#m]do me Oh, she do\n[F#m7]me, yes, she does\n[E]  [Esus4]\n\n[Chorus]\n[E]Don't let me\n[F#m]down,\n[F#m7]don't let me\n[E]down [Esus4]\n[E]Don't let me\n[F#m]down,\n[F#m7]don't let me\n[E]down [Esus4]\n\n[Bridge]\n[E]I'm in love for the fi-\nrst time\nDon't you know it's gonna last\n[B7]\nIt's a love that lasts forever\nIt's a love that had no\n[E]past [Esus4]\n\n[Chorus]\n[E]Don't let me\n[F#m]down,\n[F#m7]don't let me\n[E]down [Esus4]\n[E]Don't let me\n[F#m]down,\n[F#m7]don't let me\n[E]down [Esus4]\n\n[Verse 2]\n[E]And from the first time that she really\n[F#m]done me Oh, she done\n[F#m7]me, she done me\n[E]good [Esus4]\n[E]I guess nobody ever really\n[F#m]done me Oh, she done\n[F#m7]me, she done me\n[E]good [Esus4]\n\n[Chorus]\n[E]Don't let me\n[F#m]down,\n[F#m7]don't let me\n[E]down [Esus4]\n[E]Don't let me\n[F#m]down,\n[F#m7]don't let me\n[E]down [Esus4]\n[E]\n\n[Outro]\n[F#m]\n[F#m7]\n[E]  [Esus4]\n[E]\n[F#m]\n[F#m7]\n[E]  [Esus4]\n[E]",
+  "diagrams": {
+    "B7": {
+      "catalog": [
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Esus4": {
+      "catalog": [
+        "022200"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "242222",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14",
+        "x-21-23-21-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Don't Let Me Down *alt",
+  "id": "bac33a8039909e14f236de2eee8b7b45acd995ccd535123770552dd22c306665",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 167,
+  "normalizedKey": "the beatles|don t let me down",
+  "playableChords": [
+    "E",
+    "F#m",
+    "F#m7",
+    "Esus4",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Chorus"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Bridge"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bac33a8039909e14f236de2eee8b7b45acd995ccd535123770552dd22c306665",
+    "version": "BCFZ"
+  },
+  "tempo": 76,
+  "title": "Don't Let Me Down",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

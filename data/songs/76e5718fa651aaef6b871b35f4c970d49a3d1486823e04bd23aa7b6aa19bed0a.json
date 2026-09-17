@@ -1,0 +1,130 @@
+{
+  "artist": "The Alkaline Trio",
+  "artistNormalized": "the alkaline trio",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[B]\n[E]\n[B]\n[E]\n\n[Verse 1]\n[B]Crack my head open\n[E]on your kitchen floor\n[B]To prove to you that\n[E]I have brains\n[B]Meanwhile tin men\n[E]are led by little girls\n[B]Down golden roads that\n[E]lead to nowhere\n\n[Chorus]\n[C#m]\n[A]Fine time to\nfake a seizure\n[C#m]\nTo feel your mouth on\n[A]mine,\n[B]you're saving me\n\n[Bridge]\n[E]\n[B]\n[C#m]\n[E]\n[E]\n[B]\n[C#m]\n[E]\n\n[Pre-Verse]\n[B]\n[E]\n[B]\n[E]\n\n[Verse 2]\n[B]Whatever happened to\n[E]that silly dream you had?\n[B]I want to make it real\n[E]I'd love to rub your back\n[B]Like a plane crash\n[E]that never hits the ground\n[B]I fall in love with you\n[E]I'm nose over tail for you\n\n[Chorus]\n[C#m]\n[A]Your voice like the\nsound of sirens\n[C#m]\nto a house on\n[A]fire\n[B]You're saving me\n\n[Bridge]\n[E]\n[D#m]\n[E]\n[D#m]\n[E]\n[D#m]\n[E]\n[D#m]\n[A]\n[F#]\n[E]\n[D#m]\n[E]\n[D#m]\n[E]\n[D#m]\n[E]\n[D#m]\n[A]\n[F#]\n\n[Outro]\n[E]\n[B]\n[C#m]\n[E]\n[E]\n[B]\n[C#m]\n[E]\n[E]\n[B]\n[C#m]\n[E]\n[E]\n[B]\n[C#m]\n[A]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "x68876"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Nose Over Tail",
+  "id": "76e5718fa651aaef6b871b35f4c970d49a3d1486823e04bd23aa7b6aa19bed0a",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 116,
+  "normalizedKey": "the alkaline trio|nose over tail",
+  "playableChords": [
+    "B",
+    "E",
+    "C#m",
+    "A",
+    "D#m",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "76e5718fa651aaef6b871b35f4c970d49a3d1486823e04bd23aa7b6aa19bed0a",
+    "version": "BCFZ"
+  },
+  "tempo": 155,
+  "title": "Nose Over Tail",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

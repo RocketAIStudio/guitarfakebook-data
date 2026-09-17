@@ -1,0 +1,97 @@
+{
+  "artist": "The Beach Boys",
+  "artistNormalized": "the beach boys",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "Ha, ha, ha, ha, ha, ha, ha, wipe out!\n\n[Intro]\n[C]\n\n[Theme 1]\n[C]\n[F]\n[C]\n[G]\n[F]\n[C]\n[G]\n\n[Theme 2]\n[C]\n[F]\n[C]\n[G]\n[F]\n[C]\n[G]\n\n[Theme 3]\n[C]\n[F]\n[C]\n[G]\n[F]\n[C]\n[G]\n\n[Theme 4]\n[C]\n[F]\n[C]\n[G]\n[F]\n[C]\n[G]\n\n[Solo]\n[C]\n[F]\n[C]\n[G]\n[F]\n[C]\n[G]\n\n[Theme 5]\n[C]\n[F]\n[C]\n[G]\n[F]\n[C]\n[G]\n\n[Outro (Fade Out)]\n[C]\n[F]\n[C]\n[G]\n[F]\n[C]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wipe Out",
+  "id": "7025c9faa6953117f8db22380a312c7cee2f9c62dba54eb9b86afdca2901f445",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 9,
+  "normalizedKey": "the beach boys|wipe out",
+  "playableChords": [
+    "C",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 4,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Theme 1"
+    },
+    {
+      "measure": 22,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 34,
+      "name": "Theme 3"
+    },
+    {
+      "measure": 46,
+      "name": "Theme 4"
+    },
+    {
+      "measure": 58,
+      "name": "Solo"
+    },
+    {
+      "measure": 70,
+      "name": "Theme 5"
+    },
+    {
+      "measure": 82,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7025c9faa6953117f8db22380a312c7cee2f9c62dba54eb9b86afdca2901f445",
+    "version": "BCFZ"
+  },
+  "tempo": 163,
+  "title": "Wipe Out",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

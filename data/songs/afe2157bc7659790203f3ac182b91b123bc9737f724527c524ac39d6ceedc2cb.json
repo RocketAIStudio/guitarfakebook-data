@@ -1,0 +1,117 @@
+{
+  "artist": "Tenacious D",
+  "artistNormalized": "tenacious d",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[A]  [Gm]\n[A]  [Gm]\n[A]  [Gm]\n[A]  [Gm]\nBrrah! Yeah! You\n\n[Verse]\n[A]see this here green crystal [Gm]It's call the\nCrystal of Gilgamesh It\n[A]crashed 12,000 years ago [Gm]Near the\ncity known as Budapest And\n[A]he who holds the crystal [Gm]Is a\nmotherfuckin' Fu Manchu And\n[A]now that I have the power [Gm]I'm gonna\nlord it over you I'm like a\n[A]God man [Gm]With the\npowers of the anti-Christ Now\n[A]beg me for forgiveness [Gm]Or you're\ngonna be sacrificed My\n[A]name is Jables Jr [Gm]I've got the\npower of a thousand suns With the\n[A]alien technology [Gm]Yeah,\nI'm the chosen one\n\n[Outro]\n[Am]Jamming out because I'm rocking\n[G]Rocking with my jam Can't stop my jam,\n[F7M]motherfucker\nMy fuckin' jam is the\nbest jam in the world Motherfucker,\n[Dm]yeah [Em]\n[Am]\n[Dm]Yeah [Em]\n[Am]\n[Dm]Yeah [Em]\n[Am]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F7M": {
+      "catalog": [
+        "xx3210"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "JB JR RAP",
+  "id": "afe2157bc7659790203f3ac182b91b123bc9737f724527c524ac39d6ceedc2cb",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 163,
+  "normalizedKey": "tenacious d|jb jr rap",
+  "playableChords": [
+    "A",
+    "Gm",
+    "Am",
+    "G",
+    "F7M",
+    "Dm",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 25,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "afe2157bc7659790203f3ac182b91b123bc9737f724527c524ac39d6ceedc2cb",
+    "version": "BCFZ"
+  },
+  "tempo": 91,
+  "title": "JB JR RAP",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

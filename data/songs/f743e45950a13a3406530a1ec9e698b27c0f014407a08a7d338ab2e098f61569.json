@@ -1,0 +1,101 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[A]\n[A]  [G]  [D]\n\n[Verse 1]\n[A]Jo Jo was a man who thought\nhe was a loner But\n[D]he knew it couldn't\n[A]last Jo\n[A]Jo left his home in Tuc-\nson, Arizona For\n[D]some California grass\n[A]Get back,\n\n[Chorus]\n[A]get back\nGet back\n[D]to where you once belon-\n[A]ged [G][D]Get back,\n[A]get back\nGet back\n[D]to where you once belon-\n[A]ged Get back Jojo\n\n[Solo]\n[A]\n[D]\n[A]  [G]  [D]\n[A]\n[D]\n[A][G][D]Get back,\n\n[Chorus]\n[A]get back\nGet\n[D]back to where you once belon-\n[A]ged [G][D]Get back,\n[A]woh, get back\nGet\n[D]back to where you once belon-\n[A]ged\nGet back, Jo\n\n[Keys Solo]\n[A]\n[D]\n[A]\n[A]\n[D]\n[A]\n\n[Verse 2]\n[A]Sweet Loretta Martin thought\nshe was a woman But\n[D]she was another man\n[A]All\n[A]the girls around her say\nshe's got it coming But\n[D]she gets it while she\n[A]can Get back,\n\n[Chorus]\n[A]get back\nGet back\n[D]to where you once belon-\n[A]ged [G][D]Get back,\n[A]get back\nGet back\n[D]to where you once belon-\n[A]ged\n\n[Solo]\n[A]\n[D]\n[A]  [G]  [D]\n[A]\n[D]\n[A][G]Oh [D]Get back\n\n[Chorus Outro]\n[A], Oh get back\nGet back\n[D]to where you once belonged\n[A][G]Oh [D]Get back,\n[A]woh, get back\n, get back Get back\n[D]to where you once belonged\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "xx0232",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "320003",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Get Back *alt",
+  "id": "f743e45950a13a3406530a1ec9e698b27c0f014407a08a7d338ab2e098f61569",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 202,
+  "normalizedKey": "the beatles|get back",
+  "playableChords": [
+    "A",
+    "G",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Solo"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Keys Solo"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Solo"
+    },
+    {
+      "measure": 70,
+      "name": "Chorus Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f743e45950a13a3406530a1ec9e698b27c0f014407a08a7d338ab2e098f61569",
+    "version": "BCFZ"
+  },
+  "tempo": 123,
+  "title": "Get Back",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

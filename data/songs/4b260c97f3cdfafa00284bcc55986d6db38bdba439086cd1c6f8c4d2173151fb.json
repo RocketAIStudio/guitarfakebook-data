@@ -1,0 +1,137 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[A]\n[E7]\n\n[Verse 1]\n[A]When I'm walking be-\n[D]side [E]her\n[A]People tell me I'm\n[G]lu - [D]cky\n[Bm]Yes, I [D/A]know I'm a\n[E7]lucky guy [A]\n[A]I remember the\n[D]first [E]time\n[A]I was lonely with-\n[G]out [D]her\n[Bm]Can't stop [D/A]thinking a-\n[E7]bout her now [A]\n\n[Chorus]\n[A]Every little\n[G]thing she does\nShe does for\n[A]me, yeah\nAnd you know the\n[G]things she does\nShe does for\n[A]me, oooh\n\n[Verse 2]\n[A]When I'm with her I'm\n[E][D]happy\n[A]Just to know that she\n[G]loves [D]me\n[Bm]Yes, I [D/A]know that she\n[E7]loves me now [A]\n[A]There is one thing I'm\n[D]sure [E]of\n[A]I will love her for-\n[G]e - [D]ver\n[Bm]For I [D/A]know love will\n[E7]never die [A]\n\n[Chorus]\n[A]Every little\n[G]thing she does\nShe does for\n[A]me, yeah\nAnd you know the\n[G]things she does\nShe does for\n[A]me, oooh\n\n[Interlude]\n[A]\n[D]  [E]\n[A]\n[G]  [D]\n[Bm]  [D/A]\n[E7]  [A]\n\n[Chorus]\n[A]Every little\n[G]thing she does\nShe does for\n[A]me, yeah\nAnd you know the\n[G]things she does\nShe does for\n[A]me, oooh\n\n[Outro]\n[A]\n[D][E]Every little\n[A]thing\n[D][E]Every little\n[A]thing\n[D][E]Every little",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x04232"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "320033",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Every Little Thing *alt",
+  "id": "4b260c97f3cdfafa00284bcc55986d6db38bdba439086cd1c6f8c4d2173151fb",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 176,
+  "normalizedKey": "the beatles|every little thing",
+  "playableChords": [
+    "A",
+    "E7",
+    "D",
+    "E",
+    "G",
+    "Bm",
+    "D/A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Interlude"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4b260c97f3cdfafa00284bcc55986d6db38bdba439086cd1c6f8c4d2173151fb",
+    "version": "BCFZ"
+  },
+  "tempo": 123,
+  "title": "Every Little Thing",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

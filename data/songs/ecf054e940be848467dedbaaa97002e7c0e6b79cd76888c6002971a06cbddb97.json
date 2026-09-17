@@ -1,0 +1,115 @@
+{
+  "artist": "T. Rex",
+  "artistNormalized": "t rex",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n\n[Chorus]\n[C]Stran -\n[Am]ge, life is stran\n[C]ge,\n[Am]life is stran -\n[C]ge, Oh life\n[G]is\n[C]stran ge.\n[G]O\n\n[Verse 1]\n[C]god, life is strange,\n[Am]\n[D7]People come and\npeople go,\nSome move fast and\nsome move\n[G]slow,\n[G/F#]No, no, no, no,\n[C]no.\n[G]O\n\n[Verse 2]\n[C]god, life is good,\n[Am]\n[D7]Some are fat and\nsome are thin,\nSome don't e ven ask\nyou how you've been,\n[G]\n[G/F#]No, no, no, no,\n[C]no.\n[G]\n\n[Chorus]\n[C]Stran -\n[Am]ge, life is stran\n[C]ge,\n[Am]life is stran -\n[C]ge, Oh life\n[G]is\n[C]stran ge.\n[G]O\n\n[Verse 3]\n[C]god, life is good,\n[Am]\n[D7]Some are fat and\nsome are thin,\nSome don't e ven ask\nyou how you've been,\n[G]\n[G/F#]No, no, no, no,\n[C]no.\n[G]O\n\n[Verse 4]\n[C]god, life is strange,\n[Am]\n[D7]Some are fast and\nsome are slow,\nSome believe, me don't\ne ven know,\n[G]\n[G/F#]No, no, no, no,\n[C]no.\n[G]\n\n[Chorus]\n[C]Stran -\n[Am]ge life is stran\n[C]ge,\n[Am]life is stran -\n[C]ge. Oh my\n[G]life is\n[C]stran ge.",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/F#": {
+      "catalog": [
+        "220003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Life Is Strange",
+  "id": "ecf054e940be848467dedbaaa97002e7c0e6b79cd76888c6002971a06cbddb97",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 162,
+  "normalizedKey": "t rex|life is strange",
+  "playableChords": [
+    "C",
+    "Am",
+    "G",
+    "D7",
+    "G/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ecf054e940be848467dedbaaa97002e7c0e6b79cd76888c6002971a06cbddb97",
+    "version": "BCFZ"
+  },
+  "tempo": 122,
+  "title": "Life Is Strange",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

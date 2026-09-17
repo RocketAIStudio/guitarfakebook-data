@@ -1,0 +1,139 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 29,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[C#m]\n[D#dim7]\n[G#]\n[A]\n[C#m]\n[A7]\n[A13]\n[D]Aaah\n[D#dim7]aah Be-\n\n[Verse 1]\n[C#m]cause the world is\nround it turns me\n[D#dim7]on\n[G#]Be-\n[A]cause the\n[C#m]world is\n[A7]ro-\n[A13]und\n[D]Aaah\n[D#dim7]aah Be-\n\n[Verse 2]\n[C#m]cause the wind is\nhigh it blows my\n[D#dim7]mi-\n[G#]nd Be-\n[A]cause the\n[C#m]wind is\n[A7]hi-\n[A13]gh\n\n[Bridge]\n[D]Aaah\n[D#dim7]aah Love is old love is\n[F#]new\nLove is all love is\n[G#7]you\nBe-\n\n[Verse 3]\n[C#m]cause the sky is\nblue it makes me\n[D#dim7]cry\n[G#]Be-\n[A]cause the\n[C#m]sky is\n[A7]blue\n[A13]\n\n[Outro]\n[D]Aaah.....\n[D#dim7]\n[C#m]\n[D#dim7]\n[G#]\n[A]\n[C#m]\n[A7]\n[A13]\n[D]\n[D#dim7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A13": {
+      "catalog": [
+        "575675"
+      ],
+      "catalogCount": 1
+    },
+    "A7": {
+      "catalog": [
+        "575685",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D#dim7": {
+      "catalog": [
+        "xx1212"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    },
+    "G#7": {
+      "catalog": [
+        "464544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Because",
+  "id": "a56aff0e215e22d0dbed80ae0e23e27790dcb5797883d81eb8c5c63418c5a5f6",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 70,
+  "normalizedKey": "the beatles|because",
+  "playableChords": [
+    "C#m",
+    "D#dim7",
+    "G#",
+    "A",
+    "A7",
+    "A13",
+    "D",
+    "F#",
+    "G#7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 43,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a56aff0e215e22d0dbed80ae0e23e27790dcb5797883d81eb8c5c63418c5a5f6",
+    "version": "BCFZ"
+  },
+  "tempo": 81,
+  "title": "Because",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

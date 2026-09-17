@@ -1,0 +1,105 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[E7]\nJust let me hear some of that\n\n[Chorus]\n[A]rock and roll mu\nsic A\nny old way you choose\nit It's got a\n[D]back beat, you can't lose\nit A\n[A]ny old time you use\nit It's\n[E7]gotta be rock and roll mu\nsic If\nyou wanna dance with me\n[A]If\n[E7]you wanna dance with me\n[A]I've got no kick against\n\n[Verse 1]\n[E7]modern jazz\nUnless they try to play it\n[A]too darn fast\nAnd lose the beauty of the\n[D]melody\nUntil they sound just like a\n[E7]symphony\nThat's why I go for that\n\n[Chorus]\n[A]rock and roll mu\nsic A\nny old way you choose\nit It's got a\n[D]back beat, you can't lose\nit A\n[A]ny old time you use\nit It's\n[E7]gotta be rock and roll mu\nsic If\nyou wanna dance with me\n[A]If\n[E7]you wanna dance with me\n[A]I took my loved one over\n\n[Verse 2]\n[E7]across the tracks\nSo she can hear my man a-\n[A]wail a sax\nI must admit they have a\n[D]roc king band\nMan, they were blowing like a\n[E7]hurricane\nThat's why I go for that\n\n[Chorus]\n[A]rock and roll mu\nsic A\nny old way you choose\nit It's got a\n[D]back beat, you can't lose\nit A\n[A]ny old time you use\nit It's\n[E7]gotta be rock and roll mu\nsic If\nyou wanna dance with me\n[A]If\n[E7]you wanna dance with me\n[A]Way down South they had a\n\n[Verse 3]\n[E7]jubilee\nThe jokey folks they had a\n[A]jamboree\nThey're drinking home brew from a\n[D]water cup\nThe folks dancing there are\n[E7]all shook up\nAnd started playing that\n\n[Chorus]\n[A]rock and roll mu\nsic A\nny old way you choose\nit It's got a\n[D]back beat, you can't lose\nit A\n[A]ny old time you use\nit It's\n[E7]gotta be rock and roll mu\nsic If\nyou wanna dance with me\n[A]If\n[E7]you wanna dance with me\n[A]Don't care to hear them play a\n\n[Verse 4]\n[E7]tango\nAnd In The Mood they take a\n[A]mambo\nIt's way to early for a\n[D]congo\nSo keep a rocking that\n[E7]piano\nThat's why I go for that\n\n[Chorus]\n[A]rock and roll mu\nsic A\nny old way you choose\nit It's got a\n[D]back beat, you can't lose\nit A\n[A]ny old time you use\nit It's\n[E7]gotta be rock and roll mu\nsic If\nyou wanna dance with me\n[A]If\n[E7]you wanna dance with me\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rock And Roll Music",
+  "id": "5fa528279798df9c305b357b3a7fed5d8614ecae8d29b0e038f428907f0a40da",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 454,
+  "normalizedKey": "the beatles|rock and roll music",
+  "playableChords": [
+    "E7",
+    "A",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 91,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5fa528279798df9c305b357b3a7fed5d8614ecae8d29b0e038f428907f0a40da",
+    "version": "BCFZ"
+  },
+  "tempo": 166,
+  "title": "Rock And Roll Music",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

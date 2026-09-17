@@ -1,0 +1,122 @@
+{
+  "artist": "Tenacious D",
+  "artistNormalized": "tenacious d",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Em]\n[F]\n\n[Verse 1]\n[Em]You can't kill the\nmetal\nMetal will live on\n[F]\n[Em]Punk-Rock tried to kill the me-\ntal But\nthey failed, as they were smite\n[F]to the ground New--\n[Em]wave tried to\nkill the metal But they failed,\nas they were Striken down to\n[F]the ground Grunge tried to kill the\n[Em]metal\nHa, ha, ha, ha, ha, They\nfailed, as they were thrown to the ground\n[F]Aaaaa, Yeah! Aaaaa, Yeah!\n\n[Interlude 1]\n[Em]Noone can des-\ntroy\nthe\nme-\n[F]tal\nThe\n[Em]me-\ntal\n[F]will\nstrike you down with a vicious blow We are the vanquished foes of\n\n[Bridge]\n[Em]the metal We [D]tried to\n[C]win for why we do [D]not\n[Em]know New-wave tried to [D]destroy the metal\n[C]But [D]\n[Am]the metal had it's [Bm]way Grunge then\n[Em]tried to dethrone the me-\n[Am]tal, But metal [Bm]was in the way\n[Em]Punk--\n\n[Verse 2]\n[Em]rock tried to destroy\nthe metal, But metal was\nmuch too strong Techno\n[F]tried\n[Em]to defile the me-\ntal, But techno was\nproven wrong Yeah! Metal!\n[F]It comes\n[Em]from hell!\n[F]\n[Em]\n[F]\n[Em]\n[F]\n\n[Interlude 2]\n[D]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Metal",
+  "id": "a679c53d940d068927729fe64c02fe1a5a589b47b6fa8fa94524b7144b4bb4d2",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 185,
+  "normalizedKey": "tenacious d|the metal",
+  "playableChords": [
+    "Em",
+    "F",
+    "D",
+    "C",
+    "Am",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Interlude 1"
+    },
+    {
+      "measure": 31,
+      "name": "Bridge"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 59,
+      "name": "Interlude 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a679c53d940d068927729fe64c02fe1a5a589b47b6fa8fa94524b7144b4bb4d2",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "The Metal",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

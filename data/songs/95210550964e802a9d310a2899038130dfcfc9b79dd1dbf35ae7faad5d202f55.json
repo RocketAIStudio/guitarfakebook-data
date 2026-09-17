@@ -1,0 +1,122 @@
+{
+  "artist": "Sum 41",
+  "artistNormalized": "sum 41",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\n[G]\n[Cadd9]\n[D/A]\n[G]\n[Cadd9]\n[D/A]\n[G]\n\n[Verse 1]\n[G]Time passes\n[Cadd9]by, di-\n[D/A]rection un-\n[G]known\n[G]You've left us\n[Cadd9]now, but\n[D/A]we're not a-\n[G]lone\n[G]Before you\n[Cadd9]know it your\n[D/A]cup's over-\n[G]flown\n[G]You measure\n[Cadd9]no one that\n[D/A]I've ever\n[G]known And it's\n\n[Chorus]\n[Cadd9]quite\n[D/A]all\n[G]right\nAnd good-\n[Cadd9]bye\n[D/A]for\n[Em]now\nJust look\n[C]up to the\nstars and be-\n[D/A]lieve who you\nare 'Cause it's\n[Em]quite\n[D/A]all\n[Cadd9]right\nAnd so\nlong,\n[D/A]good-\n\n[Bridge]\n[G]bye\n[G]\n[Cadd9]\n[D/A]\n[G]\n[Cadd9]\n[D/A]\n[G]\n\n[Verse 2]\n[G]We always\n[Cadd9]knew that\n[D/A]it'd come to\n[G]this\n[G]It's times like\n[Cadd9]these I for-\n[D/A]get what I\n[G]miss\n[G]Matters of\n[Cadd9]heart are\n[D/A]hard to add-\n[G]ress Es-\n[G]pecially when\n[Cadd9]yours is full\n[D/A]of empti-\n[G]ness And it's\n\n[Chorus]\n[Cadd9]quite\n[D/A]all\n[G]right\nAnd good-\n[Cadd9]bye\n[D/A]for\n[Em]now\nJust look\n[C]up to the\nstars and be-\n[D/A]lieve who you\nare 'Cause it's\n[Em]quite\n[D/A]all\n[Cadd9]right\nAnd so\nlong,\n[D/A]good-\n[G]bye\n\n[Bridge]\n[Em]\n[Cadd9]\n[G]\n[D/A]\n[Em]\n[Cadd9]\n[G]\n[D/F#]\n[Em]\n[Cadd9]\n[D/A]\n\n[Verse 3]\n[G]Time passes\n[Cadd9]by, di-\n[D/A]rection un-\n[G]known\n[G]You've left us\n[Cadd9]now, but\n[D/A]we're not a-\n[G]lone\n[G]Before you\n[Cadd9]know it your\n[D/A]cup's over-\n[G]flown\n[G]You measure\n[Cadd9]no one that\n[D/A]I've ever\n[G]known And it's\n\n[Chorus]\n[Cadd9]quite\n[D/A]all\n[G]right\nAnd good-\n[Cadd9]bye\n[D/A]for\n[Em]now\nJust look\n[C]up to the\nstars and be-\n[D/A]lieve who you\nare 'Cause it's\n[Em]quite\n[D/A]all\n[Cadd9]right\nAnd so\nlong,\n[D/A]good-\n[G]bye",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "D/A": {
+      "catalog": [
+        "x00232"
+      ],
+      "catalogCount": 1
+    },
+    "D/F#": {
+      "catalog": [
+        "200232"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "So Long Goodbye",
+  "id": "95210550964e802a9d310a2899038130dfcfc9b79dd1dbf35ae7faad5d202f55",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 211,
+  "normalizedKey": "sum 41|so long goodbye",
+  "playableChords": [
+    "G",
+    "Cadd9",
+    "D/A",
+    "Em",
+    "C",
+    "D/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Bridge"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 68,
+      "name": "Chorus"
+    },
+    {
+      "measure": 88,
+      "name": "Bridge"
+    },
+    {
+      "measure": 108,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 124,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "95210550964e802a9d310a2899038130dfcfc9b79dd1dbf35ae7faad5d202f55",
+    "version": "BCFZ"
+  },
+  "tempo": 144,
+  "title": "So Long Goodbye",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

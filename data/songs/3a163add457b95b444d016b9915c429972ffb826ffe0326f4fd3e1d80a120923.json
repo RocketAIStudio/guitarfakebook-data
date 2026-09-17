@@ -1,0 +1,112 @@
+{
+  "artist": "The Beach Boys",
+  "artistNormalized": "the beach boys",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Ab]\nWe\n\n[Verse 1]\n[Ab]come on the sloop John\nB My\ngrandfather and\nme A-\nround Nassau\ntown we did\n[Eb]roam\nDrinking all\n[Ab]night\nGot into a\n[Db]fight\n[Bbm7]Well I\n[Ab]feel so broke up\n[Eb]I want to go\n[Ab]home\nSo\n\n[Chorus]\n[Ab]hoist up the John B's\nsail\nSee how the mainsail\nsets\nCall for the Captain a-\nshore Let me go\n[Eb]home,\nlet me go\n[Ab]home\nI wanna go\n[Db]home, yeah\n[Bbm7]yeah Well I\n[Ab]feel so broke up\n[Eb]I wanna go\n[Ab]home\nThe\n\n[Verse 2]\n[Ab]first mate he got drunk\nAnd\nbroke in the Cap'n's\ntrunk The\nconstable had to come\nand take him a-\n[Eb]way\nSheriff John\n[Ab]Stone\nWhy don't you leave me a-\n[Db]lone, yeah\n[Bbm7]yeah Well I\n[Ab]feel so broke up\n[Eb]I wanna go\n[Ab]home\nSo\n\n[Chorus]\n[Ab]hoist up the John B's\nsail\nSee how the mainsail\nsets\nCall for the Captain a-\nshore Let me go\n[Eb]home, let me go\nhome I wanna go\n\n[Bridge]\n[Ab]home, let me go\nhome Why don't you let me go\n[Db]home (Hoist up the John B's\n[Bbm7]sail) Hoist up the John B I\n[Ab]feel so broke up\n[Eb]I wanna go\n[Ab]home Let me go\nhome The\n\n[Verse 3]\n[Ab]poor cook he caught the fits\nAnd\nthrew away all my grits\nAnd\nthen he took and he\nate up all of my\n[Eb]corn\nLet me go\n[Ab]home\nWhy don't they let me go\n[Db]home\n[Bbm7]This\n[Ab]is the worst trip\n[Eb]I've ever been\n[Ab]on\nSo\n\n[Chorus]\n[Ab]hoist up the John B's\nsail\nSee how the mainsail sets\nCall for the Captain a-\nshore Let me go\n[Eb]home, let me go\nhome I wanna go\n\n[Outro (Fade Out)]\n[Ab]home, let me go\nhome Why don't you let me go\n[Db]home",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "466544",
+        "4-3-1-1-1-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm7": {
+      "catalog": [
+        "x13121",
+        "6-8-6-6-6-6",
+        "x-x-8-10-9-9",
+        "x-13-15-13-14-13",
+        "18-20-18-18-18-18"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x65343",
+        "x-x-1-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sloop John B",
+  "id": "3a163add457b95b444d016b9915c429972ffb826ffe0326f4fd3e1d80a120923",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 292,
+  "normalizedKey": "the beach boys|sloop john b",
+  "playableChords": [
+    "Ab",
+    "Eb",
+    "Db",
+    "Bbm7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Bridge"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 83,
+      "name": "Chorus"
+    },
+    {
+      "measure": 91,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3a163add457b95b444d016b9915c429972ffb826ffe0326f4fd3e1d80a120923",
+    "version": "BCFZ"
+  },
+  "tempo": 126,
+  "title": "Sloop John B",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

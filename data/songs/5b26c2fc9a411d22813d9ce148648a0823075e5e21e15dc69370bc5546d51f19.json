@@ -1,0 +1,66 @@
+{
+  "artist": "The Beach Boys",
+  "artistNormalized": "the beach boys",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n[Ab]\n[Gb]\n\n[Verse]\n[Ab]Freshned air around my\nhead\n[Gb]Mornings tumble out of\nbed\n[Ab]Eggs and grits and lickety split\nLook at me jump I'm\n[Gb]in the great shape of the\nagriculture.\n\n[Outro]\n[Ab]\n[Gb]\n[Ab]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "466544",
+        "4-3-1-1-1-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I'm In Great Shape",
+  "id": "5b26c2fc9a411d22813d9ce148648a0823075e5e21e15dc69370bc5546d51f19",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 37,
+  "normalizedKey": "the beach boys|i m in great shape",
+  "playableChords": [
+    "Ab",
+    "Gb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse"
+    },
+    {
+      "measure": 13,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5b26c2fc9a411d22813d9ce148648a0823075e5e21e15dc69370bc5546d51f19",
+    "version": "BCFZ"
+  },
+  "tempo": 119,
+  "title": "I'm In Great Shape",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

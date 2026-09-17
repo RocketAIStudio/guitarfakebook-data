@@ -1,0 +1,133 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\nMister\nMoonlight\n\n[Verse 1]\n[F#]\nYou came to me\none summer\nnight\n[B]And from your\nbeam you made my\n[F#]dream\n[D#m]And from the\nworld you sent my\ngirl\n[B]And from a-\nbove you sent us\n[F#]love\n\n[Bridge]\n[B]And now she is\nmine\n[F#]I think you're fine\n[D#7]Cause we\n[G#m]love you,\n[C#]Mister Moon-\n[F#]light\n\n[Verse 2]\n[F#]Mister Moonlight,\ncome again\nplease\nHere I am on my knees\nBegging if you\nplease\n\n[Bridge]\n[B]And the night you don't come\nmy way I'll\n[F#]pray and pray more each\n[D#7]day Cause we\n[G#]love you,\n[C#]Mister Moon-\n[F#]light\n\n[Organ Solo]\n[F#]\n\n[Bridge]\n[B]And the night you don't come\nmy way Oh,\n[F#]I'll pray and pray more each\n[D#7]day Cause we\n[G#]love you,\n[C#]Mister Moon-\n[F#]light\n\n[Verse 3]\n[F#]Mister Moonlight,\ncome again\nplease\nHere I am on my knees\nBegging if you\nplease\n\n[Bridge]\n[B]And the night you don't come\nmy way I'll\n[F#]pray and pray more each\n[D#7]day Cause we\n[G#]love you,\n[C#]Mister Moon-\n\n[Outro (Fade Out)]\n[F#]light\nMister Moon-\nlight\nMister Moon-\nlight\nMister Moon-\nlight",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "D#7": {
+      "catalog": [
+        "x68686"
+      ],
+      "catalogCount": 1
+    },
+    "D#m": {
+      "catalog": [
+        "x68876"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mr. Moonlight *alt",
+  "id": "7ab8e1b94dd28352373dcbc73cd63d9e8dcb5ce2e2134c6e750aef51e69d784f",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 172,
+  "normalizedKey": "the beatles|mr moonlight",
+  "playableChords": [
+    "F#",
+    "B",
+    "D#m",
+    "D#7",
+    "G#m",
+    "C#",
+    "G#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Organ Solo"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 69,
+      "name": "Bridge"
+    },
+    {
+      "measure": 75,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7ab8e1b94dd28352373dcbc73cd63d9e8dcb5ce2e2134c6e750aef51e69d784f",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Mr. Moonlight",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

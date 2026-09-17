@@ -1,0 +1,140 @@
+{
+  "artist": "Sum 41",
+  "artistNormalized": "sum 41",
+  "capo": "No capo",
+  "chordPositionCount": 40,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[G]\n\n[Chorus]\n[G]Tu es [Em]ma ma-\n[Am]demoiselle [D]\n[G]Tu es [Em]ma pe-\n[Am]tite poubelle [D]Je\n[G]chercherai [B]des or-\n[Em]dures pour [C]toi Je com-\n[G]mencerai [D]dedans mes panta-\n[G]lons\n\n[Verse]\n[Cm]Dans votre oeil se trouve\n[G]une petite pleur\n[Cm]Je ne suis pas un\n[G]autre [D]Coeur\n[Cm]Tu sais tu es ma\n[G]petite fleur Avec une\n[A]plotte qui est comme du beurre\n[D]\n\n[Chorus]\n[G]Tu es [Em]ma ma-\n[Am]demoiselle [D]\n[G]Tu es [Em]ma pe-\n[Am]tite poubelle [D]Je\n[G]chercherai [C]des or-\n[Em]dures pour [C]toi\nCom-\n[G]mencerai [D]dedans mes panta-\n\n[Outro]\n[G]lons",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ma Poubelle",
+  "id": "54749dc5555add66d92ecec420ab1f26e2a5ba58964011d040889a40ab0f8beb",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 100,
+  "normalizedKey": "sum 41|ma poubelle",
+  "playableChords": [
+    "G",
+    "Em",
+    "Am",
+    "D",
+    "B",
+    "C",
+    "Cm",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Chorus"
+    },
+    {
+      "measure": 10,
+      "name": "Verse"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "54749dc5555add66d92ecec420ab1f26e2a5ba58964011d040889a40ab0f8beb",
+    "version": "BCFZ"
+  },
+  "tempo": 131,
+  "title": "Ma Poubelle",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

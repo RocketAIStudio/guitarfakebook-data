@@ -1,0 +1,116 @@
+{
+  "artist": "T. Rex",
+  "artistNormalized": "t rex",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]I could have loved\nyou girl Like a pla\nnet\nI could have chained\nyour heart To a star\n[D]\nBut it\n\n[Chorus]\n[Am]really doesn't matter at all\n[D7]No it\n[Am]really doesn't matter at all\n[D7]Life's a gas,\n[G]\n\n[Verse 2]\n[G]I could have built\na house On the o\ncean\nI could have placed\nyour love In the sky\n[D]\nBut it\n\n[Chorus]\n[Am]really doesn't matter at all\n[D7]No it\n[Am]really doesn't matter at all\n[D7]Life's a gas,\n[G]\n\n[Verse 3]\n[G]I could have turned\nyou In to a pries\ntess\nI could have burned\nYour fate in the sand\n[D]\nBut it\n\n[Chorus]\n[Am]really doesn't matter at all\n[D7]No it\n[Am]really doesn't matter at all\n[D7]Life's a gas,\n[G]\nBut it\n\n[Chorus]\n[Am]really doesn't matter at all\n[D7]No it\n[Am]really doesn't matter at all\n[D7]Life's a gas,\n[G]\nI hope it's gonna\nlast\n\n[Interlude]\n[G]\n[D]\nBut it\n\n[Chorus]\n[Am]really doesn't matter at all\n[D7]No it\n[Am]really doesn't matter at all\n[D7]Life's a gas,\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Life's A Gas",
+  "id": "d9c3fb810a63b22f797eab1efb134e6d7137317647b86464f20dab0975bcde33",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 182,
+  "normalizedKey": "t rex|life s a gas",
+  "playableChords": [
+    "G",
+    "D",
+    "Am",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Interlude"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d9c3fb810a63b22f797eab1efb134e6d7137317647b86464f20dab0975bcde33",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "Life's A Gas",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,149 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[A7]\n[C7]\n[G7]It was\n\n[Verse 1]\n[G7]twenty years ago today, [A7]Sgt.\n[C7]Pepper taught the band to play, [G7]They've been\n[G7]going in and out of style [A7]But they're\n[C7]guaranteed to raise a smile. [G7]So\n[A7]may I introduce to you The\n[C7]act you've known for all these years\n\n[Chorus]\n[G7]Sgt. Pepper's [C7]Lonely Hearts Club\n[G7]Band.\n\n[Bridge]\n[C7]\n[F7]\n[C7]\n[D7]\nWe're\n\n[Interlude 1]\n[G]Sgt. Pepper's [Bb]Lonely Hearts\n[C7]Club Band [G]We\n[C7]hope you will enjoy the show,\n[G7]\n[G]Sgt. Pepper's [Bb]Lonely Hearts\n[C7]Club Band [G]Sit\n[A7]back and let the evening go.\n[D7]\n\n[Interlude 2]\n[C7]Sgt. Pepper's lonely, Sgt.\n[G7]Pepper's lonely, Sgt.\n[A7]Pepper's Lonely [C7]Hearts\nClub Band [G7]It's\n\n[Bridge]\n[C7]wonderful to be here It's\n[F7]certainly a thrill You're\n[C7]such a lovely audience We'd\n[D7]like to take you home with us We'd\nlove to take you home I don't\n\n[Verse 2]\n[G7]really wanna stop the show [A7]But I\n[C7]thought that you might like to know [G7]That the\n[G7]singer's going to sing a song [A7]And he\n[C7]wants you all to sing along [G7]So\n[A7]let me introduce to you The\n[C7]one and only Billy Shears And\n\n[Chorus]\n[G7]Sgt. Pepper's [C7]Lonely Hearts Club Band.\n[G7]\n\n[Outro]\n[C7]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "575655",
+        "5-4-2-2-2-3",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "688766",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "8-10-8-9-8-8",
+        "x35353",
+        "8-7-5-5-5-6",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x57575",
+        "x-5-4-5-3-2",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "131211",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sgt. Pepper's Lonely Hearts Club Band *alt",
+  "id": "b20aa46b1749d9f652e4cb928288866fc8f2a1d3751b506da50f726cf3bc6714",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 207,
+  "normalizedKey": "the beatles|sgt pepper s lonely hearts club band",
+  "playableChords": [
+    "A7",
+    "C7",
+    "G7",
+    "F7",
+    "D7",
+    "G",
+    "Bb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Bridge"
+    },
+    {
+      "measure": 18,
+      "name": "Interlude 1"
+    },
+    {
+      "measure": 26,
+      "name": "Interlude 2"
+    },
+    {
+      "measure": 30,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b20aa46b1749d9f652e4cb928288866fc8f2a1d3751b506da50f726cf3bc6714",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Sgt. Pepper's Lonely Hearts Club Band",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

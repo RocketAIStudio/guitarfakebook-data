@@ -1,0 +1,90 @@
+{
+  "artist": "Sum 41",
+  "artistNormalized": "sum 41",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D5]  [F5]\n[D5]  [F5]\n[D5]  [F5]\n[A5]\n[D5]  [F5]\n[D5]  [F5]\n[D5]  [F5]\n[A5]Go!\n[D5]  [F5]\n[D5]  [F5]\n[D5]  [F5]\n[A5]\n[D5]  [F5]\n[D5]  [F5]\n[D5]  [F5]\n[A5]\n\n[Verse]\n[D5]You don't have the [F5]answers But you're\n[E5]always blaming [A5]me. It\n[D5]only lies in [F5]your behalf in\n[C5][E5]animosity.\n[D5]You decide it's [F5]up to you,\n[E5]Make it what you'll [A5]be.\n[D5]After all you [F5]seem to be It\n[E5]makes no sense to [C5]me.\n\n[Chorus]\n[G5]Don't point your\n[A5]finger at\n[D5]me [C5]\n[D5]  [C5]\n[G5]It's all\n[A5]your desti-\n[D5]ny [C5]\n[D5]  [C5]\n[G5]You believe its\n[A5]all a game\n[F5]So quick to\n[E5]point the blame\n[G5]And now\n[A5]tables have\n\n[Outro]\n[D5]turned. [C5]\n[D5]  [C5]\n[D5][C5]Shut\n[D5]Up!",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "THT",
+  "id": "8d90f2e809ed03470cd8a1fb7371fefb3e391aefc9dd4530a4c718c81f642573",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 87,
+  "normalizedKey": "sum 41|tht",
+  "playableChords": [
+    "D5",
+    "F5",
+    "A5",
+    "E5",
+    "C5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8d90f2e809ed03470cd8a1fb7371fefb3e391aefc9dd4530a4c718c81f642573",
+    "version": "BCFZ"
+  },
+  "tempo": 250,
+  "title": "THT",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

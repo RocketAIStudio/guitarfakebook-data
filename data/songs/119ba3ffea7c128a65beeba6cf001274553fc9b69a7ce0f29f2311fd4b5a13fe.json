@@ -1,0 +1,72 @@
+{
+  "artist": "Tenacious D",
+  "artistNormalized": "tenacious d",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Interlude]\n[Am][Dsus2/A]Ooh\n[Asus2]  [Am]\nThey must [Dsus2/A]pay the rent\n[Asus2]With their\n[Am]rock [Em]\n[Am]Oh hoo [Em]\n[Am]  [Em]\n[Am]\n[Dsus2/A]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2/A": {
+      "catalog": [
+        "x00230"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Destiny",
+  "id": "119ba3ffea7c128a65beeba6cf001274553fc9b69a7ce0f29f2311fd4b5a13fe",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 11,
+  "normalizedKey": "tenacious d|destiny",
+  "playableChords": [
+    "Am",
+    "Dsus2/A",
+    "Asus2",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Interlude"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "119ba3ffea7c128a65beeba6cf001274553fc9b69a7ce0f29f2311fd4b5a13fe",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Destiny",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

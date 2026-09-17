@@ -1,0 +1,120 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]If you let [Cadd9]me take\n[D]your heart [G]\nI will prove [Cadd9]to you\n[G]\n[G]We will [Cadd9]never be\n[D]apart [G]\n[Cadd9]if I'm part [D]of you\n[G]\n\n[Pre-Chorus]\n[Cadd9]Open up your eyes\n[G]now,\n[Cadd9]tell me what you see\n[G]\n[Cadd9]It is no surprise\n[G]now,\n[Cadd9]what you see [D]is me\n[G]\n\n[Verse 2]\n[G]Big and black [Cadd9]the clouds\n[D]may be, [G]\ntime will pass [Cadd9]away\n[G]\n[G]If you put [Cadd9]your trust\n[D]in me [G]\n[Cadd9]I'll make bright [D]your day\n[G]\n\n[Pre-Chorus]\n[Cadd9]Look into these eyes\n[G]now,\n[Cadd9]tell me what you see\n[G]\n[Cadd9]Don't you realise\n[G]now,\n[Cadd9]what you see [D]is me\n[G]\n\n[Chorus]\n[G]Tell me\nwhat you\n[C]see\n[G]\n[D]\n[G]\n\n[Verse 3]\n[G]Listen to [Cadd9]me one\n[D]more time, [G]\nhow can I [Cadd9]get through?\n[G]\n[G]Can't you try [Cadd9]to see\n[D]that I'm [G]\n[Cadd9]trying to get [D]to you?\n[G]\n\n[Pre-Chorus]\n[Cadd9]Open up your eyes\n[G]now,\n[Cadd9]tell me what you see\n[G]\n[Cadd9]It is no surprise\n[G]now,\n[Cadd9]what you see [D]is me\n[G]\n\n[Chorus]\n[G]Tell me\nwhat you\n[C]see\n[G]\n[D]\n[G]\n\n[Verse 4]\n[G]Listen to [Cadd9]me one\n[D]more time, [G]\nhow can I [Cadd9]get through?\n[G]\n[G]Can't you try [Cadd9]to see\n[D]that I'm [G]\n[Cadd9]trying to get [D]to you?\n[G]\n\n[Pre-Chorus]\n[Cadd9]Open up your eyes\n[G]now,\n[Cadd9]tell me what you see\n[G]\n[Cadd9]It is no surprise\n[G]now,\n[Cadd9]what you see [D]is me\n[G]\n\n[Chorus]\n[G]Mmm\n[C]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tell Me What You See *alt",
+  "id": "276456e02a387b088ce124944d2934ae1e3804c3d88a6bc6def82d00935e5980",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 195,
+  "normalizedKey": "the beatles|tell me what you see",
+  "playableChords": [
+    "G",
+    "Cadd9",
+    "D",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 52,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 68,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 76,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 84,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "276456e02a387b088ce124944d2934ae1e3804c3d88a6bc6def82d00935e5980",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "Tell Me What You See",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

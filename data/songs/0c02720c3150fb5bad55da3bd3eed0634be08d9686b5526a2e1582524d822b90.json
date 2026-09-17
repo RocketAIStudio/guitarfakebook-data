@@ -1,0 +1,120 @@
+{
+  "artist": "The 1975",
+  "artistNormalized": "the 1975",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 8,
+  "content": "[Verse 1]\n[Asus2]You are mine,\nI’ve been drow-\n[Aadd9/C#]\nning in you\n[Aadd9/D]\nYou\n[Asus4/B]fracture light again\n[Asus2]Beautiful,\nplease don't cry,\n[Aadd9/C#]\nI love you\n[Aadd9/D]\n[Asus4/B]When you leave, I\ncry on the inside\n\n[Pre-Chorus]\n[E]  [A]  [Dsus2]\nI wake [Dmaj9]up, love\nyou, so I love you, so I say I\nlove you, love you, love you\n[E]Cry [A][Dsus2]\n[Dmaj9]\nI wake up, love you, love you,\nlove you, love you\n\n[Chorus]\n[Dmaj9]We're supposed to leave\nby halfpast eight\nYou wait\n[E]for a bit\n[Dsus2]\n\n[Verse 2]\n[Asus2]Pissed again,\nI've been dying\n[Aadd9/C#]\nto meet you\n[Aadd9/D]\nYou\n[Asus4/B]fracture light again\n[Asus2]\nI love you,\n[Aadd9/C#]oh,\nI love you\n[Aadd9/D]\n[Asus4/B]When you leave, I\ncry on the inside\n\n[Pre-Chorus]\n[E]  [A]  [Dsus2]\nOh, [Dmaj9]\nso I love this, I love you, so love\nyou, love you, love you, love you\n[E]Cry [A][Dsus2]\nI will [Dmaj9]love\nyou, love you, love you, love you, love\nyou\n\n[Chorus]\n[Dmaj9]We're supposed to leave\nby halfpast eight\nWill you stay\n[E]or wait?\n[Dsus2]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Aadd9/C#": {
+      "catalog": [
+        "x47633"
+      ],
+      "catalogCount": 1
+    },
+    "Aadd9/D": {
+      "catalog": [
+        "x57644"
+      ],
+      "catalogCount": 1
+    },
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "Asus4/B": {
+      "catalog": [
+        "x20200"
+      ],
+      "catalogCount": 1
+    },
+    "Dmaj9": {
+      "catalog": [
+        "xx0220"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Then Because She Goes",
+  "id": "0c02720c3150fb5bad55da3bd3eed0634be08d9686b5526a2e1582524d822b90",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 150,
+  "normalizedKey": "the 1975|then because she goes",
+  "playableChords": [
+    "Asus2",
+    "Aadd9/C#",
+    "Aadd9/D",
+    "Asus4/B",
+    "E",
+    "A",
+    "Dsus2",
+    "Dmaj9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 48,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0c02720c3150fb5bad55da3bd3eed0634be08d9686b5526a2e1582524d822b90",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Then Because She Goes",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

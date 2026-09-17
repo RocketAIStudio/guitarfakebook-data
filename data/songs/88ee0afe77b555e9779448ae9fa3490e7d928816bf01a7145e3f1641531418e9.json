@@ -1,0 +1,127 @@
+{
+  "artist": "Sum 41",
+  "artistNormalized": "sum 41",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D]  [A]\n[G]\n[D]  [A]\n[G]\n\n[Verse 1]\n[D]You said it once before\n[A]You don't do\n[G]those things you used to anymore,\n[D]You say in doubt,\n[A]we're fading out\n[Bm]Forgetting who we used to be.\n[G]Cause\n\n[Chorus]\n[Bm]I will [G]bring you down,\n[D]I don't want [A]to miss, I\n[Em]don't think you can [G]handle this, You've\n[D]lost what [A]you can't find,\n[Em]never [G]what you had in\n\n[Pre-Verse]\n[D]mind. [A]\n[G]\n[D]  [A]\n[G]\n\n[Verse 2]\n[D]You take it with a smile,\n[A]it's so ea-\n[G]sy when you're always in denial,\n[D]Just in time,\n[A]but out of line,\n[Bm]I can't make\n[G]all the same mistakes you want me to.\nCause\n\n[Chorus]\n[Bm]I will [G]bring you down,\n[D]I don't want [A]to miss, I\n[Em]don't think you can [G]handle this, You've\n[D]lost what [A]you can't find,\n[Em]never [G]what you had in\n\n[Solo]\n[D]mind. [A]\n[Em]  [G]\n[D]  [A]\n[Em]  [G]\n[D]  [A]\n[Em]\n[G]You're giving up,\nyou know it's not what you need,\n\n[Bridge]\n[D]\n[A]And it's true what your going through,\n[Em]try so hard not to listen to,\n[G]everything I never say.\nCause\n\n[Chorus]\n[Bm]I will [G]bring you down,\n[D]I don't want [A]to miss, I\n[Em]don't think you can [G]handle this, Cause\n[Bm]I will [G]bring you down,\n[D]I don't want [A]to miss, I\n[Em]don't think you can [G]handle this, You've\n[D]lost what [A]you can't find,\n[Em]never [G]what you had in\n\n[Outro]\n[D]mind. I'm getting over, getting use to,\n[A]and after all that I put you through,\n[G]now I see, I'm not the\n[D]only [A]one,\n[D]Never thought it ever come to,\n[A]this in fact was never what you\n[G]wanted from me, Or how you\n[D]meant it to [A]be\n[D]I'm getting over, getting use to,\n[A]and after all that I put you through,\n[G]now I see, I'm not the\n[D]only [A]one,\n[D]Never thought it ever come to,\n[A]this in fact was never what you\n[G]wanted from me, Or how you\n[D]meant it to [A]be",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "xx2000",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "xx5433",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Handle This *alt",
+  "id": "88ee0afe77b555e9779448ae9fa3490e7d928816bf01a7145e3f1641531418e9",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 326,
+  "normalizedKey": "sum 41|handle this",
+  "playableChords": [
+    "D",
+    "A",
+    "G",
+    "Bm",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Solo"
+    },
+    {
+      "measure": 43,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "88ee0afe77b555e9779448ae9fa3490e7d928816bf01a7145e3f1641531418e9",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "Handle This",
+  "tuning": "D A D G B E",
+  "variantRole": "alt"
+}

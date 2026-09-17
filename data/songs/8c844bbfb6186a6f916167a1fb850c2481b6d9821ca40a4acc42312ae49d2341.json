@@ -1,0 +1,108 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n[D]\n[A]\n[E]\n[D]\n[A]\n[E]You make me dizzy, Miss\n\n[Verse 1]\n[A]Lizzy\nThe way you rock and roll\nYou make me dizzy, Miss\n[D]Lizzy\nWhen we do the stroll\n[A]\nCome on, Miss Liz-\n[E]zy\n[D]Love me before I grow\n[A]too old\n[E]Come on, give me fe-\n\n[Verse 2]\n[A]ver\nPut your little hand in\nmine\nYou make me dizzy, dizzy\n[D]Lizzy\nOh girl, you look so\n[A]fine\nJust arocking and a-\n[E]rolling\n[D]Girl I said I wish you were mine\n[A]\n[E]\n\n[Bridge]\n[A]\n[D]\n[A]\n[E]\n[D]\n[A]\n[E]You make me dizzy, Miss Liz\n\n[Verse 3]\n[A]zy\nWhen you call my name\nOoh baby\n[D]\nSay you're driving me in-\n[A]sane\nC'mon, c'mon, c'mon,\n[E]c'mon baby\n[D]I want to be your lover man\n[A]\n[E]\n\n[Bridge]\n[A]\n[D]\n[A]\n[E]\n[D]\n[A]\n[E]Run and tell your ma-\n\n[Verse 4]\n[A]ma\nI want you to be my bride\nRun and tell your\n[D]brother\nBaby, don't run and\n[A]hide\nYou make me dizzy, Miss\n[E]Lizzy\n[D]Girl I want to marry you\n[A]\n[E]Come on, give me fe-\n\n[Verse 5]\n[A]ver\nPut your little hand in\nmine, girl\nYou make me dizzy, dizzy\n[D]Lizzy\nGirl, you look so fine\n[A]\nYou're just arocking and\n[E]arolling\n[D]Oh I said I wish you were\n[A]mine.\n\n[Outro]\n[A6/E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A6/E": {
+      "catalog": [
+        "x7767x"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dizzy miss lizzy *alt",
+  "id": "8c844bbfb6186a6f916167a1fb850c2481b6d9821ca40a4acc42312ae49d2341",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 210,
+  "normalizedKey": "the beatles|dizzy miss lizzy",
+  "playableChords": [
+    "A",
+    "D",
+    "E",
+    "A6/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Bridge"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 62,
+      "name": "Bridge"
+    },
+    {
+      "measure": 74,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 86,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 97,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8c844bbfb6186a6f916167a1fb850c2481b6d9821ca40a4acc42312ae49d2341",
+    "version": "BCFZ"
+  },
+  "tempo": 137,
+  "title": "Dizzy miss lizzy",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

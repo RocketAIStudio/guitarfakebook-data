@@ -1,0 +1,128 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "Well they\n\n[Verse 1]\n[E]took some honey\nfrom a tree\nDressed it up and they called\nit me\n\n[Chorus]\n[A]Everybody's trying to\nbe my baby\n[E]Everybody's trying to\nbe my baby\n[B7]Everybody's trying to\n[A]be my baby now\n[E]\nWoke\n\n[Verse 2]\n[E]up last night,\nhalf past four\nFifty women knocking\non my door\n\n[Chorus]\n[A]Everybody's trying to\nbe my baby\n[E]Everybody's trying to\nbe my baby\n[B7]Everybody's trying to\n[A]be my baby now\n[E]\n\n[Interlude]\n[E]\n[A]\n[E]\n[B7]\n[A]\n[E]\nWent\n\n[Verse 3]\n[E]out last night I\ndidn't stay late\n'Fore I got home I had\nnineteen dates\n\n[Chorus]\n[A]Everybody's trying to\nbe my baby\n[E]Everybody's trying to\nbe my baby\n[B7]Everybody's trying to\n[A]be my baby now\n[E]\n\n[Solo 1]\n[E]\n[A]\n[E]\n[B7]\n[A]\n[E]\n\n[Solo 2]\n[E]\n[A]\n[E]\n[B7]\n[A]\n[E]\nWent\n\n[Verse 4]\n[E]out last night I\ndidn't stay late\n'fore I got home I had\nnineteen dates\n\n[Chorus]\n[A]Everybody's trying to\nbe my baby\n[E]Everybody's trying to\nbe my baby\n[B7]Everybody's trying to\n[A]be my baby now\n[E]\nWell they\n\n[Verse 5]\n[E]took some honey\nfrom a tree\nDressed it up and they called\nit me\n\n[Chorus]\n[A]Everybody's trying to\nbe my baby\n[E]Everybody's trying to\nbe my baby\n[B7]Everybody's trying to\n[A]be my baby now\n[E]\n[E7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Everybody's Trying To Be My Baby",
+  "id": "a8ba78d09fe9e4eaa54d53a7c6b8bbf1423b7ed45adaa14643075d9e30e9fa18",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 236,
+  "normalizedKey": "the beatles|everybody s trying to be my baby",
+  "playableChords": [
+    "E",
+    "A",
+    "B7",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 7,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Interlude"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 63,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 75,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 79,
+      "name": "Chorus"
+    },
+    {
+      "measure": 87,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 91,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a8ba78d09fe9e4eaa54d53a7c6b8bbf1423b7ed45adaa14643075d9e30e9fa18",
+    "version": "BCFZ"
+  },
+  "tempo": 170,
+  "title": "Everybody's Trying To Be My Baby",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

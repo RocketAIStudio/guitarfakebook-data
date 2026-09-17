@@ -1,0 +1,104 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[C7]\n[G]\n[D]Ah,\n\n[Verse 1]\n[G]Kansas City\nGoing to get my baby back\nhome Yeah, yeah\nI'm go-\n[C]ing to Kansas City\nGoing to get my baby back\n[G]home Yeah, yeah\nWell, it's a\n[D]long, long, time Since\n[C]my baby's been gone\n[G]\n[D]Ah,\n\n[Verse 2]\n[G]Kansas City\nGoing to get my baby one time\nYeah, yeah\nI'm go-\n[C]ing to Kansas City\nGoing to get my baby one\n[G]time Yeah, yeah\nIt's just a\n[D]one, two, three, four\n[C]Five, six, seven, eight, nine,\n[G]\n[D]wah\n\n[Solo]\n[G]\n[C]\n[G]\n[D]\n[C]\n[G]\n[D]Hey, hey, hey,\n\n[Chorus]\n[G]hey (hey, hey, hey,\nhey) Hey, ba-\nby (hey, ba-\nby), woo no clown\n[C](no clown)\nI say you're no\n[G]clown (no clown)\nNow, now, now, now Tell\n[D]me baby\n[C]What's been wrong with you\n[G]\n[D]Hey, hey, hey,\n[G]hey (hey, hey, hey,\nhey) Hey now,\nbaby (hey, ba-\nby), woo no clown\n[C](no clown)\nI say you're no\n[G]clown (no clown)\nNow, now, now, now Tell\n[D]me baby\n[C]What's been wrong with you\n[G]\n[D]Well, I'll say bye\n\n[Outro]\n[G]\nBye, bye, baby bye, bye\nOh, so long\n[C]\nBye, bye, baby I'm\n[G]gone\nYeah, I said\n[D]Bye, bye, baby,\n[C]bye, bye\n[G]Bye, bye,\n[D]bye, bye, bye, bye\n\n[Fade Out]\n[G]\nBye, bye, baby bye, bye\nOh, so long\n[C]\nBye, bye, baby I'm\n[G]gone\nYeah, I said\n[D]Bye, bye, baby,\n[C]bye, bye\n[G]Bye, bye,\n[D]bye, bye, bye, bye",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Kansas City *alt",
+  "id": "3f26e67def62f7e99b75798082ad1fa7df14794e791e63679a78e592e1b21f4d",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 239,
+  "normalizedKey": "the beatles|kansas city",
+  "playableChords": [
+    "G",
+    "C7",
+    "D",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Solo"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Outro"
+    },
+    {
+      "measure": 78,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3f26e67def62f7e99b75798082ad1fa7df14794e791e63679a78e592e1b21f4d",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "Kansas City",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

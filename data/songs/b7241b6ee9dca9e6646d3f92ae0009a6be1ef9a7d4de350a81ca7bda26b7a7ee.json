@@ -1,0 +1,145 @@
+{
+  "artist": "Syd Matters",
+  "artistNormalized": "syd matters",
+  "capo": "4",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Am7]\n[Cmaj7]\n[G]\n\n[Pre-Verse]\n[Am7]\n[Cmaj7]\n[G]\nTo\n\n[Verse 1]\n[G]all of you, A-\nmerican [G/F#]girls, it's\n[Am]sad to I-\n[D7]magine a world without\n[G]you A-\nmerican [G/F#]girls I'd\n[Am]like to Be\n[D7]part of the world around\n[G]you\nDriving a [G/F#]car by the sea-\n[Am]side\n[D7]Watching the world from the bright\n[Em]side,\nyeah\n\n[Interlude]\n[Am7]\n[Cmaj7]\n[G]\nTo\n\n[Verse 2]\n[G]all of you, A-\nmerican [G/F#]girls in the mo-\n[Am]vies\n[D7]No one can tell where your heart\n[G]is A-\nmerican [G/F#]girls like\n[Am]dollies With\n[D7]shiny smiles and plastic\n[Em]bodies\nI wish I\n\n[Chorus]\n[Am7]had\nan Ame-\n[Cmaj7]rican\ngirl-\n[G]friend...\n\n[Interlude]\n[Am7]\n[Cmaj7]\n[G]\n[Am7]\n[Cmaj7]\nI\n\n[Verse 3]\n[G]cry sometimes\nwalking [G/F#]around my\n[Am]own place\n[D7]Wondering why she\n[G]cries sometimes\nTalking [G/F#]about her\n[Am]own place\n[D7]Somewhere around the\n[G]mountains\nNo one could [G/F#]dry her\n[Am]fountain\n[D7]Till she got tired to com-\n[Em]plain\nThat's when I\n\n[Chorus]\n[Am7]fly\nto the wild-\n[Cmaj7]land,\nto your\n[G]land\n\n[Outro]\n[Am7]\n[Cmaj7]\n[G]\n[Am7]\n[Cmaj7]\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/F#": {
+      "catalog": [
+        "220033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "To All Of You",
+  "id": "b7241b6ee9dca9e6646d3f92ae0009a6be1ef9a7d4de350a81ca7bda26b7a7ee",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 160,
+  "normalizedKey": "syd matters|to all of you",
+  "playableChords": [
+    "Am7",
+    "Cmaj7",
+    "G",
+    "G/F#",
+    "Am",
+    "D7",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b7241b6ee9dca9e6646d3f92ae0009a6be1ef9a7d4de350a81ca7bda26b7a7ee",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "To All Of You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

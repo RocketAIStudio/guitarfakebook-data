@@ -1,0 +1,108 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[F#]\n[G]\n\n[Verse 1]\n[G]One, two, three, four\n[D7]Can I have a little more?\n[G]Five, six, seven, eight, nine, [D7]ten,\nI love [G]you\n[G]A, B, C, D\n[D7]Can I bring my friend to tea?\n[G]E, F, G, H, I, [D7]J,\nI love [G]you Bom bom bom\n\n[Pre-Chorus]\n[C]bompa bom Sail the ship\n[G]Bompa bom Chop the tree\n[C]Bompa bom Skip the rope\n[D7]Bompa bom Look at me\nAll together now\n\n[Chorus]\n[G]All together now\nAll together now\n[D7]All together now\n[G]All together now\n\n[Verse 2]\n[G]Black, white, green, red\n[D7]Can I take my friend to bed?\n[G]Pink, brown, yellow, orange and [D7]blue,\nI love [G]you All together now\n\n[Chorus]\n[G]All together now\nAll together now\n[D7]All together now\n[G]All together now\n[G]All together now\nAll together now\n[D7]All together now\n[G]All together now Bom bom bom\n\n[Pre-Chorus]\n[C]bompa bom Sail the ship\n[G]Bompa bom Chop the tree\n[C]Bompa bom Skip the rope\n[D7]Bompa bom Look at me\nAll together now\n\n[Chorus]\n[G]All together now\nAll together now\n[D7]All together now\n[G]All together now\n[G]All together now\nAll together now\n[D7]All together now\n[G]All together now\n\n[Outro]\n[G]All together now\nAll together now\n[D7]All together now\nAll together\n[G]now",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "All Together Now *alt",
+  "id": "7a5b6ff9f2c9e9d6fdf513e4185f3f652c1ac2634d3d7d560fbd11d485fb86b4",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 252,
+  "normalizedKey": "the beatles|all together now",
+  "playableChords": [
+    "F#",
+    "G",
+    "D7",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 48,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7a5b6ff9f2c9e9d6fdf513e4185f3f652c1ac2634d3d7d560fbd11d485fb86b4",
+    "version": "BCFZ"
+  },
+  "tempo": 99,
+  "title": "All Together Now",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

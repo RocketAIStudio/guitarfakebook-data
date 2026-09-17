@@ -1,0 +1,122 @@
+{
+  "artist": "Snow Patrol",
+  "artistNormalized": "snow patrol",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am]  [F/A]\n[Gsus4]\n[Am]  [F/A]\n[Gsus4]\n[Am]  [F/A]\n[Gsus4]\n[Am]  [F/A]\n[Gsus4]I'll sing it\n\n[Verse 1]\n[Am]one last time [F/A]for you\n[Gsus4]Then we\n[Am]really have [F/A]to go\n[Gsus4]You've been the\n[Am]only thing [F/A]that's right\n[Gsus4]In all I've\n[Am]done [F/A]\n[Gsus4]And I can\n[Am]barely look [F/A]at you\n[Gsus4]But every\n[Am]single time [F/A]I do\n[Gsus4]I know we'll\n[Am]make it [F/A]anywhere\n[Gsus4]Away from\n[Am]here [F/A]\n[Gsus4]\n\n[Chorus]\n[C]Light up, light up\nAs if you have\n[G]a choice\nEven if you cannot hear\n[Am]my voice\n[Am]I'll be right beside you de-\n[F]ar\n[C]Louder louder\nAnd we'll run for\n[G]our lives\nI can hardly speak I un-\n[Am]derstand\n[Am]Why you can't raise your voice to\n[F]say\n\n[Pre-Verse]\n[Am]  [F/A]\n[Gsus4]\n[Am]  [F/A]\n[Gsus4]To think I\n\n[Verse 2]\n[Am]might not see [F/A]those eyes\n[Gsus4]Makes it\n[Am]so hard not [F/A]to cry\n[Gsus4]And as we\n[Am]say our long [F/A]goodbye\n[Gsus4]I nearly\n[Am]do [F/A]\n[Gsus4]\n\n[Chorus]\n[C]Light up, light up\nAs if you have\n[G]a choice\nEven if you cannot hear\n[Am]my voice\n[Am]I'll be right beside you de-\n[F]ar\n[C]Louder louder\nAnd we'll run for\n[G]our lives\nI can hardly speak I un-\n[Am]derstand\n[Am]Why you can't raise your voice to\n[F]say\n[C]Slower slower\nWe don't have time\n[G]for that\nAll I want is to find an e-\n[Am]asier way\n[Am]To get out of our little\n[F]heads\n[C]Have heart my dear\nWe're bound to be\n[G]afraid\nEven if it's just for a\n[Am]few days\n[Am]Making up for all this\n[F]mess\n\n[Solo]\n[C]\n[G]\n[Am]\n[F]\n[C]\n[G]\n[Am]\n[F]\n\n[Outro]\n[C]Light up, light up\nAs if you have\n[G]a choice\nEven if you cannot hear\n[Am]my voice\nI'll be right beside you de-\n[F]ar\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F/A": {
+      "catalog": [
+        "x0321x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus4": {
+      "catalog": [
+        "35553x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Run",
+  "id": "286284c82be9ce7530e45d7534466678a76c219359bc255776c0e372341b1049",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 271,
+  "normalizedKey": "snow patrol|run",
+  "playableChords": [
+    "Am",
+    "F/A",
+    "Gsus4",
+    "C",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Solo"
+    },
+    {
+      "measure": 101,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "286284c82be9ce7530e45d7534466678a76c219359bc255776c0e372341b1049",
+    "version": "BCFZ"
+  },
+  "tempo": 75,
+  "title": "Run",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

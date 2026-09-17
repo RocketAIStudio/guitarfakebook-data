@@ -1,0 +1,116 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "1",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A7]\n\n[Verse 1]\n[A7]She said [G]\n[D]I know what it's\n[A7]like to be [G]dead\n[D]I know what it\n[A7]is to be [G]sad\n[D]And she's\n[A7]making me feel [G]like I've\n[D]never been [A7]born\n[A7]  [G]\n[D]  [A7]\n\n[Verse 2]\n[A7]I said [G]\n[D]Who put all those\n[A7]things in your [G]head\n[D]Things that make me\n[A7]feel that I'm [G]mad\n[D]And you're\n[A7]making me feel [G]like I've\n[D]never been [A7]born\n[A7]  [G]\n[D]  [A7]\n\n[Chorus]\n[A7]She said [G]you don't under-\n[A7]stand what I said I said\n[G]no no no you're\n[A7]wrong When I was a\n\n[Bridge]\n[Em]boy,\n[A7]\neverything was\n[D]right\n[A7]\nEverything was\n[D]right\n\n[Verse 3]\n[A7]I said [G]\n[D]Even though you\n[A7]know what you [G]know\n[D]I know that I'm\n[A7]ready to [G]leave\n[D]'Cause you're\n[A7]making me feel [G]like I've\n[D]never been [A7]born\n[A7]  [G]\n[D]  [A7]\n\n[Chorus]\n[A7]She said [G]you don't under-\n[A7]stand what I said I said\n[G]no no no you're\n[A7]wrong When I was a\n\n[Bridge]\n[Em]boy,\n[A7]\neverything was\n[D]right\n[A7]\nEverything was\n[D]right\n\n[Verse 4]\n[A7]I said [G]\n[D]Even though you\n[A7]know what you [G]know\n[D]I know that I'm\n[A7]ready to [G]leave\n[D]'Cause you're\n[A7]making me feel [G]like I've\n[D]never been [A7]born\n[A7]  [G]\n[D]  [A7]\n\n[Outro]\n[A7]She said\nI know what it's\nlike to be dead\nI know what it\nis to be sad\nI know what it's\nlike to be dead",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "She Said She Said *alt",
+  "id": "5acc134191589bde4e022829f79ae01f9ca80104523a2f7a812ce1f730e0b4ab",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 220,
+  "normalizedKey": "the beatles|she said she said",
+  "playableChords": [
+    "A7",
+    "G",
+    "D",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 56,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 66,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5acc134191589bde4e022829f79ae01f9ca80104523a2f7a812ce1f730e0b4ab",
+    "version": "BCFZ"
+  },
+  "tempo": 108,
+  "title": "She Said She Said",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

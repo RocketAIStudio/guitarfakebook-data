@@ -1,0 +1,108 @@
+{
+  "artist": "Sports",
+  "artistNormalized": "sports",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n[Bm]\n[Em]\n[D]\n[Am]\n[Bm]\n[Em]\n[D]\n[Am]\n[Bm]\n[Em]\n[D]\n\n[Verse 1]\n[Am]You were the right\n[Bm]way\n[Em]I was just wai\n[D]ting for you to look at\n[Am]me Is there a wrong\n[Bm]time\n[Em]Baby, I'm guess\n[D]ing Just let me\n\n[Chorus]\n[Am]know\n[Bm]\n[Em]\n[D]Just let me\n[Am]know\n[Bm]\n[Em]\n[D]\n\n[Verse 2]\n[Am]Well, it's been a long\n[Bm]time\n[Em]Since you've been lone\n[D]ly So what will I\n[Am]do You are the right\n[Bm]one\n[Em]And I'm just the boy\n[D]who is looking at\n\n[Chorus]\n[Am]you\n[Bm]\n[Em]\n[D]So what will I\n[Am]do\n[Bm]\n[Em]\n[D]\n\n[Verse 3]\n[Am]I tried the wrong\n[Bm]way\n[Em]I was just guess\n[D]ing, biding my\n[Am]time You are the on\n[Bm]ly\n[Em]One I can pic\n[D]ture by my\n\n[Bridge]\n[Am]side\n[Bm]\n[Em]\n[D]\n[Am]\n[Bm]\n[Em]\n[D]\n\n[Outro]\n[Am]\n[Bm]\n[Em]\n[D]\n[Am]\n[Bm]\n[Em]\n[D]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "777555",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "999777",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You Are The Right One",
+  "id": "6ca173265873b51852a1ccc1a1c929c1de027c3de1efc9c79dbfe95c4c89f9e5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 104,
+  "normalizedKey": "sports|you are the right one",
+  "playableChords": [
+    "Am",
+    "Bm",
+    "Em",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 55,
+      "name": "Bridge"
+    },
+    {
+      "measure": 63,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6ca173265873b51852a1ccc1a1c929c1de027c3de1efc9c79dbfe95c4c89f9e5",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "You Are The Right One",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

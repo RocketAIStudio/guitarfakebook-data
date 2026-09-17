@@ -1,0 +1,129 @@
+{
+  "artist": "Sum 41",
+  "artistNormalized": "sum 41",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Dm]\n[Bb]\n[F]\n[C/E]\n\n[Verse 1]\n[Dm]I tried to be per-\n[Bb]fect But nothing was worth\n[F]it I don't believe\n[C/E]it makes me\n[Dm]real I thought it'd be ea-\n[Bb]sy But no one believes\n[F]me I meant all\n[C/E]the things I\n\n[Chorus]\n[Bb]said If you believe\nit's in my so-\n[F]ul I'd say all\n[C/E]the words that I kn-\n[Bb]ow Just to see\nif it would sh-\n[F]ow That I'm try-\n[C/E]ing to let you kn-\n[Bb]ow That I'm bet-\nter off on my\n\n[Bridge]\n[Dm]own\n[Bb]\n[F]\n[C/E]\n\n[Verse 2]\n[Dm]This place is so emp-\n[Bb]ty My thoughts are so temp-\n[F]ting I don't know how\n[C/E]it got so\n[Dm]bad Sometimes it's so cra-\n[Bb]zy That nothing can save\n[F]me But it's the\n[C/E]only thing that I ha-\n\n[Chorus]\n[Bb]ve If you believe\nit's in my so-\n[F]ul I’d say all\n[C/E]the words that I kn-\n[Bb]ow Just to see\nif it would sh-\n[F]ow That I'm try-\n[C/E]ing to let you kn-\n[Bb]ow That I'm bet-\nter off on my\n\n[Solo]\n[F]own\n[Bb]\n[F]\n[Bb]\n[D5]  [C5]\n[Bb]  [F]\n[D5]  [C5]\n[Bb]  [F]\n[A5]\n\n[Verse 3]\n[Dm]I tried to be per-\n[Bb]fect It just wasn't worth\n[F]it Nothing could e-\n[C/E]ver be so\n[Dm]wrong It's hard to believe\n[Bb]me It never gets ea-\n[F]sy I guess I\n[C/E]knew that all alo-\n\n[Chorus]\n[Bb]ng If you believe\nit's in my so-\n[F]ul I'd say all\n[C/E]the words that I kn-\n[Bb]ow Just to see\nif it would sh-\n[F]ow That I'm try-\n[C/E]ing to let you kn-\n[Bb]ow That I'm bet-\nter off on my\n[F]own",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C/E": {
+      "catalog": [
+        "2320xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "000231",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "3332xx",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pieces",
+  "id": "585407254df07e2ab18b5be363b8226649d71ac212dc2a9a786b298cdd9925b1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 251,
+  "normalizedKey": "sum 41|pieces",
+  "playableChords": [
+    "Dm",
+    "Bb",
+    "F",
+    "C/E",
+    "D5",
+    "C5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Solo"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "585407254df07e2ab18b5be363b8226649d71ac212dc2a9a786b298cdd9925b1",
+    "version": "BCFZ"
+  },
+  "tempo": 99,
+  "title": "Pieces",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,141 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "Any time at\n\n[Chorus]\n[Bm]all,\n[D]any time at\n[A]all\nAny time at\n[Bm]all, all you've gotta do is\n[G]call and [A7]I'll be\n[D]there\n\n[Verse 1]\n[D]If you need some-\n[F#m]body to love\n[Bm]Just look into my eyes\n[Gm]\n[D]I'll be there to\n[A]make you feel right\n[D]If you're feeling\n[F#m]sorry and sad\n[Bm]I'd really sympathize\n[Gm]\n[D]Don't you be sad, just\n[A]call me to night\n[D]\nAny time at\n\n[Chorus]\n[Bm]all,\n[D]any time at\n[A]all\nAny time at\n[Bm]all, all you've gotta do is\n[G]call and [A7]I'll be\n[D]there\n\n[Verse 2]\n[D]If the sun has\n[F#m]faded away\n[Bm]I'll try to make it shine\n[Gm]\n[D]There is nothing I\n[A]won't do\n[D]When you need a\n[F#m]shoulder to cry on\n[Bm]I hope it will be mine\n[Gm]\n[D]Call me tonight, and\n[A]I'll come to you\n[D]\nAny time at\n\n[Chorus]\n[Bm]all,\n[D]any time at\n[A]all\nAny time at\n[Bm]all, all you've gotta do is\n[G]call and [A7]I'll be\n[D]there\n\n[Interlude]\n[A]  [Bm]\n[A7]\n[A]  [Bm]\n[A7]\n[G]\n[A]\n[G]\n[A]\n[D]\nAny time at\n\n[Chorus]\n[Bm]all,\n[D]any time at\n[A]all\nAny time at\n[Bm]all, all you've gotta do is\n[G]call and [A7]I'll be\n[D]there\nA ny time at\n\n[Outro]\n[G]all, all you've gotta do is\n[A7]call and I'll be\n[D]there",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Any Time At All *alt",
+  "id": "a5d710922f06d1be8b92ab8bad1f0e0419bd513d3e8ee8ab5144c49dd537f275",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 212,
+  "normalizedKey": "the beatles|any time at all",
+  "playableChords": [
+    "Bm",
+    "D",
+    "A",
+    "G",
+    "A7",
+    "F#m",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Chorus"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Interlude"
+    },
+    {
+      "measure": 64,
+      "name": "Chorus"
+    },
+    {
+      "measure": 72,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a5d710922f06d1be8b92ab8bad1f0e0419bd513d3e8ee8ab5144c49dd537f275",
+    "version": "BCFZ"
+  },
+  "tempo": 143,
+  "title": "Any Time At All",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

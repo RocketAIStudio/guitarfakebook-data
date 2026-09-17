@@ -1,0 +1,142 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\n[G]\n[A]Oh,\n[G]oh,\n\n[Verse 1]\n[D]you've [G]been good to\n[D]me [G]You made me\n[D]glad [A]When I was\n[D]blue [G]\n[D]And [G]eternal-\n[D]ly [G]I'll always\n[D]be [A]In love with\n[D]you And\n\n[Chorus]\n[G]all I gotta\n[A]do Is\n[G]thank you girl,\n[A]thank you girl\n\n[Verse 2]\n[D]I [G]could tell the\n[D]world [G]A thing or\n[D]two [A]about our\n[D]love [G]\n[D]I [G]know little girl\n[D][G]Only a\n[D]fool [A]would doubt our\n[D]love And\n\n[Chorus]\n[G]all I gotta\n[A]do Is\n[G]thank you girl,\n[A]thank you girl\n\n[Bridge]\n[Bm]Thank you girl for\n[D]loving me The\n[A]way that you do\n(Way that you do)\n[Em]That's the kind of\n[A]love That is too\n[D]good to be true\n[D7]And\n\n[Chorus]\n[G]all I gotta\n[A]do Is\n[G]thank you girl,\n[A]thank you girl\n\n[Interlude]\n[A]\n[G]\n[A]Oh,\n[G]oh,\n\n[Verse 3]\n[D]you've [G]been good to\n[D]me [G]You made me\n[D]glad [A]When I was\n[D]blue [G]\n[D]And [G]eternal-\n[D]ly [G]I'll always\n[D]be [A]In love with\n[D]you And\n\n[Chorus]\n[G]all I gotta\n[A]do Is\n[G]thank you girl,\n[A]thank you girl\n\n[Outro]\n[A]\n[G]\n[A]Oh,\n[G]oh,\n[D]oh [G]\n[D]  [G]\n[A]Oh,\n[G]oh,\n[D]oh [G]\n[D]  [G]\n[A]Oh,\n[G]oh\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Thank You Girl *alt",
+  "id": "3cfbb7a16608b498e43aee109ecca02390b012b8ee08e9f3bd0b3fb03a767b78",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 170,
+  "normalizedKey": "the beatles|thank you girl",
+  "playableChords": [
+    "A",
+    "G",
+    "D",
+    "Bm",
+    "Em",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3cfbb7a16608b498e43aee109ecca02390b012b8ee08e9f3bd0b3fb03a767b78",
+    "version": "BCFZ"
+  },
+  "tempo": 138,
+  "title": "Thank You Girl",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

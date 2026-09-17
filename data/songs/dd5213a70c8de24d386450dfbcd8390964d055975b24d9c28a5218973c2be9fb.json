@@ -1,0 +1,106 @@
+{
+  "artist": "System of a Down",
+  "artistNormalized": "system of a down",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D5]  [C5]  [B5]  [C#5]\n[D5]  [C5]  [B5]  [D#5]\n\n[Chorus]\n[F5]Television in disgrace\nLife you get old, it's the race,\nCan you break out, Can you break out,\nWill you live at your own pace.\n\n[Verse 1]\n[D5]  [C5]  [B5]  [C#5]\n[D5]  [C5]  [B5]  [D#5]\n[D5]Life [C5][B5]so [C#5]un-\n[D5]necessary, [C5][B5][D#5]\n\n[Chorus]\n[F5]Television in disgrace\nLife you get old, it's the race,\nCan you break out, Can you break out,\nWill you live at your own pace.\n\n[Bridge]\n[D5][C5][B5][C#5]Now\n\n[Chorus]\n[F5]will you live at your own pace?\n\n[Bridge]\n[D5]  [C5]  [B5]  [D#5]\n\n[Outro]\n[F5]Will you live at your own pace",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "111xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "36 *alt",
+  "id": "dd5213a70c8de24d386450dfbcd8390964d055975b24d9c28a5218973c2be9fb",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 80,
+  "normalizedKey": "system of a down|36",
+  "playableChords": [
+    "D5",
+    "C5",
+    "B5",
+    "C#5",
+    "D#5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Chorus"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Bridge"
+    },
+    {
+      "measure": 16,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 18,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dd5213a70c8de24d386450dfbcd8390964d055975b24d9c28a5218973c2be9fb",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "36",
+  "tuning": "C G C F A D",
+  "variantRole": "alt"
+}

@@ -1,0 +1,134 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[E]He's a real\n[B]nowhere man\n[A]Sitting in his\n[E]nowhere land\n[F#m]Making all his\n[Am]nowhere plans for\n[E]nobody\n\n[Verse 2]\n[E]Doesn't have a\n[B]point of view\n[A]Knows not where he's\n[E]going to\n[F#m]Isn't he a bit like\n[Am]you and me?\n[E]\nNowhere man,\n\n[Chorus]\n[G#m]please\n[A]listen You don't know\n[G#m]what you're\n[A]missing Nowhere man,\n[G#m]the\n[A]world is\nat your command\n[B]\n\n[Solo]\n[E]\n[B]\n[A]\n[E]\n[F#m]\n[Am]\n[E]\n\n[Verse 3]\n[E]He's as blind as\n[B]he can be\n[A]Just sees what he\n[E]wants to see\n[F#m]Nowhere man can\n[Am]you see me at\n[E]all?\nNowhere man,\n\n[Chorus]\n[G#m]don't\n[A]worry Take your time,\n[G#m]don't\n[A]hurry Leave it all\n[G#m]till\n[A]somebody else\nlends you a hand\n[B]\n\n[Verse 4]\n[E]Doesn't have a\n[B]point of view\n[A]Knows not where he's\n[E]going to\n[F#m]Isn't he a bit\n[Am]like you and\n[E]me?\nNowhere man,\n\n[Chorus]\n[G#m]please\n[A]listen You don't know\n[G#m]what you're\n[A]missing Nowhere man,\n[G#m]the\n[A]world is\nat your command\n[B]\n\n[Verse 5]\n[E]He's a real\n[B]nowhere man\n[A]Sitting in his\n[E]nowhere land\n[F#m]Making all his\n[Am]nowhere plans for\n[E]nobody\n\n[Outro]\n[F#m]Making all his\n[Am]nowhere plans for\n[E]nobody\n[F#m]Making all his\n[Am]nowhere plans for\n[E]nobody",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "577655",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "799877",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Nowhere Man *alt 3",
+  "id": "81a08f69f9a1919d364c4c3722ac1e834e2cf7d64c8e8db3a31563d2f35d8a73",
+  "key": "G♭",
+  "keyIdentified": true,
+  "lyricEventCount": 208,
+  "normalizedKey": "the beatles|nowhere man",
+  "playableChords": [
+    "E",
+    "B",
+    "A",
+    "F#m",
+    "Am",
+    "G#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Solo"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "81a08f69f9a1919d364c4c3722ac1e834e2cf7d64c8e8db3a31563d2f35d8a73",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Nowhere Man",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,101 @@
+{
+  "artist": "The Allman Brothers Band",
+  "artistNormalized": "the allman brothers band",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[C7]\n\n[Solo 1]\n[C7]\n[F7]\n[C7]\n[F7]\n[C7]\n[G7]\n[F7]\n[C7]\n\n[Verse 1]\n[C7]Wake up momma,\n[F7]turn your lamp down low\n[C7]\nI said I\n[F7]wake up momma,\nturn your lamp down\n[C7]low\nYou\n[G7]got no nerve baby,\n[F7]to turn Uncle John from your\n[C7]door\nI\n\n[Verse 2]\n[C7]woke up this morning,\n[F7]I had them Statesboro Blues\n[C7]\nI said\n[F7]I woke up this morning,\nhad them Statesboro\n[C7]Blues\nSo be it, I looked o-\n[G7]ver in the corner baby,\n[F7]and Grandpa seemed to have them too\n[C7]\n\n[Solo 2]\n[C7]\n[F7]\n[C7]\n[F7]\n[C7]\n[G7]\n[F7]\n[C7]\n[F7]\n[C7]\n[F7]\n[C7]\n[G7]\n[F7]\n[C7]\nWell my\n\n[Verse 3]\n[C7]momma died and left me, my\npoppa died and left me I\nain't good looking baby but I'm\nsomewhat sweet and kind\n[F7]I'm goin' to the country,\nbaby do you wanna go?\n[C7]\nBut if you\n[G7]can't make it baby,\n[F7]your sister Lucille said she\n[C7]wanna go (and I sure\nwill take her)\n\n[Solo 3]\n[C7]\n[F7]\n[C7]\n[F7]\n[C7]\n[G7]\n[F7]\n[C7]\n[F7]\n[C7]\n[F7]\n[C7]\n[G7]\n[F7]\n[C7]\n\n[Verse 4]\n[C7]I love that woman,\n[F7]better than any woman I've ever\n[C7]seen\nWell,\n[F7]I love that woman,\nbetter than any woman I've ever\n[C7]seen\nShe\n[G7]treat me like a king, yeah,\n[F7]yeah And she look like a dog gone\n[C7]queen\n\n[Outro]\n[C7]Wake up momma,\n[F7]turn your lamp down\n[C7]low\nI said I\n[F7]wake up momma,\nturn your lamp down\n[C7]low\nYou\n[G7]got no nerve babe,\n[F7]to turn Uncle John from your\n[C7]door",
+  "diagrams": {
+    "C7": {
+      "catalog": [
+        "x35353",
+        "x-3-2-3-1-0",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "131211",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Statesboro Blues",
+  "id": "0bf42b6f4df81d10c028c7720d7d4660df947d9f794cbf941f18593185c73a45",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 224,
+  "normalizedKey": "the allman brothers band|statesboro blues",
+  "playableChords": [
+    "C7",
+    "F7",
+    "G7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 70,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 82,
+      "name": "Solo 3"
+    },
+    {
+      "measure": 106,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 118,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0bf42b6f4df81d10c028c7720d7d4660df947d9f794cbf941f18593185c73a45",
+    "version": "BCFZ"
+  },
+  "tempo": 122,
+  "title": "Statesboro Blues",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

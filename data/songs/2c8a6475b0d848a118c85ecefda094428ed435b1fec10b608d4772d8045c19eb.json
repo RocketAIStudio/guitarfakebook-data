@@ -1,0 +1,120 @@
+{
+  "artist": "The Allman Brothers Band",
+  "artistNormalized": "the allman brothers band",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n\n[Pre-Verse]\n[A]\n[D]\n[A]\n[E]\n[D]\n[A]\nAin't but\n\n[Verse 1]\n[A]one way out, baby,\nLord I just can't go out the door\nAin't but\n[D]one way out, baby\nand Lord, I just can't go out the door\n[A]\n'Cause there's a man\n[E]down there,\n[D]might be your man, I don't know\n\n[Pre-Verse]\n[A]\nLord, you\n\n[Verse 2]\n[A]got me trapped, a woman, up\non the second floor If\nI get by this time I won't be\ntrapped no more\n[D]So raise your window, baby\nand I can ease out soft and\n[A]slow\nAnd Lord, your\n[E]neighbors, no they won't be\n[D]Talking that stuff that they don't know\n\n[Pre-Solo]\n[A]\n\n[Solo 1]\n[A]\n[D]\n[A]\n[E]\n[D]\n[A]\n[A]\n[D]\n[A]\n[E]\n[D]\n[A]\n\n[Break]\n[A]\n\n[Solo 2]\n[A]\n[D]\n[A]\n[E]\n[D]\n[A]\nLord, I'm\n\n[Verse 3]\n[A]foolish to be here\non the first place\nI know some man gonna walk in\nand take my place, and\n[D]Ain't no way in the world\nI'm going out that front door\n[A]\n'Cause there's a man\n[E]down there,\n[D]might be your man, I don't know\n[A]\n'Cause there's a man\n[E]down there,\n[D]might be your man, I don't know\n[A]\n'Cause there's a man\n[E]down there\n\n[Outro]\n[D]Lord, it just might happen to be your\nman\nOh, it just a might be your man\nLord, it just a might be your man\nOh babe, I just don't know\n[A]\n[A7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "One Way Out (live at the Fillmore East)",
+  "id": "2c8a6475b0d848a118c85ecefda094428ed435b1fec10b608d4772d8045c19eb",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 203,
+  "normalizedKey": "the allman brothers band|one way out live at the fillmore east",
+  "playableChords": [
+    "A",
+    "D",
+    "E",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 39,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Pre-Solo"
+    },
+    {
+      "measure": 53,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 77,
+      "name": "Break"
+    },
+    {
+      "measure": 81,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 97,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 114,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2c8a6475b0d848a118c85ecefda094428ed435b1fec10b608d4772d8045c19eb",
+    "version": "BCFZ"
+  },
+  "tempo": 108,
+  "title": "One Way Out (live at the Fillmore East)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

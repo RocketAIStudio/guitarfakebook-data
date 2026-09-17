@@ -1,0 +1,93 @@
+{
+  "artist": "Tears For Fears",
+  "artistNormalized": "tears for fears",
+  "capo": "No capo",
+  "chordPositionCount": 3,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[D5]\n[A5]\n\n[Theme 1-1]\n[D5]\n[A5]\n\n[Theme 1-2]\n[D5]\n[A5]\n\n[Theme 2]\n[C5]\n[D5]\n[C5]\n[D5]\n\n[Solo]\n[D5]\n[A5]\n[D5]\n[A5]\n\n[Verse 1]\n[D5]Between the searching and the\nneed to work it out\nI stop believing every-\nthing will be alright\n\n[Chorus]\n[A5]Broken,\nwe are\nbroken\n\n[Verse 2]\n[D5]I'm walking uphill being\nturned around and round\nSecret in motion when my\nfeet are on the ground\n\n[Chorus]\n[A5]Broken,\nwe are\nbroken\n\n[Outro]\n[C5]\nIn m-\n[D5]y mind's eye\n[C5]One little boy anger one little man\nFunny how\n[D5]ti-\nme fli-\nes",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Broken",
+  "id": "b56c4d4af17e4c1cb1df7e24074d0b09711384c537b086bc9a9f1ca7f43b8beb",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 80,
+  "normalizedKey": "tears for fears|broken",
+  "playableChords": [
+    "D5",
+    "A5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Theme 1-1"
+    },
+    {
+      "measure": 18,
+      "name": "Theme 1-2"
+    },
+    {
+      "measure": 26,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 34,
+      "name": "Solo"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b56c4d4af17e4c1cb1df7e24074d0b09711384c537b086bc9a9f1ca7f43b8beb",
+    "version": "BCFZ"
+  },
+  "tempo": 115,
+  "title": "Broken",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,131 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A7]\n\n[Verse 1]\n[A7]Ring my friend, I said\nyou'd call Doctor\nRobert.\nDay or night, he'll be\nthere anytime at all,\nDoctor Robert.\nDoctor\n\n[Chorus]\n[F#7]Robert,\nyou're a new\nand better man.\nHe helps you\nto understand.\nHe does ev-\n[E]'rything he can,\n[F#7]Doctor\n[B7]Robert.\n\n[Verse 2]\n[A7]If you're down, he'll pick\nyou up, Doctor\nRobert.\nTake a drink from his\nspecial cup, Doctor\nRobert.\nDoctor\n\n[Chorus]\n[F#7]Robert.\nHe's a man,\nyou must believe,\nhelping a-\nnyone in need.\n[E]No one can suc-\n[F#7]ceed like Doctor Rob-\n[B7]ert.\n\n[Bridge]\n[B]Well, well\nwell you're\n[E]feeling\n[B]fine.\nWell, well\nwell, he'll\n[E]make you.\nDoctor\n[A7]Robert.\n\n[Verse 3]\n[A7]My friend works for the\nnation'l health Doctor\nRobert.\nDon't pay money just to\nsee yourself with Doctor\nRobert.\nDoctor\n\n[Chorus]\n[F#7]Robert.\nYou're a new\nand better man.\nHe helps you\nto understand.\nHe does ev-\n[E]'rything he can,\n[F#7]Doctor\n[B7]Robert.\n\n[Bridge]\n[B]Well, well,\nwell, you're\n[E]feeling\n[B]fine.\nWell, well,\nwell, he'll\n[E]make you.\nDoctor\n[A7]Robert.\n\n[Verse 4]\n[A7]Ring my friend, I said\nyou'd call, Doctor\nRobert.\nRing my friend, I said\nyou'd call, Doctor\nRobert.\nDoctor\n\n[Outro]\n[F#7]Robert.\n[B]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "575655",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "797877",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Doctor Robert *alt",
+  "id": "4ae30eeb32507f93f704ad8de575f601ce815811ea323862c15d5d1bce2b0f57",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 221,
+  "normalizedKey": "the beatles|doctor robert",
+  "playableChords": [
+    "A7",
+    "F#7",
+    "E",
+    "B7",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Bridge"
+    },
+    {
+      "measure": 79,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 87,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4ae30eeb32507f93f704ad8de575f601ce815811ea323862c15d5d1bce2b0f57",
+    "version": "BCFZ"
+  },
+  "tempo": 165,
+  "title": "Doctor Robert",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,137 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[F]\n[Caug]\n[Fm7]\n[Bb7]I'm\n\n[Verse 1]\n[F]fixing a hole [Caug]where the rain\n[Fm7]gets in [Fm6]And\n[Fm7]stops my mind from wan-\n[Bb7]de ring Where it will\n[Fm7]go\n[Bb7]\n[Fm7]\n[Bb7]I'm\n\n[Verse 2]\n[F]filling the cracks [Caug]that ran\n[Fm7]through the door [Fm6]And\n[Fm7]kept my mind from wan\n[Bb7]dering Where it will\n[Fm7]go\n[Bb7]\n[Fm7]\n[Bb7]And it\n\n[Chorus]\n[F]really doesn't [C]matter if I'm wrong\n[F]I'm right [C]Where I belong\n[F]I'm right [C]Where I belong\n[F]\n[C]See the people standing [G]there Who\n[C]disagree and [G]never win And\n[C]wonder why they [G]don't get in my\n[C]door I'm\n\n[Verse 3]\n[F]painting my room [Caug]in the co\n[Fm7]lourful way [Fm6]And\n[Fm7]when my mind is wan\n[Bb7]dering There I will\n[Fm7]go\n[Bb7]\n[Fm7]Ooh ooh ooh ah\n[Bb7]ah Hey, hey, hey,\n\n[Interlude]\n[F]hey [Caug]\n[Fm7]  [Fm6]\n[Fm7]\n[Bb7]\n[Fm7]\n[Bb7]\n[Fm7]\n[Bb7]And it\n\n[Chorus]\n[F]really doesn't [C]matter if I'm wrong\n[F]I'm right [C]Where I belong\n[F]I'm right [C]Where I belong\n[F]\n[C]Silly people run [G]around They\n[C]worry me and [G]never ask me\n[C]Why they don't get [G]past my\n[C]door I'm\n\n[Verse 4]\n[F]taking the time [Caug]for a num\n[Fm7]ber of things [Fm6]That\n[Fm7]weren't impor tant yes\n[Bb7]terday And I still\n[Fm7]go\n[Bb7]\n[Fm7]Ooh ooh ooh ah\n[Bb7]ah I'm\n\n[Outro]\n[F]fixing a hole [Caug]where the rain\n[Fm7]gets in [Fm6]\n[Fm7]Stops my mind from wan\n[Bb7]dering Where it will\n[Fm7]go oh\n[Bb7]Where it will\n[Fm7]go oh\n[Bb7]I'm\n[Fm7]fixing a hole where the rain\n[Bb7]gets in And\n[Fm7]stops my mind from wan\n[Bb7]dering Where it will\n[Fm7]go",
+  "diagrams": {
+    "Bb7": {
+      "catalog": [
+        "x13131",
+        "6-5-3-3-3-4",
+        "6-8-6-7-6-6",
+        "x-x-8-10-9-10",
+        "x-13-12-13-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Caug": {
+      "catalog": [
+        "x32110"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm6": {
+      "catalog": [
+        "133131"
+      ],
+      "catalogCount": 1
+    },
+    "Fm7": {
+      "catalog": [
+        "131111",
+        "x-x-3-5-4-4",
+        "x-8-10-8-9-8",
+        "13-15-13-13-13-13",
+        "x-20-22-20-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Fixing A Hole *alt",
+  "id": "254e17e9f3a6f54c7cba74b9fb9fc45c7597b24cf10e9f11790545e745704480",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 256,
+  "normalizedKey": "the beatles|fixing a hole",
+  "playableChords": [
+    "F",
+    "Caug",
+    "Fm7",
+    "Bb7",
+    "Fm6",
+    "C",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "254e17e9f3a6f54c7cba74b9fb9fc45c7597b24cf10e9f11790545e745704480",
+    "version": "BCFZ"
+  },
+  "tempo": 93,
+  "title": "Fixing A Hole",
+  "tuning": "D A D G B E",
+  "variantRole": "alt"
+}

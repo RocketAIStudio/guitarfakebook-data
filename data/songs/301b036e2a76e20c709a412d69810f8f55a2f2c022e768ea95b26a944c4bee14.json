@@ -1,0 +1,129 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "5",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C]\n[Am]\n[C]\n[Am]\n\n[Verse 1]\n[C]I get [Em]high when\n[Bb]I see [F]you go\n[G]by\n[Gaug]My oh my\n[C]When you [Em]sigh, my,\n[Bb]my [F]inside just\n[G]flies\n[Gaug]Butterflies\n[F]Why am I so\n[G]shy when I'm be-\n[C]side you?\n[Am]It's only\n\n[Chorus]\n[Bb]love and that is all\n[G]Why should I feel\n[C]the way I do?\n[Am]It's only\n[Bb]love, and that is all\n[G]But it's so\n[F]hard loving you\n[G]\n\n[Verse 2]\n[C]Is it [Em]right that\n[Bb]you and [F]I should\n[G]fight\n[Gaug]Every night?\n[C]Just the [Em]sight of\n[Bb]you makes [F]nighttime\n[G]bright\n[Gaug]Very bright\n[F]Haven't I the right\n[G]to make it\n[C]up girl?\n[Am]It's only\n\n[Chorus]\n[Bb]love and that is all\n[G]Why should I feel\n[C]the way I do?\n[Am]It's only\n[Bb]love, and that is all\n[G]But it's so\n[F]hard loving\n[G]you Yes it's so\n[F]hard loving\n[G]you, loving\n\n[Outro]\n[C]you\n[Am]\n[C]\n[Am]\n[C]\n[Am]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gaug": {
+      "catalog": [
+        "xx5443"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "It's Only Love *alt",
+  "id": "301b036e2a76e20c709a412d69810f8f55a2f2c022e768ea95b26a944c4bee14",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 141,
+  "normalizedKey": "the beatles|it s only love",
+  "playableChords": [
+    "C",
+    "Am",
+    "Em",
+    "Bb",
+    "F",
+    "G",
+    "Gaug"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "301b036e2a76e20c709a412d69810f8f55a2f2c022e768ea95b26a944c4bee14",
+    "version": "BCFZ"
+  },
+  "tempo": 113,
+  "title": "It's Only Love",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}
