@@ -1,0 +1,136 @@
+{
+  "artist": "The Strokes",
+  "artistNormalized": "the strokes",
+  "capo": "No capo",
+  "chordPositionCount": 28,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[C]\n\n[Verse 1]\n[C]Won't decide but he\nwon't debate Sayid\nthanks my friend but it\nwas too late Oh\n[Dm]why oh why\nI don't know\n[C]\nSo you\n[C]think things move pretty\nfast down here Well just\nwait my dear 'till you\nlook up there Oh\n[Dm]maybe som-\nday you'll know\n[C]\nHad his\n[C]second kid was an\nearly night Got to\nbe well dressed cause he\nhates to fly Oh\n[Dm]loves his job,\ntakes it home\n[C]Any thing they\n\n[Chorus]\n[F]wan-\n[F(b5)]ted\n[F]They\n[F(b5)]could\n[F]have\n[Am]it\n[F]have\n[Am]it Didn't even\n[F]no-\n[F(b5)]tice\n[F]I\n[F(b5)]don't\n[F]mind\n[Am]it\n[F]mind\n[Am]it\n\n[Solo]\n[A#]\n[Gsus2]\n[A#]\n[Gsus2]\n[A#]\n[Gsus2]\n[A#]\n[Gsus2]\n\n[Verse 2]\n[C]Won't decide but he\nwon't debate Sayin\nthanks my friend thought that\nwe was dead Oh\n[Dm]why oh why\nI don't know\n[C]\n[C]Think things move pretty\nfast down here Well just\nwait my dear 'till we\nget up there Oh\n[Dm]maybe some-\nday they'll know\n[C]Come on tell me\n\n[Chorus]\n[F]does\n[F(b5)]she\n[F]warm\n[F(b5)]the\n[F]room\n[Am]When\n[F]he\n[Am]comes Or does he just\n[F]know\n[F(b5)]how\n[F]to\n[F(b5)]leave\n[F]When\n[Am]it\n[F]gets\n[Am]cold\n\n[Outro]\n[G]I don't care\nI don't care cause it's\n[C]free",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "x13331"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F(b5)": {
+      "catalog": [
+        "1232xx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus2": {
+      "catalog": [
+        "30023x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "When It Started *alt",
+  "id": "a5d4309b037fd7607a877cec16297c4b7bc1301e132fc66f6041a8fc69b4ae77",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 191,
+  "normalizedKey": "the strokes|when it started",
+  "playableChords": [
+    "C",
+    "Dm",
+    "F",
+    "F(b5)",
+    "Am",
+    "A#",
+    "Gsus2",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Solo"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 74,
+      "name": "Chorus"
+    },
+    {
+      "measure": 90,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a5d4309b037fd7607a877cec16297c4b7bc1301e132fc66f6041a8fc69b4ae77",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "When It Started",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

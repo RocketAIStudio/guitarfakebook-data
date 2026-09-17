@@ -1,0 +1,129 @@
+{
+  "artist": "The Sword",
+  "artistNormalized": "the sword",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Ab5]\n\n[Verse 1]\n[Ab5]The days are getting short\nagain\nLeaves fall from the trees\n[Ab5]Nights are haunted by how\nling winds\nHarbinger of the dreeze\n[Db5]But sometimes there's no way\nto know\n[Ab5]\n[Eb5]Until it's\n[Db5]too late and\n[Ab5]You wake up to an ear\nly snow\n\n[Verse 2]\n[Ab5]Eyes have become cold\nagain\nA distant light from the trees\n[Ab5]Waiting for winter to\nbegin\nBefore it's up to your\nknees\n[Db5]But sometimes there's no way\nto know\n[Ab5]\n[Eb5]Until it's\n[Db5]too late and\n[Ab5]You wake up to an ear\nly snow\n\n[Pre-Chorus]\n[Db5]Brace yourself against\nthe cold\n[Ab5]Wish you could have stayed\nin bed\n[Db5]Follow me for bread\nand gold\n[Eb5]An ancient nexus lies\nahead\n\n[Solo]\n[Ab5]\n\n[Bridge]\n[Ab]When the days become warm\nagain\nMountains covered with green\nFlower's bloom as the clouds\nroll by\nAin't a better sight\n[Db]to be seen\n\n[Intrelude]\n[Ab5]\n[Db]\n[Ab5]\n[Db]\n[Ab5]\n[Db]\n[Ab5]\n[Db]\n\n[Outro 1]\n[Ab5]Brace yourself against\n[Db]the cold\n[Ab5]There's a road we all must\n[Gb]tend [Db/F]\n[Ab5]Fallen leaves of red\n[Db]and gold\n[Ab5]An ancient nexus lies\n[Db]ahead\n\n[Outro 2]\n[Ab5]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x02220",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Ab5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "Db": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Db/F": {
+      "catalog": [
+        "254232"
+      ],
+      "catalogCount": 1
+    },
+    "Db5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gb": {
+      "catalog": [
+        "355433",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Early Snow",
+  "id": "127547b66c3fcc092c74706cf872ebbf3757b2908bdcabb029f0bd012e31b182",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 191,
+  "normalizedKey": "the sword|early snow",
+  "playableChords": [
+    "Ab5",
+    "Db5",
+    "Eb5",
+    "Ab",
+    "Db",
+    "Gb",
+    "Db/F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Solo"
+    },
+    {
+      "measure": 63,
+      "name": "Bridge"
+    },
+    {
+      "measure": 71,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 79,
+      "name": "Outro 1"
+    },
+    {
+      "measure": 87,
+      "name": "Outro 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "127547b66c3fcc092c74706cf872ebbf3757b2908bdcabb029f0bd012e31b182",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Early Snow",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

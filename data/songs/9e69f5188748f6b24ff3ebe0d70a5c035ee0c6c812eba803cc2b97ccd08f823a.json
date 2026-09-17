@@ -1,0 +1,124 @@
+{
+  "artist": "The Offspring",
+  "artistNormalized": "the offspring",
+  "capo": "2",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\n[D]\n[C]\n[G]\n[D]\n[C]\n\n[Bridge]\n[D]\n[C]\n[G]\n[D]\n[C]\n[D]\n[C]\n[G]\n[D]\n[C]\n\n[Verse 1]\n[D]Run to the light\nIt won't\n[C]save you tonight\nAll our\n[G]yesterdays are\npictures lost in time\n[D]\nNever enough\nTowers\n[C]crumble to dust\nLooking\n[G]back on the\nmoments of our lives\n[D]All your\n\n[Chorus]\n[C]anger all your hurt\n[G]Doesn't\n[D]matter in the end\n[Am]Those\n[C]days go by\n[G]And we\n[D]all start again\nWhat you\n[C]had and what you lost\n[G]They're all\n[D]memories in the wind\n[Am]Those\n[C]days go by\n[G]And we\n\n[Bridge]\n[D]all start again\n[C]\n[G]\n[D]\n[C]\n\n[Verse 2]\n[D]Stars still burn bright\nSeasons\n[C]change overnight\nAs we\n[G]find a way the\ntimes they come and go\n[D]\nLook back in love\nNew day\n[C]rises above\nWith the\n[G]wind it comes to\ncarry you back home\n[D]All your\n\n[Chorus]\n[C]anger all your hurt\n[G]Doesn't\n[D]matter in the end\n[Am]Those\n[C]days go by\n[G]And we\n[D]all start again\nWhat you\n[C]had and what you lost\n[G]They're all\n[D]memories in the wind\n[Am]Those\n[C]days go by\n[G]And we\n[D]all start again\n\n[Interlude]\n[D]\n[C]\n[G]\n[D]\nGo!\n\n[Bridge]\n[D]\n[C]\n[G]\n[D]Ah\n[C]\n[G]\nDays go\n[D]by\nAll your\n\n[Chorus]\n[C]anger all your hurt\n[G]Doesn't\n[D]matter in the end\n[Am]Those\n[C]days go by\n[G]And we\n[D]all start again\nWhat you\n[C]had and what you lost\n[G]They're all\n[D]memories in the wind\n[Am]Those\n[C]days go by\n[G]And we\n[D]all start again\nWhat you\n[C]had\n[G]what you\n[D]lost\n[Am]What you\n[C]had\n[G]what you\n[D]lost\nThose\n\n[Outro]\n[C]days go by\n[G]\n[D]\n[Am]Those\n\n[Fadeout]\n[C]days go by\n[G]\n[D]\n[Am]Those\n[C]days go by\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Days Go By",
+  "id": "9e69f5188748f6b24ff3ebe0d70a5c035ee0c6c812eba803cc2b97ccd08f823a",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 256,
+  "normalizedKey": "the offspring|days go by",
+  "playableChords": [
+    "C",
+    "D",
+    "G",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Bridge"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Bridge"
+    },
+    {
+      "measure": 63,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 78,
+      "name": "Chorus"
+    },
+    {
+      "measure": 94,
+      "name": "Interlude"
+    },
+    {
+      "measure": 102,
+      "name": "Bridge"
+    },
+    {
+      "measure": 116,
+      "name": "Chorus"
+    },
+    {
+      "measure": 140,
+      "name": "Outro"
+    },
+    {
+      "measure": 144,
+      "name": "Fadeout"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9e69f5188748f6b24ff3ebe0d70a5c035ee0c6c812eba803cc2b97ccd08f823a",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Days Go By",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

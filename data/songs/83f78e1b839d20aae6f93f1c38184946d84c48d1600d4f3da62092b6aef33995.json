@@ -1,0 +1,89 @@
+{
+  "artist": "The Whitest Boy Alive",
+  "artistNormalized": "the whitest boy alive",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Emadd9]\n[Bm]\n[Emadd9]\n[Bm]\nThere comes a\n\n[Verse 1]\n[Emadd9]time\nFor everyone\n[Bm]\nTo sit down and assess\nWhat's there and what is\n[Emadd9]not there\n[Bm]\nE-\nternally up in the air\n\n[Verse 2]\n[Emadd9]\n[Bm]\nAnd it\nseems that time\nhas come for\n[Emadd9]you\nAnd it\n[Bm]figures now\nI was\nonly the one who nee-\nded to appear And cause a\n[Emadd9]turn of events\n[Bm]\nTo force a\n[Emadd9]turn of events\n[Bm]\n\n[Interlude]\n[Em]\n[Bm]\n[Em]\n[Bm]\nIt's also\n\n[Verse 3]\n[Em]fitting somehow\nThat\nI should be the last to know\n[Bm]\nAnd I'm\n[Em]blown away\nWhen\nmy friend tells me that it's\n[Bm]so\nWhat did I\n[Em]give you?\nThat's harder to ans-\nwer than what did I\n[Bm]take\nWhat did I\n[Em]mean to you?\n[Bm]\n\n[Bridge]\n[Emadd9]\n[Bm]\n[Emadd9]\n[Bm]\n\n[Outro]\n[Emadd9]\n[Bm]\n[Em]\n[Bm]\n[Emadd9]",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Emadd9": {
+      "catalog": [
+        "022002"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Figures",
+  "id": "83f78e1b839d20aae6f93f1c38184946d84c48d1600d4f3da62092b6aef33995",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 119,
+  "normalizedKey": "the whitest boy alive|figures",
+  "playableChords": [
+    "Emadd9",
+    "Bm",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Interlude"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 113,
+      "name": "Bridge"
+    },
+    {
+      "measure": 129,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "83f78e1b839d20aae6f93f1c38184946d84c48d1600d4f3da62092b6aef33995",
+    "version": "BCFZ"
+  },
+  "tempo": 152,
+  "title": "Figures",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

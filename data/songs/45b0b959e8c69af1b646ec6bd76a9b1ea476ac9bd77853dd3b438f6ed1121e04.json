@@ -1,0 +1,115 @@
+{
+  "artist": "The Jimi Hendrix Experience",
+  "artistNormalized": "the jimi hendrix experience",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\n\n[Verse 1]\n[C]Hey [G]Joe,\n[D][A]where you goin' with that\n[E]gun in your hand?\n[C]Hey [G]Joe,\n[D]I [A]said where you goin' with that\n[E]gun in your hand?\n[C]I'm going down to [G]shoot my old lady,\n[D]You know I [A]caught her messin' around with another\n[E]man.\n[C]I'm going down to shoot [G]my old lady\n[D]You know I [A]caught her messin' around with a-\n[E]nother man. And that ain't\n[E]too cool.\n\n[Verse 2]\n[C]Hey [G]Joe,\n[D][A]I heard you shot your\n[E]woman down, You shot her down, now.\n[C]Hey [G]Joe\n[D][A]I heard you shot your old\n[E]lady down, You shot her down to the ground.\n[C]Yes, [G]I did I shot her,\n[D]You [A]know I caught her messin' around\n[E]messin' 'round town.\n[C]Ah yes I [G]did I shot her,\n[D]You know I [A]caught my old lady messin' 'round\n[E]town. And I gave her the\n[E]gun I shot her.\n\n[Solo]\n[C]  [G]\n[D]  [A]\n[E]\n[E]Shoot her one more time again baby.\n[C]  [G]\n[D]  [A]\n[E]\n[C]  [G]\n[D]  [A]\n[E]\n\n[Verse 3]\n[C]Hey [G]Joe, said now\n[D][A]Ah where you gonna\n[E]run to now where you gonna run to.\n[C]Hey [G]Joe, I said\n[D][A]where you gonna run\n[E]to now where you where you gonna\ngo.\n[C]I'm [G]goin' way down south\n[D][A]way down to\n[E]Mexico way\nalright!\n\n[Outro]\n[C]I'm goin' way [G]down south\n[D][A]way down where I\n[E]can be free. Ain't noone\n[E]gonna fine me babe\n[C]Ain't no [G]hang man gonna\n[D]he ain't gonna [A]put a rope around\n[E]me You better believe it right\nnow, I gotta go now\n\n[Fade Out]\n[C]Hey hey hey [G]Joe,\n[D]you better [A]run on down\n[E]Good Bye Everybody\n[C]Hey Hey [G]Joe what'd I\n[D]say [A]run on\n[E]down!",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hey Joe *alt",
+  "id": "45b0b959e8c69af1b646ec6bd76a9b1ea476ac9bd77853dd3b438f6ed1121e04",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 285,
+  "normalizedKey": "the jimi hendrix experience|hey joe",
+  "playableChords": [
+    "E",
+    "C",
+    "G",
+    "D",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Solo"
+    },
+    {
+      "measure": 48,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 60,
+      "name": "Outro"
+    },
+    {
+      "measure": 68,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "45b0b959e8c69af1b646ec6bd76a9b1ea476ac9bd77853dd3b438f6ed1121e04",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "Hey Joe",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,90 @@
+{
+  "artist": "The Strokes",
+  "artistNormalized": "the strokes",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[drums intro]\n\n[verse]\ncan't you see i'm\ntry      -    ing i don't   e   -   ven\nlike it i just\nlied to get to your a      -\npart ment now i'm\nstay    ing there just for a\nwhile oh i can't\nthink cos' i'm just way too\n\n[chorus]\n[F]ti  red\n[F]is this\n[C]it?\nis this it ?\n[F]\n[F]is  this\n[C]it ?\n\n[verse]\n\n[bridge]\n[C]\n[F]\n[F]\n[C]\n[F]\n[F]\n[C]\n\n[chorus]\n[F]\n[F]\n[C]\n[F]\n[F]\n[C]\n\n[break]\n\n[verse]\n\n[outro]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "x-8-10-10-10-8",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "is this it ? *alt 2",
+  "id": "ae4716a62cba0a34511e5156e62bdd9d0b3d6b303f89a7d8312359a2cbc8e2ff",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 47,
+  "normalizedKey": "the strokes|is this it",
+  "playableChords": [
+    "C",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "drums intro"
+    },
+    {
+      "measure": 5,
+      "name": "verse"
+    },
+    {
+      "measure": 13,
+      "name": "chorus"
+    },
+    {
+      "measure": 21,
+      "name": "verse"
+    },
+    {
+      "measure": 29,
+      "name": "bridge"
+    },
+    {
+      "measure": 39,
+      "name": "chorus"
+    },
+    {
+      "measure": 47,
+      "name": "break"
+    },
+    {
+      "measure": 49,
+      "name": "verse"
+    },
+    {
+      "measure": 58,
+      "name": "outro"
+    }
+  ],
+  "source": {
+    "format": "gp3",
+    "sha256": "ae4716a62cba0a34511e5156e62bdd9d0b3d6b303f89a7d8312359a2cbc8e2ff",
+    "version": "FICHIER GUITAR PRO v3.00"
+  },
+  "tempo": 96,
+  "title": "is this it ?",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

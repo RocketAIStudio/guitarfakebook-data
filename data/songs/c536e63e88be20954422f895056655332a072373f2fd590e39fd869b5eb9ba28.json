@@ -1,0 +1,134 @@
+{
+  "artist": "The Lone Bellow",
+  "artistNormalized": "the lone bellow",
+  "capo": "4",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Dm]\nI break my\n\n[Verse 1]\n[Dm]back to make a name Every\n[Cadd9]man here done the same What's happening\n[G]here? What's happening\nhere? The pavement\n[Dm]cracks beneath my feet Spirit\n[Cadd9]rising with the heat What's happening\n[G]here? What's happening\nhere?\n\n[Chorus]\n[Dm]I'd like to think I'm a survivor\n[F]But my skin is getting tired I go\n[Gm]Oh I go\n[F]I'd like to think I'm a survivor\n[C]But my bones is getting tired I go\n[Gm]Oh I\ngo I feel the\n\n[Verse 2]\n[Dm]pounding of the clock Ground be-\n[Cadd9]neath me starts to rock You do your\n[G]best to make it stop What's happening\nhere? I try to\n[Dm]stand on my two feet Try to\n[Cadd9]keep up with the beat What's happening\n[G]here? What's happening\nhere?\n\n[Chorus]\n[Dm]I'd like to think I'm a survivor\n[F]But my skin is getting tired I go\n[Gm]I go\n[F]I'd like to think I'm a survivor\n[C]But my bones is getting tired I go\n[Gm]Oh\nI go\n\n[Interlude]\n[Dm]\n[C]\n[G]\n[Gm]\n[Dm]\n[C]\n[G]\nI've got no\n\n[Verse 3]\n[F]sickness Got no dis-\n[C]ease Except for the\n[Gm]heart inside of me\n[Dm]\n\n[Bridge]\n[Dm]\n[C]\n[G]\n[Dm]\n[C]\n[G]\n\n[Chorus]\n[Dm]I'd like to think I'm a survivor\n[F]But my skin is getting tired I go\n[Gm]I go\n[F]I'd like to think I'm a survivor\n[C]But my bones is getting tired I go\n[Gm]Oh\nI go\n[Dm]\n[C]\n[G]\n[Dm]\n[C]\n[G]\n\n[Outro]\n[Dm]\n[F]\n[G]\n[Dm]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Deeper in the Water",
+  "id": "c536e63e88be20954422f895056655332a072373f2fd590e39fd869b5eb9ba28",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 244,
+  "normalizedKey": "the lone bellow|deeper in the water",
+  "playableChords": [
+    "Dm",
+    "Cadd9",
+    "G",
+    "F",
+    "Gm",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 52,
+      "name": "Bridge"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 76,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c536e63e88be20954422f895056655332a072373f2fd590e39fd869b5eb9ba28",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "Deeper in the Water",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

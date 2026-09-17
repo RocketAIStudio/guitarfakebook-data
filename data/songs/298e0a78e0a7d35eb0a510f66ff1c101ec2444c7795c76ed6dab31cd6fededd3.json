@@ -1,0 +1,122 @@
+{
+  "artist": "The Unwinding Hours",
+  "artistNormalized": "the unwinding hours",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E5]\n[C#m7]  [Asus2]\n[E5]\n[C#m7]  [Asus2]\n[E5]\n[C#m7]  [Asus2]\n[E]\nAnd\n\n[Verse 1]\n[E5]oh\n[C#m7][Asus2]I'm\n[E5]cynical\n[C#m7][Asus2]But not\n[E5]enough to let\n[C#m7]you go [Asus2]\n[E5]\n[C#m7][Asus2]And what is\n[E5]this?\n[C#m7][Asus2]I dare\n[E5]not name it\n[C#m7][Asus2]We move\n[E5]in secret\n[C#m7]Ways [Asus2]\n[E5]\n[C#m7]  [Asus2]\n\n[Chorus]\n[Badd11]So\ndon't tell a soul\n[Emaj7]\nDon't say a word\n[Asus2]\nFalling asleep\n[C#madd11]on my chest\n[Badd11]is enough\n[Asus2]And\nwhen morning comes\n[E]I'll\nwalk you half\n[C#madd11]way home\n[Badd11]\n\n[Re-Intro]\n[E5]\n[C#m7]  [Asus2]\n[E5]\n[C#m7]  [Asus2]\n[E5]\n[C#m7]  [Asus2]\n[E]\nAnd\n\n[Verse 2]\n[E5]oh\n[C#m7][Asus2]I'm\n[E5]speechless\n[C#m7][Asus2]As\n[E5]we undress without\n[C#m7]a sound [Asus2]\n[E5]\n[C#m7]I [Asus2]don't know what to\n[E5]say\n[C#m7]Or I [Asus2]don't know how\n[E5]to say it\n[C#m7]But [Asus2]I can't walk\n[E5]away from this\n[C#m7][Asus2]Right now\n[E5]\n[C#m7]  [Asus2]\n\n[Chorus]\n[Badd11]So\ndon't tell a soul\n[Emaj7]\nDon't say a word\n[Asus2]\nFalling asleep\n[C#madd11]by my side\n[Badd11]is enough\n[Asus2]And\nwhen morning comes\n[C#madd11]\nWe'll make love\n[Badd11]\nWe'll make love\n[Asus2]\nWhen morning comes\n\n[Outro]\n[E]",
+  "diagrams": {
+    "Asus2": {
+      "catalog": [
+        "x02400",
+        "x02200"
+      ],
+      "catalogCount": 2
+    },
+    "Badd11": {
+      "catalog": [
+        "x24440"
+      ],
+      "catalogCount": 1
+    },
+    "C#m7": {
+      "catalog": [
+        "x42400",
+        "x-4-6-4-5-4",
+        "9-11-9-9-9-9",
+        "x-x-11-13-12-12",
+        "x-16-18-16-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "C#madd11": {
+      "catalog": [
+        "x46673"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "x79966"
+      ],
+      "catalogCount": 1
+    },
+    "Emaj7": {
+      "catalog": [
+        "022440",
+        "0-2-1-1-0-0",
+        "x-x-2-4-4-4",
+        "x-7-6-4-4-4",
+        "x-7-9-8-9-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Solstice",
+  "id": "298e0a78e0a7d35eb0a510f66ff1c101ec2444c7795c76ed6dab31cd6fededd3",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 129,
+  "normalizedKey": "the unwinding hours|solstice",
+  "playableChords": [
+    "E5",
+    "C#m7",
+    "Asus2",
+    "E",
+    "Badd11",
+    "Emaj7",
+    "C#madd11"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Re-Intro"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "298e0a78e0a7d35eb0a510f66ff1c101ec2444c7795c76ed6dab31cd6fededd3",
+    "version": "BCFZ"
+  },
+  "tempo": 122,
+  "title": "Solstice",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

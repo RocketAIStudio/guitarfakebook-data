@@ -1,0 +1,92 @@
+{
+  "artist": "The Jesus and Mary Chain",
+  "artistNormalized": "the jesus and mary chain",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "The way you\n\n[Verse 1]\n[G]drop\nis like a\n[C]stone\nMaking out you're\n[D]flying\nBut you've just been\n[G]thrown\nTill kingdom\n\n[Припев]\ncomes\nAnd through bitten\n[C]tongues\nThese eyes get\n[D]stung\nWith every curse that's\n[G]sung\nThese twisted\n\n[Chorus]\n[C]times\nCan't compare to\n[G]mine\nAnd heaven kn-\n[A]ows\nwhere loving\n[D]goes\n[C]\n[D]\n[C]\n[D]\nI should have\n\n[Verse 3]\n[G]guessed\nWhen I took that\n[C]pill\nDo I love her\n[D]still\nWell did Jesus\n[G]kill",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Drop",
+  "id": "904e50500211e49e84250fda657bc347f0626568ba880ae54603c5b74cc729b5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 75,
+  "normalizedKey": "the jesus and mary chain|drop",
+  "playableChords": [
+    "G",
+    "C",
+    "D",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Припев"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "904e50500211e49e84250fda657bc347f0626568ba880ae54603c5b74cc729b5",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Drop",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

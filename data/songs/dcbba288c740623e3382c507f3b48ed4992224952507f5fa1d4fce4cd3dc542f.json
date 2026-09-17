@@ -1,0 +1,158 @@
+{
+  "artist": "The Red Hot Chili Peppers",
+  "artistNormalized": "the red hot chili peppers",
+  "capo": "No capo",
+  "chordPositionCount": 50,
+  "chordSymbolCount": 10,
+  "content": "[Verse 1]\n[Fm]I'm a little\n[Db]pea\n[C]I love the\n[Bb]sky and the trees\n[Fm]I'm a teeny\n[Db]tiny little\n[C]ant\n[Bb]Checking out this and that\n[Fm]I am\n[Db]nothing U-\n[C]h So you have\n[Bb]nothing to hide\n[Fm]And I'm a\n[Db]pacifist\n[C]So I can\n[Bb]fuck your shit up\n\n[Chorus]\n[Gm]Oh y-\n[Bb]ea I'm\n[F]small\n[Gm]Oh\n[Bb]yea I'm\n[F]small\n\n[Verse 2]\n[Em]Fuck you a-\n[C]sshole [D][F]\n[Em]You homophobic\n[C]redneck [D]dick [A]\n[Em]Big and tough and\n[C]macho You can [D]kick my [F]ass\n[Em]\n[Dm]So [F]fucking wha-\n\n[Outro]\n[Em]t\n[Dm]So [F]fucking [Em]wha-\nt\n[Dm]So [F]fucking [Em]wha-\nt\n[Dm]So [F]fucking [Em]wha-\nt",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "x43121",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pea",
+  "id": "dcbba288c740623e3382c507f3b48ed4992224952507f5fa1d4fce4cd3dc542f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 110,
+  "normalizedKey": "the red hot chili peppers|pea",
+  "playableChords": [
+    "Fm",
+    "Db",
+    "C",
+    "Bb",
+    "Gm",
+    "F",
+    "Em",
+    "D",
+    "A",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dcbba288c740623e3382c507f3b48ed4992224952507f5fa1d4fce4cd3dc542f",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Pea",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,104 @@
+{
+  "artist": "The Used",
+  "artistNormalized": "the used",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Dmaj9]\n[F#m9]\n[Aadd9]\n[Dmaj9]\n[F#m9]\n[Aadd9]\n\n[Verse 1]\n[Dmaj9]See all those\npeople on the\n[F#m9]ground\n[Aadd9]Wasting ti-\n[Dmaj9]me I try to\nhold it all in-\n[F#m9]side But\njust for tonight [Aadd9]\n\n[Chorus]\n[E]The top of the world\nSitting here wishing The\n[F#m7]things I've become That\nsomething is missing\n[E]Maybe I...\nBut what do I know\n[Dmaj9]\n\n[Verse 2]\n[Dmaj9]And now it\nseems that I have\n[F#m9]found\n[Aadd9]Nothing at all\n[Dmaj9]I want to\nhear your voice out\n[F#m9]loud\nSlow it down, [Aadd9]slow it down\n\n[Chorus]\n[E]Without it all I'm\nchoking on nothing It's\n[F#m7]clear in my head And I'm\nscreaming for something\n[E]Knowing nothing is\nbetter than knowing at\n[Dmaj9]all On my\nown\nOn my\nown\nOn my\nown\nOn my\nown\n\n[Bridge]\n[F#m7]\nOn my\n[Dmaj9]own\n[F#m7]\nOn my\n[Dmaj9]own\n\n[Chorus]\n[E]Without it all I'm\nchoking on nothing It's\n[F#m7]clear in my head And I'm\nscreaming for something\n[E]Knowing nothing is\nbetter than knowing at\n[Dmaj9]all On my\nown\nOn my\nown\nOn my\nown\nOn my\nown",
+  "diagrams": {
+    "Aadd9": {
+      "catalog": [
+        "777655"
+      ],
+      "catalogCount": 1
+    },
+    "Dmaj9": {
+      "catalog": [
+        "457654",
+        "000220"
+      ],
+      "catalogCount": 2
+    },
+    "E": {
+      "catalog": [
+        "222100",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "444200",
+        "2-4-2-2-2-2",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#m9": {
+      "catalog": [
+        "447654"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "On My Own",
+  "id": "09dbc74fa266d45df1bff892865224c9013bff996dd3295ca9411de48c079d68",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 176,
+  "normalizedKey": "the used|on my own",
+  "playableChords": [
+    "Dmaj9",
+    "F#m9",
+    "Aadd9",
+    "E",
+    "F#m7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "09dbc74fa266d45df1bff892865224c9013bff996dd3295ca9411de48c079d68",
+    "version": "BCFZ"
+  },
+  "tempo": 174,
+  "title": "On My Own",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,97 @@
+{
+  "artist": "The Bralettes",
+  "artistNormalized": "the bralettes",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Am]\n[C]\n[Am]\n[C]\n[Am]\n[C]\n[Am]\n[C]\n[Am]\n[C]\n[Am]\n[C]\n\n[Verse 1]\n[Am]Eddie crawls\ndeep inside\n[C]Eddie, some-\ntimes you're not kind\n[Am]Eddie, the\nbig surprise\n[C]Eddie al-\nways takes his time\n[Am]\n[C]Ready or\nnot it's time\n[Am]\n[C]Ready or\nnot it's time\n\n[Interlude]\n[Dm]\n[C]\n[Am]\n[Dm]\n[C]\n[Am]\n\n[Verse 2]\n[Am]Eddie's not\nwanted here\n[C]Eddie's fill-\ning me with fear\n[Am]Eddie, para-\nnoia is near\n[C]Eddie, I\nshed a tear\n[Am]\n[C]Everything's\nso unclear\n[Am]\n[C]Everything's\nso unclear\n\n[Interlude]\n[Dm]\n[C]\n[Am]\n[Dm]\n[C]\n[Am]\n\n[Bridge]\n[Dm]What is your\n[C]magic number?\n[Am]\n[Dm]Surrounded\n[C]by your thunder\n[Am]\n[Dm]What is your\n[C]magic number?\n[Am]\n[Dm]Surrounded\n[C]by your thunder\n[Am]\n[Dm]What is your\n[C]magic number?\n[Am]\n[Dm]Surrounded\n[C]by your thunder\n[Am]\n\n[Interlude]\n[Dm]\n[C]\n[Am]\n[Dm]\n[C]\n[Am]\n\n[Outro]\n[Dm]\n[C]\n[Am]\n[Dm]\n[C]\n[Am]\n[Dm]\n[C]\n[Am]\n[Dm]\n[C]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Eddie",
+  "id": "4185e9c5fb0bdb0c3bb803cae99c3f02ef48f34fdff8595f70ea06ec20c0e429",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 119,
+  "normalizedKey": "the bralettes|eddie",
+  "playableChords": [
+    "Am",
+    "C",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Interlude"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge"
+    },
+    {
+      "measure": 97,
+      "name": "Interlude"
+    },
+    {
+      "measure": 105,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4185e9c5fb0bdb0c3bb803cae99c3f02ef48f34fdff8595f70ea06ec20c0e429",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Eddie",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

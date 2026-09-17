@@ -1,0 +1,107 @@
+{
+  "artist": "The Lumineers",
+  "artistNormalized": "the lumineers",
+  "capo": "2",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]  [Cadd9]\n[G]  [D/F#]\n[Em]  [C]\n[G]\n\n[Verse 1]\n[G]Nobody knows how to [Cadd9]say good-\n[G]bye [D/F#]\n[Em]It seems so easy [C]'til you try\n[G]  [D/F#]\n[Em]Then the moments [C]passed you\n[G]by [D/F#]\n[Em]Nobody knows how to [C]say good-\n[G]bye [D/F#]\n[Em]  [C]\n[G]\n\n[Verse 2]\n[G]Nobody knows how to [Cadd9]get back\n[G]home [D/F#]\n[Em]And we set out so [C]long ago\n[G]  [D/F#]\n[Em]Search the heavens and the [C]Earth below\n[G]  [D/F#]\n[Em]Nobody knows how to [C]get back\n[G]home [D/F#]\n[Em]  [C]\n[G]\n\n[Verse 3]\n[G]Through the darkness [Cadd9]to the dawn\n[G]  [D/F#]\n[Em]And when I looked back [C]you were gone\n[G]  [D/F#]\n[Em]Heard your voice [C]leading me\n[G]on [D/F#]\n[Em]Through the darkness [C]to the dawn\n[G]\n\n[Interlude]\n[G]  [Cadd9]\n[G]  [D/F#]\n[Em]  [C]\n[G]  [D/F#]\n[Em]  [C]\n[G]  [D/F#]\n[Em]  [C]\n[G]\n\n[Verse 4]\n[G]Love is deep as the [Cadd9]road is\n[G]long [D/F#]\n[Em]And moves my feet to [C]carry on\n[G]  [D/F#]\n[Em]Beats my heart when [C]you are gone\n[G]  [D/F#]\n[Em]Love is deep as the [C]road is long\n[G]  [D/F#]\n[Em]  [C]\n[G]\n\n[Outro]\n[G]Nobody knows how the [Cadd9]story\n[G]ends [D/F#]\n[Em]Live the day, doing [C]what you can\n[G]  [D/F#]\n[Em]This is only where [C]it began\n[G]  [D/F#]\n[Em]Nobody knows how the [C]story\n[G]ends [D/F#]\n[Em]Nobody knows how the [C]story\n[G]ends",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32030"
+      ],
+      "catalogCount": 1
+    },
+    "D/F#": {
+      "catalog": [
+        "200232"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Nobody Knows",
+  "id": "2b3b3a49f0037213dc94ebd8da25250fcb343e798e268ed5e18d75db1ef7be60",
+  "key": "C♭",
+  "keyIdentified": true,
+  "lyricEventCount": 170,
+  "normalizedKey": "the lumineers|nobody knows",
+  "playableChords": [
+    "G",
+    "Cadd9",
+    "D/F#",
+    "Em",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 36,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 56,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2b3b3a49f0037213dc94ebd8da25250fcb343e798e268ed5e18d75db1ef7be60",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "Nobody Knows",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

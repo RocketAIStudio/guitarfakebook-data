@@ -1,0 +1,89 @@
+{
+  "artist": "The Weeknd",
+  "artistNormalized": "the weeknd",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Gmaj7]\n[Bm]\n[A]\n[Bm]\n[A]\n\n[Verse 1]\n[Gmaj7]Enjoy your privileged\nlife\n[Bm]'Cause I'm not gonna\n[A]hold you through the night\n[Gmaj7]We said our last good-\nbyes\n[Bm]So, let's just try to\n[A]end it with a smile\n\n[Pre-Chorus]\n[Gmaj7]And I\ndon't wanna hear that you are suffer-\n[Bm]ing You are suf-\n[A]fering no\n[Gmaj7]more\n'Cause I held you down when you were suf-\n[Bm]fering You were suf-\n[A]fering\n\n[Chorus]\n[Gmaj7]Blues away,\nway, way I got\n[Bm]two red pills to take the\n[A]blues away\n[Gmaj7]Blues away,\nway, way I got\n[Bm]two red pills to take the\n[A]blues away And I'm a\n\n[Bridge]\n[Gmaj7]fuck the pain away, and I know I'll be okay\nThey said our\n[Bm]love is just a game, I don't care what they say\n[A]But I'm a\n[Gmaj7]drink the pain away, I'll be back to my old ways\nAnd I got\n[Bm]two red pills to take the\n[A]blues away, oh\n[Gmaj7]\n[Bm]\n[A]\n[Gmaj7]\n[Bm]No more,\n[A]\n[Gmaj7]\n[Bm]\n[A]no more\n\n[Outro]\n[Gmaj7]No more no\n[Bm]yeah you know\n[A]\n[Gmaj7]\n[Bm]\n[A]\n[Gmaj7]\n[Bm]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7": {
+      "catalog": [
+        "354433",
+        "3-2-0-0-0-2",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7",
+        "x-10-12-11-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Privilege",
+  "id": "edff3ec31fb4882fdccc2d620a5b90c0262e73a4987b5b34dd26aabcc58d478d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 166,
+  "normalizedKey": "the weeknd|privilege",
+  "playableChords": [
+    "Gmaj7",
+    "Bm",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "edff3ec31fb4882fdccc2d620a5b90c0262e73a4987b5b34dd26aabcc58d478d",
+    "version": "BCFZ"
+  },
+  "tempo": 94,
+  "title": "Privilege",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

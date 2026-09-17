@@ -1,0 +1,108 @@
+{
+  "artist": "The Killers",
+  "artistNormalized": "the killers",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Fmaj7]\n[G]\n[Am]\n[Fmaj7]\n[G]\n[Am]\n[Fmaj7]\n[G]\n[Am]\n[Fmaj7]\n[G]\n[Am]\n\n[Chorus]\n[Fmaj7]\n[G]\n[Am]\n[Fmaj7]\n[G]\n[Am]\n[Fmaj7]\n[G]\n[Am]\n[Fmaj7]\n[G]\n[Am]\nTo the\n\n[Verse 1]\n[Fmaj7]centre of the city where all\nroads meet, waiting [G]for you\n[Am]\nTo the\n[Fmaj7]depths of the ocean where all\nhopes sank, searching [G]for you\n[Am]\nWell I was\n[Fmaj7]moving through the silence without\nmotion, waiting [G]for you\n[Am]\nIn a\n[Fmaj7]room without a window in the\ncorner I [G]found\n[Am]truth\n\n[Bridge]\n[Fmaj7]\n[G]\n[Am]\n[Fmaj7]\n[G]\n[Am]\n[Fmaj7]\n[G]\n[Am]\n[Fmaj7]\n[G]\n[Am]\n\n[Verse 2]\n[Fmaj7]\n[G]\n[Am]\nIn the\n[Fmaj7]shadowplay acting out your\nown death, knowing [G]no\n[Am]more\nAs the as-\n[Fmaj7]sassins all grouped in four\nlines, dancing [G]on the\n[Am]floor\nAnd with\n[Fmaj7]cold steel, odor on their\nbodies made a move to [G]con-\n[Am]nect\nI could\n[F]only stare in disbelief\n[G]as the crowds all\n[Am]left\n\n[Bridge]\n[F]\n[Am]\n[F]\n[Am]\nI did\n\n[Verse 3]\n[F]everything,\neverything I\n[Am]wanted to\nI let them\n[F]use you\nfor their own eims\n[Am]\nTo the\n[F]centre of the city in the\nnight, waiting for\n[Am]you\nTo the\n[F]centre of the city in the\nnight, waiting for\n[Am]you\n\n[Outro]\n[F]\n[Am]\n[F]\n[Am]\n[F]\n[Am]\n[F]\n[Am]\n[F]\n[Am]\n[F]\n[Am]\n[F]\n[Am]\n[F]\n[Am]\n[F]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "133210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Shadowplay",
+  "id": "0739cfe4f302affffe46ca869ef6c2a5ece5b7bb3e1f9fd34a1975824b83ea34",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 174,
+  "normalizedKey": "the killers|shadowplay",
+  "playableChords": [
+    "Fmaj7",
+    "G",
+    "Am",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 51,
+      "name": "Bridge"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 87,
+      "name": "Bridge"
+    },
+    {
+      "measure": 95,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 111,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0739cfe4f302affffe46ca869ef6c2a5ece5b7bb3e1f9fd34a1975824b83ea34",
+    "version": "BCFZ"
+  },
+  "tempo": 145,
+  "title": "Shadowplay",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

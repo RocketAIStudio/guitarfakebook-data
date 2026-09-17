@@ -1,0 +1,100 @@
+{
+  "artist": "The Cranberries",
+  "artistNormalized": "the cranberries",
+  "capo": "2",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\n[Am]\n[Em]\n[F]\n[C]\n[Am]\n[Em]\n[F]\n[C]\n[Am]\n[Em]\n[F]\n\n[Verse 1]\n[C]Understa-\n[Am]nd the things I\n[Em]say, Don't\n[F]turn away from me\n[C], 'Cause I've spent ha-\n[Am]lf my life out\n[Em]there, You\n[F]wouldn't disagree\n[C]. Do you see me\n[Am]? Do you see? Do you li-\n[Em]ke me? Do you li-\n[F]ke me standing there?\n[C]Do you notice?\n[Am]Do you know? Do you see\n[Em]me? Do you see\n[F]me? Does anyone care?\n\n[Chorus]\n[C]Unhappine-\n[Am]ss where's when I\n[Em]was young, And we\n[F]didn't give a damn,\n[C]'Cause we were rai-\n[Am]sed, To see li-\n[Em]fe as fun and ta-\n[F]ke it if we can.\n[C]My mother,\n[Am]my mother, She ho-\n[Em]ld me, she ho-\n[F]ld me, when I was out there.\n[C]My father,\n[Am]my father, He li-\n[Em]ked me, oh, he li-\n[F]ked me. Does anyone care?\n[C]\n[Am]\n[Em]\n[F]\n\n[Verse 2]\n[C]Understa-\n[Am]nd what I've be-\n[Em]come, It\n[F]wasn't my design.\n[C]And people e\n[Am]verywhere think,\n[Em]something\n[F]better than I am.\n[C]But I miss you,\n[Am]I miss, 'cause I li-\n[Em]ked it, 'Cause I li-\n[F]ked it, when I was out there.\n[C]Do you know this?\n[Am]Do you know you did not\n[Em]find me. You did not\n[F]find. Does anyone care?\n\n[Chorus]\n[C]Unhappine-\n[Am]ss where's when I\n[Em]was young, And we\n[F]didn't give a damn,\n[C]'Cause we were rai-\n[Am]sed, To see li-\n[Em]fe as fun and ta-\n[F]ke it if we can.\n[C]My mother,\n[Am]my mother, She ho-\n[Em]ld me, she ho-\n[F]ld me, when I was out there.\n[C]My father,\n[Am]my father, He li-\n[Em]ked me, oh, he li-\n[F]ked me. Does anyone ca-\n[C]re? Does anyone ca-\n[Am]re? Does anyone ca-\n[Em]re? Does anyone ca-\n[F]re? Does anyone ca-\n[C]re? Does anyone ca-\n[Am]re? Does anyone ca-\n[Em]re? Does anyone ca-\n[F]re?\n\n[Outro]\n[C]\n[Am]\n[Em]\n[F]\n[C]\n[Am]\n[Em]\n[F]\n[C]\n[Am]\n[Em]\n[F]\n[C]\n[Am]\n[Em]\n[F]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ode To My Family *alt",
+  "id": "a137eb4db472327eea7109f5182927ccd92db8a83de0a430e8501d06c97e122d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 342,
+  "normalizedKey": "the cranberries|ode to my family",
+  "playableChords": [
+    "C",
+    "Am",
+    "Em",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    },
+    {
+      "measure": 90,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a137eb4db472327eea7109f5182927ccd92db8a83de0a430e8501d06c97e122d",
+    "version": "BCFZ"
+  },
+  "tempo": 93,
+  "title": "Ode To My Family",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

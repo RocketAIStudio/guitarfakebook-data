@@ -1,0 +1,133 @@
+{
+  "artist": "Thematic Pianos",
+  "artistNormalized": "thematic pianos",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[A]Come a-\n\n[Verse 1]\n[D]long [G]with me\n[Bm]To the\n[D]butterflies [A]and bees\n[G]We can\n[Bm]wander through the fo\n[G]rest And\n[D]do so as we please\n[A]Come a-\n[D]long [G]with me\n[Bm]To a\n[D]cliff under [A]a tree\n[G]Where we'll\n[Bm]gaze upon the wa\n[G]ter As an\n[A][G]everlasting dream\n[D]\n\n[Chorus]\n[F#]All of my af-\n[G]fections I\n[A]give them all to\n[D]you\n[F#]Maybe by next sum\n[G]mer We\n[D]won't have changed our tunes\n[A][A7]I still\n\n[Verse 2]\n[D]want [G]to be\n[Bm]In this\n[D]town beside [A]the sea\n[G]Making\n[Bm]up new num\n[G]bers And\n[G]living so [A]merrily\n[D]\n\n[Chorus]\n[F#]All of my col-\n[G]lections I\n[A]give them all to\n[D]you I'll\n[F#]be her for you al\n[G]ways And\n[E7]always be for you\n[A][A7]Come a-\n\n[Verse 3]\n[D]long [G]with me\n[Bm]To a\n[D]town beside [A]the sea\n[G]We can\n[D]wander through the fo\n[G]rest And\n\n[Outro]\n[D]do so as [A]we please\n[Bm]\n[G]Living so [A]merrily\n[D]\n[G]Living so [A]merrily\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02223",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Island Song",
+  "id": "c526418f0559eed8dcced93a74d2b895943c8544749b85c998e59077a5a220c0",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 170,
+  "normalizedKey": "thematic pianos|the island song",
+  "playableChords": [
+    "A",
+    "D",
+    "G",
+    "Bm",
+    "F#",
+    "A7",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 48,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c526418f0559eed8dcced93a74d2b895943c8544749b85c998e59077a5a220c0",
+    "version": "BCFZ"
+  },
+  "tempo": 126,
+  "title": "The Island Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

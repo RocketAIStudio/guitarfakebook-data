@@ -1,0 +1,153 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]Here I [Dsus4]stand\n[Fadd9]head in [G]hand\n[C]Turn my face to the\n[Fadd9]wall [C]\n[G]If she's [Dsus4]gone I\n[Fadd9]can't go [G]on\n[C]Feeling twofoot\n[C][Fadd9]smaa-\n[D]all\n\n[Verse 2]\n[Dsus4][G]Everywhere\n[Fadd9]people [G]stare\n[C]Each and every day\n[Fadd9]  [C]\n[G]I can [Dsus4]see them\n[Fadd9]laugh at [G]me\n[C]And I hear them\n[C][Fadd9]saa-\n[D]ay [D/C]\n[D/B]  [D/A]\n\n[Chorus]\n[G]Hey you've [A7sus4]got [G/B]to\n[C]hide your love a-\n[Dsus4]way [D]\n[Dsus2]  [D]\n[G]Hey you've [A7sus4]got [G/B]to\n[C]hide your love a-\n[Dsus4]way [D]\n[Dsus2]  [D]\n\n[Verse 3]\n[G]How can [Dsus4]I\n[Fadd9]even [G]try\n[C]I can never\n[Fadd9]win [C]\n[G]Hearing [Dsus4]them,\n[Fadd9]seeing [G]them\n[C]In the state I'm\n[C][Fadd9]ii-\n[D]in\n\n[Verse 4]\n[G]How could [Dsus4]she\n[Fadd9]say to [G]me\n[C]Love will find a\n[Fadd9]way [C]\n[G]Gather [Dsus4]round\n[Fadd9]all you [G]clowns\n[C]Let me hear you\n[C][Fadd9]saa-\n[D]ay [D/C]\n[D/B]  [D/A]\n\n[Chorus]\n[G]Hey you've [A7sus4]got [G/B]to\n[C]hide your love a-\n[Dsus4]way [D]\n[Dsus2]  [D]\n[G]Hey you've [A7sus4]got [G/B]to\n[C]hide your love a-\n[Dsus4]way [D]\n[Dsus2]  [D]\n\n[Outro]\n[G]  [Dsus4]\n[Fadd9]  [G]\n[C]\n[Fadd9]  [C]\n[G]  [Dsus4]\n[Fadd9]  [G]\n[C]\n[Fadd9]  [C]\n[G]",
+  "diagrams": {
+    "A7sus4": {
+      "catalog": [
+        "x00033"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x0x232"
+      ],
+      "catalogCount": 1
+    },
+    "D/B": {
+      "catalog": [
+        "x2x232"
+      ],
+      "catalogCount": 1
+    },
+    "D/C": {
+      "catalog": [
+        "x3x232"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus4": {
+      "catalog": [
+        "xx0233"
+      ],
+      "catalogCount": 1
+    },
+    "Fadd9": {
+      "catalog": [
+        "xx3213"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You've Got To Hide Your Love Away",
+  "id": "627efeaddcbb875a0daa49a43bdcbaf1d8b2c5a6d53678f50dbaf299e2d060aa",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 135,
+  "normalizedKey": "the beatles|you ve got to hide your love away",
+  "playableChords": [
+    "G",
+    "Dsus4",
+    "Fadd9",
+    "C",
+    "D",
+    "D/C",
+    "D/B",
+    "D/A",
+    "A7sus4",
+    "G/B",
+    "Dsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 48,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "627efeaddcbb875a0daa49a43bdcbaf1d8b2c5a6d53678f50dbaf299e2d060aa",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "You've Got To Hide Your Love Away",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

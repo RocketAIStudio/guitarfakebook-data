@@ -1,0 +1,130 @@
+{
+  "artist": "The Bee Gees",
+  "artistNormalized": "the bee gees",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]  [Bm]\n[C]  [D7]\n[G]  [Bm]\n[C]  [D7]\n\n[Verse 1]\n[G]I started a [Bm]joke,\n[C]which started the [D7]whole world\n[G]crying [Bm]\n[C]But I [D7]didn't\n[G]see [Bm]\n[C]that the [D7]joke was on\n[G]me, [Bm]oh\n[C]no [D7]\n\n[Verse 2]\n[G]I started to [Bm]cry,\n[C]which started the [D7]whole world\n[G]laughing [Bm]\n[C]Oh, if [D7]I'd only\n[G]seen [Bm]\n[C]that the [D7]joke was on\n[G]me\n\n[Chorus]\n[Em]I looked at the\n[Bm]skies, running my\n[C]hands over my\n[G]eyes And\n[Bm]I fell out of\n[Em]bed, hurting my\n[Am]head from things that I'd\n[D7]said 'Til\n\n[Verse 3]\n[G]I finally [Bm]died,\n[C]which started the [D7]whole world\n[G]living [Bm]\n[C]Oh, if [D7]I'd only\n[G]seen [Bm]\n[C]that the [D7]joke was on\n[G]me\n\n[Chorus]\n[Em]I looked at the\n[Bm]skies, running my\n[C]hands over my\n[G]eyes And\n[Bm]I fell out of\n[Em]bed, hurting my\n[Am]head from things that I'd\n[D7]said 'Til\n\n[Verse 4]\n[G]I finally [Bm]died,\n[C]which started the [D7]whole world\n[G]living [Bm]\n[C]Oh, if [D7]I'd only\n[G]seen, [Bm]oh yeah,\n[C]that the [D7]joke was on\n[G]me [Bm]Oh no, that the joke was on\n[C]me, [D7]\n[G]  [Bm]\n[C]oh [D7]\n\n[Outro]\n[G]  [Bm]\n[C]  [D7]\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Started A Joke",
+  "id": "27a366cd0ff1538889e591fa05c865f2b04fa585487ff1ca8fcc6bb4bc6288cf",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 170,
+  "normalizedKey": "the bee gees|i started a joke",
+  "playableChords": [
+    "G",
+    "Bm",
+    "C",
+    "D7",
+    "Em",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 54,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "27a366cd0ff1538889e591fa05c865f2b04fa585487ff1ca8fcc6bb4bc6288cf",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "I Started A Joke",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

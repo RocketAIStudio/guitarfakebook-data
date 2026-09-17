@@ -1,0 +1,118 @@
+{
+  "artist": "The Sheepdogs",
+  "artistNormalized": "the sheepdogs",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A5]\n[G]  [D]  [G]  [D]  [G]  [D]\n[A5]\n[G]  [D]  [G]  [D]  [G]  [D]\n[A5]\n[G]  [D]  [G]  [D]  [G]  [D]\n[A5]\n[G]  [D]  [G]  [D]  [G]  [D]\n\n[Verse 1]\n[A5]When I was a young man I\n[G]lived [D]for [G]today [D][G][D]\n[A5]No need for insurance Follow me\n[G]far [D]far [G]away [D][G][D]\n[A5]Looked out for my brother\n[G]Never [D]settled [G]down [D][G][D]\n[A5]Go on be yourself old boy\n[G]No one [D]else [G]around [D]I'm gonna [G]be [D]myself\n\n[Chorus]\n[E5]I'm gonna be [G5]myself\n[E5]I'm gonna be [G5]myself\n[E5]I'm gonna be [G5]myself\n[E5]  [D5]\n\n[Bridge]\n[A5]\n[G]  [D]  [G]  [D]  [G]  [D]\n[A5]\n[G]  [D]  [G]  [D]  [G]  [D]\n\n[Verse 2]\n[A5]Dont know where I'm going All\n[G]I [D]know is [G]how [D][G][D]To\n[A5]keep my head above the water My\n[G]feet from [D]off the [G]ground [D][G][D]\n[A5]Don't get too discouraged Your\n[G]where you [D]need to [G]be [D][G][D]\n[A5]Look a little longer come around\n[G]Thats where [D]you'll find [G]me [D]I'm gonna [G]be [D]myself\n\n[Chorus]\n[E5]I'm gonna be [G5]myself\n[E5]I'm gonna be [G5]myself\n[E5]I'm gonna be [G5]myself\n[E5]Hold on [D5]\n\n[Solo]\n[A5]  [G]  [D]  [G]\n[A5]  [G]  [D]  [G]\n[A5]  [G]  [D]  [G]\n[A5]  [G]  [D]  [G]\n\n[Bridge]\n[A5]\n[E5]  [G5]\n[E5]  [G5]\n[E5]  [G5]\n[E5]  [D5]\n\n[Outro]\n[A5]Hold on\n[G]  [D]  [G]  [D]  [G]  [D]\n[A5]Hold on yeah\n[G]  [D]  [G]  [D]  [G]  [D]\n[A5]Hold on\n[G]  [D]  [G]  [D]  [G]  [D]\n[A5]\n[G]  [D]  [G]  [D]  [G]  [D]\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "6799xx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "32003x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "x-10-12-12-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I'm Gonna be Myself",
+  "id": "ddee08391e9c5c2d81f5a230a924ef1c59e09c7a2e21e4dd6b64041da88c7683",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 156,
+  "normalizedKey": "the sheepdogs|i m gonna be myself",
+  "playableChords": [
+    "A5",
+    "G",
+    "D",
+    "E5",
+    "G5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Solo"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 50,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ddee08391e9c5c2d81f5a230a924ef1c59e09c7a2e21e4dd6b64041da88c7683",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "I'm Gonna be Myself",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

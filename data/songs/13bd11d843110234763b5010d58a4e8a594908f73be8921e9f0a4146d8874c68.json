@@ -1,0 +1,122 @@
+{
+  "artist": "The Smiths",
+  "artistNormalized": "the smiths",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am]  [G6]  [F]\n[G6]  [Am]  [G6]\n[F]  [G6]\n\n[Verse 1]\n[C]Sing me to sleep [F]\n[Am]Sing me [G6]to sleep [F]I'm\n[G6]tired and I [Am][G6]I\n[F]want to go to bed [G6]\n[C]Sing me to sleep [F]\n[Am]Sing me [G6]to sleep [F]\n[G6][Am]And then\n[F]leave me alone [G6]\n[C]Don't try to wake [F]me in the\n[Am]morning [G6]'Cause [F]I will be\n[G6]gone [Am][G6]\n[F]\n\n[Chorus]\n[G6]Don't feel bad for me\nI want you to know\n[F]\n[G6]Deep in the cell of my\nheart I will feel so\n[F]glad to go\n\n[Bridge]\n[F]  [G6]\n[F]  [D7sus2]\n[F]  [G6]\n\n[Verse 2]\n[C]Sing me to sleep [F]\n[Am]Sing me [G6]to sleep [F]I don't\n[G6]want to wake [Am]up On [G6]my\n[F]own anymore [G6]\n[C]Sing to me [F]\n[Am]Sing to me [G6][F]I don't\n[G6]want to wake [Am]up On [G6]my\n[F]own anymore\n\n[Chorus]\n[G6]Don't feel bad for me\nI want you to know\n[F]\n[G6]Deep in the cell of my\nheart I really\n[F]want to go\n\n[Bridge]\n[F]There is [G6]another world\n[F]  [D7sus2]\n[F]There is a [G6]better world\n\n[Verse 3]\n[C]Well, there [F]must be\n[Am][G6][F]Well,\n[G6]there must be [Am][G6]\n[F]Well, [G6]there\n[C]must be [F]\n[Am][G6][F]Well,\n[G6]there must be [Am][G6]\n[F]Well...\n[G6]\n[F]\n[G6]\n[F]\nBye\n\n[Outro]\n[F]  [G6]\n[F]bye [D7sus2]\n[F]Bye [G6]\n[F]bye [D7sus2]\n[F]  [G6]\n[F]Bye... [D7sus2]\n[F]  [G6]\n[F]  [D7sus2]\n[F]  [G6]\n[F]  [D7sus2]\n[Fsus2]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7sus2": {
+      "catalog": [
+        "xx0210"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fsus2": {
+      "catalog": [
+        "1330xx"
+      ],
+      "catalogCount": 1
+    },
+    "G6": {
+      "catalog": [
+        "320000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Asleep",
+  "id": "13bd11d843110234763b5010d58a4e8a594908f73be8921e9f0a4146d8874c68",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 166,
+  "normalizedKey": "the smiths|asleep",
+  "playableChords": [
+    "Am",
+    "G6",
+    "F",
+    "C",
+    "D7sus2",
+    "Fsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Bridge"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 62,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "13bd11d843110234763b5010d58a4e8a594908f73be8921e9f0a4146d8874c68",
+    "version": "BCFZ"
+  },
+  "tempo": 60,
+  "title": "Asleep",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

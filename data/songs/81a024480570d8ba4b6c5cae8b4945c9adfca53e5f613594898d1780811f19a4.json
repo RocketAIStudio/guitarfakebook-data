@@ -1,0 +1,126 @@
+{
+  "artist": "The Strokes",
+  "artistNormalized": "the strokes",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E]\n[Am/C]\n[E]\n[Am/C]\n[E]\n\n[Verse 1]\n[E]Talk to me now I'm\n[A]older Your\n[F#]friend told you cause I\n[B]told her\n[E]Friday nights have been\n[A]lonely\n[F#]Change your plans and then\n[B]phone me\n\n[Bridge]\n[E]\n[C#m]  [B]\n[E]\n[C#m]  [B]\n[E]\n[C#m]  [B]\n[E]\n[C#m]  [B]\n\n[Verse 2]\n[E]We could go and get\n[A]forties\n[F#]Fuck goin to that\n[B]party Oh\n[E]really your folks are a-\n[A]way now Al-\n[F#]right let's go you con-\n[B]vinced me\n\n[Bridge]\n[E]\n[C#m]  [B]\n[E]\n[C#m]  [B]\n[E]\n[C#m]  [B]\n[E]\n[C#m]  [B]\n\n[Interlude]\n[Am/C]Twelve fifty\none is the\n[E]time my\nvoice Found the\n[Am/C]words I\nsought Is it this\n[E]stage I\nwant The\n[Am/C]world is\nshuttin\n[E]out for us\nOh we were\n[Am/C]tense for\nsure But we was\n[E]confi-\ndeeeent\n\n[Verse 3]\n[E]Kiss me now that I'm\n[A]older\n[F#]I won't try to con-\n[B]trol you\n[E]Friday nights have been\n[A]lonely\n[F#]Take it slow but don't\n[B]warn me\n[E]We'd go out and get\n[A]forties\n[F#]Then we'd go to some\n[B]party Oh\n[E]really your folks are a-\n[A]way now Al-\n[F#]right I'm comin\n[B]I'll be right there\n\n[Outro]\n[E]\n[C#m]  [B]\n[E]\n[C#m]  [B]\n[E]\n[C#m]  [B]\n[E]\n[C#m]  [B]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am/C": {
+      "catalog": [
+        "x32210"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "12:51",
+  "id": "81a024480570d8ba4b6c5cae8b4945c9adfca53e5f613594898d1780811f19a4",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 163,
+  "normalizedKey": "the strokes|12 51",
+  "playableChords": [
+    "E",
+    "Am/C",
+    "A",
+    "F#",
+    "B",
+    "C#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Bridge"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 47,
+      "name": "Interlude"
+    },
+    {
+      "measure": 63,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 79,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "81a024480570d8ba4b6c5cae8b4945c9adfca53e5f613594898d1780811f19a4",
+    "version": "BCFZ"
+  },
+  "tempo": 145,
+  "title": "12:51",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

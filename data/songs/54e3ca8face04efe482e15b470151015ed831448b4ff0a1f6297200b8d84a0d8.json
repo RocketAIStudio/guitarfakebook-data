@@ -1,0 +1,112 @@
+{
+  "artist": "The Rolling Stones",
+  "artistNormalized": "the rolling stones",
+  "capo": "1",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E]\nYou can\n\n[Verse 1]\n[E]turn off and\n[B7]on more\n[Am]times than a\n[B7]flashin' neon\n[E]sign. When you\n[B7]want you're\n[Am]bad But you\n[B7]can be so kind\n\n[Chorus]\n[A]Just take it\n[E]or leave it\n[B7]Don't tell your\n[E]friend Just what you're gonna do now\n[A]You take it\n[E]or leave it,\n[B7]it's just my\n[Am]life\n[E]There've been\n\n[Verse 2]\n[E]times when you\n[B7]tried Makin'\n[Am]eyes at\n[B7]all my so called\n[E]friends Then you\n[B7]go, now you're\n[Am]back But you\n[B7]can be so kind\n\n[Chorus]\n[A]Just take it\n[E]or leave it\n[B7]Don't tell your\n[E]friend Just what you're gonna do now\n[A]You take it\n[E]or leave it,\n[B7]it's just my\n[Am]life\n[E]Oh, lala-\n\n[Interlude]\n[A]latatatatala-\n[E]lalala Oh, lala-\n[A]latatatatala-\n[E]la Oh, lala-\n[A]latatatatala-\n[E]lalala Oh, lala-\n[A]latatatatala-\n[E]la I'm sick and\n\n[Verse 3]\n[E]tired of the\n[B7]smile that you\n[Am]give When you\n[B7]don't come home at\n[E]night You said you'd\n[B7]call, that's a\n[Am]lie But you\n[B7]could be so kind\n\n[Chorus]\n[A]Just take it\n[E]or leave it\n[B7]Don't tell your\n[E]friend Just what you're gonna do now\n[A]You take it\n[E]or leave it,\n[B7]it's just my\n[Am]life\n[E]Oh, lala-\n\n[Outro]\n[A]latatatatala-\n[E]lalala Oh, lala-\n[A]latatatatala-\n[E]la Oh, lala-\n[A]latatatatala-\n[E]lalala Oh, lala-\n[A]latatatatala-\n[E]la Oh, lala-\n[A]latatatatala-\n[E]lalala Oh, lala-",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Take It Or Leave It",
+  "id": "54e3ca8face04efe482e15b470151015ed831448b4ff0a1f6297200b8d84a0d8",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 267,
+  "normalizedKey": "the rolling stones|take it or leave it",
+  "playableChords": [
+    "E",
+    "B7",
+    "Am",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "54e3ca8face04efe482e15b470151015ed831448b4ff0a1f6297200b8d84a0d8",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "Take It Or Leave It",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

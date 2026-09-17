@@ -1,0 +1,105 @@
+{
+  "artist": "The Traveling Wilburys",
+  "artistNormalized": "the traveling wilburys",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]  [D]\n[G]  [D]\n[G]\n[D]Well it's all\n\n[Chorus]\n[D]right,\nriding around [A]in the breeze [G]Well it's\n[D]all right, if\nyou live the [A]life you please [D]Well it's\n[D]all right,\ndoing the best [A]you can [G]Well it's\n[D]all right, as\nlong as you lend [A]a hand [D]\n\n[Verse 1]\n[G]You can sit around and wait for the phone\n[D]to ring At the end of the line\n[G]Waiting for someone to tell you\n[D]everything At the end of the line\n[G]Sit around and wonder what tomorrow\n[D]will bring At the end of the line Maybe a dia-\n[A]mond ring Well it's all\n\n[Chorus]\n[D]right,\neven if they [A]say you're wrong [G]Well it's\n[D]all right,\nsometimes you [A]gotta be strong [D]Well it's\n[D]all right, as\nlong as you got [A]somewhere to lay [G]Well it's\n[D]all right,\neveryday is [A]Judgement Day [D]\n\n[Verse 2]\n[G]Maybe somewhere down the road away\n[D]At the end of the line\n[G]You'll think of me, and wonder where I am these\n[D]days At the end of the line\n[G]Maybe somewhere down the road when some-\n[D]body plays At the end of the line\n[A]Purple haze Well it's\n\n[Chorus]\n[D]all right,\neven when push [A]comes to [G]shove Well it's\n[D]all right,\nif you got [A]someone to [D]love Well it's\n[D]all right,\neverything'll [A]work out fine [G]Well it's\n[D]all right, we're\ngoing to the [A]end of the line [D]\n\n[Verse 3]\n[G]Don't have to be ashamed of the car I\n[D]drive At the end of the line\n[G]I'm just glad to be here, happy to be\n[D]alive At the end of the line\n[G]It don't matter if you're by\n[D]my side At the end of the line I'm\n[A]satisfied Well it's all\n\n[Chorus]\n[D]right,\neven if you're [A]old and grey [G]Well it's\n[D]all right, you\nstill got [A]something to say [D]Well it's all\n[D]right, re-\nmember to live [A]and let live [G]Well it's\n[D]all right, the\nbest you can do [A]is forgive [D]Well it's\n\n[Chorus]\n[D]all right,\nriding around [A]in the breeze [G]Well it's\n[D]all right,\nif you live the [A]life you please [D]Well it's all\n[D]right,\neven if the [A]sun don't shine [G]Well it's\n[D]all right, we're\ngoing to the [A]end of the line [D]\n\n[Outro]\n[G]  [D]\n[G]  [D]\n[G]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "End Of The Line *alt",
+  "id": "938ade3c84b56d8d241c2dcf44ef1937acc27711b6d3057d3b4b2bb669111686",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 393,
+  "normalizedKey": "the traveling wilburys|end of the line",
+  "playableChords": [
+    "G",
+    "D",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "938ade3c84b56d8d241c2dcf44ef1937acc27711b6d3057d3b4b2bb669111686",
+    "version": "BCFZ"
+  },
+  "tempo": 84,
+  "title": "End Of The Line",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

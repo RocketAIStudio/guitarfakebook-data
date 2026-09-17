@@ -1,0 +1,104 @@
+{
+  "artist": "The Hollies",
+  "artistNormalized": "the hollies",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n[G]\n[D]  [A]\n[D]\n\n[Verse 1]\n[D]Hey, hey,\n[G]just what's wrong with me?\n[D]You've been lookin'\n[G]far too good to me\nI know our\n[A]love could never be\n[D]now [G]\n[D]  [A]\n[D]My heart it\n[G]keeps on beatin'\n[D]I know that\n[G]you've been cheatin'\nI know our\n[A]love could never be\n[D]now [G]\n[D]\n\n[Bridge]\n[Gm]I tried,\nhow I tried\n[D]to keep you\nsatisfied\n[G]By me,\noh gee, you\n[A]go from me and\nhow I cried\n\n[Verse 2]\n[D]Hey, hey,\n[G]just what's wrong with me?\n[D]You've been lookin'\n[G]far too good to me\nI know our\n[A]love could never be\n[D]now [G]\n[D]  [A]\n\n[Solo]\n[D]\n[G]\n[D]\n[G]\n[A]\n[D]  [A]\n[D]\n\n[Bridge]\n[Gm]I tried,\nhow I tried\n[D]to keep you\nsatisfied\n[G]By me,\noh gee, you\n[A]go from me and\nhow I cried\n\n[Verse 3]\n[D]Hey, hey,\n[G]just what's wrong with me?\n[D]You've been lookin'\n[G]far too good to me\nI know our\n[A]love could never be\n[D]now [G]\n[D]  [A]\n[D]My heart it\n[G]keeps on beatin'\n[D]I know that\n[G]you've been cheatin'\nI know our\n[A]love could never be\n[D]now [G]\n[D]  [A]\n[D]I know our\n[G]love could [A]never be\n[D]now",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hey What's Wrong With Me",
+  "id": "b36bdec2167133f36215f781912902a89455e3cbd7560e76f969af86b081766b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 178,
+  "normalizedKey": "the hollies|hey what s wrong with me",
+  "playableChords": [
+    "D",
+    "G",
+    "A",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Bridge"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 44,
+      "name": "Solo"
+    },
+    {
+      "measure": 52,
+      "name": "Bridge"
+    },
+    {
+      "measure": 64,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b36bdec2167133f36215f781912902a89455e3cbd7560e76f969af86b081766b",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Hey What's Wrong With Me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

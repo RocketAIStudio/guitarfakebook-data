@@ -1,0 +1,133 @@
+{
+  "artist": "The Smashing Pumpkins",
+  "artistNormalized": "the smashing pumpkins",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G6add9]\n[Bm7]\n[G6add9]\n[Bm7]\n[G6add9]\n[Bm7]\n[G6add9]\n[Bm7]I've\n\n[Verse 1]\n[G6add9]seen enough, it's all\n[Bm7]undone\n[G6add9]\n[Bm7]'Tis the sec-\n[G6add9]ret of the I-\n[Bm7]rishman\n[G6add9]\n[Bm7]\n\n[Bridge]\n[C7M]Weak makes strong\n[Em]\n[C7M]And strong makes weak\nOh, se-\n[D]raphim,\n[G7M]do come\n\n[Chorus]\n[Asus4]For the love of i-\nrony Let's love,\n[G7M]oh let's love\n[Asus4]For the love of i-\nrony She's\nlaughing on, she's\nlaughing on To stay\n\n[Verse 2]\n[G6add9]confused\n[Bm7]Dis-\n[G6add9]union has its breaks\n[Bm7]Its\n[G6add9]ordinary aches\n[Bm7]and pains,\n[G6add9]I'll take\n[Bm7]\n\n[Chorus]\n[D]It's with sym-\n[G7M]pathy\nThat I\n[D]gift you\n[G7M]to me\n\n[Break]\n[G6add9]\n[Bm7]\n[G6add9]\n[Bm7]\n[G6add9]\n[Bm7]\n[G6add9]\n[Bm7]Please,\n\n[Chorus]\n[D]stay confused\n[G7M]Dis-\nunion has its use\nIts\n[D]sadness, dead goons,\n[G7M]and pa-\ngeants of harm\n[Asus4]For the love of i-\nrony Let's love,\n[G7M]oh let's love\n[Asus4]For the love of i-\nrony Let's love,\noh let's love\n\n[Chorus]\n[D]It's with sym-\n[G7M]pathy\nThat I\n[D]gift you\n[G7M]to me\n[D]It's with sym-\n[G7M]pathy\nThat I\n[D]gift you\n[G7M]to me\n\n[Outro]\n[G6add9]\n[Bm7]\n[G6add9]\n[Bm7]\n[G6add9]\n[Bm7]\n[D]",
+  "diagrams": {
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C7M": {
+      "catalog": [
+        "x32000"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G6add9": {
+      "catalog": [
+        "320200"
+      ],
+      "catalogCount": 1
+    },
+    "G7M": {
+      "catalog": [
+        "320002"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "With Sympathy",
+  "id": "0a88322a2684a6329aafa7a8a300ea8fb0a13d6fcc888b88d9ddd4ce78d0de8b",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 155,
+  "normalizedKey": "the smashing pumpkins|with sympathy",
+  "playableChords": [
+    "G6add9",
+    "Bm7",
+    "C7M",
+    "Em",
+    "D",
+    "G7M",
+    "Asus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Break"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0a88322a2684a6329aafa7a8a300ea8fb0a13d6fcc888b88d9ddd4ce78d0de8b",
+    "version": "BCFZ"
+  },
+  "tempo": 113,
+  "title": "With Sympathy",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

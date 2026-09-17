@@ -1,0 +1,118 @@
+{
+  "artist": "The Everly Brothers",
+  "artistNormalized": "the everly brothers",
+  "capo": "7",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]I'll [C]never\n[D]let you see [G]\n[G]The way my [C]broken heart is\n[D]hurting me [G]\n[G]I've got my [C]pride and I\n[B7]know how to hide [Em]All my\n[C]sorrow and pain\n[D]I'll do my crying in the\n[Em]rain [D][Em]\n\n[Verse 2]\n[G]If I [C]wait for\n[D]cloudy skies [G]\n[G]You won't know the [C]rain from the\n[D]tears in my eyes [G]\n[G]You'll never [C]know that I\n[B7]still love you so [Em]Though the\n[C]heartaches remain\n[D]I'll do my crying in the\n[Em]rain [D][Em]\n\n[Bridge]\n[C]Raindrops falling from\n[Am]heaven Could\n[D]never wash away my mise-\n[G]ry But\n[Em]since we're not together I'll\n[C]wait for stormy weather To\n[D]hide these tears I hope you'll never\nsee\n\n[Verse 3]\n[C][G]Someday when my\n[D]crying's done [G]\n[G]I'm gonna [C]wear a smile and\n[D]walk in the sun [G]I\n[G]may be a [C]fool But till\n[B7]then, darling, [Em]you'll never\n[C]see me complain\n[D]I'll do my crying in the\n[Em]rain [D][Em]\nI'll do my crying in the\n[Em]rain [D][Em]\nI'll do my crying in the\nrain\n[D]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Crying In The Rain",
+  "id": "80e7d0cf73b9488571078d98e31e73e387fb2523e2c3c833bc57daeae3614fe3",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 182,
+  "normalizedKey": "the everly brothers|crying in the rain",
+  "playableChords": [
+    "G",
+    "C",
+    "D",
+    "B7",
+    "Em",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "80e7d0cf73b9488571078d98e31e73e387fb2523e2c3c833bc57daeae3614fe3",
+    "version": "BCFZ"
+  },
+  "tempo": 97,
+  "title": "Crying In The Rain",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

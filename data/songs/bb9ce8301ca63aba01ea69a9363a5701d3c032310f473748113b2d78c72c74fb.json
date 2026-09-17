@@ -1,0 +1,105 @@
+{
+  "artist": "The Black Keys",
+  "artistNormalized": "the black keys",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Em]\n\n[Verse 1]\n[Em]I must admit\nI can't explain\nAny of these thoughts racing\nThrough my brain It's true\n[B7]Baby I'm howlin' for\n[Em]you\n\n[Verse 2]\n[Em]There's something wrong\nWith this plot\nThe actors here Have not\ngot A clue\n[B7]Baby I'm howlin' for\n[Em]you\nLa la la\n\n[Chorus]\n[Em]la la....\n\n[Verse 3]\n[Em]Mockingbird\nCan't you see\nLittle girl's Got a\nhold on me Like glue\n[B7]Baby I'm howlin' for\n[Em]you\n\n[Verse 4]\n[Em]Throw the ball\nTo the stick\nSwing and miss and a\nCatcher's mitt Strike two\n[B7]Baby I'm howlin' for\n[Em]you\nLa la la\n\n[Chorus]\n[Em]la la......\n\n[Solo]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]La la la\n\n[Chorus]\n[Em]la la......\n\n[Outro]\n[Em]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Howlin' For You",
+  "id": "bb9ce8301ca63aba01ea69a9363a5701d3c032310f473748113b2d78c72c74fb",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 111,
+  "normalizedKey": "the black keys|howlin for you",
+  "playableChords": [
+    "Em",
+    "B7",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Solo"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus"
+    },
+    {
+      "measure": 97,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bb9ce8301ca63aba01ea69a9363a5701d3c032310f473748113b2d78c72c74fb",
+    "version": "BCFZ"
+  },
+  "tempo": 133,
+  "title": "Howlin' For You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

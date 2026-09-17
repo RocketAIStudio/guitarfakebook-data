@@ -1,0 +1,115 @@
+{
+  "artist": "The Raconteurs",
+  "artistNormalized": "the raconteurs",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]\nIf you\ncall me I'll come\n[D]running\n[E]And you can\ncall me anytime\n[A]\nThese\nsixteen strings we're\n[D]strumming\n[E]They will back\nup every\nline, every line, every line\n\n[Intro 2]\n[E]  [G]\n[C]  [A]\n[E]  [G]\n[C]  [A]\n[E]  [G]\n[C]  [A]\n[E]  [G]\n[C]  [A]\n\n[Verse 1]\n[C]If you call me I'll come\n[A]running\n[C]And you can call me any-\n[A]time\n[C]And these sixteen strings we're\n[A]strumming\n[C]They will back up every\n[A]line\n[C]There's a motivation\n[A]about you\n[C]That moves me when we're a-\n[A]part\n[C]It agitates my af-\n[A]fection\n[C]And it wants to break my\n[A]heart\n\n[Chorus]\n[E]  [G]\n[C]  [A]\n[E]  [G]\n[C]  [A]\n[E]Help me, [G]stranger\n[C]Help me get it off [A]my mind\n[E]Get me back [G]on my feet\n[C]Brother, can you spare [A]the time?\n[E]Help me, [G]stranger\n[C]Help me get it off [A]my mind\n[E]Get me back [G]on my feet\n[C]Brother, can you spare [A]the time?\n\n[Verse 2]\n[C]It's not essential that I\n[A]feel you\n[C]But it's a sensitive de-\n[A]vice\n[C]I'm reverential when I\n[A]hear you\n[C]I genuflect to your\n[A]advice\n[C]Well, I wish I had the\n[A]words\n[C]And I want those words to\n[A]rhyme\n[C]And I wish I had the\n[A]nerve\n[C]'Cause I sure don't have the\n[A]time\n\n[Chorus]\n[E]Help me, [G]stranger\n[C]Help me get it off [A]my mind\n[E]Get me back [G]on my feet\n[C]Brother, can you spare [A]the time?\n[E]Help me, [G]stranger\n[C]Help me get it off [A]my mind\n[E]Get me back [G]on my feet\n[C]Brother, can you spare [A]the time?\n\n[Outro]\n[C]Brother can you spare the time?\n[A]\n[C]Brother can you spare the time?\n[A]\n[C]Brother can you spare the time?\n[A]\n[C]\n[A]\n[A]\n[C]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Help Me Stranger",
+  "id": "55082d40eb4fbc164e4b674c418da5e031e2f0118d946c5ea67647e2363b3217",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 270,
+  "normalizedKey": "the raconteurs|help me stranger",
+  "playableChords": [
+    "A",
+    "D",
+    "E",
+    "G",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 71,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "55082d40eb4fbc164e4b674c418da5e031e2f0118d946c5ea67647e2363b3217",
+    "version": "BCFZ"
+  },
+  "tempo": 94,
+  "title": "Help Me Stranger",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

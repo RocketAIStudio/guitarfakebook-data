@@ -1,0 +1,88 @@
+{
+  "artist": "The Neighbourhood",
+  "artistNormalized": "the neighbourhood",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Chorus]\n[F]Boys, boys, boys, boys, [Bb]boys Voices in my\n[Gm]head tellin' me to make a [C]choice Everyone\n[F]yellin' makin' too much [Bb]noise I can't hear my-\n[Gm]self anymore, [C]alright\n[F]Boys, boys, boys, boys, [Bb]boys Voices in my\n[Gm]head tellin' me to make a [C]choice Everyone\n[F]screamin' makin' too much [Bb]noise I can't hear my-\n[Gm]self anymore [C]I don't know what I'm\n\n[Bridge]\n[F]thinkin' [Bb]\n[Gm][C]Don't know what I'm thin-\n[F]kin' [Bb]\n[Gm][C]What am I\n[F]doin'? [Bb]\n[Gm]Don't [C]know whether\n[F]I'm movin' [Bb]again,\n[Gm]mm [C]\n\n[Chorus]\n[F]Boys, boys, boys, boys, [Bb]boys Voices in my\n[Gm]head tellin' me to make a [C]choice Everyone\n[F]yellin' makin' too much [Bb]noise I can't hear my-\n[Gm]self anymore [C]\n[F]Boys, boys, boys, boys, [Bb]boys Voice in my\n[Gm]head tellin' me to make a [C]choice Everyone\n[F]yellin' makin' too much [Bb]noise I can't hear my-\n[Gm]self anymore [C]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Mono-Tones",
+  "id": "cb94ca9146765ff66b4e59de593093d33c1c3b463db2b0645bbba05ed9f01a42",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 169,
+  "normalizedKey": "the neighbourhood|the mono tones",
+  "playableChords": [
+    "F",
+    "Bb",
+    "Gm",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Chorus"
+    },
+    {
+      "measure": 9,
+      "name": "Bridge"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cb94ca9146765ff66b4e59de593093d33c1c3b463db2b0645bbba05ed9f01a42",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "The Mono-Tones",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,93 @@
+{
+  "artist": "The Sword",
+  "artistNormalized": "the sword",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C5]\nSummoning spirits of dread\n\n[Verse 1]\n[C5]\nBefore an altar of sac\nred fire\nShe sings the hymns of the dead\nGlorifying her ho\nly sire\n\n[Intro Riff]\n[C5]  [A#5]\n[C5]  [A#5]\n[D#5]\n[C5]  [A#5]\n[C5]  [A#5]\n[D#5]A goddess in human form\n\n[Verse 2]\n[C5]\nDark hair crown with a glo\nwing nimbus\nShe has the eyes of the storm\nLike the sea in a ra\nging tempest\n\n[Intro Riff]\n[C5]  [A#5]\n[C5]  [A#5]\n[D#5]\n[C5]  [A#5]\n[C5]  [A#5]\n[D#5]\n\n[Solo]\n[C5]\n[D#5]  [F5]\n\n[Verse 3]\n[C5]\nSo strikes the Queen of the a-\nir\nLike a blow from a ti\ntan's hammer\nLet mortal women beware\nFor none can match her une -\narthly glamour\n\n[Outro]\n[C5]  [A#5]\n[C5]  [A#5]\n[D#5]\n[C5]  [A#5]\n[C5]  [A#5]\n[D#5]",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "xx578x",
+        "355xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Eyes Of The Stormwitch",
+  "id": "500e234eadfd67368f2a3d5cf7ad689232afe2dca89e9c5baea99ae379fd2a70",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 103,
+  "normalizedKey": "the sword|eyes of the stormwitch",
+  "playableChords": [
+    "C5",
+    "A#5",
+    "D#5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 28,
+      "name": "Intro Riff"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Intro Riff"
+    },
+    {
+      "measure": 54,
+      "name": "Solo"
+    },
+    {
+      "measure": 62,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 78,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "500e234eadfd67368f2a3d5cf7ad689232afe2dca89e9c5baea99ae379fd2a70",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Eyes Of The Stormwitch",
+  "tuning": "C F A# D# G C",
+  "variantRole": "primary"
+}

@@ -1,0 +1,126 @@
+{
+  "artist": "The Smiths",
+  "artistNormalized": "the smiths",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\n[F#m][Bm]The\n\n[Verse 1]\n[G]rain falls hard on a\n[F#m]hum-drum town, [Bm]\n[G]this town has dragged you down\n[F#m][Bm]Oh the\n[G]rain falls hard on a\n[F#m]hum-drum town, [Bm]\n[G]this town has dragged you\ndown. Oh,\n[D]\n[A]and\n[G]everybody's got to\nlive their life, And\n[Bm]God knows I've got to live mine,\nGod\n[D]knows I've\n[A]got to live mine.\n[Bm]\n[D]\n[A]\n\n[Pre-Chorus]\n[G]\n[A]\n\n[Chorus]\n[G]William,\nWilliam it [A]was\n[Bm]really no-\n[F#m]thing.\n[G]William,\nWilliam it [A]was\n[Bm]really no-\n[F#m]thing,\n[Bm]It was your\n[E]eyes.\n\n[Verse 2]\n[G]\nHow can you stay\n[A]with a fat girl who'll say,\nOh, would you\n[G]like to marry me, and if you\nlike, you can buy the ring? [A]\n[Bm]She doesn't care about any-\n[F#m]thing. Would you\n[G]like to marry me, and if you\nlike, you can buy the ring? [A]\n[Bm]I don't dream about any-\n[F#m]one\n[Bm]except my-\n[E]self.\n\n[Pre-Chorus]\n[G]\n[A]Oh,\n\n[Chorus]\n[G]Wiliam,\nWilliam it [A]was\n[Bm]really no-\n[F#m]thing.\n[G]William,\nWilliam [A]\n[Bm]\n[F#m]\n[Bm]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "William, It Was Really Nothing *alt",
+  "id": "f53efdf9870f81354c95bc15fbf7020acbd38b36ac7859037eac548ecd64689f",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 171,
+  "normalizedKey": "the smiths|william it was really nothing",
+  "playableChords": [
+    "G",
+    "F#m",
+    "Bm",
+    "D",
+    "A",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f53efdf9870f81354c95bc15fbf7020acbd38b36ac7859037eac548ecd64689f",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "William, It Was Really Nothing",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

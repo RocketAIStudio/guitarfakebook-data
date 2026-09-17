@@ -1,0 +1,123 @@
+{
+  "artist": "The Doors",
+  "artistNormalized": "the doors",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n\n[Verse 1]\n[Em]Riders on the storm\nRiders on the storm\nIn-\n[Am7]to this house we're [Bm7]born\n[C][D]In-\n[Em]to this world we're thrown\nLike a\n[D]dog without a bone An\n[C]actor out on loan\n\n[Verse 2]\n[Em]Riders on the storm\nThere's a\nkiller on the road\nHis brain is\nsquirmin' like a toad\nTake\n[Am7]a long [Bm7]holiday\n[C]  [D]\n[Em]Let your children play\nIf you\n[D]give this man a ride Sweet\n[C]family will die\n[Em]Killer on the road,\nyeah\n\n[Guitar solo]\n[Em]\n[D]\n[C]\n[Em]\nGirl, you\n\n[Verse 3]\n[Em]gotta love your man\nGirl, you\ngotta love your man\n[Am7]Take him by the [Bm7]hand\n[C]  [D]\n[Em]Make him understand\nThe\n[D]world on you depends Our\n[C]life will never end\n[Em]Gotta love your man,\n\n[Keyboard solo]\n[Em]\n\n[Interlude]\n[Em]\n\n[Verse 4]\n[Em]Riders on the storm\nRiders on the storm\nIn-\n[Am7]to this house we're [Bm7]born\n[C][D]In-\n[Em]to this world we're thrown\nLike a\n[D]dog without a bone An\n[C]actor out on loan\n[Em]Riders on the storm\n\n[Outro]\n[Em]\nRiders on the storm\nRiders on the storm\nRiders on the storm\nRiders on the storm\nRiders on the storm",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Riders on the Storm",
+  "id": "ceab93c3e0fad65b76fcff6ead4b526fefdd5fa5d2746c355d6a45b6583aa54d",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 191,
+  "normalizedKey": "the doors|riders on the storm",
+  "playableChords": [
+    "Em",
+    "Am7",
+    "Bm7",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Guitar solo"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 64,
+      "name": "Keyboard solo"
+    },
+    {
+      "measure": 113,
+      "name": "Interlude"
+    },
+    {
+      "measure": 124,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 136,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ceab93c3e0fad65b76fcff6ead4b526fefdd5fa5d2746c355d6a45b6583aa54d",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "Riders on the Storm",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

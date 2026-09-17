@@ -1,0 +1,121 @@
+{
+  "artist": "The Strokes",
+  "artistNormalized": "the strokes",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D]\n[Dsus2]\n[D]\n[Dsus2]\n[Em/G]\n[G]\n[Em/G]\n[G]\n[D]\n[Dsus2]\n[D]\n[Dsus2]\n[Em/G]\n[G]\n[Em/G]\n[G]\n\n[Verse 1]\n[D]Upon a hill\n[Dsus2]is where we begin\n[D]this little story\n[Dsus2]a long time ago\n[Em/G]\n[G]\n[Em/G]\n[G]\n[D]Stop to pretend\n[Dsus2]stop pretendin\n[D]It seems this game is simply\n[Dsus2]neverendin\n[Em/G]\n[G]\n[Em/G]\n[G]Oh in the\n[D]sun sun havin fun\n[Dsus2]it's in my blood\n[D]I just can't help it Don't\n[Dsus2]want you here right now let me-\n[Em/G]e go\n[G]Ooh\n[Em/G]let mee\n[G]Gggggggo\n[G]\nLeavin just in\n\n[Chorus]\n[D]tiime\nStay there for a\n[Em]while\nRollin in the\n[F#m]ocean\nTryin to catch her\n[Asus4]eye\nWork hard and say it's\n[D]easy\nDo it just to\n[Em]please me\nTomorrow will be\n[F#m]different\nSo I pretend I'm\n[Asus4]leavin\n\n[Solo]\n[D]\n[G]\nOur fears are\n\n[Verse 2]\n[D]different here We train in\n[Dsus2]AVA I wish you\n[D]hadn't stayed My vision's\n[Dsus2]clearer now but I'm una-\n[Em/G]fraid\n[G]\n[Em/G]\n[G]\n[D]Flying overseas no\n[Dsus2]time to feel the breeze\n[D]I took too many\n[Dsus2]varieties\n[Em/G]\n[G]\n[Em/G]\n[G]Oh in the\n[D]sun, sun havin fun\n[Dsus2]It's in my blood\n[D]I just can't help it Don't\n[Dsus2]want you here right now let me-\n[Em/G]e goo Hoo\n[G]Darlin\n[Em/G]let mee\n[G]Ggggggggo\n[G]\nLeavin just in\n\n[Chorus]\n[D]tiime\nStay there for a\n[Em]while\nRollin in the\n[F#m]ocean\nTryin to catch\n[Asus4]her eye\nWork hard and say it's\n[D]easy\nDo it just to\n[Em]please me\nTomorrow will be\n[F#m]different\nSo this is why I'm\n[Asus4]leavin\n[G]",
+  "diagrams": {
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "x57755"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "679987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em/G": {
+      "catalog": [
+        "xx5453"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "xx5433",
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Modern Age *alt",
+  "id": "1b6b6c906ae16c672d1daa25a1864a1df072a4837ad6dae34bdd5494c7757ebc",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 271,
+  "normalizedKey": "the strokes|the modern age",
+  "playableChords": [
+    "D",
+    "Dsus2",
+    "Em/G",
+    "G",
+    "Em",
+    "F#m",
+    "Asus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Solo"
+    },
+    {
+      "measure": 83,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 109,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1b6b6c906ae16c672d1daa25a1864a1df072a4837ad6dae34bdd5494c7757ebc",
+    "version": "BCFZ"
+  },
+  "tempo": 146,
+  "title": "The Modern Age",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

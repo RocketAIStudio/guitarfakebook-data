@@ -1,0 +1,102 @@
+{
+  "artist": "The Idiots",
+  "artistNormalized": "the idiots",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n\n[Verse 1]\n[C]You say I have\n[Em]a big nose\n[F]But you You\n[G]have big feet You say I\n[C]have a big head\n[Em]But you You\n[F]have big feet\n[G]Why? You say I have a\n\n[Chorus 1]\n[C]big\n[G]\n[F]\n[G5]\n\n[Verse 2]\n[C]ass But you You\n[Em]have big feet\n[F]You say I\n[G]am Bin Laden But you\n[C]I will kill you\n[Em]Die! May you\n[F]rest in hell\n[G]Fucker\n\n[Chorus 2]\n[C]\n[G]\n[F]\n[G5]\n\n[Outro]\n[C]\n[G/B]\n[C]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "The Idiotic Pop Song",
+  "id": "d5c16df60e2389f79a4189fcaaf51c78ae95476ae5442a1c3924ba31b46d395b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 60,
+  "normalizedKey": "the idiots|the idiotic pop song",
+  "playableChords": [
+    "C",
+    "Em",
+    "F",
+    "G",
+    "G5",
+    "G/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus 2"
+    },
+    {
+      "measure": 37,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gp4",
+    "sha256": "d5c16df60e2389f79a4189fcaaf51c78ae95476ae5442a1c3924ba31b46d395b",
+    "version": "FICHIER GUITAR PRO v4.06"
+  },
+  "tempo": 120,
+  "title": "The Idiotic Pop Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

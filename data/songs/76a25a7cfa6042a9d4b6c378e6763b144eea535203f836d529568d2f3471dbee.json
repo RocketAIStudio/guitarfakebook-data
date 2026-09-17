@@ -1,0 +1,129 @@
+{
+  "artist": "The Story So Far",
+  "artistNormalized": "the story so far",
+  "capo": "5",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G/B]\n[Em7]\n[G]\n[Em/A]\n[C]\nI bet it\n\n[Verse 1]\n[G/B]hurts to read\n[Em7]permanence I\n[G]used to think on\n[Em/A]all of this and\n[C]how you don't\n[G/B]Damn it's hard to find\n[Em7]sustenance when\n[G]all I had was\n[Em/A]love for this and\n[C]now you don't\nNow I\n[G/B]just abuse\n[Em7]substances to\n[G]drown out your ac-\n[Em/A]complishments, how-\n[C]ever few\n\n[Chorus]\n[A7sus4]All of this\n[Am7]frustrates me\n[C]bad cause I\n[Em7]can't stay\n[Am7]mad At\nyou or change\n[Em7]anything\n[G]that I\n[A7sus4]had She told me\n[Am7]don't think like\n[C]that, it's really\n[Em7]not that\n[Am7]bad I hope this\nmakes you\n[Em7]sad I hope this\n[G]makes you\n\n[Bridge]\n[C]sad\n\n[Pre-Verse]\n[G/B]\n[Em7]\n[G]\n[Em/A]\n[C]\nIf it's something\n\n[Verse 2]\n[G/B]serious then\n[Em7]hit me up But\n[G]until then the\n[Em/A]door is shut, For-\n[C]get my room\nAnd if I\n[G/B]had a match for\n[Em7]every lie And\n[G]every attempt\n[Em/A]to deny I'd\n[C]strike a few\nI\n[G/B]am the walls, the\n[Em7]silent halls. My\n[G]jacket at your\n[Em/A]sister's wedding\n[C]Navy blue.\n\n[Chorus]\n[A7sus4]All of this\n[Am7]frustrates me\n[C]bad cause I\n[Em7]can't stay\n[Am7]mad At\nyou or change\n[Em7]anything\n[G]that I\n[A7sus4]had She told me\n[Am7]don't think like\n[C]that, it's really\n[Em7]not that\n[Am7]bad I hope this\nmakes you\n[Em7]sad I hope this\n[G]makes you\n\n[Outro]\n[C]sad",
+  "diagrams": {
+    "A7sus4": {
+      "catalog": [
+        "x02030"
+      ],
+      "catalogCount": 1
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em/A": {
+      "catalog": [
+        "x0200x"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "02000x",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x2000x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Navy Blue",
+  "id": "76a25a7cfa6042a9d4b6c378e6763b144eea535203f836d529568d2f3471dbee",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 220,
+  "normalizedKey": "the story so far|navy blue",
+  "playableChords": [
+    "G/B",
+    "Em7",
+    "G",
+    "Em/A",
+    "C",
+    "A7sus4",
+    "Am7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    },
+    {
+      "measure": 101,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "76a25a7cfa6042a9d4b6c378e6763b144eea535203f836d529568d2f3471dbee",
+    "version": "BCFZ"
+  },
+  "tempo": 115,
+  "title": "Navy Blue",
+  "tuning": "C G D G B E",
+  "variantRole": "primary"
+}

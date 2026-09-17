@@ -1,0 +1,130 @@
+{
+  "artist": "The White Stripes",
+  "artistNormalized": "the white stripes",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am]\n\n[Verse 1]\n[Am]Hey little apple blos-\nsom What\n[Dm]seems to be the pro-\nblem\n[Am]All the ones you tell your\ntroubles to They\n[E7]don't really [G]care for you\n[Am]\nCome and tell me what you're think-\ning Cause\n[Dm]just when the boat is sink-\ning\n[Am]A little light is blink-\ning And\n[E7]I will come and [G]rescue you\n[Am]\n\n[Chorus]\n[Dm]Lots of girls walk a-\n[Am]round in tears\n[Em]But that's not for\n[Am]you\n[Dm]You've been looking all a-\n[Am]round for years For some-\n[B]one to tell your troubles to\n[E7]  [G]\n\n[Verse 2]\n[Am]Come and sit with me and\ntalk awhile\n[Dm]Let me see your pretty\nlittle smile\n[Am]Put your troubles in a\nlittle pile And\n[E7]I will sort them [G]out for you\n[Am]\n\n[Solo]\n[Am]\n[Dm]\n[Am]\n[B]\n[Am]\n[Dm]\n[Am]\n[E7]  [G]\n[Am]\n\n[Chorus]\n[Dm]Lots of girls walk a-\n[Am]round in tears\n[Em]But that's not for\n[Am]you\n[Dm]You've been looking all a-\n[Am]round for years For some-\n[B]one to tell your troubles to\n[E7]  [G]\n\n[Verse 3]\n[Am]Come and sit with me and\ntalk awhile\n[Dm]Let me see your pretty\nlittle smile\n[Am]Put your troubles in a\nlittle pile And\n[E7]I will sort them [G]out for you\n\n[Outro]\n[Am]\n[E7]I'll fall in [G]love with you\n[Am]\n[E7]I think I'll [G]marry you\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Apple Blossom *alt",
+  "id": "513b5e01e19010cb25fef98d260a79c5d040ed56224b45c7bbf188c14dffb791",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 205,
+  "normalizedKey": "the white stripes|apple blossom",
+  "playableChords": [
+    "Am",
+    "Dm",
+    "E7",
+    "G",
+    "Em",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Solo"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 66,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "513b5e01e19010cb25fef98d260a79c5d040ed56224b45c7bbf188c14dffb791",
+    "version": "BCFZ"
+  },
+  "tempo": 109,
+  "title": "Apple Blossom",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

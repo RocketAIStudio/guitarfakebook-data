@@ -1,0 +1,76 @@
+{
+  "artist": "The Ergs!",
+  "artistNormalized": "the ergs",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 5,
+  "content": "[Verse]\n[A5]I'm in love,\n[D5]I'm in trouble\n[A5]Hearing things\n[D5]and seeing double And I\n[F#5]know that I [E5]promised myself\n[D5]I wouldn't [A5]act this way But\n[F#5]you [D5]know\n[E5]me\n\n[Chorus]\n[D5]I'm talking in my [A5]sleep again and\n[D5]she's the one to [B5]blame\n[E5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx",
+        "x799xx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "First Song Side One",
+  "id": "fc083b68794540919f2955bad2f7f2e0ef29c6062a0978132deacb394da44a90",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 46,
+  "normalizedKey": "the ergs|first song side one",
+  "playableChords": [
+    "A5",
+    "D5",
+    "F#5",
+    "E5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fc083b68794540919f2955bad2f7f2e0ef29c6062a0978132deacb394da44a90",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "First Song Side One",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

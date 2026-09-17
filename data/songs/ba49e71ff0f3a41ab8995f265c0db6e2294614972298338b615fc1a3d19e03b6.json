@@ -1,0 +1,123 @@
+{
+  "artist": "The Strokes",
+  "artistNormalized": "the strokes",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Gm]\n[Eb]\n[Gm]\n[Eb]\n[Gm]\n[Eb]\n[Gm]\n[Eb]\n[F]I'm\n\n[Verse 1]\n[Gm]tired\nof\n[Eb]everyone\nI\n[Gm]knoo-\now\n[Eb]\nof\n[Gm]everyone\nI\n[Eb]see\non the\n[Gm]street\nand on\n[Eb]TV\nya\n\n[Chorus]\n[Bb]On the other\n[Cm]side\n[Eb]on the other\n[Bb]side\n[Bb]Nobody's\n[Gm]waiting for me\n[Eb]on the other\n[Bb]side\n\n[Interlude]\n[Gm]\n[Eb]\n[Gm]\n[Eb]\n[F]I\n\n[Verse 2]\n[Gm]hate them all\nI\n[Eb]hate them all\nI\n[Gm]hate myself\nfor\n[Eb]hating them\nSo I'll\n[Gm]drink some more\nI\n[Eb]love them all\nI'll\n[Gm]drink even mo-\nre I'll\n[Eb]hate them even more than I\ndid before\n\n[Chorus]\n[Bb]On the other\n[Cm]side\n[Eb]on the other\n[Bb]side\n[Bb]Nobody's\n[Gm]waiting for me\n[Eb]on the other\n[Bb]side\n\n[Bridge]\n[Gm]\n[Gm]I\nre-\n[Eb]member when you came\n[Gm]You\n[Eb]taught me how to sing\n[Gm]Now\nit\n[Eb]seems so far away\n[Gm]You\n[Eb]taught me how to sing\n[F]I'm\n\n[Verse 2]\n[Gm]tiiiired\nof\n[Eb]being\nso judge-\n[Gm]mental\nof\n[Eb]everyone\n[Gm]I will not\ngo to sleep\n[Eb]I will train my\neyes to see that my\n[Gm]miind is as\nbliind as a branch\n[Eb]on a tree\n\n[Chorus]\n[Bb]On the other\n[Cm]side\n[Eb]on the other\n[Bb]side\n[Bb]I know what's\n[Gm]waiting for me\n[Eb]on the other\n[Bb]side\n[Bb]On the other\n[Cm]side\n[Eb]on the other\n[Bb]side\n[Bb]I know you're\n[Gm]waiting for me\n[Eb]on the other\n[Bb]side",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "x-8-10-10-10-8",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "On the Other Side",
+  "id": "ba49e71ff0f3a41ab8995f265c0db6e2294614972298338b615fc1a3d19e03b6",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 228,
+  "normalizedKey": "the strokes|on the other side",
+  "playableChords": [
+    "Gm",
+    "Eb",
+    "F",
+    "Bb",
+    "Cm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge"
+    },
+    {
+      "measure": 91,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 107,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ba49e71ff0f3a41ab8995f265c0db6e2294614972298338b615fc1a3d19e03b6",
+    "version": "BCFZ"
+  },
+  "tempo": 55,
+  "title": "On the Other Side",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

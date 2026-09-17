@@ -1,0 +1,108 @@
+{
+  "artist": "The Black Keys",
+  "artistNormalized": "the black keys",
+  "capo": "5",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Dm]\n[Dm]\n[Am]\n[Gm]\n[Am]\n[A7]\n[Dm]\n[Am]\n[Gm]\n[Am]\n[A7]\n[Dm]\nSo long\n\n[Verse 1]\n[Dm]\nWhy'd you wait him so\n[Am]long?\nAfter every single\n[Gm]word is said I'm\nfeeling dead and gone\n[Am]\n[A7]Along\n[Dm]\nDon't you drag me a-\n[Am]long\nIf you do, you know I'll\n[Gm]follow you Un-\ntil the truth is known\n[Am]\n[A7]\n\n[Chorus]\n[Dm]I'll go anywhere you\ngo, oh oh oh\n[Am]I'll go anywhere you\ngo, oh oh oh\n[Gm]\nAll\n[Am]the way, all\n[A7]the way\n[Dm]I'll go anywhere you\ngo, oh oh oh\n[Am]I'll go anywhere you\ngo, oh oh oh\n[Gm]\nAll\n[Am]the way, all\n[A7]the way\n\n[Solo]\n[Dm]\n[Am]\n[Gm]\n[Am]\n[A7]\n[Dm]\nSo long\n\n[Verse 2]\n[Dm]\nWhy'd it take you so\n[Am]long?\nEvery time I hear the\n[Gm]whistle blow I'm\ndown below, your\n[Am]pawn\n[A7]\n[Dm]Don't call me, I'll\ncall you Is what\n[Am]you say, I'll\nobey Chill\n[Gm]tonight, or ea\ntin' right I need\n[Am]to say, got\n[A7]ta say\n\n[Chorus]\n[Dm]I'll go anywhere you\ngo, oh oh oh\n[Am]I'll go anywhere you\ngo, oh oh oh\n[Gm]\nAll\n[Am]the way, all\n[A7]the way\n[Dm]I'll go anywhere you\ngo, oh oh oh\n[Am]I'll go anywhere you\ngo, oh oh oh\n[Gm]\nAll\n[Am]the way, all\n[A7]the way\n\n[Break]\n[Dm]\n\n[Outro]\n[Dm]\n[Am]\n[Gm]\n[Am]\n[A7]\n[Dm]\n[Am]\n[Gm]\n[Am]\n[A7]\n[Dm]\n[Am]\n[Gm]\n[Am]\n[A7]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dead And Gone",
+  "id": "6313de48258dfa0ff9d0bdcb4f8af87b70d1338a670e338d79a8103ce52d4207",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 202,
+  "normalizedKey": "the black keys|dead and gone",
+  "playableChords": [
+    "Dm",
+    "Am",
+    "Gm",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Solo"
+    },
+    {
+      "measure": 73,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus"
+    },
+    {
+      "measure": 105,
+      "name": "Break"
+    },
+    {
+      "measure": 109,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6313de48258dfa0ff9d0bdcb4f8af87b70d1338a670e338d79a8103ce52d4207",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Dead And Gone",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

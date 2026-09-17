@@ -1,0 +1,91 @@
+{
+  "artist": "The Killers",
+  "artistNormalized": "the killers",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "We\n\n[Part 1]\n[Abm]hope you enj-\n[B]oy your\n[E]stay\nIt's\n[Abm]good to have you\n[Gb]with us Even\n[E]if it's just for the da-\n[B]y [Gb/Bb]We\n[Abm]hope you enj-\n[Gb]oy your\n[B]stay\n[E]Out-\n[Abm]side the sun is\n[Gb]shining It seems like\n[E]heaven ain't far away\n[B][Gb/Bb]It's\n[Abm]good to have you\n[Gb]with us Even\n[E]if it's just for the day\n\n[Part 2]\n[B]\n[Abm]\n[Gb]\n[E]",
+  "diagrams": {
+    "Abm": {
+      "catalog": [
+        "466444",
+        "x-x-6-8-9-7",
+        "x-11-13-13-12-11",
+        "16-18-18-16-16-16",
+        "x-x-18-20-21-19"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x24442",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "02210x",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "244322",
+        "24432x",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "Gb/Bb": {
+      "catalog": [
+        "6x8676"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Enterlude",
+  "id": "628ea6c17a931645bb1915416582f39fac267374666b18eddf5b788b508f0596",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 62,
+  "normalizedKey": "the killers|enterlude",
+  "playableChords": [
+    "Abm",
+    "B",
+    "E",
+    "Gb",
+    "Gb/Bb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Part 1"
+    },
+    {
+      "measure": 21,
+      "name": "Part 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "628ea6c17a931645bb1915416582f39fac267374666b18eddf5b788b508f0596",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "Enterlude",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

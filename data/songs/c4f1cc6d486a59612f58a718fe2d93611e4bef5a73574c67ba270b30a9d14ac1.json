@@ -1,0 +1,123 @@
+{
+  "artist": "The Cranberries",
+  "artistNormalized": "the cranberries",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\n[A]\n[B]\n[E]\n[A]\n[B]\n[E]\n\n[Verse 1]\n[E]\nOh, my\n[A]life Is\nchanging everyday\n[B]In\nevery possible way\n[E]\nAnd\noh, my\n[A]dreams It's\nnever quite as it seems\n[B]\nNever quite as it seems\n[E]\n\n[Chorus]\n[E]I know I felt\nlike this before\n[A]But now I'm feel-\ning it even more\n[B]Be-\ncause it came from you\n[E]\nThen I o-\npen up and see\n[A]The person fal-\nling here is me\n[B]A\ndifferent way to be\n[E]\n\n[Bridge]\n[G]Aaah,\nlaala-\n[C]aaah\nLa la laaaa\n[G]\nLaala-\n[C]aah La-\nah ah\n\n[Verse 2]\n[E]aaah\nI want\n[A]more Im-\npossible to ignore\n[B]Im-\npossible to ignore\n[E]\nAnd\nthey'll come\n[A]true Im-\npossible not to do\n[B]Im-\npossible not to do\n[E]\n\n[Chorus]\n[E]And now I tell\nyou openly\n[A]You have my heart\nso don't hurt me\n[B]You're\nwhat I couldn't find\n[E]\nA totally\namazing mind\n[A]So understan-\nding and so kind\n[B]You're\neverything to me\n[E]\n\n[Verse 3]\n[E]\nOh, my\n[A]life Is\nchanging everyday\n[B]In\nevery possible way\n[E]\nAnd\noh, my\n[A]dreams It's\nnever quite as it seems\n[B]'Cause\nyou're a dream to me\n[E]Dream to me\n\n[Interlude]\n[E]\n[A]\n[B]\n[E]\n[A]\n[B]\n[E]\n[E]\n[A]\n[B]\n[E]\n\n[Outro]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dreams *alt",
+  "id": "c4f1cc6d486a59612f58a718fe2d93611e4bef5a73574c67ba270b30a9d14ac1",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 210,
+  "normalizedKey": "the cranberries|dreams",
+  "playableChords": [
+    "E",
+    "A",
+    "B",
+    "G",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Bridge"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 74,
+      "name": "Chorus"
+    },
+    {
+      "measure": 90,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 106,
+      "name": "Interlude"
+    },
+    {
+      "measure": 130,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c4f1cc6d486a59612f58a718fe2d93611e4bef5a73574c67ba270b30a9d14ac1",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "Dreams",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,126 @@
+{
+  "artist": "The Hollies",
+  "artistNormalized": "the hollies",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Chorus]\n[D]Just one look,\n[G]that's all it [A]took yeah\n[D]Just one look,\n[G]that's all it [A]took yeah\n\n[Verse 1]\n[D]Just one look\nI felt so I,\n[Bm]I, I'm\nin\n[G]love\nWith\n[A]you Oh\n[D]I found out\nHow good it feels\n[Bm]\nTo\n[G]have\nyour\n[A]love\n\n[Verse 2]\n[D]Say you will\nWill be mine\n[Bm]\nFor -\n[G]ever\nand\n[A]always\n[D]Just one look\nand I knew\n[Bm]\nThat\n[G]you\n[A]were my on ly\n[D]one\n\n[Bridge]\n[G]I thought I was drea-\nming But I was wrong,\n[D]yeah yeah\nyeah [D#/G]Oh, but\n[E]I'm gonna keep on sche-\nming Til I can\n[A]make you Make you my\nown\n\n[Verse 3]\n[D]So you see\nI really care\n[Bm]\nWith -\n[G]out you\nI'm\n[A]nothin'\n[D]Just one look\nAnd I know\n[Bm]\nI'll\n[G]get you\n[A]some\n[D]day\n\n[Bridge]\n[G]I thought I was drea-\nming But I was wrong,\n[D]yeah yeah\nyeah [D#/G]Oh, but\n[E]I'm gonna keep on sche-\nming Til I can\n[A]make you Make you my\nown\n\n[Chorus]\n[D]Just one look,\n[G]that's all it [A]took yeah\n[D]Just one look,\n[G]that's all it [A]took yeah\n\n[Outro]\n[D]Just one look,\n[G]that's all it [A]took yeah\n[D]Just one look,\n[G]that's all it [A]took yeah\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D#/G": {
+      "catalog": [
+        "xx5343"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Just One Look",
+  "id": "16191cb013b3bf1df73671a15c6dea2772a98f4e0ebc01d4fb6dab661829698c",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 187,
+  "normalizedKey": "the hollies|just one look",
+  "playableChords": [
+    "D",
+    "G",
+    "A",
+    "Bm",
+    "D#/G",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Chorus"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Bridge"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 62,
+      "name": "Bridge"
+    },
+    {
+      "measure": 70,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "16191cb013b3bf1df73671a15c6dea2772a98f4e0ebc01d4fb6dab661829698c",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "Just One Look",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

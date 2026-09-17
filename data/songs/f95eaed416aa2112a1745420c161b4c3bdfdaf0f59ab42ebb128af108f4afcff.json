@@ -1,0 +1,130 @@
+{
+  "artist": "The Strokes",
+  "artistNormalized": "the strokes",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E5]\n[A5]\n[E5]\n[A5]\n[E5]\n[A5]\n[E5]\n[A5]\n\n[Verse 1]\n[A]Now we're\nout of time I said it's\n[E]my fault It's\nmy fault\n[A]Can't make\ngood decisions It\n[E]won't stop I\ncan't stop\n\n[Chorus]\n[A]Give me some time I just\nneed a little time\n[E]Give me some time I just\nneed a little time\n[A]Give me some time I just\nneed a little time\n[E]Give me some time I just\nneed a little time\n\n[Pre-Verse]\n[E]\n\n[Verse 2]\n[E]You talk way too m\n[B]uch\n[E]You talk way too\n[Asus2]much\n[E]It's only the\n[B]end\n[E]It's only the\n[Asus2]end Hey\n\n[Solo]\n[E]\n[A]\n[E]\n[A]\n\n[Verse 3]\n[A]We don't\nget the news He says\n[E]why not\nWhy not?\n[A]Forget\nwhat you heard Cause it\n[E]won't stop it\nwon't stop\n\n[Chorus]\n[A]Give 'em some time They just\nneed a little time\n[E]Give 'em some time They just\nneed a little time\n[A]Give 'em some time They just\nneed a little time\n[E]Give 'em some time They just\nneed a little time\n\n[Pre-Verse]\n[E]\n\n[Verse 4]\n[E]You talk way too m-\n[B]uch\n[E]You talk way too\n[Asus2]much\n[E]It's only the\n[B]end\n[E]It's only the\n[Asus2]end as you\nknow it\n[E]You're not supposed\n[B]to say that\n[E]you taught me too\n[Asus2]much\n[E]Is this how it\n[B]ends\n[E]Is this how it\n[Asus2]ends Hey\n\n[Outro]\n[E5]\n[A5]\n[E5]\n[A5]\n[E5]\n[A5]\n[E5]\n[A5]\n[E5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "x-x-7-9-10-x"
+      ],
+      "catalogCount": 1
+    },
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You Talk Way Too Much",
+  "id": "f95eaed416aa2112a1745420c161b4c3bdfdaf0f59ab42ebb128af108f4afcff",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 213,
+  "normalizedKey": "the strokes|you talk way too much",
+  "playableChords": [
+    "E5",
+    "A5",
+    "A",
+    "E",
+    "B",
+    "Asus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Solo"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 82,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f95eaed416aa2112a1745420c161b4c3bdfdaf0f59ab42ebb128af108f4afcff",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "You Talk Way Too Much",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

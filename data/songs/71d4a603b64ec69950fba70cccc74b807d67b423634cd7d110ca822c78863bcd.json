@@ -1,0 +1,112 @@
+{
+  "artist": "The Rolling Stones",
+  "artistNormalized": "the rolling stones",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]  [D]\n[G]  [C]\n[Em]\n\n[Verse 1]\n[Em]Well, you've got your dia\nmonds and you've\ngot your pretty clothes\nAnd the\nchauffeur drives your car\nYou let\neverybody know\nBut don't\n\n[Chorus]\n[G]play [D]with\n[G]me, cause you're [C]playing with fire\n[Em]\nYour\n\n[Verse 2]\n[Em]mother she's an hei\nress, owns a\nblock in Saint John's\nWood And your\nfather'd be there\nwith her\nIf he only could\nBut don't\n\n[Chorus]\n[G]play [D]with\n[G]me, cause you're [C]playing with fire\n[Em]\n[G]  [D]\n[G]  [C]\n[Em]\nYour\n\n[Verse 3]\n[Em]old man took her dia\nmond's and tia\nras by the score\nNow she\ngets her kicks in\nStepney Not in\nKnightsbridge anymore\nSo don't\n\n[Chorus]\n[G]play [D]with\n[G]me, cause you're [C]playing with fire\n[Em]\n\n[Verse 4]\n[Em]Now you've got some dia\nmonds and\nyou will have some o\nthers But you'd\nbetter watch your\nstep, girl Or start\nliving with your\nmother So don't\n\n[Chorus]\n[G]play [D]with\n[G]me, cause you're [C]playing with fire\n[Em]\nSo don't\n[G]play [D]with\n[G]me, cause you're [C]playing with fire\n[Em]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Play With Fire *alt",
+  "id": "71d4a603b64ec69950fba70cccc74b807d67b423634cd7d110ca822c78863bcd",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 170,
+  "normalizedKey": "the rolling stones|play with fire",
+  "playableChords": [
+    "G",
+    "D",
+    "C",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "71d4a603b64ec69950fba70cccc74b807d67b423634cd7d110ca822c78863bcd",
+    "version": "BCFZ"
+  },
+  "tempo": 109,
+  "title": "Play With Fire",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

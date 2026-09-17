@@ -1,0 +1,130 @@
+{
+  "artist": "The Cribs",
+  "artistNormalized": "the cribs",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E]\n[E]\n[C#m]\n[E]\n[C#m]\n\n[Verse 1]\n[E]Have you noticed\nI've never been im-\n[C#m]pressed By your friends from\nNew York and London?\n[E]I'll level,\naccusations like the\n[C#m]press Til you realise that you've\ndressed yourself in tatters Because a\n\n[Chorus]\n[A]man's needs,\nman's needs Are\n[E]found on greed, are\nfound on greed A\n[A]man's needs,\nman's needs Are\n[E]lost on me\nA\n[A]man's needs,\nman's needs Are\n[E]found on greed, are\nfound on greed A\n[A]man's nee-\n[B]ds\n\n[Verse 2]\n[E]I'm not bothered,\nwhat you say or how you\n[C#m]dress I'm a mess, so you've\nalways seemed inviting\n[E]But really,\nthis all seems quite meaning-\n[C#m]less And I remember, that you\nnever seem to see The fact that\n\n[Chorus]\n[A]men's needs,\nmen's needs Are\n[E]found on greed, are\nfound on greed A\n[A]man's needs,\nman's needs Are\n[E]lost on me\nA\n[A]girl's needs,\ngirl's needs Just\n[E]don't agree, just\ndon't agree With a\n[A]man's nee-\n[B]ds\n\n[Bridge]\n[E]\n[C#m]\n[G#m]\n[A]\n[B]\n[E]\n[C#m]\n[G#m]\n[A]\n[B]\n[B7]\n\n[Verse 3]\n[E]Have you noticed,\nI've never been im-\n[C#m]pressed By your friends from\nNew York and London?\n[E]But really,\nthis all seems quite meaning-\n[C#m]less And I remember that you\nnever seem to see The excuse that\n\n[Chorus]\n[A]men's needs,\nmen's needs Are\n[E]found on greed, are\nfound on greed A\n[A]man's needs,\nman's needs Are\n[E]lost on me\nYou say your\n[A]man's needs,\nman's needs Ap-\n[E]ply to me I\n[C#m]don't agree A\n[A]man's nee-\n[B]ds Ohoh! Oho-\n\n[Outro]\n[E]h!",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Men's Needs",
+  "id": "8dd3fc7cb249a2ff1a7a05ab574118543c0ca0978218d677335a362bf6139449",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 257,
+  "normalizedKey": "the cribs|men s needs",
+  "playableChords": [
+    "E",
+    "C#m",
+    "A",
+    "B",
+    "G#m",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Bridge"
+    },
+    {
+      "measure": 70,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 78,
+      "name": "Chorus"
+    },
+    {
+      "measure": 92,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8dd3fc7cb249a2ff1a7a05ab574118543c0ca0978218d677335a362bf6139449",
+    "version": "BCFZ"
+  },
+  "tempo": 122,
+  "title": "Men's Needs",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

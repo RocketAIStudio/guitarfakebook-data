@@ -1,0 +1,123 @@
+{
+  "artist": "The Grateful Dead",
+  "artistNormalized": "the grateful dead",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]\n[C]\n[C]\n[G]\n[D]\n[C]\n[G]\n\n[Verse 1]\n[G]If my words did\nglow\nwith the gold of\n[C]sunshine,\nAnd my\ntunes were played\non the harp\nun-\n[G]strung, Would you hear my voice\ncome through the\n[C]music?\nWould you\n[G]hold it\n[D]near\n[C]as it were your\n\n[Verse 2]\n[G]own? It's a handmedown,\nthe thoughts are\n[C]broken.\nPerhaps\nthey're\nbetter\nleft un-\n[G]sung. I don't\nknow,\ndon't really\n[C]care.\n[G]Let there be songs\n[D]\n[C]to fill the air.\n[G]\n\n[Chorus]\n[Am]Ripple\nin still\n[D]water,\nWhen there\n[G]is no pebble tossed,\n[C]Nor\n[A]wind to\n\n[Verse 3]\n[D]blow. Reach out your\n[G]hand\nif your cup be\n[C]empty.\nIf your cup\nis\nfull may it be\na-\n[G]gain. Let it be known\nthere is a\n[C]fountain,\n[G]That was not\n[D]made\n[C]by the hands of men.\n\n[Verse 4]\n[G]There is a road,\nno simple\n[C]highway,\nBetween\nthe dawn\nand the dark\nof-\n[G]night. And if you go\nno one may\n[C]follow,\n[G]That path is for\n[D]\n[C]your steps alone.\n[G]\n\n[Chorus]\n[Am]Ripple\nin still\n[D]water,\nWhen there\n[G]is no pebble tossed,\n[C]Nor\n[A]wind to\n\n[Verse 5]\n[D]blow. You who\n[G]choose\nto leadmust\n[C]follow,\nBut if\nyou\nfall you fall\nalone.\n[G]If you should stand\nthen who's to\n[C]guide you?\n[G]If I knew the\n[D]way\n[C]I would take you home.\n[G]La dee da da,\n\n[Outro]\nla da da\n[C]da da,\nla da\nda, da\nda, da da\nda da\n[G]da, La da da da,\nla dada\n[C]da da,\n[G]la da da da,\n[D]\n[C]la da, da da da.\n[G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ripple",
+  "id": "fbe5b11881ce315e10da7d66b8861f0962212601909a7b255a811c6048b47948",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 253,
+  "normalizedKey": "the grateful dead|ripple",
+  "playableChords": [
+    "G",
+    "C",
+    "D",
+    "Am",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 75,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 93,
+      "name": "Chorus"
+    },
+    {
+      "measure": 100,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 117,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fbe5b11881ce315e10da7d66b8861f0962212601909a7b255a811c6048b47948",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Ripple",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,172 @@
+{
+  "artist": "The Smashing Pumpkins",
+  "artistNormalized": "the smashing pumpkins",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 12,
+  "content": "[Intro]\n[Dmaj9]  [E]\n[Dmaj9]  [E]\n[Dmaj9]  [E]\n[A]\n\n[Verse 1]\n[Dmaj9]What [E]moonsongs\n[Dmaj9]Do you [E]sing your babies?\n[Dmaj9]What [E]sunshine do you bring?\n[A]\n[Dmaj9]Who [E]belongs?\n[Dmaj9]Who [E]decides who's crazy?\n[Dmaj9]Who rights [E]wrongs where others cling?\n\n[Chorus]\n[Aadd9]I'll sing [G/A]for you\n[B7sus2/A][D6/9]If you want me to\n[Aadd9]I'll [G/A]give to you\n[B7sus2/A]And it's a\n[Bm7]chance I'll have [G]to take\n[Asus2]And it's a\n[Bm7]chance I'll have [G]to break\n\n[Bridge]\n[D/A]\n\n[Verse 2]\n[Dmaj9]I go [E]along\n[Dmaj9]Just [E]because I'm lazy\n[Dmaj9]I go [E]along to be with you\n[A]\n[Dmaj9]And those [E]moonsongs\n[Dmaj9]That you [E]sing your babies\n[Dmaj9]Will be the [E]songs to see you through\n\n[Chorus]\n[Aadd9]I'll hear [G/A]your song\n[B7sus2/A][D6/9]If you want me to\n[Aadd9]I'll [G/A]sing along\n[B7sus2/A]And it's a\n[Bm7]chance I'll have [G]to take\n[Asus2][A7]And it's a\n[Bm7]chance I'll have [G]to break\n\n[Bridge]\n[D/A]\n\n[Interlude]\n[Dmaj9]I'm in love with [E]you\n[Dmaj9]I'm in love with [E]you\n[Dmaj9]I'm in love with [E]you and\n[A]you\n[Dmaj9]I'm in love with [E]you\n[Dmaj9]I'm in love with [E]you\n[Dmaj9]I'm in love with [E]you and\n[A]you\n[Dmaj9]I'm in love with [E]you\n[Dmaj9]I'm in love with [E]you\n[Dmaj9]I'm in love with [E]you and you\n\n[Outro]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x0202x",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "Aadd9": {
+      "catalog": [
+        "x57655"
+      ],
+      "catalogCount": 1
+    },
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "B7sus2/A": {
+      "catalog": [
+        "x0442x"
+      ],
+      "catalogCount": 1
+    },
+    "Bm7": {
+      "catalog": [
+        "x20202",
+        "x-2-4-2-3-2",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x00232"
+      ],
+      "catalogCount": 1
+    },
+    "D6/9": {
+      "catalog": [
+        "x54200"
+      ],
+      "catalogCount": 1
+    },
+    "Dmaj9": {
+      "catalog": [
+        "xx0220"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/A": {
+      "catalog": [
+        "x0540x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Luna",
+  "id": "248a8fd4a22845fa4c3b9c20cb63f4c18c37706ace51cf73d7f73765aff53c4e",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 176,
+  "normalizedKey": "the smashing pumpkins|luna",
+  "playableChords": [
+    "Dmaj9",
+    "E",
+    "A",
+    "Aadd9",
+    "G/A",
+    "B7sus2/A",
+    "D6/9",
+    "Bm7",
+    "G",
+    "Asus2",
+    "D/A",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Bridge"
+    },
+    {
+      "measure": 39,
+      "name": "Interlude"
+    },
+    {
+      "measure": 50,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "248a8fd4a22845fa4c3b9c20cb63f4c18c37706ace51cf73d7f73765aff53c4e",
+    "version": "BCFZ"
+  },
+  "tempo": 63,
+  "title": "Luna",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

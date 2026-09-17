@@ -1,0 +1,108 @@
+{
+  "artist": "The Rolling Stones",
+  "artistNormalized": "the rolling stones",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "If you\n\n[Verse 1]\n[G]need me\nWhy don't you\n[D]call me\nSaid if you\n[G]need me\nWhy don't you\n[C7]call me\nDon't wait too\n\n[Chorus]\n[G]long\nWhen things go\n[D]wrong\nI'll be\n[Em]there,\nyeah Where I be-\n[G]long\n[D]Said if you\n\n[Verse 2]\n[G]want me\nWhy don't you\n[D]send for me\nSaid if you\n[G]want, want,\nwant All you gotta do is\n[C7]send for me\nDon't wait to\n\n[Chorus]\n[G]long\nJust a pick up your\n[D]phone\nI'll be\n[Em]there Right\nthere, where I be-\n[G]long\n[D]\n\n[Verse 3]\n[G]People always told me, darling\n[D]That you didn't mean me no\ngood\n[G]But I know deep\ndown in my heart\n[C7]I done the\nbest I could\n\n[Chorus]\n[G]And one of these days, darling It\nwon't be long\n[D]You're gonna come walking through that door\nAnd I know\n[Em]in my mind these are\nthe very Words you're gonna\n[G]say to me\n[D]I still\n\n[Verse 4]\n[G]love you\nAlways thinking\n[D]of you\nI still\n[G]love, love,\nlove Always thinking\n[C7]of you\nDon't wait too\n\n[Chorus]\n[G]long\nWhen things go\n[D]wrong\nI'll be\n[Em]there, right\nthere Where I be-\n[G]long",
+  "diagrams": {
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "If You Need Me",
+  "id": "6baabcf75367a15b6aed29b83c2dc3d177fc3a4771066c9a9e6c63d8062662f3",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 185,
+  "normalizedKey": "the rolling stones|if you need me",
+  "playableChords": [
+    "G",
+    "D",
+    "C7",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6baabcf75367a15b6aed29b83c2dc3d177fc3a4771066c9a9e6c63d8062662f3",
+    "version": "BCFZ"
+  },
+  "tempo": 99,
+  "title": "If You Need Me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

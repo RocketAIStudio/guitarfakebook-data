@@ -1,0 +1,116 @@
+{
+  "artist": "The Rolling Stones",
+  "artistNormalized": "the rolling stones",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]  [E]\n[A]  [E]\n[A]  [E]\n[A]  [E]\n\n[Verse 1]\n[A]Ba - [E]by,\n[A][E]the truth is out\n[A]so [E]don't deny\n[A]  [E]\n[A]Ba - [E]by\n[A]to [E]think I believed\n[A][E]all your lies\n[A]\n\n[Pre-Chorus]\n[D]Dar - [E]lin'\nI can't stand\n[A]to see your face\n[F#m]It's the truth,\n[D]you understand [E]\nI got to get a-\n\n[Chorus]\n[A]way, [E]got to get a-\n[A]way [E]Gotta, gotta, gotta get a-\n[A]way [E]Got to get a-\n[A]way [E]\n\n[Verse 2]\n[A]Ba - [E]by,\n[A][E]I don't want\n[A]to live [E]here no mo-\n[A]re [E]\n[A]Ba - [E]by,\n[A][E]though I tore\n[A]your pictures [E]off my walls\n[A]\n\n[Pre-Chorus]\n[D]Dar - [E]lin'\nthis old room's\n[A]falling in on me\n[F#m]You understand\n[D]the truth now [E]\nI got to get a-\n\n[Chorus]\n[A]way, [E]got to get a-\n[A]way [E]Gotta, gotta, gotta get a-\n[A]way [E]Got to get a-\n[A]way [E]\n\n[Verse 3]\n[A]Ba - [E]by,\n[A][E]oh, how could\n[A]you take [E]away your clothes\n[A]  [E]\n[A]Ba - [E]by,\n[A][E]don't screw up\n[A]this old [E]heart of gold\n[A]\n\n[Pre-Chorus]\n[D]Dar - [E]ling,\nthis will rule\n[A]my social flare\n[F#m]You under-\n[D]stand me now [E]\nI got to get a-\n\n[Chorus]\n[A]way, [E]got to get a-\n[A]way [E]Gotta, gotta, gotta get a-\n[A]way [E]Got to get a-\n[A]way",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Gotta Get Away",
+  "id": "35e7f785d88c2f178a4b7e7d0d3484f4caca8b285382f90df8330adf1f33781b",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 194,
+  "normalizedKey": "the rolling stones|gotta get away",
+  "playableChords": [
+    "A",
+    "E",
+    "D",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 49,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "35e7f785d88c2f178a4b7e7d0d3484f4caca8b285382f90df8330adf1f33781b",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Gotta Get Away",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

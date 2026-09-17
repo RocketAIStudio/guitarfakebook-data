@@ -1,0 +1,105 @@
+{
+  "artist": "The Offspring",
+  "artistNormalized": "the offspring",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E5]\n[D5]  [G5]\n[A5]\n[C5]  [G5]\n[E5]\n[D5]  [G5]\n[A5]\n[C5]  [G5]\n\n[Verse 1]\n[E5]Deep inside secret's\n[D5]burning\n[A5]I Should have known all the\n[C5]while what's [G5]true\n[E5]I went along, to\n[D5]fool myself\n[A5]Can't go on, I\n[C5]can't [G5]escape it\n\n[Chorus]\n[E5]All along\n[D5]I think I really knew\n[A5]It was there in the\n[C5]words [G5]unspoken\n[E5]All along\n[D5]Still believed in you\n[A5]Now I leave here betray-\n[C5]ed and [G5]broken\n\n[Bridge]\n[E5]\n[D5]  [G5]\n[A5]\n[C5]  [G5]\n\n[Verse 2]\n[E5]Close my eyes from the\n[D5]burning\n[A5]All along all the\n[C5]while it's [G5]true\n[E5]Take it on, or\n[D5]turn your back\n[A5]Either way, you\n[C5]can't [G5]escape it\n\n[Chorus]\n[E5]All along\n[D5]I think I really knew\n[A5]It was there in the\n[C5]words [G5]unspoken\n[E5]All along\n[D5]Still believed in you\n[A5]Now I leave here betray-\n[C5]ed and [G5]broken\n\n[Interlude]\n[E5]\n[E5]\n[D5]\n[A5]\n[C5]  [G5]\n[E5]\n[D5]\n[A5]\n[G5]\n\n[Chorus]\n[E5]All along\n[D5]I think I really knew\n[A5]It was there in the\n[C5]words [G5]unspoken\n[E5]All along\n[D5]Still believed in you\n[A5]Now I leave here betray-\n[C5]ed and [G5]broken\n\n[Outro]\n[A5]All along I\n[A5]still [G5][G5]believed in\n[E5]you",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "355xxx",
+        "x-10-12-12-x-x"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "All Along",
+  "id": "107c37be34046f68eef5104901f93fdcf53afd61364aac20927d226f1f0532f0",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 181,
+  "normalizedKey": "the offspring|all along",
+  "playableChords": [
+    "E5",
+    "D5",
+    "G5",
+    "A5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Bridge"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Interlude"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "107c37be34046f68eef5104901f93fdcf53afd61364aac20927d226f1f0532f0",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "All Along",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

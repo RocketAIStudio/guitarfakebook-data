@@ -1,0 +1,140 @@
+{
+  "artist": "The XX",
+  "artistNormalized": "the xx",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Abm]  [F#]  [E]\n[Dbm]  [B]  [E]\n[Abm]  [F#]  [E]\n[Dbm]  [B]  [E]\nI don't have to\n\n[Verse 1]\n[Abm]leave [F#]anymore [E]\nWhat\n[Dbm]I have [B]is right [E]here\nSpend my nights and\n[Abm]days [F#]before [E]\nSearching\n[Dbm]the world for [B]what's right [E]here\nUnderneath an-\n[Abm]d [E][F#]unexplored\nIslands and\n[Dbm]cities [B]I have [E]looked\n[Abm]Here [F#]I [E]saw\nSome-\n[Dbm]thing I couldn't [B]over [E]look\nI am yours\n\n[Chorus 1]\n[E]now\nSo now I don't\n[Abm]ever have to\nleave I've been found\n[B6]out\nSo now I'll\n[Dbm]never ex-\n[E]plore See what I've done\n\n[Verse 2]\n[Abm][F#]That [E]bridge\nis on fire\n[Dbm]back to [B]where I've [E]\nbeen\n[Abm][F#]I'm [E]froze\nby desire\n[Dbm]No [B]need to [E]leave\nWhere would I be\n[Abm][F#]If [E]this\nwere to go under\n[Dbm]That's a [B]risk I'd [E]\ntake\n[Abm][F#]I'm [E]froze\nby desire\n[Dbm]As if a [B]choice I'd [E]make\nI am yours\n\n[Chorus]\n[E]now\nSo now I don't\n[Abm]ever have to\nleave I've been found\n[B6]out\nSo now I'll\n[Dbm]never ex-\n[E]plore I am yours\n[E]now I am yours\nnow So now I don't\n[Abm]ever have to\never have I've been found\n[B6]out\nSo now I'll\n[Dbm]never ex-\n[E]plore\n\n[Bridge]\n[E7M]\n[Dbm7]\n[E7M]\n[Dbm7]\n\n[Outro]\n[E]\n[Abm]\n[B6]\n[Dbm]\n[E]",
+  "diagrams": {
+    "Abm": {
+      "catalog": [
+        "466444",
+        "x-x-6-8-9-7",
+        "x-11-13-13-12-11",
+        "16-18-18-16-16-16",
+        "x-x-18-20-21-19"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B6": {
+      "catalog": [
+        "x24444"
+      ],
+      "catalogCount": 1
+    },
+    "Dbm": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "Dbm7": {
+      "catalog": [
+        "x46454",
+        "9-11-9-9-9-9",
+        "x-x-11-13-12-12",
+        "x-16-18-16-17-16",
+        "21-23-21-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7M": {
+      "catalog": [
+        "x79897"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Islands",
+  "id": "dc3c811cdcd0d96d20252574225cbc581aba4b4b76e80a6ec168296dc5c8b480",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 188,
+  "normalizedKey": "the xx|islands",
+  "playableChords": [
+    "Abm",
+    "F#",
+    "E",
+    "Dbm",
+    "B",
+    "B6",
+    "E7M",
+    "Dbm7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus 1"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Bridge"
+    },
+    {
+      "measure": 75,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dc3c811cdcd0d96d20252574225cbc581aba4b4b76e80a6ec168296dc5c8b480",
+    "version": "BCFZ"
+  },
+  "tempo": 124,
+  "title": "Islands",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

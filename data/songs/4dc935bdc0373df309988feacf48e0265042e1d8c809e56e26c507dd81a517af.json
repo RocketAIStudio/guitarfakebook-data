@@ -1,0 +1,115 @@
+{
+  "artist": "The Lovin' Spoonful",
+  "artistNormalized": "the lovin spoonful",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Dm7]  [Em]\n[F]  [Em]\n[Dm7]  [Em]\n[F]Do you [G]believe in ma-\n\n[Verse 1]\n[C]gic in a\n[F]young girl's heart How the\n[C]music can free her whe-\n[F]never it starts? And it's ma-\n[C]gic if the\n[F]music is groovy It\n[C]makes you feel happy like an\n[F]oldtime movie I'll\n[Dm7]tell you about the [Em]magic, and it'll\n[F]free your soul [Em]But it's like\n[G]tryna tell a stranger 'bouta\nrock and roll\nIf you believe in ma-\n\n[Verse 2]\n[C]gic, don't\n[F]bother to choose If it's\n[C]jug band music or\n[F]rhythm and blues Just go\n[C]and listen, and it'll\n[F]start with a smile That won't\n[C]wipe off your face no matter\n[F]how hard you try Your\n[Dm7]feet start [Em]tapping, and you\n[F]can't seem to find [Em]How you\n[G]got there so just\nblow your mind\n\n[Solo]\n[F]\n[C]\n[F]  [Em]\n[F]  [Em]\n[G]\nIf you believe in ma-\n\n[Verse 3]\n[C]gic, come a-\n[F]long with me We'll\n[C]dance until morning till there's\n[F]just you and me And may-\n[C]be, if the\n[F]music is right I'll\n[C]meet you tomorrow, sort of\n[F]late at night And\n[Dm7]we'll go [Em]dancing, baby,\n[F]then you'll see [Em]How the\n[G]magic's in the music and the\nmusic's in me Yeah\n\n[Bridge]\n[F]\nDo you believe in ma-\n[C]gic?\nYeah Be-\n[F]lieve in the [Em]magic of the\n[F]young girl's soul [Em]Be-\n[F]lieve in the [Em]magic ofa\n[F]rock and roll [Em]Be-\n[F]lieve in the [Em]magic that can\n[F]set you [Em]free\n[G]Ohh,\ntalking 'bout the\n\n[Outro (Fade Out)]\n[F]magic\nDo you believe in ma-\n[C]gic?\nDo you believe, belie-\n[F]ver?\nDo you believe in ma-\n[C]gic?\nDo you believe in\n[F]magic?\nDo you believe in ma-\n[C]gic?",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm7": {
+      "catalog": [
+        "xx0211",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Do You Believe in Magic",
+  "id": "4dc935bdc0373df309988feacf48e0265042e1d8c809e56e26c507dd81a517af",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 293,
+  "normalizedKey": "the lovin spoonful|do you believe in magic",
+  "playableChords": [
+    "Dm7",
+    "Em",
+    "F",
+    "G",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Solo"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 51,
+      "name": "Bridge"
+    },
+    {
+      "measure": 63,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4dc935bdc0373df309988feacf48e0265042e1d8c809e56e26c507dd81a517af",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Do You Believe in Magic",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,80 @@
+{
+  "artist": "The Muffs",
+  "artistNormalized": "the muffs",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse]\n[B]Ich\n[D]wunsche blasen\ngrossen fetten\n[G]pimmel\n[B]\n[C]Ich\n[D]wunsche blasen\ngrossen fetten\n[G]pimmel\n[B]\n[C]Ich\n[D]wunsche blasen\ngrossen fetten\n[G]pimmel\n[B]\n[C]You\n[D]know its\n[G]true",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pimmel",
+  "id": "51c7da62313df0e485a1a0184d84445ce0c15157f86bfc0a71e5d949d4ad20ed",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 37,
+  "normalizedKey": "the muffs|pimmel",
+  "playableChords": [
+    "B",
+    "D",
+    "G",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "51c7da62313df0e485a1a0184d84445ce0c15157f86bfc0a71e5d949d4ad20ed",
+    "version": "BCFZ"
+  },
+  "tempo": 69,
+  "title": "Pimmel",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,137 @@
+{
+  "artist": "The Rolling Stones",
+  "artistNormalized": "the rolling stones",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Dsus2]\n[D]\nMy sweet Lady\n\n[Verse 1]\n[C]Jane\nWhen I see you a-\n[G]gain\n[D]Your servant am\n[C]I\nAnd will humbly re\n[G]main\n[D]\n\n[Chorus]\n[E]Just heed this\n[Am]plea my love\n[D7]On bended\n[G]knees my love\n[C]I pledge my-\n[D7]self to Lady\n[Am]Jane\n[D]\nMy dear Lady\n\n[Verse 2]\n[C]Anne\nI've done what I\n[G]can\n[D]I must take my\n[C]leave\nFor promised I\n[G]am\n[D]\n\n[Chorus]\n[E]This play is\n[Am]run my love\n[D7]Your time has\n[G]come my love\n[C]I've pledged my\n[D7]troth to Lady\n[Am]Jane\n[D]\n\n[Interlude]\n[C]\n[G]\n[D]\n[C]\n[G]\n[D]\n[E]\n[Am]\n[D7]\n[G]\n[C]\n[D7]\n[Am]\n[D]\nOh my sweet Ma-\n\n[Verse 3]\n[C]rie\nI wait at your\n[G]ease\n[D]The sands have run\n[C]out\nFor your lady and\n[G]me\n[D]\n\n[Chorus]\n[E]Wedlock is\n[Am]nigh my love\n[D7]Her station's\n[G]right my love\n[C]Life is se-\n[D7]cure with Lady\n[Am]Jane\n[D]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "320003",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lady Jane",
+  "id": "b15cc82639ede2dfbd4743594a5fa7805e01327ae70636f0991dddbc8381f50b",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 123,
+  "normalizedKey": "the rolling stones|lady jane",
+  "playableChords": [
+    "Dsus2",
+    "D",
+    "C",
+    "G",
+    "E",
+    "Am",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Interlude"
+    },
+    {
+      "measure": 64,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 72,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b15cc82639ede2dfbd4743594a5fa7805e01327ae70636f0991dddbc8381f50b",
+    "version": "BCFZ"
+  },
+  "tempo": 103,
+  "title": "Lady Jane",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

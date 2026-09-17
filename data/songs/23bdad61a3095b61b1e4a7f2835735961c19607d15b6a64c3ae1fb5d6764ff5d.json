@@ -1,0 +1,100 @@
+{
+  "artist": "The Smiths",
+  "artistNormalized": "the smiths",
+  "capo": "5",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n\n[Verse 1]\n[D]Girlfriend in a [A]coma, I know\n[G]I [A]knowit's\n[D]serious [A]\n[G]  [A]\n[D]Girlfriend in a [A]coma, I know\n[G]I [A]knowit's really\n[D]serious [A]\n[G][A]There were\n[D]times When I could [A]Have 'murd-\n[G]ered' [A]her\n[D]  [A]\n[G]But, you [A]know, I would\n[D]hate [A]Anything to\n[G]happen to her [A]\n[D][A]No, I don`t\n[G]want to see [A]her Do you\n\n[Chorus]\n[Bm]really think [A]She'll pull\n[G]through? [A]Do you\n[Bm]really think She'll [A]pull through?\n[G]Do [A]\n[Bm]  [A]\n\n[Verse 2]\n[D]Girlfriend in a [A]coma, I know\n[G]I [A]knowit's\n[D]serious [A]\n[G]  [A]\n[D]  [A]\n[G]  [A]\n[D]  [A]\n[G][A]There were\n[D]times when I could [A]Have 'strang\n[G]led' [A]her\n[D]  [A]\n[G]But, you [A]know, I would\n[D]hate [A]Anything to\n[G]happen to her [A]\n[D][A]Would you please\n[G]let me see [A]her! Do you\n\n[Chorus]\n[Bm]really think [A]She'll pull\n[G]through? [A]Do you\n[Bm]really think She'll [A]pull through?\n[G]  [A]\n[Bm]  [A]\n[Bm]Let me\n\n[Outro]\n[D]whisper my last [A]goodbyes\n[G]I [A]knowit's\n[D]serious",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Girlfriend In A Coma",
+  "id": "23bdad61a3095b61b1e4a7f2835735961c19607d15b6a64c3ae1fb5d6764ff5d",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 154,
+  "normalizedKey": "the smiths|girlfriend in a coma",
+  "playableChords": [
+    "D",
+    "A",
+    "G",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "23bdad61a3095b61b1e4a7f2835735961c19607d15b6a64c3ae1fb5d6764ff5d",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "Girlfriend In A Coma",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

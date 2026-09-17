@@ -1,0 +1,141 @@
+{
+  "artist": "The Specials",
+  "artistNormalized": "the specials",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Am]\n\n[Verse 1]\n[Am]Why must you\n[G#]record my\n[Am]phone calls?\nAre you\n[Am]planning a\n[G#]bootleg L-\n[Am]P?\n[Am]Said you've been\n[G#]threatened by\n[Am]gangsters\nNow it's\n[D]you, that's\n[C]threatening\n[E]me\n\n[Verse 2]\n[Am]Can't fight cor-\n[G#]ruption with\n[Am]con tricks\nThey\n[Am]use the law\n[G#]to commit\n[Am]crime\n[Am]Dread, dread to\n[G#]think what the\n[Am]future'll\nbring When we're\n[C]living in\n[G]gangster\n[E]time\n\n[Interlude]\n[Am]\n\n[Solo]\n[Am]  [G#]\n[Am]\n[Am]  [G#]\n[Am]\n[Am]  [G#]\n[Am]\n[D]\n[C]\n[E]\n\n[Verse 3]\n[Am]Can't inter-\n[G#]rupt while I'm\n[Am]talking\nOr they'll\n[Am]confiscate\n[G#]all your gui-\n[Am]tars\nAnd\n[Am]Catch twenty-\n[G#]two says if\n[Am]I sing the\ntruth They won't\n[C]make me an\n[G]overnight\n[E]star\nDon't\n\n[Bridge]\n[Am]offer us [G#]legal pro-\n[Am]tection They\n[Am]use the law [G#]to commit\n[Am]crime I\n[Am]dread to [G#]think what the\n[Am]future'll bring When we're\n[C]living in\n[G]real gangster\n[E]time\n\n[Interlude]\n[Am]\n\n[Outro]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Gangsters",
+  "id": "23b9e2951aa698d07f59fc5f05df30dbb49dc7d2d170e0bc6a99b15ff4a29941",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 141,
+  "normalizedKey": "the specials|gangsters",
+  "playableChords": [
+    "Am",
+    "G#",
+    "D",
+    "C",
+    "E",
+    "G",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Interlude"
+    },
+    {
+      "measure": 43,
+      "name": "Solo"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 69,
+      "name": "Bridge"
+    },
+    {
+      "measure": 79,
+      "name": "Interlude"
+    },
+    {
+      "measure": 83,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "23b9e2951aa698d07f59fc5f05df30dbb49dc7d2d170e0bc6a99b15ff4a29941",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "Gangsters",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

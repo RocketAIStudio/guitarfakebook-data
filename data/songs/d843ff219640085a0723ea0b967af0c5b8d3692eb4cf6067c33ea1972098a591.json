@@ -1,0 +1,138 @@
+{
+  "artist": "The Growlers",
+  "artistNormalized": "the growlers",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\n[Em]\n[G]\n[C]\n[Em]\n[G]\n\n[Verse 1]\n[C]Pretending it'll get\n[Em]better When you're not around\n[G]Finally\nfree but I'm lying to me\n[C]Searching for the black\n[Em]memories To show my\n[D]heart what I need But nothing\n[Em]puts me at [Dm]ease\n\n[Chorus]\n[C]Where are you go\n[Dm]ing?\n[Em]Come [Dm]back with my heart\n[C]\n[C]Sure as the wind keeps\n[Dm]blowing\n[Em]Nothing's gonna [Dm]heal these\n[C]scars\n\n[Intrelude]\n[C]\n[Em]\n[G]\n[C]\n[Em]\n[D]\n\n[Verse 2]\n[C]Broken promises you've\n[Em]given me\n[G]Make me wanna live a\nlife without words\n[C]Expectations died\n[Em]before birth\n[D]Trying to kill the pain\n[Em]before it [Dm]hurts\n\n[Chorus]\n[C]Where are you go\n[Dm]ing?\n[Em]Come [Dm]back with my heart\n[C]\n[C]Sure as the wind keeps\n[Dm]blowing\n[Em]Nothing's gonna [Dm]heal these\n[C]scars\n\n[Bridge]\n[A]\n[Em]  [Dm]\n[C]\n[Em]  [Dm]\n[C]\n[A]  [Em]\n\n[Verse 3]\n[C]Prescribe me at ten\n[Em]times my weight In a\n[G]vegetable state so they\nlock me away\n[C]Pretending it'll get\n[Em]better When you're not around\n[D]Finally free but I'm\n[Em]lying to me [Dm]\n\n[Chorus]\n[C]Where are you go\n[Dm]ing?\n[Em]Come [Dm]back with my heart\n[C]\n[C]Sure as the wind keeps\n[Dm]blowing\n[Em]Nothing's gonna [Dm]heal these\n[C]scars\n[C]Where are you go\n[Dm]ing?\n[Em]Come [Dm]back with my heart\n[C]\n[C]Sure as the wind keeps\n[Dm]blowing\n[Em]Nothing's gonna [Dm]heal these\n\n[Outro]\n[C]scars",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x3555x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x5777x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x5776x",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x7998x",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "x-10-12-12-12-x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Black Memories",
+  "id": "d843ff219640085a0723ea0b967af0c5b8d3692eb4cf6067c33ea1972098a591",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 222,
+  "normalizedKey": "the growlers|black memories",
+  "playableChords": [
+    "C",
+    "Em",
+    "G",
+    "D",
+    "Dm",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Bridge"
+    },
+    {
+      "measure": 56,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 64,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d843ff219640085a0723ea0b967af0c5b8d3692eb4cf6067c33ea1972098a591",
+    "version": "BCFZ"
+  },
+  "tempo": 114,
+  "title": "Black Memories",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

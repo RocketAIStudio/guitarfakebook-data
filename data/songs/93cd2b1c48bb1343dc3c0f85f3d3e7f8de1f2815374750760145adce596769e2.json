@@ -1,0 +1,85 @@
+{
+  "artist": "The Chariot",
+  "artistNormalized": "the chariot",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 4,
+  "content": "[Intro 1]\n[G#dim]\n\n[Intro 2]\n[G#dim]\n[B5]This is the last chance you\ngot We\n\n[Verse]\n[B5]both know we're both gonna\ndie [G#dim]There's a\n[B5]difference with you and\nI [G#dim]You want\n[B5]peace but refuse the\nfight [G#dim]So shake hands\n[B5]with change to-\nnight [G#dim]\n[B5]Bathe in\narmor [G#dim]For\n[B5]death\nfeeds [G#dim]\n[B5]Bathe in\narmor [G#dim]For\ndeath\nfeeds [G#dim]\nOh death, don't\nbother me tonight\n\n[Interlude]\n[B5]  [A5]  [B5]  [A5]\n[B5]  [A5]  [B5]  [A5]\n[B5]  [A5]  [B5]  [A5]\n[B5][A5][B5][A5]Be\n\n[Breakdown]\n[B5]grace, oh my\nGod Be\ngrace, oh my\nGod [B5][F5]Be\n[B5]grace, oh my\nGod Be\ngrace, oh my\nGod [B5][F5]\n\n[Outro]\n[B5]Churches have nuns\nCowboys got guns And\neveryone's waiting to\ndie",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "000xxx",
+        "x577xx"
+      ],
+      "catalogCount": 2
+    },
+    "F5": {
+      "catalog": [
+        "666xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#dim": {
+      "catalog": [
+        "xxx467"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Back To Back",
+  "id": "93cd2b1c48bb1343dc3c0f85f3d3e7f8de1f2815374750760145adce596769e2",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 97,
+  "normalizedKey": "the chariot|back to back",
+  "playableChords": [
+    "G#dim",
+    "B5",
+    "A5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 5,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 27,
+      "name": "Interlude"
+    },
+    {
+      "measure": 31,
+      "name": "Breakdown"
+    },
+    {
+      "measure": 39,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "93cd2b1c48bb1343dc3c0f85f3d3e7f8de1f2815374750760145adce596769e2",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Back To Back",
+  "tuning": "B F# B E G# C#",
+  "variantRole": "primary"
+}

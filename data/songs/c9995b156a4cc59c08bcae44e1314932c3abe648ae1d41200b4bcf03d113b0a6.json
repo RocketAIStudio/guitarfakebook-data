@@ -1,0 +1,93 @@
+{
+  "artist": "The Misfits",
+  "artistNormalized": "the misfits",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Em]\nHey\n\n[Verse 1]\n[Em]Black dress moves in a blue movie\nGraverobbers from outer space Well, your\n[A]pulmonary trembles in your outstretched arm\n[Em]Tremble so wicked\n\n[Chorus]\n[A]Two inch nails [B]\n[A]Micro waist [B]\n[A]With a pale white [B]feline face\n[A]Inclination [B]eyebrows to there\n[Em]\n\n[Verse 2]\n[Em]Mistress to the horror kid\nCemetary of the white love ghoul, well\nTake off your shabby dress\n[Em]Come and lay beside me\n\n[Chorus]\n[A]Come a little bit [B]closer\n[A]Come a little bit [B]closer\n[A]Come a little bit [B]closer\n[A]Come a little bit [B]closer to this\n\n[Interlude]\n[Em]\nVampi\n-\nra, vam -\npi -\nra, vam-\npi -\n[Em]ra Hey,\n\n[Outro]\n[Em]hey,\nhey,\nhey,\nhey,\nhey,\nhey",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Vampira",
+  "id": "c9995b156a4cc59c08bcae44e1314932c3abe648ae1d41200b4bcf03d113b0a6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 132,
+  "normalizedKey": "the misfits|vampira",
+  "playableChords": [
+    "Em",
+    "A",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Interlude"
+    },
+    {
+      "measure": 31,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c9995b156a4cc59c08bcae44e1314932c3abe648ae1d41200b4bcf03d113b0a6",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Vampira",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

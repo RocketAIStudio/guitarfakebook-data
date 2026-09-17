@@ -1,0 +1,150 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]\n[G]\n[D]\n[G]\n\n[Verse 1]\n[D]Look what you're\n[G]doing,\n[D]I'm feeling\n[G]blue and lonely Would it\n\n[Chorus]\n[Bm]be too much to\n[G]ask of you What you're\ndoing to\n[D]me?\n[G]\n\n[Verse 2]\n[D]You got me\n[G]running\n[D]and there's no\n[G]fun in it Why should it\n\n[Chorus]\n[Bm]be so much to\n[G]ask of you What you're\ndoing to\n[D]me?\n\n[Bridge]\n[G]I've been waiting\n[Bm]here for you\n[G]Wond'ring what you're\n[Bm]gonna do\n[E]Should you need a\nlove that's true It's\n[A]me\n\n[Verse 3]\n[D]Please stop your\n[G]lying,\n[D]you've got me\n[G]crying, girl Why should it\n\n[Chorus]\n[Bm]be so much to\n[G]ask of you What you're\ndoing to\n[D]me?\n[G]\n\n[Solo]\n[D]\n[G7]\n[D]\n[G7]\n[Bm]\n[G7]\n[D]\n\n[Bridge]\n[G]I've been waiting\n[Bm]here for you\n[G]Wond'ring what you're\n[Bm]gonna do\n[E]Should you need a\nlove that's true It's\n[A]me\n\n[Verse 4]\n[D]Please stop your\n[G]lying,\n[D]you've got me\n[G]crying, girl Why should it\n\n[Chorus]\n[Bm]be so much to\n[G]ask of you What you're\ndoing to\n[D]me? What you're\n[G]doing to\n[D]me? What you're\n[G]doing to\n[D]me?\n[G]\n\n[Outro]\n[D]\n[A]\n[D]\n[G]\n[D]\n[G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "What You're Doing *alt",
+  "id": "88b6f205d764ee8717d29739250c4640a4fdc49973c9bc0c3dee3d93d33878e2",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 166,
+  "normalizedKey": "the beatles|what you re doing",
+  "playableChords": [
+    "D",
+    "G",
+    "Bm",
+    "E",
+    "A",
+    "G7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Bridge"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Solo"
+    },
+    {
+      "measure": 51,
+      "name": "Bridge"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 72,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "88b6f205d764ee8717d29739250c4640a4fdc49973c9bc0c3dee3d93d33878e2",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "What You're Doing",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

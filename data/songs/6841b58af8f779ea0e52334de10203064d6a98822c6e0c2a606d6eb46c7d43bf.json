@@ -1,0 +1,93 @@
+{
+  "artist": "The Eagles",
+  "artistNormalized": "the eagles",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n\n[Verse 1]\n[D]There are\n[C]stars in the\n[G]southern\n[D]sky\n[D]Southward\n[C]as you\n[G]go.\n[D]\n[D]There is\n[C]moonlight and\n[G]moss in the\n[D]trees. Down the\n[D]Seven\n[C]bridges\n[G]ro-\n[D]ad.\n\n[Pre-Verse]\n[D]\n[C]\n[G]\n[D]\nNow\n\n[Verse 2]\n[D]I have\n[C]loved\n[G]you like a\n[D]baby.\n[D]Like some\n[C]lonesome\n[G]chi-\n[D]ld.\n[D]And\n[D]I have\n[C]loved\n[G]you in a\n[D]tame way. And\n[D]I have\n[C]loved you\n[G]wi-\n[D]ld.\n\n[Solo]\n[D]Some-\n[C]times\n[C]there's a\n[D]part of me\n[D]Has to\n[C]turn from\n[C]here and\n[D]go.\n[D]\n[C]Running like a\n[C]child from\n[D]these warm\n\n[Chorus]\n[D]stars Down the\n[D]Seven\n[C]Bridges\n[G]Ro-\n[D]ad.\n[D]\n[D]\n\n[Verse 3]\n[D]There are\n[C]stars in the\n[G]southern\n[D]sky. And if\n[D]ever you de-\n[C]cide you should\n[G]go.\n[D]\n[D]There is a\n[C]taste of\n[G]thyme sweetened\n[D]honey. Down the\n[D]Seven\n[C]Bridges\n[G]Ro-\n[D]ad.",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Seven Bridges Road",
+  "id": "6841b58af8f779ea0e52334de10203064d6a98822c6e0c2a606d6eb46c7d43bf",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 135,
+  "normalizedKey": "the eagles|seven bridges road",
+  "playableChords": [
+    "D",
+    "C",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Solo"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6841b58af8f779ea0e52334de10203064d6a98822c6e0c2a606d6eb46c7d43bf",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Seven Bridges Road",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

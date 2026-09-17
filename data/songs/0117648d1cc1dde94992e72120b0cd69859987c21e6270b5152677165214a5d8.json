@@ -1,0 +1,126 @@
+{
+  "artist": "The Mamas And The Papas",
+  "artistNormalized": "the mamas and the papas",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Am]\n[E7sus4]All the leaves are\n\n[Verse 1]\n[Am]brown [G]\n[F]And the [G]sky is gre-\n[E7sus4]y\n[E7][F]I've been for a\n[C]walk [E7]\n[Am]On a [F]winter's da-\n[E7sus4]y\n[E7][E]I'd be safe and\n[Am]warm [G]\n[F]If I [G]was in LA\n[E7sus4]\n[E7]California\n[Am]dreaming [G]\n[F]On [G]such a winter's\n[E7sus4]day\n[E7]Stopped into a chur-\n\n[Verse 2]\n[Am]ch [G]\n[F]I passed [G]along the wa-\n[E7sus4]y\n[E7]Well, I [F]got down on my\n[C]knees [E7]\n[Am]And I [F]pretend to pra-\n[E7sus4]y\n[E7]You know the preacher likes the\n[Am]cold [G]\n[F]He knows [G]I'm gonna\n[E7sus4]stay\n[E7]California\n[Am]dreaming [G]\n[F]On [G]such a winter's\n[E7sus4]day\n[E7]\n\n[Solo]\n[Am]\n[F]\n[C]  [E7]\n[Am]  [F]\n[E7sus4]\n[E7]\n[Am]  [G]\n[F]  [G]\n[E7sus4]\n[E7]\n[Am]  [G]\n[F]  [G]\n[E7sus4]\n[E]All the leaves are\n\n[Verse 3]\n[Am]brown [G]\n[F]And the [G]sky is gre-\n[E7sus4]y\n[E7][F]I've been for a\n[C]walk [E7]\n[Am]On a [F]winter's da-\n[E7sus4]y\n[E7][E]If I didn't\n[Am]tell her [G]\n[F]I could [G]leave toda-\n[E7sus4]y\n[E7]California\n[Am]dreaming [G]\n[F]On [G]such a winter's\n[G][Am]da-\n[F]y On [G]such a winter's\n[Am]day [G]\n[F]On [G]such a winter's\n[F]day\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7sus4": {
+      "catalog": [
+        "02223x",
+        "020200"
+      ],
+      "catalogCount": 2
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "California Dreamin' *alt",
+  "id": "0117648d1cc1dde94992e72120b0cd69859987c21e6270b5152677165214a5d8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 156,
+  "normalizedKey": "the mamas and the papas|california dreamin",
+  "playableChords": [
+    "Am",
+    "E7sus4",
+    "G",
+    "F",
+    "E7",
+    "C",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Solo"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0117648d1cc1dde94992e72120b0cd69859987c21e6270b5152677165214a5d8",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "California Dreamin'",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

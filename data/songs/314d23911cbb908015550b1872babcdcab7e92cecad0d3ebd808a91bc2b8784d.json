@@ -1,0 +1,125 @@
+{
+  "artist": "The Smiths",
+  "artistNormalized": "the smiths",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C]\n[D]  [A#]  [F]\n\n[Verse 1]\n[G]Panic on the streets of London\n[Em]\n[G]Panic on the streets of Bir-\n[Em]mingham I won-\n[C]der to myself\n[D]  [A#]  [F]\n[G]Could life ever be sane\n[Em]again? The\n[G]leeds sidestreets that you slip\n[Em]down I won-\n[C]der to myself\n[D]  [A#]  [F]\n[G]Hopes may rise on the gras-\n[Em]mere\n[G]But honey pie, you're not safe\n[Em]here So you run down\n[C]To the safety of the town\n[D][A#][F]But there's\n[G]panic on the streets of Carl-\n[Em]isle\n[G]Dublin, Dundee, Hum-\n[Em]berside I won-\n[C]der to myself\n[D]  [A#]  [F]\n\n[Bridge]\n[Em]\n[Bm]\n[D]\n[Em]\n[Bm]\n[D]\n\n[Verse 2]\n[G]Burn down the disco\n[Em]\n[G]Hang the blessed DJ\n[Em]Because the\n[C]music that they constantly play\n[D][A#]It [F]says\n[G]nothing to me about my\n[Em]life\n[G]Hang the blessed DJ\n[Em]Because the\n[C]music that they constantly play\n[D][A#][F]On the\n[G]Leeds sidestreets that you slip\n[Em]down The pro-\n[G]vincial towns you jog\n[Em]'round Hang the\n[C]DJ, hang the DJ, hang the\n[D]DJ Hang the\n[C]DJ, hang the DJ, hang the\n[D]DJ Hang the\n[C]DJ, hang the DJ, hang the\n[D]DJ Hang the D-\n\n[Outro (Fade Out)]\n[G]J, hang the D-\n[Em]J, hang the D-\n[G]J Hang the D-\n[Em]J, hang the D-\n[C]J, hang the DJ Hang the\n[D]DJ [A#]Hang [F]the D-\n[G]J, hang the D-\n[Em]J, hang the D-\n[G]J Hang the D-\n[Em]J, hang the D-\n[C]J, hang the DJ Hang the\n[D]DJ [A#]Hang [F]the D-\n[G]J, hang the D-\n[Em]J, hang the D-\n[G]J Hang the D-\n[Em]J, hang the D-\n[C]J, hang the DJ Hang the\n[D]DJ [A#]Hang [F]the D-\n[G]J, hang the D-\n[Em]J, hang the D-\n[G]J Hang the D-\n[Em]J, hang the D-\n[C]J, hang the DJ Hang the\n[D]DJ [A#]Hang [F]the DJ",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "x13331"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Panic",
+  "id": "314d23911cbb908015550b1872babcdcab7e92cecad0d3ebd808a91bc2b8784d",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 301,
+  "normalizedKey": "the smiths|panic",
+  "playableChords": [
+    "C",
+    "D",
+    "A#",
+    "F",
+    "G",
+    "Em",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "314d23911cbb908015550b1872babcdcab7e92cecad0d3ebd808a91bc2b8784d",
+    "version": "BCFZ"
+  },
+  "tempo": 190,
+  "title": "Panic",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,96 @@
+{
+  "artist": "The Hives",
+  "artistNormalized": "the hives",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\nOne!\nTwo!\nOne, two,\none, two, three! Come on!\n\n[Verse 1]\n[C#]Come on!\nCome on!\n[B]Come on!\n[C#]Come on!\nCome on!\nCome on!\n[B]Come on!\n[C#]Come on!\ncome on! Come on!\ncome on! Come\n[A]on! come on! Come on!\n[E]come on! [B]Come on!\n[C#]come on! Come on!\ncome on! Come\n[A]on! come on! Come on!\n[E]come on! [B]Come on!\nCome on! Come on!\nCome on! Come on...\nEvery body come\n\n[Interlude]\n[C#]on!\nCome on!\n\n[Verse 2]\nCome on!\nCome on!\n[B]Come on!\n[C#]Come on!\nCome on!\nCome on!\n[B]Come on!\n[C#]Come on!\ncome on! Come on!\ncome on! Come\n\n[Outro]\n[A]on! come on! Come on!\n[E]come on! [B]Come on!\n[C#]come on! Come on!\ncome on! Come\n[A]on! come on! Come on!\n[E]come on! [B]Come on!\nCome on! Come on!\nCome on! Come on...\nEvery body come\n[C#]on!",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "9-11-11-10-9-9",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Come On",
+  "id": "f1a5e032de2cb38a3bb3440f59cbdf0b96b84e8432c4ed863edb3c0c6d3f7c3d",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 135,
+  "normalizedKey": "the hives|come on",
+  "playableChords": [
+    "C#",
+    "B",
+    "A",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f1a5e032de2cb38a3bb3440f59cbdf0b96b84e8432c4ed863edb3c0c6d3f7c3d",
+    "version": "BCFZ"
+  },
+  "tempo": 185,
+  "title": "Come On",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

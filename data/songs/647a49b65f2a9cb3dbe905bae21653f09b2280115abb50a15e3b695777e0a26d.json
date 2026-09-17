@@ -1,0 +1,104 @@
+{
+  "artist": "The White Noise",
+  "artistNormalized": "the white noise",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G#m]\n[B]\n[F#]\n[G#m]\n[B]\n[F#]\n\n[Verse 1]\n[G#m]Three\nsteps from po-\n[B]uring rain\n[F#]\n[G#m]Sun-\nlight’s been go-\n[B]ne four days\n[F#]\n[G#m]This\ndrink keeps m-\n[B]e awake\n[F#]\n[G#m]This\nplace keeps y-\n[B]ou away\n[F#]\n\n[Chorus]\n[E]I\nlost it a-\n[G#m]ll\n[B]\n[E]in\nMontrea-\n[G#m]l\n[B]\n\n[Verse 2]\n[G#m]These\nbars defi-\n[B]ning me\n[F#]\n[G#m]I\ntalk but n-\n[B]o one speaks\n[F#]I dro-\n[G#m]wned in all my dre-\nams and nothing cha-\n[B]nged\n[F#]Cause e-\n[G#m]very night’s the sa-\nme Yeah e-\n[B]very night's the s-\n[F#]ame And I\n\n[Chorus]\n[E]lo-\nst it a-\n[G#m]ll Cause no\n[B]one sleeps in\n[E]Mo-\nntrea-\n[G#m]l Where no\n[B]one dreams I\n[E]lo-\nst it a-\n[G#m]ll so le-\n[B]ave me be in\n[E]M-\nontre-\n[G#m]al Where n-\n[B]o one’s calling m-\n[E]e\n[G#m]\n[B]I think i\n\n[Post-Chorus]\n[F#]drink too much I think i\n[E]talk too much I’m always\n[G#m]easiest to blame When every-\nthing goes wrong I get that\n[F#]i should celebrate Cause i’m\n[E]turning twenty four Instead i’m\n[G#m]sitting at a bar Wishing\ni was with you\n[F#]\n[E]\n[G#m]\n\n[Interlude]\n[G#m]\n[B]\n[F#]\n[G#m]\n[B]\n[F#]I lost\n\n[Chorus]\n[E]i-\nt al-\n[G#m]l Cause no\n[B]one sleeps in\n[E]Mo-\nntre-\n[G#m]al Where no\n[B]one dreams I\n[F#]lo-\n[E]st it a-\n[G#m]ll so le-\nave me be in\n[F#]M-\n[E]ontre-\n[G#m]al Where no\none’s calling m-\n[F#]e Where no\n[E]one’s calling m-\n[G#m]e\nI’ll\n[F#]stay ‘cause n-\n[E]o one’s calling",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Montreal",
+  "id": "647a49b65f2a9cb3dbe905bae21653f09b2280115abb50a15e3b695777e0a26d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 249,
+  "normalizedKey": "the white noise|montreal",
+  "playableChords": [
+    "G#m",
+    "B",
+    "F#",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 80,
+      "name": "Interlude"
+    },
+    {
+      "measure": 88,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "647a49b65f2a9cb3dbe905bae21653f09b2280115abb50a15e3b695777e0a26d",
+    "version": "BCFZ"
+  },
+  "tempo": 117,
+  "title": "Montreal",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

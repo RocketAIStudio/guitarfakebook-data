@@ -1,0 +1,91 @@
+{
+  "artist": "The Lillingtons",
+  "artistNormalized": "the lillingtons",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D5]  [B5]\n[G5]  [A5]\n[D5]  [B5]\n[G5]  [A5]\n[D5]  [B5]\n[G5]  [A5]\n[D5]  [B5]\n[G5]  [A5]\n\n[Interlude]\n[D5]  [B5]\n[G5]  [A5]\n[D5]  [B5]\n[G5]  [A5]\n\n[Verse 1]\n[D5]I was a [B5]teenage\n[G5]asshole [A5]ehoh\n[D5]I was a [B5]teenage\n[G5]juvenile [A5]delinquent\n[D5]I was a [B5]teenage\n[G5]asshole [A5]ehoh eh-\n[D5]oh [B5]\n[G5]  [A5]\n[C5/G]I got kicked out of my\n[G5]high school [A5]\n[C5/G]I got kicked out of my\n[A5][G5]home\n[C5/G]My parents think I'm an\n[G5]asshole [A5]\n[C5/G]And they won't leave me a-\n[G5]lone Won't [A5]leave me a-\n\n[Interlude]\n[D5]lone [B5]\n[G5]  [A5]\n[D5]  [B5]\n[G5]  [A5]\n[D5]  [B5]\n[G5]  [A5]\n[D5]  [B5]\n[G5]  [A5]\n\n[Verse 2]\n[D5]They called [B5]me teenage\n[G5]asshole [A5]ehoh\n[D5]They called me [B5]teenage\n[G5]juvenile [A5]delinquent\n[D5]They called [B5]me teenage\n[G5]asshole [A5]ehoh eh-\n[D5]oh [B5]\n[G5]  [A5]\n[C5/G]I got kicked out of\n[G5]my high [A5]\n[C5/G]school I got kicked out\n[G5]of [A5]my home\n[C5/G]My friends think I'm an\n[G5]asshole [A5]\n[C5/G]And they won't leave me a-\n[G5]lone Won't [A5]leave me a-\n\n[Outro]\n[D5]lone [B5]\n[G5]Won't [A5]leave me a-\n[D5]lone [B5]\n[G5]Won't [A5]leave me a-\n[D5]lone [B5]\n[G5]Won't [A5]leave me a-\n[D5]lone [B5]\n[G5]Won't [A5]leave me a-\n[D5]lone",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5/G": {
+      "catalog": [
+        "335xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Teenage Asshole",
+  "id": "8c8adec61c8cf70448f86bf72429c9f65c560fb1ea3615081c14e78d2c78f85e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 162,
+  "normalizedKey": "the lillingtons|teenage asshole",
+  "playableChords": [
+    "D5",
+    "B5",
+    "G5",
+    "A5",
+    "C5/G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Interlude"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Interlude"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8c8adec61c8cf70448f86bf72429c9f65c560fb1ea3615081c14e78d2c78f85e",
+    "version": "BCFZ"
+  },
+  "tempo": 165,
+  "title": "Teenage Asshole",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

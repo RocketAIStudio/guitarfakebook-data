@@ -1,0 +1,115 @@
+{
+  "artist": "The Wonder Years",
+  "artistNormalized": "the wonder years",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "Hey\n\n[Verse 1]\n[B]thanks\n[Ebm]for\n[E]everything\n[Gb]For putting\n[Eb7]up with me when\n[E]I get cranky I\n[B]know I'm such a pain\n[Gb]And yeah\n[B]thanks\n[Ebm]for losing\n[E]everything with me\n[Gb]The\n[Eb7]night we went to At-\n[E]lantic City Of\n[B]course it had to rain\n[Gb]And\n\n[Chorus]\n[E]you think\nthat I'm an-\n[B]gry\nBut\n[E]I think\nthat you're sad\n[B]\n[Gb]We know it's not so\nbad Here\n[E]living the life\n[Eb7]we have So hey\n\n[Verse 2]\n[B]thanks\n[Ebm]for not\n[E]hating me\n[Gb]When I\n[Eb7]wake you up at eight\n[E]in the morning Be-\n[B]cause I lost the keys\n[Gb]And yeah\n[B]thanks\n[Ebm]for\n[E]staying in with me\n[Gb]I\n[Eb7]know you'd probably rather\n[E]be out drinking Than\n[B]in with the TV\n[Gb]And\n\n[Chorus]\n[E]you think\nthat I'm an-\n[B]gry\nBut\n[E]I think\nthat you're sad\n[B]\n[Gb]We know it's not so\nbad Here\n[E]living the life\n[Eb7]we have So hey\n\n[Solo]\n[B]thanks\n[Ebm]\n[E]\n[Gb]\n[B]\n[Ebm]\n[E]\n[Gb]\nAnd you\n\n[Chorus]\n[E]think\nthat I'm an-\n[B]gry\nBut I\n[E]think\nthat you're sad\n[B]\n[Gb]We know it's not so\nbad Here\n[E]living the life\n[Eb7]we have So hey\n\n[Outro]\n[B]thanks",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x-8-10-10-10-8",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Eb7": {
+      "catalog": [
+        "x79797",
+        "x-x-1-3-2-3",
+        "x-6-5-6-4-3",
+        "x-6-8-6-8-6",
+        "11-10-8-8-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "Ebm": {
+      "catalog": [
+        "679987",
+        "x-x-1-3-4-2",
+        "x-6-8-8-7-6",
+        "11-13-13-11-11-11",
+        "x-x-13-15-16-14"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "x-10-12-12-12-10",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hey Thanks",
+  "id": "3538b6cd72ec2e8c3d93039275eaccad01731aeb30e0fdae91eb964490030a21",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 184,
+  "normalizedKey": "the wonder years|hey thanks",
+  "playableChords": [
+    "B",
+    "Ebm",
+    "E",
+    "Gb",
+    "Eb7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Solo"
+    },
+    {
+      "measure": 74,
+      "name": "Chorus"
+    },
+    {
+      "measure": 86,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3538b6cd72ec2e8c3d93039275eaccad01731aeb30e0fdae91eb964490030a21",
+    "version": "BCFZ"
+  },
+  "tempo": 143,
+  "title": "Hey Thanks",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

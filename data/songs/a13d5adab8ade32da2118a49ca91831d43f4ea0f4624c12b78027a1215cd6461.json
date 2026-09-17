@@ -1,0 +1,130 @@
+{
+  "artist": "The Strokes",
+  "artistNormalized": "the strokes",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F#m]\n[Faug]\n[E]\n[Bm]\n\n[Verse 1]\n[F#m]You're not the\nsame anymore\n[Faug]Don't wanna play that\ngame anymore\n[E]You'd make a better\nwindow than a door\n[Bm]\n[F#m]Oh, the stran-\ngers they implore\n[Faug]It gets so\neasy to ignore\n[E]Just like the girl\nnext door\n\n[Chorus]\n[D]Uncle's house,\nit was noon\n[A]Sorry boy, I\ncan't implore ya\n[D]You are strange, but\nI like you\n[A]Sorry this is\noverdue I\n[D]promised I would\ndo it right\n[A]Her and a boy on a\nSaturday night\n\n[Verse 2]\n[F#m]And now the\ndoor slams shut\n[Faug]A child\nprisoner grows up\n[E]To seek his e-\nnemy's throat cut\n[Bm]I'm on and on it, on\nand on and on\n[F#m]We're on the\nway, fuel the jet\n[Faug]Can see that\nwhat he wants, he gets\n[E]What does your sworn\nenemy regret?\n\n[Chorus]\n[D]I didn't know,\nI didn't care\n[A]I don't\neven understand\n[D]Did somethin' wrong,\nI wasn't sure\n[A]Stay on\ntop of this, or else\n[D]I was afraid\nI fucked up\n[A]Yeah, yeah, yeah\n[D]I couldn't change,\nit's too late\n\n[Guitar Solo]\n[F#m]\n[Faug]\n[A]\n[D]\n\n[Verse 3]\n[F#m]And now it's\ntime to show up\n[Faug]Late again,\nI can't grow up\n[E]And now, it's on me\nthey've given up\n\n[Chorus]\n[D]Uncle's house,\nI forget\n[A]Violent tendencies\nI get Your\n[D]timin' sucks, she went\noverboard\n[A]Don't forget, you\nare insured\n[D]I didn't know,\nI wasn't sure\n[A]Can't re-\nmember all that well\n[D]I couldn't change,\nwas too late\n[A]Yeah, yeah, yeah\n\n[Outro]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "Faug": {
+      "catalog": [
+        "1432xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Not The Same Anymore",
+  "id": "a13d5adab8ade32da2118a49ca91831d43f4ea0f4624c12b78027a1215cd6461",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 271,
+  "normalizedKey": "the strokes|not the same anymore",
+  "playableChords": [
+    "F#m",
+    "Faug",
+    "E",
+    "Bm",
+    "D",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 71,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    },
+    {
+      "measure": 93,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a13d5adab8ade32da2118a49ca91831d43f4ea0f4624c12b78027a1215cd6461",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "Not The Same Anymore",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

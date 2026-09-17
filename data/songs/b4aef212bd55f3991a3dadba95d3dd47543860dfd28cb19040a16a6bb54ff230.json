@@ -1,0 +1,119 @@
+{
+  "artist": "The Eagles",
+  "artistNormalized": "the eagles",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\n[Esus4]\n[E]\n\n[Verse 1]\n[E]I like the way\n[A]sparkling earrings\n[E]\n[A]lay\n[E]Against your\n[A]skin so brown\n[B]\n[A]\n[E]And I want to\n[A]sleep with you in the\n[E]desert night\n[A]\n[E]With a billion\n[A]stars all around\n[B]\nI got a\n\n[Chorus]\n[A]peaceful\neasy feelin'\n[E]\n[A]And I know you won't\nlet me down\n[F#m11]\n[B]'Cause I'm\n[E]al-\n[F#m11]ready standin'\n[A]\n[B]On the ground\n\n[Interlude]\n[E]\n[Esus4]\n[E]\n[Esus4]\n\n[Verse 2]\n[E]And I found\n[A]out a long\n[E]time ago\n[A]\n[E]What a woman can do\n[A]to your soul\n[B]\n[E]Aw but she\n[A]can't take you any\n[E]way\n[A]\n[E]You don't already know\n[A]how to go\n[B]\nI got a\n\n[Chorus]\n[A]peaceful\neasy feelin'\n[E]And\n[A]I know you won't\nlet me down\n[B]\n'Cause I'm\n[E]al-\n[F#m11]ready standin'\n[A]\n[B]On the ground\n\n[Interlude]\n[E]\n[Esus4]\n[E]\n[Esus4]\n\n[Guitar Solo]\n[E]\n[A]\n[E]\n[A]\n[E]\n[A]\n[B]\n[E]\n[A]\n[E]\n[A]\n[E]\n[A]\n[B]\n[A]\n[E]\n[A]\n[B]\n[E]\n[F#m11]\n[A]\n[B]\n\n[Verse 3]\n[E]I get this\n[A]feelin' I may\n[E]know you\n[A]\n[E]As a lo\n[A]ver and a friend\n[B]\n[E]This voice keeps\n[A]whisperin'\n[E]in my other ear\n[A]Tells me\n[E]I may never\n[A]see you again\n[B]\nI got a\n\n[Chorus]\n[A]peaceful\neasy feelin'\n[E]\n[A]And I know you won't\nlet me down\n[B]\n'Cause I'm\n[E]al-\n[F#m11]ready standin'\n[A]\n[B]Yes I'm\n[E]al-\n[F#m11]ready\n[A]standin'\n[B]Yes I'm\n[E]al-\n[F#m11]ready\n[A]standin'\n[B]On the ground\n[E]\n[F#m11]\n[A]\n[B]Woo\n[E]\n[F#m11]\n[A]\n[B]\n[E]\n[F#m11]\n[A]\n[B]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Esus4": {
+      "catalog": [
+        "022200"
+      ],
+      "catalogCount": 1
+    },
+    "F#m11": {
+      "catalog": [
+        "242200"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Peaceful Easy Feeling",
+  "id": "b4aef212bd55f3991a3dadba95d3dd47543860dfd28cb19040a16a6bb54ff230",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 193,
+  "normalizedKey": "the eagles|peaceful easy feeling",
+  "playableChords": [
+    "E",
+    "Esus4",
+    "A",
+    "B",
+    "F#m11"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Interlude"
+    },
+    {
+      "measure": 73,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 101,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 117,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b4aef212bd55f3991a3dadba95d3dd47543860dfd28cb19040a16a6bb54ff230",
+    "version": "BCFZ"
+  },
+  "tempo": 143,
+  "title": "Peaceful Easy Feeling",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,111 @@
+{
+  "artist": "The Lillingtons",
+  "artistNormalized": "the lillingtons",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A5]\n[C5]  [G5]\n[A5]\n[C5]  [G5]\n[A5]\n[C5]  [G5]\n[A5]\n[C5]  [G5]\n\n[Verse 1]\n[A5]I look just like mister\nSo and So And\n[C5]he looks like a chimpan-\n[F5]zee [C5]\n[A5]We could be a monkeys\nuncle And\n[C5]he could hang around with\n[F5]me [C5]\n[A5]You look just like mister\nSo and So And\n[C5]he looks and awful lot like\n[F5]me [C5]\n[A5]We could be a monkeys\nuncle And\n[C5]we'd go hanging from a\n[F5]tree [C5]\n\n[Chorus]\n[E]\n[D]\n[E]\n[D]\n[E]\n[D]\n[E]Get\n[F5]out of that tree\n\n[Bridge]\n[A5]\n[C5]  [G5]\n[A5]\n[C5]  [G5]\n[A5]\n[C5]  [G5]\n[A5]\n[C5]  [G5]\n\n[Verse 2]\n[A5]I look just like mister\nSo and So And\n[C5]he looks like a chimpan-\n[F5]zee [C5]\n[A5]We could be a monkeys\nuncle And\n[C5]he could hang around with\n[F5]me [C5]\n[A5]You look just like mister\nSo and So And\n[C5]he looks and awful lot like\n[F5]me [C5]\n[A5]We could be a monkeys\nuncle And\n[C5]we'd go hanging from a\n[F5]tree [C5]\n\n[Chorus]\n[E]\n[D]\n[E]\n[D]\n[E]\n[D]\n[E]Get\n[F5]out of that tree\n\n[Outro]\n[A5]\n[C5]  [G5]\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx",
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "D": {
+      "catalog": [
+        "x5777x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x7999x",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mr. So & So",
+  "id": "76f28332f85c131c68753ace4b37a05173bf2c3d9f9dda0e87c49f46db0799b1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 142,
+  "normalizedKey": "the lillingtons|mr so so",
+  "playableChords": [
+    "A5",
+    "C5",
+    "G5",
+    "F5",
+    "E",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "76f28332f85c131c68753ace4b37a05173bf2c3d9f9dda0e87c49f46db0799b1",
+    "version": "BCFZ"
+  },
+  "tempo": 200,
+  "title": "Mr. So & So",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

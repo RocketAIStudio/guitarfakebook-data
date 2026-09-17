@@ -1,0 +1,108 @@
+{
+  "artist": "The Rolling Stones",
+  "artistNormalized": "the rolling stones",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Bb]Whoa la\n[Eb]la ta ta\n[Bb]Whoa la\n[F]la ta ta La la la\n[Gm]all night long\n[Bb]Wanna tell you\nWhoa la\n[Eb]la ta ta\n[Bb]Whoa la\n[F]la ta ta La la la\n[Gm]all night long\n[Bb]\n\n[Chorus]\n[Bb]C'mon let the\n[Eb]good times roll\n[Bb]We're gonna stay here to\n[F]soothe our soul It could take\n[Gm]all night long\n[Bb]\n\n[Verse 1]\n[Bb]The evening sun is\n[Eb]sinking low\n[Bb]The clock on the wall says it's\n[F]time to go\n[Bb]I've got my plans I don't\n[Eb]know about you\n[F]I tell you exactly what\n[Bb]I'm gonna do\n\n[Chorus]\n[Bb]Get in the groove and let the\n[Eb]good times roll\n[Bb]We're gonna stay here to\n[F]soothe our soul It could take\n[Gm]all night long\n[Bb]\n\n[Verse 2]\n[Bb]It might be one o'clock it\n[Eb]might be three\n[Bb]Time don't mean that\n[F]much to me\n[Bb]Ain't felt this good since I\n[Eb]don't know when\n[F]I might not feel this\n[Bb]good a gain\n\n[Chorus]\n[Bb]So c'mon let the\n[Eb]good time roll\n[Bb]We're gonna stay here to\n[F]soothe our soul It could take\n[Gm]all night long\n[Bb]All night,\n\n[Interlude]\n[Bb]all night\n[Gm]All night,\n[Bb]all night long\n[Gm]Somebody\n[Bb]said it might take all night long\n[Gm]All night,\n[Bb]all night\n[Gm]\n\n[Chorus]\n[Bb]C'mon let the\n[Eb]good times roll\n[Bb]We're gonna stay here to\n[F]soothe our soul It could take\n[Gm]all night long\n[Bb]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x65343",
+        "x-x-1-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Good Times",
+  "id": "9c63075696500cdde869856c1fc690d9046918a24b27f794cf28566473d87cd5",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 221,
+  "normalizedKey": "the rolling stones|good times",
+  "playableChords": [
+    "Bb",
+    "Eb",
+    "F",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 48,
+      "name": "Interlude"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9c63075696500cdde869856c1fc690d9046918a24b27f794cf28566473d87cd5",
+    "version": "BCFZ"
+  },
+  "tempo": 126,
+  "title": "Good Times",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

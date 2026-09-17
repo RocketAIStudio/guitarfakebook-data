@@ -1,0 +1,96 @@
+{
+  "artist": "The Blues Brothers",
+  "artistNormalized": "the blues brothers",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Em6]\nCaught a\n\n[Verse 1]\n[Em6]ride into South Dakota With two girls\nin a light blue desoto\nOne's name was Jane, the other was plain But they\nboth had a racing motors\nNext I caught a ride with a gamblers wife, She had a\nbrand new lay down rambler She\nparked t'other side of town Layed the rambler down She said\nshe could dig if I'd knew her\n[B7]Doing my best to get back to you Ain't\n[D7]nothing I'd rather do\n[Em6]Look for me sunday, gonna be there honey Some\n[A7]special just for you\nSpecial just for\nyou\n\n[Harmonica Solo]\n[Em6]\n[B7]\n[Em6]\nMade a\n\n[Verse 2]\n[Em6]truck stop, toothpick and water Gotta\nride from a fruit pickers daughter Drove her\nthrough the night, let the fruit just rot. Said all\nI could eat for a quarter\nNext, I hopped a train with a hobo woman Said\nshe's from Texas too\nWay she did, what she did, when she did what she\ndid to me Made me think of you\nYuh, Honey made me think of you\n[B7]Doing my best to get back to you Ain't\n[D7]nothing I'd rather do\n[Em6]Look for me sunday, gonna be there honey Some\n[A7]special just for you\nSpecial just for\n[Em6]you\n\n[Break]\n[Em6]\n\n[Outro]\n[Em6]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "575655",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "797877",
+        "7x7877",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "10-12-10-11-10-10",
+        "x-x-0-2-1-2",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8"
+      ],
+      "catalogCount": 5
+    },
+    "Em6": {
+      "catalog": [
+        "12-x-11-12-12-12"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "B Movie Box Car Blues",
+  "id": "195f54a10305aebe768091dbf19b5bab0e8d17139787ee4677f08590145b67f6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 233,
+  "normalizedKey": "the blues brothers|b movie box car blues",
+  "playableChords": [
+    "Em6",
+    "B7",
+    "D7",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 35,
+      "name": "Harmonica Solo"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 63,
+      "name": "Break"
+    },
+    {
+      "measure": 77,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "195f54a10305aebe768091dbf19b5bab0e8d17139787ee4677f08590145b67f6",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "B Movie Box Car Blues",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

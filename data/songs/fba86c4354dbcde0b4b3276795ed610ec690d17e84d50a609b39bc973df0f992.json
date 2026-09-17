@@ -1,0 +1,157 @@
+{
+  "artist": "The Go-Go's",
+  "artistNormalized": "the go go s",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[A]\n\n[Verse 1]\n[A]See the people\nwalking down the street\nFall in line just wat-\nchin' all their feet\nThey don't know where\nthey're want to go But\ntheir walking in time\nThey got the beat\n\n[Chorus]\n[D]They got the\n[G]beat They got the beat\n[F]\n[C]Yeah, they got the beat\n\n[Post-Chorus]\n[A]\n\n[Verse 2]\n[A]See the kids just\ngettin' out of school\nThey can't wait to hang\nout and be cool\nHang around 'til\nquarter after twelve That's\nwhen they fall in line\nThey got the beat\n\n[Chorus]\n[D]They got the\n[G]beat They got the beat\n[F]\n[C]Yeah, they got the beat\n\n[Bridge]\n[A]\n[Bm]\n[A]\n\n[Verse 3]\n[A]GoGo music real-\nly makes us dance\nDo the pony, puts\nus in a trance\nDo what you see just\ngive us a chance That's when\nwe fall in line\nThey got the beat\n\n[Chorus]\n[D]They got the\n[G]beat They got the beat\n[F]\n[C]Yeah, we got\n\n[Break]\n[A]\n\n[Verse 4]\n[A]Everybody\nget on your feet\nWe know you can\ndance to the beat\nJumpin' and\nget down\nRound and round and\n[E]round\n\n[Outro]\n[A]\nWe got the beat\nWe got the beat\nWe got the beat\nWe got the beat\nWe got the beat\nWe got the beat",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "799777",
+        "x-2-4-4-3-2",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "We Got The Beat",
+  "id": "fba86c4354dbcde0b4b3276795ed610ec690d17e84d50a609b39bc973df0f992",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 200,
+  "normalizedKey": "the go go s|we got the beat",
+  "playableChords": [
+    "A",
+    "D",
+    "G",
+    "F",
+    "C",
+    "Bm",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Break"
+    },
+    {
+      "measure": 75,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 83,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fba86c4354dbcde0b4b3276795ed610ec690d17e84d50a609b39bc973df0f992",
+    "version": "BCFZ"
+  },
+  "tempo": 152,
+  "title": "We Got The Beat",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,152 @@
+{
+  "artist": "The Strokes",
+  "artistNormalized": "the strokes",
+  "capo": "No capo",
+  "chordPositionCount": 40,
+  "chordSymbolCount": 8,
+  "content": "[Verse 1]\n[E]They love you or\n[F#]they hate you\n[B]but they will never\n[E]let you be\n[E]They thrill you or se-\n[F#]date you\n[B]but they will never\n[E]let you see\n\n[Chorus]\n[A]In\n[Am]the\n[D]eve-\n[Dm]ning\n[A]sun\n[D]In\n[Dm]the\n[A]eve-\n[Am]ning\n[E]sun\n\n[Verse 2]\n[E]Encourage and\n[F#]derange you\n[B]Watch you wa-\n[E]lking scared alone\n[E]Despite intimi-\n[F#]dation\n[B]Pleased to watch\n[E]you dance alone\n\n[Chorus]\n[A]In\n[Am]the\n[D]eve-\n[Dm]ning\n[A]sun\n[D]In\n[Dm]the\n[A]eve-\n[Am]ning\n[E]sun\n\n[Bridge]\n[A]Go your separate way\n[E]now\n[D]Someday you'll come back\n[C]and I'll be\n[A]dreaming I was sun-\n[E]burned\n[D]I don't want to break\n[C]your heart in\n[A]break your heart in two\n[E]halves\n[D]Keep one half and give\n[C]one half to\n[A]me I like the sum-\n[E]mer miss the summer\n[D]Tell me what'd you do\n[C]Nothing Me too\n\n[Verse 3]\n[E]Oh actors they're\n[F#]pretending\n[B]and singers they will\n[E]sometimes lie\n[E]Ah kids are always\n[F#]honest\n[B]cause they don't think they're\n[E]ever gonna die\n[E]You're the prettiest smartest\n[F#]captain of the team\n[B]I love you more than\n[E]being seventeen\n\n[Chorus]\n[A]In\n[Am]the\n[D]eve-\n[Dm]ning\n[A]sun\n[D]In\n[Dm]the\n[A]eve-\n[Am]ning\n[E]sun\n\n[Outro]\n[D]In\n[Dm]the\n[A]eve-\n[Am]ning\n[E]sun",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Evening Sun",
+  "id": "0691f80770c76d65d4acdea1fdf7864760f2b03e0f17332a4db740443e5a29d1",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 208,
+  "normalizedKey": "the strokes|evening sun",
+  "playableChords": [
+    "E",
+    "F#",
+    "B",
+    "A",
+    "Am",
+    "D",
+    "Dm",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 75,
+      "name": "Chorus"
+    },
+    {
+      "measure": 87,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0691f80770c76d65d4acdea1fdf7864760f2b03e0f17332a4db740443e5a29d1",
+    "version": "BCFZ"
+  },
+  "tempo": 126,
+  "title": "Evening Sun",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,108 @@
+{
+  "artist": "The Rolling Stones",
+  "artistNormalized": "the rolling stones",
+  "capo": "2",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[D]\n[G]\n\n[Pre-Verse]\n[C]\n[A]\n[G]\n[C]\n[A]\n[G]\n[C]\n[A]\n[G]\n[C]\n[G]\n[D]\n[G]  [C]\n[G]\n\n[Verse 1]\n[C]Wadin' through the waste\n[A]stormy winter\n[G]\n[C]And there's not a friend\n[A]to help you\n[G]through\n[C]Tryin' to stop the waves\n[A]behind your eyeballs\n[G]\n[C]\n[G]Drop your reds,\n[D]drop your greens and blues\n[G]  [C]\n[G]\n\n[Verse 2]\n[C]Thank you for your wine,\n[A]California\n[G]\n[C]Thank you for your\n[A]sweet and bitter\n[G]fruits\n[C]Yes I got the\n[A]desert in my toenail\n[G]\n[C]\n[G]And I hid the speed\n[D]inside my shoe\n[G]  [C]\n[G]But\n\n[Chorus]\n[C]come on, come on down\n[A]Sweet Virginia\n[G]\nCome\n[C]on, honey child,\n[A]beg you\n[G]\nCome\n[C]on, come on down,\n[A]you got it in\n[G]ya\n[C]Got\n[G]to scrape the shit\n[D]right off your shoes\n[G]  [C]\n[G]\n\n[Saxophone Solo]\n[C]\n[A]\n[G]\n[C]\n[A]\n[G]\n[C]\n[A]\n[G]\n[C]\n[G]\n[D]\n[G]  [C]\n[G]Yeah, I want you to\n\n[Chorus]\n[C]come on, come on down\n[A]Sweet Virginia\n[G]\nI want you to\n[C]come on, honey child,\n[A]I beg\n[G]you\nI want you to\n[C]come on, honey child,\n[A]I beg\n[G]you\n[C]Got\n[G]to scrape that shit\n[D]right off your shoes\n[G]  [C]\n[G]But\n\n[Chorus]\n[C]come on, come on down\n[A]Sweet Virginia\n[G]\nCome\n[C]on, come on down,\n[A]I beg\n[G]\nCome\n[C]on, come on down,\n[A]you got it in\n[G]you\n[C]\n[G]Got to scrape that shit\n[D]right off your shoes\n[C]\n[G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sweet Virginia *alt",
+  "id": "0e7147bfebf9cc88b49e99bd9f7ebdab14da5249081d5cc89c68e015b7cc6647",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 172,
+  "normalizedKey": "the rolling stones|sweet virginia",
+  "playableChords": [
+    "G",
+    "D",
+    "C",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Saxophone Solo"
+    },
+    {
+      "measure": 86,
+      "name": "Chorus"
+    },
+    {
+      "measure": 102,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0e7147bfebf9cc88b49e99bd9f7ebdab14da5249081d5cc89c68e015b7cc6647",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "Sweet Virginia",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

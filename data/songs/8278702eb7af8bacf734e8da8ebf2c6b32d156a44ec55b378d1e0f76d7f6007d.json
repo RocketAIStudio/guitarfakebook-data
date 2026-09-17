@@ -1,0 +1,135 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]Two, three... Yes, I'm\n\n[Chorus]\n[E7]lonely Want to\ndie Yes, I'm\n[A7]lonely Want to\n[E7]die If I ain't\n[G]dead already, hoo\n[B7]Girl, you know the reason\n[E7]why [B7]In the morn-\n[E7]ing Want to\ndie In the\n[A7]evening Want to\n[E7]die If I ain't\ndead already, hoo\n[B7]Girl, you know the reason\n[E7]why [B7]My\n\n[Verse 1]\n[E7]mother was of the sky [B7]My [E7]father was of the earth [B7]But\n[E7]I am of the universe And you know what it's worth\n\n[Chorus]\n[A7]I'm lonely Want to\n[E7]die If I ain't\n[G]dead already, hoo\n[B7]Girl, you know the reason\n[E7]why [B7]The\n\n[Verse 2]\n[E7]eagle picks my eye [B7]The [E7]worm he licks my bones [B7]I\n[E7]feel so suicidal Just like Dylan's Mister Jones\n\n[Chorus]\n[A7]Lonely Want to die\n[E7]If I ain't\n[G]dead already, woo\n[B7]Girl, you know the reason\n[E7]why [B7]\n\n[Verse 3]\n[E7]Black cloud crossed my mind [B7][E7]Blue mist round my soul [B7]\n[E7]Feel so suicidal Even\nhate my rock and roll Want\n\n[Chorus]\n[A7]die\nYeah, want to die\n[E7]\nIf I\n[G]ain't dead already, woo\n[B7]Girl, you know the reason why\n[E7]\n[B7]\n\n[Solo 1]\n[E7]\n[A7]\n[E7]\n[G]\n[B7]\n[E7]\n[B7]\n\n[Solo 2]\n[E7]\n[A7]\n[E7]\n[G]\n[B7]\n[E7]\n\n[Outro]\n[E7]\n[A7]\n[E7]\n[G]\n[B7]\n\n[Fade Out]\n[E7]  [B7]\n[E7]\n[A7]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Yer Blues *alt",
+  "id": "8278702eb7af8bacf734e8da8ebf2c6b32d156a44ec55b378d1e0f76d7f6007d",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 199,
+  "normalizedKey": "the beatles|yer blues",
+  "playableChords": [
+    "E",
+    "E7",
+    "A7",
+    "G",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Chorus"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 53,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 64,
+      "name": "Outro"
+    },
+    {
+      "measure": 70,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8278702eb7af8bacf734e8da8ebf2c6b32d156a44ec55b378d1e0f76d7f6007d",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "Yer Blues",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

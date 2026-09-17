@@ -1,0 +1,135 @@
+{
+  "artist": "The Who",
+  "artistNormalized": "the who",
+  "capo": "3",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]\n[G]\n[A]\n[G]  [D]\n[A]\n[G]  [D]\n[A]\n[G]  [D]\n\n[Verse 1]\n[A]I went back to the do-\nctor [G]To\n[A]get another shrink\n[G]I sit a-\n[A]nd tell him 'bout my wee-\nkend [G]But he ne-\n[A]ver betrays what he thi-\nnks [G][D][A]\n\n[Chorus]\n[A]Can you see the [Am7]rea-\nl me , [Dsus4]do-\nctor, [D]do-\nctor? [A]\nCan you see the [Am7]rea-\nl me , [G]do-\nctor? [D]\nOh , do-\n\n[Interlude]\n[A]ctor\n[G]  [D]\n[A]\n[G]  [D]\n\n[Verse 2]\n[A]I went back to my mo-\nther [G]I said, \"I-\n[A]'m crazy Ma help me\n\" [G]She said,\n[A]\"I know how it fee-\nls, son [G]'Cause it ru-\n[A]ns in the family \"\n[G]  [D]  [A]\n\n[Chorus]\n[A]Can you see the [Am7]rea-\nl me , [Dsus4]ma-\nma, [D]ma-\nma? [A]\nCan you see the [Am7]rea-\nl me , [G]ma-\nma? [D]Oh\n, ma-\n\n[Post-Chorus]\n[A]ma [Am7]\nCan you see [Dsus4]\nCan you see [D]\nCan you see the real me?\n[A]Can you see [Am7]\nCan you see the real [G]me\nThe real me, the real [D]me\n[A]  [Am7]\n[G]\n[D]The\n\n[Verse 3]\n[A]cracks between the pa-\nving stones Like\nrivers of flowing vei-\nns\nStrange people who know\nme Peeping from be-\nhind every window pane\nThe\ngirl I used to lo-\nve Lives\nin this yellow hou-\nse\nYesterday she pa-\nssed me by She doesn't\nwant to know me now\n\n[Chorus]\n[A]Can you see the [Am7]rea-\nl me , [Dsus4]ca-\nn you, [D]ca-\nn you? [A]\nCan you see the [Am7]rea-\nl me , [G]ca-\nn you? [D]Oh\nyeah\n\n[Bridge]\n[A]\n[G]  [D]\n[A]\n[G]  [D]\n[A]\n[G]  [D]\n[A]\n[G]  [D]\n\n[Verse 4]\n[A]I ended up with the prea-\ncher [G][D]\n[A]Full of lies and ha-\nte [G][D]I\n[A]seemed to scare him a little\n[G][D]So he\n[A]showed me to the golden gate\n[G]  [D]  [A]\n\n[Chorus]\n[A]Can you see the [Am7]rea-\nl me , [Dsus4]prea-\ncher, [D]prea-\ncher? [A]\nCan you see the [Am7]rea-\nl me , [G]prea-\ncher? [D]\n[A]\n\n[Outro]\n[Am7]\n[Dsus4]\n[D]\n[A]\nCan you see [Am7]\nCan you see [G]\nCan you see [D]\nOh [A]\nCan you see the [Am7]rea-\nl me [Dsus4]do-\nctor [D]\n[A]\nCan you see the [Am7]rea-\nl me [G]mo-\nthe-\nr.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x05555",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus4": {
+      "catalog": [
+        "xx0233"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Real Me *alt",
+  "id": "cecbb0fe74e11d043ecbfed4e2d4c7a57d935533cca35bb1430c04407dc2f0a2",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 330,
+  "normalizedKey": "the who|the real me",
+  "playableChords": [
+    "A",
+    "G",
+    "D",
+    "Am7",
+    "Dsus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Interlude"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Bridge"
+    },
+    {
+      "measure": 89,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 97,
+      "name": "Chorus"
+    },
+    {
+      "measure": 105,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cecbb0fe74e11d043ecbfed4e2d4c7a57d935533cca35bb1430c04407dc2f0a2",
+    "version": "BCFZ"
+  },
+  "tempo": 147,
+  "title": "The Real Me",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

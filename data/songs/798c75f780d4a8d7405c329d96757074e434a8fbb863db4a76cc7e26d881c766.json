@@ -1,0 +1,101 @@
+{
+  "artist": "The Strokes",
+  "artistNormalized": "the strokes",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E5]\n[B5]\n[F#5]\n[E5]Oooo\noooo ooooooh\n[B5]\n[F#5]Some people think they're always\n\n[Verse I]\n[E5]right\nOthers are quiet and up-\n[B5]tight\n[F#5]Others they seem so very\n[E5]nice nice nice nice nice, ooh\nInside they might feel sad and\n[B5]wrong, oh no\n[F#5]Twenty nine different attri-\n[E5]butes\nOnly seven that you\n[B5]like, ooh\n[F#5]Twenty ways to see the\n[E5]world, ooh\nis twenty ways to start a\n[B5]fight, ooh\n[F#5]Oh don't don't don't get up,\n\n[Chorus]\n[C#5]\n[B5]I can't see the sun-\nshine\n[C#5]I'll be waiting for\nyou, baby\n[B5]'cause I'm through\nSit me down,\n[C#5]\nshut me up\n[B5]\nI'll calm\n[C#5]down\nand\n[B5]I'll get along with you\n\n[Interlude]\n[E5]\nOooo\noooo ooooooh\n[B5]\n[F#5]Oh, men don't notice what they\n\n[Verse 2]\n[E5]got\nWomen think of that a\n[B5]lot\n[F#5]One thousand ways to please your\n[E5]man, ooh\nNot even one requires a\n[B5]plan, I know\n[F#5]And countless odd religions\n[E5]too\nIt doesn't matter which you\n[B5]choose, oh no\n[F#5]One stubborn way to turn your\n[E5]back, ooh\nThis I've tried and now re-\n[B5]fuse, ooh\n[F#5]Oh don't don't don't get up,\n\n[Chorus]\n[C#5]\n[B5]I can't see the sun-\nshine\n[C#5]I'll be waiting for\nyou, baby\n[B5]'cause I'm through\nSit me down,\n[C#5]\nshut me up\n[B5]\nI'll calm\n[C#5]down\nand\n[B5]I'll get along with you\nalright\n\n[Outro]\n[B]Shut me\nup,\nshut me\nup up up up\nup And\nI'll get along with\nyou",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B5": {
+      "catalog": [
+        "799xxx",
+        "x244xx"
+      ],
+      "catalogCount": 2
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx",
+        "x799xx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You Live Only Once",
+  "id": "798c75f780d4a8d7405c329d96757074e434a8fbb863db4a76cc7e26d881c766",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 255,
+  "normalizedKey": "the strokes|you live only once",
+  "playableChords": [
+    "E5",
+    "B5",
+    "F#5",
+    "C#5",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse I"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Interlude"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 68,
+      "name": "Chorus"
+    },
+    {
+      "measure": 84,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "798c75f780d4a8d7405c329d96757074e434a8fbb863db4a76cc7e26d881c766",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "You Live Only Once",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

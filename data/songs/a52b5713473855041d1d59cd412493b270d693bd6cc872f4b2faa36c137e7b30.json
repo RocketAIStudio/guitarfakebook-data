@@ -1,0 +1,108 @@
+{
+  "artist": "The Lillingtons",
+  "artistNormalized": "the lillingtons",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\n[G]\n[Am]\n[F]\n[C]\n[G]\n[Am]\n[F]\n[C]\n[G]\n[Am]\n[F]\n[C]\n[G]\n[Am]\n[F]\n\n[Verse 1]\n[C]I think\n[G]something might be\n[Am]wrong\n[F]\n[C]'Cause it's been\n[G]dark out far too\n[Am]long\n[F]\n[C]And it's been\n[G]raining every\n[Am]day\n[F]\n[C]I wanna\n[G]wish it all away\n[Am]\n[F]Wish it a-\n\n[Interlude]\n[C]way\n[G]\n[Am]\n[F]\n[C]\n[G]\n[Am]\n[F]\n\n[Verse 2]\n[C]I've got a\n[G]hole here in my\n[Am]heart\n[F]\n[C]I think it's\n[G]been there from the\n[Am]start\n[F]\n[C]There's gotta\n[G]be a better\n[Am]way\n[F]\n[C]I wish it'd\n[G]all just go away\n[Am]\n[F]Until the\n\n[Chorus]\n[C]sun shines\n[F]\n[Am]\n[G]Until the\n[C]day breaks\n[F]\n[Am]\n[G]\n\n[Solo]\n[C]\n[G]\n[Am]\n[F]\n[C]\n[G]\n[Am]\n[F]\n[C]\n[G]\n[Am]\n[F]\n[C]\n[G]\n[Am]\n[F]Until the\n\n[Chorus]\n[C]sun shines\n[F]\n[Am]\n[G]Until the\n[C]day breaks\n[F]\n[Am]\n[G]Until the\n[C]sun shines\n[F]\n[Am]\n[G]Until the\n[C]day breaks\n[F]\n[Am]\n[G]Until the\n\n[Outro]\n[C]sun shines\n[F]\n[Am]\n[G]Until the\n[C]day breaks\n[F]\n[Am]\n[G]Until the\n[C]sun shines\n[F]\n[Am]\n[G]Until the\n[C]day breaks\n[F]\n[Am]\n[G]In the\nsunshine",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Until the Sun Shines",
+  "id": "a52b5713473855041d1d59cd412493b270d693bd6cc872f4b2faa36c137e7b30",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 113,
+  "normalizedKey": "the lillingtons|until the sun shines",
+  "playableChords": [
+    "C",
+    "G",
+    "Am",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Solo"
+    },
+    {
+      "measure": 81,
+      "name": "Chorus"
+    },
+    {
+      "measure": 97,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a52b5713473855041d1d59cd412493b270d693bd6cc872f4b2faa36c137e7b30",
+    "version": "BCFZ"
+  },
+  "tempo": 195,
+  "title": "Until the Sun Shines",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

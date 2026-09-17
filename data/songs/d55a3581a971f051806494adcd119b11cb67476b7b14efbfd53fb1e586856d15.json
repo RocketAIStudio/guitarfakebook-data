@@ -1,0 +1,137 @@
+{
+  "artist": "The Jimi Hendrix Experience",
+  "artistNormalized": "the jimi hendrix experience",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Edim]\n\n[Interlude]\n[E7#9]\n[G]  [A]\n[E7#9]\n[G]  [A]\n\n[Verse 1]\n[E7#9]Purple haze, all\n[G]in my brain [A]\n[E7#9]Lately things they don't\n[G]seem the same [A]\n[E7#9]Actin' funny, but I\n[G]don't know why [A]\n[E7#9]Excuse me while I\nkiss the sky\n\n[Verse 2]\n[E7#9]Purple haze,\n[G]all around [A]\n[E7#9]Don't know if I'm comin'\n[G]up or down [A]\n[E7#9]Am I happy or\n[G]in misery? [A]What\n[E7#9]ever it is, that girl put a\nspell on me\n[A]Help me\n[B]Help me\n[D]Oh, no, no\n\n[Solo]\n[E7#9]\n[F#]  [D]\n[E7#9]\n[F#]  [D]\n[E7#9]\n[F#]  [D]\n[E7#9]\n[F#]  [D]\n\n[Interlude]\n[E7#9]Ooo,\nahhh\nOoo,\nahhh\nOoo,\nahhh\nOoo,\nahhh, yeah!\n\n[Verse 3]\n[E7#9]Purple haze all\n[G]in my [A]eyes\n[E7#9]Don't know if it's\n[G]day or night [A]\n[E7#9]You got me blowin',\n[G]blowin' my mind [A]Is it\n[E7#9]tomorrow, or just the\nend of time?\n\n[Outro]\n[A]\n[B]\n[D]\n[E7#9]\n[F#]  [D]\n[E7#9]\n[F#]  [D]\n[E7#9]\n[F#]  [D]\n[E7#9]\n[F#]  [D]\n[E7#9]\n[F#]  [D]\n\n[Fade Out]\n[E7#9]\n[F#]  [D]\n[E7#9]\n[F#]  [D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7#9": {
+      "catalog": [
+        "x7678x"
+      ],
+      "catalogCount": 1
+    },
+    "Edim": {
+      "catalog": [
+        "x7898x"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "x-9-11-11-11-x",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Purple Haze",
+  "id": "d55a3581a971f051806494adcd119b11cb67476b7b14efbfd53fb1e586856d15",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 125,
+  "normalizedKey": "the jimi hendrix experience|purple haze",
+  "playableChords": [
+    "Edim",
+    "E7#9",
+    "G",
+    "A",
+    "B",
+    "D",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Interlude"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Solo"
+    },
+    {
+      "measure": 44,
+      "name": "Interlude"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    },
+    {
+      "measure": 74,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d55a3581a971f051806494adcd119b11cb67476b7b14efbfd53fb1e586856d15",
+    "version": "BCFZ"
+  },
+  "tempo": 107,
+  "title": "Purple Haze",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

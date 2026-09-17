@@ -1,0 +1,81 @@
+{
+  "artist": "The xx",
+  "artistNormalized": "the xx",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[C]\n[C]\n[F]\n[C]\n[F]\n\n[Verse 1]\n[C]You\nused to have all the\n[F]answers\nAnd\n[C]you,\nyou still have them too\n[F]\nAnd\n[C]we,\nwe live half in the day-\n[F]time\nAnd\n[C]we,\nwe live half at night\n[F]\n\n[Chorus]\n[C]Watch things on\nvcrs\n[F]With me and talk\nabout big love\n[C]I think we're\nsuperstars\n[F]You say you think\nwe are the best thing But\n[C]you,\nyou just\n[F]know\nYou just\n[C]do\n[F]\n\n[Verse 2]\n[C]I wanna find myself\nby the sea\n[F]In anothers\ncompany By the sea\n[C]I wanna go out\nto the pier\n[F]I'm gonna dive and\nhave no fear Cos\n[C]you,\nyou just\n[F]know\nYou just\n[C]do\n[F]\n\n[Chorus]\n[C]Watch things on\nvcrs\n[F]With me and talk\nabout big love\n[C]I think we're\nsuperstars\n[F]You say you think\nwe are the best thing But\n[C]you,\nyou just\n[F]know\nYou just\n[Am]do",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "VCR",
+  "id": "761de65786545e6aad901b015344f487d99735ceb043aa5aa34a4de3079c58bf",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 145,
+  "normalizedKey": "the xx|vcr",
+  "playableChords": [
+    "C",
+    "F",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "761de65786545e6aad901b015344f487d99735ceb043aa5aa34a4de3079c58bf",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "VCR",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

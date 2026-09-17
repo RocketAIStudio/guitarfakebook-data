@@ -1,0 +1,112 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E]\nWhat goes on\n\n[Chorus]\n[E]in your heart?\nWhat goes on\nin your mind?\n[A]You are tear-\n[E]ing me apart\nWhen you treat\nme so unkind\n[A]What goes on\n[B]in your mind\n[E]The\n\n[Verse 1]\n[E]other day I saw you As I\n[Am]walked along the road But\n[E]when I saw him with you I could\n[Am]feel my future fold It's so\n[Am]easy for a girl [B]like you to lie\n[E]Tell me why\n[B]What goes on\n\n[Chorus]\n[E]in your heart?\nWhat goes on\nin your mind?\n[A]You are tear-\n[E]ing me apart\nWhen you treat\nme so unkind\n[A]What goes on\n[B]in your mind\n[E]I\n\n[Verse 2]\n[E]met you in the morning Waiting\n[Am]for the tides of time But\n[E]now the tide is turning I can\n[Am]see that I was blind It's so\n[Am]easy for a girl [B]like you to lie\n[E]Tell me why\n[B]What goes on\n\n[Guitar Solo]\n[E]in your heart?\n[A]\n[E]\n[A]\n[B]\n[E]I\n\n[Verse 3]\n[E]used to think of no on else But\n[Am]you were just the same You\n[E]didn't ev en think of me As\n[Am]someone with a name Did you mean\n[Am]to break my heart [B]and watch me die\n[E]Tell me why\n[B]What goes on\n\n[Chorus]\n[E]in your heart?\nWhat goes on\nin your mind?\n[A]You are tear-\n[E]ing me apart\nWhen you treat\nme so unkind\n[A]What goes on\n[B]in your mind\n\n[Outro]\n[E]in your mind\nin your mind",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "What Goes On *alt",
+  "id": "7171df37b86fb98cbaf7ea9cb716e7c1c7f9bb4273195d0dff3f130b0a5bab4f",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 235,
+  "normalizedKey": "the beatles|what goes on",
+  "playableChords": [
+    "E",
+    "A",
+    "B",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Chorus"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 48,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7171df37b86fb98cbaf7ea9cb716e7c1c7f9bb4273195d0dff3f130b0a5bab4f",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "What Goes On",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

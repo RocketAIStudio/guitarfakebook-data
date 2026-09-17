@@ -1,0 +1,100 @@
+{
+  "artist": "The Lighthouse And The Whaler",
+  "artistNormalized": "the lighthouse and the whaler",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\nThe hope\n\n[Verse 1]\n[Am]outweighs all my sorrow,\n[F]I believe.\n[C]\nAnd the vast\n[Am]open sky shows them all\n[F]what I could be.\n[C]\nAnd the co-\n[Am]lors drift from you\n[F]into me,\n[C]\nand the wonder\n[Am]of the mo-\n[F]ment sticks to me\n[C]\n\n[Chorus]\n[F]\n[G]\n[F]\n[G]\n[F]\n[G]And the co-\n\n[Verse 2]\n[Am]lors drift from you\n[F]into me,\n[C]\nand the wonder\n[Am]of the mo-\n[F]ment rescued me.\n[C]\n\n[Chorus]\n[Am]\n[F]\n[C]\n[Am]\n[F]\n[C]\nWe\n\n[Outro]\n[Am]all are\n[F]infi-\n[C]nite.\nWe\n[Am]all are\n[F]infi-\n[C]nite.",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "We Are Infinite",
+  "id": "405ca915ee097420bf457d263318f1dc91d734e2959dd7c4b33e37959404c3b2",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 78,
+  "normalizedKey": "the lighthouse and the whaler|we are infinite",
+  "playableChords": [
+    "C",
+    "Am",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "405ca915ee097420bf457d263318f1dc91d734e2959dd7c4b33e37959404c3b2",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "We Are Infinite",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,128 @@
+{
+  "artist": "The Cars",
+  "artistNormalized": "the cars",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n[G]\n[A]\n[D]\n[G]\n[A]\n[Bm]\n[G]  [A]\n[D]\nOh, well\n\n[Verse 1]\n[D]you might think I'm cra-\n[G]zy To\n[A]hang around with you.\n[D]Or\n[D]maybe you think I'm luck-\n[G]y To\n[A]have something to do.\n[D]But I\n\n[Pre-Chorus]\n[Bm]think [A]that you're wild,\n[G]In-\n[Bm]side me [A]is some child.\n[G]\n\n[Chorus]\n[D]You might think I'm fool-\n[G]ish, Or\n[A]maybe it's untrue.\n[Bm]\n[D]You might think i'm cra-\n[G]zy, But\n[A]all I want is you.\n[D]\n[G]  [A]\n\n[Verse 2]\n[D]You might think it's hyster-\n[G]ical, But\n[A]i know when you're weak.\n[D]You\nthink you're in the mo-\n[G]vies And\n[A]everything's so deep.\n[D]But I\n\n[Pre-Chorus]\n[Bm]think [A]that you're wild,\n[G]When you\n[Bm]flash that [A]fragile\n[G]smile.\n\n[Chorus]\n[D]You might think it's fool-\n[G]ish,\n[A]What you put me through.\n[Bm]\n[D]You might think i'm cra-\nzy, But\nall I want is you.\n\n[Bridge]\n[D]\nAnd it was\n[Bm]hard,\n[G]so hard to take.\n[Bm]\n[G]There's no es-\n[Bm]cape,\n[G]without a scrape.\n[Bm]\n[G]\nBut you kept it going\ntill the sun fell down,\n[A]You kept it\ngoing.\n\n[Solo]\n[D]\n[G]\n[A]\n[D]\n[G]\n[A]\n[Bm]\n[G]  [A]\n[D]\nOh, well\n\n[Verse 3]\n[D]you might think i'm del-\n[G]irious, The\n[A]way I run you down.\n[D]But\n[D]somewhere sometimes\n[G]When you're curious,\n[A]I'll be back around.\n[D]Oh, I\n\n[Pre-Chorus]\n[Bm]think [A]that you're wild,\n[G]And\n[Bm]so oh oh [A]uniquely\n[G]styled.\n\n[Chorus]\n[D]You might think it's fool-\n[G]ish, This\n[A]chancy rendezvous.\n[Bm]\n[D]You might think i'm cra-\n[G]zy, But\n[A]all I want is you.\n\n[Outro]\n[D]Ah oh.\n[G]All I [A]want you you,\n[Bm]All I\n[G]want [A]is\n[D]you.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You Might Think",
+  "id": "4b0a690c25fa0b49b6cbfe97f0c7b133e0b83fcff53fc7d6be9025985c44be12",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 240,
+  "normalizedKey": "the cars|you might think",
+  "playableChords": [
+    "D",
+    "G",
+    "A",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Bridge"
+    },
+    {
+      "measure": 66,
+      "name": "Solo"
+    },
+    {
+      "measure": 77,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 85,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus"
+    },
+    {
+      "measure": 96,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4b0a690c25fa0b49b6cbfe97f0c7b133e0b83fcff53fc7d6be9025985c44be12",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "You Might Think",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,101 @@
+{
+  "artist": "The Rolling Stones",
+  "artistNormalized": "the rolling stones",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[A7]\n[D7]\n[A7]\n[E7]\n[A7]\n[E7]\n\n[Verse 1]\n[A7]You're looking good baby\nI love to see my baby smile\n[D7]You're looking good baby\nI love to see my baby smile\n[A7]\n[E7]You say you love me now but\nYou've got another man on the side\n[A7]\n[E7]\n\n[Verse 2]\n[A7]You're always hung ry\nYou always want to drink\nI love you so much baby\nBut I begin to think\n[D7]Come here baby\nI can see the glint in your eye\n[A7]\n[E7]You say you love me now but\nYou've got a fancyman on the side\n[A7]\n[E7]\n\n[Interlude 1]\n[A7]\n[D7]\n[A7]\n[E7]\n[A7]\n[E7]\n\n[Verse 3]\n[A7]I love to dance with my baby\nI love to while away the time\n[D7]I love to dance with my baby\nI love to while away the time\n[A7]\n[E7]You've got some new steps now\nYou've got a fancyman on the side\n[A7]\n[E7]\n\n[Interlude 2]\n[A7]\n[D7]\n[A7]\n[E7]\n[A7]\n[E7]\n\n[Verse 4]\n[A7]You're looking good baby\nI love to see my honey smile\n[D7]You're looking good baby\nI love to see my baby smile\n[A7]\n[E7]You say you love me now but\nYou've got a fancyman on the side\n[A7]\n[E7]\n\n[Interlude 3]\n[A7]\n[D7]\n[A7]\n[E7]\n[A7]\n[E7]\n\n[Outro]\n[A7]\n[D7]\n[A7]\n[E7]\n[A7]\n[E7]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Fancy Man Blues",
+  "id": "59e94791925b003afac624f66386bdd0e598e6fa80cd9fda7edb3b13c34b6dac",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 183,
+  "normalizedKey": "the rolling stones|fancy man blues",
+  "playableChords": [
+    "A7",
+    "D7",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Interlude 1"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 62,
+      "name": "Interlude 2"
+    },
+    {
+      "measure": 74,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 86,
+      "name": "Interlude 3"
+    },
+    {
+      "measure": 98,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "59e94791925b003afac624f66386bdd0e598e6fa80cd9fda7edb3b13c34b6dac",
+    "version": "BCFZ"
+  },
+  "tempo": 86,
+  "title": "Fancy Man Blues",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

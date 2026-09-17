@@ -1,0 +1,100 @@
+{
+  "artist": "The Everly Brothers",
+  "artistNormalized": "the everly brothers",
+  "capo": "2",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n\n[Chorus]\n[C]Bye bye love\n[G]\n[C]Bye bye hap\n[G]piness\n[C]Hello lone-\n[G]liness I\nthink I'ma [D7]gon na cry\n[G]\n[C]Bye bye love\n[G]\n[C]Bye bye sweet\n[G]caress\n[C]Hello emp\n[G]tiness I\nfeel like I [D7]could die\n[G]Bye bye\nmy love [D7]good bye\n[G]\nThere goes my\n\n[Verse 1]\n[D7]baby\nwitha someone\n[G]new\nShe sure looks\n[D7]happy,\nI sure am blue\n[G]\n[G7]She was my\n[C]baby\ntill he stepped in\n[D7]\nGoodbye to\nromance\nthat might have\n[G]been\n[G7]\n\n[Chorus]\n[C]Bye bye love\n[G]\n[C]Bye bye hap\n[G]piness\n[C]Hello lone-\n[G]liness I\nthink I'ma [D7]gon na cry\n[G]\n[C]Bye bye love\n[G]\n[C]Bye bye sweet\n[G]caress\n[C]Hello emp\n[G]tiness I\nfeel like I [D7]could die\n[G]Bye bye\nmy love [D7]good bye\n[G]\nI'ma through with\n\n[Verse 2]\n[D7]romance,\nI'm athrough with\n[G]love\nI'm through with a-\n[D7]countin'\nthe stars a bove\n[G]\n[G7]And here's the\n[C]reason\nthat I'm so free\n[D7]\nMy lovin'\nbaby\nis through with\n[G]me\n[G7]\n\n[Chorus]\n[C]Bye bye love\n[G]\n[C]Bye bye hap\n[G]piness\n[C]Hello lone-\n[G]liness I\nthink I'ma [D7]gon na cry\n[G]\n[C]Bye bye love\n[G]\n[C]Bye bye sweet\n[G]caress\n[C]Hello emp\n[G]tiness I\nfeel like I [D7]could die\n[G]Bye bye\nmy love [D7]good bye\n[G]Bye bye\nmy love [D7]good bye\n[G]Bye bye\nmy love [D7]good bye\n[G]\n[D7]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "32303x",
+        "3-2-0-0-0-1",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bye Bye Love",
+  "id": "49b9e5e6a0509b65f43ecb0aaa42290fe05391ebca89bb7221969970d36d466a",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 238,
+  "normalizedKey": "the everly brothers|bye bye love",
+  "playableChords": [
+    "G",
+    "C",
+    "D7",
+    "G7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 75,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "49b9e5e6a0509b65f43ecb0aaa42290fe05391ebca89bb7221969970d36d466a",
+    "version": "BCFZ"
+  },
+  "tempo": 170,
+  "title": "Bye Bye Love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

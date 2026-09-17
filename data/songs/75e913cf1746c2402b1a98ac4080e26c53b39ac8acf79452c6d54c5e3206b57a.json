@@ -1,0 +1,123 @@
+{
+  "artist": "THE XX",
+  "artistNormalized": "the xx",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]\n[Bm]\n[A]\n[D]\nAm I blind\n\n[Verse 1]\n[Bm]\n[D]You move your hand\n[G]away from mi-\n[Bm]ne I take it as a\n[Bm]sign\n[D]That you're\n[G]any less than mi-\n[Bm]ne\n\n[Pre-Chorus]\n[A]Oh,\nit doesn't move me to be\n[D]cold\nIt doesn't lessen my\n[E]hope\nYou know our time and all\n[D]\n\n[Chorus]\n[A]Oh,\nlet it unfold\n[E]\nI won't leave it untold\n[D]\nThe feeling goes on\n[A]and on and on\n\n[Interlude]\n[A]\n[Bm]\n[A]\n[D]\nIn my head\n\n[Verse 2]\n[Bm]\n[D]You tell me things\n[G]you've never said\n[Bm]And I choose to for-\n[Bm]get\n[D]And take the good\n[G]and leave the rest\n[Bm]\n\n[Pre-Chorus]\n[A]Oh,\nthe illusions getting\n[D]old\nAnd you don't answer when I\n[E]call\nI would have given you it\n[D]all\n\n[Chorus]\n[A]Oh ,\nout of sight out of mind\n[E]\nIt doesn't mean you're not mi-\n[D]ne\nThe feeling goes on\n[A]and on and on\n\n[Outro]\n[A]\n[Bm]\n[A]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Unfold",
+  "id": "75e913cf1746c2402b1a98ac4080e26c53b39ac8acf79452c6d54c5e3206b57a",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 143,
+  "normalizedKey": "the xx|unfold",
+  "playableChords": [
+    "A",
+    "Bm",
+    "D",
+    "G",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 68,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "75e913cf1746c2402b1a98ac4080e26c53b39ac8acf79452c6d54c5e3206b57a",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Unfold",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

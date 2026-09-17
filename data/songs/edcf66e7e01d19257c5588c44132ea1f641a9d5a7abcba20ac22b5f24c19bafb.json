@@ -1,0 +1,122 @@
+{
+  "artist": "The Doors",
+  "artistNormalized": "the doors",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\n[G]  [A]\n[A]\n[G]  [A]\n\n[Chorus]\n[A]Hello, I\n[G]love you Won't you [C]tell me your name\n[A][A]Hello I\n[G]love you Let me [C]jump in your game\n[A][A]Hello, I\n[G]love you Won't you [C]tell me your name\n[A][A]Hello I\n[G]love you Let me [C]jump in your game\n\n[Verse 1]\n[A]She's [Am]walkin'\n[G]down the [Am]street\n[G][Am]Blind to\n[G]every [Am]eye she meets\n[G]Do you [Am]think you'll\n[G]be the [Am]guy\n[G]To [Am]make the\n[G]queen of the [Am]angels sigh.\n\n[Chorus]\n[A][G]Hello, I\n[G]love you Won't you [C]tell me your name\n[A][A]Hello I\n[G]love you Let me [C]jump in your game\n[A][A]Hello, I\n[G]love you Won't you [C]tell me your name\n[A][A]Hello I\n[G]love you Let me [C]jump in your game\n\n[Verse 2]\n[A]She [Am]holds her\n[G]head so [Am]high\n[G]Like a [Am]statue\n[G]in the [Am]sky\n[G]Her [Am]arms are\n[G]wicked and her [Am]legs are long\n[G]When she [Am]moves my\n[G]brain screams [Am]out this song\n[G]  [Am]\n\n[Verse 3]\n[A#]Sidewalk\n[G#]crouches [A#]at her feet\n[G#]Like a [A#]dog that\n[G#]begs for [A#]somethin' sweet\n[G#]Do you [A#]hope to\n[G#]make her [A#]see, you fool\n[G#]Do you [A#]hope to\n[G#]pluck this [A#]dusky jew-\n\n[Chorus]\n[G#]el [A#]Hello!\n[G#]Hello! [A#]\n[G#]Hello! [A#]\n[G#]Hello! [A#]\n[G#]Hello! [A#]\n[G#]Hello! [A#]\n[G#]Hello! [A#]\n[G#]I want [A#]you,\n[G#]  [A#]\n[G#]I need [A#]my\n[G#]baby [A#]\n[G#]  [A#]\n[G#]  [A#]\n[G#]  [A#]\n[G#]  [A#]\n[G#]  [A#]\n\n[Outro]\n[G#]Hello, [A#]\n[G#]hello, [A#]\n[G#]hello, [A#]\n[G#]hello, [A#]\n[G#]hello. [A#]\n[G#]  [A#]\n[G#]  [A#]\n[G#]  [A#]\n[G#]  [A#]\n[G#]  [A#]\n[G#]  [A#]\n[G#]  [A#]\n[G#]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#": {
+      "catalog": [
+        "688766"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hello, I Love You *alt",
+  "id": "edcf66e7e01d19257c5588c44132ea1f641a9d5a7abcba20ac22b5f24c19bafb",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 221,
+  "normalizedKey": "the doors|hello i love you",
+  "playableChords": [
+    "A",
+    "G",
+    "C",
+    "Am",
+    "A#",
+    "G#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "edcf66e7e01d19257c5588c44132ea1f641a9d5a7abcba20ac22b5f24c19bafb",
+    "version": "BCFZ"
+  },
+  "tempo": 118,
+  "title": "Hello, I Love You",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

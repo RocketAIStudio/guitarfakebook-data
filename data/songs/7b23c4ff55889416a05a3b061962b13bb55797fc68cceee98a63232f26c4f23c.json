@@ -1,0 +1,108 @@
+{
+  "artist": "The Cure",
+  "artistNormalized": "the cure",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[B]\n[B]\n[G#m]\n[F#]\n[B]\n[B]\n[G#m]\n[F#]\n[B]\n[G#m]\n[F#]\n\n[Verse 1]\n[B]I've waited hours\nfor this\nI've made myself\nso sick I\n[G#m]wish I'd stayed\n[F#]a sleep today\n[B]I never thought\nthis day would end\nI never thought\nto night\n[G#m]could ever be\nThis\n[F#]close to me\n\n[Bridge]\n[B]\n[G#m]\n[F#]\n\n[Verse 2]\n[B]Just try to see\nin the dark\nJust try to\nmake it work To\n[G#m]feel the fear\nbe-\n[F#]fore you're here\n[B]I make the\nshapes come much too\nclose I pull my\neyes out Hold my\n[G#m]breath And wait\n[F#]until I shake\n\n[Chorus]\n[E]But if I\nhad your faith\nThen I could\nmake it safe and clean\n[B]\n[E]If only\nI was sure\nThat my head\non the door was a dream\n[B]\n\n[Bridge]\n[B]\n[G#m]\n[F#]\n[B]\n[G#m]\n[F#]\n\n[Verse 3]\n[B]I've waited hours\nfor this\nI've made myself\nso sick I\n[G#m]wish I'd stayed\na-\n[F#]sleep today\n[B]I never thought\nthis day would end\nI never thought\ntonight\n[G#m]could ever be\n[F#]This close to me\n\n[Chorus]\n[E]But if I\nhad your faith\nThen I could\nmake it safe and clean\n[B]\n[E]If only\nI was sure\nThat my head\non the door was a\n[B]dream\n\n[Outro]\n[B]\n[G#m]\n[F#]\n[B]\n[G#m]\n[F#]\n[B]\n[G#m]\n[F#]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Close To Me",
+  "id": "7b23c4ff55889416a05a3b061962b13bb55797fc68cceee98a63232f26c4f23c",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 178,
+  "normalizedKey": "the cure|close to me",
+  "playableChords": [
+    "B",
+    "G#m",
+    "F#",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Bridge"
+    },
+    {
+      "measure": 101,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 117,
+      "name": "Chorus"
+    },
+    {
+      "measure": 133,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7b23c4ff55889416a05a3b061962b13bb55797fc68cceee98a63232f26c4f23c",
+    "version": "BCFZ"
+  },
+  "tempo": 186,
+  "title": "Close To Me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

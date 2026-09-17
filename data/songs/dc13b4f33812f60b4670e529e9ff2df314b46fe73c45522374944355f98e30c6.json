@@ -1,0 +1,123 @@
+{
+  "artist": "The Chariot",
+  "artistNormalized": "the chariot",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[Emaj7/G#]\n[C#m/G#]\n[E/G#]\n[Eb/G]\n\n[Verse 1]\n[Emaj7/G#]Lovers Beg your for-\ngiveness right now\n[C#m/G#]Fathers Speak to your\nkids, right now To the\n[E/G#]prince To the king To the\nfathers of the free\n[Eb/G]Beg for your workers And\npray to God for me\n\n[Verse 2]\n[Emaj7/G#]Bleeding hearts Meet\nbleeding crowns\n[B5/F#]Hope is\n[Gdim]only around Right\n[Emaj7/G#]now\n[B5/F#]Prisoners of love, for-\n[Gdim]give them Right\n[Emaj7/G#]now [Emaj7/D#]\n[B5/F#]Prisoners of love, for-\n[Gdim]give them And\n\n[Interlude]\n[Emaj7/G#]speak\n[B5/F#]\n[Gdim]Right\n\n[Outro]\n[Emaj7/G#]now [C#m]\n[E/G#]\n[Emaj7/G#]Now [C#m]\n[E/G#]\n[Emaj7/G#]Now [C#m]\n[E/G#]  [F#]\n[Emaj7/G#]  [C#m]\n[E/G#]\n[Eb/G]",
+  "diagrams": {
+    "B5/F#": {
+      "catalog": [
+        "x002xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "02200x",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "C#m/G#": {
+      "catalog": [
+        "x2200x"
+      ],
+      "catalogCount": 1
+    },
+    "E/G#": {
+      "catalog": [
+        "x2000x"
+      ],
+      "catalogCount": 1
+    },
+    "Eb/G": {
+      "catalog": [
+        "6443xx"
+      ],
+      "catalogCount": 1
+    },
+    "Emaj7/D#": {
+      "catalog": [
+        "22400x"
+      ],
+      "catalogCount": 1
+    },
+    "Emaj7/G#": {
+      "catalog": [
+        "x2400x"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "x0222x",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "Gdim": {
+      "catalog": [
+        "x1232x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Speak",
+  "id": "dc13b4f33812f60b4670e529e9ff2df314b46fe73c45522374944355f98e30c6",
+  "key": "G♯",
+  "keyIdentified": true,
+  "lyricEventCount": 78,
+  "normalizedKey": "the chariot|speak",
+  "playableChords": [
+    "Emaj7/G#",
+    "C#m/G#",
+    "E/G#",
+    "Eb/G",
+    "B5/F#",
+    "Gdim",
+    "Emaj7/D#",
+    "C#m",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dc13b4f33812f60b4670e529e9ff2df314b46fe73c45522374944355f98e30c6",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "Speak",
+  "tuning": "C# F# B E G# C#",
+  "variantRole": "primary"
+}

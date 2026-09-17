@@ -1,0 +1,104 @@
+{
+  "artist": "The Rolling Stones",
+  "artistNormalized": "the rolling stones",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\nI\n\n[Verse 1]\n[G]met a ginsoaked bar-\nroom queen in Memphis.\n[C]\nShe\n[G]tried to take me up-\n[A]stairs for a ride.\n[D]\nShe\n[G]had to heave me right\nacross her shoul-\n[C]der.\n'Cause I just\n[G]can't seem to\n[D]drink you off my mind.\n[G]\nIt's the hon-\n\n[Chorus]\n[G]\n[D]ky tonk\n[G]women,\nThat\n[G]gimme, gimme,\n[D]gimme the honky tonk\n[G]blues.\n[G]I\n\n[Verse 2]\n[G]laid a divorcee\nin New York Ci-\n[C]ty.\nI\n[G]had to pull out of some\n[A]kind of a fight.\n[D]\nThe\n[G]lady, then she co-\nvered me with ro-\n[C]ses.\nShe\n[G]blew my nose and\n[D]then she blew my mind.\n[G]Hey!\nYeah! It's the\n\n[Chorus]\n[G]Hon-\n[D]ky tonk\n[G]women\nThat\n[G]gimme, gimme,\n[D]gimme the honky tonk\n[G]blues. Yeah, al-\nright!\n\n[Solo]\n[G]\n[C]\n[G]\n[A]\n[D]\n[G]\n[C]\n[G]\n[D]\n[G]\nIt's the hon-\n\n[Chorus]\n[G]\n[D]ky tonk\n[G]women,\nThat\n[G]gimme, gimme,\n[D]gimme the honky tonk\n[G]blues.\nIt's the hon-\n[G]\n[D]ky tonk\n[G]women,\nThat\n[G]gimme, gimme,\n[D]gimme the honky tonk\n[G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Honky Tonk Women *alt",
+  "id": "92b49c4489e835895b9fcba812a1f1545c6dd162f839da17f1f669b785697b6b",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 166,
+  "normalizedKey": "the rolling stones|honky tonk women",
+  "playableChords": [
+    "G",
+    "C",
+    "A",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "92b49c4489e835895b9fcba812a1f1545c6dd162f839da17f1f669b785697b6b",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Honky Tonk Women",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

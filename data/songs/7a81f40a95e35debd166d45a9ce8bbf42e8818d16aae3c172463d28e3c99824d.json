@@ -1,0 +1,89 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[D]  [G]\n[A]\n[D]  [G]\n[A]\n\n[Verse 1]\n[D][G]Shake\nit up baby [A]\n[D][G]twist\nand shout [A]\n[D][G]come\non baby [A]\n[D][G]working\non out [A]ooohhh\n[D][G]working\non out [A]\n[D][G]look\nso good [A]\n[D][G]got\nme going [A]\n[D]like I knew [G]\n[A]\n\n[Verse 2]\n[D][G]Shake\nit up baby [A]\n[D][G]twist\nand shout [A]\n[D][G]come\non baby [A]\n[D][G]working\non out [A]ooohhh\n[D][G]twist\nlittle girl [A]\n[D][G]twist\nso fine [A]\n[D][G]twist\n[A]\n[D]let me know you're [G]\n[A]mine ooohhh\n\n[Bridge]\n[A]\n[D]  [G]\n\n[Verse 3]\nit up baby [A]\n[D][G]twist\nand shout [A]\n[D][G]come\non baby [A]\n[D][G]working\non out [A]ooohhh\n[D][G]twist\nlittle girl [A]\n[D][G]twist\nso fine [A]\n[D][G]twist\na little closer [A]\n[D]let me know you're [G]\n\n[Ending]\n[A]mine ooohhh\n[D][G]shake\nit up baby [A]\n[D][G]shake\nit up baby [A]\n[D][G]shake\nit up baby [A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Twist And Shout",
+  "id": "7a81f40a95e35debd166d45a9ce8bbf42e8818d16aae3c172463d28e3c99824d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 54,
+  "normalizedKey": "the beatles|twist and shout",
+  "playableChords": [
+    "D",
+    "G",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 66,
+      "name": "Ending"
+    }
+  ],
+  "source": {
+    "format": "gp3",
+    "sha256": "7a81f40a95e35debd166d45a9ce8bbf42e8818d16aae3c172463d28e3c99824d",
+    "version": "FICHIER GUITAR PRO v3.00"
+  },
+  "tempo": 130,
+  "title": "Twist And Shout",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

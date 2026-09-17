@@ -1,0 +1,185 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 43,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[Am]\n\n[Verse 1]\n[Am]Let's all get up and dance\n[F7M]to a song That was a\n[A7]hit before your\n[Dm]mother was born\n[G]Though she was born a long,\n[C]long time [C/B]ago\n[A7]Your mother should know\n\n[Chorus]\n[D7]\n[G7]Your mother should know\n[C]\n[E7]Sing it again\n\n[Verse 2]\n[Am]Let's all get up and dance\n[F7M]to a song That was a\n[A7]hit before your\n[Dm]mother was born\n[G]Though she was born a long,\n[C]long time [C/B]ago\n[A7]Your mother should know\n\n[Chorus]\n[D7]\n[G7]Your mother should know\n[C]\n\n[Interlude]\n[E7]\n[Am]\n[F7M]\n[F7M/G]\n[C]\n[E7]\n\n[Verse 3]\n[Am]Lift up your hearts and sing\n[F7M]me a song That was a\n[A7]hit before your\n[Dm]mother was born\n[G]Though she was born a long,\n[C]long time [C/B]ago\n[A7]Your mother should know\n\n[Chorus]\n[D7]\n[G7]Your mother should know\n[C]\n[A7]Your mother should know\n[D7]\n[G7]Your mother should know\n[C]\n\n[Interlude]\n[E7]\n[Am]\n[F7M]\n[F7M/G]\n[C]\n[E7]Sing it again\n\n[Verse 5]\n[Am]Da da da da...\n[F7M]\n[A7]\n[Dm]\n[G]Though she was born a long,\n[C]long time [C/B]ago\n[A7]Your mother should know\n\n[Chorus]\n[D7]\n[G7]Your mother should know\n[C]\n[A7]Your mother should know\n[D7]\n[G7]Your mother should know\n[C]\n[A7]Your mother should know\n[D7]\n[G7]Your mother should know\n[C]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/B": {
+      "catalog": [
+        "x22010"
+      ],
+      "catalogCount": 1
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F7M": {
+      "catalog": [
+        "133210"
+      ],
+      "catalogCount": 1
+    },
+    "F7M/G": {
+      "catalog": [
+        "333210"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Your Mother Should Know *alt",
+  "id": "5d978f04100709efdc0059acd7c56d91a74adb170273faa6a5472076c46a4243",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 182,
+  "normalizedKey": "the beatles|your mother should know",
+  "playableChords": [
+    "Am",
+    "F7M",
+    "A7",
+    "Dm",
+    "G",
+    "C",
+    "C/B",
+    "D7",
+    "G7",
+    "E7",
+    "F7M/G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Interlude"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5d978f04100709efdc0059acd7c56d91a74adb170273faa6a5472076c46a4243",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Your Mother Should Know",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

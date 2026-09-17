@@ -1,0 +1,131 @@
+{
+  "artist": "The National",
+  "artistNormalized": "the national",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F]\n[Am]\n[G]\n[F]\n[Am]\n[G]Today\n\n[Verse 1]\n[F]\n[Am]\n[G]You were far away\n[F]\n[Am]\n[G]And I\n[F]\n[Am]\n[G]Didn't ask you \"Why?\"\n\n[Pre-Chorus]\n[C]\n[Em]\nWhat could I\n[F]say?\n[G]\nI was far a-\n[F]way\n[Am]\n[G]You just walked a-\n[F]way\n[Am]\nAnd I\n[G]just watched you\n[F]\n[Am]\n[G]What could I\n\n[Chorus]\n[C]say?\n[Em]\nHow close am\n[F]I\n[G]To lo-\nsing you?\n\n[Bridge]\n[F]\n[Am]\n[G]Tonight\n\n[Verse 2]\n[F]\n[Am]\n[G]You just close your\n[F]eyes\n[Am]\nAnd I\n[G]just watch you\n[F]\n[Am]\n[G]Slip away\n\n[Chorus]\n[C]\n[Em]\nHow close am\n[F]I\n[G]To lo-\nsing you?\n\n[Bridge]\n[F]\n[Am]\n[G]\n[F]\n[Am]\n[G]\n\n[Verse 3]\n[F]Hey\n[Am]Are you awake?\nYeah, I'm right here\n[G]Well, can I ask\n[F]you\n[Am]\n[G]About today?\n\n[Chorus]\n[C]\n[Em]\nHow close am\n[F]I\n[G]To lo-\nsing you?\n[C]\n[Em]\nHow close am\n[F]I\n[G]To lo-\nsing\n\n[Outro]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "About Today",
+  "id": "fc286aa1672ff905746ec684fb5f75cf3c80227660b3c9a4913370ea55f23429",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 98,
+  "normalizedKey": "the national|about today",
+  "playableChords": [
+    "F",
+    "Am",
+    "G",
+    "C",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus"
+    },
+    {
+      "measure": 105,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fc286aa1672ff905746ec684fb5f75cf3c80227660b3c9a4913370ea55f23429",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "About Today",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,105 @@
+{
+  "artist": "The Cranberries",
+  "artistNormalized": "the cranberries",
+  "capo": "3",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Em]  [C]\n[G6]\n[Em]  [C]\n[G6]\n[Em]  [C]\n[G6]\n[Em]  [C]\n[G6]\n\n[Verse 1]\n[Em]To [C]all those\n[G6]people doin' lines\n[Em]Don't [C]do it,\n[G6]don't do it\n[C][Em]Inject your\n[G6]soul with liberty\n[Em]It's free, [C]it's free\n[G6]\n[Em]To all [C]the kids\n[G6]with heroin eyes\n[Em]Don't [C]do it,\n[G6]don't do Because it's\n[Em]not, not [C]what it seems\n[G6]No, no, it's\n[Em]not, not [C]what it seems\n[G6]Sal-\n\n[Chorus]\n[Em]vation, [C]sal-\n[G6]vation, sal-\n[Em]vation [C]is free\n[G6]Sal-\n[Em]vation, [C]sal-\n[G6]vation, sal-\n[Em]vation [C]is free\n[G6]\n\n[Bridge]\n[Em]  [C]\n[G6]\n[Em]  [C]\n[G6]\n[Em]  [C]\n[G6]\n[Em]  [C]\n\n[Interlude]\n[G6]\n[Em]  [C]\n[G6]\n[Em]  [C]\n[G6]\n[Em]  [C]\n[G6]\n[Em]  [C]\n[G6]\n\n[Verse 2]\n[Em]To all [C]the pa-\n[G6]rents with sleepless\n[Em]nights [C]Sleepless\n[G6]nights\n[Em]Tie your [C]kids home\n[G6]to their beds\n[Em][C]Clean their\n[G6]heads\n[Em]To all [C]the kids\n[G6]with heroin eyes\n[Em]Don't [C]do it,\n[G6]don't do Because it's\n[Em]not, not [C]what it seems\n[G6]No, no, it's\n[Em]not, not [C]what it seems\n[G6]Sal-\n\n[Chorus]\n[Em]vation, [C]sal-\n[G6]vation, sal-\n[Em]vation [C]is free\n[G6]Sal-\n[Em]vation, [C]sal-\n[G6]vation, sal-\n[Em]vation [C]is free\n[G6]\n\n[Bridge]\n[Em]  [C]\n[G6]\n[Em]  [C]\n[G6]\n[Em]  [C]\n[G6]\n[Em]  [C]\n[G6]Sal-\n\n[Chorus]\n[Em]vation, [C]sal-\n[G6]vation, sal-\n[Em]vation [C]is free\n[G6]Sal-\n[Em]vation, [C]sal-\n[G6]vation, sal-\n[Em]vation [C]is free\n[G6]\n\n[Bridge]\n[Em]  [C]\n[G6]\n[Em]  [C]\n[G6]\n[Em]  [C]\n[G6]\n[Em]  [C]\n\n[Outro]\n[G6]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Salvation *alt",
+  "id": "3ac94e184b1856d162f3dd133a022f21df8c409e0d31c8ff548405094eca1f36",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 173,
+  "normalizedKey": "the cranberries|salvation",
+  "playableChords": [
+    "Em",
+    "C",
+    "G6"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Bridge"
+    },
+    {
+      "measure": 83,
+      "name": "Chorus"
+    },
+    {
+      "measure": 91,
+      "name": "Bridge"
+    },
+    {
+      "measure": 98,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3ac94e184b1856d162f3dd133a022f21df8c409e0d31c8ff548405094eca1f36",
+    "version": "BCFZ"
+  },
+  "tempo": 169,
+  "title": "Salvation",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,137 @@
+{
+  "artist": "The Last Shadow Puppets",
+  "artistNormalized": "the last shadow puppets",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Gm]\n\n[Verse 1]\n[Gm]Hot pro-\ncession\nGloomy\nConga of\n[Am]glum look-\ning beau-\nties\n[Cm]Strolling\nthrough the opening\nscene\n[Gm]\n[Gm]Where’d you\nwant it?\nIt’s your\ndecision honey,\n[Am]my pla-\nnets or\nyours?\n[Cm]Secto-\nral hetero-\nchromia\n[Gm]\n\n[Chorus]\n[Gm]Avia\ntion in the even\ning I can feel\nit coming on\n[D#maj7]Mama told\nme you should start\nas you\nmean To go\n[Cm]wrong\nOr\nelse you’re never gonna\nget it right\n[Gm]\n\n[Verse 2]\n[Gm]Señori\nta\nWell you\nneed not come\n[Am]coke head\nclose to\nme\n[Cm]'Cause\nI can hear you\nperfectly clear\nfrom\n[Gm]here\n\n[Chorus]\n[Gm]Avia\ntion in the even\ning I can feel\nit coming on\n[Am]Mama told\nme you should start\nas you\nmean To go\n[Cm]wrong\nOr\nelse you’re never gonna\nget it right\n[Gm]\n[Gm]Elemen-\ntary hallelu-\njahs Annalis-\ne’s dulcet tone\n[D#maj7]Avia-\ntion in the even-\ning I just\ncan’t leave it a-\n[Cm]lone\nI\nreckon I just might have\nbroke the ice\n[Gm]\n\n[Interlude]\n[Eb]The\nColourama in\n[D7]your eyes\n[Gm]It\ntakes me on a\n[Cm]moonlight drive\n[Eb]It’s the\nway you wing it\n[Bb]While you’re\nfiguring it\n[D7]out\n\n[Strings Solo]\n[Eb]\n[D7]\n[Gm]\n[Cm]\n[Eb]\n[Bb]\n[Cm]\n[D7]\n\n[Outro]\n[Gm]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "688766",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "D#maj7": {
+      "catalog": [
+        "xx1333"
+      ],
+      "catalogCount": 1
+    },
+    "D7": {
+      "catalog": [
+        "x57575",
+        "x-x-0-2-1-2",
+        "x-5-4-5-3-2",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Aviation",
+  "id": "ab11a891c096a547acd23220b6400a1df39234a85509dc02cc9c04bb9a027e6a",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 212,
+  "normalizedKey": "the last shadow puppets|aviation",
+  "playableChords": [
+    "Gm",
+    "Am",
+    "Cm",
+    "D#maj7",
+    "Eb",
+    "D7",
+    "Bb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 74,
+      "name": "Chorus"
+    },
+    {
+      "measure": 106,
+      "name": "Interlude"
+    },
+    {
+      "measure": 122,
+      "name": "Strings Solo"
+    },
+    {
+      "measure": 142,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ab11a891c096a547acd23220b6400a1df39234a85509dc02cc9c04bb9a027e6a",
+    "version": "BCFZ"
+  },
+  "tempo": 173,
+  "title": "Aviation",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

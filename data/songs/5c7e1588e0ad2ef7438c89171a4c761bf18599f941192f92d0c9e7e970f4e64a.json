@@ -1,0 +1,179 @@
+{
+  "artist": "The Fall Of Troy",
+  "artistNormalized": "the fall of troy",
+  "capo": "No capo",
+  "chordPositionCount": 45,
+  "chordSymbolCount": 13,
+  "content": "[Intro 1]\n\n[Intro 2]\n[Emaj7]\n[Cmaj7]\n[A#maj7]  [G#maj7]  [Gmaj7]  [Fmaj7]\n[Emaj7]\n[Cmaj7]\n[A#maj7]  [G#maj7]  [Gmaj7]  [Fmaj7]\n\n[Verse]\n[Em]In\n[C]all the time we'd\n[G]waste, We\n[A#5]run, we [C5]cannot\n[Em]stay. It\n[C]faded all a-\n[G]way...\n[A#5]  [C5]\n\n[Chorus]\n[Emaj7]Cocaine! Bloodstained!\nChocking on the back of her\n[Cmaj7]throat.\n[A#maj7]Have [G#maj7]you [Gmaj7]gone [Fmaj7]in-\n[Emaj7]sane? This line is another\nway out!\n[Cmaj7]\n[A#maj7]  [G#maj7]  [Gmaj7]  [Fmaj7]\n\n[Bridge]\n\n[Outro]\n[Em]\n[D]\n[C]\n[Bsus4]\n[A#maj7]  [G#maj7]  [Gmaj7]  [Fmaj7]\n[Emaj7]",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "x133xx"
+      ],
+      "catalogCount": 1
+    },
+    "A#maj7": {
+      "catalog": [
+        "6577xx"
+      ],
+      "catalogCount": 1
+    },
+    "Bsus4": {
+      "catalog": [
+        "x2445x"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x35453",
+        "x-3-2-0-0-0",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Emaj7": {
+      "catalog": [
+        "021100",
+        "x-x-2-4-4-4",
+        "x-7-6-4-4-4",
+        "x-7-9-8-9-7",
+        "12-11-9-9-9-11"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "1022xx",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G#maj7": {
+      "catalog": [
+        "4355xx"
+      ],
+      "catalogCount": 1
+    },
+    "Gmaj7": {
+      "catalog": [
+        "3244xx",
+        "3-2-0-0-0-2",
+        "3-5-4-4-3-3",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Spartacus",
+  "id": "5c7e1588e0ad2ef7438c89171a4c761bf18599f941192f92d0c9e7e970f4e64a",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 43,
+  "normalizedKey": "the fall of troy|spartacus",
+  "playableChords": [
+    "Emaj7",
+    "Cmaj7",
+    "A#maj7",
+    "G#maj7",
+    "Gmaj7",
+    "Fmaj7",
+    "Em",
+    "C",
+    "G",
+    "A#5",
+    "C5",
+    "D",
+    "Bsus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 9,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 17,
+      "name": "Verse"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 37,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5c7e1588e0ad2ef7438c89171a4c761bf18599f941192f92d0c9e7e970f4e64a",
+    "version": "BCFZ"
+  },
+  "tempo": 111,
+  "title": "Spartacus",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

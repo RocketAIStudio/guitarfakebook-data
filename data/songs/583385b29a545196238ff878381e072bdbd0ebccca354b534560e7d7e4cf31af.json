@@ -1,0 +1,124 @@
+{
+  "artist": "The Black Keys",
+  "artistNormalized": "the black keys",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n\n[Verse 1]\n[Am]Out on a limb in the\nWind of a [C][D]hurricane\n[Am]\n[D]  [C]\n[Am]Down at the bar like A\nstar in the [D]howlin' [C]rain\n[Am]\n[D]  [C]\n\n[Pre-Chorus]\n[Am]Nobody to lo-\nve you [D][C]\n[Am]Nobody to ca-\nre [D]If [C]you die,\n[Am]Nobody will hug\nyou [D][C]\n[Am]No one to answer Your pra-\nyer [D]You [C]get lo-\n\n[Chorus]\n[Am]w, Low\n[G]like a [Am]valley Then hi-\ngh, high Like a\n[G]bird in the [Am]sky You get lo-\nw, low\n[G]'Cause you're [Am]angry\nLow, high,\n[G]high, [Am]low\n\n[Pre-Verse]\n[Am]\n[D]  [C]\n[Am]\n[D]  [C]\n\n[Verse 2]\n[Am]One at a time, get in\nLine for the [C][D]masquerade\n[Am]\n[D]  [C]\n[Am]Drink 'til you cry And you're\nlyin' in The [D]mess you [C]made\n[Am]\n[D]  [C]\n\n[Pre-Chorus]\n[Am]Nobody to lo-\nve you [D][C]\n[Am]Nobody to ca-\nre [D]If [C]you die,\n[Am]Nobody will hug\nyou [D][C]\n[Am]No one to answer Your pra-\nyer [D]You [C]get lo-\n\n[Chorus]\n[Am]w, Low\n[G]like a [Am]valley Then hi-\ngh, high Like a\n[G]bird in the [Am]sky You get lo-\nw, low\n[G]'Cause you're [Am]angry\nLow, high,\n[G]high, [Am]low\n\n[Solo]\n[Am]\n[G]  [Am]\n[G]  [Am]\n[G]  [Am]\n[G]  [Am]\n\n[Interlude]\n[Am]\nYou get lo-\n\n[Chorus]\n[Am]w, Low\n[G]like a [Am]valley Then hi-\ngh, high Like a\n[G]bird in the [Am]sky You get lo-\nw, low\n[G]'Cause you're [Am]angry\nLow, high,\n[G]high, [Am]low\n\n[Outro]\n[Am]Low, high,\nhigh, [G]low [Am]\nLow, high,\n[G]high, [Am]low",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lo Hi",
+  "id": "583385b29a545196238ff878381e072bdbd0ebccca354b534560e7d7e4cf31af",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 212,
+  "normalizedKey": "the black keys|lo hi",
+  "playableChords": [
+    "Am",
+    "D",
+    "C",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Solo"
+    },
+    {
+      "measure": 70,
+      "name": "Interlude"
+    },
+    {
+      "measure": 78,
+      "name": "Chorus"
+    },
+    {
+      "measure": 86,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "583385b29a545196238ff878381e072bdbd0ebccca354b534560e7d7e4cf31af",
+    "version": "BCFZ"
+  },
+  "tempo": 122,
+  "title": "Lo Hi",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

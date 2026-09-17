@@ -1,0 +1,114 @@
+{
+  "artist": "The Lumineers",
+  "artistNormalized": "the lumineers",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\nIt's a\n\n[Verse 1]\n[F/C]lonely [C]road Full of\n[Am]tired men [C]\nAnd you can [Am]see it in [G]their\n[C]faces And you'll be\n[F/C]home in [C]spring I can\n[Am]wait 'til then [C]\nI [Am]heard you're on [G]the [F/C]big train\n[C]And\n\n[Chorus]\n[F/C]oh, this too shall pass\n[C/G][Cadd11][C/G]This\n[F/C]loneliness won't last\n[C/G]for [G]long hm\n[Am]I wasn't there [G]to [F/C]take his place\n[C]\n[Am]I was ten [G]thousand miles [F/C]away\n[C]So when you\n\n[Verse 2]\n[F/C]hear my [C]voice When you\n[Am]say my name [C]\nMay it [Am]never give [G]you\n[C]pain But I don't\n[F/C]wanna [C]go But it's\n[Am]time to leave [C]\nYou'll be [Am]on my mind, [G]my [F/C]desti-\n[C]ny And\n\n[Chorus]\n[F/C]I won't fight in vain\n[C/G][Cadd11][C/G]I'll\n[F/C]love you just the same,\n[C/G][G]oh\n[Am]I couldn't know [G]what's [F/C]in your mind\n[C]\n[Am]But I saw the [G]pictures, you're [F/C]looking fine\n[C]And there\n\n[Interlude]\n[C]was a time when I stood in line For\n[G]love, for love, for love But I\n[F/C]let you go, oh I let you go\n[C]And he\nfell apart With his broken heart And this\n[G]blood, this blood, this blood Oh, it\n[F/C]drains from my skin, it does\n\n[Outro]\n[C]\n[F/C]  [C]\n[Am]  [C]\n[Am]  [G]\n[C/G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd11": {
+      "catalog": [
+        "x33010"
+      ],
+      "catalogCount": 1
+    },
+    "F/C": {
+      "catalog": [
+        "x33211"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Gale Song",
+  "id": "474862f42160bf3ef69c9e87d1cfbcdb5f8c719688958a417d705e9124a145b7",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 187,
+  "normalizedKey": "the lumineers|gale song",
+  "playableChords": [
+    "C",
+    "F/C",
+    "Am",
+    "G",
+    "C/G",
+    "Cadd11"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Interlude"
+    },
+    {
+      "measure": 43,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "474862f42160bf3ef69c9e87d1cfbcdb5f8c719688958a417d705e9124a145b7",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Gale Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

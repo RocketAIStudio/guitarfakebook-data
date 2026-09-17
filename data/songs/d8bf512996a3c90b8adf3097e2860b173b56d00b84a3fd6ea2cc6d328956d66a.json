@@ -1,0 +1,114 @@
+{
+  "artist": "The Lumineers",
+  "artistNormalized": "the lumineers",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]I don't\nown a\n[Cadd9]single gun\n[G]But\nif I\ndid, you'd\n[Cadd9]be the one\n[G]\nTo hold it, aim it,\nmake all of the\n[Cadd9]bad [D]men run\n[G]But\nI [D/F#]don't\n[Em7]own [Dsus4]a\n[D][Cadd9]single gun\n[G]\n\n[Break]\n[G]\nAnd\n\n[Verse 2]\n[G]I don't\nhave a\n[Cadd9]sweetheart yet\n[G]But\nif I\ndid I'd\n[Cadd9]break my neck\n[G]\nTo please her, make her\nwant to stay in my\n[Cadd9]arms [D]she'd rest\n[G]But\nI [D/F#]don't\n[Em7]have [Dsus4]a\n[D][Cadd9]sweetheart yet\n[G]\n\n[Bridge]\n[G]I can't believe what\nI found in daddy's\nsock drawer, sock drawer to-\nday\nIt was a pistol,\na Smith & Wesson,\nholy, holy shit\nLa la la la la\nla la la la la\nla la la la la\nla\nLa la la la la\nla la la la la\nla la la la la\nla\nLa la la la la\nla la la la la\nla la la la la\nla\nLa la la la la\nla la la la la\nla la la la la\nla\nLa la la la la\nla la la la la\nla la la la la\nla\nLa la la la la\nla la la la la\nla la la la la\nla 1,\n2,\n1, 2,\n3!\n\n[Verse 3]\n[G]Things I knew\nwhen I\n[Cadd9]was young\n[G]\nSome were true\nand some\n[Cadd9]were wrong\n[G]\nAnd one day, I pray,\nI'll be more than my\n[D][Cadd9]father's son\n[G]But\nI [D/F#]don't\n[Em7]own [Dsus4]a\n[D][Cadd9]single gun\n[G]\n\n[Outro]\n[G]La la la la la\nla la la la la\nla la la la la\nla\nLa la la la la\nla la la la la",
+  "diagrams": {
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "2x0232"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus4": {
+      "catalog": [
+        "xx0233"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "022033",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Gun Song",
+  "id": "d8bf512996a3c90b8adf3097e2860b173b56d00b84a3fd6ea2cc6d328956d66a",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 265,
+  "normalizedKey": "the lumineers|gun song",
+  "playableChords": [
+    "G",
+    "Cadd9",
+    "D",
+    "D/F#",
+    "Em7",
+    "Dsus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 28,
+      "name": "Break"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 52,
+      "name": "Bridge"
+    },
+    {
+      "measure": 87,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 104,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d8bf512996a3c90b8adf3097e2860b173b56d00b84a3fd6ea2cc6d328956d66a",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Gun Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

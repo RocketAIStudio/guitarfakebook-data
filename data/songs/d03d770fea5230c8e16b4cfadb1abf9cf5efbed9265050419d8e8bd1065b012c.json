@@ -1,0 +1,100 @@
+{
+  "artist": "The Black Keys",
+  "artistNormalized": "the black keys",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A5]\n[A5]\nHere I\n\n[Verse 1]\n[D5]am, I am...\nI'm not here now, no, no, no\n[A5]\nAnd I'll\n[D5]care for you-\nhey that's all I want to\n[A5]do\n\n[Chorus]\n[E5]Hold me,\n[D5]love me, in your heart\n[A5]\n\n[Main Riff]\n[A5]\n\n[Solo]\n[A5]  [G5]\n[A5]\n[G5]\n[A5]\n[G5]\n[A5]\n[G5]\n[A5]\n[Asus4]And I'll\n\n[Verse 2]\n[D5]hold you near\nand I'll whisper in your ear\n[A5]\nI 'll\n[D5]take your hand\nand I'll make you under-\n[A5]stand\n\n[Chorus]\n[E5]Hold me,\n[D5]love me, in your heart\n[A5]\n\n[Outro]\n[A5]\n[E5]\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx",
+        "577xxx"
+      ],
+      "catalogCount": 2
+    },
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "xx023x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Thickfreakness",
+  "id": "d03d770fea5230c8e16b4cfadb1abf9cf5efbed9265050419d8e8bd1065b012c",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 69,
+  "normalizedKey": "the black keys|thickfreakness",
+  "playableChords": [
+    "A5",
+    "D5",
+    "E5",
+    "G5",
+    "Asus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Main Riff"
+    },
+    {
+      "measure": 30,
+      "name": "Solo"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d03d770fea5230c8e16b4cfadb1abf9cf5efbed9265050419d8e8bd1065b012c",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "Thickfreakness",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

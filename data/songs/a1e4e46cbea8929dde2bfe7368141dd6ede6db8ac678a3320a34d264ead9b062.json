@@ -1,0 +1,103 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\nWhy don't we do it in the ro-\n\n[Verse 1]\n[D]ad?\nWhy don't we do it in the ro-\nad?\n[D7]Why don't we do it in the\n[G]road?\n[G7]Why don't we do it in the ro-\n[D7]ad?\n[A7]No one will be watching us Why\n[G7]don't we do it in the ro-\n[D7]ad?\nWhy don't we do it in the ro-\n\n[Verse 2]\n[D]ad?\nWhy don't we do it in the ro-\nad?\n[D7]Why don't we do it in the\n[G]road?\n[G7]Why don't we do it in the ro-\n[D7]ad?\n[A7]No one will be watching us Why\n[G7]don't we do it in the road?\n[D7]Ooh\nWhy don't we do it in the ro-\n\n[Verse 3]\n[D]ad?\nWhy don't we do it in the\nroad?\n[D7]Why don't we do it, do it in the\n[G]road?\n[G7]Why don't we do it in the\n[D7]road?\nNo\n[A7]one will be watching us\n[G7]Why don't we do it in the road?\n[D7]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Why Don't We Do It In The Road",
+  "id": "a1e4e46cbea8929dde2bfe7368141dd6ede6db8ac678a3320a34d264ead9b062",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 159,
+  "normalizedKey": "the beatles|why don t we do it in the road",
+  "playableChords": [
+    "D",
+    "D7",
+    "G",
+    "G7",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a1e4e46cbea8929dde2bfe7368141dd6ede6db8ac678a3320a34d264ead9b062",
+    "version": "BCFZ"
+  },
+  "tempo": 94,
+  "title": "Why Don't We Do It In The Road",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

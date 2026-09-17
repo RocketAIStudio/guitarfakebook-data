@@ -1,0 +1,159 @@
+{
+  "artist": "The Pretty Reckless",
+  "artistNormalized": "the pretty reckless",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[C#5]\n\n[Verse 1]\n[C#m]Jump into the sun Dear\n[B]boy what are you running from\n[E]Everyone has got to be saved\n[G#]\n[C#m]I have heard a voice If\n[B]it came down to make a choice\n[E]I would be the one who’s replaced\n[G#]\n\n[Chorus]\n[C#5]Ti-\nme keeps rolling on\nI need my\nTi-\nme keeps rolling on\nI need my\nabsolution\n\n[Verse 2]\n[C#m]Run boy be a man With\n[B]legs too weak to make a stand\n[E]We're all crucified in the end\n[G#]\n[C#m]Can you hear a voice De-\n[B]cipher it through all this noise\n[E]You'll be left with nothing again\n[G#]\n\n[Chorus]\n[C#5]Ti-\nme keeps rolling on\nI need my\nTi-\nme keeps rolling on\nI need my\nabsolution\nTi-\nme keeps rolling on\nI need my\nabsolution\nTi-\nme keeps rolling on\nI need my\nabsolution\n\n[Bridge]\n[F#m]\n[C#m]  [C#sus2]\n[C#m]  [C#7/G#]\n[F#m]\n\n[Verse 3]\n[C#m]Jump into the sun Dear\n[B]boy what are you running from The\n[E]answer you will find in your grave\n[G#]\n\n[Chorus]\n[C#5]Ti-\nme keeps rolling on\nI need my\nBut\nti-\nme keeps rolling on\nI need my\nabsolution\nTi-\nme keeps rolling on\nI need my\nabsolution\nTi-\nme keeps rolling on\nI need my\nabsolution\n\n[Solo]\n[C#5]\n\n[Outro]\n[C#m]Boys are\noutside of heaven\n[B]Outside of heaven But\n[E5]I could [D#5]be [C#5]wrong\n[C#m]Boys are\noutside of heaven\n[B]Outside of heaven But\n[E5]I could [D#5]be [C#5]wrong\n[C#m]Boys are\noutside of heaven\n[B]Outside of heaven But\n[E5]I could [D#5]be [C#5]wrong\n[C#5]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x32010",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#5": {
+      "catalog": [
+        "4577xx",
+        "000xxx"
+      ],
+      "catalogCount": 2
+    },
+    "C#7/G#": {
+      "catalog": [
+        "xx7778"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "xx0231",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "C#sus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "x-8-10-10-10-8",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "555333",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "x02220"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Absolution",
+  "id": "04009c8bc164861097920c99c98f10061dfad539f98e201c30bbbf0679f61fe5",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 276,
+  "normalizedKey": "the pretty reckless|absolution",
+  "playableChords": [
+    "C#5",
+    "C#m",
+    "B",
+    "E",
+    "G#",
+    "F#m",
+    "C#sus2",
+    "C#7/G#",
+    "E5",
+    "D#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Solo"
+    },
+    {
+      "measure": 93,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "04009c8bc164861097920c99c98f10061dfad539f98e201c30bbbf0679f61fe5",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "Absolution",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "primary"
+}

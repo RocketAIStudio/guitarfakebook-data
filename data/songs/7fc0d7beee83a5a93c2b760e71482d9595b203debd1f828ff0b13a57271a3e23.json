@@ -1,0 +1,151 @@
+{
+  "artist": "The Cars",
+  "artistNormalized": "the cars",
+  "capo": "No capo",
+  "chordPositionCount": 29,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[B]\n[Bmaj7]\n[B]\n[Bmaj7]\n[B]\n\n[Verse 1]\n[B]Who's gonna tell you when\n[Bmaj7]It's\n[B]too late?\nWho's gonna tell you things\n[Bmaj7]Aren't\n[B]sogreat?\n\n[Chorus]\n[G#m]You can't go on-\n[C#]Thinking\n[G#m]nothing's wrong.-\n[C#]Oh oh.\n[B/F#]Who's gonna drive you home\n[F#6]tonight.\n[B]\n\n[Verse 2]\n[B]Who's gonna pick you up\n[Bmaj7]When\n[B]youfall?\n[B]\nWho's gonna hang it up\n[Bmaj7]When\n[B]youcall?\n[B]\nWho's gonna pay atten-\n[Bmaj7]tion To\n[B]yourdreams?\n[B]\nWho's gonna plug your ears-\n[Bmaj7]When\n[B]youscream?\n[B]\n\n[Chorus]\n[G#m]You can't go on-\n[C#]Tthinking\n[G#m]nothing's wrong.-\n[C#]Oh oh.\n[B/F#]Who's gonna drive you home\n[F#6]tonight.\n\n[Bridge]\n[B]\n[G#m]\n[B]\n[G#m]\n[D#m]\n[E]\n[B/F#]\n[F#]\n\n[Verse 3]\n[B]Who's gonna hold you down\n[Bmaj7]When\n[B]youshake?\n[B]\nWho's gonna come around\n[Bmaj7]When\n[B]youbreak?\n[B]\n\n[Chorus]\n[G#m]You can't go on-\n[C#]Thinking\n[G#m]nothing's wrong.--\n[C#]Oh oh.\n[B/F#]Who's gonna drive you home\n[F#6]tonight.\n[B]Oh,-\n\n[Outro]\n[G#m]you know you can't go on\n[C#]Thinking\n[G#m]nothing's wrong.--\n[C#]\n[B/F#]Who's gonna drive you home\n[F#6]tonight.\n[B]\n[Bmaj7]\n[B]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B/F#": {
+      "catalog": [
+        "224442"
+      ],
+      "catalogCount": 1
+    },
+    "Bmaj7": {
+      "catalog": [
+        "x24342",
+        "7-6-4-4-4-6",
+        "7-9-8-8-7-7",
+        "x-x-9-11-11-11",
+        "x-14-13-11-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "x68876"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#6": {
+      "catalog": [
+        "2x4342"
+      ],
+      "catalogCount": 1
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Drive",
+  "id": "7fc0d7beee83a5a93c2b760e71482d9595b203debd1f828ff0b13a57271a3e23",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 150,
+  "normalizedKey": "the cars|drive",
+  "playableChords": [
+    "B",
+    "Bmaj7",
+    "G#m",
+    "C#",
+    "B/F#",
+    "F#6",
+    "D#m",
+    "E",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Bridge"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7fc0d7beee83a5a93c2b760e71482d9595b203debd1f828ff0b13a57271a3e23",
+    "version": "BCFZ"
+  },
+  "tempo": 84,
+  "title": "Drive",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

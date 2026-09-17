@@ -1,0 +1,119 @@
+{
+  "artist": "The Black Keys",
+  "artistNormalized": "the black keys",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\nIn the\n\n[Verse 1]\n[Eb]summer time [Ab]\n[Gb][Bb]Getting\n[Eb]hot outside [Ab]\n[Gb]The\n[Eb]streets are bare [Ab]There's no\n[Gb]one there [Bb]And the\n[Eb]valley is wide [Ab]\n[Gb]There\n[Eb]comes a time [Ab]\n[Gb][Bb]Two\n[Eb]hearts of gold [Ab]\n[Gb]Live\n[Ab][Eb]together Run\n[Bb][Gb]forever On the\n[Eb]open [Ab]road\n[Gb]They gotta\n\n[Chorus]\n[Eb]go [Gb]\n[Ab]\n[Gb]\n[Eb]They gotta\n[Eb]go [Gb]\n[Ab]\n[Gb]\n[Eb]In the\n\n[Verse 2]\n[Eb]winter time [Ab]\n[Gb][Bb]When the\n[Eb]day is long [Ab]\n[Gb]You're\n[Eb]halfway there [Ab]The field\n[Gb]is bare [Bb]And the\n[Eb]fire is gone [Ab]\n[Gb]Are you\n[Eb]all alone? [Ab]\n[Gb][Bb]Are you\n[Eb]feeling cold? [Ab]\n[Gb]\n[Eb]Find your flame [Ab]Call\n[Gb]her name [Bb]And hit\n[Eb]the [Ab]road\n[Gb]They gotta\n\n[Chorus]\n[Eb]go [Gb]\n[Ab]\n[Gb]\n[Eb]They gotta\n[Eb]go [Gb]\n[Ab]\n[Gb]\n[Eb]\n\n[Guitar Solo]\n[Eb]\n[Gb]\n[G5]\n[Eb]  [Gb]\n[Ab]\n[Gb]\n[Eb]\n[Eb]  [Gb]\n[Ab]\n[Gb]\n[Eb]\n\n[Bridge]\n[Eb]  [Gb]\n[Ab]\n[Eb]\n[Eb]  [Gb]\n[Ab]\n[Eb]They gotta\n\n[Chorus]\n[Eb]go [Gb]\n[Ab]\n[Gb]\n[Eb]They gotta\n[Eb]go [Gb]\n[Ab]\n[Gb]\n[Eb]They gotta\n[Eb]go [Gb]\n[Ab]\n[Gb]\n[Eb]They gotta\n[Eb]go [Gb]\n[Ab]\n[Gb]\n[Eb]They gotta\n\n[Outro (Fade Out)]\n[Eb]go [Gb]\n[Ab]\n[Gb]\n[Eb]They gotta\n[Eb]go [Gb]\n[Ab]\n[Gb]\n[Eb]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x02220",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x24442",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "022100",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gb": {
+      "catalog": [
+        "320033",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Go",
+  "id": "95994845aa9ad19f9a75698c149b31e757bcda5f4f66d0808b068a42408bc523",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 129,
+  "normalizedKey": "the black keys|go",
+  "playableChords": [
+    "Eb",
+    "Ab",
+    "Gb",
+    "Bb",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 63,
+      "name": "Bridge"
+    },
+    {
+      "measure": 71,
+      "name": "Chorus"
+    },
+    {
+      "measure": 87,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "95994845aa9ad19f9a75698c149b31e757bcda5f4f66d0808b068a42408bc523",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Go",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

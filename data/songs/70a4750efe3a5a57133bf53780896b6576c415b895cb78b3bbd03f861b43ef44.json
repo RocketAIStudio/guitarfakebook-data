@@ -1,0 +1,89 @@
+{
+  "artist": "The Byrds",
+  "artistNormalized": "the byrds",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[D]\n[A]\n[D]\n[A]\n\n[Chorus]\n[G]Hey, Mister Tam-\n[A]bourine Man,\n[D]play a song for me\n[G]I'm not slee-\n[D]py and there\n[G]ain't no place I'm\n[A]goin' to\n[G]Hey, Mister Tam-\n[A]bourine Man,\n[D]play a song for me\n[G]In the jin-\n[D]gle jangle\n[G]morning, I'll come\n[A]followin'\n[D]you\n\n[Verse 1]\n[G]Take me for a\n[A]trip upon Your\n[D]magic swirlin' ship\n[G]All my sen-\n[D]ses have been stripped\n[G]And my hands\n[D]can't feel to\n[G]grip And my toes\n[D]too numb to step\n[G]Wait o-\n[D]nly for my\n[G]boot heels to be\n[A]wanderin'\nI'm\n\n[Verse 2]\n[G]ready to go\n[A]anywhere, I'm\n[D]ready for to\n[G]fade Unto\n[D]my own parade\n[G]Cast your dan-\n[D]cing spell my way\n[G]I\npromise to go\n[A]under it\n\n[Chorus]\n[G]Hey, Mister Tam-\n[A]bourine Man,\n[D]play a song for me\n[G]I'm not slee-\n[D]py and there\n[G]ain't no place I'm\n[A]goin' to\n[G]Hey, Mister Tam-\n[A]bourine Man,\n[D]play a song for me\n[G]In the jin-\n[D]gle jangle\n[G]morning I'll come\n[A]followin'\n\n[Outro]\n[D]you\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mr. Tambourine Man",
+  "id": "70a4750efe3a5a57133bf53780896b6576c415b895cb78b3bbd03f861b43ef44",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 183,
+  "normalizedKey": "the byrds|mr tambourine man",
+  "playableChords": [
+    "D",
+    "A",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "70a4750efe3a5a57133bf53780896b6576c415b895cb78b3bbd03f861b43ef44",
+    "version": "BCFZ"
+  },
+  "tempo": 123,
+  "title": "Mr. Tambourine Man",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

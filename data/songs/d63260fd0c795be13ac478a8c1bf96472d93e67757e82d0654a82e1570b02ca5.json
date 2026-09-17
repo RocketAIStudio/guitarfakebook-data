@@ -1,0 +1,104 @@
+{
+  "artist": "The Everly Brothers",
+  "artistNormalized": "the everly brothers",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "I\n\n[Chorus]\n[A]wonder\nif I\ncare as\nmuch\nAs I\n[E]did be-\n[A]fore...\n[F#m]\n[A]\n[F#m]Last\n\n[Verse 1]\n[A]night I cried my-\n[F#m]self to sleep\n[A]For the one that\n[F#m]makes me weep I\n[A]dried my eyes to\n[F#m]greet the day, And\n[D]wondered why I\n[E]had to pay\n[A]\n[F#m]The\n\n[Verse 2]\n[A]tears that I have\n[F#m]shed by day\n[A]Give relief and\n[F#m]wash away The\n[A]memory of the\n[F#m]night before I\n[D]wonder if I'll\n[E]suffer more\n[A]\n[F#m]I\n\n[Chorus]\n[A]wonder\nif I\ncare as\nmuch\nAs I\n[E]did be-\n[A]fore...\n[F#m]\n[A]\n[F#m]My\n\n[Verse 3]\n[A]pride is made to\n[F#m]say forgive, And\n[A]take the blame for\n[F#m]what you did, It's\n[A]your mistakes I'm\n[F#m]thinkin' of, I\n[D]wonder if I'm\n[E]still in love.\n[A]\n[F#m]My\n\n[Verse 4]\n[A]heart can't thrive on\n[F#m]misery, My\n[A]life it has no\n[F#m]destiny, When\n[A]things get more Than\n[F#m]I can bear, I\n[D]ask myself \"Do\n[E]I still care?\"\n[A]\n[F#m]I\n\n[Chorus]\n[A]wonder\nif I\ncare as\nmuch\nAs I\n[E]did be-\n[A]fore...\n[F#m]\n[A]\n[F#m]\n[A]\n[F#m]\n[A]\n[F#m]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Wonder If I Care As Much",
+  "id": "d63260fd0c795be13ac478a8c1bf96472d93e67757e82d0654a82e1570b02ca5",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 165,
+  "normalizedKey": "the everly brothers|i wonder if i care as much",
+  "playableChords": [
+    "A",
+    "E",
+    "F#m",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 56,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d63260fd0c795be13ac478a8c1bf96472d93e67757e82d0654a82e1570b02ca5",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "I Wonder If I Care As Much",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

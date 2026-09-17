@@ -1,0 +1,85 @@
+{
+  "artist": "The Strokes",
+  "artistNormalized": "the strokes",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[Verse 1]\n[F]Can't you see I'm\ntrying? I don't even\n[A#]like it I just\nlied to get to your ap-\n[F]artment Now I'm\nstaying where just for a-\n[A#]while I can't\nthink cause I'm just way too\n\n[Chorus]\n[F]tired\nIs this\n[C]it?\nIs this it?\n[F]\nIs this\n[C]it?\n\n[Verse 2]\n[F]Said they'd give you\nany thing you ever\n[A#]wanted When they\nlied, I knew it was just\n[F]stable Children\ntrying hard not to re-\n[A#]alize I was\nsitting right behind you\n\n[Bridge]\n[C]Dear can't you see? It's\nthem, it's not me We're\n[F]not enemies , we\njust disagree If\n[C]I was like him, all\ndissing his pa He\n[F]changes his mind, says\nI went too far We\n[C]all disagree I guess we\nshould disagree Yaa\n\n[Chorus]\n[F]\nIs this\n[C]it?\nIs this it?\n[F]\nIs this\n[C]it?\n\n[Outro]\n[F]\nCan't you see I'm\ntrying? I don't even\n[A#]like it I just\nlied to get to your a-\n[F]partment Now I'm\nstaying there just for a-\n[A#]while I can't\nthink, cause I'm just way too\ntired",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "688766"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Is This It *alt 3",
+  "id": "e70a76b5e65c2abe0ec0871467ef25620a12a4c355632241b4b857de11e5794e",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 194,
+  "normalizedKey": "the strokes|is this it",
+  "playableChords": [
+    "F",
+    "A#",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 27,
+      "name": "Bridge"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e70a76b5e65c2abe0ec0871467ef25620a12a4c355632241b4b857de11e5794e",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Is This It",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

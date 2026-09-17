@@ -1,0 +1,85 @@
+{
+  "artist": "The Rolling Stones",
+  "artistNormalized": "the rolling stones",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[C]I am the little red rooster\nToo lazy to crow for day\n[G]\n[C]I am the little red rooster\nToo lazy to crow for day\n[G]\n[D]Keep everything in the farm yard\n[C]upset in every way\n[G]\n\n[Verse 2]\n[C]The dogs begin to barkin\nhounds begin to howl\n[G]\n[C]Dogs begin to barkin\nhounds begin to howl\n[G]\n[D]Watch out strange kin people\n[C]Little red rooster's on the prowl\n[G]\n\n[Verse 3]\n[G]If you see my little red [C]rooster\nPlease drive him home\n[G]\n[C]If you see my little red rooster\nPlease drive him home\n[G]\n[D]Ain't had no peace in the farm yard\n[C]Since my little red rooster's been gone\n[G]\n\n[Harp Solo / Outro]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x55555",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx6777",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "x00000",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Little Red Rooster",
+  "id": "adc53b6cec5f1772b4eeac500a4362c6759e0bf40d3a924a81381e11a0a58ce8",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 124,
+  "normalizedKey": "the rolling stones|little red rooster",
+  "playableChords": [
+    "G",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 46,
+      "name": "Harp Solo / Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "adc53b6cec5f1772b4eeac500a4362c6759e0bf40d3a924a81381e11a0a58ce8",
+    "version": "BCFZ"
+  },
+  "tempo": 74,
+  "title": "Little Red Rooster",
+  "tuning": "D G D G B D",
+  "variantRole": "primary"
+}

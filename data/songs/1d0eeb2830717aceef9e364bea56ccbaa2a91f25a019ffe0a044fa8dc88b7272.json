@@ -1,0 +1,101 @@
+{
+  "artist": "The Misfits",
+  "artistNormalized": "the misfits",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E5]\n\n[Verse 1]\n[A5]Bonfires burning bright\n[C5]Pumpkin faces in the night\n[F5]I [G5]remember Halloween\n[A5]Dead cats hanging from poles\n[C5]Little dead are out in droves\n[F5]I [G5]remember Halloween\n[A5]\n\n[Verse 2]\n[A5]Brown leafed vertigo\n[C5]Where skeletal life is known\n[F5]I [G5]remember Halloween\n[A5]This day, anything goes\n[C5]Burning bodies hang from poles\n[F5]I [G5]remember Halloween\n[A5]\n[A5]\n\n[Bridge]\n[E5]  [F5]  [E5]  [F5]\n[E5]  [F5]  [E5]  [F5]\n[A5]\n[E5]  [F5]  [E5]  [F5]\n[E5][F5][E5][F5]Hallo-\n\n[Chorus]\n[A5]ween Hallo-\n[G5]ween Hallo-\n[A5]ween Hallo-\n[G5]ween\n\n[Verse 3]\n[A5]Candy apples and razor blades\n[C5]Little dead are soon in graves\n[F5]I [G5]remember Halloween\n[A5]This day, anything goes\n[C5]Burning bodies hang from poles\n[F5]I [G5]remember hallo-\n[A5]ween Hallo-\n\n[Chorus]\n[G5]ween Hallo-\n[A5]ween Hallo-\n[G5]ween Hallo-\n[A5]ween Hallo-\n[G5]ween Hallo-\n[A5]ween Hallo-\n[G5]ween Hallo-\n\n[Outro]\n[A5]ween Hallo-\nween Hallo-\nween",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "57xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-x-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "02xxxx",
+        "x799xx"
+      ],
+      "catalogCount": 2
+    },
+    "F5": {
+      "catalog": [
+        "13xxxx",
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "35xxxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Halloween",
+  "id": "1d0eeb2830717aceef9e364bea56ccbaa2a91f25a019ffe0a044fa8dc88b7272",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 163,
+  "normalizedKey": "the misfits|halloween",
+  "playableChords": [
+    "E5",
+    "A5",
+    "C5",
+    "F5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 20,
+      "name": "Bridge"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1d0eeb2830717aceef9e364bea56ccbaa2a91f25a019ffe0a044fa8dc88b7272",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Halloween",
+  "tuning": "B E A D G B E",
+  "variantRole": "primary"
+}

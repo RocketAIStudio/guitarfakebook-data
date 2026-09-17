@@ -1,0 +1,77 @@
+{
+  "artist": "The Presidents Of The United States Of America",
+  "artistNormalized": "the presidents of the united states of america",
+  "capo": "No capo",
+  "chordPositionCount": 3,
+  "chordSymbolCount": 3,
+  "content": "[C#5]  [F#5]\n[B5]  [F#5]\nthey say : \" miaaaaow .....    miaaaaow  ......   \netc ..........\n\n[Verse 1]\n\n[Chorus 1]\n\n[Verse 2]\n\n[Chorus 2]\n\n[tempo = 160]\n\n[riff end]",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Kitty",
+  "id": "e441f17a1850f27984e112b74d42b16ede4ac20b275fbd1036fee7fb0d95ebf4",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 2,
+  "normalizedKey": "the presidents of the united states of america|kitty",
+  "playableChords": [
+    "C#5",
+    "F#5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus 1"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus 2"
+    },
+    {
+      "measure": 57,
+      "name": "tempo = 160"
+    },
+    {
+      "measure": 65,
+      "name": "riff end"
+    }
+  ],
+  "source": {
+    "format": "gp4",
+    "sha256": "e441f17a1850f27984e112b74d42b16ede4ac20b275fbd1036fee7fb0d95ebf4",
+    "version": "FICHIER GUITAR PRO v4.06"
+  },
+  "tempo": 100,
+  "title": "Kitty",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

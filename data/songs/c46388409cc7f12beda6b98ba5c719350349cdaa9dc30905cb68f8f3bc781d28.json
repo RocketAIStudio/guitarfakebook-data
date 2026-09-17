@@ -1,0 +1,137 @@
+{
+  "artist": "The Pigeon Detectives",
+  "artistNormalized": "the pigeon detectives",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E]\n[F#m7]\n[E]\n[E]\n[F#m7]\n[F#m7]Well\n\n[Verse 1]\n[E]I can see you standing there like\nyou know what to do\n[F#m7]You all think you know me but you\nhaven't got a clue Well\n[E]I can see you looking but you're\nlooking at the floor But\n[F#m7]I don't think I really care because\nyou've paid at the door\n\n[Chorus]\n[C#m]It's not that [B]I'm not the roman-\n[A]tic type [B]\n[C#m]It's just that [B]I like what I\n[A]choose to like And [B]if you'd on-\n[G#m]ly take the time to look my\n[A]way If you would on-\n[G#m]ly take the time to see\n[A]well I might [G#m]let you [F#m]stay\n\n[Bridge]\n[F#m7]\n\n[Verse 2]\n[E]I know that you want something and you\nwant it from me\n[F#m7]Everyone says we're the same but I\njust can not see And\n[E]I know what you're asking for 'cause I've\njust read the sign Would\n[F#m7]paying once or maybe twice be\nreally such a crime?\n\n[Chorus]\n[C#m]It's not that [B]I'm not the roman-\n[A]tic type [B]\n[C#m]It's just that [B]I like what I\n[A]choose to like And [B]if you'd on-\n[G#m]ly take the time to look my\n[A]way If you would on-\n[G#m]ly take the time to see\n[A]well I might [G#m]let you [F#m]stay\n\n[Solo]\n[F#m7]\n[F#m7]\nOne, Two, Three, Four\n[F#m7]\n[F#m7]\n\n[Chorus]\n[C#m]It's not that [B]I'm not the ro-\n[A]mantic type [B]\n[C#m]It's just that [B]I like what I\n[A]choose to like [B]\n[C#m]It's not that [B]I'm not the ro-\n[A]mantic type [B]\n[C#m]It's just that [B]I like what I\n[A]choose to like [B]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "242222",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14",
+        "x-21-23-21-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Romantic Type",
+  "id": "c46388409cc7f12beda6b98ba5c719350349cdaa9dc30905cb68f8f3bc781d28",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 250,
+  "normalizedKey": "the pigeon detectives|romantic type",
+  "playableChords": [
+    "E",
+    "F#m7",
+    "C#m",
+    "B",
+    "A",
+    "G#m",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Bridge"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Solo"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c46388409cc7f12beda6b98ba5c719350349cdaa9dc30905cb68f8f3bc781d28",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Romantic Type",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

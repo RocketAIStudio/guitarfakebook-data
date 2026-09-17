@@ -1,0 +1,136 @@
+{
+  "artist": "The Guess Who",
+  "artistNormalized": "the guess who",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[A]\nI should\n\n[Verse 1]\n[A]laugh, but I\n[Aaug]cry Because your\n[A6]love has passed me\n[A7]by You took me by sur-\n[D]prise You didn't rea-\n[Dm]lize but I was\n[C#m]waiting\n[E]Time goes\n[A]slowly, but carries\n[Aaug]on And now the best\n[A6]years have come and\n[A7]gone You took me by sur-\n[D]prise I didn't rea-\n[Dm]lize that you were lau-\n[C#m]ghing\n\n[Chorus]\n[A][D]Laughing 'cause you're doin' it to me\n[A][D]Laughing it ain't the way it should be You\n[D]took away everything I had, [E]you put the hurt on me\n[A]\n[A][D]Laughing 'cause you're doin' it to me\n[A][D]Laughing it ain't the way it should be You\n[D]took away everything I had, [E]you put the hurt on me\n[A]\nI go a-\n\n[Verse 2]\n[A]lone now, calling your\n[Aaug]name After\n[A6]losing at the\n[A7]game You took me by sur-\n[D]prise I didn't rea-\n[Dm]lize that you were\n[C#m]laughing\n[E]Time goes\n[A]slowly, but carries\n[Aaug]on And now the best\n[A6]years The best years have come\n[A7]and gone You took me by sur-\n[D]prise I didn't rea-\n[Dm]lize that you were\n[C#m]laughing\n\n[Chorus]\n[A][D]Laughing 'cause you're doin' it to me\n[A][D]Laughing it ain't the way it should be You\n[D]took away everything I had, [E]you put the hurt on me\n[A]\n[A][D]Laughing 'cause you're doin' it to me\n[A][D]Laughing it ain't the way it should be You\n[D]took away everything I had, [E]you put the hurt on me\n[A]\n\n[Outro]\n[D][A]Ha ha ha ha ha ha\n[D][A]Ha ha ha ha ha ha\n[D][A]What, you laughing at me?\n[D][A]What, you laughing at me?\n[D][A]Oh, what you do on the weekend?\n[D][A]I wanna look when you're laughing\n[D][A]I wanna look when you're laughing\n[D]  [A]\n[D]  [A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A6": {
+      "catalog": [
+        "x02222"
+      ],
+      "catalogCount": 1
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Aaug": {
+      "catalog": [
+        "x03221"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Laughing",
+  "id": "bdb0a82fb3df67983f55a1e497823626b8429fceac3d6d84a7c9b17d8955ba31",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 313,
+  "normalizedKey": "the guess who|laughing",
+  "playableChords": [
+    "A",
+    "Aaug",
+    "A6",
+    "A7",
+    "D",
+    "Dm",
+    "C#m",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bdb0a82fb3df67983f55a1e497823626b8429fceac3d6d84a7c9b17d8955ba31",
+    "version": "BCFZ"
+  },
+  "tempo": 84.4235,
+  "title": "Laughing",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

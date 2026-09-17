@@ -1,0 +1,115 @@
+{
+  "artist": "The Clash",
+  "artistNormalized": "the clash",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]  [D]\n[A]  [D]\n[A]  [D]\n[A]\n[A]  [D]\n[A]  [D]\n[A]  [D]\n[A]\n[E]\n\n[Verse 1]\n[A]White [D]riot-\n[A]I want to [D]riot\n[A]White [D]riota\n[A]riot of my own\n[A]White [D]riot-\n[A]I want to [D]riot\n[A]White [D]riota\n[A]riot of my own\n\n[Chorus]\n[G]Black people gotta lot a\nproblems But\n[C]they don't mind throwing a\n[G]brick\n[G]White people go to\nschool Where they\n[C]teach you how to be\n[G]thick\n[C]An' everybody's doing\nJust\n[A]what they're told to\nAn'\n[C]nobody wants\nTo\n[E]go to jail!\n\n[Verse 2]\n[A]White [D]riot-\n[A]I want to [D]riot\n[A]White [D]riota\n[A]riot of my own\n[A]White [D]riot-\n[A]I want to [D]riot\n[A]White [D]riota\n[A]riot of my own\n\n[Chorus]\n[G]All the power's in the\nhands Of\n[C]people rich enough to buy\n[G]it\n[G]While we walk the street\nToo\n[C]chicken to even try it\n[G]\n[C]Everybody's doing\nJust\n[A]what they're told to\n[C]Nobody wants\nTo\n[E]go to jail!\n\n[Solo]\n[A]\n[A]  [D]\n[A]  [D]\n[A]  [D]\n[A]\n\n[Verse 3]\n[A]White [D]riot-\n[A]I want to [D]riot\n[A]White [D]riota\n[A]riot of my own\n[A]White [D]riot-\n[A]I want to [D]riot\n[A]White [D]riota\n[A]riot of my own\n[E]Are you taking\nover\nOr are you tak-\ning orders?\nAre you going\nbackwards\nOr are you going\nforwards?\n[A]White [D]riot-\n[A]I want to [D]riot\n[A]White [D]riota\n[A]riot of my own\n[A]White [D]riot-\n[A]I want to [D]riot\n[A]White [D]riota\n[A]riot of my own",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "White riot *alt",
+  "id": "c988a90a82abc9c8c52e4ebafa0b46be8fe9867fb6eaaeee1065a0e45aacb6ad",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 210,
+  "normalizedKey": "the clash|white riot",
+  "playableChords": [
+    "A",
+    "D",
+    "E",
+    "G",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Solo"
+    },
+    {
+      "measure": 74,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c988a90a82abc9c8c52e4ebafa0b46be8fe9867fb6eaaeee1065a0e45aacb6ad",
+    "version": "BCFZ"
+  },
+  "tempo": 200,
+  "title": "White riot",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

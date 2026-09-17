@@ -1,0 +1,144 @@
+{
+  "artist": "The Bluetones",
+  "artistNormalized": "the bluetones",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Verse 1]\n[D]Where did you go\n[Dmaj7]\n[G]When things went wrong\n[A]for you\n[G]When the knives came out\n[A]for you?\n[D]Where did you go?\n[Dmaj7]\n[G]All you needed was\n[A]a friend\n[G]You just have to ask\n[A]and then\n\n[Chorus]\n[D]You don't have to have the solution\n[A]You've got to understand the problem\n[G]And don't go hoping for a\n[A#]miracle [C]\n[G]All this will fade\n[A]away\n[D]So I'm coming home\n[A]\n[D]I'm coming home\n[A]\n\n[Verse 2]\n[D]What did you learn\n[Dmaj7]\n[G]Locked away all on\n[A]your own\n[G]Chance and your head\n[A]all blown\n[D]What did you learn\n[Dmaj7]\n[G]It was un-\n[A]fortunate\n[G]You missed you chance to find\n[A]out that\n\n[Chorus]\n[D]You don't have to have the solution\n[A]You've got to understand the problem\n[G]And don't go hoping for a\n[A#]miracle [C]\n[G]All this will fade\n[A]away\n[D]So I'm coming home\n[A]\n[D]I'm coming home\n[A]\n\n[Interlude]\n[D]\n[Dmaj7]\n[G]\n[A]\n[G]\n[A]\n\n[Bridge]\n[D]\n[Dmaj7]\n[G]\n[A]\n[G]\n[A]\n\n[Chorus]\n[D]You don't have to have the solution\n[A]You've got to understand the problem\n[G]And don't go hoping for a\n[A#]miracle [C]\n[G]All this will fade\n[A]away\n[D]So I'm coming home\n[A]\n[D]I'm coming home\n[A]\n[D]I'm coming home\n[A]\n[Csus4]But just [C]for a short\n[G]while\n[F]  [G]  [D]\n[D]\n[Dmaj7]\n\n[Outro]\n[D]\n[Dmaj7]\n[D]\n[Dmaj7]\n[D]\n[Dmaj7]\n[G]\n[A]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#": {
+      "catalog": [
+        "x13331"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Csus4": {
+      "catalog": [
+        "x3556x"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9",
+        "10-12-11-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Slight Return",
+  "id": "5a861d405bd980e10b3db77342164aee5f518303e1c3260df6bc8207cd2e5328",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 209,
+  "normalizedKey": "the bluetones|slight return",
+  "playableChords": [
+    "D",
+    "Dmaj7",
+    "G",
+    "A",
+    "A#",
+    "C",
+    "Csus4",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Interlude"
+    },
+    {
+      "measure": 51,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5a861d405bd980e10b3db77342164aee5f518303e1c3260df6bc8207cd2e5328",
+    "version": "BCFZ"
+  },
+  "tempo": 106,
+  "title": "Slight Return",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,132 @@
+{
+  "artist": "The Calling",
+  "artistNormalized": "the calling",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[D]\n[Aadd11]\n[Bm7]\n\n[Verse 1]\n\n[Chorus]\n\n[Verse 2]\nVerse 2\n[D]\n[A]\n[Bm]\n[G]\n\n[Chorus]\n\n[Bridge]\n\n[Verse 3]\nVerse 3\n\n[Chorus]\n\n[Outro]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x4222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Aadd11": {
+      "catalog": [
+        "x4223x"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x2443x",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x2023x",
+        "x-2-4-2-3-2",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x54232",
+        "x-x-0-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "32003x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wherever You Will Go",
+  "id": "38cc6424b2475d4f511ead0f81569e517e2ba150c61a1fa3da9d6c276d384f56",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 2,
+  "normalizedKey": "the calling|wherever you will go",
+  "playableChords": [
+    "D",
+    "Aadd11",
+    "Bm7",
+    "A",
+    "Bm",
+    "G",
+    "D5",
+    "Gadd9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gp3",
+    "sha256": "38cc6424b2475d4f511ead0f81569e517e2ba150c61a1fa3da9d6c276d384f56",
+    "version": "FICHIER GUITAR PRO v3.00"
+  },
+  "tempo": 112,
+  "title": "Wherever You Will Go",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,149 @@
+{
+  "artist": "The Smashing Pumpkins",
+  "artistNormalized": "the smashing pumpkins",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro 1]\n[G]\n\n[Intro 2]\n[G]Love\n\n[Verse 1]\n[G]Bleed in your\nown light\nDream of your\nown life I\nmiss me\nI miss\n[C][G/B][F/A]everything\nI'll never be\n\n[Chorus]\n[G]  [D]\n[F][C]And on, and on\n[G]  [D]\n[F][C]I torch my soul\n[G]to show [D]The world that I\n[F]am pure Deep [C]inside my heart\n[G]  [D]\n[F][C]No more lies\n\n[Intrelude]\n[G]\n\n[Verse 2]\n[G]A crown of horns\nAn image formed deformed\nThe mark I've borne\nA mark of scorn\nto you\n[C]Consume my love, devour my hate\nOnly powers my escape\n[G]\n[C]The moon is out the, stars invite\nI think i'll leave tonight\n[D]\n\n[Pre-Chorus]\n[D]Soon [A]I'll find\n[C]myself alone [G]\n[D]To [A]relax\n[C]and fade away [G]\n[D]Do [A]you know\n[C]what's coming down [G]\n[D]Do [A]you\n[C]know I couldn't stay [G]\n\n[Chorus]\n[G]free? [D]\n[F][C]I shall be free\n[G]  [D]\n[F][C]I shall be free\n[G][D]I shall be free\n[F][C]I shall be free\n[G][D]free\n[F]Free of those voices inside\n[C]me\n\n[Outro 1]\n[G]\n\n[Outro 2]\n[G]  [D]\n[F][C]I shall be free\n[G]  [D]\n[F][C]I shall be free\n[G]  [D]\n[F]  [C]\n[G]  [D]\n[F]  [C]\n\n[Outro 3]\n[G]  [D]\n[F]  [C]\n[G]  [D]\n[F]\n[C]\n\n[Outro 4]\n[G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F/A": {
+      "catalog": [
+        "x0321x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x2003x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rocket",
+  "id": "698ba43566359292a52bb57058f74cbde7d2a061144c770a5045437639fd6bfa",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 159,
+  "normalizedKey": "the smashing pumpkins|rocket",
+  "playableChords": [
+    "G",
+    "F/A",
+    "G/B",
+    "C",
+    "D",
+    "F",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 5,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Outro 1"
+    },
+    {
+      "measure": 71,
+      "name": "Outro 2"
+    },
+    {
+      "measure": 79,
+      "name": "Outro 3"
+    },
+    {
+      "measure": 84,
+      "name": "Outro 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "698ba43566359292a52bb57058f74cbde7d2a061144c770a5045437639fd6bfa",
+    "version": "BCFZ"
+  },
+  "tempo": 89,
+  "title": "Rocket",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

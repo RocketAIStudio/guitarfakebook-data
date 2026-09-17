@@ -1,0 +1,92 @@
+{
+  "artist": "The Organ",
+  "artistNormalized": "the organ",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\nAs I was sa-\n\n[Verse 1]\n[Gm]ying, I know\n[Dm]That I've\n[D#]been one of the few\n[Dm]who walked away\n[Gm]from you\n[Dm]Steven\n[D#]Smith, we all lose\n[Dm]One look\n[Gm]at you\n[Dm]and they're\n[D#]suddenly covered\n[Dm]in shrapnel too\n[Gm]It's true,\n[Dm]most die in\n[D#]your bedroom\n[Dm]\n\n[Chorus]\n[Gm]All the\n[A#]time I'm\n[D#]getting\n[Dm]shot Oh,\n[Gm]barrels\n[A#]roll and\n[D#]hammers\n[Dm]drop\n[Gm]Come on\n[A#]now\n[D#]Grab that\n[Dm]gun and\n[Gm]we'll go drive around\n[A#]\n[D#]Until there's no sound\n[Dm]Come on,\n\n[Verse 2]\n[Gm]let's go\n[Dm]I\n[D#]said I am dri-\n[Dm]ving and I am dri-\n[Gm]ving Its true,\n[Dm]I've got\n[D#]something for you\n[Dm]\n\n[Chorus]\n[Gm]When everything's qu-\n[A#]iet\n[D#]The ringing\n[Dm]in our ears will\n[Gm]seem awfully vio-\n[A#]lent\n[D#]\n[Dm]And\n[Gm]then there will be si-\n[A#]lence\n[D#]\n[Dm]\n[Gm]Then there will be si-\n[A#]lence\n[D#]\n[Dm]\n\n[Outro]\n[Gm]\n[A#]\n[D#]\n[Dm]\n[Gm]\n[A#]\n[D#]\n[Dm]",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "688766"
+      ],
+      "catalogCount": 1
+    },
+    "D#": {
+      "catalog": [
+        "x68886"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Steven Smith",
+  "id": "c5f4f480e7b135fff5cebb917db2dc0619f25863e24a893f2071a9319b9b6e3b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 138,
+  "normalizedKey": "the organ|steven smith",
+  "playableChords": [
+    "Gm",
+    "Dm",
+    "D#",
+    "A#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c5f4f480e7b135fff5cebb917db2dc0619f25863e24a893f2071a9319b9b6e3b",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Steven Smith",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

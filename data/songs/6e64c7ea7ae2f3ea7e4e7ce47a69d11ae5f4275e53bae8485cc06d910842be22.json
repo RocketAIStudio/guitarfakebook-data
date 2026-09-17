@@ -1,0 +1,148 @@
+{
+  "artist": "The Subways",
+  "artistNormalized": "the subways",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Bbm]\n[Bbmadd11]\n[Bbm]\n[Bbmadd11]\n[Bbm]\n[Bbmadd11]\n[Bbm]\n[Bbmadd11]\n[Bbm]\n[Bbmadd11]\n[Bbm]\n[Bbmadd11]\n[Bbm]\n[Bbmadd11]\n[Bbm]\n[Bbmadd11]\n[Bbm]\n[Bbmadd11]\n[Bbm]\n[Bbmadd11]\n\n[Riff 1]\n[Ebm]\n[B5]\n\n[Riff 2]\n[Eb5]\n\n[Interlude]\n[Bbmadd11]\n\n[Verse 1]\n[Bbmadd11]The world is\nalways\nsome kind of\ndaydream\nAnother\nmessage\nthat they just\ndon't see\nI won't forget\nthe day you said\nThe simple things\nthey are the best\nI'm just a kid,\nan alien\namong the\npeople\n\n[Chorus]\n[Bb5]The girls and boys\nThe girls and boys\nThe girls and boys\n[Gb]  [Ebm7]\n[Bb5]The girls and boys\nThe girls and boys\nThe girls and boys\n[Gb]  [Ebm7]\n\n[Interlude]\n[Bbmadd11]\n\n[Verse 2]\n[Bbmadd11]Another\nstatement,\nanother\ndaydream\nWhy do you\nalways\nsay what you\ndon't mean?\nI won't forget\nthe day you said\nThe simple things\nthey are the best\nI'm just a kid,\nan alien\namong the\npeople\n\n[Chorus]\n[Bb5]The girls and boys\nThe girls and boys\nThe girls and boys\n[Gb]  [Ebm7]\n[Bb5]The girls and boys\nThe girls and boys\nThe girls and boys\n[Gb]  [Ebm7]\n\n[Riff]\n[Ebm]\n[B5]\n\n[Outro]\n[Eb5]",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Bb5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bbm": {
+      "catalog": [
+        "x24432",
+        "x-1-3-3-2-1",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Bbmadd11": {
+      "catalog": [
+        "x24430"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Ebm": {
+      "catalog": [
+        "022000",
+        "x-x-1-3-4-2",
+        "x-6-8-8-7-6",
+        "11-13-13-11-11-11",
+        "x-x-13-15-16-14"
+      ],
+      "catalogCount": 5
+    },
+    "Ebm7": {
+      "catalog": [
+        "022033",
+        "x-x-1-3-2-2",
+        "x-6-8-6-7-6",
+        "11-13-11-11-11-11",
+        "x-x-13-15-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "355433",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Girls & Boys",
+  "id": "6e64c7ea7ae2f3ea7e4e7ce47a69d11ae5f4275e53bae8485cc06d910842be22",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 146,
+  "normalizedKey": "the subways|girls boys",
+  "playableChords": [
+    "Bbm",
+    "Bbmadd11",
+    "Ebm",
+    "B5",
+    "Eb5",
+    "Bb5",
+    "Gb",
+    "Ebm7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 21,
+      "name": "Riff 1"
+    },
+    {
+      "measure": 25,
+      "name": "Riff 2"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Interlude"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 97,
+      "name": "Chorus"
+    },
+    {
+      "measure": 113,
+      "name": "Riff"
+    },
+    {
+      "measure": 117,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6e64c7ea7ae2f3ea7e4e7ce47a69d11ae5f4275e53bae8485cc06d910842be22",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Girls & Boys",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

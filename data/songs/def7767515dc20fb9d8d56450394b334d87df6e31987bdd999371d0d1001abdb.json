@@ -1,0 +1,122 @@
+{
+  "artist": "The Black Keys",
+  "artistNormalized": "the black keys",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\n[Em]\n[G]\n[Em]\n[G]\n[Em]\n[B]\n[C]\n[B]\n[C]\n[Em]\n[Bm]\n[Em]\n[Bm]\n[Em]\n[Bm]\n[A]\n\n[Verse 1]\n[Em]You walk around in\n[Bm]other towns\n[Em]I've seen you out, just\n[Bm]hangin' 'round\n[Em]It's what you chose and\n[Bm]I suppose You'll meet\n[A]me one day, meet\nme one day\n[Em]You throw away every\n[Bm]other dream\n[Em]Taking nova baby to the\n[Bm]dollar machine\n[Em]That party dress is\n[Bm]such a mess You'll need\n[A]me one day, need\nme one day\n\n[Chorus]\n[G]soon\n[Em]All your enemi-\n[G]es Smi-\n[Em]le when you fall\n[G]You take\n[Em]it 'cause you\n[B]Don't know what you want\n[C]You\n[B]don't know what you want\n[C]\n[G]All\n[Em]this love of mine\n[G]All\n[Em]my precious time\n[G]You\n[Em]waste it 'cause you\n[B]Don't know what you want\n[C]You\n[B]don't know what you want\n[C]\n\n[Verse 2]\n[Em]There go the kids, the\n[Bm]have-nots\n[Em]Elevator ladies in the\n[Bm]parking lots\n[Em]You saw it all and\n[Bm]I recall The dream\n[A]you told me, dream\nyou told me\n[Em]This empty heart, you\n[Bm]left me with\n[Em]The ribbon on my\n[Bm]parting gift\n[Em]I'm falling hard for\n[Bm]every yard Of the dream\n[A]you sold me, dream\nyou sold me,\n\n[Chorus]\n[G]oh\n[Em]All your enemi-\n[G]es Smi-\n[Em]le when you fall\n[G]You take\n[Em]it 'cause you\n[B]Don't know what you want\n[C]\n[B]Don't know what you want\n[C]\n[G]\n[Em]All this love of mine\n[G]All\n[Em]my precious time\n[G]You waste\n[Em]it 'cause you\n[B]Don't know what you want\n[C]\n[B]Don't know what you want\n[C]\n\n[Solo]\n[G]\n[Em]\n[G]\n[Em]\n[G]\n[Em]\n[B]\n[C]\n[B]\n[C]\n[G]\n[Em]\n[G]\n[Em]\n[G]\n[Em]\n[B]\n[C]\n[B]\n[C]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "799777",
+        "x-2-4-4-3-2",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "x-10-12-12-12-10",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Nova Baby",
+  "id": "def7767515dc20fb9d8d56450394b334d87df6e31987bdd999371d0d1001abdb",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 246,
+  "normalizedKey": "the black keys|nova baby",
+  "playableChords": [
+    "G",
+    "Em",
+    "B",
+    "C",
+    "Bm",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 72,
+      "name": "Chorus"
+    },
+    {
+      "measure": 92,
+      "name": "Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "def7767515dc20fb9d8d56450394b334d87df6e31987bdd999371d0d1001abdb",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "Nova Baby",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

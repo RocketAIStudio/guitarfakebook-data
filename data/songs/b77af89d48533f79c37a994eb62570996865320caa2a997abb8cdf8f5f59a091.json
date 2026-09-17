@@ -1,0 +1,115 @@
+{
+  "artist": "The Cranberries",
+  "artistNormalized": "the cranberries",
+  "capo": "3",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]Dobeda, dobeda\n[Am]Dobeda, dobeda\n[Em]Dobeda, dobeda\n[G]Dobeda, dobeda\n[C]Dobeda, dobeda\n[Am]Dobeda, dobeda\n[Em]Dobeda, dobeda\n[G]Dobeda, dobeda\n\n[Verse 1]\n[C]Hold on to\n[Am]love That is what\n[Em]I do Now that I've\n[G]found you\n[C]And from a-\n[Am]bove Everything's\n[Em]stinking They're not a-\n[G]round you And\n[C]in the night I could be\n[Am]helpless I could be\n[Em]lonely Sleeping with-\n[G]out you And\n[C]in the day Everything's\n[Am]complex There's nothing\n[Em]simple When I'm not a-\n[G]round you But I\n\n[Chorus]\n[C]miss you when you're go-\n[Am]ne That is what\n[Em]I do\n[F]Hey, baby And it's\n[C]going to carry on\n[Am]That is what\n[Em]I knew\n[F]Hey, baby\n\n[Bridge]\n[C]Dobeda,\n[Am]dobeda\n[Em]Dobeda,\n[F]dobeda\n\n[Verse 2]\n[C]Hold on to\n[Am]my hands I feel I'm\n[Em]sinking Sinking with-\n[G]out you\n[C]And to my\n[Am]mind Everything's\n[Em]stinnking Stinking with-\n[G]out you And\n[C]in the night I could be\n[Am]helpless I could be\n[Em]lonely Sleeping with-\n[G]out you And\n[C]in the day Everything's\n[Am]complex There's nothing\n[Em]simple When I'm not a-\n[G]round you And I\n\n[Chorus]\n[C]miss you when you're go-\n[Am]ne That is what\n[Em]I do\n[F]Hey, baby And it's\n[C]going to carry\n[Am]on That is what\n[Em]I knew\n[F]Hey, baby\n\n[Outro]\n[C]Dobeda,\n[Am]dobeda\n[Em]Dobeda,\n[F]dobeda Hey, baby\n[C]\n[Am]\n[Em]\n[F]\n[F]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "When You're Gone *alt",
+  "id": "b77af89d48533f79c37a994eb62570996865320caa2a997abb8cdf8f5f59a091",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 276,
+  "normalizedKey": "the cranberries|when you re gone",
+  "playableChords": [
+    "C",
+    "Am",
+    "Em",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b77af89d48533f79c37a994eb62570996865320caa2a997abb8cdf8f5f59a091",
+    "version": "BCFZ"
+  },
+  "tempo": 94,
+  "title": "When You're Gone",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

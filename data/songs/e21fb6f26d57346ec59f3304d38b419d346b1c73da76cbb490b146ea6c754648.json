@@ -1,0 +1,105 @@
+{
+  "artist": "The Tokens",
+  "artistNormalized": "the tokens",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[F]Wee,\n[Bb]\n[F]wee owimoweh\n[C]\n[F]Wee,\n[Bb]\n[F]wee owimoweh\n[C]A-\n\n[Chorus]\n[F]weemaweh, aweemaweh, a-\n[Bb]weemaweh, aweemaweh A-\n[F]weemaweh, aweemaweh, a-\n[C]weemaweh, aweemaweh A-\n[F]weemaweh, aweemaweh, a-\n[Bb]weemaweh, aweemaweh A-\n[F]weemaweh, aweemaweh, a-\n[C]weemaweh, aweemaweh\n\n[Verse 1]\n[F]In the jungle, the\n[Bb]mighty jungle The\n[F]lion sleeps tonight\n[C]\n[F]In the jungle the\n[Bb]quiet jungle The\n[F]lion sleeps tonight\n[C]\n\n[Chorus]\n[F]Wee,\n[Bb]\n[F]wee owimoweh\n[C]\n[F]Wee,\n[Bb]\n[F]wee owimoweh\n[C]\n\n[Verse 2]\n[F]Near the village the\n[Bb]peaceful village The\n[F]lion sleeps tonight\n[C]\n[F]Near the village the\n[Bb]quiet village The\n[F]lion sleeps tonight\n[C]\n\n[Chorus]\n[F]Wee,\n[Bb]\n[F]wee owimoweh\n[C]\n[F]Wee,\n[Bb]\n[F]wee owimoweh\n[C]Ah,\n\n[Interlude]\n[F]\n[Bb]ah,\n[F]\n[C]Ah,\n[F]\n[Bb]ah,\n[F]\n[C]ah\n\n[Verse 3]\n[F]Hush my darling don't\n[Bb]fear my darling The\n[F]lion sleeps tonight\n[C]\n[F]Hush my darling don't\n[Bb]fear my darling The\n[F]lion sleeps tonight\n[C]\n\n[Chorus]\n[F]Woh,\n[Bb]woh,\n[F]woh, owimoweh\n[C]Wee,\n[F]\n[Bb]wee-\n[F]owimoweh\n[C]\n\n[Outro]\n[F]Wee,\n[Bb]\n[F]wee owimoweh\n[C]\n[F]Wee,\n[Bb]\n[F]wee owimoweh\n[C]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "688766",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "x87565",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Lion Sleeps Tonight (Wimoweh)",
+  "id": "e21fb6f26d57346ec59f3304d38b419d346b1c73da76cbb490b146ea6c754648",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 224,
+  "normalizedKey": "the tokens|the lion sleeps tonight wimoweh",
+  "playableChords": [
+    "F",
+    "Bb",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e21fb6f26d57346ec59f3304d38b419d346b1c73da76cbb490b146ea6c754648",
+    "version": "BCFZ"
+  },
+  "tempo": 122,
+  "title": "The Lion Sleeps Tonight (Wimoweh)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

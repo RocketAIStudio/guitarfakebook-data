@@ -1,0 +1,89 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[D]  [G]\n[A]\n[D]  [G]\n[A]Well, shake it up, ba-\n\n[Verse 1]\n[D]by, now [G]\n[A]Twist and\n[D]shout [G]\n[A]Come on, come on, come on, come on,\n[D]baby, now [G]\n[A]Come on and work it on out\n[D]  [G]\n[A]Well, work it on out,\n[D]honey [G]\n[A]You know you look so\n[D]good [G]\n[A]You know you got me\n[D]going, now [G]\n[A]Just like I knew you would\n[D]  [G]\n[A]Well, shake it up, ba-\n\n[Verse 2]\n[D]by, now [G]\n[A]Twist and\n[D]shout [G]\n[A]Come on, come on, come on, come on,\n[D]baby, now [G]\n[A]Come on and work it on out\n[D]  [G]\n[A]You know you twist your little girl\n[D]  [G]\n[A]You know you twist so\n[D]fine [G]\n[A]Come on and twist a little\n[D]closer, now [G]\n[A]And let me know that you're\n[D]mine, [G]\n[A]oh\n\n[Interlude]\n[D]  [G]\n[A]\n[D]  [G]\n[A]\n[D]  [G]\n[A]\n[D]  [G]\n[A]\n[A]\nWell, shake it up, ba-\n\n[Verse 3]\n[D]by, now [G]\n[A]Twist and\n[D]shout [G]\n[A]Come on, come on, come on, come on,\n[D]baby, now [G]\n[A]Come on and work it on out\n[D]  [G]\n[A]You know you twist your little girl\n[D]  [G]\n[A]You know you twist so\n[D]fine [G]\n[A]Come on and twist a little\n[D]closer, now [G]\n[A]And let me know that you're\n[D]mine [G]\n\n[Outro]\n[A]Well, shake it, shake it, shake it,\n[D]baby, now [G]\n[A]Well, shake it, shake it, shake it,\n[D]baby, now [G]\n[A]Well, shake it, shake it, shake it,\n[D]baby, now [G]\n[A]\n[A]Ah,\nah\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Twist And Shout *alt",
+  "id": "77c82ab9ab3e82cc5ad75b7fada10c6768163653841b8b87dc3983bbea05c7ed",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 209,
+  "normalizedKey": "the beatles|twist and shout",
+  "playableChords": [
+    "D",
+    "G",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Interlude"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 67,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "77c82ab9ab3e82cc5ad75b7fada10c6768163653841b8b87dc3983bbea05c7ed",
+    "version": "BCFZ"
+  },
+  "tempo": 123,
+  "title": "Twist And Shout",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

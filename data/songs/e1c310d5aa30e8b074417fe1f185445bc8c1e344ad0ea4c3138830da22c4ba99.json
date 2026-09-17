@@ -1,0 +1,127 @@
+{
+  "artist": "The xx",
+  "artistNormalized": "the xx",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F#m]  [A]  [E]\n[F#m]  [A]  [D]\n[F#m]  [A]  [E]\n[F#m]  [A]  [D]\n\n[Verse 1]\n[F#m]I saw you [A]again, [E]\nit felt like\n[F#m]we had [A]never met [D]\nIt's like the\n[F#m]sun set [A]in your [E]eyes\nand never\n[F#m]wanted [A]to rise [D]\n[F#m]And what [A]have you [E]done\n[F#m]with the [A]one I [D]love?\nWhen I\n[F#m]look [A]into your [E]eyes,\n[F#m]I see [A]no [D]surprise\nI always thought it was\n\n[Chorus]\n[Bm]sad\nThe way we act like\n[A]strangers\nAfter all that we\n[F#m]had\nWe act like\n[D]we had never met\nWe make believe,\n\n[Verse 2]\n[F#m]  [A]  [E]\nI've never seen your\n[F#m]face, you [A]neither [D]mine\nAnd catch my eye,\n[F#m]  [A]  [E]\ndon't\n[A][F#m]register [D]a smile\nYou were\n[F#m]more than just [A]a friend, [E]\noh\n[F#m]but the [D][A]feeling\nIt never\n[F#m]came to [A]an end, [E]\nI can't bear\n[F#m]to [A]see you [D]\nI always thought it was a\n\n[Chorus]\n[Bm]shame\nThat we have to play these\n[A]games\nIt felt like you really\n[F#m]knew me\nNow it feels like you see\n[D]through me\n\n[Solo]\n\n[Bridge]\n[F#m]\n[E]\n[A]\n[D]\n[F#m]\n[E]\n[A]\nWhen I see you again\n\n[Verse 3]\n[Bm]\nI'll know not to expect\n[A]\nStay one step away\n[F#m]\nWe will have to wait\n[D]\nWhen I see you again\n[Bm]\nAnd I'm greeted as a\n[A]friend\nIt is understood\n[F#m]\nThat we did all we co-\n[D]uld\nI always thought it was\n\n[Chorus]\n[Bm]sad\nThe way we act like\n[A]strangers\nAfter all that we\n[F#m]had\nWe act like\n[D]we had never met\nI always thought it was a\n\n[Outro]\n[F#m]shame\nThat we have to play these\n[A]games\nIt felt like you really\n[D]knew me\nNow it feels like you see\nthrough me",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sunset",
+  "id": "e1c310d5aa30e8b074417fe1f185445bc8c1e344ad0ea4c3138830da22c4ba99",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 267,
+  "normalizedKey": "the xx|sunset",
+  "playableChords": [
+    "F#m",
+    "A",
+    "E",
+    "D",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Solo"
+    },
+    {
+      "measure": 66,
+      "name": "Bridge"
+    },
+    {
+      "measure": 76,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 92,
+      "name": "Chorus"
+    },
+    {
+      "measure": 100,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e1c310d5aa30e8b074417fe1f185445bc8c1e344ad0ea4c3138830da22c4ba99",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Sunset",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

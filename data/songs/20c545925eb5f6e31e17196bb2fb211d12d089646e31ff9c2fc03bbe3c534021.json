@@ -1,0 +1,123 @@
+{
+  "artist": "The Oh Hellos",
+  "artistNormalized": "the oh hellos",
+  "capo": "5",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\nParam pam, [G]param pam\n[C]Param pam, param pam\n[Em]  [G]\n[C]\n[Em]  [G]\n[C]\n[Em]  [G]\n[C]\n\n[Verse 1]\n[Em]Hello, my [G]old heart\n[C]How have you been?\n[Em]Are you still there [G]inside my\n[C]chest?\n[Em]I've been so [G]worried,\n[C]you've been so still\n[Em]Barely [G]beating at all\n[C]\n\n[Chorus]\n[D]Oh, [Em]oh, don't\n[G]leave me here alone [C]Don't\n[G]tell me that we've [C]grown For having loved\n[D]a little while [Em]\n[D]Oh, oh, [Em]I don't\n[G]wanna be alone [C]I\n[G]wanna find a home [C]And I wanna\n[D]share it with [C]you\n\n[Verse 2]\n[Em]Hello, my [G]old heart\n[C]It's been so long\n[Em]Since I've [G]given you a-\n[C]way Every\n[Em]day, I [G]add another\n[C]stone To the walls I built around\n[Em]you To keep [G]you safe\n[C]\n\n[Chorus]\n[D]Oh, [Em]oh, don't\n[G]leave me here alone [C]Don't\n[G]tell me that we've [C]grown For having loved\n[D]a little while [Em]\n[D]Oh, oh, [Em]I don't\n[G]wanna be alone [C]I\n[G]wanna find a home [C]And I wanna\n[D]share it with [C]you\n[Em]\n\n[Verse 3]\n[Em]Hello, my [G]old heart\n[C]How have you been?\n[Em]How is it [G]being locked a-\n[C]way?\n[Em]Don't you [G]worry,\n[C]in there, you're safe And it's\n[Em]true, you'll never beat [G]But you'll\n[C]never break\n\n[Breakdown]\n[G]\n[Am7]Nothing lasts [G]forever\nSome\n[Am7]things aren't meant [G]to be\nBut you'll\n[Am7]never find the [Em]answers\nUntil you\nset your old [D]heart free\nUntil you\n[C]set your old heart free\n\n[Interlude]\n[G]Param pam, param [C]pam\n[G]Param pam, param [C]pam\n[Em]Hello, my old [C]heart\n[G]  [C]\n[G]Param pam, param [C]pam\n[G]Param pam, param [C]pam\n[Em]Hello, my old [C]heart\n[G]  [C]\n\n[Outro]\n[G]Param pam, param [C]pam\n[G]Param pam, param [C]pam\n[Em]  [C]\n[G]  [C]\n[G]  [C]\n[G]  [C]\n[Em]  [C]\n[G]Hello, my old [C]heart\n[G]  [C]\n[G]Param pam, param [C]pam\n[Em]  [C]\n[G]Hello, my old [C]heart\n[G]  [C]\n[G]  [C]\n[Em]  [C]\n[D]  [Am7]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hello My Old Heart",
+  "id": "20c545925eb5f6e31e17196bb2fb211d12d089646e31ff9c2fc03bbe3c534021",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 306,
+  "normalizedKey": "the oh hellos|hello my old heart",
+  "playableChords": [
+    "Em",
+    "G",
+    "C",
+    "D",
+    "Am7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 60,
+      "name": "Breakdown"
+    },
+    {
+      "measure": 71,
+      "name": "Interlude"
+    },
+    {
+      "measure": 79,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "20c545925eb5f6e31e17196bb2fb211d12d089646e31ff9c2fc03bbe3c534021",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Hello My Old Heart",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

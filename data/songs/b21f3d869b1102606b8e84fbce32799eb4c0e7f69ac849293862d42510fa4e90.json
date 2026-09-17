@@ -1,0 +1,111 @@
+{
+  "artist": "The Offspring",
+  "artistNormalized": "the offspring",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[Em]Lay awake\n[G]I don't give a shit\n[Am]If I even ever\n[G]wake up in the [D]morning\n[Em]Down below\n[G]There's a pile of sin\n[Am]Always waiting for a,\n[G]waiting for a [D]warning\n[Em]Burned at the stake\n[G]Inside I'm blistering\n[Am]Not a whisper, looking\n[G]in you'd never [D]know it\n[Em]Miles below\n[G]I look up again\n[Am]When you snap, they say be-\n[G]fore you never [D]show it\n\n[Chorus]\n[G]Someone said\n[D]it's all right\n[C]Save it now, don't\n[C]say it for [D]my\n[G]sake Someone said\n[D]it's all right\n[C]Faster now, you\n[C]know I got [D]no\n[Em]brakes No brakes\n\n[Verse 2]\n[Em]Fuses glow\n[G]Wounds are festering\n[Am]Till the wind comes up and\n[G]takes it to the [D]last \"pow\"\n[Em]Back and forth\n[G]Staring at the wall\n[Am]This room's a cage, I know that\n[G]something's got to [D]give now\n[Em]Lay awake\n[G]I don't give a shit\n[Am]If I even ever\n[G]wake up in the [D]morning\n[Em]Down below\n[G]There's a pile of sin\n[Am]Always waiting for a,\n[G]waiting for a [D]warning\n\n[Chorus]\n[G]Someone said\n[D]it's all right\n[C]Save it now, don't\n[C]say it for [D]my\n[G]sake Someone said\n[D]it's all right\n[C]Faster now, you\n[C]know I got [D]no\n[Em]brakes No brakes\n\n[Bridge]\n[Em]\n\n[Chorus]\n[G]Someone said\n[D]it's all right\n[C]Save it now, don't\n[C]say it for [D]my\n[G]sake Someone said\n[D]it's all right\n[C]Faster now, you\n[C]know I got [D]no\n[G]brakes Someone said\n[D]it's all right\n[C]Save it now, don't\n[C]say it for [D]my\n[G]sake Someone said\n[D]it's all right\n[C]Faster now, you\n[C]know I got [D]no\n[Em]brakes No brakes\nNo brakes\nNo brakes",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "No Brakes",
+  "id": "b21f3d869b1102606b8e84fbce32799eb4c0e7f69ac849293862d42510fa4e90",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 292,
+  "normalizedKey": "the offspring|no brakes",
+  "playableChords": [
+    "Em",
+    "G",
+    "Am",
+    "D",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Bridge"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b21f3d869b1102606b8e84fbce32799eb4c0e7f69ac849293862d42510fa4e90",
+    "version": "BCFZ"
+  },
+  "tempo": 170,
+  "title": "No Brakes",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

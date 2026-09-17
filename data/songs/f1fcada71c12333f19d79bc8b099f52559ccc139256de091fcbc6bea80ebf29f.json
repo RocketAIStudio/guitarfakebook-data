@@ -1,0 +1,101 @@
+{
+  "artist": "The Black Keys",
+  "artistNormalized": "the black keys",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[A]\n[D]  [C]\n[A]\n[D]  [C]\n[A]\n[D]  [C]\n[A]\n[D]  [C]\n[A]\n[D]  [C]\n[A]\n[D]  [C]\n\n[Verse 1]\n[A]And I want\n[D]it [C]\n[A]And you got it\n[D]  [C]\n[A]So much\n[D]  [C]\n[A]I'm crazy for\n[D][C]Your\n\n[Chorus]\n[A]touch\n[D][C]Your\n[A]touch!\n[D][C]Your\n[A]touch!\n[D][C]Your\n[A]touch!\n[D]  [C]\n\n[Verse 2]\n[A]And I'll be good\n[D]  [C]\n[A]Like I should\n[D]  [C]\n[A]Waitin' is such\n[D]  [C]\n[A]Misery! I need\n[D][C]Your\n\n[Chorus]\n[A]touch\n[D][C]Your\n[A]touch!\n[D][C]Your\n[A]touch!\n[D][C]Your\n[A]touch!\n[D]  [C]\n\n[Solo]\n[A]\n[D]  [C]\n[A]\n[D]  [C]\n[A]\n[D]  [C]\n[A]\n[D]  [C]\n\n[Bridge]\n[A]\n[D]  [C]\n[A]\n[D]  [C]\n[A]\n[D]  [C]\n[A]\n[D]  [C]\n\n[Verse 3]\n[A]A little louder now\n[D]  [C]\n[A]I've got to shout it now\n[D]  [C]\n[A]Please rush\n[D]  [C]\n[A]I need\n[D][C]Your\n\n[Chorus]\n[A]touch!\n[D][C]Your\n[A]touch!\n[D][C]Your\n[A]touch!\n[D][C]Your\n[A]touch!\n[D]  [C]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Your Touch",
+  "id": "f1fcada71c12333f19d79bc8b099f52559ccc139256de091fcbc6bea80ebf29f",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 70,
+  "normalizedKey": "the black keys|your touch",
+  "playableChords": [
+    "A",
+    "D",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Solo"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f1fcada71c12333f19d79bc8b099f52559ccc139256de091fcbc6bea80ebf29f",
+    "version": "BCFZ"
+  },
+  "tempo": 109,
+  "title": "Your Touch",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

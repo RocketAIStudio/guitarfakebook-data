@@ -1,0 +1,145 @@
+{
+  "artist": "The Smashing Pumpkins",
+  "artistNormalized": "the smashing pumpkins",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E]\n\n[Verse 1]\n[E]Panda show\nTrees and bal-\n[D]loons\n[E]Ice cream snow\nSee you in\n[D]June\n\n[Interlude]\n[E]\n\n[Verse 2]\n[E]Could have known\nI would re-\n[D]veal\n[E]Should have known\nI would con-\n[D]ceal your\n\n[Chorus]\n[C]way [G]She knows\n[D]And she knows,\n[C]she knows, [G]she knows\n[D]And she knows,\n[C]she knows, [G]she knows\n[D]How’s it She knows,\n[C]she knows, [G]she knows\n[D]And she knows,\n[C]she knows [G]\n\n[Interlude]\n[E]\n\n[Verse 3]\n[E]Color show\nAfter the\n[D]moon\n[E]I should go\nSee you in\n[D]June Your\n\n[Chorus]\n[C]way [G]She knows\n[D]And she knows,\n[C]she knows, [G]she knows\n[D]And she knows,\n[C]she knows, [G]she knows\n[D]How's it she knows?\n[C]She knows, [G]she knows\n[D]And she knows,\n[C]she knows [G]\n\n[Solo]\n[A5]\n[C5]  [D5]\n[A5]\n[C5]  [D5]\n[A5]\n[C5]  [D5]\n[A5]\n[C5]  [D5]\n[E]\n[D]\n[E]\n[D]\n\n[Bridge]\n[E]Open your eyes To these mus-\ntard lies\n[D]\n[E]Open your eyes To these mus-\ntard lies\n[D]The\n\n[Chorus]\n[C]way [G]She knows\n[D]And she knows,\n[C]she knows, [G]she knows\n[D]And she knows,\n[C]she knows, [G]she knows\n[D]How's it She knows,\n[C]she knows, [G]she knows\n[D]And she knows,\n[C]she knows, [G]she knows\n[D]\n\n[Outro]\n[C]  [G]\n[D]\n[C]  [G]\n[D]\n[C]  [G]\n[D]\n[C]  [G]\n[D]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rhinoceros",
+  "id": "5cfb64bd8de6dc5546807967c7fea6200903053ff250ac7b65b548675df709d0",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 155,
+  "normalizedKey": "the smashing pumpkins|rhinoceros",
+  "playableChords": [
+    "E",
+    "D",
+    "C",
+    "G",
+    "A5",
+    "C5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Interlude"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Solo"
+    },
+    {
+      "measure": 77,
+      "name": "Bridge"
+    },
+    {
+      "measure": 84,
+      "name": "Chorus"
+    },
+    {
+      "measure": 94,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5cfb64bd8de6dc5546807967c7fea6200903053ff250ac7b65b548675df709d0",
+    "version": "BCFZ"
+  },
+  "tempo": 73,
+  "title": "Rhinoceros",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

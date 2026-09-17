@@ -1,0 +1,164 @@
+{
+  "artist": "The Toonosaurs",
+  "artistNormalized": "the toonosaurs",
+  "capo": "No capo",
+  "chordPositionCount": 40,
+  "chordSymbolCount": 12,
+  "content": "[Verse]\n[E]\n[E]Life is like a\nhurricane\n[A]here [E]in\n[E][A]Duckburg\n[E]Race cars, lasers,\naeroplanes\n[D/A]it's [A]a\n[A][D/A]duckblur!\n[F#m7]Might solve a\n[B7]mystery\n[F#m7]Or rewrite\n[B7]history!\n\n[Chorus]\n[E]DuckTales! Wooo-\no!\n[C]Everyday they're\n[Dsus2]out there making\n[E]DuckTales! Wooo-\no!\n[C]Tales of derring-\n[Dsus2]do, bad and good\n[E]Luck Tales!\n\n[Bridge]\n[A/F#]Ddd danger\n[E/G#]lurks behind you\n[Dsus2]There's a stranger\n[E]out to find you\n[F#/C#]What to do, just\ngrab on to some...\n\n[Chorus]\n[F#]DuckTales! Wooo-\no!\n[D]Everyday they're\n[E]out there making\n[F#]DuckTales! Wooo-\no!\n[D]Tales of derring-\n[E]do, bad and good\n\n[Outro]\n[F#]Luck Tales! Wooo-\no! Not\n[D]pony tales or\n[E]cotton tales, no,\n[F#]DuckTales! Wooo-\no!",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "xx7655",
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A/F#": {
+      "catalog": [
+        "202220"
+      ],
+      "catalogCount": 1
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x04232"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x76454",
+        "x-x-2-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E/G#": {
+      "catalog": [
+        "42245x"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#/C#": {
+      "catalog": [
+        "x4432x"
+      ],
+      "catalogCount": 1
+    },
+    "F#m7": {
+      "catalog": [
+        "242222",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14",
+        "x-21-23-21-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Duck Tales",
+  "id": "491e4931e23db945a69328bb41e0cf879b52deab651c592f08a608cca799fa6d",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 129,
+  "normalizedKey": "the toonosaurs|duck tales",
+  "playableChords": [
+    "E",
+    "A",
+    "D/A",
+    "F#m7",
+    "B7",
+    "C",
+    "Dsus2",
+    "A/F#",
+    "E/G#",
+    "F#/C#",
+    "F#",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "491e4931e23db945a69328bb41e0cf879b52deab651c592f08a608cca799fa6d",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Duck Tales",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

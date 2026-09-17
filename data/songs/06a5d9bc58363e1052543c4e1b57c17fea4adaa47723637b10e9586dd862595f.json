@@ -1,0 +1,115 @@
+{
+  "artist": "The Devil Makes Three",
+  "artistNormalized": "the devil makes three",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\n[Dm]\n[G]  [Em]\n[Am]\n[Dm]\n[G]  [Em]\n\n[Verse 1]\n[Am]I wanna tell you a sto-\nry\n[Dm]Ain't got no characters\n[G]in it but me [Em]\n[Am]I wanna sing you a sad\nsong\n[Dm]Most of it I don't ex-\n[G]pect you to [Em]believe\n[Am]It starts off just the\nwhiskey and wine Some\n[Dm]miles of travel and some\n[G]real good times [Em]But it\n[Am]ends in a dark\ncorridor Where there\n[Dm]ain't no windows and there\n[G]ain't no doors [Em]Well that's\n\n[Chorus]\n[Am]me\nJust a\n[Dm]drinkin off this bottle and a\n[G]driftin out to [Em]sea Well that's\n[Am]me\nJust a\n[Dm]sittin here starin and a\n[G]shakin like a [Em]leaf Well that's\n[Am]me\nJust a\n[Dm]leanin on my shovel in this\n[Em]graveyard o' dreams Yeah that's\n[Am]me\nJust a\n[Dm]leanin on my shovel in this\n[G]graveyard o' dreams\n\n[Interlude]\n[Am]\n[F]\n[Am]\n[F]\n[Am]\n[Dm]\n[G]  [Em]\n[Am]\n[Dm]\n[G]  [Em]\n\n[Verse 2]\n[Am]I wanna take you to a\nshipwreak\n[Dm]A thousand miles under-\n[G]neath the Black [Em]sea\n[Am]Looks like everybody's\nsleeping\n[Dm]But look close they are\n[G]dead indeed [Em]\n[Am]I wanna lead you to an\narmchair\n[Dm]Deep back in the\n[G]files of my mind [Em]\n[Am]I wanna sit you in the\ncandle's light Where\n[Dm]I've been spendin\n[G]all of my [Em]time Well that's\n\n[Chorus]\n[Am]me\nJust a\n[Dm]drinkin off this bottle is it\n[G]drinkin off [Em]o'me Well that's\n[Am]me\nJust a\n[Dm]sittin here starin and a\n[G]shakin like a [Em]leaf Well that's\n[Am]me\nJust a\n[Dm]leanin on my shovel in this\n[Em]graveyard o' dreams Yeah that's\n[Am]me\nJust a\n[Dm]leanin on my shovel in this\n[G]graveyard o' dre-\n\n[Outro]\n[Am]ams\n[F]\n[Am]\n[F]\n[Am]\n[Dm]\n[G]  [Em]\n[Am]\n[Dm]\n[G]  [Em]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "022003",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Graveyard",
+  "id": "06a5d9bc58363e1052543c4e1b57c17fea4adaa47723637b10e9586dd862595f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 292,
+  "normalizedKey": "the devil makes three|graveyard",
+  "playableChords": [
+    "Am",
+    "Dm",
+    "G",
+    "Em",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "06a5d9bc58363e1052543c4e1b57c17fea4adaa47723637b10e9586dd862595f",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "Graveyard",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

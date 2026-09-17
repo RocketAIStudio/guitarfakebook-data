@@ -1,0 +1,104 @@
+{
+  "artist": "The Nitty Gritty Dirt Band",
+  "artistNormalized": "the nitty gritty dirt band",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n\n[Verse 1]\n[D]Lazy yellow moon comin' up tonite\nShinin' thru the trees\nCrickets are singin' and lightning bugs Are\n[G]floatin' on the breeze Baby get\nready\n[D]\nAcross the field where the creek turns back by the\nole stone road\n[G]I'm gonna take you to a special place that\nnobody knows Baby get\nready\n[A]Ooh, oh\n\n[Chorus]\n[D]You and me going fishing in the dark Lying\non our backs and counting the stars Where the\n[G]cool grass grows\nDown\n[D]by the river in the full moon light We'll be\nfallin' in love in the middle of the night Just\n[G]movin' slow\n[Em]Stayin' the whole night [A]thru,\n[Em]feels so good to [A]be with\n\n[Bridge]\n[D]you\n\n[Verse 2]\n[D]\n[G]\n[D]\n[G]\n[A]\n\n[Chorus]\n[D]\n[G]\n[D]\n[G]\n[Em]  [A]\n[Em]  [A]\n[D]You and me going fishing in the dark Lying\non our backs and counting the stars Where the\n[G]cool grass grows\nDown\n[D]by the river in the full moon light We'll be\nfallin' in love in the middle of the night Just\n[G]movin' slow\nYou\n\n[Fade Out]\n[D]and me going fishing in the dark Lying\non our backs and counting the stars Where the\n[G]cool grass grows\nDown\n[D]by the river in the full moon light We'll be\nfallin' in love in the middle of the night\n[G]Just movin' slow",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "000232",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "222000",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "555787",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Fishin' In The Dark",
+  "id": "bec49a9206c4ea39552516c00a661f5f9f33a679752441702af84ef2d954ecb7",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 232,
+  "normalizedKey": "the nitty gritty dirt band|fishin in the dark",
+  "playableChords": [
+    "D",
+    "G",
+    "A",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bec49a9206c4ea39552516c00a661f5f9f33a679752441702af84ef2d954ecb7",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "Fishin' In The Dark",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

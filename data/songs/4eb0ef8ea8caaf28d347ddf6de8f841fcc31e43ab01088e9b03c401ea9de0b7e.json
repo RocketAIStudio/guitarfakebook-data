@@ -1,0 +1,148 @@
+{
+  "artist": "The Everly Brothers",
+  "artistNormalized": "the everly brothers",
+  "capo": "No capo",
+  "chordPositionCount": 28,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[F#]\n[E]  [B]\n[F#]\n[E][C#]Love\n\n[Verse 1]\n[F#]hurts, love\n[D#m]scars Love\n[B]wounds and\n[C#]mars A ny\n[F#]heart not\n[D#m]tough Nor\n[B]strong e -\n[C#]nough To take a lot of\n\n[Pre-Chorus]\n[F#]pain, [A#]take a lot of\n[D#m]pain [F#7]Love is like a\n[B]cloud, holds a lot of\n[C#]rain Love\n\n[Chorus]\n[F#]hurts\n[E][B]Love\n[F#]hurts\n[E][C#]I'm\n\n[Verse 2]\n[F#]young, I\n[D#m]know But\n[B]even\n[C#]so I know a\n[F#]thing or\n[D#m]two I've\n[B]learned from\n[C#]you I've really learned a\n\n[Pre-Chorus]\n[F#]lot, [A#]really learned a\n[D#m]lot [F#7]Love is like a\n[B]stove, burns you when it's\n[C#]hot Love\n\n[Chorus]\n[F#]hurts\n[E][B]Love\n[F#]hurts\n[F#7]\n\n[Bridge]\n[B]Some fools rave of\n[D#m][A#]happiness\n[D#m][A#]Blissfulness, to-\n[D#m][A#]getherness\n[G#7]Some fools fool them-\nselves, I guess But\nthey're not fooling\n[C#]me I know it isn't\n\n[Pre-Chorus]\n[F#]true, [A#]know it isn't\n[D#m]true [F#7]Love is just a\n[B]lie made to make you\n[C#]blue Love\n\n[Chorus]\n[F#]hurts\n[E][B]Love\n[F#]hurts\n[E][B]Love\n[F#]hurts\n[E]  [B]",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "688766"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "x68876"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "G#7": {
+      "catalog": [
+        "464544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Love Hurts",
+  "id": "4eb0ef8ea8caaf28d347ddf6de8f841fcc31e43ab01088e9b03c401ea9de0b7e",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 141,
+  "normalizedKey": "the everly brothers|love hurts",
+  "playableChords": [
+    "F#",
+    "E",
+    "B",
+    "C#",
+    "D#m",
+    "A#",
+    "F#7",
+    "G#7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4eb0ef8ea8caaf28d347ddf6de8f841fcc31e43ab01088e9b03c401ea9de0b7e",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "Love Hurts",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

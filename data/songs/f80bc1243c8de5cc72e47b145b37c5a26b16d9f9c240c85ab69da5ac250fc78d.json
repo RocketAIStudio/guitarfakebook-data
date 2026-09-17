@@ -1,0 +1,130 @@
+{
+  "artist": "The Mountain Goats",
+  "artistNormalized": "the mountain goats",
+  "capo": "4",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Dbm]  [Gb]\n[Dbm]  [Gb]\n[Dsus2]  [E]\n[A]\n\n[Verse 1]\n[A]I hope that our few [E]remaining friends\n[Dsus2]Give up on trying to [A]save us I\nhope we come up with a [E]failsafe plot To piss off\n[Dsus2]the dumb few that [A]forgave us\nI hope the fences we [E]mended\n[Dsus2]Fall down beneath their own [E]weight And I hope\n[A]we hang on past the [Gbm]last exit I\n[Dsus2]hope it's already too [E]late And\n\n[Pre-Chorus]\n[A]I hope the junkyard a few blocks from here\n[Gbm]Someday burns down And\n[Dsus2]I hope the rising black smoke carries me far away\nAnd I never come [E]back to this town a-\n\n[Chorus]\n[Dsus2]gain In my\n[E]life I hope I lie,\n[A]and tell\n[Dsus2]everyone you were a good wife And I hope you die\n[A]I hope we both\n[E]die\n[A]\n\n[Bridge]\n[Dbm]  [Gb]\n[Dbm]  [Gb]\n[Dsus2]  [E]\n[A]\n\n[Verse 2]\n[A]I hope I cut myself [E]shaving tomorrow\n[Dsus2]I hope it bleeds all day [A]long Our\nfriends say it's darkest [E]before the sun rises\n[Dsus2]We're pretty sure they're all [A]wrong\nI hope it stays dark [E]forever\n[Dsus2]I hope the worst isn't [E]over And\n[A]I hope you blink before [Gbm]I do And\n[Dsus2]I hope I never get [E]sober And I\n\n[Pre-Chorus]\n[A]hope when you think of me years down the line You\n[Gbm]can't find one good thing to say And I'd\n[Dsus2]hope that if I found the strength to walk out You'd\nstay the hell out of my [E]way I am\n\n[Chorus]\n[Dsus2]drowning There is no sign of\n[E]land You are coming down\n[A]with me\n[Dsus2]Hand in unlovable hand And I hope you die\n[A]I hope we\n[E]both die\n[A]\n\n[Outro]\n[Dbm]  [Gb]\n[Dbm]  [Gb]\n[Dsus2]  [E]\n[A]\n[Dbm]  [Gb]\n[Dbm]  [Gb]\n[Dsus2]  [E]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Dbm": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "Gbm": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "No Children",
+  "id": "f80bc1243c8de5cc72e47b145b37c5a26b16d9f9c240c85ab69da5ac250fc78d",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 284,
+  "normalizedKey": "the mountain goats|no children",
+  "playableChords": [
+    "Dbm",
+    "Gb",
+    "Dsus2",
+    "E",
+    "A",
+    "Gbm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Bridge"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 48,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f80bc1243c8de5cc72e47b145b37c5a26b16d9f9c240c85ab69da5ac250fc78d",
+    "version": "BCFZ"
+  },
+  "tempo": 127,
+  "title": "No Children",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

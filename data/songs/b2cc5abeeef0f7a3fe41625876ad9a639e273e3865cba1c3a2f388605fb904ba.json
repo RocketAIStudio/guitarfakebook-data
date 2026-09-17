@@ -1,0 +1,107 @@
+{
+  "artist": "The Doors",
+  "artistNormalized": "the doors",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n[D]  [Em]\n[D]  [Em]\n[D]  [Em]\n[D]  [Em]\n\n[Verse]\n[Em]Take the highway to the\nend of the night\n[D]End of the [Em]night\n[D]end of the [Em]night\nTake a journey to the\nbright midnight\n[D]End of the [Em]night,\n[D]end of the [Em]night\n\n[Chorus]\n[Am]Realms of bliss,\n[Em]realms of light\n[Am]Some are born to\n[Em]sweet delight\n[Am]Some are born to\n[Em]sweet delight\n[F#7]Some are born to the\n[Em]endless night\n[D]End of the [Em]night,\n[D]end of the [Em]night\n[D]End of the [Em]night,\n[D]end of the [Em]night\n\n[Solo]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n[F#7]\n[B7]\n[D]  [Em]\n[D]  [Em]\n[D]  [Em]\n[D]  [Em]\n\n[Chorus]\n[Am]Realms of bliss,\n[Em]realms of light\n[Am]Some are born to\n[Em]sweet delight\n[Am]Some are born to\n[Em]sweet delight\n[F#7]Some are born to the\n[Em]endless night\n[D]End of the [Em]night,\n[D]end of the [Em]night\n[D]End of the [Em]night,\n[D]end of the [Em]night",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x2424x",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x5777x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x7998x",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "2423xx",
+        "2-4-2-3-2-2",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "End Of The Night",
+  "id": "b2cc5abeeef0f7a3fe41625876ad9a639e273e3865cba1c3a2f388605fb904ba",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 123,
+  "normalizedKey": "the doors|end of the night",
+  "playableChords": [
+    "Em",
+    "D",
+    "Am",
+    "F#7",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Solo"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b2cc5abeeef0f7a3fe41625876ad9a639e273e3865cba1c3a2f388605fb904ba",
+    "version": "BCFZ"
+  },
+  "tempo": 76,
+  "title": "End Of The Night",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

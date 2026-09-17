@@ -1,0 +1,119 @@
+{
+  "artist": "The Troggs",
+  "artistNormalized": "the troggs",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]  [D]\n[E]  [D]\n\n[Chorus]\n[A]Wild thing [D]\n[E][D]You make my\n[A]heart sing [D]\n[E][D]You make e-\n[A]verything [D]groovy\n[E]  [D]\n[A]Wild thing [D]\n[E]  [G5]  [A5]  [G5]\n\n[Verse 1]\n[A]Wild thing, I\nthink I love [G5]you [A5][G5]\n[A]But I wanna know\nfor sure [G5][A5][G5]\n[A]So come on and\nhold me tight [G5][A5][G5]\n[A]I\nlove you\n\n[Interlude]\n[A]  [D]\n[E]  [D]\n[A]  [D]\n[E]  [D]\n\n[Chorus]\n[A]Wild thing [D]\n[E][D]You make my\n[A]heart sing [D]\n[E][D]You make e-\n[A]verything [D]groovy\n[E]  [D]\n[A]Wild thing [D]\n[E]\n\n[Solo]\n[A]  [D]\n[E]  [D]\n[A]  [D]\n[E]  [D]\n[A]  [D]\n[E]  [D]\n[A]  [D]\n[E]  [G5]  [A5]  [G5]\n\n[Verse 2]\n[A]Wild thing, I\nthink you move [G5]me [A5][G5]\n[A]But I wanna know\nfor sure [G5][A5][G5]\n[A]So come on and\nhold me tight [G5][A5][G5]\n[A]You\nmove me\n\n[Interlude]\n[A]  [D]\n[E]  [D]\n[A]  [D]\n[E]\n\n[Chorus]\n[A]Wild thing [D]\n[E][D]You make my\n[A]heart sing [D]\n[E][D]You make e-\n[A]verything [D]groovy\n[E]  [D]\n[A]Wild thing [D]\n[E][D]Come on, come on,\n[A]wild thing [D]\n\n[Fade Out]\n[E][D]Shake it, shake it,\n[A]wild thing [D]\n[E]  [D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wild Thing",
+  "id": "0eaff50a553809afc4ab9d85146787d27110726ace4f58f67bf0d45be10b54ec",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 108,
+  "normalizedKey": "the troggs|wild thing",
+  "playableChords": [
+    "A",
+    "D",
+    "E",
+    "G5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Chorus"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Interlude"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Solo"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 48,
+      "name": "Interlude"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0eaff50a553809afc4ab9d85146787d27110726ace4f58f67bf0d45be10b54ec",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "Wild Thing",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

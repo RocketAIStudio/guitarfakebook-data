@@ -1,0 +1,153 @@
+{
+  "artist": "The Rolling Stones",
+  "artistNormalized": "the rolling stones",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[G7]\n\n[Intro]\n[C]\n[G7]\n[C]\n[G7]There've been so\n\n[Verse 1]\n[C]ma ny\n[C7]girls that I've\n[F]known\n[D7]I've made so\nmany cry\n[G7]and still I\nwonder why\n\n[Pre-Chorus]\n[Am]Here comes the little\ngirl\nI see her walking down the street\nShe's all by herself\nI try and knock her off her feet\nBut, she'll\n\n[Chorus]\n[F]never, never,\nnever, never\n[G]break\n[G7]This heart of\n[Am]stone Oh, no,\nno, this heart of\n[C]stone\n[G7]What's different a-\n\n[Verse 2]\n[C]bout her?\nI [C7]don't really\n[F]know\n[D7]No matter\nhow I try\n[G7]I just can't\nmake her cry\n\n[Solo]\n[Am]\nCause she'll\n\n[Chorus]\n[F]never, never,\nnever, never\n[G]break\n[G7]This heart of\n[Am]stone Oh, no,\nno, no, this heart of\n[C]stone\n[G7]Don't keep on\n\n[Verse 3]\n[C]loo king\nthat [C7]same old\n[F]way\n[D7]If you try\nacting sad,\n[G7]you'll only\nmake me glad\n\n[Pre-Chorus]\n[Am]Better listen little\ngirl\nYou go on walking down the street\nI ain't got no love,\nI ain't the kind to meet\n'Cause you'll\n\n[Chorus]\n[F]never, never,\nnever, never\n[G]break\n[G7]This heart of\n[Am]stone Oh, no,\nno, you'll never break this heart of\n[C]stone darlin No, no,\n[G7]this heart of\n\n[Outro]\n[Am]stone You'll never\nbreak it darlin\n[C]You won't break this heart of\n[G7]stone Oh no no\n[Am]no You better\ngo You better go\n[C]home\n[G7]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "353463",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Heart Of Stone",
+  "id": "8aad67bc143325e836369e6ae4fc84354d79e04662c3d6010d01536bf9b82c49",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 226,
+  "normalizedKey": "the rolling stones|heart of stone",
+  "playableChords": [
+    "G7",
+    "C",
+    "C7",
+    "F",
+    "D7",
+    "Am",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Solo"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 62,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Chorus"
+    },
+    {
+      "measure": 78,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8aad67bc143325e836369e6ae4fc84354d79e04662c3d6010d01536bf9b82c49",
+    "version": "BCFZ"
+  },
+  "tempo": 94,
+  "title": "Heart Of Stone",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

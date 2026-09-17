@@ -1,0 +1,156 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[A]\n[F#m]\n[A]\n[F#m]\n\n[Verse 1]\n[A]I don't like you\nBut I love you\n[F#m]Seems that I'm always\nThinking of you\n[A]Oh, oh, [A7]oh You treat me\n[D]badly I love you\n\n[Chorus]\n[B7]madly You've [E7]really got a\n[A]hold on me\nYou really got a\n[F#m]hold on me\nBa by\n\n[Verse 2]\n[A]I don't want you\nBut I need you\n[F#m]Don't want to kiss you\nBut I need to\n[A]Oh, oh, [A7]oh You do me\n[D]wrong now My love is\n\n[Chorus]\n[B7]strong now You've [E7]really got a\n[A]hold on me\nYou really got a\n[F#m]hold on me\nBa by\n\n[Bridge]\n[A]I love [A7]you and all I\n[D]want you to do Is just\n[A]hold me, hold me,\nhold me, [E7]hold me\n[A]  [F#m]\n[E][A]Tighter\n[A]  [F#m]\n[E][A]Tighter\n\n[Verse 3]\n[A]I want to leave you\nDon't want to stay here\n[F#m]Don't want to spend\nAnother day here\n[A]Oh, oh, [A7]oh, I want to\n[D]split now I just can't\n\n[Chorus]\n[B7]quit now You've [E7]really got a\n[A]hold on me\nYou really got a\n[F#m]hold on me\nBa by\n\n[Bridge]\n[A]I love [A7]you and all I\n[D]want you to do Is just\n[A]hold me, hold me,\nhold me, [E7]hold me\nYou\n\n[Outro]\n[A]really got a hold on me\nYou\n[F#m]really got a hold on me\n[A]\n[Em/A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Em/A": {
+      "catalog": [
+        "x02000"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You Really Got A Hold On Me",
+  "id": "320165bfd2326fdc774eddf88400d9c978a6bee004f659f49a6840997c14a352",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 209,
+  "normalizedKey": "the beatles|you really got a hold on me",
+  "playableChords": [
+    "A",
+    "F#m",
+    "A7",
+    "D",
+    "B7",
+    "E7",
+    "E",
+    "Em/A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Bridge"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 48,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "320165bfd2326fdc774eddf88400d9c978a6bee004f659f49a6840997c14a352",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "You Really Got A Hold On Me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

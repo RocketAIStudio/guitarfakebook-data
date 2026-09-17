@@ -1,0 +1,93 @@
+{
+  "artist": "The Bridal Procession",
+  "artistNormalized": "the bridal procession",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[B5]\n\n[Verse 1]\n[B5]Welcome\n[D5]to the worst lie\n[A5]That's been\n[C5]ever crea-\n[B5]ted The one that\n[D5]led the world\n[E5]to it's to-\n[A5]tal Destruction\n\n[Verse 2]\n[B5]Welcome\n[D5]to the worst lie\n[A5]That's been\n[G5]ever crea-\n[B5]ted The one that\n[D5]led the world\n[E5]to it's\n[F5]total Destruction\n[B5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "111xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "666xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x133xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Introduction To The Procession",
+  "id": "e5731bda53bd09aa93f3bb5ac3bedc4afc90337837f1fff17ff1aa97d9ddebbb",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 52,
+  "normalizedKey": "the bridal procession|introduction to the procession",
+  "playableChords": [
+    "B5",
+    "D5",
+    "A5",
+    "C5",
+    "E5",
+    "G5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e5731bda53bd09aa93f3bb5ac3bedc4afc90337837f1fff17ff1aa97d9ddebbb",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Introduction To The Procession",
+  "tuning": "B F# B E G# C#",
+  "variantRole": "primary"
+}

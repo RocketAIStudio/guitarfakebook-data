@@ -1,0 +1,127 @@
+{
+  "artist": "The Maccabees",
+  "artistNormalized": "the maccabees",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F#m]\n[D]\n[F#m]\nNever as a\n\n[Verse 1]\n[D]child\nWould you give\n[F#m]this time of\nday You'd\n[D]take it from the sha-\ndows And you give\n[F#m]it another name\nBut now it's\n[D]all that's left\nNow it's\n[F#m]all that's left\n\n[Bridge]\n[D]\n[F#m]\nAnd though it\n\n[Verse 2]\n[D]awful gentle takes\nyou And it aw-\n[F#m]ful slowly leaves\nIt's a\n[D]weight I wouldn't wish\nupon And I wish\n[F#m]I wouldn't have to wait\nBut now\n\n[Chorus]\n[D]it's all that's\nleft Now\n[F#m]it's all that's\nleft Now it's\n[D]all that's left\nNow it's\n[F#m]all that's left\nNever as a\n\n[Interlude]\n[D]child\n[F#m]Never as a\n[D]child\n[F#m]Now it's\n[D]so vivid\n[F#m]Now it's\n[Bm]so vivid\n[F#m]Now it's\n[Bm]so vivid\n[F#m]Now it's\n[Bm]so vivid\n[F#m]Given to the\n\n[Bridge]\n[Bm]wild\n[A]\nGiven to the\n[D]wild\n[C#m]\n[F#m]\nWhile the ways\n[Bm]\nof a child\n[A]\nAre whiled a-\n[D]way, whiled away\n[C#m]whiled away\n[F#m]\n\n[Interlude]\n[Bm]\n[A]\n[D]\n[C#m]\n[F#m]\n[Bm]\n[A]\n[D]\n[C#m]\n[F#m]\n\n[Bridge]\n[Bm]\n[A]\n[D]\n[C#m]\n[F#m]\nIt's\n\n[Outro]\n[Bm]all\nthat's left\n[A]\nNow it's\n[D]all\n[C#m]that's left\n[F#m]\nNow it's\n[Bm]all\nthat's left\n[A]\nNow it's\n[D]all\n[C#m]that's left\n[F#m]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Child",
+  "id": "2964d3ccdd7e44b0f14ab5ba6eedec85e4a563b494fa525f9d3833aa2ebf7c63",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 172,
+  "normalizedKey": "the maccabees|child",
+  "playableChords": [
+    "F#m",
+    "D",
+    "Bm",
+    "A",
+    "C#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 69,
+      "name": "Interlude"
+    },
+    {
+      "measure": 85,
+      "name": "Bridge"
+    },
+    {
+      "measure": 93,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2964d3ccdd7e44b0f14ab5ba6eedec85e4a563b494fa525f9d3833aa2ebf7c63",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "Child",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

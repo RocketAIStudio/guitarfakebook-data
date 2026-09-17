@@ -1,0 +1,134 @@
+{
+  "artist": "The Decemberists",
+  "artistNormalized": "the decemberists",
+  "capo": "5",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G/F#]\n[G]\n[G/F#]\n[G]\n\n[Verse 1]\n[G/F#]This is the story of your\n[G]red right ankle\n[G/F#]And how it came to meet your\n[G]leg\n[G/F#]And how the muscle, bone, and\n[G]sinews tangled\n[G/F#]And how the skin was soft-\n[G]ly shed\n\n[Pre-Chorus]\n[Em7]And how it whispered Oh ad-\n[A]here to me\n[Em7]For we are bound by\n[A]symmetry\n[Em7]Whatever differences our\n[A]lives have been\n[D]We together ma-\n[G]ke a limb\n\n[Chorus]\n[Em7]This is the story of your\n[A]red right ankle\n[G/F#]\n[G]\n[G/F#]\n[G]\n\n[Verse 2]\n[G/F#]This is the story of your\n[G]gypsy uncle\n[G/F#]You never knew 'cause he was\n[G]dead\n[G/F#]And how his face was carved and\n[G]rift with wrinkles\n[G/F#]In the picture in yo-\n[G]ur head\n\n[Pre-Chorus]\n[Em7]And remember how you\n[A]found the key\n[Em7]To his hideout in the\n[A]Pyrenees\n[Em7]But you wanted to keep his\n[A]secret safe\n[D]So you threw the key\n[G]away\n\n[Chorus]\n[Em7]This is the story of your\n[A]gypsy uncle\n[G/F#]\n[G]\n[G/F#]\n[G]\n\n[Interlude]\n[Em7]\n[A]\n[Em7]\n[A]\n[G/F#]\n[G]\n[G/F#]\n[G]\n\n[Verse 3]\n[G/F#]This is the story of the boys\n[G]who loved you\n[G/F#]Who love you now and loved you\n[G]then\n[G/F#]And some were sweet, and some were\n[G]cold and snuffed you\n[G/F#]And some just laid around\n[G]in bed\n\n[Pre-Chorus]\n[Em7]Some had crumbled you straight\n[A]to your knees\n[Em7]Did it cruel, did it\n[A]tenderly\n[Em7]Some had crawled their way in-\n[A]to your heart\n[D]To rend your ventricles\n[G]apart\n\n[Chorus / Outro]\n[Em7]This is the story of the boys\n[A]who loved\n[Bmadd11]you\n[G]\n[Em7]This is the story of your\n[A]red right ankle\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bmadd11": {
+      "catalog": [
+        "x24430"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022033",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/F#": {
+      "catalog": [
+        "2x0033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Red Right Ankle",
+  "id": "5064f21b67f94fc94e3127f292a7873284960d9424e0f92ab174341d92d01177",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 270,
+  "normalizedKey": "the decemberists|red right ankle",
+  "playableChords": [
+    "G/F#",
+    "G",
+    "Em7",
+    "A",
+    "D",
+    "Bmadd11"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 65,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus / Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5064f21b67f94fc94e3127f292a7873284960d9424e0f92ab174341d92d01177",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "Red Right Ankle",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

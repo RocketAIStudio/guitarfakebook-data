@@ -1,0 +1,113 @@
+{
+  "artist": "The Rolling Stones",
+  "artistNormalized": "the rolling stones",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[C#]\n[B]\n[A]\n[B]\n[C#]\n[B]\n[A]\n[B]\n[C#]\n[B]\n[A]\n[B]\n[C#]\n[B]\n[A]\n[B]\n[C#]\n[B]\n[A]\n[B]\n[C#]\n[B]\n[A]\n[B]\n\n[Verse 1]\n[C#]Oh, a storm\nis threat'ning\nMy very life\ntoday\nIf I don't\nget some shelter\nOh yeah, I'm gonna\nfade away\n\n[Chorus]\n[C#]War, child-\n[B]ren\n[A]It's just a shot away,\nit's just a [B]shot away\n[C#]War, child-\n[B]ren\n[A]It's just a shot away,\nit's just a [B]shot away\n\n[Bridge]\n[C#]\n\n[Verse 2]\n[C#]Oh, see the fire\nis sweeping\nOur very street\ntoday\nBurns like a red\ncoal carpet\nMad bull lost\nyour way\n\n[Chorus]\n[C#]War, child-\n[B]ren\n[A]It's just a shot away,\nit's just a [B]shot away\n[C#]War, child-\n[B]ren\n[A]It's just a shot away,\nit's just a [B]shot away\n\n[Solo]\n[C#]\n[C#]\n[B]\n[A]\n[B]\n[C#]\n[B]\n[A]\n[B]\n[C#]\n[B]\n[A]\n[B]\n\n[Break]\n[C#]Rape,\n[B]murder!\n[A]It's just a shot away,\nit's just a [B]shot away\n[C#]Rape, murder!\n[B]\n[A]It's just a shot away,\nit's just a [B]shot away\n[C#]Rape,\n[B]murder!\n[A]It's just a shot away,\nit's just a [B]shot away\n[C#]\n[B]\n[A]\n[B]\n\n[Verse 3]\n[C#]Mmm, the floods\nis threat'ning\nMy very life\ntoday\nGimme, gim-\nme shelter\nOr I'm going to\nfade away\n\n[Chorus]\n[C#]War, child-\n[B]ren\n[A]It's just a shot away,\nit's just a [B]shot away\n[C#]It's just a shot away,\n[B]it's just a shot away\n[A]It's just a shot away\n[B]I tell you\n\n[Break]\n[C#]love,\n[B]sister\n[A]It's just a kiss away,\nit's just a [B]kiss away\n[C#]It's just a kiss away,\n[B]it's just a kiss away\n[A]It's just a kiss away,\nkiss away [B]kiss away\n\n[Outro]\n[C#]\n[B]\n[A]\n[B]\n[C#]\n[B]\n[A]\n[B]\n[C#]\n[B]\n[A]\n[B]\n[C#]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "5555xx",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "7777xx",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "9999xx",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Gimme Shelter",
+  "id": "3c4862e485c26ec1e3a045ac4ffd8f8a538b78c18fc5ab57b56cf7abf9b4e79b",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 257,
+  "normalizedKey": "the rolling stones|gimme shelter",
+  "playableChords": [
+    "C#",
+    "B",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Solo"
+    },
+    {
+      "measure": 81,
+      "name": "Break"
+    },
+    {
+      "measure": 97,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 105,
+      "name": "Chorus"
+    },
+    {
+      "measure": 113,
+      "name": "Break"
+    },
+    {
+      "measure": 121,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3c4862e485c26ec1e3a045ac4ffd8f8a538b78c18fc5ab57b56cf7abf9b4e79b",
+    "version": "BCFZ"
+  },
+  "tempo": 118,
+  "title": "Gimme Shelter",
+  "tuning": "E B E G# B E",
+  "variantRole": "primary"
+}

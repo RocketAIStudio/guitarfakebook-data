@@ -1,0 +1,111 @@
+{
+  "artist": "The Lillingtons",
+  "artistNormalized": "the lillingtons",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A5]\nIt's the\n\n[Verse 1]\n[A5]ancient tale of the\n[F5]evil chinaman\n[C5]\n[G5]That\n[A5]crossed the sea with his\n[F5]gun and secret plan\n[C5]\n[G5]To take\n\n[Chorus]\n[F5]over the [G5]USA,\n[A5]he's gonna\n[A5]try it [G5]again today\n[F5]He'll turn the\n[F5]whole world into\n[G5]China if he gets his way\n[A5]\n\n[Interlude]\n[F5]\n[E5]\n[F5]\n[E5]\n[F5]\n[E5]  [D5]\n\n[Solo]\n[A5]\n[F5]\n[C5]\n[G5]\n[A5]\n[F5]\n[C5]\n[G5]\n[A5]\n[F5]\n[C5]\n[G5]\n[A5]\n[F5]\n[C5]\n[G5]\n\n[Interlude]\n[A5]\nIt's the\n\n[Verse 2]\n[A5]ancient tale of the\n[F5]evil chinaman\n[C5]\n[G5]That\n[A5]crossed the sea with his\n[F5]gun and secret plan\n[C5]\n[G5]Well the\n\n[Chorus]\n[F5]east tries to [G5]beat the west\n[A5]and it\n[A5]doesn't matter who's the best\n[F5]He's the ori-\nental armageddon that'll\n[G5]lay the whole world to rest\n[A5]\n[F5]\n[C5]\n[G5]Chinaman,\n\n[Outro]\n[A5]\n[F5]ma-\n[C5]chine gun in his hand\n[G5]Chinaman,\n[A5]\n[F5]crossed the\n[C5]sea with a secret plan\n[G5]Chinaman,\n[A5]\n[F5]ma-\n[C5]chine gun in his hand\n[G5]Chinaman,\n[A5]\n[F5]crossed the\n[C5]sea with a secret plan\n[G5]Chinaman\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx",
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Augur's Tale",
+  "id": "1a59422154ff0d40d8b02cf519e205902f745bbdd1b725c4d5691bc9c029055f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 155,
+  "normalizedKey": "the lillingtons|augur s tale",
+  "playableChords": [
+    "A5",
+    "F5",
+    "C5",
+    "G5",
+    "E5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Interlude"
+    },
+    {
+      "measure": 27,
+      "name": "Solo"
+    },
+    {
+      "measure": 43,
+      "name": "Interlude"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1a59422154ff0d40d8b02cf519e205902f745bbdd1b725c4d5691bc9c029055f",
+    "version": "BCFZ"
+  },
+  "tempo": 196,
+  "title": "Augur's Tale",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

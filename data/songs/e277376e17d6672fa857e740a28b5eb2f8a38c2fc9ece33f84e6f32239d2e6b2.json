@@ -1,0 +1,100 @@
+{
+  "artist": "The Story So Far",
+  "artistNormalized": "the story so far",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\n[Cadd9/F]\n\n[Verse 1]\n[C]Don't leave my\nlight on\nYou'll\nburn out the bulb\n[Cadd9/F]And then I'll\nhave to buy another\nIt's not like we can't\ntalk to each other\n[C]Don't write a\nsad song\nYou'll\nburn out your love\n[Cadd9/F]And then you'll\nhave to find another\nI’m gonna shine on\nfor my little brother\n\n[Chorus]\n[Am7]Hazy,\nlazy\n[C/F]Burning through my\ntrees\n[C]She says that I'm\ncrazy But\nI don't let it\nfaze me\n[Am7]Taste me,\nbaby\n[C/F]Take me as you\nplease\n\n[Interlude]\n[C]\nTake me as you please\n[Cadd9/F]\n[C]\n[Cadd9/F]\n\n[Verse 2]\n[C]I feel the\nsunshine\nThat\nburns away the cold\n[Cadd9/F]Pulling off the\nnylon cover\nHow many times can I\nsay that I love her?\n[C]That's not for\nthis song\n'Cause I'm\ndone with all the noise\n[Cadd9/F]Know that we can\ntalk to each other\nIt's all good, it's all\nlove, now it's over\n\n[Chorus]\n[Am7]Hazy,\nlazy\n[C/F]Burning through my\ntrees\n[C]She says that I'm\ncrazy But\nI don't let it\nfaze me\n[Am7]Taste me,\nbaby\n[C/F]Take me as you\nplease\n[C]She says that I'm\ncrazy But\nI don't let it\nfaze me\n[Am7]Hazy,\nlazy\n[C/F]Burning through my\ntrees\n[C]She says that I'm\ncrazy But\nI don't let it\nfaze me\n[Am7]Taste me,\nbaby\n[C/F]Take me as you\nplease\n\n[Interlude]\n[C]\nTake me as you please\n[Cadd9/F]\n[C]\n[Cadd9/F]\n[C]\n[Cadd9/F]\n[C]\n[Cadd9/F]\n\n[Outro]\n[C]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x20000",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "898888",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C/F": {
+      "catalog": [
+        "557444"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9/F": {
+      "catalog": [
+        "574444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Take Me As You Please",
+  "id": "e277376e17d6672fa857e740a28b5eb2f8a38c2fc9ece33f84e6f32239d2e6b2",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 236,
+  "normalizedKey": "the story so far|take me as you please",
+  "playableChords": [
+    "C",
+    "Cadd9/F",
+    "Am7",
+    "C/F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 9,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Interlude"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    },
+    {
+      "measure": 105,
+      "name": "Interlude"
+    },
+    {
+      "measure": 137,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e277376e17d6672fa857e740a28b5eb2f8a38c2fc9ece33f84e6f32239d2e6b2",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Take Me As You Please",
+  "tuning": "C G C G C E",
+  "variantRole": "primary"
+}

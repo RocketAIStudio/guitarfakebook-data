@@ -1,0 +1,96 @@
+{
+  "artist": "The Last Shadow Puppets",
+  "artistNormalized": "the last shadow puppets",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n\n[Chorus]\n[C]The\ntime has come again\nSlowly walking\n[Dm]down the steps\n[C]To\nwhere she would have\nbeen\nIf\nonly they were\n[Dm]seventeen\n\n[Verse 1]\n[C]\nWaiting patien-\ntly\nAnd\nstood between a\n[Dm]fraying seam\n[C]\nHiding from him-\nself\nAs\nwell as every-\n[Dm]body else\n[C]\n\n[Verse 2]\n[Dm]Without per-\nmission, his\n[C]face became wet\nHe\n[Dm]thought that he'd\nlearnt how to not\n[C]get upset\nFrom\n[Dm]folded notes in\nenvelopes \"Meet\n[C]me beneath the moon,\n[A]don't go too\n[Dm]soon\"\nShe went too\n[G]soon\n\n[Chorus]\n[C]The\ntime has come again\nSlowly walking\n[Dm]down the steps\n[C]To\nwhere she would have\nbeen\nIf\nonly they were\n[Dm]seventeen\n[C]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Time Has Come Again",
+  "id": "41a7621cc6c7acdcf876c36a5cef107afe5514057fac524ccc5f1212d4acded3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 121,
+  "normalizedKey": "the last shadow puppets|the time has come again",
+  "playableChords": [
+    "C",
+    "Dm",
+    "A",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Chorus"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 48,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "41a7621cc6c7acdcf876c36a5cef107afe5514057fac524ccc5f1212d4acded3",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "The Time Has Come Again",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

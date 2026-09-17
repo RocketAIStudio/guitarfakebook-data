@@ -1,0 +1,116 @@
+{
+  "artist": "The Paper Kites",
+  "artistNormalized": "the paper kites",
+  "capo": "2",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\n[F]\n[C]\n[C]\n[F]\n[C]\n\n[Verse 1]\n[C]What can I\ngive that is\n[F]all of\n[C]me? My\n[G]heart's not\ngood cause it's\n[F]split in\n[C]two\nWhat can I\ngive that is\n[F]all for\n[C]you? These\n[G]arms are\nall I have\n[C]\nBut I\n\n[Chorus]\n[F]hold\n[C]you like I\n[F]do love you\n[Am7]\nBut I\n[F]hold\n[Am7]you like I\n[F]do\nlove you\n\n[Solo 1]\n[C]\n[F]\n[C]\n[F]\n[C]\n\n[Verse 2]\n[C]What can I\ngive that is\n[F]all of\n[C]me? My\n[G]heart's not\ngood cause it's\n[F]split in\n[C]two\nWhat can I\ngive that is\n[F]all for\n[C]you? These\n[G]arms are\nall I have\n[C]\nBut I\n\n[Chorus]\n[F]hold\n[C]you like I\n[F]do love you\n[Am7]\nBut I\n[F]hold\n[Am7]you like I\n[F]do\nlove you\n\n[Solo 2]\n[C]\n[F]\n[C]\n[F]\n[C]\n\n[Solo 3]\n[F]\n[C]\n[F]\n[Am7]\n[F]\n[Am7]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]But I\n\n[Chorus]\n[F]hold\n[C]you like I\n[F]do love\n[Am7]you\nBut I\n[F]hold\n[Am7]you like I\n[F]do\nlove\n\n[Outro]\n[C]you\n[F]\n[C]\n[F]\n[C]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Arms",
+  "id": "bf533d934df6ecf5c9f5cf3ebf2c3beb638c7a89137ac5006e636a672e13f9e5",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 120,
+  "normalizedKey": "the paper kites|arms",
+  "playableChords": [
+    "C",
+    "F",
+    "G",
+    "Am7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 44,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 71,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 79,
+      "name": "Solo 3"
+    },
+    {
+      "measure": 98,
+      "name": "Chorus"
+    },
+    {
+      "measure": 109,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bf533d934df6ecf5c9f5cf3ebf2c3beb638c7a89137ac5006e636a672e13f9e5",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Arms",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

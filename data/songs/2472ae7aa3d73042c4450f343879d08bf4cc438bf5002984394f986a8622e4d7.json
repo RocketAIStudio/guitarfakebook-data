@@ -1,0 +1,136 @@
+{
+  "artist": "The Tallest Man Of Earth",
+  "artistNormalized": "the tallest man of earth",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[A7sus4]\n[D]\n[A7sus4]\n[Dsus4]\n[Dsus4/A]\n[D]\n[A7sus4]\n[Dsus4]\n[Dsus4/A]\n\n[Verse 1]\n[D]Well if I ever see the\n[A7sus4]morning\n[Dsus4]Just like a lizard in the\n[Dsus4/A]spring\n[D]I'm gonna run out in the\n[A7sus4]meadow\n[Dsus4]To catch the silence when it\n[Dsus4/A]sings\n[D]I'm gonna force the\n[A7sus4]Serengeti\n[Dsus4]To disappear into my\n[Dsus4/A]eyes\n[D]Then when I hear your voices\n[A7sus4]callin'\n[Dsus4]I'm gonna turn just inside\n[Dsus4/A]out\n\n[Chorus]\n[Dsus4]Well if I ever get to\n[Asus4/B]slumber\n[Dsus4]Just like a mole deep in the gr-\n[Dsus4/A]ound\nHell, I won't be found\n\n[Inrerlude]\n[D]\n[A7sus4]\n[Dsus4]\n[Dsus4/A]\n\n[Verse 2]\n[D]Deep in the dust forgotten\n[A7sus4]gathered\n[Dsus4]I grow a diamond in my\n[Dsus4/A]chest\n[D]I make reflections as the\n[A7sus4]moon shines on\n[Dsus4]Turn to a villain as I\n[Dsus4/A]rest\n\n[Chorus]\n[Dsus4]Well if I ever get to\n[Asus4/B]slumber\n[Dsus4]Just like a mole deep in the\n[Dsus4/A]ground\nHell, I won't be found\n\n[Interlude]\n[D]\n[A7sus4]\n[Dsus4]\n[Dsus4/A]\n\n[Verse 3]\n[A7sus4]I know there is a hollow\n[A#7M]I need to fill it with a\n[D/F#]draft Of all the words that I wont\n[Gsus2]way\n[A7sus4]And with a quiet whisper\n[A#7M]I send a curse upon the\n[D/F#]day That never used the sun to\n[Gsus2]see The li-\n\n[Bridge]\n[Dsus4]ght\n\n[Verse 4]\n[D]I'm gonna float up in the\n[A7sus4]ceiling\n[Dsus4]I built a levee of the\n[Dsus4/A]stars\n[D]And in my field of tired\n[A7sus4]horses\n[Dsus4]I built a freeway through this\n[Dsus4/A]farce\n\n[Chorus]\n[Dsus4]Well if I ever get that\n[Asus4/B]slumber\n[Dsus4]Ill be that mole deep in the gro-\n[Dsus4/A]und\nAnd I won't be fo-\n[D]und",
+  "diagrams": {
+    "A#7M": {
+      "catalog": [
+        "x10000"
+      ],
+      "catalogCount": 1
+    },
+    "A7sus4": {
+      "catalog": [
+        "x02300"
+      ],
+      "catalogCount": 1
+    },
+    "Asus4/B": {
+      "catalog": [
+        "x20000"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "0x020x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "4x0200"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus4": {
+      "catalog": [
+        "0x0300"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus4/A": {
+      "catalog": [
+        "x0x300"
+      ],
+      "catalogCount": 1
+    },
+    "Gsus2": {
+      "catalog": [
+        "5x0300"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Wont Be Found",
+  "id": "2472ae7aa3d73042c4450f343879d08bf4cc438bf5002984394f986a8622e4d7",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 277,
+  "normalizedKey": "the tallest man of earth|i wont be found",
+  "playableChords": [
+    "A7sus4",
+    "D",
+    "Dsus4",
+    "Dsus4/A",
+    "Asus4/B",
+    "A#7M",
+    "D/F#",
+    "Gsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Inrerlude"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 61,
+      "name": "Bridge"
+    },
+    {
+      "measure": 63,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 71,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2472ae7aa3d73042c4450f343879d08bf4cc438bf5002984394f986a8622e4d7",
+    "version": "BCFZ"
+  },
+  "tempo": 113,
+  "title": "I Wont Be Found",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

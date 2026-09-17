@@ -1,0 +1,119 @@
+{
+  "artist": "The Strokes",
+  "artistNormalized": "the strokes",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]\n[Bm]\n[D]\n[A]\n[A]\n[Bm]\n[D]\n[A]In\n\n[Verse 1]\n[A]many ways, they'll\n[Bm]miss the good old days\n[D]Someday,\n[A]someday Yeah, it\n[A]hurts to say, but\n[Bm]I want you to stay\n[D]Sometimes,\n[A]sometimes When\n[A]we was young, oh\n[Bm]man, did we have fun\n[D]Always,\n[A]always\n[A]Promises, they\n[Bm]break before they're made\n[D]Sometimes,\n[A]sometimes Oh,\n\n[Chorus]\n[A]Maya says I'm [E]lacking in depth\n[F#m]\n[D]I will do my best\n[A]You\n[A]say you wanna [E]stay by my side\n[F#m]\n[D]Darlin', your head's not right\n[A]See, a-\n[A]lone we stand, together [E]we fall a-\n[F#m]part Yeah,\n[D]I think I'll be al-\n[A]right I'm\n[A]working so I [E]won't have to try\n[F#m]so hard\n[D]Tables, they turn sometimes\n[A]Oh, someday\n\n[Bridge]\n[E]\nNo, I ain't wastin' no more\ntime\n\n[Break]\n[A]\n[Bm]\n[D]\n[A]\n[A]\n[Bm]\n[D]\n[A]And\n\n[Verse 2]\n[A]now my fears They\n[Bm]come to me in threes\n[D]So, I\n[A]Sometimes Say,\n[A]\"Fate my friend, You\n[Bm]say the strangest things\n[D]I find,\n[A]sometimes\" Oh,\n\n[Chorus]\n[A]Maya says I'm [E]lacking in depth\n[F#m]\n[D]I will try my best\n[A]You\n[A]say you wanna [E]stay by my side\n[F#m]\n[D]Darlin', your head's not right\n[A]See, a-\n[A]lone we stand, together [E]we fall a-\n[F#m]part Yeah,\n[D]I think I'll be al-\n[A]right I'm\n[A]working so I [E]won't have to try\n[F#m]so hard\n[D]Tables, they turn sometimes\n[A]Some-\n\n[Outro]\n[E]day\nNo, I ain't wastin' no more\ntime",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "2442xx",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Someday *alt",
+  "id": "a3e3a45db841337b64d7ffc14be6e0593d051b88ba1bd9b1739822296c956ca8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 237,
+  "normalizedKey": "the strokes|someday",
+  "playableChords": [
+    "A",
+    "Bm",
+    "D",
+    "E",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    },
+    {
+      "measure": 46,
+      "name": "Break"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 78,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a3e3a45db841337b64d7ffc14be6e0593d051b88ba1bd9b1739822296c956ca8",
+    "version": "BCFZ"
+  },
+  "tempo": 106,
+  "title": "Someday",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

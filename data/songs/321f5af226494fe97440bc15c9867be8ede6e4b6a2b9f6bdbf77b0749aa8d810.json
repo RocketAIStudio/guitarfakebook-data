@@ -1,0 +1,167 @@
+{
+  "artist": "The Beatles",
+  "artistNormalized": "the beatles",
+  "capo": "No capo",
+  "chordPositionCount": 37,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[D7]\nSay the\n\n[Chorus]\n[D7]word and you'll be\nfree Say the\nword and be like\nme Say the\n[G7]word I'm thinking\nof Have you\n[D7]heard the word is\nlove? It's\n[Asus4]so [A]fine, it's\n[G][Gsus4]sunshine It's the\n[D7]word,\nlove\n\n[Verse 1]\n[D]In the beginning I\n[C]misunderstood\n[F]But now I've got it, the\n[G]word is good Spread the\n\n[Chorus]\n[D7]word and you'll be\nfree Spread the\nword and be like\nme Spread the\n[G7]word I'm thinking\nof Have you\n[D7]heard the word is\nlove? It's\n[Asus4]so [A]fine, it's\n[G][Gsus4]sunshine It's the\n[D7]word,\nlove\n\n[Verse 2]\n[D]Everywhere I go I\n[C]hear it said\n[F]In the good and bad books that\n[G]I have read Say the\n\n[Chorus]\n[D7]word and you'll be\nfree Say the\nword and be like\nme Say the\n[G7]word I'm thinking\nof Have you\n[D7]heard the word is\nlove? It's\n[Asus4]so [A]fine, it's\n[G][Gsus4]sunshine It's the\n[D7]word,\nlove\n\n[Verse 3]\n[D]Now that I know what I\n[C]feel must be right\n[F]I'm here to show every-\n[G]body the light Give the\n\n[Chorus]\n[D7]word a chance to\nsay That the\nword is just the\nway It's the\n[G7]word I'm thinking\nof And the\n[D7]only word is\nlove It's\n[Asus4]so [A]fine, it's\n[G][Gsus4]sunshine It's the\n[D7]word,\nlove\n\n[Interlude]\n[D]\n[C]\n[F]\n[G]\n[D7]\nSay the\n\n[Chorus]\n[D7]word,\nlove Say the\n[G7]word,\nlove Say the\n[D7]word,\nlove Say the\n[Asus4]word, [A]\n[Gsus4]  [G]\n[D7]love\n\n[Outro]\n[D]\n[C]\n[F]\n[G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353463",
+        "3-2-0-0-0-1",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus4": {
+      "catalog": [
+        "355533"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Word *alt",
+  "id": "321f5af226494fe97440bc15c9867be8ede6e4b6a2b9f6bdbf77b0749aa8d810",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 234,
+  "normalizedKey": "the beatles|the word",
+  "playableChords": [
+    "D7",
+    "G7",
+    "Asus4",
+    "A",
+    "Gsus4",
+    "G",
+    "D",
+    "C",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Chorus"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 48,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Interlude"
+    },
+    {
+      "measure": 70,
+      "name": "Chorus"
+    },
+    {
+      "measure": 80,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "321f5af226494fe97440bc15c9867be8ede6e4b6a2b9f6bdbf77b0749aa8d810",
+    "version": "BCFZ"
+  },
+  "tempo": 121,
+  "title": "The Word",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,130 @@
+{
+  "artist": "The Rolling Stones",
+  "artistNormalized": "the rolling stones",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\n[A]\n[C]\n[D]\n\n[Verse 1]\n[G]It is the\n[A]evening of the\n[C]day\n[D]\n[G]I sit and\n[A]watch the children\n[C]play\n[D]\n\n[Chorus]\n[C]Smiling faces\n[D]I can see\n[G]But not [G/F#]for\n[Em]me\n[C]I sit and\nwatch As tears go\n[D]by\n\n[Verse 2]\n[G]My riches\n[A]can't buy every-\n[C]thing\n[D]\n[G]I want to\n[A]hear the children\n[C]sing\n[D]\n\n[Chorus]\n[C]All I hear\n[D]is the sound\n[G]Of rain [G/F#]falling\n[Em]on the ground\n[C]I sit and\nwatch As tears go\n[D]by\n\n[Interlude]\n[G]\n[A]\n[C]\n[D]\n[G]\n[A]\n[C]\n[D]\n[C]\n[D]\n[G]  [G/F#]\n[Em]\n[C]\n[D]\n\n[Verse 3]\n[G]It is the\n[A]evening of the\n[C]day\n[D]\n[G]I sit and\n[A]watch the children\n[C]play\n[D]\n\n[Chorus]\n[C]Doin' things I\n[D]used to do\n[G]They think [G/F#]are\n[Em]new\n[C]I sit and\nwatch As tears go\n[D]by\n\n[Outro]\n[G]Mmm...\n[A]\n[C]\n[D]\n[G]\n[A]\n[C]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/F#": {
+      "catalog": [
+        "220003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "As Tears Go By",
+  "id": "504be45a0145dee59f70d9fe510371ed3e93c51f40c99e58b0da3431d7a6ea06",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 108,
+  "normalizedKey": "the rolling stones|as tears go by",
+  "playableChords": [
+    "G",
+    "A",
+    "C",
+    "D",
+    "G/F#",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Interlude"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "504be45a0145dee59f70d9fe510371ed3e93c51f40c99e58b0da3431d7a6ea06",
+    "version": "BCFZ"
+  },
+  "tempo": 113,
+  "title": "As Tears Go By",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}
