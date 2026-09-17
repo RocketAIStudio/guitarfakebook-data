@@ -1,0 +1,96 @@
+{
+  "artist": "beabadoobee",
+  "artistNormalized": "beabadoobee",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]  [Amaj7]\n[Dmaj7]  [D7]\n\n[Verse 1]\n[A]Don't stay awake for too long\n[Amaj7]Don't go to bed I'll make a cup of\n[Dmaj7]coffee for your head I'll get you up and\n[D7]going out of bed And I\n[A]promise that [Amaj7]one day I'll feel fine\n[Dmaj7][D7]And I\n[A]promise that [Amaj7]one day I'll feel al-\n[Dmaj7]right [D7]And I'll\n\n[Chorus]\n[A]make a cup of coffee With the [Amaj7]right amount of sugar How you like\n[Dmaj7]it [D7]And I'll\n[A]make a cup of coffee With the [Amaj7]right amount of sugar How you like\n[Dmaj7]it How you like\n[D7]it\n\n[Verse 2]\n[A]Don't know how [Amaj7]long I'll stay for\n[Dmaj7]It's okay, [D7]I'll knock on your door\n[A]Won't you come [Amaj7]down and get me?\n[Dmaj7]I like it [D7]when you hold me\n[A]Tight [Amaj7]You make me feel\n[Dmaj7]nice [D7]The green in your\n[A]eyes [Amaj7]Makes me feel warm in-\n[Dmaj7]side [D7]And I'll\n\n[Outro]\n[A]make a cup of coffee With the [Amaj7]right amount of sugar How you like\n[Dmaj7]it [D7]And I'll\n[A]make a cup of coffee With the [Amaj7]right amount of sugar How you like\n[Dmaj7]it How you like\n[D7]it\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Amaj7": {
+      "catalog": [
+        "x02120",
+        "5-4-2-2-2-4",
+        "5-7-6-6-5-5",
+        "x-x-7-9-9-9",
+        "x-12-11-9-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9",
+        "10-12-11-11-10-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Сoffee",
+  "id": "3cd3e4920614ba437176e646d07828a53de157f9ab183dc1c6dc43d04e233fa1",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 182,
+  "normalizedKey": "beabadoobee|offee",
+  "playableChords": [
+    "A",
+    "Amaj7",
+    "Dmaj7",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3cd3e4920614ba437176e646d07828a53de157f9ab183dc1c6dc43d04e233fa1",
+    "version": "BCFZ"
+  },
+  "tempo": 59,
+  "title": "Сoffee",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

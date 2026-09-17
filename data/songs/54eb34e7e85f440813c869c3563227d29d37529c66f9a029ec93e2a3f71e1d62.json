@@ -1,0 +1,123 @@
+{
+  "artist": "Billie Joe Armstrong",
+  "artistNormalized": "billie joe armstrong",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n[Csus2/B]\n[Am]\n[G]\n[F]\n[C]\n[G]\n\n[Verse 1]\n[C]Where can I\n[Csus2/B]find the ci-\n[Am]ty of shining\n[G]light\n[F]In an\nordinary\n[C]world?\n[G]\n[C]How can I\n[Csus2/B]leave a buried\n[Am]treasure be-\n[G]hind\n[F]In an\nordinary\n[C]world?\n[G]The\n\n[Chorus]\n[Am]days into\nyears [G]roll\n[F]by\nIt's\n[Am]where that I\nlive until [G]I\n[F]die\nOrdinary\n\n[Interlude]\n[C]world\n[Csus2/B]\n[Am]\n[G]\n[F]M-\nmmmm...\n[C]\n[G]\n\n[Verse 2]\n[C]What would you\n[Csus2/B]wish if you\n[Am]saw a shooting\n[G]star\n[F]In an\nordinary\n[C]world?\n[G]I'd\n[C]walk to the\n[Csus2/B]end of the\n[Am]earth and afar\n[G]\n[F]In an\nordinary\n[C]world?\n[G]\n\n[Chorus]\n[Am]Baby, I\ndon't [G]have\n[F]much\n[G]But\n[Am]what we have is\nmore [G]than enough\n[F]\nOrdinary\n\n[Interlude]\n[C]world\n[Csus2/B]\n[Am]\n[G]\n[F]M-\nmmmm...\n[C]\n[G]\n[C]O-\n[Csus2/B]ooo-\n[Am]oh\n[G]\n[F]\n[C]\n[G]\n\n[Verse 3]\n[C]Where can I\n[Csus2/B]find the ci-\n[Am]ty of shining\n[G]light\n[F]In an\nordinary\n[C]world\n[G]\n[C]How can I\n[Csus2/B]leave a buried\n[Am]treasure be-\n[G]hind\n[F]In an\nordinary\n[C]world\n[G]\n\n[Chorus]\n[Am]Baby, I\ndon't [G]have\n[F]much\n[G]But\n[Am]what we have is\nmore [G]than enough\n[F]\nOrdinary\n\n[Outro]\n[C]world\n[Csus2/B]\n[Am]\n[G]\n[F]M-\nmmmm...\n[C]\n[G]\n[C]O-\n[Csus2/B]ooo-\n[Am]oh\n[G]\n[F]\n[C]\n[G]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x0221x",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x3201x",
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Csus2/B": {
+      "catalog": [
+        "x2001x"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "1332xx",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "3200xx",
+        "32003x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ordinary World",
+  "id": "54eb34e7e85f440813c869c3563227d29d37529c66f9a029ec93e2a3f71e1d62",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 213,
+  "normalizedKey": "billie joe armstrong|ordinary world",
+  "playableChords": [
+    "C",
+    "Csus2/B",
+    "Am",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Interlude"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 97,
+      "name": "Chorus"
+    },
+    {
+      "measure": 105,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "54eb34e7e85f440813c869c3563227d29d37529c66f9a029ec93e2a3f71e1d62",
+    "version": "BCFZ"
+  },
+  "tempo": 166,
+  "title": "Ordinary World",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

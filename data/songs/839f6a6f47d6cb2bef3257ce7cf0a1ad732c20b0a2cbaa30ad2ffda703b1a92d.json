@@ -1,0 +1,96 @@
+{
+  "artist": "Avril Lavigne",
+  "artistNormalized": "avril lavigne",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\n[G]\n[Dm]\n[C]Oh,\n[G]Oh, Oh\n[Fadd9]\n[C]Yeah,\n[G]Yeah, Ye-\n[Dm]ah\n[C]Yeah,\n[G]Yeah, Yeah\n[Fadd9]\n\n[Verse 1]\n[C]Mama, take this badge\n[G]off of me\n[Dm]\n[C]I can't use\n[G]it anymore\n[Fadd9]\n[C]It's getting dark,\n[G]Too dark to see\n[Dm]\n[C]Feel I'm knoc-\n[G]kin' on heaven's door\n[Fadd9]\n\n[Chorus]\n[C]Knock, Knock,\n[G]Knockin' on heaven's door\n[Dm]\n[C]Knock, Knock,\n[G]Knockin' on heaven's do-\n[Fadd9]or\n[C]Knock, Knock,\n[G]Knockin' on heaven's door\n[Dm]\n[C]Knock, Knock,\n[G]Knockin' on heaven's door\n[Fadd9]\n\n[Verse 2]\n[C]Mama, put\n[G]my guns in the gro-\n[Dm]und\n[C]I can't shoot\n[G]them anymore\n[Fadd9]\n[C]That long, black\n[G]cloud is comin' down\n[Dm]\n[C]I feel like I'm\n[G]knockin' on heaven's door\n[Fadd9]\n\n[Chorus]\n[C]Knock, Knock,\n[G]Knockin' on heaven's door\n[Dm]\n[C]Knock, Knock,\n[G]Knockin' on heaven's do-\n[Fadd9]or\n[C]Knock, Knock,\n[G]Knockin' on heaven's door\n[Dm]\nYeah,\n[C]Knock, Knock,\n[G]Knockin' on heaven's door\n[Fadd9]\n\n[Outro]\n[C]Yeah,\n[G]Yeah, Ye-\n[Dm]ah\n[C]Yeah,\n[G]Yeah, Yeah\n[Fadd9]\n[C]Yeah,\n[G]Yeah, Ye-\n[Dm]ah\nOh\n[C]Yeah,\n[G]Yeah, Yeah\n[Fadd9]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x3201x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Fadd9": {
+      "catalog": [
+        "1x3213"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Knockin On Heavens Door",
+  "id": "839f6a6f47d6cb2bef3257ce7cf0a1ad732c20b0a2cbaa30ad2ffda703b1a92d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 164,
+  "normalizedKey": "avril lavigne|knockin on heavens door",
+  "playableChords": [
+    "C",
+    "G",
+    "Dm",
+    "Fadd9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "839f6a6f47d6cb2bef3257ce7cf0a1ad732c20b0a2cbaa30ad2ffda703b1a92d",
+    "version": "BCFZ"
+  },
+  "tempo": 138,
+  "title": "Knockin On Heavens Door",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

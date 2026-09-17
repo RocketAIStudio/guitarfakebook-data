@@ -1,0 +1,51 @@
+{
+  "artist": "Blink 182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 1,
+  "content": "[Intro]\n[C]\n\n[Verse]\n[C]Take off your pants\ndad Your\npenis is the biggest thing My\nButt's ever had Because I would\nknow It feels\ngood\nShut your fucking face Uncle\nfucker!",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Country Song",
+  "id": "9d2e5faa1576f7884e785353333230e84f80a6fc7fd76bf5a08d0cecce939d72",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 34,
+  "normalizedKey": "blink 182|the country song",
+  "playableChords": [
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9d2e5faa1576f7884e785353333230e84f80a6fc7fd76bf5a08d0cecce939d72",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "The Country Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

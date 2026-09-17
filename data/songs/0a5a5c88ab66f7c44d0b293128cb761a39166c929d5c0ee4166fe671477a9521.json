@@ -1,0 +1,110 @@
+{
+  "artist": "Bob Dylan",
+  "artistNormalized": "bob dylan",
+  "capo": "2",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]  [C]\n[G]\nI'm out\n\n[Verse 1]\n[G]here a thousand [D7]miles from my\n[G]home\n[C]Walking a road [C/B]other [D7/A]men have gone\n[G]down\nI'm\n[G]seeing a new world of [C]people and\n[G]things\nHear\n[G]paupers\nand\npeasants and [D7]princes and\n[G]kings\nHey\n\n[Verse 2]\n[G]hey Woody Guth rie I [C]wrote you a\n[G]song\nAbout a\n[C]funny old [C/B]world that's [D7/A]coming a-\n[G]long\nSeems\n[G]sick and it's hungry, it's [C]tired and it's\n[G]torn\nIt\n[G]looks like\nit's\ndying and it's [D7]hardly been\n[G]born\nHey\n\n[Verse 3]\n[G]Woody Guth rie but I [C]know that you\n[G]know\nAll the\n[C/G]things that I'm saying and a [D7/A]many times\n[G]more\nI'm\n[G]singing you the song but I [C]can't sing e-\n[G]nough\n'Cause there's\n[G]not\nmany\nmen that've done the [D7]things that you've\n[G]done\nHere's to\n\n[Verse 4]\n[G]Cisco and Sonny and [D7]Leadbelly\n[G]too\nAnd to\n[C]all the good [C/B]people that [D7/A]travelled with\n[G]you\n[G]Here's to the hearts and the [C]hands of the\n[G]men\nThat\n[G]come\nwith the\ndust and are [D7]gone with the\n[G]wind\nI'm\n\n[Verse 5]\n[G]leaving tomor row but I [D7]could leave to-\n[G]day\nSome\n[C]where [C/B]down the road [D7/A]some-\n[G]day\nThe\n[G]very last thing that [C]I'd want to do\n[G]\nIs to\n[G]say\nI've been\nhitting some hard [D7]travelling\n[G]too\n[D7]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/B": {
+      "catalog": [
+        "x22010"
+      ],
+      "catalogCount": 1
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7/A": {
+      "catalog": [
+        "x00212"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Song To Woody",
+  "id": "0a5a5c88ab66f7c44d0b293128cb761a39166c929d5c0ee4166fe671477a9521",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 227,
+  "normalizedKey": "bob dylan|song to woody",
+  "playableChords": [
+    "G",
+    "C",
+    "D7",
+    "C/B",
+    "D7/A",
+    "C/G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 60,
+      "name": "Verse 5"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0a5a5c88ab66f7c44d0b293128cb761a39166c929d5c0ee4166fe671477a9521",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Song To Woody",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

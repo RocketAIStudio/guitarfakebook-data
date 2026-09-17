@@ -1,0 +1,116 @@
+{
+  "artist": "Billy Idol",
+  "artistNormalized": "billy idol",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Bm]\n[E]\n[D]\n[Bm]\n[D]\n[E]\n[Bm]\n\n[Verse 1]\n[Bm]Hey little sister what\nhave you done\n[A]\n[E]\n[Bm]Hey little sister who's\nthe only one\n[A]\n[E]\n[Bm]Hey little sister who's\nyour superman\n[A]Hey little sister who's\nthe one you want\n[Bm]Hey little sister shot\ngun! It's a\n\n[Chorus]\n[A]nice day to\n[E]start aga-\n[Bm]in\nIt's a\n[E]nice day for a\n[D]white wedding\n[Bm]\nIt's a\n[E]nice day to\n[D]start aga-\n[Bm]in\n\n[Verse 2]\n[Bm]Hey little sister who\nis your whip\n[A]\n[E]\n[Bm]Hey little sister what's\nyour vice and wish\n[A]\n[E]\n[Bm]Hey little sister shot\ngun (oh yeah)\n[A]Hey little sister who's\nyour superman\n[Bm]Hey little sister shot\ngun! It's a\n\n[Chorus]\n[A]nice day to\n[E]start aga-\n[Bm]in\nIt's a\n[E]nice day for a\n[D]white wedding\n[Bm]\nIt's a\n[E]nice day to\n[D]start aga-\n[Bm]in\n\n[Interlude]\n[Bm]\n[E]\n[D]\n[Bm]\n[D]\n[E]\n[Bm]\n[E]\n[Bm]\n[D]\n[E]\n[Bm]\n[A]Take\n[E]me back home\n[Bm]\n\n[Verse 3]\n[Bm]Hey little sister what\nhave you done\n[A]\n[E]\n[Bm]Hey little sister who's\nthe only one\n[A]\n[E]\n[Bm]I've been away for so\nlong\n[A]I've been away for so\nlong\n[Bm]I let you go for so\nlong It's a\n\n[Chorus]\n[A]nice day to\n[E]start aga-\n[Bm]in\nIt's a\n[E]nice day for a\n[D]white wedding\n[Bm]\nIt's a\n[E]nice day to\n[D]start aga-\n[Bm]in\nThere is\n\n[Bridge]\n[Bm]nothin' fair in this\nworld\nThere is\nnothin' safe in\nthis world\nAnd there's\nnothin' sure in this\nworld And there's\nnothin' pure in this\nworld Look for\nsomething left in this\nworld\n\n[Outro]\n[E]\n[D]Start again\n[Bm]\nCome on It's a\n[D]nice day for a\n[E]white wedding\n[Bm]\nIt's a\n[E]nice day to\n[D]start aga-\n[Bm]in\nIt's a\n[E]nice day to\n[D]start aga-\n[Bm]in",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "799777",
+        "x-2-4-4-3-2",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "White Wedding *alt 2",
+  "id": "dc1ac0fba60fecf76ba600bd948c457ce37e96b2b42a92b744ec1c2e812a9f61",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 300,
+  "normalizedKey": "billy idol|white wedding",
+  "playableChords": [
+    "Bm",
+    "E",
+    "D",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 72,
+      "name": "Interlude"
+    },
+    {
+      "measure": 94,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 108,
+      "name": "Chorus"
+    },
+    {
+      "measure": 122,
+      "name": "Bridge"
+    },
+    {
+      "measure": 136,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dc1ac0fba60fecf76ba600bd948c457ce37e96b2b42a92b744ec1c2e812a9f61",
+    "version": "BCFZ"
+  },
+  "tempo": 145,
+  "title": "White Wedding",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

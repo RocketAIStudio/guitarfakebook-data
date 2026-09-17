@@ -1,0 +1,133 @@
+{
+  "artist": "Blur",
+  "artistNormalized": "blur",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Am]\n\n[Verse 1]\nBeetlebum\n[C]What you've done\n[F]She's a gun\n[G]Now what you've done\nBeetlebum\n[A]Get nothing done\n[C]You beetlebum\n[F]just get numb\n[G]Now what you've done\n[Bb]Beetlebum\n[A]\n\n[Chorus]\nAnd when she lets me slip a-\n[C]way She turns\n[G]me on all\n[Am]my violence is gone\n[F]Nothing is wrong\n[Am]I just slip\n[F]away and I...\n[Fm]I am gone\n[C]Nothing\n[G]is wrong\n[Am]She turns\n[F]me on\n[Am]I just slip\n[F]away and I...\n[Fm]I am\n[C]gone\n\n[Verse 2]\n[A]\nBeetlebum\n[C]Because you're young\n[F]She's a gun\n[G]Now what you've done\n[Bb]Beetlebum\n[A]She'll suck your thumb\n[C]She'll make you come\n'Cause she's your\n[F]gun\n[G]Now what you've done\n[Bb]Beetlebum\n[A]\n\n[Chorus]\n[A]And when she lets me slip a-\n[C]way She turns\n[G]me on all\n[Am]my violence is gone\n[F]Nothing is wrong\n[Am]I just slip\n[F]away and I...\n[Fm]I am gone\n[C]Nothing\n[G]is wrong\n[Am]She turns\n[F]me on\n[Am]I just slip\n[F]away and I...\nI am\n\n[Bridge]\n[A]He's on, he's on,\nhe's on it\n[C]He's on, he's on,\nhe's on it\n[F]He's on, he's on,\nhe's on it\n[G]He's on, he's on,\nhe's on [Bb]it\n[A]He's on, he's on,\nhe's on it\n[C]He's on, he's on,\nhe's on it\n[F]He's on, he's on,\nhe's on it\n[G]He's on, he's on,\nhe's on [Bb]it\n[A]\n[C]\n[F]\n[G]\n[Bb]\n[A]\n[C]\n[F]\n[G]\n[A]\n[C]\n[F]\n[G]\n[Bb]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Beetlebum *alt",
+  "id": "3b3576ad86b8df73df9d9fe7dea5b29ea4b71919ac85145376d4a800a2d97f12",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 217,
+  "normalizedKey": "blur|beetlebum",
+  "playableChords": [
+    "Am",
+    "C",
+    "F",
+    "G",
+    "A",
+    "Bb",
+    "Fm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Bridge"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3b3576ad86b8df73df9d9fe7dea5b29ea4b71919ac85145376d4a800a2d97f12",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Beetlebum",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

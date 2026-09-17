@@ -1,0 +1,62 @@
+{
+  "artist": "Blink-182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[B5]\n[E5]\n[F#5]\n[E5]\n[B5]\n[E5]\n[F#5]\n[E5]\n\n[Verse]\n[B5]It would be nice\n[E5]To have a blow job\n[F#5]It would be nice\n[E5]To have a blow job\n[B5]It would be nice\n[E5]To have a blow job\n[F#5]It would be nice\n[E5]To have a blow job\n[B5]It would be nice\n[E5]To have a blow job\n[F#5]It would be nice\n[E5]To have a blow job\n[B5]It would be nice\n[E5]To have a blow job\n[F#5]It would be nice\n[E5]To have a blow job From your\n[B5]mom",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx",
+        "02xxxx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "blow job *alt",
+  "id": "5ec86a9f78da972bbe89cee77d2f5be4513975b13ec99e8fce2b5b811ac4f4a6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 75,
+  "normalizedKey": "blink 182|blow job",
+  "playableChords": [
+    "B5",
+    "E5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5ec86a9f78da972bbe89cee77d2f5be4513975b13ec99e8fce2b5b811ac4f4a6",
+    "version": "BCFZ"
+  },
+  "tempo": 161,
+  "title": "blow job",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

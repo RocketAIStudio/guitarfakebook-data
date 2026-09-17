@@ -1,0 +1,127 @@
+{
+  "artist": "Birdy",
+  "artistNormalized": "birdy",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n[C]\n[G]\n[D]\n\n[Verse 1]\n[G]Sunlight comes creepin' in\nIlluminates our skin\n[Bm]We watched the day go by\nStories of what we did\n[C]It made me think of you\nIt made me think of you\n[G]\n\n[Verse 2]\n[G]Under a trillion stars\nWe danced on top of cars\n[Bm]Took pictures of the stage\nSo far from where we are\n[C]They made me think of you\nThey made me think of you\n[G]\nOh,\n\n[Chorus]\n[Em]lights go down\nIn the moment, we're\n[C]lost and found\nI just wanna be\n[G]by your side\nIf these wings could fly\n[D]\nOh,\n[Em]damn these walls\nIn the moment, we're\n[C]ten feet tall\nAnd how you told me af-\n[G]ter it all\nWe'd remember tonight\n[D]\nFor the rest of our lives\n\n[Bridge]\n[G]\n\n[Verse 3]\n[G]I'm in a foreign state\nMy thoughts, they slip away\n[Bm]My words are leavin' me\nThey caught an aeroplane\n[C]Because I thought of you\nJust for the thought of you\n[G]\nOh,\n\n[Chorus]\n[Em]lights go down\nIn the moment, we're\n[C]lost and found\nI just wanna be\n[G]by your side\nIf these wings could fly\n[D]\nOh,\n[Em]damn these walls\nIn the moment, we're\n[C]ten feet tall\nAnd how you told me af-\n[G]ter it all\nWe'd remember tonight\n[D]\nFor the rest of our lives\n\n[Interlude]\n[Em]\n[C]\n[G]\nIf these wings could fly\n[D]\nOh,\n\n[Chorus]\n[Em]lights go down\nIn the moment, we're\n[C]lost and found\nI just wanna be\n[G]by your side\nIf these wings could fly\n[D]\nOh,\n[Em]damn these walls\nIn the moment, we're\n[C]ten feet tall\nAnd how you told me af-\n[G]ter it all\nWe'd remember tonight\n[D]\nFor the rest of our lives\n\n[Outro]\n[G]",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wings",
+  "id": "7eaf85dcf0de5efa5102ab413469bf4ba8c628a511444ff70869f5799f121309",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 287,
+  "normalizedKey": "birdy|wings",
+  "playableChords": [
+    "Em",
+    "C",
+    "G",
+    "D",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    },
+    {
+      "measure": 44,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 68,
+      "name": "Interlude"
+    },
+    {
+      "measure": 76,
+      "name": "Chorus"
+    },
+    {
+      "measure": 92,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7eaf85dcf0de5efa5102ab413469bf4ba8c628a511444ff70869f5799f121309",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "Wings",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

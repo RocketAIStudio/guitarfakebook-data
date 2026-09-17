@@ -1,0 +1,123 @@
+{
+  "artist": "Blink-182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[B/D#]\n[E]\n[B]\n[B/D#]\n[E]\n[B]\n[B/D#]\n[E]\n[B]\n[B/D#]\n[E]I\n\n[Verse 1]\n[B]know I'm pathetic, I\nknew when she said it A\n[F#]loser, a bum's what she\n[E]called me when I drove her home\n[B]There's no more waiting and\nsure no more wasting I've\n[F#]done all I can but she\n[E]still wants to be left alone\n\n[Pre-Chorus]\n[B]You got, you got, you got\nto help me out\n[F#]And I'll try not\n[E]to argue\n[B]No one, no one, no one\nl ikes a dropout\n[F#]Mistakes are hard\n[E]to undo\n\n[Chorus]\n[G#m]Don't\npull [B]me\n[F#]down, this is\nwhere [B]I belong I\n[E]think I'm\ndifferent,\nbut I'm the\nsame and I'm\n[G#m]wrong Don't\npull [B]me\n[F#]down, this is\nwhere [B]I belong I\n[E]think I'm\ndifferent\nThis is\nwhere I be-\n\n[Bridge]\n[B/D#]long\n[E]\n[B]\n[B/D#]\n[E]\n[B]\n[B/D#]\n[E]\n[B]\n[B/D#]\n[E]I\n\n[Verse 2]\n[B]think it's disgusting, be-\nlieving and trusting If\n[F#]I gave a fuck there would\n[E]be nothing for me to prove\n[B]Although it's amusing, it's\nslightly confusing I've\n[F#]done all I can but her\n[E]ego is still hard to move\n\n[Pre-Chorus]\n[B]You got, you got, you got\nto help me out\n[F#]And I'll try not\n[E]to argue\n[B]No one, no one, no one\nl ikes a dropout\n[F#]Mistakes are hard\n[E]to undo\n\n[Chorus 2]\n[G#m]Don't\npull [B]me\n[F#]down, this is\nwhere [B]I belong I\n[E]think I'm\ndifferent,\nbut I'm the\nsame and I'm\n[G#m]wrong Don't\npull [B]me\n[F#]down, this is\nwhere [B]I belong I\n[E]think I'm\ndifferent\nBut this is\nwhere I be-\n\n[Bridge]\n[B/D#]long\n[E]\n[B]\n[B/D#]\n[E]\n[B]\n[B/D#]\n[E]\n[B]\n[B/D#]\n[E]\n[B]\n\n[Interlude]\n[G#m]\n[B]\n[F#]\n[B]\n[E]\n\n[Chorus]\n[G#m]Don't\npull [B]me\n[F#]down, this is\nwhere [B]I belong I\n[E]think I'm\ndifferent\nThis is\nwhere I be-\n[B]long",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "799877",
+        "x24442",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B/D#": {
+      "catalog": [
+        "x6987x"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "x-9-11-11-11-9",
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pathetic *alt 3",
+  "id": "ea7107f02c0091847edc664f179722d5afb7b6a00a7c5b96955659121705cd98",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 271,
+  "normalizedKey": "blink 182|pathetic",
+  "playableChords": [
+    "B/D#",
+    "E",
+    "B",
+    "F#",
+    "G#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 69,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus 2"
+    },
+    {
+      "measure": 93,
+      "name": "Bridge"
+    },
+    {
+      "measure": 109,
+      "name": "Interlude"
+    },
+    {
+      "measure": 117,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ea7107f02c0091847edc664f179722d5afb7b6a00a7c5b96955659121705cd98",
+    "version": "BCFZ"
+  },
+  "tempo": 200,
+  "title": "Pathetic",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

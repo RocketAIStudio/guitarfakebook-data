@@ -1,0 +1,72 @@
+{
+  "artist": "Bibio",
+  "artistNormalized": "bibio",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D/E]\n[Badd11]\n[D#6]\n[E7]\n[D/E]\n[Badd11]\n[D#6]\n[E7]\n\n[Verse]\n[D/E]And even though I sent you flo\n[Badd11]wers\n[D#6]You didn't know that they were ours\n[E7]\n[D/E]Don't wait to find what's in the past\n[Badd11]\n[D#6]Don't wait to see what doesn't\n[E7]last\n[D/E]Don't fret about what doesn't suit\n[Badd11]ya\n[D#6]Try to forget about the fu\n[E7]ture\n[D/E]And even though it took you ho\n[Badd11]urs\n[D#6]I didn't notice all the flo\n[E7]wers",
+  "diagrams": {
+    "Badd11": {
+      "catalog": [
+        "x22442"
+      ],
+      "catalogCount": 1
+    },
+    "D#6": {
+      "catalog": [
+        "x-6-10-8-8-6"
+      ],
+      "catalogCount": 1
+    },
+    "D/E": {
+      "catalog": [
+        "000232"
+      ],
+      "catalogCount": 1
+    },
+    "E7": {
+      "catalog": [
+        "x79797",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "all the flowers",
+  "id": "707ece2b6d5c86d5bfa4098f88a8526b037a565b13d6518c7d885d6617d025e3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 73,
+  "normalizedKey": "bibio|all the flowers",
+  "playableChords": [
+    "D/E",
+    "Badd11",
+    "D#6",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "707ece2b6d5c86d5bfa4098f88a8526b037a565b13d6518c7d885d6617d025e3",
+    "version": "BCFZ"
+  },
+  "tempo": 101,
+  "title": "all the flowers",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

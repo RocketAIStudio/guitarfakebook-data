@@ -1,0 +1,105 @@
+{
+  "artist": "Bob Dylan",
+  "artistNormalized": "bob dylan",
+  "capo": "7",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]How many roads [C]must a man\n[D]walk down [G]Before\n[G]you call [C]him a man?\n[G]\n[G]How many seas [C]must a white\n[D]dove sail [G]Before\n[G]she sleeps [C]in the sand?\n[D]Yes, and how\n[G]many times [C]must the can-\n[D]non balls fly [G]Before\n[G]they're for [C]ever banned?\n[G]The an\n\n[Chorus]\n[C]swer, my friend, [D]is\n[G]blowin' in the wind [C]The an\n[C]swer is [D]blowin' in the wind.\n[G]\n\n[Interlude]\n[C]  [D]\n[G]  [C]\n[C]  [D]\n[G]Yes, and how\n\n[Verse 2]\n[G]many years [C]can a moun\n[D]tain exist [G]Before\n[G]it's washed [C]to the sea?\n[G]Yes, and how\n[G]many years [C]can some\n[D]people exist [G]Before\n[G]they're allowed [C]to be free?\n[D]Yes, and how\n[G]many times [C]can a man\n[D]turn his head [G]And pretend\n[G]that he just [C]doesn't see?\n[G]The an\n\n[Chorus]\n[C]swer, my friend, [D]is\n[G]blowin' in the wind [C]The an\n[C]swer is [D]blowin' in the wind.\n[G]\n\n[Interlude]\n[C]  [D]\n[G]  [C]\n[C]  [D]\n[G]Yes, and how\n\n[Verse 3]\n[G]many times [C]must a man\n[D]look up [G]Before\n[G]he can see [C]the sky?\n[G]Yes, and how\n[G]many ears [C]must\n[D]one man have [G]Before\n[G]he can hear [C]people cry?\n[D]Yes, and how\n[G]many deaths [C]will it take\n[D]'til he knows [G]That too\n[G]many peo [C]ple have died?\n[G]The an\n\n[Chorus]\n[C]swer, my friend, [D]is\n[G]blowin' in the wind [C]The an\n[C]swer is [D]blowin' in the wind.\n[G]\n\n[Outro]\n[C]  [D]\n[G]  [C]\n[C]  [D]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "355433",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Blowin' In The Wind *alt",
+  "id": "54f77b5a67e1b6333da676d33240036bcc22fcb21dae79f9146c25fc48602f56",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 237,
+  "normalizedKey": "bob dylan|blowin in the wind",
+  "playableChords": [
+    "G",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Interlude"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Interlude"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "54f77b5a67e1b6333da676d33240036bcc22fcb21dae79f9146c25fc48602f56",
+    "version": "BCFZ"
+  },
+  "tempo": 87,
+  "title": "Blowin' In The Wind",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

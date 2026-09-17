@@ -1,0 +1,112 @@
+{
+  "artist": "Blink 182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n[D]\n[Bm]\n[D]  [E]\n[A]\n[D]\n[Bm]\n[D]  [E]\n\n[Verse 1]\n[A]Don't leave me\n[D]all alone\n[Bm]Just drop me\n[D]off at home\n[A]I'll be fine, it's\n[D]not the first Just\n[Bm]like last time but a\n[D]little worse And\n\n[Chorus]\n[A]she said that [Bm]I'm not the one\n[D]that she [E]thinks about And\n[A]she said it [Bm]stopped being\n[D]fun, I just [E]bring her down I\n[A]said, \"Don't let your [Bm]future be des-\n[D]troyed by my [E]past.\" She\n[A]said, \"Don't let my [Bm]door hit your ass.\"\n[D]\n\n[Bridge]\n[A]\n[D]\n[Bm]\n[D]  [E]\n[A]\n[D]\n[Bm]\n[D]  [E]\n\n[Verse 2]\n[A]One more chance I'll\n[D]try this time I'll\n[Bm]give you yours, I\n[D]won't take mine I'll\n[A]listen up, pre-\n[D]tend to care Go\n[Bm]on ahead, I'll\n[D]meet you there And\n\n[Chorus]\n[A]she said that [Bm]I'm not the one\n[D]that she [E]thinks about And\n[A]she said it [Bm]stopped being\n[D]fun, I just [E]bring her down I\n[A]said, \"Don't let your [Bm]future be des-\n[D]troyed by my [E]past.\" She\n[A]said, \"Don't let my [Bm]door hit your ass.\"\n[D]\n\n[Interlude]\n[A]  [E]\n[D]\n[A]  [E]\n[D]\n[A]  [E]\n[D]\n[A]  [E]\n[D]Let's try this\n[A]one more time with [E]feeling\n[D]\n[A]One more time with [E]feeling\n[D]\n[A]One more time with [E]feeling\n[D]\n[A]One more time with [E]feeling\n[D]\n\n[Chorus]\n[A]She said that [Bm]I'm not the one\n[D]that she [E]thinks about And\n[A]she said it [Bm]stopped being\n[D]fun, I just [E]bring her down I\n[A]said, \"Don't let your [Bm]future be des-\n[D]troyed by my [E]past.\" She\n[A]said, \"Don't let my [Bm]door hit your ass.\"\n[D]\n\n[Outro]\n[A]Don't leave me\n[D]all alone\n[Bm]Just drop me\n[D]off at home [E]And I'll be\n[A]fine.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x2443x",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x5777x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x7999x",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Don't Leave Me *alt 3",
+  "id": "61ffb929d67c55301e708af26de5d91d155fcf4f8ce9e904c8ddd8c4ff397124",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 245,
+  "normalizedKey": "blink 182|don t leave me",
+  "playableChords": [
+    "A",
+    "D",
+    "Bm",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "61ffb929d67c55301e708af26de5d91d155fcf4f8ce9e904c8ddd8c4ff397124",
+    "version": "BCFZ"
+  },
+  "tempo": 145,
+  "title": "Don't Leave Me",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

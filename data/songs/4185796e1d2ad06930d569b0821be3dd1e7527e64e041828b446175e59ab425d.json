@@ -1,0 +1,122 @@
+{
+  "artist": "Billie Eilish",
+  "artistNormalized": "billie eilish",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[Am]I wanna [C]be [F]alone A-\n[Am]lone with you does [C]that make [F]sense?\n[Am]I wanna [C]steal your [F]soul And\n[Am]hide you in my [C]treasure [F]chest\n[Am]I don't know [C]what to [F]do To\n[Am]do with your kiss [C]on my [F]neck\n[Am]I don't know [C]what feels [F]true But\n[Am]this feels right so [C]stay a [F]sec Yeah,\n[Am]you feel right so [C]stay a [F]sec And let me\n\n[Chorus]\n[E7]crawl inside your\n[F]veins I'll build a\n[E7]wall, give you a ball and\n[F]chain It's not like\n[Dm]me to be so mean You're all I\n[F]wanted Just let me\n[Dm]hold\n[F]you Like a\n\n[Bridge]\n[Am]hostage [C][Fmaj7]\n[Am]  [C]  [Fmaj7]\n\n[Verse 2]\n[Am]Gold on your [F][C]fingertips\n[Am]Fingertips [C]against my [F]cheek\n[Am]Gold leaf [C]across your [F]lips Kiss\n[Am]me until [C]I can't [F]speak\n[Am]Gold chain [C]beneath your [F]shirt The\n[Am]shirt that you let [C]me wear [F]home\n[Am]Gold's fake and [C]real love [F]hurts And\n[Am]nothing hurts when [C]I'm [F]alone When\n[Am]you're with me and [C]we're [F]alone And let me\n\n[Chorus]\n[E7]crawl inside your\n[F]veins I'll build a\n[E7]wall, give you a ball and\n[F]chain It's not like\n[Dm]me to be so mean You're all I\n[F]wanted Just let me\n[Dm]hold\n[F]you\n[Dm]Hold\n[F]you Like a\n\n[Outro]\n[Am]hostage [C][Fmaj7]Like a\n[Am]hostage [C][Fmaj7]\n[Am]  [C]  [Fmaj7]\n[Am]  [C]  [Fmaj7]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "133210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hostage",
+  "id": "4185796e1d2ad06930d569b0821be3dd1e7527e64e041828b446175e59ab425d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 210,
+  "normalizedKey": "billie eilish|hostage",
+  "playableChords": [
+    "Am",
+    "C",
+    "F",
+    "E7",
+    "Dm",
+    "Fmaj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4185796e1d2ad06930d569b0821be3dd1e7527e64e041828b446175e59ab425d",
+    "version": "BCFZ"
+  },
+  "tempo": 65,
+  "title": "Hostage",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

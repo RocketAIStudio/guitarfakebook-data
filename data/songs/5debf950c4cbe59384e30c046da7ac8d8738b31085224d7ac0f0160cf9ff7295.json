@@ -1,0 +1,167 @@
+{
+  "artist": "Badfinger",
+  "artistNormalized": "badfinger",
+  "capo": "No capo",
+  "chordPositionCount": 33,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[B]\n\n[Verse 1]\n[F#]Guess I got\nwhat I deserve\n[E]\n[A]Kept you wait-\n[E]ing there, too\n[B]long my love\n[F#]All that time,\nwithout a word\n[E]\n[A]Didn't know\n[E]you'd think, that\n[B]I'd forget,\nor\n[F#]I'd regret\n\n[Chorus]\n[C#m]The special love\nI have for you\n[E]\nMy baby blue\n\n[Interlude]\n[B]\n\n[Verse 2]\n[F#]All the days\nbecame so long\n[E]\n[A]Did you real-\n[E]ly think I'd\n[B]do you wrong\n[F#]Dixie,\nwhen I let you go\n[E]\n[A]Thought you'd re-\n[E]alize,\n[B]I would know,\n[F#]I would show\n\n[Chorus]\n[C#m]The special love\nI have for you\n[E]\nMy baby blue\n\n[Interlude]\n[B]\n\n[Bridge]\n[D#m]What can I do,\n[G#m]\n[G#m/G]What can I sa-\n[C#m]y?\n[A]Except that I\n[E]want you by my\n[B]side\n[D#m]How can I show\n[G#m]you?\n[G#m/G]Show me a wa-\n[C#m]y\n[A]Don't you\n[E]know, the times I tri-\n\n[Solo]\n[D]ed\n[A]\n[E]\n[B]\n[D]\n[A]\n[E]\n[B]\n\n[Verse 3]\n[F#]Guess that's all\nI have to say\n[E]\n[A]Except the feel-\n[E]ing just gets stron-\n[B]ger everyday\n[F#]Just one thing,\nbefore I go\n[E]\n[A]Take good care,\n[E]baby\n[B]let me know,\n[F#]let it show\n\n[Chorus]\n[C#m]The special love\nyou have for me\n[E]\nMy Dixie dear\n\n[Outro]\n[B]\n[C#m]\n[A]\n[E]\n[B]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "x68876"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    },
+    "G#m/G": {
+      "catalog": [
+        "xx5444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Baby Blue",
+  "id": "5debf950c4cbe59384e30c046da7ac8d8738b31085224d7ac0f0160cf9ff7295",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 177,
+  "normalizedKey": "badfinger|baby blue",
+  "playableChords": [
+    "B",
+    "F#",
+    "E",
+    "A",
+    "C#m",
+    "D#m",
+    "G#m",
+    "G#m/G",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Interlude"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Solo"
+    },
+    {
+      "measure": 82,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 100,
+      "name": "Chorus"
+    },
+    {
+      "measure": 104,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5debf950c4cbe59384e30c046da7ac8d8738b31085224d7ac0f0160cf9ff7295",
+    "version": "BCFZ"
+  },
+  "tempo": 124,
+  "title": "Baby Blue",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

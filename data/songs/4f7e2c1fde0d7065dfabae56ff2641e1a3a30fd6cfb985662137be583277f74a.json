@@ -1,0 +1,111 @@
+{
+  "artist": "Benjamin Francis Leftwich",
+  "artistNormalized": "benjamin francis leftwich",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n[Am7]\n[Gadd11]\n[C]\n[Am7]\n[Gadd11]\n\n[Verse 1]\n[C]My ha-\n[Am7]rbor has a\n[Gadd11]boat in it\n[C]The water\n[Am7]makes its way 'rou-\n[Gadd11]nd it\n[C]When the\n[Am7]sun shines\n[Gadd11]down the hi-\nlls the winds blo-\n[C]w I\n[Am7]miss you mo-\n[Gadd11]re\nYou said I am you-\n\n[Chorus]\n[Fsus2]ng, and I am you-\n[C]rs I am free\n[Gadd11], but I am fla-\n[Am7]wed [G]I am he-\n[Fsus2]re and your hea-\n[C]rt I was he-\n[Gadd11]re from the sta-\n[Am7]rt [G]\n\n[Post-Chorus]\n[C]\n[Am7]\n[Gadd11]\n\n[Verse 2]\n[C]The fo-\n[Am7]rests had a\n[Gadd11]rock in it\n[C]Roots and a-\n[Am7]nimals were blo-\n[Gadd11]cked by it\n[C]When they tu-\n[Am7]rned all their\n[Gadd11]bones, cha-\nnged to sto-\n[C]ne They\n[Am7]lost their fai-\n[Gadd11]th\nYou said I am you-\n\n[Chorus]\n[Fsus2]ng, and I am you-\n[C]rs I am free\n[Gadd11], but I am fla-\n[Am7]wed [G]I am he-\n[Fsus2]re and your hea-\n[C]rt I was he-\n[Gadd11]re from the sta-\n[Am7]rt [G]\n\n[Bridge]\n[Fsus2]There when the rai-\n[C]n came and\n[Gadd11]settled on your ski-\n[Am7]n [G]\n[Fsus2]Not like befo-\n[C]re and you\n[Gadd11]let it all i-\n[Am7]n [G]To your hea-\n[Fsus2]\n[C]rt was the\n[Gadd11]only pa-\n[Am7]rt [G]From the\n[Fsus2]sta-\n[C]rt you\n[Gadd11]set upon\n[Am7]You [G]said I am you-\n\n[Chorus]\n[Fsus2]ng, and I am you-\n[C]rs I am free\n[Gadd11], but I am fla-\n[Am7]wed [G]I am he-\n[Fsus2]re and your hea-\n[C]rt I was he-\n[Gadd11]re from the sta-\n[Am7]rt [G]\n[C]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Fsus2": {
+      "catalog": [
+        "13301x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gadd11": {
+      "catalog": [
+        "320013"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Box of Stones",
+  "id": "4f7e2c1fde0d7065dfabae56ff2641e1a3a30fd6cfb985662137be583277f74a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 229,
+  "normalizedKey": "benjamin francis leftwich|box of stones",
+  "playableChords": [
+    "C",
+    "Am7",
+    "Gadd11",
+    "Fsus2",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Bridge"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4f7e2c1fde0d7065dfabae56ff2641e1a3a30fd6cfb985662137be583277f74a",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "Box of Stones",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

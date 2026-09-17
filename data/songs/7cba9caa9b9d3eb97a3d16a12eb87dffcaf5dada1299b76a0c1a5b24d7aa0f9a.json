@@ -1,0 +1,133 @@
+{
+  "artist": "Bee Gees",
+  "artistNormalized": "bee gees",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Am]\nIn the event\n\n[Verse 1]\n[Am]of something happening to me\nThere is\nsomething I would like you all to see\n[Amadd11/D]It's just a pho-\n[G]tograph of someone that I\n[Am]knew [D7]Have you\n\n[Chorus]\n[G]seen my [C]wife, Mr. Jones?\n[G]Do you know\nwhat it's like [C]on the\n[F]outside? Don't go\ntalking too loud, you'll cause\n[E]a landslide, Mr. Jones\n[Am]\nI keep\n\n[Verse 2]\n[Am]straining my ears to hear a so-\nund Maybe\nsomeone is digging undergro-\n[Amadd11/D]und Or have they\n[G]given up and all gone home to bed\n[Am]Thinking\n[D7]those who once existed must be dead\n[G][F]Have you\n\n[Chorus]\n[G]seen my [C]wife, Mr. Jones?\n[G]Do you know\nwhat it's like [C]on the\n[F]outside? Don't go\ntalking too loud, you'll cause\n[E]a landslide, Mr. Jones\n[Am]\nIn the event\n\n[Verse 3]\n[Am]of something happening to me\nThere is\nsomething I would like you all to see\n[D7]It's just a pho-\n[G]tograph of someone that I\n[Am]knew [D7]\nHave you\n\n[Chorus]\n[G]seen my [C]wife, Mr. Jones?\n[G]Do you know\nwhat it's like [C]on the\n[F]outside? Don't go\ntalking too loud, you'll cause\n[E]a landslide, Mr. Jones\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "xx7677",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Amadd11/D": {
+      "catalog": [
+        "xx0330"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "10-10-10-10-10-10",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0334",
+        "x-x-0-2-1-2",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "222222",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "333333",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "555555",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "New York Mining Disaster 1941 *alt",
+  "id": "7cba9caa9b9d3eb97a3d16a12eb87dffcaf5dada1299b76a0c1a5b24d7aa0f9a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 208,
+  "normalizedKey": "bee gees|new york mining disaster 1941",
+  "playableChords": [
+    "Am",
+    "Amadd11/D",
+    "G",
+    "D7",
+    "C",
+    "F",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7cba9caa9b9d3eb97a3d16a12eb87dffcaf5dada1299b76a0c1a5b24d7aa0f9a",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "New York Mining Disaster 1941",
+  "tuning": "D A D F# A D",
+  "variantRole": "alt"
+}

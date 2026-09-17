@@ -1,0 +1,115 @@
+{
+  "artist": "Birdy",
+  "artistNormalized": "birdy",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Gm]\n[Gm/F]\n[Eb]\n[Cm]  [D]\n\n[Verse 1]\n[Gm]Little ghost, you're listening\n[Gm/F]Unlike most you don't miss a thing\n[Eb]You see the truth\n[Cm]  [D]\n[Gm]I walk the halls invisibly\n[Gm/F]I climb the walls, no one sees\n[Eb]me No one but you\n[Cm]  [D]\n\n[Chorus]\n[Gm]You've always loved the strange birds\n[Gm/F]Now I want to fly into your\n[Eb]world I want to be heard\n[Cm]  [D]\n[Gm]My wounded wings still beating\n[Gm/F]You've always loved the stranger\n[Eb]inside…\n[Cm]Me, [D]ugly pretty\n\n[Bridge]\n[Gm]Oh no, no, no, no\n[Gm/F]Oh no, no, no, no\n[Eb]Oh no, no, no, no\n[Cm]  [D]\n\n[Verse 2]\n[Gm]Oh little ghost, you see the pain\n[Gm/F]But together we can\n[Eb]make something beautiful\n[Cm]  [D]\n[Gm]So take my hand and perfectly\n[Gm/F]We fill the gaps, you and me make three\n[Eb]I was meant for you, and you for me\n[Cm]  [D]\n\n[Chorus]\n[Gm]You've always loved the strange birds\n[Gm/F]Now I want to fly into your\n[Eb]world I want to be heard\n[Cm]  [D]\n[Gm]My wounded wings still beating\n[Gm/F]You've always loved the stranger\n[Eb]inside…\n[Cm]Me, [D]ugly pretty\n\n[Bridge]\n[Gm]Oh no, no, no, no\n[Gm/F]Oh no, no, no, no\n[Eb]Oh no, no, no, no\n[Cm]  [D]\n[Gm]Oh no, no, no, no\n[Gm/F]Oh no, no, no, no\n[Eb]Oh no, no, no, no\n[Cm]  [D]\n\n[Outro]\n[Gm]You've always loved the strange birds\n[Gm/F]Now I want to fly into your\n[Eb]world I want to be heard\n[Cm]  [D]\n[Gm]My wounded wings still beating\n[Gm/F]You've always loved the stranger\n[Eb]inside…\n[Cm]Me, [D]ugly pretty\n[Gm]",
+  "diagrams": {
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    },
+    "Gm/F": {
+      "catalog": [
+        "xx3333"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Strange Birds",
+  "id": "705ba4562e146517d2853912ecf18adb9aa1bf8e934fe105b0eb2f327be2f623",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 256,
+  "normalizedKey": "birdy|strange birds",
+  "playableChords": [
+    "Gm",
+    "Gm/F",
+    "Eb",
+    "Cm",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "705ba4562e146517d2853912ecf18adb9aa1bf8e934fe105b0eb2f327be2f623",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "Strange Birds",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

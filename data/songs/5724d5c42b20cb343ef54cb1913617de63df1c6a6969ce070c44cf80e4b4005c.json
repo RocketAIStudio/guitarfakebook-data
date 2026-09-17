@@ -1,0 +1,123 @@
+{
+  "artist": "Avril Lavigne",
+  "artistNormalized": "avril lavigne",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]Yeah yeah, [D]yeah yeah, yeah\n[Em]yeah [D]Lo-lo-love me insane\n[G]Yeah yeah, [D]yeah yeah, yeah\n[Em]yeah [D]\n\n[Verse 1]\n[G]You pick up all of the pieces [D]and put 'em back again\n[Em]  [D]\n[G]You stitch and sew my heart up [D]all by\n[Em]hand, [D]yeah\n[G]I know a [D]good thing when I see\n[Em]one, [D]yeah\n[G]And you know I [D]didn't see this co-\n[Em]ming [D]So,\n\n[Chorus]\n[G]baby, let's go [D]insane,\n[Em]insane [D]Yeah,\n[G]you make me lose [D]my brain,\n[Em]my brain [D]\n[G]From the minute that you [D]asked me what's my name\n[Em][D]I\n[G]know it's a [D]dangerous game\n[Em][D]But love me insane\n\n[Bridge]\n[G]Yeah yeah, [D]yeah yeah, yeah\n[Em]yeah [D]Lo-lo-love me insane\n[G]Yeah yeah, [D]yeah yeah, yeah\n[Em]yeah [D]Lo-lo-love me insane\n\n[Verse 2]\n[G]Taking all my clothes off [D]and jumping in,\n[Em][D]yeah\n[G]This time I'm going all out, [D]sink or\n[Em]swim, [D]oh\n[G]I know an [D]angel when I see\n[Em]one [D]\n[G]I've been stuck with [D]way too many de-\n[Em]mons, [D]oh So,\n\n[Chorus]\n[G]baby, let's go [D]insane,\n[Em]insane [D]Yeah,\n[G]you make me lose [D]my brain,\n[Em]my brain [D]\n[G]From the minute that you [D]asked me what's my name\n[Em][D]I\n[G]know it's a [D]dangerous game\n[Em][D]But love me insane\n\n[Bridge]\n[G]Yeah yeah, [D]yeah yeah, yeah\n[Em]yeah [D]Lo-lo-love me insane\n[G]Yeah yeah, [D]yeah yeah, yeah\n[Em]yeah [D]And if I\n\n[Interlude]\n[C]fall now, will you catch me?\n[Em][D][Bm]And if I\n[C]fall now, will you catch me? 'Cause I can't\n[G]do this [Em]on my [D]own So,\n\n[Chorus]\n[G]baby, let's go [D]insane,\n[Em]insane [D]Yeah,\n[G]you make me lose [D]my brain,\n[Em]my brain [D]So,\n[G]baby, let's go [D]insane,\n[Em]insane [D]Yeah,\n[G]you make me lose [D]my brain\n[Em][D]Lo-lo-love me insane",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Love Me Insane",
+  "id": "5724d5c42b20cb343ef54cb1913617de63df1c6a6969ce070c44cf80e4b4005c",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 296,
+  "normalizedKey": "avril lavigne|love me insane",
+  "playableChords": [
+    "G",
+    "D",
+    "Em",
+    "C",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Interlude"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5724d5c42b20cb343ef54cb1913617de63df1c6a6969ce070c44cf80e4b4005c",
+    "version": "BCFZ"
+  },
+  "tempo": 77,
+  "title": "Love Me Insane",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

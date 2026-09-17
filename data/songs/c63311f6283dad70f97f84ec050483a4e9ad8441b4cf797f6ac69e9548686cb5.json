@@ -1,0 +1,88 @@
+{
+  "artist": "Band of Horses",
+  "artistNormalized": "band of horses",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[B]\n[G#m]\n[Eadd#11]\n[F#]\n\n[Verse 1]\n[B]Silver scents\n[G#m]of\n[Eadd#11]Saint Augustine\n[F#]\n[B]Fire in the ground\n[G#m]Bet-\n[Eadd#11]ween my better teeth\n[F#]We're\n[B]dancing\n[G#m]on the\n[Eadd#11]poison in their\n[F#]graves At the\n[B]end of the night\n[G#m]We'd\n[Eadd#11]all seen better days\n[F#]I\n\n[Chorus]\n[Eadd#11]know you tried I\n[F#]know you're cursed I\n[B]know your best was\n[Eadd#11]still your worst When\n[Eadd#11]Hollywood was\n[F#]calling out your\n[B]name\n[G#m]\n[Eadd#11]Saint Au-\n[F#]gustine\n[B]\n[G#m]\n[Eadd#11]\n[F#]If\n\n[Verse 2]\n[B]I stayed behind\n[G#m]Would\n[Eadd#11]you let your hair\n[F#]grow?\n[B]I will forget\n[G#m]The\n[Eadd#11]favors that you\n[F#]owe I'm\n[B]dreaming of\n[G#m]car wrecks and\n[Eadd#11]thunderstorms are bright\n[F#]Let's\n[B]bury ourselves\n[G#m]And go\n[Eadd#11]haunt someone tonight\n[F#]I\n\n[Chorus]\n[Eadd#11]know you tried I\n[F#]know you're cursed I\n[B]know your best was\n[Eadd#11]still your worst When\n[Eadd#11]Hollywood was\n[F#]calling out your\n[B]name\n[G#m]\n[Eadd#11]Saint Au-\n[F#]gustine\n[B]\n[G#m]\n[Eadd#11]Saint Au-\n[F#]gustine\n[B]\n[G#m]\n[Eadd#11]Saint Au-\n[F#]gustine\n[B]\n[G#m]\n[Eadd#11]Saint Au-\n[F#]gustine\n[B]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x32010",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Eadd#11": {
+      "catalog": [
+        "13320x"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "32000x",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "x02210"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "St. Augustine",
+  "id": "c63311f6283dad70f97f84ec050483a4e9ad8441b4cf797f6ac69e9548686cb5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 160,
+  "normalizedKey": "band of horses|st augustine",
+  "playableChords": [
+    "B",
+    "G#m",
+    "Eadd#11",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c63311f6283dad70f97f84ec050483a4e9ad8441b4cf797f6ac69e9548686cb5",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "St. Augustine",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

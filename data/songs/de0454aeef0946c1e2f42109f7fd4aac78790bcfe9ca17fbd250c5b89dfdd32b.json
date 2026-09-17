@@ -1,0 +1,92 @@
+{
+  "artist": "Bad Religion",
+  "artistNormalized": "bad religion",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C5]\n[B5]\n[E5]  [C5]  [G5]  [D5]\n[E5]  [C5]  [G5]  [D5]\n[E5]  [C5]  [G5]  [D5]\n[E5][C5][G5][D5]Hey\n\n[Verse 1]\n[E5]do what you [C5]want, but\n[G5]don't do it around [D5]me.\n[E5]Idleness and [C5]dissipation\n[G5]breed [D5]apathy. I\n[E5]sit on my [C5]ass all\n[G5]goddamn [D5]day, A\n[E5]misanthropic [C5]anthropoid with\n[D5][G5]nothing to\n\n[Chorus]\n[C5]Say what [D5]you [E5]must,\n[C5]do all [D5]you [E5]can,\n[C5]Break all [D5]the [E5]fucking rules and\n[C5]Go to Hell with Superman and\n[B5]Die like a champion, yeah\n\n[Bridge]\n[E5]hey! [C5][G5][D5]\n[E5]  [C5]  [G5]  [D5]\n[E5]  [C5]  [G5]  [D5]\n[E5][C5][G5][D5]Hey\n\n[Verse 2]\n[E5]I don't [C5]know if the\n[G5]billions will [D5]survive, But\n[E5]I'll believe [C5]in God when\n[G5]one and one are [D5]five. My\n[E5]moniker is [C5]man and I'm\n[G5]rotten to the [D5]core. I'll\n[E5]tear down the [C5]building just to\n[G5]pass [D5]through the\n[E5]door.\nSo\n\n[Chorus]\n[C5]do [D5]what you [E5]must,\n[C5]do all [D5]you [E5]can,\n[C5]Break all the fucking rules and\n[B5]Go to Hell with Superman and\nDie like a champion, yeah\n[E5]hey! [C5][G5][D5]\n[E5]  [C5]  [G5]  [D5]\n[E5]  [C5]  [G5]  [D5]\n[E5]",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx",
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Do What You Want *alt",
+  "id": "de0454aeef0946c1e2f42109f7fd4aac78790bcfe9ca17fbd250c5b89dfdd32b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 158,
+  "normalizedKey": "bad religion|do what you want",
+  "playableChords": [
+    "C5",
+    "B5",
+    "E5",
+    "G5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Bridge"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "de0454aeef0946c1e2f42109f7fd4aac78790bcfe9ca17fbd250c5b89dfdd32b",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Do What You Want",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

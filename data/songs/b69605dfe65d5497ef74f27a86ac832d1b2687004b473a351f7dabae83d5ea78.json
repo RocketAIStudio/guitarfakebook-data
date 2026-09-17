@@ -1,0 +1,88 @@
+{
+  "artist": "At the Gates",
+  "artistNormalized": "at the gates",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E5]\n[D5]\n[C5]\n[B5]\n\n[Part 1]\n[E5]\n[D5]\n[C5]\n[B5]\n\n[Part 2]\n[E5]Empty streets fill my mind\n[D5]\n[C5]Autumn has come to numb me\n[B5]blind\n[E5]The end it reaches out for me\n[D5]\n[C5]My soul still calling to be\n[B5]free\n\n[Part 3]\n[E5]\n[D5]\n[C5]\n[B5]\n\n[Part 4]\n[E5]I want the energy to\nbreathe, to\n[D5]clear their poisoned minds\nThe\n[C5]energy I am,\nto\n[B5]end their pointless lives\n\n[Part 2]\n[E5]\n[D5]\n[C5]\n[B5]\n\n[Outro]\n[E5]\n[D5]\n[C5]\n[B5]\n[E5]\n[D5]\n[C5]",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Scar",
+  "id": "b69605dfe65d5497ef74f27a86ac832d1b2687004b473a351f7dabae83d5ea78",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 56,
+  "normalizedKey": "at the gates|the scar",
+  "playableChords": [
+    "E5",
+    "D5",
+    "C5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Part 1"
+    },
+    {
+      "measure": 9,
+      "name": "Part 2"
+    },
+    {
+      "measure": 17,
+      "name": "Part 3"
+    },
+    {
+      "measure": 25,
+      "name": "Part 4"
+    },
+    {
+      "measure": 33,
+      "name": "Part 2"
+    },
+    {
+      "measure": 37,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b69605dfe65d5497ef74f27a86ac832d1b2687004b473a351f7dabae83d5ea78",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "The Scar",
+  "tuning": "B E A D F# B",
+  "variantRole": "primary"
+}

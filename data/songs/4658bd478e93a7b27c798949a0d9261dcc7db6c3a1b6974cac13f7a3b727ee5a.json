@@ -1,0 +1,88 @@
+{
+  "artist": "Bleeding Through",
+  "artistNormalized": "bleeding through",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F5]\n[B5]\n[F5]\n\n[Verse 1]\n[B5]We are\nnothing A\nlost cause for a\nlost cause [F5]The\n[B5]hourglass is a loaded\ngun\nRunning short of sand\n[F5]\n\n[Verse 2]\n[B5]Breaking\nevery\n[F5]single mirror\n[B5]I'm burning\nevery\n[F5]single\n[B5]letter\n[F5]\n[B5]You're fading\nwith a hundred\n[F5]pictures on my\n\n[Intrelude]\n[B5]walls\n[F5]\n[B5]We are\nnothing\n[F5]\n\n[Verse 3]\n[B5]Breaking\nevery\n[F5]single mirror\n[B5]I'm burning\nevery\n[F5]single\n[B5]letter\n[F5]\n[B5]You're fading\nwith a hundred\n[F5]pictures on my\n\n[Bridge]\n[B5]walls\n[C5]\n[B5]\n[D#5]  [C5]\n\n[Outro]\n[B5]We're fading\nfaster [C5]\n[B5]We're fighting for a-\n[D#5]nother lost [C5]cause\n[B5]And you're fading fast\nNow [C5]you're\n[B5]fading out with the\n[D#5]picture [C5]of\n[B5]We're fading\nfaster [C5]\n[B5]We're fighting for a-\n[D#5]nother lost [C5]cause\n[B5]And you're fading fas-\nter [C5]Now\n[B5]you're fading out like the\n[D#5]pictures [C5]on my\n[B5]walls",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "111xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "444xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "666xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "She's Gone",
+  "id": "4658bd478e93a7b27c798949a0d9261dcc7db6c3a1b6974cac13f7a3b727ee5a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 147,
+  "normalizedKey": "bleeding through|she s gone",
+  "playableChords": [
+    "F5",
+    "B5",
+    "C5",
+    "D#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Bridge"
+    },
+    {
+      "measure": 54,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4658bd478e93a7b27c798949a0d9261dcc7db6c3a1b6974cac13f7a3b727ee5a",
+    "version": "BCFZ"
+  },
+  "tempo": 230,
+  "title": "She's Gone",
+  "tuning": "B F# B E G# C#",
+  "variantRole": "primary"
+}

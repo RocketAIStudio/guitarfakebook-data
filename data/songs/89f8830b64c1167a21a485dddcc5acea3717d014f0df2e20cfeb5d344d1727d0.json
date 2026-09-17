@@ -1,0 +1,66 @@
+{
+  "artist": "Attila",
+  "artistNormalized": "attila",
+  "capo": "No capo",
+  "chordPositionCount": 2,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n\n[Bridge]\n[A5/E]\n\n[Break]\n[Caug]\n\n[Bridge]\nStanding\nlonely at the\ntop I watch you\ndrop\n\n[Outro]\n[Caug]\nI've dest-\nroyed every\nsingle thing I\ntouch\nI've dest-\nroyed every\nsingle thing I\nlove",
+  "diagrams": {
+    "A5/E": {
+      "catalog": [
+        "x002xx"
+      ],
+      "catalogCount": 1
+    },
+    "Caug": {
+      "catalog": [
+        "343xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Perdition",
+  "id": "89f8830b64c1167a21a485dddcc5acea3717d014f0df2e20cfeb5d344d1727d0",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 29,
+  "normalizedKey": "attila|perdition",
+  "playableChords": [
+    "A5/E",
+    "Caug"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Bridge"
+    },
+    {
+      "measure": 15,
+      "name": "Break"
+    },
+    {
+      "measure": 47,
+      "name": "Bridge"
+    },
+    {
+      "measure": 51,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "89f8830b64c1167a21a485dddcc5acea3717d014f0df2e20cfeb5d344d1727d0",
+    "version": "BCFZ"
+  },
+  "tempo": 170,
+  "title": "Perdition",
+  "tuning": "G# D# G# C# F A#",
+  "variantRole": "primary"
+}

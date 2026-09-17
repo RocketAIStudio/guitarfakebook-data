@@ -1,0 +1,170 @@
+{
+  "artist": "Birdy",
+  "artistNormalized": "birdy",
+  "capo": "No capo",
+  "chordPositionCount": 46,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[Bm]  [Gm]\n[D]  [E7]\n[D]  [A7]\n[D]\n\n[Chorus]\n[Bm]Blue skies [Gm]smiling at\n[D]me [E7]Nothing but\n[D]blue skies, [A7]all I see\n[D]  [F#]\n[Bm]Blue birds [Gm]singing a\n[D]song [E7]Nothing but\n[D]blue skies, [A7]from now\n[D]I\n\n[Verse]\n[D]never saw the sun [Gm]shining so [D]bright\n[Gm]Never saw [D]things [Gm]going so [D]right\n[D]Noticing the days [Gm]hurrying [D]bad\n[Gm]When you're in [D]love, oh [Gm]my how they [D]fly But\n\n[Chorus]\n[Bm]blue days, [Gm]all of them\n[D]gone [E7]Nothing but\n[D]blue skies, [A7]from now\n[D]\n\n[Bridge]\n[Bm]  [Gm]\n[D]  [E7]\n[D]  [A7]\n[D]  [F#]  [G#]\n\n[Chorus]\n[C#m]Blue skies [G#]smiling at\n[E]me [F#]Nothing but\n[E]blue skies, [F#m]all I see\n[E]  [G#]\n[C#m]Blue birds [G#]singing a\n[E]song [F#]Nothing but\n[E]blue skies, [F#m]from now\n[E]\n\n[Bridge]\n[E]\n[C#m]  [G#]\n[E]  [F#]\n[E]  [F#m]\n[E]But\n\n[Outro]\n[C#m]blue days, [G#]all of them\n[E]gone [F#]Nothing but\n[E]blue skies, [F#m]from now\n[E]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Blue skies",
+  "id": "0a87c08f60a8cab46fb015eb52b07e05735194c1e981e8877dbacbe5a30a562f",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 118,
+  "normalizedKey": "birdy|blue skies",
+  "playableChords": [
+    "Bm",
+    "Gm",
+    "D",
+    "E7",
+    "A7",
+    "F#",
+    "G#",
+    "C#m",
+    "E",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0a87c08f60a8cab46fb015eb52b07e05735194c1e981e8877dbacbe5a30a562f",
+    "version": "BCFZ"
+  },
+  "tempo": 77,
+  "title": "Blue skies",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

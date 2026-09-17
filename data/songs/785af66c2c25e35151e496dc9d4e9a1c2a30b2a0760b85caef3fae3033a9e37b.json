@@ -1,0 +1,121 @@
+{
+  "artist": "Blink 182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[B]\n\n[Verse 1]\n[B]The drops of rain they fall all\n[G#m]over [E/G#]\n[B]This awkward silence makes me\n[G#m]crazy [E/G#]\n[B]The glow inside burns light up-\n[G#m]on her [E/G#]\n[B]I'll try to kiss you if you\n[G#m]let me [E/G#]\n[E](this can't be the end)\n\n[Pre-Chorus]\n[G#m]Tidal waves they\n[E/G#]rip right through me\n[B]Tears from eyes worn\n[F#]cold and sad\n[G#m]Pick me up now, I\n[E/G#]need you so bad\n\n[Chorus]\n[B]Down down down down\n[E]Down down down down\n[G#]Down down down down\n[E]Down down down down\n[B]Down down down down\n[E]Down down down down\n[G#]Down down down down\n[E]Down down down down\n[B]\n\n[Verse 2]\n[B]Your vows of silence fall all\n[G#m]over [E/G#]\n[B]The look in your eyes makes me\n[G#m]crazy [E/G#]\n[B]I feel the darkness break up-\n[G#m]on her [E/G#]\n[B]I'll take you over if you\n[G#m]let me [E/G#]\n[E](you did this)\n\n[Pre-Chorus]\n[G#m]Tidal waves they\n[E/G#]rip right through me\n[B]Tears from eyes worn\n[F#]cold and sad\n[G#m]Pick me up now, I\n[E/G#]need you so bad\n\n[Chorus]\n[B]Down down down down\n[E]Down down down down\n[F#]Down down down down\n[E]Down down down down\n[B]Down down down down\n[E]Down down down down\n[G#m]Down down down down\n[E]Down down down down\n\n[Outro]\n[B]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "79987x",
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "02210x",
+        "x79997",
+        "679997",
+        "022100",
+        "x-x-2-4-5-4"
+      ],
+      "catalogCount": 5
+    },
+    "E/G#": {
+      "catalog": [
+        "47645x",
+        "476454"
+      ],
+      "catalogCount": 2
+    },
+    "F#": {
+      "catalog": [
+        "24432x",
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    },
+    "G#m": {
+      "catalog": [
+        "466444",
+        "46644x",
+        "4664xx"
+      ],
+      "catalogCount": 3
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Down",
+  "id": "785af66c2c25e35151e496dc9d4e9a1c2a30b2a0760b85caef3fae3033a9e37b",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 192,
+  "normalizedKey": "blink 182|down",
+  "playableChords": [
+    "B",
+    "G#m",
+    "E/G#",
+    "E",
+    "F#",
+    "G#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "785af66c2c25e35151e496dc9d4e9a1c2a30b2a0760b85caef3fae3033a9e37b",
+    "version": "BCFZ"
+  },
+  "tempo": 93,
+  "title": "Down",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,122 @@
+{
+  "artist": "Bastille",
+  "artistNormalized": "bastille",
+  "capo": "1",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am]\n\n[Chorus]\n[Am]When I watch the\n[F]world burn\n[G]All I think a-\n[C]bout is [C/B]you\n[Am]When I watch the\n[F]world burn\n[G]All I think a-\n[C]bout is [C/B]you\n\n[Verse 1]\n[Am]There must be something in the\n[F]KoolAid Cruising through the\n[G]doom days God knows what is\n[Am]real and what is fake\nLast couple years have been a\n[F]mad trip How'd y'all look so\n[G]perfect? You must have some\n[Am]portraits in the attic\n\n[Verse 2]\n[Am]We'll stay offline so no one\n[F]gets hurt Hiding from the\n[G]real world Just don't read the\n[Am]comments ever, ever\nWe fucked this house up like the\n[F]planet We were running\n[G]riot Crazy that some\n[Am]people still deny it\n\n[Verse 3]\n[Am]Think I'm addicted to my\n[F]phone My scrolling horror\n[G]show I'm livestreaming the\n[Am]final days of Rome\nOne tab along, it's porno-\n[F]graphic Everybody's\n[G]at it No surprise we're\n[Am]so easily bored\n\n[Verse 4]\n[Am]Let's pick the truth that we be-\n[F]lieve in Like a bad re-\n[G]ligion Tell me all your\n[Am]original sins\nSo many questionable\n[F]choices We love the sound that our\n[G]voice makes Man, this echo\n[Am]chamber's getting loud\n\n[Bridge]\n[Am]We're gonna choose the blue pill\n[F]We're gonna close the curtains\n[G]We're gonna rabbit hole down,\n[C]third act [C/B]love now\n[Am]She's gonna flip some tables\n[F]I'm gonna move this tale on\n[G]We're gonna rabbit hole down,\n[C]third act [C/B]love now\n[Am]We'll be the proud remainers\n[F]Here 'til the morning breaks us\n[G]We run away from real life\n[C]thoughts [C/B]tonight\n[Am]We're gonna Peter Pan out\n[F]Fade to the closeup, arms 'round\n[G]We're gonna stay naive to-\n[C]night, night, [C/B]night\n\n[Chorus]\n[Am]When I watch the\n[F]world burn\n[G]All I think a-\n[C]bout is [C/B]you\n[Am]When I watch the\n[F]world burn\n[G]All I think a-\n[C]bout is [C/B]you\n[Am]You\n[F]\n[G]All I think a-\n[Cmaj7/E]bout is you\n[C]So I put my\n[F]phone down\n[G]Fall into the\n[C]night with you",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/B": {
+      "catalog": [
+        "x22010"
+      ],
+      "catalogCount": 1
+    },
+    "Cmaj7/E": {
+      "catalog": [
+        "022010"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Doom Days",
+  "id": "f977c7b1a25161a59e981b701e8203ca41f2229c054acdd0eee376d67feb61b6",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 368,
+  "normalizedKey": "bastille|doom days",
+  "playableChords": [
+    "Am",
+    "F",
+    "G",
+    "C",
+    "C/B",
+    "Cmaj7/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f977c7b1a25161a59e981b701e8203ca41f2229c054acdd0eee376d67feb61b6",
+    "version": "BCFZ"
+  },
+  "tempo": 137,
+  "title": "Doom Days",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

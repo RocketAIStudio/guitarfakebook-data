@@ -1,0 +1,123 @@
+{
+  "artist": "Billie Eilish",
+  "artistNormalized": "billie eilish",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]\n[Bm]\n[G]\n[Bm]\n\n[Verse 1]\n[G]The games you played were never fun\n[Bm]\n[G]You'd say you'd stay but then you'd run\n[Bm]\n\n[Pre-Chorus]\n[Em]Giving you what you're begging for [G]Giving you what you say I need\n[C]I don't want any settled scores I just want you to [D]set me free\n[Em]Giving you what you're begging for [G]Giving you what you say I need,\n[C]say I need [D]\n\n[Chorus]\n[G]I'm not afraid anymore [Em]What makes you sure\n[Bm]you're all I need? [C]Forget about it\n[G]When you walk out the door [Em]and leave me torn\n[Bm]You're teaching me [C]to live without it\n[G]Bored, [Em]I'm so\n[Bm]bored, [C]I'm so\n[G]bored, [Em]so\n[Bm]bored [C]\n\n[Verse 2]\n[G]I'm home alone, you're God knows where\n[Bm]\n[G]I hope you don't think that shit's fair\n[Bm]\n\n[Pre-Chorus]\n[Em]Giving you all you want and more [G]Giving you every piece of me\n[C]But I want a love I can afford I just want you to [D]love for free\n[Em]Can't you see that I'm getting bored? [G]Giving you every piece of me,\n[C]piece of me [D]\n\n[Chorus]\n[G]I'm not afraid anymore [Em]What makes you sure\n[Bm]you're all I need? [C]Forget about it\n[G]When you walk out the door [Em]and leave me torn\n[Bm]You're teaching me [C]to live without it\n[G]Bored, [Em]I'm so\n[Bm]bored, [C]I'm so\n[G]bored, [Em]so\n[Bm]bored [C]\n\n[Pre-Chorus]\n[G]Giving you what you're begging for [Em]Giving you what you say I need\n[Bm]I don't want any settled scores [C]I just want you to set me free\n[G]Giving you what you're begging for [Em]Giving you what you say I need,\n[Bm]say I need [C]\n\n[Outro]\n[G]I'm not afraid anymore [Em]What makes you sure\n[Bm]you're all I need? [C]Forget about it\n[G]When you walk out the door [Em]and leave me torn\n[Bm]You're teaching me [C]to live without it",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bored",
+  "id": "b583a0a37ead17a4e43ee37e883b45920c22614441a8c61cdbcd17f74b7d4da7",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 320,
+  "normalizedKey": "billie eilish|bored",
+  "playableChords": [
+    "G",
+    "Bm",
+    "Em",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b583a0a37ead17a4e43ee37e883b45920c22614441a8c61cdbcd17f74b7d4da7",
+    "version": "BCFZ"
+  },
+  "tempo": 60,
+  "title": "Bored",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

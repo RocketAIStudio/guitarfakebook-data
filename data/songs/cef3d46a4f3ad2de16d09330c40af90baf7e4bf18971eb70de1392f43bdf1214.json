@@ -1,0 +1,81 @@
+{
+  "artist": "Bing Crosby",
+  "artistNormalized": "bing crosby",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Bb]\n\n[Verse 1]\n[Bb]Come, they\ntold me pa-\nrumpapumpum\nA newborn\nking to see pa-\nrumpapumpum\n[F]Our finest\ngifts we bring pa-\nrumpapumpum\nTo lay be-\n[Bb]fore the king pa-\n[Eb]rumpapumpum\n[Bb]Rumpapumpum\n[F]Rumpapumpum\n[Bb]So, to\nhonor Him pa-\nrumpapumpum\nWhen we come\n\n[Verse 2]\n[Bb]Baby\nJesu pa-\nrumpapumpum\nI am a\npoor boy too pa-\nrumpapumpum\n[F]I have no\ngifts to bring pa-\nrumpapumpum\nThat's fit to\n[Bb]give a king pa-\n[Eb]rumpapumpum\n[Bb]Rumpapumpum\n[F]Rumpapumpum\n[Bb]Shall I\nplay for you pa-\nrumpapumpum\nOn my drum?\n\n[Verse 3]\n[Bb]Mary\nnodded pa-\nrumpapumpum\nThe ox and\nlass kept time pa-\nrumpapumpum\n[F]I played my\ndrum for Him pa-\nrumpapumpum\nI played my\n[Bb]best for Him pa-\n[Eb]rumpapumpum\n[Bb]Rumpapumpum\n[F]Rumpapumpum\n[Bb]Then, He\nsmiled at me pa-\nrumpapumpum\nMe and my drum\nMe and my drum",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Little Drummer Boy",
+  "id": "cef3d46a4f3ad2de16d09330c40af90baf7e4bf18971eb70de1392f43bdf1214",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 194,
+  "normalizedKey": "bing crosby|the little drummer boy",
+  "playableChords": [
+    "Bb",
+    "F",
+    "Eb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cef3d46a4f3ad2de16d09330c40af90baf7e4bf18971eb70de1392f43bdf1214",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "The Little Drummer Boy",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

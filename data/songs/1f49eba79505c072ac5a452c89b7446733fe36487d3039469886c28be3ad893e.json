@@ -1,0 +1,112 @@
+{
+  "artist": "Avril Lavigne",
+  "artistNormalized": "avril lavigne",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Dm]  [Bb]\n[F]I've gotta\n\n[Verse 1]\n[Dm]keep the calm [Bb]before the\n[F]storm I\n[Dm]don't want less, I [Bb]don't want\n[F]more Must\n[Dm]bar the windows [Bb]and the\n[F]doors To\n[Dm]keep me safe, to [Bb]keep me\n[F]warm Yeah, my\n[Dm]life is what I'm [Bb]fighting\n[F]for Can't\n[Dm]part the sea, can't [Bb]reach the\n[F]shore And my\n[Dm]voice becomes the [Bb]driving\n[F]force I won't\n[Dm]let this pull me [Bb]over-\n[F]board God, keep my\n\n[Chorus]\n[Dm]head above [Bb]water Don't let me\n[F]drown, it gets [C]harder I'll meet you\n[Dm]there at the [Bb]altar As I fall\n[F]down to my knees [C]Don't let me\n[Dm]drown, drown, drown [Bb]Don't let me,\n[F]don't let me, don't let me drown [C]So\n\n[Verse 2]\n[Dm]pull me up from [Bb]down be-\n[F]low 'Cause I'm\n[Dm]underneath the [Bb]under-\n[F]tow Come\n[Dm]dry me off and [Bb]hold me\n[F]close I\n[Dm]need you now, I [Bb]need you\n[F]most God, keep my\n\n[Chorus]\n[Dm]head above [Bb]water Don't let me\n[F]drown, it gets [C]harder I'll meet you\n[Dm]there at the [Bb]altar As I fall\n[F]down to my knees [C]Don't let me\n[Dm]drown, drown, drown [Bb]Don't let me,\n[F]don't let me, don't let me drown [C]Don't let me\n[Dm]drown, drown, drown [Bb]Don't let me,\n[F]don't let me, don't let me drown [C]\n\n[Bridge]\n[Bb]And I [C]can't\n[Dm]see in the [F]stormy weather\n[Bb]I [C]can't\n[Dm]seem to keep it [F]all together\n[Bb]And I, I can't [C]swim the o-\n[Dm]cean like [F]this forever And\n[Bb]I [Dm]can't breathe [C]God, keep my\n\n[Interlude]\n[Dm]head above water I lose my\n[C]breath at the bottom Come rescue\n[Dm]me, I'll be waiting I'm too young\n[C]to fall asleep God, keep my\n\n[Chorus]\n[Dm]head above [Bb]water Don't let me\n[F]drown, it gets [C]harder I'll meet you\n[Dm]there at the [Bb]altar As I fall\n[F]down to my knees [C]Don't let me\n[Dm]drown [Bb]Don't let me\n[F]drown [C]Don't let me\n[Dm]drown Keep [Bb]my head above\n[F]water, above water [C]\n\n[Outro]\n[C]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "688766",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Head Above Water",
+  "id": "1f49eba79505c072ac5a452c89b7446733fe36487d3039469886c28be3ad893e",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 331,
+  "normalizedKey": "avril lavigne|head above water",
+  "playableChords": [
+    "Dm",
+    "Bb",
+    "F",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 48,
+      "name": "Interlude"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1f49eba79505c072ac5a452c89b7446733fe36487d3039469886c28be3ad893e",
+    "version": "BCFZ"
+  },
+  "tempo": 66,
+  "title": "Head Above Water",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

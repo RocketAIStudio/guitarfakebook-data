@@ -1,0 +1,92 @@
+{
+  "artist": "blink-182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E5]\n[E5]  [C5]\n[G5]  [D5]\n[E5]  [C5]\n[G5]  [D5]\n\n[Solo]\n[E5]  [C5]\n[G5]  [D5]\n[E5]  [C5]\n[G5]  [D5]\n[E5]  [C5]\n[G5]  [D5]\n[E5]  [C5]\n[G5]  [D5]\n\n[Verse 1]\n[E5]Oh, how I [C5]wish that they would\n[G5]last [D5]\n[E5]Moments of [C5]peace that just slip\n[G5]through me so fast [D5]\n[E5]Just when I [C5]think that they are\n[G5]gonna stay [D5]\n[E5]Everything [C5]inside me just starts\n[G5]fading [D5]away\n\n[Chorus]\n[C5]Sometimes it seems like all I\n[G5]hope for Just gets thrown down on the\n[E5]floor And then it seems like you don't\n[C5]love me anymore\n[C5]Sometimes I wish that I could\n[G5]run away\n[E5]Sometimes I wish I just had\n[C5]something to say\n\n[Solo]\n[E5]  [C5]\n[G5]  [D5]\n[E5]  [C5]\n[G5]  [D5]\n[E5]  [C5]\n[G5]  [D5]\n[E5]  [C5]\n[G5]  [D5]\n\n[Verse 2]\n[E5]She looks at [C5]me and doesn't\n[G5]know the words to [D5]say\n[E5]But it's not [C5]you, I just don't\n[G5]feel quite right [D5]today\n[E5]All these [C5]things I say and\n[G5]do were never [D5]planned\n[E5]But how the [C5]fuck am I supposed to\n[G5]make you [D5]understand that\n\n[Chorus]\n[C5]Sometimes it seems like all I\n[G5]hope for Just gets thrown down on the\n[E5]floor And then it seems like you don't\n[C5]love me anymore\n[C5]Sometimes I wish that I could\n[G5]run away\n[E5]Sometimes I wish I just had\n[C5]something to say\n\n[Outro]\n[E5]  [C5]\n[G5]  [D5]\n[E5]  [C5]\n[G5]  [D5]",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sometimes",
+  "id": "6047e687007acbe1d1437fea688e7b870c3977513f62ade163ef78e50b366717",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 189,
+  "normalizedKey": "blink 182|sometimes",
+  "playableChords": [
+    "E5",
+    "C5",
+    "G5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Solo"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Solo"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6047e687007acbe1d1437fea688e7b870c3977513f62ade163ef78e50b366717",
+    "version": "BCFZ"
+  },
+  "tempo": 212,
+  "title": "Sometimes",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

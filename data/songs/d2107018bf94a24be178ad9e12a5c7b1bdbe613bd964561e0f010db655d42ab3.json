@@ -1,0 +1,100 @@
+{
+  "artist": "Bob Dylan",
+  "artistNormalized": "bob dylan",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]  [D]\n[Am]\n[G]  [D]\n[C]\n[G]  [D]\n[Am]\n[G]  [D]\n[C]\n\n[Verse 1]\n[G]Mama, take this [D]badge off of me\n[Am]\n[G]I can't use [D]it anymore.\n[C]\n[G]It's gettin' dark, [D]too dark to see\n[Am]\n[G]I feel I'm [D]knockin' on heaven's door.\n[C]\n\n[Chorus]\n[G]Knock, knock, [D]knockin' on heaven's door\n[Am]\n[G]Knock, knock, [D]knockin' on heaven's door\n[C]\n[G]Knock, knock, [D]knockin' on heaven's door\n[Am]\n[G]Knock, knock, [D]knockin' on heaven's door\n[C]\n\n[Verse 2]\n[G]Mama, put my [D]guns in the ground\n[Am]\n[G]I can't shoot [D]them anymore.\n[C]\n[G]That long black [D]cloud is comin' down\n[Am]\n[G]I feel I'm [D]knockin' on heaven's door.\n[C]\n\n[Chorus]\n[G]Knock, knock, [D]knockin' on heaven's door\n[Am]\n[G]Knock, knock, [D]knockin' on heaven's door\n[C]\n[G]Knock, knock, [D]knockin' on heaven's door\n[Am]\n[G]Knock, knock, [D]knockin' on heaven's door\n[C]\n\n[Outro]\n[G]  [D]\n[Am]\n[G]  [D]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Knockin' On Heaven's Door",
+  "id": "d2107018bf94a24be178ad9e12a5c7b1bdbe613bd964561e0f010db655d42ab3",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 128,
+  "normalizedKey": "bob dylan|knockin on heaven s door",
+  "playableChords": [
+    "G",
+    "D",
+    "Am",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d2107018bf94a24be178ad9e12a5c7b1bdbe613bd964561e0f010db655d42ab3",
+    "version": "BCFZ"
+  },
+  "tempo": 34.5,
+  "title": "Knockin' On Heaven's Door",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

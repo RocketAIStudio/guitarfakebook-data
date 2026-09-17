@@ -1,0 +1,126 @@
+{
+  "artist": "Basement",
+  "artistNormalized": "basement",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Ab]\n[Dbmaj7]\n[Ab]\n[Dbmaj7]\n[Ab]\n[Dbmaj7]\n[Ab]\n[Dbmaj7]\n[Ab]\n[Dbmaj7]\n[Ab]\n[Dbmaj7]\n\n[Verse 1]\n[Ab]Special,\n[Dbmaj7]I wish you were\n[Ab]special.\n[Dbmaj7]\n[Ab]But I can't think\n[Dbmaj7]of you that\n[Ab]way.\n[Dbmaj7]\n[Ab]Want me;\n[Dbmaj7]I need you to\n[Ab]want me.\n[Dbmaj7]\n[Ab]I hate myself,\n[Dbmaj7]and that's o-\n[Ab]kay.\n[Dbmaj7]Because I\n\n[Chorus]\n[Bbm]never have enough.\n[Db]I don't\n[Ab]love you, I just need\n[Gbadd9]to be\n[Db]loved.\n\n[Interlude]\n[Ab]\n[Dbmaj7]\n[Ab]\n[Dbmaj7]\n[Ab]\n[Dbmaj7]\n[Ab]\n[Dbmaj7]\n\n[Verse 2]\n[Ab]Want me;\n[Dbmaj7]I need you to\n[Ab]want me.\n[Dbmaj7]\n[Ab]I hate my-\n[Dbmaj7]self, but that's okay.\n[Ab]\n[Dbmaj7]Because I\n\n[Chorus]\n[Bbm]never have enough.\n[Db]I don't\n[Ab]love you, I just need\n[Gbadd9]to be\n[Db]loved.\n\n[Solo]\n[Ab]\n[Fm]\n[Db]\n[Gbadd9]\n[Db]\n[Gbadd9]I'm a\n\n[Outro]\n[Ab]liar,\nI'm a\n[Fm]\nfake.\n[Db]Open up your chest,\n[Gbadd9]Let me\n[Db]throw your heart a-\n[Gbadd9]way.",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x02220",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm": {
+      "catalog": [
+        "x24432",
+        "x-1-3-3-2-1",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Dbmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-4-3-1-1-1",
+        "x-4-6-5-6-4",
+        "9-8-6-6-6-8",
+        "9-11-10-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "2442xx",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gbadd9": {
+      "catalog": [
+        "320203"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pine",
+  "id": "f12ca78e6ade6ca070d7cdf5f3284a5725568b0be0c4bab79531d506dd3321c8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 101,
+  "normalizedKey": "basement|pine",
+  "playableChords": [
+    "Ab",
+    "Dbmaj7",
+    "Bbm",
+    "Db",
+    "Gbadd9",
+    "Fm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Interlude"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f12ca78e6ade6ca070d7cdf5f3284a5725568b0be0c4bab79531d506dd3321c8",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Pine",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

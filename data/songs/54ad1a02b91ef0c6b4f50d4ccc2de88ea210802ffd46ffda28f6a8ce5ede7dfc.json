@@ -1,0 +1,122 @@
+{
+  "artist": "Billie Eilish",
+  "artistNormalized": "billie eilish",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[C]Hey call me ba-\nck when ya ge-\n[Am]t this\nOr when you've got a\n[F]minute\nWe really need to\n[C]talk\n[G]\n[C]Wait you know wha-\nt Maybe just for-\n[Am]get it\nCuz by the time you\n[F]get this\nYour number might be\n[C]blocked\n[G]\n\n[Pre-Chorus]\n[Am]\"Stay\"\nand \"bla bla\n[C]bla\"\nYou just\n[F]want wha-\nt you can't have\n[C]\n[G]No\n[Am]way\nI'll call the\n[C]cops\nIf you don't\n[F]stop, I'll\ncall your dad\n[C]\n[G]And I\n\n[Chorus]\n[F]hate to do this\n[G]to you on your\n[C]birthday\nHappy\n[Am]birthda-\ny by the\n[E]way\n\"It's not\n[F]you it's me\" and\n[G]all that other\n[C]bullshit\nYou know that's\n[Am]bullshit\nDontcha,\n[E]babe\n[F]I'm not your\n[Fm]party favor\n[C]\n\n[Verse 2]\n[C]Look now I know\nwe coulda done it\n[Am]better\nBut we can't change the\n[F]weather\nWhen the weather's come a-\n[C]nd go-\n[G]ne\n[C]Books don't make\nsense if ya read 'em\n[Am]backwards\nYou'll single out the\n[F]wrong words\nLike you mishear all my\n[C]songs\n[G]You hear\n\n[Pre-Chorus]\n[Am]\"stay\"\nand \"bla bla\n[C]bla\"\nYou just\n[F]want wha-\nt you can't have\n[C]\n[G]No\n[Am]way\nI'll call the\n[C]cops\nIf you don't\n[F]stop, I'll\ncall your dad\n[C]\n[G]And I\n\n[Chorus]\n[F]hate to do this\n[G]to you on your\n[C]birthday\nHappy\n[Am]birthda-\ny by the\n[E]way\n\"It's not\n[F]you it's me\" and\n[G]all that other\n[C]bullshit\nYou know that's\n[Am]bullshit\nDontcha,\n[E]babe\n[F]I'm not your\n[Fm]party favor.",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "party favor",
+  "id": "54ad1a02b91ef0c6b4f50d4ccc2de88ea210802ffd46ffda28f6a8ce5ede7dfc",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 259,
+  "normalizedKey": "billie eilish|party favor",
+  "playableChords": [
+    "C",
+    "Am",
+    "F",
+    "G",
+    "E",
+    "Fm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 69,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "54ad1a02b91ef0c6b4f50d4ccc2de88ea210802ffd46ffda28f6a8ce5ede7dfc",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "party favor",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

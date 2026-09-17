@@ -1,0 +1,115 @@
+{
+  "artist": "Basement",
+  "artistNormalized": "basement",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Db]\n[Db]\n[Ab]\n[Bbsus2]\n[Gb]\n[Gb]\n[Db]\n[Ab]\n[Bbsus2]\n[Gb]\n[Gb]So I will run\n\n[Verse 1]\n[Db]\naway\n[Ab]from\nall I\n[Gb]can see\nin front\nof me\nI will lay\n[Db]\nand talk\n[Ab]of\nmy hopes\n[Gb]and dreams\nTo make\nit seem\nthat a light\n[Db]\ncan sh-\n[Ab]ne\nAnd brig-\n[Gb]hten up\nthe dark-\nest things\nBut a light\n[Db]\ncan't shi-\n[Ab]ne\nenough\n[Gb]to light\nup These me-\nmories\n\n[Chorus]\n[Db]Dive in-\nto me\n[Ab]\n[Bbsus2]Dive in-\nto me\n[Gb]\n[Gb]I'll\n[Db]meet you on\nthe wa-\n[Ab]ter there\nsometime\n[Bbsus2]\n[Gb]\n[Gb]So say the words\n\n[Verse 2]\n[Db]\nbefore\n[Ab]you\nleave\n[Gb]Tear\nmy heart off\nmy sleeve\nAnd tell me\n[Db]\nyou bel-\n[Ab]ieve\nin me\n[Gb]in me\nin me\n\n[Chorus]\n[Db]Dive in-\nto me\n[Ab]\n[Bbsus2]Dive in-\nto me\n[Gb]\n[Gb]I'll\n[Db]meet you on\nthe wa-\n[Ab]ter there\nsometime\n[Bbsus2]\n[Gb]\n[Gb]\n\n[Interlude]\n[Db]\nAnd I'll\n\n[Bridge]\n[Db]swim\nhalf way\n[Adim]\nIf you\n[Bbsus2]swim\nhalf way\n[Adim]\n[Db]Words help me\nbelieve\n[Adim]\nBut this\n[Bbsus2]is kill-\ning me\n[Adim]\n\n[Chorus]\n[Db]Dive in-\nto me\n[Ab]\n[Bbsus2]Dive in-\nto me\n[Gb]\n[Gb]I'll\n[Db]meet you on\nthe wa-\n[Ab]ter there\nsometime\n[Bbsus2]\n[Gb]\n[Gb]\n\n[Outro]\n[Db]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x02220",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Adim": {
+      "catalog": [
+        "8786xx"
+      ],
+      "catalogCount": 1
+    },
+    "Bbsus2": {
+      "catalog": [
+        "x24422"
+      ],
+      "catalogCount": 1
+    },
+    "Db": {
+      "catalog": [
+        "000232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "xx543x",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Aquasun",
+  "id": "ee9cdf618462ff942e3a48a8b55d9147e4b9465dc7e9b05c0a6e583694e930b3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 159,
+  "normalizedKey": "basement|aquasun",
+  "playableChords": [
+    "Db",
+    "Ab",
+    "Bbsus2",
+    "Gb",
+    "Adim"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    },
+    {
+      "measure": 101,
+      "name": "Interlude"
+    },
+    {
+      "measure": 117,
+      "name": "Bridge"
+    },
+    {
+      "measure": 133,
+      "name": "Chorus"
+    },
+    {
+      "measure": 149,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ee9cdf618462ff942e3a48a8b55d9147e4b9465dc7e9b05c0a6e583694e930b3",
+    "version": "BCFZ"
+  },
+  "tempo": 190,
+  "title": "Aquasun",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "primary"
+}

@@ -1,0 +1,69 @@
+{
+  "artist": "Attitude Adjustment",
+  "artistNormalized": "attitude adjustment",
+  "capo": "No capo",
+  "chordPositionCount": 3,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n\n[Verse 1]\n[F5]„Doesn't Stand For Anything”\ndoesn't mean [Eb5]Shit\n[F5]\n[C5]  [Eb5]\n\n[Verse 2]\n[F5]I don't care what you say your\nword don't mean [Eb5]shit\n[F5]\n[C5]  [Eb5]\n\n[Outro]\n[F5]\n[Eb5]\n[F5]\n[C5]Suck [Eb5]my\n[F5]dick!",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "D.S.F.A.",
+  "id": "83d651b6b5e0c277483a85e1e23721474fc163a3fdb65a51c20663c27fc698fd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 25,
+  "normalizedKey": "attitude adjustment|d s f a",
+  "playableChords": [
+    "F5",
+    "Eb5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 10,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "83d651b6b5e0c277483a85e1e23721474fc163a3fdb65a51c20663c27fc698fd",
+    "version": "BCFZ"
+  },
+  "tempo": 220,
+  "title": "D.S.F.A.",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

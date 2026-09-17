@@ -1,0 +1,130 @@
+{
+  "artist": "Bad Brains",
+  "artistNormalized": "bad brains",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C5]  [F5]\n[E5]\n[C5]  [F5]\n[E5]\n\n[Verse 1]\n[C5]Don't care what they may [F5]say\n[E5]We got that attitude!\n[C5]Don't care what you may [F5]do\n[E5]We got that attitude!\n\n[Chorus]\n[C5][D5][C5]Hey, [A5]\n[C5]we [D5]got that [C5]P. M. [A5]A.!\n[C5][D5][C5]Hey, [A5]\n[C5]we [D5]got the [C5]P. M. [A5]A.!\n\n[Interlude]\n[G5]  [F#5]  [F5]\n[G5]  [F#5]  [F5]\n[G5]  [F#5]  [F5]\n[G5]  [F#5]  [F5]\n\n[Verse 2]\n[C5]Don't [D5]care what [C5]they may [A5]do\n[C5]We [D5]got that [A5][C5]attitude!\n[C5]I [D5]care what [C5]you may [A5]say\n[C5]We [D5]got that [A5][C5]attitude!\n\n[Chorus]\n[G5][F#5]Hey, [F5]\n[G5]we got that [F#5]P. M. A.! [F5]\n[G5][F#5]Hey, [F5]\n[G5]we got the [F#5]P. M. A.! [F5]\n\n[Bridge]\n[C5]  [D5]  [C5]  [A5]\n[C5]We [D5]got that [A5][C5]attitude!\n[C5]  [D5]  [C5]  [A5]\n[C5]We [D5]got that [A5][C5]attitude!\n\n[Interlude]\n[C5]  [F5]\n[E5]\n[C5]  [F5]\n[E5]\n[C5]  [F5]\n[E5]\n[C5]  [F5]\n[E5]\n\n[Verse 3]\n[C5][D5][C5]Hey, [A5]\n[C5]we [D5]got that [A5][C5]attitude!\n[C5][D5][C5]Hey, [A5]\n[C5]we [D5]got that [A5][C5]attitude!\n\n[Interlude]\n[G5]  [F#5]  [F5]\n[G5]  [F#5]  [F5]\n[G5]  [F#5]  [F5]\n[G5]  [F#5]  [F5]\n\n[Chorus]\n[C5]Don't [D5]care what [C5]they may [A5]say\n[C5]We [D5]got that [A5][C5]attitude!\n[C5]Don't [D5]care what [C5]you may [A5]do\n[C5]We [D5]got that [A5][C5]attitude!\n\n[Outro]\n[C5]  [D5]  [E5]  [F5]  [E5]  [D5]\n[C5]  [D5]  [E5]  [F5]  [E5]  [D5]\n[C5]  [D5]  [E5]  [F5]  [E5]  [D5]\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x",
+        "133xxx"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Attitude",
+  "id": "7304827366a18422c94ab233ffa62267ff910367fc1b4817bfefd733029c61b8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 126,
+  "normalizedKey": "bad brains|attitude",
+  "playableChords": [
+    "C5",
+    "F5",
+    "E5",
+    "D5",
+    "A5",
+    "G5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Interlude"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Interlude"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7304827366a18422c94ab233ffa62267ff910367fc1b4817bfefd733029c61b8",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Attitude",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

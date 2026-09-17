@@ -1,0 +1,135 @@
+{
+  "artist": "BBQ Chickens",
+  "artistNormalized": "bbq chickens",
+  "capo": "No capo",
+  "chordPositionCount": 29,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[G]  [Em]\n[C]  [D]\n[G]  [Em]\n[C]  [D]\n[G]  [Em]\n[C]  [D]\n[G]  [Em]\n[C]  [D]\n\n[Verse 1]\n[G]When I'm [E]eating popcorn\n[C]It makes [D]me feel happy\n[G]I'm popping [E]every kernel\n[C]Till it's white as [D]snow\n[G]Well [E]yesterday's popcorn\n[C]It [D]loses a flavor\n[G]It's always [E]stickin' in my\n[C]teeth [D5]Popcorn love\n\n[Chorus]\n[G5]  [E5]\n[C5]I wanna [D5]popcorn love\n[G5]  [E5]\n[C5]  [D5]\n[G5]little taste [E5]\n[C5]I need a [D5]popcorn love\n[G5]  [E5]\n[C5]  [D5]\n\n[Verse 2]\n[G]I have a [E]new girlfriend\n[C]She's like a [D]brand new popcorn\n[G]I'm popping [E]every kernel\n[C]Till it's white as [D]snow\n[G]It's fresh, [E]hot and fluffy\n[C]But if it [D]loses flavor\n[G]I'm gonna [E]eat it any-\n[C]way [D5]Popcorn love\n\n[Chorus]\n[G5]  [E5]\n[C5]I wanna [D5]popcorn love\n[G5]  [E5]\n[C5]  [D5]\n[G5]little taste [E5]\n[C5]I need a [D5]popcorn love\n[G5]  [E5]\n[C5][D5]Popcorn love\n[G5]  [E5]\n[C5]I wanna [D5]popcorn love\n[G5]  [E5]\n[C5]Please [D5]give me a\n[G5]little taste [E5]\n[C5]I need a [D5]popcorn love\n[G5]  [E5]\n[C5]I need a [D5]popcorn love\n[G5]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x3201x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8"
+      ],
+      "catalogCount": 5
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "10-12-12-11-10-10",
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "x-10-12-12-12-10",
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Popcorn Love",
+  "id": "080c228adf6ddd577452ebd868183b04cf55fa8e77d04ddd02487ce46f200fc4",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 157,
+  "normalizedKey": "bbq chickens|popcorn love",
+  "playableChords": [
+    "G",
+    "Em",
+    "C",
+    "D",
+    "E",
+    "D5",
+    "G5",
+    "E5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "080c228adf6ddd577452ebd868183b04cf55fa8e77d04ddd02487ce46f200fc4",
+    "version": "BCFZ"
+  },
+  "tempo": 144,
+  "title": "Popcorn Love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

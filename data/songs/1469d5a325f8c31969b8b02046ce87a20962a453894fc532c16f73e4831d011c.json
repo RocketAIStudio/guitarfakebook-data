@@ -1,0 +1,133 @@
+{
+  "artist": "Beatles",
+  "artistNormalized": "beatles",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[C]\n\n[Chorus]\n[C]Boy, you gotta\n[G]carry that weight\nCarry that weight a long\n[C]time\n[C]Boy, you gonna\n[G]carry that weight\nCarry that weight a long\n[C]time [G]\n\n[Bridge]\n[Am7]\n[Dm7]\n[G]\n[C]\n\n[Guitar Solo]\n[F]\n[Dm]\n[Am7]\n\n[Verse]\n[Am7]I never give you my\n[Dm7]pillow\n[G]I only send you my\n[C]invitation\n[F]And in the middle of the\n[Dm]celebrations I\n[Am7]break down\n[C]  [G]\n\n[Chorus]\n[C]Boy, you gotta\n[G]carry that weight\nCarry that weight a long\n[C]time\n[C]Boy, you gonna\n[G]carry that weight\nCarry that weight a long\n\n[Outro]\n[C]time [G]\n[A]\n[C]  [G]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Dm7": {
+      "catalog": [
+        "xx0211",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Carry That Weight",
+  "id": "1469d5a325f8c31969b8b02046ce87a20962a453894fc532c16f73e4831d011c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 92,
+  "normalizedKey": "beatles|carry that weight",
+  "playableChords": [
+    "C",
+    "G",
+    "Am7",
+    "Dm7",
+    "F",
+    "Dm",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Chorus"
+    },
+    {
+      "measure": 10,
+      "name": "Bridge"
+    },
+    {
+      "measure": 14,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 17,
+      "name": "Verse"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1469d5a325f8c31969b8b02046ce87a20962a453894fc532c16f73e4831d011c",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "Carry That Weight",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

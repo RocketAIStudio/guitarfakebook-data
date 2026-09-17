@@ -1,0 +1,115 @@
+{
+  "artist": "Bethel Music",
+  "artistNormalized": "bethel music",
+  "capo": "1",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\nI\n\n[Verse 1]\n[C]raise a hallelujah,\nin the\n[Csus4]presence of my enemies\nI\n[C]raise a hallelujah,\n[Csus4]louder than the unbelief\nI\n[C]raise a hallelujah,\nmy\n[Csus4]weapon is a melody\nI\n[C]raise a hallelujah,\n[Csus4]heaven comes to fight for me\n\n[Chorus]\n[F]I'm gonna sing, in the\n[C]middle of the storm\n[Am]Louder and louder, you're gonna\n[G]hear my praises roar\n[F]Up from the ashes,\n[C]hope will arise\n[Am]Death is defeated, the King\n[G]is alive!\n\n[Bridge]\n[C]\nI\n\n[Verse 2]\n[C]raise a hallelujah,\nwith\n[F]everything inside of me\nI\n[Am]raise a hallelujah,\n[G]I will watch the darkness flee\nI\n[C]raise a hallelujah,\nin the\n[F]middle of the mystery\nI\n[Am]raise a hallelujah,\n[G]fear you lost your hold on me!\n\n[Chorus]\n[F]I'm gonna sing, in the\n[C]middle of the storm\n[Am]Louder and louder, you're gonna\n[G]hear my praises roar\n[F]Up from the ashes,\n[C]hope will arise\n[Am]Death is defeated, the King\n[G]is alive!\n\n[Interlude]\n[C]Sing a little louder In the\npresence of my enemies\n[G]Sing a little louder\nLouder than the unbelief\n[Am]Sing a little louder My wea-\npon is a melody\n[F]Sing a little louder\nHeaven comes to fight for me\n[C]Sing a little louder In the\npresence of my enemies\n[G]Sing a little louder\nLouder than the unbelief\n[Am]Sing a little louder My\nweapon is a melody\n[F]Sing a little louder\nHeaven comes to fight for me\nSing a little louder!\n\n[Chorus]\n[F]I'm gonna sing, in the\n[C]middle of the storm\n[Am]Louder and louder, you're gonna\n[G]hear my praises roar\n[F]Up from the ashes,\n[C]hope will arise\n[Am]Death is defeated, the King\n[G]is alive!\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Csus4": {
+      "catalog": [
+        "x33011"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Raise a Hallelujah",
+  "id": "278aaa67be984dfcc805d62823fc5a2edfc11b9a6163e78a3bb85489b98818c1",
+  "key": "D♭",
+  "keyIdentified": true,
+  "lyricEventCount": 360,
+  "normalizedKey": "bethel music|raise a hallelujah",
+  "playableChords": [
+    "C",
+    "Csus4",
+    "F",
+    "Am",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Bridge"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Interlude"
+    },
+    {
+      "measure": 72,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "278aaa67be984dfcc805d62823fc5a2edfc11b9a6163e78a3bb85489b98818c1",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "Raise a Hallelujah",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

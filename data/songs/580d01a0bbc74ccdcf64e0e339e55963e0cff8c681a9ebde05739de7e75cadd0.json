@@ -1,0 +1,119 @@
+{
+  "artist": "Blink 182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[B]\n[C#m]\n[G#m]\n[E]\n[B]\n[C#m]\n[G#m]\n[E]\n[B]\n[F#]\n[E]I\n\n[Verse 1]\n[B]woke up today Sur-\nrounded by blackness A\n[E]small warning sign De-\nvoured the process It’s\n[F#]always been fine when I\nget a bit nervous And\n[B]it’s hard to say But I\nfeel a this weightless\n[E]The more that I admit I\nfeel up and anxious The\n[F#]more I go on The\nless I can face this And\n[B]those rotten things That\nlive in our shadow We\n[E]walk on the line Of\ndeath and the gallows And\n[F#]hope that we’re clear I\nbet we can follow It’s the\n\n[Chorus]\n[B]worst [F#]damn [C#m]day\n[G#m]Of [D#m]my [E]life\nI made a\n[B]mess [C#m][F#]today\n[G#m]I’m [E][D#m]alright\n\n[Verse 2]\n[B]When I was young The\nworld it was smaller The\n[E]cities were vast The\nbuildings were taller I\n[F#]felt really strong My\nparents seem stronger My\n[B]life has a way\nShowers with greatness Then\n[E]takes it away Those\npieces that made us The\n[F#]dangerous things You’d\nnever imagine We\n[B]all get the same The\nmemories that burn And those\n[E]pictures we made They\nstill form a pattern They\n[F#]courteously say\nDoes it not matter? It’s the\n\n[Chorus]\n[B]worst [F#]damn [C#m]day\n[G#m]Of [D#m]my [E]life\nI made a\n[B]mess [C#m][F#]today\n[G#m]I’m [E][D#m]alright\nIt’s the\n[B]worst [F#]damn [C#m]day\n[G#m]Of [D#m]my [E]life\nI made a\n[B]mess [C#m][F#]today\n[G#m]I’m [E][D#m]alright\n\n[Bridge]\n[G#m]\n[E]\n[B]\n[F#]\n[G#m]\n[E]\n[B]\n[F#]\nIt’s the\n\n[Chorus]\n[B]worst [F#]damn [C#m]day\n[G#m]Of [D#m]my [E]life\nI made a\n[B]mess [C#m][F#]today\n[G#m]I’m [E][D#m]alright\nIt’s the\n[B]worst [F#]damn [C#m]day\n[G#m]Of [D#m]my [E]life\nI made a\n[B]mess [C#m][F#]today\n[G#m]I’m [E][D#m]alright",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x4665x",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "x68876"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "46644x",
+        "466444"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "When I was young",
+  "id": "580d01a0bbc74ccdcf64e0e339e55963e0cff8c681a9ebde05739de7e75cadd0",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 278,
+  "normalizedKey": "blink 182|when i was young",
+  "playableChords": [
+    "B",
+    "C#m",
+    "G#m",
+    "E",
+    "F#",
+    "D#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Bridge"
+    },
+    {
+      "measure": 101,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "580d01a0bbc74ccdcf64e0e339e55963e0cff8c681a9ebde05739de7e75cadd0",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "When I was young",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

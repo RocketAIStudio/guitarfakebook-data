@@ -1,0 +1,111 @@
+{
+  "artist": "Behemoth",
+  "artistNormalized": "behemoth",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C#m]\n[A]\n[C#m]\n[C#5]\n[C#m]\n[A]\n[C#m]\n\n[Bridge]\n[C#m]\n[A]\n[C#m]\n[C#m]\nO\n\n[Verse 1]\n[A5/E]Purple flame!\nO\n[C#5]whirling wheel ov\nlife! Ap-\n[A5/E]pear!\nMove!\n[C#5]Rise!\n\n[Chorus]\n[C#5]Come unto me Bartza-\nbel By the\nlaws divine I\nquell\n[A5]Come unto me Bartza-\nbel By the\n[C#5]raging blood\ncells\n[C#5]Come unto me Bartza-\nbel By the\nspear, the sword, the\nspell\n[A5]Come unto me Bartza-\nbel By the\n[C#5]word that openeth\nHell!\n\n[Verse 2]\n[A5/E]By Ra Hoor Khu-\nit! By Elo-\n[C#5]him! By Samael!\nBy Seraphim!\n[A5/E]By Hoor and Khem!\nBy Gods ov War!\n[C#5]Ares and Mars, and\nmighty Thor!\n\n[Chorus]\n[C#5]Come unto me Bartza-\nbel By the\npower ov the panther's spell\n[A5]Come unto me Bartza-\nbel By the\n[C#5]circling cita-\ndel\n[C#5]Come unto me Bartza-\nbel By this\nmind ov mirac-\nles\n[A5]Come unto me Bartza-\nbel By the\n[C#5]moon and stars, I\nswear!\n\n[Verse 3]\n[A5/E]By Ra Hoor Khuit!\nBy Elohim!\n[C#5]By Samael!\nBy Seraphim!\n[A5/E]By Hoor and Khem!\nBy Gods ov War!\n[C#5]Ares and Mars, and\nmighty Thor!\n[A5/E]By Gods ov War!\nBy Khem and Hoor!\n[C#5]By Hachiman!\nMentu, and all\n[A5/E]And by thy master,\nGraphiel\n[C#5]Come unto me O\nBartzabel!\n\n[Solo]\n[A5/E]\n[C#5]\n[A5/E]\n[C#5]\n[A5/E]\n[C#5]\n[A5/E]\n[C#5]\n[A5/E]\n[C#5]\n[A5/E]\n[C#5]\n\n[Outro]\n[A5/E]\n[C#5]\n[A5/E]\n[C#5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x35553",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "A5/E": {
+      "catalog": [
+        "335xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "022000",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bartzabel",
+  "id": "cbd03c609da6fbc9b8f50ff7cb0251760153be2f19709f09662cf05537dc6459",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 224,
+  "normalizedKey": "behemoth|bartzabel",
+  "playableChords": [
+    "C#m",
+    "A",
+    "C#5",
+    "A5/E",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 105,
+      "name": "Solo"
+    },
+    {
+      "measure": 129,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cbd03c609da6fbc9b8f50ff7cb0251760153be2f19709f09662cf05537dc6459",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "Bartzabel",
+  "tuning": "C# F# B E G# C#",
+  "variantRole": "primary"
+}

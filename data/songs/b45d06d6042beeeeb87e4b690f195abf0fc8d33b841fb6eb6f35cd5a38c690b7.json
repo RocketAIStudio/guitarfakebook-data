@@ -1,0 +1,90 @@
+{
+  "artist": "Bedroom",
+  "artistNormalized": "bedroom",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[Fade In]\n[Dmaj7]\n[Amaj7]\n\n[Intro]\n[Dmaj7]\n[Amaj7]\n[Dmaj7]\n[Amaj7]\n\n[Verse 1]\n[Dmaj7]Day\nto\nday,\nit won't\n[Amaj7]leave\n[Dmaj7]E-\nvery\ntime,\nI try to\n[Amaj7]speak\nIt consumes\n[Dmaj7]my mind, it consumes\nmy soul It wants\nmy life it wants\ncomplete control\n[Amaj7]\nSomebo-\n[Dmaj7]dy help me before\nits bad Somebo-\ndy help me be-\nfore I end up\n[Amaj7]dead\n\n[Bridge 1]\n[Dmaj7]\n[Amaj7]\n[Dmaj7]\n[Amaj7]\n[Dmaj7]\n[Amaj7]\n\n[Pre-Verse]\n[Dmaj7]\n[Amaj7]\nI\n\n[Verse 2]\n[Dmaj7]feel\na-\nlone,\nall of the\n[Amaj7]time\nIt's\n[Dmaj7]still\nqui-\net,\nlurking in-\n[Amaj7]side\nI'm a walk-\n[Dmaj7]ing contradi-\nction Everything\nI say is an af-\nfliction to him\n[Amaj7]\nSomebo-\n[Dmaj7]dy help me before\nits bad Somebo-\ndy help me be-\nfore I end up\n[Amaj7]dead\n\n[Bridge 2]\n[Dmaj7]\n[Amaj7]\n[Dmaj7]\n[Amaj7]\n[Dmaj7]\n[Amaj7]\n[Dmaj7]\n[Amaj7]\n[Dmaj7]\n[Amaj7]\n[Dmaj7]\n[Amaj7]\n\n[Bridge 3]\n[Dmaj7]\n[Amaj7]\n[Dmaj7]\n[Amaj7]\n[Dmaj7]\n[Amaj7]\n[Dmaj7]\n[Amaj7]\n\n[Outro]\n[Dmaj7]\n[Amaj7]\n[Dmaj7]\n[Amaj7]",
+  "diagrams": {
+    "Amaj7": {
+      "catalog": [
+        "x02120",
+        "5-4-2-2-2-4",
+        "5-7-6-6-5-5",
+        "x-x-7-9-9-9",
+        "x-12-11-9-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Dmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9",
+        "10-12-11-11-10-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "In My Head",
+  "id": "b45d06d6042beeeeb87e4b690f195abf0fc8d33b841fb6eb6f35cd5a38c690b7",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 109,
+  "normalizedKey": "bedroom|in my head",
+  "playableChords": [
+    "Dmaj7",
+    "Amaj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Fade In"
+    },
+    {
+      "measure": 12,
+      "name": "Intro"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 60,
+      "name": "Bridge 1"
+    },
+    {
+      "measure": 84,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 92,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 124,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 172,
+      "name": "Bridge 3"
+    },
+    {
+      "measure": 204,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b45d06d6042beeeeb87e4b690f195abf0fc8d33b841fb6eb6f35cd5a38c690b7",
+    "version": "BCFZ"
+  },
+  "tempo": 151,
+  "title": "In My Head",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

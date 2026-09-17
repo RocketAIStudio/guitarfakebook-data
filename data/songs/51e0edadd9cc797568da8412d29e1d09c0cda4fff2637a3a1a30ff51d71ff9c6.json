@@ -1,0 +1,161 @@
+{
+  "artist": "Biffy Clyro",
+  "artistNormalized": "biffy clyro",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[Am]\n\n[Verse 1]\n[Am]Today's a blur\nlittle baby.\nBeen up for days.\n[F#5]Waking up.\nWaking up.\n[Am]Devised a plan\nlittle darling,\nTo split the sky.\n[F#5]Fade away.\nFade aw ay.\n\n[Bridge 1]\n[B]The\ntime is running out.\n[B/D]\n[B]The\ntime is running out.\n[B/D]\n\n[Verse 2]\n[Am]We'll fade away,\nlittle baby.\nMake no mistake.\nTo\n[F#5]half as much,\nhalf as much.\n\n[Bridge 2]\n[A7M]\n[Aadd9]\n\n[Verse 3]\n[B]The\ntime is running out.\n[B/D]The\ntime is running.\n[B]The\nwater's running out.\n[B/D]The\nwater's running\n[B]The\ngirl is running out.\n[B/D]The\ngirl is running\n[B]The\ngirl is running out\n[B/D]again.\n\n[Bridge 3]\n[Am]\n[D]\n[Am]\n[Cadd9]\n[Am]\n[D]\n[Am]\n[Cadd9]\n[Am]\n[D]\n[Am]\n[Cadd9]\n[Am]\n[D]\n[Am]\n[Cadd9]\n\n[Bridge 4]\n[Cadd9]\n[Cadd9]\n[Am]\n\n[Verse 4]\n[Cadd9]We can leave\nthis faction\n[Am]and start our own.\n[Cadd9]No one will\ntake it over,\n[Am]no\none.\n[Cadd9]We can leave\nthis faction\n[Am]and start our own.\n[Cadd9]No one will\ntake it over,\n[Am]no\none. Start our own.\n\n[Outro]\n[F5]\n[G5]Start our own.\n[F5]\n[G5]Start our own.\n[F5]\n[G5]Start our own\n[F5]and\n[G5]show them backwards\n[G#5]\nto the sea.",
+  "diagrams": {
+    "A7M": {
+      "catalog": [
+        "x02224"
+      ],
+      "catalogCount": 1
+    },
+    "Aadd9": {
+      "catalog": [
+        "x0242x"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B/D": {
+      "catalog": [
+        "024442"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32030"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#5": {
+      "catalog": [
+        "44467x"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "33356x"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "66689x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "55578x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "When The Faction's Fractioned",
+  "id": "51e0edadd9cc797568da8412d29e1d09c0cda4fff2637a3a1a30ff51d71ff9c6",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 167,
+  "normalizedKey": "biffy clyro|when the faction s fractioned",
+  "playableChords": [
+    "Am",
+    "F#5",
+    "B",
+    "B/D",
+    "A7M",
+    "Aadd9",
+    "D",
+    "Cadd9",
+    "F5",
+    "G5",
+    "G#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge 1"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 61,
+      "name": "Bridge 3"
+    },
+    {
+      "measure": 77,
+      "name": "Bridge 4"
+    },
+    {
+      "measure": 91,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 107,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "51e0edadd9cc797568da8412d29e1d09c0cda4fff2637a3a1a30ff51d71ff9c6",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "When The Faction's Fractioned",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

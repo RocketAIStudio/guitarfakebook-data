@@ -1,0 +1,104 @@
+{
+  "artist": "Ben Nichols",
+  "artistNormalized": "ben nichols",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Em]\n[Em]\n[G]\n[Em]\n[G]\nIn my\n\n[Verse 1]\n[Em]hands,\nI hold the a-\n[G]shes\nIn my\n[Em]veins,\nblack pitch\n[G]runs\nIn my\n[C]chest,\na fire ca-\n[Em]tches\nIn my\n[D]way,\nthe setti-\n[C]ng sun\nDark\n\n[Verse 2]\n[Em]clouds\ngather rou-\n[G]nd me\nTo the\n[Em]West\nmy soul is\n[G]bound\nWell I will\n[C]go,\non ahea-\n[Em]d free\nThere's a\n[D]light\nyet to be\n[C]found\nThe\n\n[Chorus]\n[Em]last pale\n[D]light [C]in the\n[G]West\nThe\n[Em]last pale\n[D]light [C]in the\n[G]West\n\n[Bridge]\n[Em]\n[G]\n[Em]\n[G]\nAnd I\n\n[Verse 3]\n[Em]ask\nfor no rede-\n[G]mption\nIn thi-\n[Em]s cold\nand barren\n[G]place\nStill I\n[C]see\na faint refle-\n[Em]ction\nSo by\n[D]it,\nguide my\n[C]way\nThe\n\n[Chorus]\n[Em]last pale\n[D]light [C]in the\n[G]West\nThe\n[Em]last pale\n[D]light [C]in the\n[G]West.",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Last Pale Light In The West",
+  "id": "3ec95d175a8f255b5e1343276165690d4634159506e6c7bec2d23066e72bc430",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 124,
+  "normalizedKey": "ben nichols|the last pale light in the west",
+  "playableChords": [
+    "Em",
+    "G",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Bridge"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 75,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3ec95d175a8f255b5e1343276165690d4634159506e6c7bec2d23066e72bc430",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "The Last Pale Light In The West",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,112 @@
+{
+  "artist": "Bastille",
+  "artistNormalized": "bastille",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Bm]\n[G]  [Bm]\n[Bm]\n[G]  [Bm]\n\n[Verse 1]\n[Bm]You go sleep with the\n[G]fishes [Bm]There's no\n[G]room for you [Bm]here There's no\n[G]room for you [A]here\n[Bm]Wrap your teeth around the\n[Bm][G]pavement 'Cause your\n[G]body's a [Bm]message Send\n[G]my regards to [A]hell\n\n[Chorus]\n[Bm]Fall upon your knees, saying:\n[A]'This is my body and [Bm]soul, here'\n[Bm]Fall upon your knees, saying:\n[A]'You've got the power to [Bm]control' Don't pin it all...\n[Bm][G]on\n[D]me... Don't pin it all...\n[Bm][G]on\n[D]me...\n\n[Verse 2]\n[Bm]You've been granted three\n[G]wish - [Bm]es Say good-\n[G]bye to your [Bm]mother your\n[G]father, your [A]son\n[Bm]I can hear your pulse\n[G]ra cing from [Bm]here Sitting\n[G]next to this [Bm]gun beats Your\n[G]heart in your [A]mouth\n\n[Chorus]\n[Bm]Fall upon your knees, saying:\n[A]'This is my body and [Bm]soul, here'\n[Bm]Fall upon your knees, saying:\n[A]'You've got the power to [Bm]control’ Don't pin it all...\n[Bm][G]on\n[D]me... Don't pin it all...\n[Bm][G]on\n[D]me...\n\n[Bridge]\n[Bm]Blame, blame, blame\n[G]I got you, I got you\n[Bm]Oh, blame, blame, blame\n[G]I got you, I got you\n[Bm]Oh, blame, blame, blame\n[G]I got you, I got you\n[Bm]Oh, blame, blame, blame\n[G]I got you, I got you\n\n[Chorus]\n[Bm]Fall upon your knees, saying:\n[A]'This is my body and [Bm]soul, here'\n[Bm]Fall upon your knees, saying:\n[A]'You've got the power to [Bm]control'\n[Bm]'This is my body\n[A]and this is my [Bm]soul'\n[Bm]Fall upon your knees, saying:\n[A]'This is my body and [Bm]soul' Don't pin it all...\n[Bm][G]on\n[D]me... Don't pin it all...\n[Bm][G]on\n[D]me... Oh\n\n[Solo]\n[Bm][G]oh\n[D]\n[Bm]oh [G]\n[D]\n\n[Outro]\n[Bm]\n[G]  [Bm]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Blame",
+  "id": "fd953aa2c71052c283924577e8d7cdf36c93bbb24aff34df384e6d50afe3e941",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 277,
+  "normalizedKey": "bastille|blame",
+  "playableChords": [
+    "Bm",
+    "G",
+    "A",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fd953aa2c71052c283924577e8d7cdf36c93bbb24aff34df384e6d50afe3e941",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Blame",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

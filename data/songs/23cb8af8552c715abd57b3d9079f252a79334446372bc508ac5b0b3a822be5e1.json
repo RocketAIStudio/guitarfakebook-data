@@ -1,0 +1,126 @@
+{
+  "artist": "Billie Eilish",
+  "artistNormalized": "billie eilish",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[Eb]Wait a minute,\n[Ebmaj7]let me finish I know you\n[Fm]don't care But can you lis-\n[Bb]ten?\n[Eb]I came committed,\n[Ebmaj7]guess I overdid it Wore my\n[Fm]heart out on a chain Around my neck,\n[Bb]but now it's missin', hmm\n\n[Interlude]\n[Eb]\n[Ebmaj7]\n[Fm]\n[Bb]So I\n\n[Chorus]\n[Eb]think I better go\n[G]I never really know how to please\n[Fm]you You're lookin' at me like I'm\n[Bb]see through\n[Eb]I guess I'm gonna go\n[G]I just never know how you\n[Fm]feel Do you even\n[Bb]feel anything?\n\n[Interlude]\n[Eb]\n[Ebmaj7]\n[Fm]\n[Bb]\n\n[Verse 2]\n[Eb]You said, \"Don't treat me badly\"\n[Ebmaj7]But you said it so sadly So I\n[Fm]did the best I could Not thinkin' you would\n[Bb]have left me gladly\n[Eb]I know you're not sorry\n[G7]Why should you be? 'Cause who am I\n[Fm]to be in love When your love\n[Bb]never is for me? Me\n\n[Interlude]\n[Eb]\n[Ebmaj7]\n[Fm]\n[Bb]So I\n\n[Chorus]\n[Eb]think I better go\n[G]I never really know how to please\n[Fm]you You're lookin' at me like I'm\n[Bb]see through\n[Eb]I guess I'm gonna go\n[G]I just never know how you\n[Fm]feel Do you even\n[Bb]feel anything?",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "68876x",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x6888x",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "Ebmaj7": {
+      "catalog": [
+        "x6878x",
+        "x-x-1-3-3-3",
+        "x-6-5-3-3-3",
+        "x-6-8-7-8-6",
+        "11-10-8-8-8-10"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "x-8-10-10-9-x",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "x-10-12-12-12-x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "x-10-12-10-12-x",
+        "3-2-0-0-0-1",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "8",
+  "id": "23cb8af8552c715abd57b3d9079f252a79334446372bc508ac5b0b3a822be5e1",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 200,
+  "normalizedKey": "billie eilish|8",
+  "playableChords": [
+    "Eb",
+    "Ebmaj7",
+    "Fm",
+    "Bb",
+    "G",
+    "G7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Interlude"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Interlude"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "23cb8af8552c715abd57b3d9079f252a79334446372bc508ac5b0b3a822be5e1",
+    "version": "BCFZ"
+  },
+  "tempo": 62,
+  "title": "8",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

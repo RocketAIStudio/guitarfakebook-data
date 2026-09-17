@@ -1,0 +1,126 @@
+{
+  "artist": "Billie Eilish",
+  "artistNormalized": "billie eilish",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]  [B]  [C#m]  [B]\n[E]  [B]  [A]\n[A]  [B]  [C#m]  [B]\n[E]  [B]  [A]\n\n[Verse 1]\n[A]Don't [B]you [C#m]know [B]I'm\n[E]no [B]good [A]for you?\nI've\n[A]learned [B]to [C#m]lose [B]you\n[E]can't [A][B]afford to\n[A]Tore [B]my [C#m]shirt [B]to\n[E]stop [B]you [A]bleeding\nBut\n[B][A]nothing [B][C#m]ever\n[E]stops [B]you [A]leaving\nQuiet when I'm coming\n[A]home, [B]I'm [C#m]on [B]my\n[E]own\n\n[Chorus]\n[F#m]I could lie and say I [C#m]like it like that,\n[E]like it like that\n[F#m]I could lie and say I [C#m]like it like that,\n[E]like it like that\n\n[Interlude]\n[A]\n\n[Verse 2]\n[A]Don't [B]you [C#m]know [B]too\n[E]much [A][B]already?\nI'll\n[B][A]only [C#m]hurt [B]you\n[E]if [B]you [A]let me\n[A]Call [B]me [C#m]friend, [B]but\n[E]keep [B]me [A]closer,\ncall me back And I'll\n[A]call [B]you [C#m]when [B]the\n[B][E]party's [A]over\nQuiet when I'm coming\n[A]home, [B]I'm [C#m]on [B]my\n[E]own And\n\n[Chorus]\n[F#m]I could lie and say I [C#m]like it like that,\n[E]like it like that\nYeah,\n[F#m]I could lie and say I [C#m]like it like that,\n[E]like it like that [A]\nBut [E]\n\n[Bridge]\n[F#m]nothing is [C#m]better, some-\n[E]times [A][E]\n[F#m]Once we both [C#m]said our good-\n[E]by-\n[A]es\n[B]Let's just let it\n[A]go [A#dim7]\n[B]Let me let you\n\n[Outro]\n[A]go\nQuiet when I'm coming [C#m]home, I'm\n[E]on my [A]own\n[E]\n[F#m]I could lie and say I [C#m]like it like that,\n[E]like it like that [A]\n[E]\n[F#m]I could lie and say I [C#m]like it like that,\n[E]like it like that\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#dim7": {
+      "catalog": [
+        "x12020"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "When The Party's Over",
+  "id": "d39a0863ed8e28a409dc48b96a73a42f6ac651a3b9dcb90ddca6d7481c0f4bb7",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 217,
+  "normalizedKey": "billie eilish|when the party s over",
+  "playableChords": [
+    "A",
+    "B",
+    "C#m",
+    "E",
+    "F#m",
+    "A#dim7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Interlude"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Bridge"
+    },
+    {
+      "measure": 58,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d39a0863ed8e28a409dc48b96a73a42f6ac651a3b9dcb90ddca6d7481c0f4bb7",
+    "version": "BCFZ"
+  },
+  "tempo": 62,
+  "title": "When The Party's Over",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

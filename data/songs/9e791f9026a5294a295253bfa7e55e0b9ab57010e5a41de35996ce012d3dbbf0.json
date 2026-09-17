@@ -1,0 +1,100 @@
+{
+  "artist": "Bing Crosby",
+  "artistNormalized": "bing crosby",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[C]Silent\nnight!\nHoly\nnight!\n[G7]All is\ncalm,\n[C]all is\nbright\n\n[Chorus]\n[F]'Round yon\nvirgin\n[C]Mother and\nChild\n[F]Holy\ninfant so\n[C]tender and\nmild\n[G7]Sleep in\nheavenly\n[C]peace\nSleep\nin heaven-\n[G]ly peace\n[C]\n\n[Verse 2]\n[C]Silent\nnight,\nholy\nnight!\n[G7]Shepherds\nquake\n[C]at the\nsight!\n\n[Chorus]\n[F]Glories\nstream from\n[C]heaven a-\nfar\n[F]Heavenly\nhosts sing\n[C]Allelu-\nia!\n[G7]Christ the\nSavior is\n[C]born!\nChrist the\n[G]Savior is\n[C]born!\n\n[Verse 3]\n[C]Silent\nnight,\nholy\nnight\n[G7]Son of\nGod,\n[C]love's pure\nlight\n\n[Chorus]\n[F]Radiant\nbeams from\n[C]Thy holy\nface\n[F]With the\ndawn of re-\n[C]deeming\ngrace\n[G7]Jesus,\nLord at Thy\n[C]birth\nJesus,\n[G]Lord at Thy\n[C]birth",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Silent Night",
+  "id": "9e791f9026a5294a295253bfa7e55e0b9ab57010e5a41de35996ce012d3dbbf0",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 123,
+  "normalizedKey": "bing crosby|silent night",
+  "playableChords": [
+    "C",
+    "G7",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9e791f9026a5294a295253bfa7e55e0b9ab57010e5a41de35996ce012d3dbbf0",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Silent Night",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

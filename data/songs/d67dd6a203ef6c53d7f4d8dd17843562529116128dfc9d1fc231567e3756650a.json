@@ -1,0 +1,100 @@
+{
+  "artist": "Blink 182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E5]\n[B5]\n[C#5]\n[A5]\n[E5]\n[B5]\n[C#5]\n[A5]\n\n[Verse 1]\n[E5]You and I should\n[B5]get away for awhi-\n[C#5]le\n[A5]\n[E5]I just want to\n[B5]be alone with your smi-\n[C#5]le\n[A5]\n[E5]Buy some candy and\n[B5]cigarettes and we'll\n[C#5]get in my\n[A5]car\n[E5]We'll blast the\n[B5]stereo and we'll\n[C#5]drive to Madaga-\n[A5]scar Because when\n\n[Chorus]\n[F#5]I'm with [A5]you there's\n[E5]nothing I wouldn't [B5]do\n[F#5]I just want to [A5]be your only\n[E5]one [B5]\n[F#5]I'm grasping [A5]out at straws\n[E5]thinking back to [B5]what I saw That\n[F#5]night on the floor when [A5]we were all a-\n[E5]lone [B5]\n\n[Bridge]\n[E5]\n[B5]\n[C#5]\n[A5]\n[E5]\n[B5]\n[C#5]\n[A5]\n\n[Verse 2]\n[E5]My love\n[B5]life was getting so bla-\n[C#5]nd\n[A5]\n[E5]There are only\n[B5]so many ways I can\n[C#5]make love with my ha-\n[A5]nd\n[E5]Sometimes it\n[B5]makes me want to la-\n[C#5]ugh\n[A5]\n[E5]Sometimes I\n[B5]want to take my\n[C#5]toaster in the ba-\n[A5]th Because when\n\n[Chorus]\n[F#5]I'm with [A5]you there's\n[E5]nothing I wouldn't [B5]do\n[F#5]I just want to [A5]be your only\n[E5]one [B5]\n[F#5]I'm grasping [A5]out at straws\n[E5]thinking back to [B5]what I saw That\n[F#5]night on the floor when [A5]we were all a-\n[E5]lone [B5]\n\n[Break]\n[E5]\n[B5]\n[C#5]\n[A5]\n[E5]\n[B5]\n[C#5]\n[A5]\n[E5]\n[B5]\n[C#5]\n[A5]\n[E5]\n[B5]\n[C#5]\n[A5]\n[E5]\n[B5]\n[C#5]\n[A5]\n[E5]\n[B5]\n[C#5]\n[A5]\n\n[Verse 3]\n[E5]Who's gonna\n[B5]be the odd man\n[C#5]out?\n[A5]\n[E5]I don't want to\n[B5]be the odd man\n[C#5]out\n[A5]\n[E5]Is this\n[B5]going to be the\n[C#5]end\n[A5]\n[E5]Or are you\n[B5]going to\n[C#5]be\n[A5]my new girl-\n[E5]friend?",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "6799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "M&M's *alt 2",
+  "id": "d67dd6a203ef6c53d7f4d8dd17843562529116128dfc9d1fc231567e3756650a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 224,
+  "normalizedKey": "blink 182|m m s",
+  "playableChords": [
+    "E5",
+    "B5",
+    "C#5",
+    "A5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Break"
+    },
+    {
+      "measure": 93,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d67dd6a203ef6c53d7f4d8dd17843562529116128dfc9d1fc231567e3756650a",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "M&M's",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

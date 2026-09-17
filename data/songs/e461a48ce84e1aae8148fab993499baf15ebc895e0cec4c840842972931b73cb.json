@@ -1,0 +1,118 @@
+{
+  "artist": "Beabadoobee",
+  "artistNormalized": "beabadoobee",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[Dmaj9]Hey,\nwon't you call me\n[Gadd9]back?\n'Cause\n[Dmaj9]I've\nbeen waiting for a\n[Gadd9]text back\nIt\n[A]hurts\nmy\n[Gadd9]brain\nThis\n[A]chick\nwho\n[Gadd9]plays bass\n\n[Chorus]\n[Dmaj7]She plays [A]bass,\nshe plays\n[Eadd11]bass\n[Dmaj7]Nothing [A]mat-\nters 'cause we're both\n[Eadd11]in space\n[Dmaj7]Pretty [C6]sure\nwe could ne-\n[Gadd9]ver date\n[Dmaj7]She plays [A]bass,\nshe plays\n[Eadd11]bass\n\n[Pre-Verse]\n[Dmaj9]\n[Gadd9]\n[Dmaj9]\n[Gadd9]\n\n[Verse 2]\n[Dmaj9]Guess\nwe're both stuck in the\n[Gadd9]same boat\nThe\n[Dmaj9]world\ndoesn't seem to\n[Gadd9]get us, though\nYou're\n[A]just\nstuck in\n[Gadd9]space\nJust\n[A]play-\ning\n[Gadd9]your bass\n\n[Chorus]\n[Dmaj7]She plays [A]bass,\nshe plays\n[Eadd11]bass\n[Dmaj7]Nothing [A]mat-\nters 'cause we're both\n[Eadd11]in space\n[Dmaj7]Pretty [C6]sure\nwe could ne-\n[Gadd9]ver date\n[Dmaj7]She plays [A]bass,\nshe plays\n[Eadd11]bass\n\n[Solo]\n[Dmaj9]\n[Gadd9]\n[Dmaj9]\n[Gadd9]\n\n[Chorus]\n[Dmaj7]She plays [A]bass,\nshe plays\n[Eadd11]bass\n[Dmaj7]Nothing [A]mat-\nters 'cause we're both\n[Eadd11]in space\n[Dmaj7]How I [C6]wish\nwe could\n[Gadd9]just date\n[Dmaj7]So you could teach\n[C6]me how to\nbe more like\n[Gadd9]you One, two,\nthree, four, five\n\n[Bridge]\n[Dmaj7]Wish I was more\n[C6]like you\n[Gadd9]\n[Dmaj7]Wish I was more\n[C6]like you\n[Gadd9]\n[Dmaj7]Wish I was more\n[C6]like you\n[Gadd9]\n\n[Outro]\n[Dmaj7]\n[Gadd9]\n[Dmaj7]\n[Gadd9]\n[Dmaj7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "7x7766",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C6": {
+      "catalog": [
+        "10-x-10-10-9-x"
+      ],
+      "catalogCount": 1
+    },
+    "Dmaj7": {
+      "catalog": [
+        "12-x-12-12-11-11",
+        "x-x-0-2-2-2",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9"
+      ],
+      "catalogCount": 5
+    },
+    "Dmaj9": {
+      "catalog": [
+        "666676"
+      ],
+      "catalogCount": 1
+    },
+    "Eadd11": {
+      "catalog": [
+        "2x220x"
+      ],
+      "catalogCount": 1
+    },
+    "Gadd9": {
+      "catalog": [
+        "5x550x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "She Plays Bass",
+  "id": "e461a48ce84e1aae8148fab993499baf15ebc895e0cec4c840842972931b73cb",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 165,
+  "normalizedKey": "beabadoobee|she plays bass",
+  "playableChords": [
+    "Dmaj9",
+    "Gadd9",
+    "A",
+    "Dmaj7",
+    "Eadd11",
+    "C6"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Solo"
+    },
+    {
+      "measure": 81,
+      "name": "Chorus"
+    },
+    {
+      "measure": 98,
+      "name": "Bridge"
+    },
+    {
+      "measure": 110,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e461a48ce84e1aae8148fab993499baf15ebc895e0cec4c840842972931b73cb",
+    "version": "BCFZ"
+  },
+  "tempo": 136,
+  "title": "She Plays Bass",
+  "tuning": "D A D F# A C#",
+  "variantRole": "primary"
+}

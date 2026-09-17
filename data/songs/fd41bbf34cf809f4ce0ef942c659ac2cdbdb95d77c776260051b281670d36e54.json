@@ -1,0 +1,107 @@
+{
+  "artist": "Blugrana",
+  "artistNormalized": "blugrana",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n\n[Verse 1]\n[E5]Togli il [A5]veleno che e ri-\n[E5]masto ancora [A5]dentro te\n[E5]E un cuore [A5]nero che res-\n[E5]pira dentro [A5]me\n[E5]Ha odor di [A5]sangue, odor di\n[E5]pietra, adesso [A5]questo e\n[E5]E [A5]polvere negli occhi\n[E5]e nebbia intorno a [A5]me\n\n[Chorus]\n[D5]E non soffri-\n[C5]re piu [G5]Babel\n[E5]  [A5]\n[E5]  [A5]\n[D5]E non mori-\n[C5]re piu [G5]Babel\n[E5]  [A5]\n[E5]  [A5]\n\n[Refrain]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n\n[Verse 2]\n[E5]E fra i [A5]capelli tuoi\n[E5]che io ora [A5]nascero\n[E5]Ma e sulle [A5]labbra che io\n[E5]presto [A5]moriro\n[E5]Non ho [A5]ferite sulla pelle\n[E5]o sulle [A5]braccia ma\n[E5]Ho il petto [A5]gonfio di\n[E5]sporca [A5]anima\n\n[Chorus]\n[D5]E non soffri-\n[C5]re piu [G5]Babel\n[E5]  [A5]\n[E5]  [A5]\n[D5]E non mori-\n[C5]re piu [G5]Babel\n[E5]  [A5]\n[E5]  [A5]\n\n[Solo]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n\n[Interlude]\n[E5]\n\n[Chorus]\n[D5]E non soffri-\n[C5]re piu [G5]Babel\n[E5]  [A5]\n[E5]  [A5]\n[D5]E non mori-\n[C5]re piu [G5]Babel\n[E5]  [A5]\n[E5]  [A5]\n\n[Outro]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n[E5]  [A5]\n[E5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Babel",
+  "id": "fd41bbf34cf809f4ce0ef942c659ac2cdbdb95d77c776260051b281670d36e54",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 151,
+  "normalizedKey": "blugrana|babel",
+  "playableChords": [
+    "E5",
+    "A5",
+    "D5",
+    "C5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Refrain"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Solo"
+    },
+    {
+      "measure": 53,
+      "name": "Interlude"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus"
+    },
+    {
+      "measure": 97,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fd41bbf34cf809f4ce0ef942c659ac2cdbdb95d77c776260051b281670d36e54",
+    "version": "BCFZ"
+  },
+  "tempo": 106,
+  "title": "Babel",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

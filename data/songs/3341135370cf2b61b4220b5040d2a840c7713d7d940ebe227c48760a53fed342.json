@@ -1,0 +1,84 @@
+{
+  "artist": "BBQ Chickens",
+  "artistNormalized": "bbq chickens",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro - Riff]\n[D5]  [C5]\n[D5]  [C5]\n[D5]  [C5]\n[D5]  [C5]\n[D5]  [C5]\n[D5]  [C5]\n[D5]  [C5]\n[D5]  [C5]\n\n[Verse 1]\n[D5]One day I was [C5]sit-\n[D5]ting home, [C5]\n[D5]watching [C5]MTV\n[D5]  [C5]\n[D5]Johnny Knoxville [C5]and\n[D5]his friend, [C5]\n[D5]acting fuckin' [C5]strange\n[D5]They\n\n[Chorus]\n[Bb5]told me not to try\nit\n[C5]But I just can't de-\n[C#dim]ny it\n[D5]Jackass, Jackass\n\n[Re-Intro Riff]\n[D5]  [C5]\n[D5]  [C5]\n[D5]\n[D5]  [C5]\n[D5]  [C5]\n[D5]  [C5]\n[D5]  [C5]\n\n[Verse 2]\n[D5]One day we went [C5]in-\n[D5]to town [C5]to\n[D5]be on [C5]MTV\n[D5]  [C5]\n[D5]Running naked [C5]through\n[D5]the street, [C5]\n[D5]crazy as can [C5]be\n[D5]\n\n[Chorus]\n[Bb5]Jackass is the grea-\ntest So\n[C5]why our girlfriends hate\n[C#dim]it?\n[D5]Jackass, Jackass",
+  "diagrams": {
+    "Bb5": {
+      "catalog": [
+        "x133xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#dim": {
+      "catalog": [
+        "x4565x"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Jackass",
+  "id": "3341135370cf2b61b4220b5040d2a840c7713d7d940ebe227c48760a53fed342",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 84,
+  "normalizedKey": "bbq chickens|jackass",
+  "playableChords": [
+    "D5",
+    "C5",
+    "Bb5",
+    "C#dim"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro - Riff"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Re-Intro Riff"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3341135370cf2b61b4220b5040d2a840c7713d7d940ebe227c48760a53fed342",
+    "version": "BCFZ"
+  },
+  "tempo": 223,
+  "title": "Jackass",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

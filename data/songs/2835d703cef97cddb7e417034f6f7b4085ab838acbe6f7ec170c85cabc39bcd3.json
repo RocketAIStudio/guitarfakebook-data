@@ -1,0 +1,83 @@
+{
+  "artist": "Asking Alexandria",
+  "artistNormalized": "asking alexandria",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D5]\n\n[Verse 1]\n[D5]\n\n[Verse 2]\n[D5]\n[A5]  [G5]  [Bb5]\n[D5]\n[E5]\n[D5]\n[A5]  [G5]  [Bb5]\n[D5]\n[E5]\nFuck this!\n\n[Break]\n[D5]Cross my\nheart I\nhope you die\nLeft by the\nroadside\nKarma's a\nbitch right?\nCross my\nheart I\nhope you die\nLeft by the\nroadside\nKarma's a\nbitch right?",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "Bb5": {
+      "catalog": [
+        "x133xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Alerion",
+  "id": "2835d703cef97cddb7e417034f6f7b4085ab838acbe6f7ec170c85cabc39bcd3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 36,
+  "normalizedKey": "asking alexandria|alerion",
+  "playableChords": [
+    "D5",
+    "A5",
+    "G5",
+    "Bb5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Break"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2835d703cef97cddb7e417034f6f7b4085ab838acbe6f7ec170c85cabc39bcd3",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Alerion",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

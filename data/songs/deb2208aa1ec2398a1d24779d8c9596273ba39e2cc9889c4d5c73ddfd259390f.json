@@ -1,0 +1,95 @@
+{
+  "artist": "BBQ Chickens",
+  "artistNormalized": "bbq chickens",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Chorus]\n[E5]Fat [B5]boy, [E5]Fat [B5]boy [A5][B5]\n[E5]Fat [B5]boy, [E5]Fat [B5]boy [A5][B5]\n[E5]Fat [B5]boy, [E5]Fat [B5]boy [A5][B5]\n[E5]Fat [B5]boy, [A5]Fat [E5]boy\n\n[Pre-Verse]\n[A5]  [G5]\n[D5]  [A5]\n[G5]\n[D5]  [A5]\n\n[Verse 1]\n[A5]He got a [G5]job as a\n[D5]driver. [A5]\nIt's a big [G5]waste of his\n[D5]time [A5]\nHe's always [G5]full of i-\n[D5]deas [A5]He's\ndo fuckin' [G5]funny and\n[D5]nice [A5]He's a\n\n[Chorus]\n[E5]Fat [B5]boy, [E5]Fat [B5]boy [A5][B5]\n[E5]Fat [B5]boy, [E5]Fat [B5]boy [A5][B5]\n[E5]Fat [B5]boy, [E5]Fat [B5]boy [A5][B5]\n[E5]Fat [B5]boy, [A5]Fat [E5]boy\n\n[Verse 2]\n[A5]He is a [G5]practical\n[D5]joker [A5]\nHe always [G5]puts me in\n[D5]danger [A5]But\nhe's always [G5]there when we\n[D5]need him [A5]\nHe is the [G5]fifth BB-\n[D5]Q [A5]He's a\n\n[Chorus]\n[E5][B5]Fat [E5]boy, [B5]Fat [A5][B5]\n[E5]boy [B5]Fat [E5]boy, [B5]Fat [A5][B5]\n[E5]boy [B5]Fat [E5]boy, [B5]Fat [A5][B5]\n[E5]boy [B5]Fat [A5]boy, [E5]Fat\n\n[Outro]\n[D5]\nboy Fat boy, Fat",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Fat Boy",
+  "id": "deb2208aa1ec2398a1d24779d8c9596273ba39e2cc9889c4d5c73ddfd259390f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 118,
+  "normalizedKey": "bbq chickens|fat boy",
+  "playableChords": [
+    "E5",
+    "B5",
+    "A5",
+    "G5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Chorus"
+    },
+    {
+      "measure": 6,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "deb2208aa1ec2398a1d24779d8c9596273ba39e2cc9889c4d5c73ddfd259390f",
+    "version": "BCFZ"
+  },
+  "tempo": 211,
+  "title": "Fat Boy",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

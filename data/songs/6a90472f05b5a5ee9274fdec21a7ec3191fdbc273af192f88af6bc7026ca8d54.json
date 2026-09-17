@@ -1,0 +1,89 @@
+{
+  "artist": "Bob Dylan",
+  "artistNormalized": "bob dylan",
+  "capo": "4",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Am]  [G6]  [F]\n[G6]  [Am]\n[G6]  [F]\n[G6]  [Am]\n[G6]  [F]\n[G6]  [Am]\n[G6]  [F]\n[G6]  [Am]\n\n[Verse 1]\n[Am]\"There must be some [G6]way [F]out\nof here,\" [G6][Am]\nsaid the joker [G6]to [F]the\nthief [G6][Am]\n\"Theres too much [F][G6]confus-\nion, [G6][Am]\nI cant get no [F][G6]relief\n[G6]  [Am]\nBusinessmen, [G6]they [F]\ndrink my wine, [G6][Am]\nplowmen [G6]dig my [F]\nearth [G6][Am]\nNone of them [F][G6]along\nthe line [G6][Am]\nknow what any of [G6]it is [F]worth\"\n[G6]  [Am]\n\n[Solo]\n[Am]  [G6]  [F]\n[G6]  [Am]\n[G6]  [F]\n[G6]  [Am]\n[G6]  [F]\n[G6]  [Am]\n[G6]  [F]\n[G6]  [Am]\n\n[Verse 2]\n[Am]\"No reason to [G6]get ex [F]ci-\nted,\" [G6][Am]\nthe thief, he [G6]kindly [F]spoke\n[G6]  [Am]\n\"There are many [G6]here [F]a-\nmong us [G6][Am]\nwho feel that life [G6]is but a [F]\njoke [G6][Am]\nBut you and I, [G6]weve [F]been\nthrough that, [G6][Am]\nand this is not [G6]our [F]fate\n[G6]  [Am]\nSo let us not [G6]talk [F]false-\nly now, [G6][Am]\nthe hour is [G6]getting [F]late\"\n[G6]  [Am]\n\n[Solo]\n[Am]  [G6]  [F]\n[G6]  [Am]\n[G6]  [F]\n[G6]  [Am]\n[G6]  [F]\n[G6]  [Am]\n[G6]  [F]\n[G6]  [Am]\n\n[Verse 3]\n[Am]All along [G6]the [F]watch-\ntower, [G6][Am]\nprinces kept [G6]the [F]view\n[G6]  [Am]\nWhile all the [G6]women [F]came\nand went, [G6][Am]\nbarefoot [G6]servants, [F]too\n[G6]  [Am]\nOutside [G6]in the [F]dist-\nance [G6][Am]\na wildcat [G6]did [F]growl\n[G6]  [Am]\nTwo riders [G6]were [F]approach-\ning, [G6][Am]\nthe wind began [G6]to [F]\nhowl [G6][Am]\n\n[Outro]\n[Am]  [G6]  [F]\n[G6]  [Am]\n[G6]  [F]\n[G6]  [Am]\n[G6]  [F]\n[G6]  [Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "All Along The Watchtower *alt",
+  "id": "6a90472f05b5a5ee9274fdec21a7ec3191fdbc273af192f88af6bc7026ca8d54",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 160,
+  "normalizedKey": "bob dylan|all along the watchtower",
+  "playableChords": [
+    "Am",
+    "G6",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Solo"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Solo"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6a90472f05b5a5ee9274fdec21a7ec3191fdbc273af192f88af6bc7026ca8d54",
+    "version": "BCFZ"
+  },
+  "tempo": 129,
+  "title": "All Along The Watchtower",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

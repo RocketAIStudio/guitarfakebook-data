@@ -1,0 +1,101 @@
+{
+  "artist": "Basement",
+  "artistNormalized": "basement",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C5]\n[C5]\n[C5]  [D#5]\n[G5]\n[G#5]\n[A#5]\n[C5]\n[G#5]\n[A#5]\n[C5]\n[C5]  [D#5]\n[G5]\n[G#5]\n[A#5]\n[C5]\n[G#5]\n[A#5]\n\n[Verse 1]\n[C5]Slow\nit down,\n[G#5]\ntake your time.\n[C5]\nI want to\n[G#5]hear what you\nhave to say.\n[C5]\nI know\n[G#5]I\nmiss you too,\n[A#5]\n[C5]but we'll\n[G#5]be back soon.\n[A#5]\n\n[Verse 2]\n[C5]De-\ncember\n[G#5]\ncame and went,\n[C5]\nbut we'll\n[G#5]never for-\nget it\n[C5]The\nlong drives\n[G#5]and\nthe cold nights,\n[A#5]\n[C5]Funny\n[G#5]how it felt\n[A#5]so\n\n[Interlude]\n[C5]right,\nso\nright\n\n[Chorus]\n[C5]\n[C5]I've got [D#5]a\n[G5]plan,\n[G#5]I've got a\n[A#5]plan,\nHow about [C5]we\n[G#5]do it\n[A#5]all again?\n[C5]But\n[C5]this time. [D#5]but\n[G5]this time,\n[G#5]We\n[A#5]make it\n[C5]last\n[G#5]lon-\n[A#5]ger.\n\n[Bridge 1]\n[G#5]\n[C5]\n[A#5]\n[G#5]\n[C5]We'll\nbe\n[A#5]back\n[G#5]soon.\n[C5]We'll\nbe\n[A#5]back\n[G#5]soon.\n\n[Bridge 2]\n[C5]\n[A#5]\n[G#5]\n[C5]\n[A#5]\n[G#5]\n[C5]\n[A#5]\n[G#5]\n[C5]\n[A#5]\n[G#5]\n\n[Outro]\n[D#5]One we-\nek is\n[A#5]all it takes,\nTo\n[G#5]make me se-\ne\nhow much you\nmean\n[D#5]I kn-\now, I\n[A#5]miss you too\nBut we'll\n[G#5]be back so-\non,\nwe'll be back\nsoon",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "G#5": {
+      "catalog": [
+        "577xxx",
+        "x022xx"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Im Not Paying 10 For Car Lube",
+  "id": "38d525fdf5c0ed84024fc1cfbf328e9f9856b815c500e53c177a1c9bb6f3bc76",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 129,
+  "normalizedKey": "basement|im not paying 10 for car lube",
+  "playableChords": [
+    "C5",
+    "D#5",
+    "G5",
+    "G#5",
+    "A#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Interlude"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Bridge 1"
+    },
+    {
+      "measure": 113,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 131,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "38d525fdf5c0ed84024fc1cfbf328e9f9856b815c500e53c177a1c9bb6f3bc76",
+    "version": "BCFZ"
+  },
+  "tempo": 198,
+  "title": "Im Not Paying 10 For Car Lube",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

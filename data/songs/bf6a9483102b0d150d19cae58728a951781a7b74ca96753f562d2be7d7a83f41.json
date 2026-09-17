@@ -1,0 +1,107 @@
+{
+  "artist": "Billy Fury",
+  "artistNormalized": "billy fury",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n[Am]\n[F]\n[G]\n\n[Verse 1]\n[C]Rise in the\nmorning,\n[Am]you're not a-\nround\n[F]Searching all\nover,\n[G]you can't be\nfound\n[C]Then in the\nevening,\n[Am]I gaze a-\nbove\n[F]And ask the\nstars,\n[G]the way to my\nlove\n[F]\n[G]\n\n[Chorus]\n[F]I love you\nbaby,\n[C]I really\ncare\n[F]I need your\nlovin',\n[D]so hear my\n[G]pray-\n[F]er\n[G]\n\n[Verse 2]\n[C]Maybe to-\nmorrow,\n[Am]you'll under-\nstand\n[F]Then we'll go\nwalking\n[G]hand in\nhand\n[C]Then in the\nevening,\n[Am]by the moon-\nlight\n[F]I'll hold you,\ndarling!\n[G]I'll hold you\ntight\n[F]\n[G]Maybe to-\n\n[Outro]\n[C]morrow\n[Am]\n[F]There'll\n[G]be no\n[C]sorrow\n[Am]\n[F]May-\n[G]be to-\n[C]morrow,\n[Am]\n[F]May-\n[G]be to-\n[C]morrow,\n[Am]\n[F]May-\n[G]be\ntomor-\n[C]row",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Maybe Tomorrow",
+  "id": "bf6a9483102b0d150d19cae58728a951781a7b74ca96753f562d2be7d7a83f41",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 115,
+  "normalizedKey": "billy fury|maybe tomorrow",
+  "playableChords": [
+    "C",
+    "Am",
+    "F",
+    "G",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 52,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bf6a9483102b0d150d19cae58728a951781a7b74ca96753f562d2be7d7a83f41",
+    "version": "BCFZ"
+  },
+  "tempo": 133,
+  "title": "Maybe Tomorrow",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

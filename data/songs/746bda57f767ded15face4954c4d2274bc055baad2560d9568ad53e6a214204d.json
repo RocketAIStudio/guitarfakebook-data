@@ -1,0 +1,126 @@
+{
+  "artist": "Beck",
+  "artistNormalized": "beck",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n\n[Verse 1]\n[F]Your sorry eyes\n[C]\n[F]They cut through the bone\n[C]\n[F]They make it\n[C]hard\n[Am]to leave you alone\n[Em7]one\n[F]Leave you\n[C]here\n[F]wearing your wounds\n[C]\n[F]Waving your\n[C]guns\n[Am]at somebody\n[Em7]new\n\n[Chorus]\n[F]Baby you're\n[G]lost\n[F]Baby you're\n[G]lost\n[F]\n[G]Baby you're a lost\n[C]cause\n\n[Verse 2]\n[F]There's too many peo-\n[C]ple\n[F]you used to know\n[C]\n[F]They see you\n[C]coming\n[Am]they see you go\n[Em7]\n[F]They know your\n[C]secrets\n[F]and then you know\n[C]theirs\n[F]This town is\n[C]crazy,\n[Am]nobody ca-\n[Em7]res\n\n[Chorus]\n[F]Baby you're\n[G]lost\n[F]Baby you're\n[G]lost\n[F]\n[G]Baby you're a lost\n[C]cause\n[F]I'm tired of fight-\n[G]ing\n[F]I'm tired of\n[G]fighting\n[F]\n[G]Fighting for a lost\n[C]cause\n\n[Bridge]\n[A]There's a place\n[F]where you are\n[C]going\n[A]You ain't\n[F]never been be-\n[C]fore\n[A]No one\n[F]left to watch your\n[C]back now\n[F]No one\nstanding at your door\n[C]\n[F]That's what you\nthought love was\n[C]for\n\n[Chorus]\n[F]Baby you're\n[G]lost\n[F]Baby you're\n[G]lost\n[F]\n[G]Baby you're a lost\n[C]cause\n[F]I'm tired of fight-\n[G]ing\n[F]I'm tired of\n[G]fighting\n[F]\n[G]Fighting for a lost\n[C]cause",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x0221x",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lost Cause",
+  "id": "746bda57f767ded15face4954c4d2274bc055baad2560d9568ad53e6a214204d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 184,
+  "normalizedKey": "beck|lost cause",
+  "playableChords": [
+    "C",
+    "F",
+    "Am",
+    "Em7",
+    "G",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Bridge"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "746bda57f767ded15face4954c4d2274bc055baad2560d9568ad53e6a214204d",
+    "version": "BCFZ"
+  },
+  "tempo": 121,
+  "title": "Lost Cause",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

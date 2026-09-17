@@ -1,0 +1,109 @@
+{
+  "artist": "Biffy Clyro",
+  "artistNormalized": "biffy clyro",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C]\n[F5]\n[A5]\n[F5]\n\n[Verse 1]\n[C]What must I have become,\n[F5]To des-\n[A5]erve all the shit that you gave\n[F5]me? The\n[C]rocks look like a body in the\n[F5]river. Now\n[A5]I just wish that I could\n[F5]sleep,\n[G5]To [A5]keep me from\n[F5]thinking, But the\n[C]thoughts keep me up. It's been\n[F5]two months since you,\n[G5][A5]Taught me not to\n[F5]trust. But you\n[C]kept your promise.\n[F5]\n[G5]You make [A5]patterns in my\n[F5]face,\n[G5]You painted [E5]pictures with my\n[F5]tears. And you\n\n[Verse 2]\n[Bmadd11/E]did it again,\nI knew that you would.\n[F5]\n[G5]\n[Bmadd11/E]Thank you for showing\nme there's\n[F5]more.\n[A5]\n\n[Bridge]\n[Bmadd11/E]\n[F5]\n[G5]\n[Bmadd11/E]\n[F5]\n[G5]\n\n[Solo]\n[C]\n[G/B]\n[F5]\n[C]\n[G/B]\n[F5]\n\n[Verse 3]\n[C]Wash off your hands,\n[G/B]it's time to let\n[F5]go, Rel-\nease them.\n[C]Give time to your\n[G/B]heart, give time to your\n[F5]soul, Rel-\nease them all.\n[C]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "7-7-7-9-10-x"
+      ],
+      "catalogCount": 1
+    },
+    "Bmadd11/E": {
+      "catalog": [
+        "222432"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "22245x"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "33356x"
+      ],
+      "catalogCount": 1
+    },
+    "G/B": {
+      "catalog": [
+        "x2543x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "55578x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Scary Mary",
+  "id": "54830629e7f88b875e80db9bd293b919593838623a268e3c974148ceec40c623",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 124,
+  "normalizedKey": "biffy clyro|scary mary",
+  "playableChords": [
+    "C",
+    "F5",
+    "A5",
+    "G5",
+    "E5",
+    "Bmadd11/E",
+    "G/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Solo"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "54830629e7f88b875e80db9bd293b919593838623a268e3c974148ceec40c623",
+    "version": "BCFZ"
+  },
+  "tempo": 59,
+  "title": "Scary Mary",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

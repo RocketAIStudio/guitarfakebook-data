@@ -1,0 +1,116 @@
+{
+  "artist": "Bob Dylan",
+  "artistNormalized": "bob dylan",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n[G]\n[F]\n[E]\n[Am]\n[G]\n[F]\n[E]\n[Am]\nYour\n\n[Verse 1]\n[Am]breath is sweet Your eyes are like two\n[G]jewels in the sky\n[F]Your back is straight, your hair is smooth On the\n[E]pillow where you lie\n[Am]I don't sense affection Nor\n[G]no gratitude or love\n[F]Your loyalty is not to me but\n[E]to the stars above\n\n[Chorus]\n[F]One more cup of coffee for the road\n[E]\n[F]One more cup of coffee 'fore I go\n[E]To the valley below\n\n[Post-Chorus]\n[Am]\n[G]\n[F]\n[E]Your\n\n[Verse 2]\n[Am]daddy, he's an outlaw\n[G]And a wanderer by trade\n[F]He'll teach you how to pick an' choose And\n[E]how to throw the blade\n[Am]He oversees his kingdom\n[G]Where no stranger does intrude\n[F]His voice it trembles as he calls out For a-\n[E]nother plate of food\n\n[Chorus]\n[F]One more cup of coffee for the road\n[E]\n[F]One more cup of coffee 'fore I go\n[E]To the valley below\n\n[Post-Chorus]\n[Am]\n[G]\n[F]\n[E]Your\n\n[Verse 3]\n[Am]sister sees the future\n[G]Like your momma and yourself\n[F]She never learned to read or write There's\n[E]no books upon her shelf\n[Am]And her pleasure knows no limits Her\n[G]voice is like a meadow lark But her\n[F]heart is like an ocean Mys-\n[E]terious and dark\n\n[Chorus]\n[F]One more cup of coffee for the road\n[E]\n[F]One more cup of coffee 'fore I go\n[E]To the valley below\n\n[Outro]\n[Am]\n[G]\n[F]\n[E]\n[Am]\n[G]\n[F]\n[E]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "One More Cup Of Coffee",
+  "id": "a352d48fface81956c39a817f1c58fd46a14839eaaff60f5b817d9180c3ff20e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 244,
+  "normalizedKey": "bob dylan|one more cup of coffee",
+  "playableChords": [
+    "Am",
+    "G",
+    "F",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a352d48fface81956c39a817f1c58fd46a14839eaaff60f5b817d9180c3ff20e",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "One More Cup Of Coffee",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,115 @@
+{
+  "artist": "Billie Eilish",
+  "artistNormalized": "billie eilish",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[Bm]Help, I lost [A]myself\n[G]again [A]But I\n[A][Bm]remember you\n[G]\n[Bm]Don't come back, [A]it won't\n[G]end well [A]But I wish\n[Bm]you'd [A]tell me too\n[G]Our love is\n\n[Chorus]\n[Bm]six feet [A]under I can't\n[G]help but [A]wonder If our\n[Bm]grave was [A]watered by the\n[Em]rain Would roses bloom?\n[G]  [A]\n[Bm]Could roses bloom\n[G]  [A]\n[Bm][A]Again?\n[G]Retrace\n\n[Verse 2]\n[Bm]my lips [A]Erase\n[G]your touch [A]It's all\n[Bm]too much [A]for me\n[G]Blow\n[Bm]away [A]Like\n[G]smoke in air [A]How can you\n[Bm]die [A]carelessly?\n[G]Our love is\n\n[Chorus]\n[Bm]six feet [A]under I can't\n[G]help but [A]wonder If our\n[Bm]grave was [A]watered by the\n[Em]rain Would roses bloom?\n[G]  [A]\n[Bm]Could roses bloom?\n[G]  [A]\n[Bm][A]They're\n\n[Bridge]\n[G]playing our sound [A]Laying us down tonight\n[Bm]And\n[G]all of these clouds [A]Crying us back to life\n[Bm][A]But you're cold as a\n[G]knife\n\n[Chorus]\n[Bm]Six feet [A]under I can't\n[G]help but [A]wonder If our\n[Bm]grave was [A]watered by the\n[Em]rain\n\n[Outro]\n[G]Bloom [A]\n[Bm]\n[G]Bloom [A]\n[Bm][A]Again\n[Gmaj7]\n[Bm]Help, I lost [A]myself\n[G]again [A]But I\n[A][Bm]remember you\n[G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7": {
+      "catalog": [
+        "320002",
+        "3-5-4-4-3-3",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7",
+        "x-10-12-11-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Six Feet Under",
+  "id": "62a7f25f08f254c301834492be63d942b064c1ca804736ef08b740e254169e27",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 177,
+  "normalizedKey": "billie eilish|six feet under",
+  "playableChords": [
+    "Bm",
+    "A",
+    "G",
+    "Em",
+    "Gmaj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "62a7f25f08f254c301834492be63d942b064c1ca804736ef08b740e254169e27",
+    "version": "BCFZ"
+  },
+  "tempo": 67,
+  "title": "Six Feet Under",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

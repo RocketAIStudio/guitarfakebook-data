@@ -1,0 +1,121 @@
+{
+  "artist": "Blink 182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[B5]\n[C#5]\n[G#5]\n[A#5]\n[B5]\n[C#5]\n[G#5]\n[A#5]\n\n[Verse 1]\n[B5]Six bottles went down the drain,\n[D#5]one hour's a waste [F#/A#]of time,\n[B5]I’d ask if you feel the same,\n[D#5]still pushing that chance [F#/A#]to try,\n[B5]your breath in this cool room chill,\n[D#5]long hair that blows side [F#/A#]to side,\n[B5]you speak and make time stand still,\n[D#5]and each time walk [F#/A#]right on by\n[B5]\n\n[Chorus]\n[B5]Like violence\n[C#5]you have me,\n[G#5]forever,\n[A#5]and after\n[B5]Like violence\n[C#5]you kill me,\n[G#5]forever\n[A#5]and after.\n\n[Verse 2]\n[B5]Can’t count on the eyes that stare,\n[D#5]can’t count on the things [F#/A#]they see,\n[B5]she kills with no life to spare,\n[D#5]just victim to left [F#/A#]to bleed,\n[B5]one drink and the pain goes down,\n[D#5]soft shadows lay by [F#/A#]her feet,\n[B5]lay soft as you slowly drown,\n[D#5]lay still as you fall [F#/A#]asleep.\n[B5](Fall asleep)\n\n[Chorus]\n[B5]Like violence\n[C#5]you have me,\n[G#5]forever,\n[A#5]and after\n[B5]Like violence\n[C#5]you kill me,\n[G#5]forever\n[A#5]and after.\n\n[Interlude]\n[G#5]\n[F#5]\n[D#5]\n[E5]\n[G#5]\n[F#5]\n[D#5]Like violence\n[E5]you have me,\n[G#5]forever,\n[F#5]and after\n[D#5]Like violence\n[E5]you kill me\n[G#5]Like violence\n[F#5]you have me,\n[D#5]forever,\n[E5]and after\n[G#5]Like violence\n[F#5]you kill me\n[D#5]\n[E5]\n\n[Chorus]\n[B5]Like violence\n[C#5]you have me,\n[G#5]forever,\n[A#5]and after\n[B5]Like violence\n[C#5]you kill me,\n[G#5]forever\n[A#5]and after.\n[B5]Like violence\n[C#5]you have me,\n[G#5]forever,\n[A#5]and after\n[B5]Like violence\n[C#5]you kill me,\n[G#5]forever\n[A#5]and after.\n\n[Outro]\n[B5]",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "E5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#/A#": {
+      "catalog": [
+        "7-10-9-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Violence",
+  "id": "dfe9b4cbcd13d5fe1c4beab08bacdd561744ccf590a82cd7b1094776d82403ef",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 253,
+  "normalizedKey": "blink 182|violence",
+  "playableChords": [
+    "B5",
+    "C#5",
+    "G#5",
+    "A#5",
+    "D#5",
+    "F#/A#",
+    "F#5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 68,
+      "name": "Interlude"
+    },
+    {
+      "measure": 90,
+      "name": "Chorus"
+    },
+    {
+      "measure": 106,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dfe9b4cbcd13d5fe1c4beab08bacdd561744ccf590a82cd7b1094776d82403ef",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Violence",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

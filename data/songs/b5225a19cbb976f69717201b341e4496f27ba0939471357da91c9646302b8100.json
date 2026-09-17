@@ -1,0 +1,81 @@
+{
+  "artist": "Bob Dylan",
+  "artistNormalized": "bob dylan",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[D]\nFeeling\n\n[Verse 1]\n[D]funny in my mind, Lord, I\n[Cadd9]believe I'm [G/B]fix ing to die,\n[D]\nFeeling\n[D]funny in my mind, Lord I\n[Cadd9]believe I'm [G/B]fix ing to die\n[D]\nWell, I\n[D]don't mind dying But I\n[Cadd9]hate to leave my [G/B]child ren\n[D]crying\nWell, I\n\n[Verse 2]\n[D]look o ver yonder\n[Cadd9]to that [G/B]burying\n[D]ground\n[D]Look o ver yonder\n[Cadd9]to that [G/B]burying\n[D]ground\n[D]Sure seems lonesome,\n[Cadd9]Lord, when the [G/B]sun goes\n[D]down\nFeeling\n\n[Verse 3]\n[D]funny in my eyes, Lord, I\n[Cadd9]believe I'm [G/B]fixing to die,\n[D]fixing to die\nFeeling\n[D]funny in my eyes, Lord I\n[Cadd9]believe I'm [G/B]fix ing to die\n[D]\nWell, I\n[D]don't mind dying but I\n[Cadd9]hate to leave my [G/B]child ren\n[D]crying\nThere's a\n\n[Verse 4]\n[D]black smoke rising, Lord It's\n[Cadd9]rising up [G/B]above my\n[D]head, up above my\nhead\nThere's a\n[D]black smoke rising, Lord It's\n[Cadd9]rising up [G/B]above my\n[D]head,\n[D]And tell Jesus\n[Cadd9]make up my [G/B]dying\n[D]bed\nI'm\n\n[Verse 5]\n[D]walking kind of funny, Lord I\n[Cadd9]believe I'm [G/B]fixing to die,\n[D]fixing to die\nYes I'm\n[D]walking kind [Cadd9]of [G/B]funny, Lord I\nbelieve [Cadd9]I'm [G/B]fixing to die\n[D]Fixing to die, fixing to die\nWell, I\n[D]don't mind dying But I\n[Cadd9]hate to leave my [G/B]child ren\n[D]crying",
+  "diagrams": {
+    "Cadd9": {
+      "catalog": [
+        "x3203x"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "000232",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x2003x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Fixin' To Die Blues",
+  "id": "b5225a19cbb976f69717201b341e4496f27ba0939471357da91c9646302b8100",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 235,
+  "normalizedKey": "bob dylan|fixin to die blues",
+  "playableChords": [
+    "D",
+    "Cadd9",
+    "G/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 5"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b5225a19cbb976f69717201b341e4496f27ba0939471357da91c9646302b8100",
+    "version": "BCFZ"
+  },
+  "tempo": 123,
+  "title": "Fixin' To Die Blues",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

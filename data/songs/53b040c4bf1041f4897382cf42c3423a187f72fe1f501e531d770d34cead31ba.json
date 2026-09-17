@@ -1,0 +1,55 @@
+{
+  "artist": "Blink 182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 1,
+  "content": "[Intro]\n[Em]\n\n[Theme]\n[Em]\n\n[Outro]\n[Em]Down, down, down,\nPick me up I'm falling\nDown, down, down,\nPick me up I'm falling\nDown, down, down,\nPick me up I'm falling\nDown, down, down,\nPick me up I'm falling",
+  "diagrams": {
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Fallen Interlude",
+  "id": "53b040c4bf1041f4897382cf42c3423a187f72fe1f501e531d770d34cead31ba",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 36,
+  "normalizedKey": "blink 182|the fallen interlude",
+  "playableChords": [
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Theme"
+    },
+    {
+      "measure": 37,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "53b040c4bf1041f4897382cf42c3423a187f72fe1f501e531d770d34cead31ba",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "The Fallen Interlude",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

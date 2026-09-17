@@ -1,0 +1,118 @@
+{
+  "artist": "Beat Happening",
+  "artistNormalized": "beat happening",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A5]  [A#5]\n[A5]  [G5]\n[A5]  [A#5]\n[A5][G5]They\n\n[Verse 1]\n[A5]keep us [A#5]apart from the\n[A5]other [G5]kids They try to\n[A5]keep us from each [A#5]other\n[A5]  [G5]\n[A5]We're no [A#5]good is\n[A5]what they [G5]say But\n[A5]we just see this world in a\ndifferent way We're\n\n[Chorus]\n[G][E]bad,\n[A]bad seeds Bad,\n[G][E]bad,\n[A]bad, bad seeds We're\n[G][E]bad,\n[A]bad seeds Bad,\n[G][E]bad,\n[A]bad, bad seeds\n[E]  [G]\n[A]They\n\n[Verse 2]\n[A5]make a lot of [A#5]rules\n[A5][G5]They\n[A5]tell a lot of [A#5]lies\n[A5]  [G5]\n[A5]If we don't [A#5]wanna, we\n[A5]won't [G5]behave And\n[A5]they can't make us, 'cause we\ncan't be made We're\n\n[Chorus]\n[G][E]bad,\n[A]bad seeds Bad,\n[G][E]bad,\n[A]bad, bad seeds We're\n[G][E]bad,\n[A]bad seeds Bad,\n[G][E]bad,\n[A]bad, bad seeds\n[E]  [G]\n[A]\n\n[Interlude]\n[A5]  [A#5]\n[A5]  [G5]\n[A5]  [A#5]\n[A5]  [G5]\n\n[Verse 3]\n[A5]The new [A#5]generation formed the\n[A5]teenage [G5]nation\n[A5]This [A#5]time, let's\n[A5]do it [G5]right\n\n[Chorus]\n[G][E]Bad,\n[A]bad seeds Bad,\n[G][E]bad,\n[A]bad, bad seeds We're\n[G][E]bad,\n[A]bad seeds Bad,\n[G][E]bad,\n[A]bad, bad seeds\n[G][E]Bad,\n[A]bad seeds Bad,\n[G][E]bad,\n[A]bad, bad seeds We're\n[G][E]bad,\n[A]bad seeds Bad,\n[E]bad",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bad Seeds",
+  "id": "7eb2bfd6b5d6465d8bb40585a6716ac58f93c0dfb6c73983080ceaf9f2bdd3ea",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 167,
+  "normalizedKey": "beat happening|bad seeds",
+  "playableChords": [
+    "A5",
+    "A#5",
+    "G5",
+    "E",
+    "G",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Interlude"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7eb2bfd6b5d6465d8bb40585a6716ac58f93c0dfb6c73983080ceaf9f2bdd3ea",
+    "version": "BCFZ"
+  },
+  "tempo": 149,
+  "title": "Bad Seeds",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

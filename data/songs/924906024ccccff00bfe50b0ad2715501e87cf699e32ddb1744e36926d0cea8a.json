@@ -1,0 +1,118 @@
+{
+  "artist": "Billie Eilish",
+  "artistNormalized": "billie eilish",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Cmaj7]\n[Gmaj7]\n[Am7]\n[Dadd11]\n\n[Verse 1]\n[Cmaj7]Don't be that way Fall a-\n[Gmaj7]part twice a day I just\n[Am7]wish you could feel what you\n[Dadd11]say\n[Cmaj7]Show, never tell But I\n[Gmaj7]know you too well Got a\n[Am7]mood that you wish you could\n[Dadd11]sell If\n\n[Chorus]\n[Cmaj7]teardrops could be bottled There'd be\n[Gmaj7]swimming pools filled by models Told a\n[Am7]tight dress is what makes you a\n[B7]whore If \"I\n[Cmaj7]love you\" was a promise Would you\n[Gmaj7]break it, if you're honest Tell the\n[Am7]mirror what you know she's heard be-\n[B7]fore\n[Cmaj7]I don't wanna\n[B7]be you any-\n\n[Bridge]\n[Gmaj7]more\nHands,\n\n[Verse 2]\n[Cmaj7]hands getting cold Losing\n[Gmaj7]feeling's getting old Was I\n[Am7]made from a bro -\n[Dadd11]ken mold?\n[Cmaj7]Hurt, I can't shake We've made\n[Gmaj7]every mistake Only\n[Am7]you know the way that I\n[Dadd11]break If\n\n[Chorus]\n[Cmaj7]teardrops could be bottled There'd be\n[Gmaj7]swimming pools filled by models Told a\n[Am7]tight dress is what makes you a\n[B7]whore If \"I\n[Cmaj7]love you\" was a promise Would you\n[Gmaj7]break it, if you're honest Tell the\n[Am7]mirror what you know she's heard be-\n[B7]fore\n[Cmaj7]I don't wanna\n[B7]be you\n[Cmaj7]I don't wanna\n[B7]be you\n\n[Outro]\n[Cmaj7]I don't wanna\n[B7]be you any-\n[E7sus2]more",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "575555",
+        "x-0-2-0-1-0",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x35453",
+        "x-3-2-0-0-0",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dadd11": {
+      "catalog": [
+        "xx0032"
+      ],
+      "catalogCount": 1
+    },
+    "E7sus2": {
+      "catalog": [
+        "x7977x"
+      ],
+      "catalogCount": 1
+    },
+    "Gmaj7": {
+      "catalog": [
+        "354433",
+        "3-2-0-0-0-2",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7",
+        "x-10-12-11-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "idontwannabeyouanymore",
+  "id": "924906024ccccff00bfe50b0ad2715501e87cf699e32ddb1744e36926d0cea8a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 215,
+  "normalizedKey": "billie eilish|idontwannabeyouanymore",
+  "playableChords": [
+    "Cmaj7",
+    "Gmaj7",
+    "Am7",
+    "Dadd11",
+    "B7",
+    "E7sus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "924906024ccccff00bfe50b0ad2715501e87cf699e32ddb1744e36926d0cea8a",
+    "version": "BCFZ"
+  },
+  "tempo": 87,
+  "title": "idontwannabeyouanymore",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

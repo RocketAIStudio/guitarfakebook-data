@@ -1,0 +1,128 @@
+{
+  "artist": "Beatles",
+  "artistNormalized": "beatles",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n[G7]\n[E7]\n[A7]\nBe-\n\n[Verse 1]\n[D]cause you're sweet and love-\n[G7]ly, girl, I\n[D]love you\nBe-\n[G7]cause you're sweet and love-\nly, girl, it's true\n[D]\nI\n[A7]love you more than ev-\n[G7]er, girl, I do\n\n[Bridge]\n[D]\n[A7]I\n\n[Verse 2]\n[D]want you in the mor-\n[G7]ning, girl, I\n[D]love you\nI\n[G7]want you at the mo-\nment I feel blue\n[D]\nI'm\n[A7]living every mo-\n[G7]ment, girl, for you\n\n[Bridge]\n[D]\n[A7]\n\n[Guitar Solo 1]\n[D]\n[G7]\n[D]\n[G7]\n[D]\n[A7]\n[G7]\n\n[Bridge]\n[D]\n[A7]\n\n[Guitar Solo 2]\n[D]\n[G7]\n[D]\n[G7]\n[D]\n[A7]\n[G7]\n\n[Bridge]\n[D]\n[A7]I've\n\n[Verse 3]\n[D]loved you from the mo-\n[G7]ment, I\n[D]saw you\nYou\n[G7]looked at me that's all\nyou had to do\n[D]\nI\n[A7]feel it now, I hope\n[G7]you feel it too\n\n[Bridge]\n[D]\n[A7]Be-\n\n[Verse 4]\n[D]cause you're sweet and love-\n[G7]ly, girl, I\n[D]love you\nBe-\n[G7]cause you're sweet and love-\nly, girl, it's true\n[D]\nI\n[A7]love you more than ev-\n[G7]er, girl, I do\n\n[Outro]\n[D]I\n[A7]really love you",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "For You Blue",
+  "id": "9ecf8f84ac723e2ea32878c124f29a7d003d9b8462a26a34e46913cdb81f7690",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 128,
+  "normalizedKey": "beatles|for you blue",
+  "playableChords": [
+    "D",
+    "G7",
+    "E7",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 31,
+      "name": "Guitar Solo 1"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 43,
+      "name": "Guitar Solo 2"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 77,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9ecf8f84ac723e2ea32878c124f29a7d003d9b8462a26a34e46913cdb81f7690",
+    "version": "BCFZ"
+  },
+  "tempo": 126,
+  "title": "For You Blue",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

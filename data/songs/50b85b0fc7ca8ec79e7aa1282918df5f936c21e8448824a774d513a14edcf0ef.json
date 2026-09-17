@@ -1,0 +1,110 @@
+{
+  "artist": "Bing Crosby",
+  "artistNormalized": "bing crosby",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "It\n\n[Verse 1]\n[Gb]came [B]upon the\n[Gb]midnight clear, That\n[B]glorious song of\n[Db]old From\n[Gb]angels [B]bending\n[Gb]near the earth To\n[B]touch their [Db]harps of\n[Gb]gold Peace\n[Bb]on the earth, good-\n[Ebm]will to men, From\n[Db]Heaven's all [Ab]gracious\n[Db]King The\n[Gb]world in [B]solemn\n[Gb]stillness lay To\n[B]hear the [Db]angels\n[Gb]sing Still\n\n[Verse 2]\n[Gb]through the [B]cloven\n[Gb]skies They come With\n[B]peaceful wings un-\n[Db]furl And\n[Gb]still Their [B]heavenly\n[Gb]music floats O'er\n[B]all the [Db]weary\n[Gb]world A-\n[Bb]bove its sad and\n[Ebm]lowly plains They\n[Db]bend on [Ab]hovering\n[Db]wing And\n[Gb]ever [B]o'er its\n[Gb]Babel sounds The\n[B]blessed [Db]angels\n[Gb]sing The\n\n[Outro]\n[B]blessed [Db]angels\n[B]sing\n[Gb]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "466544",
+        "4-3-1-1-1-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "688766",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Ebm": {
+      "catalog": [
+        "x68876",
+        "x-x-1-3-4-2",
+        "11-13-13-11-11-11",
+        "x-x-13-15-16-14",
+        "x-18-20-20-19-18"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "It Came Upon a Midnight Clear",
+  "id": "50b85b0fc7ca8ec79e7aa1282918df5f936c21e8448824a774d513a14edcf0ef",
+  "key": "G♭",
+  "keyIdentified": true,
+  "lyricEventCount": 122,
+  "normalizedKey": "bing crosby|it came upon a midnight clear",
+  "playableChords": [
+    "Gb",
+    "B",
+    "Db",
+    "Bb",
+    "Ebm",
+    "Ab"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "50b85b0fc7ca8ec79e7aa1282918df5f936c21e8448824a774d513a14edcf0ef",
+    "version": "BCFZ"
+  },
+  "tempo": 60,
+  "title": "It Came Upon a Midnight Clear",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

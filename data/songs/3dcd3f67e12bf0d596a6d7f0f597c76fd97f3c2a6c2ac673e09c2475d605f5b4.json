@@ -1,0 +1,82 @@
+{
+  "artist": "Bedroom",
+  "artistNormalized": "bedroom",
+  "capo": "3",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n[Eb]\n[Gmaj7]\n[Eb]\n[Gmaj7]\n[Eb]\n[Gmaj7]\n[Eb]\n[Gmaj7]\nI\n\n[Verse 1]\n[Eb]pray to god\nTo\n[Gmaj7]stop these thoughts\nIt\n[Eb]works for me\n[Gmaj7]Can't you see\nAnd I\n[Eb]know that I'm\nbetter\nI'm\n[Gmaj7]writing this\nletter\nTo\n[Eb]my past\nself\n[Gmaj7]Sitting\non the shelf\n\n[Bridge]\n[Eb]\n[Gmaj7]\n[Eb]\n[Gmaj7]\n\n[Interlude]\n[Eb]\n[Gmaj7]\n[Eb]\n[Gmaj7]\n\n[Verse 2]\n[Eb]Nothing lasts\nIts\n[Gmaj7]for the best\nI\n[Eb]won't stay here\nI\nwon't\nstay there\n[Gmaj7]\nCause'\nnow\nI'm hap-\n[Eb]py\nFor\n[Gmaj7]you have\nchanged me\nI\n[Eb]am so\nthankful\nNo\n[Gmaj7]longer\npainful\n\n[Bridge]\n[Eb]\n[Gmaj7]\n[Eb]\n[Gmaj7]\n[Eb]\n[Gmaj7]\n\n[Outro/Fade Out]\n[Eb]\n[Gmaj7]\n[Eb]\n[Gmaj7]\n[Eb]\n[Gmaj7]\n[Eb]\n[Gmaj7]\n[Eb]\n[Gmaj7]",
+  "diagrams": {
+    "Eb": {
+      "catalog": [
+        "032003",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7": {
+      "catalog": [
+        "320002",
+        "3-5-4-4-3-3",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7",
+        "x-10-12-11-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Nothing lasts",
+  "id": "3dcd3f67e12bf0d596a6d7f0f597c76fd97f3c2a6c2ac673e09c2475d605f5b4",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 72,
+  "normalizedKey": "bedroom|nothing lasts",
+  "playableChords": [
+    "Eb",
+    "Gmaj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 81,
+      "name": "Interlude"
+    },
+    {
+      "measure": 97,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 129,
+      "name": "Bridge"
+    },
+    {
+      "measure": 153,
+      "name": "Outro/Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3dcd3f67e12bf0d596a6d7f0f597c76fd97f3c2a6c2ac673e09c2475d605f5b4",
+    "version": "BCFZ"
+  },
+  "tempo": 156,
+  "title": "Nothing lasts",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

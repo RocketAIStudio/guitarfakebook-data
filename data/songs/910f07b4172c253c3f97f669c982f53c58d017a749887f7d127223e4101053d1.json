@@ -1,0 +1,127 @@
+{
+  "artist": "Beck",
+  "artistNormalized": "beck",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]  [D]\n[G]  [A]\n[E]  [D]\n[G]  [A]\n[E]  [D]\n[G]  [A]\n[E]  [D]\n[G]  [A]\n\n[Verse 1]\n[D]If I could\n[G]hold Hold out for now\n[Bm]\n[D]With these\n[G]icecaps melting\n[Bm]down\n[D]With the\n[G]transistor\n[Bm]sound\n[D]And my\n[G]Chevrolet Terraplane\n[Bm]Going around\naround around\n\n[Chorus]\n[E]  [D]\nCome on little gamma ray\n[G]  [A]\n[E]  [D]\nStanding in a hurricane\n[G]  [A]\n[E][D]Your\nbrains are bored like a\n[G]refugee From [A]a\nhouse that's burning\n[E]And [D]the\nheat wave's calling your name\n[G]  [A]\n\n[Break]\n[Bm]\n\n[Verse 2]\n[D]\n[G]She's got a cactus\n[Bm]crown\n[D]With a\n[G]dot dot dot on her brow\n[Bm]\n[D]And she\n[G]speaks inside a cloud\n[Bm]\n[D]With her\n[G]countenance turning aro-\n[Bm]und\n\n[Chorus]\n[E][D]It\nhit me like a gamma ray\n[G]  [A]\n[E]  [D]\nStanding in a hurricane\n[G]  [A]\n[E][D]I'm\npulling out thorns\n[G]Smokestack lightning [A]out\nmy window\n[E]I want [D]to\nknow what I've lost today\n[G]  [A]\n\n[Break]\n[Bm]\n\n[Interlude]\n[A]\n\n[Chorus]\n[E]  [D]\nCome on little gamma ray\n[G]  [A]\n[E]  [D]\nStanding in a hurricane\n[G]  [A]\n[E]And [D]your\nbody's bored Like a\n[G]refugee from [A]a\nhouse that's burning\n[E]And [D]the\nbackwater's calling your name\n[G]  [A]\n[E]  [D]\n[G]  [A]\n[E]  [D]\n[G]  [A]\n\n[Outro]\n[Bm]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Gamma Ray",
+  "id": "910f07b4172c253c3f97f669c982f53c58d017a749887f7d127223e4101053d1",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 181,
+  "normalizedKey": "beck|gamma ray",
+  "playableChords": [
+    "E",
+    "D",
+    "G",
+    "A",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Break"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Break"
+    },
+    {
+      "measure": 87,
+      "name": "Interlude"
+    },
+    {
+      "measure": 95,
+      "name": "Chorus"
+    },
+    {
+      "measure": 119,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "910f07b4172c253c3f97f669c982f53c58d017a749887f7d127223e4101053d1",
+    "version": "BCFZ"
+  },
+  "tempo": 168,
+  "title": "Gamma Ray",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

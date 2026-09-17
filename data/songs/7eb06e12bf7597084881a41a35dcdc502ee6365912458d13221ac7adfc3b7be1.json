@@ -1,0 +1,115 @@
+{
+  "artist": "Birdy",
+  "artistNormalized": "birdy",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C#m]  [A]\n[E]  [B6/E]\n[C#m]  [A]\n[E]  [B6/E]\n\n[Verse 1]\n[C#m]Come on skinny love [A]just last the\n[E]year, [B6/E]\n[C#m]Pour a little salt [A]we're never\n[E]here, [B6/E]My my my,\n[C#m]my my my, [A]mymymy my-\n[E]my... Staring at the\n[F#m]sink of blood and crushed veneer.\n[C#m]\n\n[Verse 2]\n[C#m]I tell my love [A]to wreck it\n[E]all, [B6/E]\n[C#m]Cut out all the ropes [A]and let me fall,\n[E][B6/E]My my my,\n[C#m]my my my, [A]mymymy mymy...\n[E]Right in the\n[F#m]moment this order's tall.\n[C#m]And I\n\n[Chorus]\n[E]told you to be patient, And I\n[B6/E]told you to be fine, [C#m]And I\n[E]told you to be balanced, And I\n[B6/E]told you to be kind, [C#m]And in the\n[E]morning I'll be with you, But it will\n[B6/E]be a different kind, [C#m]'Cause I'll be\n[E]holding all the tickets, And you'll be\n[B6/E]owning all the fines. [C#m]\n\n[Verse 3]\n[C#m]Come on skinny love, [A]what happened\n[E]here? [B6/E]\n[C#m]Suckle on the hope [A]in light brassieres,\n[E][B6/E]My my my,\n[C#m]my my my, [A]mymymy my-\n[E]my... Sullen\n[F#m]load is full, so slow on the split.\n[C#m]And I\n\n[Chorus]\n[E]told you to be patient, And I\n[B6/E]told you to be fine, [C#m]And I\n[E]told you to be balanced, And I\n[B6/E]told you to be kind, [C#m]And now\n[E]all your love is wasted, And then\n[B6/E]who the hell was I? [C#m]'Cause now I'm\n[E]breaking at the britches, And at the\n[B6/E]end of all your lines. [C#m]\n\n[Bridge]\n[E]Who will love you?\n[B6/E]Who will [C#m]fight?\n[E]And who will fall\n[B6/E]far [C#m]behind?\n\n[Outro]\n[C#m]Come on skinny [A]love,\n[E]  [B6/E]\n[C#m]  [A]\n[E][B6/E]My my my...\n[C#m]  [A]\n[E]  [B6/E]\n[C#m]  [A]\n[E]  [B6/E]\n[C#m]  [A]\n[E]  [B6/E]\n[C#m]  [A]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B6/E": {
+      "catalog": [
+        "021102"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Skinny love",
+  "id": "7eb06e12bf7597084881a41a35dcdc502ee6365912458d13221ac7adfc3b7be1",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 265,
+  "normalizedKey": "birdy|skinny love",
+  "playableChords": [
+    "C#m",
+    "A",
+    "E",
+    "B6/E",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 55,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7eb06e12bf7597084881a41a35dcdc502ee6365912458d13221ac7adfc3b7be1",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "Skinny love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

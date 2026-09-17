@@ -1,0 +1,122 @@
+{
+  "artist": "Bad Company",
+  "artistNormalized": "bad company",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A5]\nWell, when I\n\n[Verse 1]\n[A5]\nwant to rock\nsteady, yeah\nI\nknow,\nI got to get\nready\nClose my eyes\nand I let myse-\nlf go.\nListen to, oh,\nbaby, let the mu-\nsic flow,\nYeah Turn on your\n\n[Chorus]\n[C]light and stay with\n[D]me awhile And\n[F]ease your [G]worried m-\nind, [Am][G][Am]Turn on your\n[C]light, now babe And stay with\n[D]me awhile [F]and [G]rock\n[Am]steady. Yeah,\noh, now rock steady,\nYeah, rock,\nrock steady.\nWhen my\n\n[Verse 2]\n[A5]love yeah\ngets a little bit too\nheavy,\nShe's\nmine\nand I got to get\nready. Yeah\nClose my ey-\nes and I let myself\ngo,\nI lisen too,\nyeah, and I let the mu-\nsic flow. Yeah, it's\nflowing now. Turn on your\n\n[Chorus]\n[C]light and stay with\n[D]me awhile And\n[F]ease your [G]worried m-\nind, [Am][G][Am]Turn on your\n[C]light And stay with\n[D]me awhile [F]and [G]rock\n[Am]steady. Oh yeah,\noh ye--\n\n[Solo]\n[A5]ah\nTurn on your\n\n[Chorus]\n[C]light and stay with\n[D]me awhile, And\n[F]ease your [G]worried mi-\nnd [Am][G][Am]turn on your\n[C]light, Stay\n[D]with me [F]awhile [G]\n[Am]And rock, rock, rock,\nrock, rock, rock, Babe, turn on\n[C]your light hoo\n[D]Yeah I'll be right here And\n[F]ease your [G]worried\n[Am]mind, [G][Am]Yeah, turn\n[C]on your little light,\n[D]Oh, [F]and [G]rock\n[Am]steady.",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rock Steady",
+  "id": "1c21fce3cce2e35e3ea55fa18b0eecaf6274eac12aa13d26e6956df4faf3fc5a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 244,
+  "normalizedKey": "bad company|rock steady",
+  "playableChords": [
+    "A5",
+    "C",
+    "D",
+    "F",
+    "G",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Solo"
+    },
+    {
+      "measure": 78,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1c21fce3cce2e35e3ea55fa18b0eecaf6274eac12aa13d26e6956df4faf3fc5a",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Rock Steady",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

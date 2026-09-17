@@ -1,0 +1,134 @@
+{
+  "artist": "Blur",
+  "artistNormalized": "blur",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\n[Em]  [F]\n[C]\n[Em]  [F]\n[C]\n[Em]  [F]\n[C]\n[Em]  [F]\n[C]\n[Em]  [F]\n[C]\n[Em]  [F]\n\n[Verse 1]\n[C]Waiting,\n[Em]got no [F]time to\n[C]hide in The\n[Em]country got [F]a hold of my\n\n[Chorus]\n[Am]soul TV's\n[Bb]dead And there\n[Am]aint no war in my he-\n[Bb]ad now And\n[G]you seem very beau\ntiful to\n\n[Bridge]\n[C]me\n[Em]  [F]\n[C]\n[Em]  [F]\n[C]\n[Em]  [F]\n[C]\n[Em]  [F]\n\n[Verse 2]\n[C]Sleeping,\n[Em]but my [F]work's not\n[C]done I could be\n[Em]lying on [F]an a tom\n\n[Chorus]\n[Am]bomb I take\n[Bb]care\n[Am]Cause I know you'll be\n[Bb]there\n[G]You seem very beau\ntiful to\n\n[Bridge]\n[C]me\n[Em]  [F]\n[C]\n[Em]  [F]\n[C]\n[Em]  [F]\n[C]\n[Em][F]It's the\n\n[Interlude]\n[C]rest of my life Just\n[Em]rolling and [F]rolling\n[C]Picture in my pocket\n[Em]Looks like [F]you It's the\n[C]rest of my life Just\n[Em]rolling and [F]rolling We're all\n[C]\n[Em]  [F]\n\n[Outro]\n[C]\n[Em]  [F]\n[C]\n[Em]  [F]\n[C]\n[Em]  [F]\n[C]\n[Em]  [F]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Good Song",
+  "id": "7f4a97f04d69ba39d754356a3c2f646d4b497560daa5c08853b4a0860b59b09e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 113,
+  "normalizedKey": "blur|good song",
+  "playableChords": [
+    "C",
+    "Em",
+    "F",
+    "Am",
+    "Bb",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Bridge"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7f4a97f04d69ba39d754356a3c2f646d4b497560daa5c08853b4a0860b59b09e",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Good Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

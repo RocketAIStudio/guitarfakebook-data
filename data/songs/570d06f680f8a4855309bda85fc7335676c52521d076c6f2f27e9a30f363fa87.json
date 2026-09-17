@@ -1,0 +1,77 @@
+{
+  "artist": "Bob Seger",
+  "artistNormalized": "bob seger",
+  "capo": "1",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]\n[F]  [C]\n[F]  [G]\n[F]  [C]\n[F]\n\n[Verse 1]\n[G]IwasalittletootallCould'veused afewpounds\n[F]  [C]\n[F]\n[G]\n[F]  [C]\n[F]\n\n[Verse 2]\n[G]\n[F]  [C]\n[F]\n[G]\n[F]  [C]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x3201x",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "xx3211",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3200xx",
+        "320033",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Night Moves",
+  "id": "570d06f680f8a4855309bda85fc7335676c52521d076c6f2f27e9a30f363fa87",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 2,
+  "normalizedKey": "bob seger|night moves",
+  "playableChords": [
+    "G",
+    "F",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gp4",
+    "sha256": "570d06f680f8a4855309bda85fc7335676c52521d076c6f2f27e9a30f363fa87",
+    "version": "FICHIER GUITAR PRO v4.06"
+  },
+  "tempo": 118,
+  "title": "Night Moves",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

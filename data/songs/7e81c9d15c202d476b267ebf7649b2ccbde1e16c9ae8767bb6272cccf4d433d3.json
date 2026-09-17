@@ -1,0 +1,111 @@
+{
+  "artist": "Benjamin Francis Leftwich",
+  "artistNormalized": "benjamin francis leftwich",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Cadd9]\n[G]\n[Em7]\n[D]\n[Cadd9]\n[G]\n[Em7]\n[D]\n\n[Verse 1]\n[Cadd9]If you crash a\n[G]car into\n[Em7]your\n[D]best friend's hou-\n[Cadd9]se Would you be qui-\n[G]et as\n[Em7]words came ou-\n[D]t of their mou-\n[Cadd9]th? \"Stop,\n[G]don't do it,\n[Em7]I have been\n[D]waiting for it\n[Cadd9]Stop,\n[G]I knew it would co-\n[Em7]me\"\n[D]\n\n[Verse 2]\n[Cadd9]If you find a\n[G]guard next to\n[Em7]your\n[D]girlfriend's be-\n[Cadd9]d Would it be ha-\n[G]rd to\n[Em7]sort out your\n[D]spinning head?\n[Cadd9]Stop,\n[G]don't say that, dea-\n[Em7]r, that you wa-\n[D]nted him here\n[Cadd9]Stop,\n[G]don't give him the clea-\n[Em7]r\n[D]\n\n[Chorus]\n[Asus4]Take a pi-\n[Cadd9]cture of the-\n[Em7]m\n[D]\n[Asus4]Take a pi-\n[Cadd9]cture of the-\n[Em7]m\n[D]\n\n[Post-Chorus]\n[Cadd9]\n[G]\n[Em7]\n[D]\n\n[Verse 3]\n[Cadd9]If you are afrai-\n[G]d, don't be\n[Em7]I have the\n[D]whole thing pla-\n[Cadd9]nned We'll start in the o-\n[G]cean, baby,\n[Em7]and when we\n[D]find the land\n[Cadd9]We will be\n[G]thankful to\n[Em7]\n[D]all of our frie-\n[Cadd9]nds That they didn't lea-\n[G]ve us\n[Em7]as we\n[D]got to the e-\n\n[Chorus]\n[Asus4]nd Take a pi-\n[Cadd9]cture of the-\n[Em7]m\n[D]\n[Asus4]Take a pi-\n[Cadd9]cture of the-\n[Em7]m\n[D]\n[Asus4]Take a pi-\n[Cadd9]cture of the-\n[Em7]m\n[D]\n[Asus4]Take a pi-\n[Cadd9]cture of the-\n[Em7]m\n[D]\n\n[Outro]\n[Cadd9]If you find your\n[G]faith in\n[Em7]your\n[D]parents' go-\n[Cadd9]d Don't be so\n[G]quick to\n[Em7]point out the\n[D]flaws in it\n[Cadd9]You've been arou-\n[G]nd and you've see-\n[Em7]n the\n[D]way that things wo-\n[Cadd9]rk But you need a co-\n[G]mpass to\n[Em7]get a-\n[D]round your hou-\n[G]se.",
+  "diagrams": {
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022033",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pictures",
+  "id": "7e81c9d15c202d476b267ebf7649b2ccbde1e16c9ae8767bb6272cccf4d433d3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 246,
+  "normalizedKey": "benjamin francis leftwich|pictures",
+  "playableChords": [
+    "Cadd9",
+    "G",
+    "Em7",
+    "D",
+    "Asus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7e81c9d15c202d476b267ebf7649b2ccbde1e16c9ae8767bb6272cccf4d433d3",
+    "version": "BCFZ"
+  },
+  "tempo": 142,
+  "title": "Pictures",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,130 @@
+{
+  "artist": "Black Label Society",
+  "artistNormalized": "black label society",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Em]  [C]\n[G]  [D]\n[Em]  [C]\n[G]  [D]\n[Em]  [C]\n[G]  [D]\n[Em]  [C]\n[G]\n[D]\n[Em]  [C]\n[G]  [D]\n[Em]  [C]\n[G]  [D]\n\n[Verse 1]\n[Em]I've been around [C]this world, yet I\n[G]see no end. [D]\n[Em]All shall fade [C]to black a-\n[G]gain and again. [D]\n[Em]This storm that's [C]broken me, my\n[G]only friend. [D]Yeah\n\n[Chorus]\n[G]In this river all shall\n[Cadd9]fade to black\n[G]In this river ain't no\n[Cadd9]coming back\n[G]In this river all shall\n[Am]fade to\n[Cadd9]black\nAin't no coming\n\n[Interlude]\n[Em]back [C]\n[G]  [D]\n[Em]  [C]\n[G]  [D]\n\n[Verse 2]\n[Em]Withdrawn a step [C]away, just to\n[G]find my self [D]\n[Em]The door is closed [C]again, the\n[G]only one left [D]\n[Em]This storm that's [C]broken me my\n[G]only friend [D]Yeah\n\n[Chorus]\n[G]In this river all shall\n[Cadd9]fade to black\n[G]In this river ain't no\n[Cadd9]coming back\n[G]In this river all shall\n[Am]fade to\n[Cadd9]black\n[G]In this river all shall\n[Cadd9]fade to black\n[G]In this river ain't no\n[Cadd9]coming back\n[G]In this river all shall\n[Am]fade to\n[Cadd9]black\nAin't no coming\n\n[Solo]\n[Em]back [C]\n[G]  [D]\n[Em]  [C]\n[G]  [D]\n[Em]  [C]\n[G]  [D]\n[Em]  [C]\n[G]  [D]\n\n[Chorus]\n[G]In this river all shall\n[Cadd9]fade to black\n[G]In this river ain't no\n[Cadd9]coming back\n[G]In this river all shall\n[Am]fade to\n[Cadd9]black\n\n[Outro]\n[G]In this river all shall\n[Cadd9]fade to black\n[G]In this river ain't no\n[Cadd9]coming back\n[G]In this river all shall\n[Am]fade to\n[Cadd9]black\nAin't no coming\n[G]back",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "In This River",
+  "id": "48794caaf36229f1937214fb998fe5c214067153e6103bc532bc74deb70827eb",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 215,
+  "normalizedKey": "black label society|in this river",
+  "playableChords": [
+    "Em",
+    "C",
+    "G",
+    "D",
+    "Cadd9",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Solo"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 71,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "48794caaf36229f1937214fb998fe5c214067153e6103bc532bc74deb70827eb",
+    "version": "BCFZ"
+  },
+  "tempo": 87,
+  "title": "In This River",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

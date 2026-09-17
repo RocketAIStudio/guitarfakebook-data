@@ -1,0 +1,130 @@
+{
+  "artist": "Billie Joe Armstrong",
+  "artistNormalized": "billie joe armstrong",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\n[E]\n[D]\n[A]\n\n[Verse 1]\n[A]\"Children, be-\n[C#m]have\"\n[F#m]That's what they say\n[E]when we're together\n[A]\"And watch how you\n[C#m]play\"\n[F#m]They don't understand\n[E]And so we're\n\n[Pre-Chorus]\n[C#m]running just as fast as we can\n[A]\n[C#m]Holding on to one another's\n[A]hand\n[G]Trying to get away\ninto the night And then you\n[E]put your arms around me And we\ntumble to the ground and then you\n\n[Chorus]\n[A]say I think we're alone\n[E]now There\n[D]doesn't seem to be any-\n[A]one around\nI think we're alone\n[E]now The\n[D]beating of our heart is the\n[A]only sound\n\n[Verse 2]\n[A]Look at the\n[C#m]way\n[F#m]We gotta hide\n[E]what we're doing\n[A]'Cause what would they\n[C#m]say\n[F#m]If they ever knew?\n[E]And so we're\n\n[Pre-Chorus]\n[C#m]running just as fast as we can\n[A]\n[C#m]Holding on to one another's\n[A]hand\n[G]Trying to get away\ninto the night And then you\n[E]put your arms around me And we\ntumble to the ground and then you\n\n[Chorus]\n[A]say I think we're alone\n[E]now There\n[D]doesn't seem to be any-\n[A]one around\nI think we're alone\n[E]now The\n[D]beating of our hearts is the\n[A]only sound\n\n[Outro]\n[A]I think we're alone\n[E]now There\n[D]doesn't seem to be any-\n[A]one around\nI think we're alone\n[E]now The\n[D]beating of our hearts is the\n[A]only sound\nI think we're alone\n[E]now There\n[D]doesn't seem to be any-\n[A]one around\nI think we're alone\n[E]now There\n[D]doesn't seem to be any-\n[A]one around",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Think We're Alone Now",
+  "id": "b21abb2751557d2b915f2b156bf5e0de93dcdc2819005749ca85dd17effd8aa2",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 289,
+  "normalizedKey": "billie joe armstrong|i think we re alone now",
+  "playableChords": [
+    "A",
+    "E",
+    "D",
+    "C#m",
+    "F#m",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b21abb2751557d2b915f2b156bf5e0de93dcdc2819005749ca85dd17effd8aa2",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "I Think We're Alone Now",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

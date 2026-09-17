@@ -1,0 +1,130 @@
+{
+  "artist": "Billie Eilish",
+  "artistNormalized": "billie eilish",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Emadd9]\n[C]\n[A]\n[B]\n[Emadd9]\n[C]\n[A]\n[B]\n\n[Verse 1]\n[Emadd9]I [C]should have known\n[A]  [Am]\n[Emadd9]I'd [C]leave alone\n[A]  [Am]\n[Emadd9]Just [C]goes to show\n[A][Am]That the blood\n[C]you bleed is just the blood you owe\n[B]\n\n[Verse 2]\n[Emadd9]We [C]were a pair\n[A]  [Am]\n[Emadd9]But I [C]saw you there\n[A]  [Am]\n[Emadd9]Too [C]much to bear\n[A][Am]You were my life,\n[C]but life is far away from fair\n[B]Was I\n\n[Pre-Chorus]\n[C]stupid to love you? Was I\n[Emadd9]reckless to help? Was it\n[Am]obvious to everybody else\n[B]That I'd\n\n[Chorus]\n[Emadd9]fallen for [C]a lie?\n[Am]You were\n[Emadd9]never on [C]my side\n[Am]Fool me once,\n[Emadd9]fool me twice [C]Are you death\n[Am]or paradise? Now you'll ne-\n[Emadd9]ver [C]see me cry\n[Am]There's just no time to die\n\n[Re-Intro]\n[Emadd9]\n[C]\n[A]\n[B]\n\n[Verse 3]\n[Emadd9]I [C]let it burn\n[A]  [Am]\n[Emadd9]You're no [C]longer my concern\n[A]  [Am]\n[Emadd9]Faces [C]from my past return\n[A][Am]Another les-\n[C]son yet to learn\n[B]That I'd\n\n[Chorus]\n[Emadd9]fallen for [C]a lie?\n[Am]You were\n[Emadd9]never on [C]my side\n[Am]Fool me once,\n[Emadd9]fool me twice [C]Are you death\n[Am]or paradise? Now you'll ne-\n[Emadd9]ver [C]see me cry\n[Am]There's just no time to die\n\n[Interlude]\n[Emadd9]\n[C]No time to die,\n[A]uh\n[B]No time to die,\n[Emadd9]\n[C/G]uh\n[A]\n[B]Fool me once,\n\n[Outro]\n[Emadd9]fool me twice [C]Are you death\n[Am]or paradise? Now you'll ne-\n[Emadd9]ver [C]see me cry\n[Am]There's just no time to die\n[Emadd9]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "Emadd9": {
+      "catalog": [
+        "024000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "No Time To Die",
+  "id": "c0d937d4f1d7f0927454ad94667b060a1a7fc1965979a47a86d5552be78779c5",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 214,
+  "normalizedKey": "billie eilish|no time to die",
+  "playableChords": [
+    "Emadd9",
+    "C",
+    "A",
+    "B",
+    "Am",
+    "C/G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Re-Intro"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Interlude"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c0d937d4f1d7f0927454ad94667b060a1a7fc1965979a47a86d5552be78779c5",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "No Time To Die",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

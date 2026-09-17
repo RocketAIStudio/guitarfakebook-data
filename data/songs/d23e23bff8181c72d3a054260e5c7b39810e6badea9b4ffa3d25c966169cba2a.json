@@ -1,0 +1,127 @@
+{
+  "artist": "Beach House",
+  "artistNormalized": "beach house",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n[C]  [Am]\n[C]  [Am]\n[C]  [Am]\n[C]  [Am]\n\n[Verse 1]\n[C]Tell her [Am]something\n[C]Tell her [Am]nothing\n[C]Tell her that [Am]you\n[Bb]waited [Dm]\n\n[Chorus]\n[C]  [Bb]\n[F]And I know you\n[C]like it [Bb]\n[F]So you try to\n[C]hide it [Bb]\n[F]\n\n[Verse 2]\n[C]I was [Am]looking\n[C]Out the [Am]window\n[C]All the [Am]people\n[Bb]waited [Dm]\n[C]Tell her [Am]something\n[C]Tell her [Am]nothing\n[C]Tell her that [Am]you\n[Bb]waited [Dm]\n\n[Chorus]\n[C]  [Bb]\n[F]And I know you\n[C]like it [Bb]\n[F]So you try to\n[C]hide it [Bb]\n[F]And you know I\n[C]like it [Bb]\n[F]So I dive to\n[C]find it [Bb]\n[F]\n\n[Interlude]\n[F]\n[Dm]\n[F]\n[Dm]\n\n[Verse 3]\n[F]Empires lost in con-\n[Dm]fusion\n[F]Golden hearts left of il-\n[Dm]lusion\n[F]You said my big imagi-\n[Dm]nation\n[F]Shattered, flickered cre-\n[Dm]ation\n\n[Guitar Solo]\n[F]\n[Dm]\n[F]\n[Dm]\n\n[Verse 4]\n[F]And hide over the\n[Dm]ocean\n[F]Waves crash in chemical\n[Dm]motion\n\n[Outro]\n[F]Left of il-\n[Dm]lusion\n[F]Left of il-\n[Dm]lusion\n[F]\n[Dm]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dive",
+  "id": "d23e23bff8181c72d3a054260e5c7b39810e6badea9b4ffa3d25c966169cba2a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 123,
+  "normalizedKey": "beach house|dive",
+  "playableChords": [
+    "C",
+    "Am",
+    "Bb",
+    "Dm",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Interlude"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 47,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 55,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d23e23bff8181c72d3a054260e5c7b39810e6badea9b4ffa3d25c966169cba2a",
+    "version": "BCFZ"
+  },
+  "tempo": 56,
+  "title": "Dive",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

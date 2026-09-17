@@ -1,0 +1,111 @@
+{
+  "artist": "Bill Withers",
+  "artistNormalized": "bill withers",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]  [F]\n[C]\n[G6]\n[G]\n[C]  [F]\n[C]\n[G]\n[C]\n\n[Verse 1]\n[C]Sometimes in our [F]lives\nWe all have [C]pain,\nwe all have [G6]sor-\n[G]row.\n[C]But if we are [F]wise,\nWe know that [C]there's\nalways [G]tomor-\n[C]row. Lean on me\n\n[Chorus]\n[C]when you're not [F]strong\nAnd I'll be your [C]friend,\nI'll help you [G6]car-\nry [G]on\n[C]For it won't be [F]long\n'Til I'm gonna [C]need\nsomebody to [G]lean\non. [C]\n[C]Please swallow your [F]pride\nIf I have [C]things\nyou need to [G6]bor\nrow [G]\n[C]For no one can [F]fil\nthose of your [C]needs\nThat you won't let [G]\nshow. [C]You just\n\n[Post-Chorus]\n[C]call on me, brother, when\nyou need a hand We all\nneed somebody to\nlean on. I just\nmight have a problem that\nyou'll understand, We all\nneed somebody [G]to\nlean [C]on. Lean on me\n\n[Chorus]\n[C]when you're not [F]strong\nAnd I'll be your [C]friend\nI'll help you [G6]car-\nry [G]on\n[C]For it won't be [F]long\n'Til I'm gonna [C]need\nsomebody to [G]lean\n[C]on You just\n\n[Post-Chorus]\n[C]call on me, brother, when\nyou need a hand We all\nneed somebody to\nlean on. I just\nmight have a problem that\nyou'll understand, We all\nneed somebody [G]to\nlean [C]on.\n\n[Verse 2]\n[C]If there is a [F]load\nYou have to [C]bear\nThat you can't [G6]\n[G]carry\n[C]I'm right up the [F]road\nI'll share your [C]load\nIf you just call [G]\nme. [C]\n\n[Outro]\n[Cadd9]Call [C]me if you need a friend\n[Cadd9][C]Call me, uhhuh\n[Cadd9][C]When you need a friend\n[Cadd9][C]If you ever need a\n[Cadd9]friend [C]Call me,\n[Cadd9][C]call me Call me, call\n[Cadd9]me [C]Call me, call me\n[Cadd9][C]Call me, call me\n[Cadd9][C]Call me\n[Cadd9][C]if you need a friend\n[Cadd9]Call [C]me, call me Call\n[Cadd9]me, [C]call me Call me,\n[Cadd9][C]call me Call me,\n[Cadd9]call [C]me",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32030"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320030"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lean On Me",
+  "id": "f6b0c4280bb46850f5f9476f7db027ecd0f79dd0ba9160e20fc554182093c6d3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 299,
+  "normalizedKey": "bill withers|lean on me",
+  "playableChords": [
+    "C",
+    "F",
+    "G6",
+    "G",
+    "Cadd9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f6b0c4280bb46850f5f9476f7db027ecd0f79dd0ba9160e20fc554182093c6d3",
+    "version": "BCFZ"
+  },
+  "tempo": 74,
+  "title": "Lean On Me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

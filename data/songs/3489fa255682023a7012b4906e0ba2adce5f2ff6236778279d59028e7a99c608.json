@@ -1,0 +1,125 @@
+{
+  "artist": "Biffy Clyro",
+  "artistNormalized": "biffy clyro",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[F5]\n[E5]\n[Cm]\n[E5]\n[C]\n\n[Chorus]\n[E5]\"Want it,\nfeel it\"\n[D5]is\nwhat you\n[Am]say.\n[C]\n[E5]Our turn,\nour turn.\n[D5]Fuck\nyou and all your\n[Am]games.\n[F5]\n\n[Pre-Verse]\n[E5]\n[C]\n\n[Verse 1]\n[E5]\nWho'd have ever thought,\n[D5]You would\nbeg for death,\n[C]\nTo take the pain?\n[Am]\n[E5]\nRecently corruption,\n[D5]\nIn your mind\n[C]will shut\nyou down.\n[Am]\n\n[Chorus]\n[E5]Want it,\nfeel it,\n[D5]\nTake what you\n[Am]gave.\n[C]\n[E5]My turn,\nmy turn,\n[D5]Wasn't\nborn to be your\n[Am]slave.\n[F5]\n\n[Interlude]\n[E5]\n[D5]\n[E5]\n[D5]\n[E5]\n[D5]\n[E5]\n[D5]\nTonight,\n\n[Bridge]\n[G5]\nWhen we ride,\n[E5]\nIt is\n[D5]such a\nrelief\n[C]to get\noutside.\n[G5]\nWhen we ride,\n[E5]\nIt is\n[D5]such a\nrelief\n[C]to get\noutside.\n[G5]\nWhen we ride,\n[E5]\nIt is\n[D5]such a\n[G5]\nWhen we ride,\n[E5]\nIt is\n[D5]such a\n\n[Outro]\n[E5]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "00023x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "22245x"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "33356x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "55578x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Solution Devices",
+  "id": "3489fa255682023a7012b4906e0ba2adce5f2ff6236778279d59028e7a99c608",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 106,
+  "normalizedKey": "biffy clyro|solution devices",
+  "playableChords": [
+    "F5",
+    "E5",
+    "Cm",
+    "C",
+    "D5",
+    "Am",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Interlude"
+    },
+    {
+      "measure": 93,
+      "name": "Bridge"
+    },
+    {
+      "measure": 122,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3489fa255682023a7012b4906e0ba2adce5f2ff6236778279d59028e7a99c608",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Solution Devices",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

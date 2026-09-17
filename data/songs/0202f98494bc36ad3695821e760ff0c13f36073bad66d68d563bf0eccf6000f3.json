@@ -1,0 +1,116 @@
+{
+  "artist": "Blink-182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\n[G]\n[Am]\n[F]\n[C]\n[G]\n[Am]\n[F]\n\n[Verse 1]\n[C]It's alright\n[G]to tell me\n[Am]what you think\n[F]about me\n[C]I won't try\n[G]to argue\n[Am]or hold it\n[F]against you\n[C]I know that\n[G]you're leaving\n[Am]you must have\n[F]your reasons\n[C]The season\n[G]is calling\n[Am]and your pictures\n[F]are falling\n\n[Bridge]\n[C]down\n[G]\n[Am]\n[F]\n[C]\n[G]\n[Am]\n[F]\n\n[Verse 2]\n[C]The steps that\n[G]I retrace\n[Am]the sad look\n[F]on your face\n[C]The timing\n[G]and structure\n[Am]did you hear\n[F]he fucked her?\n[C]A day late\n[G]a buck short\n[Am]I'm writing\n[F]the report\n[C]On losing\n[G]and failing\n[Am]when I move\n[F]I'm flailing\n\n[Chorus]\n[C]now And it's\nhappened once again\n[G]I'll turn\nto a friend\n[Am]Someone\nthat understands\n[F]Sees through\nthe master plan\n[C]But e-\nverybody's gone\n[G]And I've been\nhere for too long To\n[Am]face this\non my own Well I\n[F]guess this is grow-\ning up Well I\n\n[Bridge]\n[C]guess\n[G]\n[Am]this is grow-\n[F]ing up And may-\n[C]be\n[G]\n[Am]\n[F]\n\n[Verse 3]\n[C]I'll see you\n[G]at a movie\n[Am]sneak preview\n[F]You'll show up\n[C]and walk by\n[G]on the arm\n[Am]of that guy\n[F]And I'll smile\n[C]and you'll wave\n[G]we'll pretend\n[Am]it's okay\n[F]The charade\n[C]it won't last\n[G]when he's gone\n[Am]I won't come\n[F]back And it'll\n\n[Chorus]\n[C]happen once\nagain You'll turn to\n[G]a friend\nSomeone that\n[Am]under-\nstands And sees through the\n[F]master\nplan But every-\n[C]body's\ngone And you've been\n[G]there for too\nlong To face this on\n[Am]your own\nWell I guess this is\n[F]growing up Well,\nI guess this is\n\n[Interlude]\n[C]grow-\n[G]\n[Am]\n[F]\n[C]\n[G]\n[Am]\n[F]ing up Well,\nI guess this is\n\n[Outro]\n[C]grow-\n[G]\n[Am]ing up Well,\n[F]I guess this is\n[C]grow-\n[G]\n[Am]ing up Well,\n[F]I guess this is\n[C]grow-\n[G]\n[Am]ing up Well,\n[F]I guess this is\n[C]grow-\n[G]\n[Am]ing up\n[F]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dammit *alt",
+  "id": "0202f98494bc36ad3695821e760ff0c13f36073bad66d68d563bf0eccf6000f3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 298,
+  "normalizedKey": "blink 182|dammit",
+  "playableChords": [
+    "C",
+    "G",
+    "Am",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 97,
+      "name": "Chorus"
+    },
+    {
+      "measure": 113,
+      "name": "Interlude"
+    },
+    {
+      "measure": 129,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0202f98494bc36ad3695821e760ff0c13f36073bad66d68d563bf0eccf6000f3",
+    "version": "BCFZ"
+  },
+  "tempo": 220,
+  "title": "Dammit",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,127 @@
+{
+  "artist": "Beach House",
+  "artistNormalized": "beach house",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Eb]\n[Gm]\n[Eb]\n[Gm]\n[Ab]\n[Bb]\n[Eb]\n\n[Verse 1]\n[Eb]\nDrifting in and out,\nyou\nsee the road you're on\n[Gm]\n[Eb]It came\nrolling down your cheek,\nyou\nsay just what you mean\n[Gm]And\nin between\nit's\nnever as it\n\n[Chorus]\n[Ab]seems Help\nme to name it\n[Bb]Help\nme to name it\n[Eb]\n[Bb]\n\n[Verse 2]\n[Eb]If you\nbuilt yourself a myth,\nyou'd\nknow just what to\n[Gm]give\n[Eb]\nWhat comes after this,\nmomentary\n[Gm]bliss? The\nconsequence\nof\nwhat you do to me\n\n[Chorus]\n[Ab]Help\nme to name it\n[Bb]Help\nme to name it\n[Eb]\n[Bb]\n\n[Bridge]\n[Ab]Found your-\n[Bb]self in a\n[Eb]new di-\n[Cm]rection\n[Ab]Arrows\n[Bb]falling from the\n[Eb]sun\n[Ab]Canyon\n[Bb]calling, would they\n[Eb]come to\n[Cm]greet you?\n[Ab]Let you\n[Bb]know you're not the\n[Eb]only\n[Bb]one\n\n[Interlude]\n[Eb]\n\n[Verse 3]\n[Eb]\nCan't keep hangin' on\nto\nwhat is dead and\n[Gm]gone\n[Eb]If you\nbuilt yourself a myth,\nyou'd\nknow just what to\n[Gm]give Ma-\nterialize\nor\nlet the ashes\n\n[Chorus]\n[Ab]fly Help\nme to name it\n[Bb]Help\nme to name it\n[Eb]\n[Bb]\n\n[Outro]\n[Eb]\n[Gm]\n[Eb]\n[Gm]\n[Ab]\n[Bb]\n[Eb]\n[Bb]\n[Eb]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "466544",
+        "4-3-1-1-1-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Myth",
+  "id": "b71f37a2c53d6cacfeec969c3becfe7d536bf17d4a32d3e32ef6a9e8a1f11475",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 167,
+  "normalizedKey": "beach house|myth",
+  "playableChords": [
+    "Eb",
+    "Gm",
+    "Ab",
+    "Bb",
+    "Cm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Bridge"
+    },
+    {
+      "measure": 91,
+      "name": "Interlude"
+    },
+    {
+      "measure": 99,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 115,
+      "name": "Chorus"
+    },
+    {
+      "measure": 123,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b71f37a2c53d6cacfeec969c3becfe7d536bf17d4a32d3e32ef6a9e8a1f11475",
+    "version": "BCFZ"
+  },
+  "tempo": 142,
+  "title": "Myth",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

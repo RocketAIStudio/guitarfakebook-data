@@ -1,0 +1,136 @@
+{
+  "artist": "Billie Eilish",
+  "artistNormalized": "billie eilish",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Verse 1]\nWhat is it a-\n[A]bout them? I must be mis-\n[E]sing something They just keep doing\n[Bm]nothing Too intoxi-\n[Dm]cated to be scared Better off with-\n[A]out them They're nothing but un-\n[E]stable Bring ashtrays to the\n[Bm]table And that's about the\n[Dm]only thing they share I'm\n\n[Chorus]\n[F#m]in their second [Faug]hand smoke\n[A]Still just drinking [A(b5)/Eb]canned Coke\n[Bm]I don't need a Xanny to feel\nbetter On\n[F#m]designated [Faug]drives home\n[A]Only one who's [A(b5)/Eb]not stoned\n[Bm]Don't give me a Xanny, now or\never Wakin' up at\n\n[Verse 2]\n[A]sundown They're late to every\n[E]party Nobody's ever\n[Bm]sorry Too inebri-\n[Dm]ated now to dance Morning as they\n[A]come down Their pretty heads are\n[E]hurting They're awfully\n[Bm]bad at learning Make the same mis-\n[Dm]takes, blame circumstance I'm\n\n[Chorus]\n[F#m]in their second [Faug]hand smoke\n[A]Still just drinking [A(b5)/Eb]canned Coke\n[Bm]I don't need a Xanny to feel\nbetter On\n[F#m]designated [Faug]drives home\n[A]Only one who's [A(b5)/Eb]not stoned\n[Bm]Don't give me a Xanny, now or\n[E]ever [E7]\n\n[Interlude]\n[Bm]Please don't try to kiss me on the\n[E]sidewalk [E7]On your ci-\n[F#m]garette break [Faug]\n[A][A(b5)/Eb]I\n[Bm]can't afford to love someone\n[E]Who [E7]isn't dying\n[F#m]by mistake [Faug]in\n[A]Silver Lake [A(b5)/Eb]\n[Bm]\nWhat is it a-\n\n[Outro]\n[A]bout them? I must be missing\n[E]something They just keep doin'\n[Bm]nothing Too intoxi-\n[Dm]cated to be scared\n[A]\n[E]\n[Bm]\n[Dm]\n[A]Come down\n[E]Hurting\n[Bm]Learning\n[Dm]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A(b5)/Eb": {
+      "catalog": [
+        "x6764x"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "Faug": {
+      "catalog": [
+        "xx3221"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "xanny",
+  "id": "2de4f66b61b86d38935f923cdba1a001fc1d7b9b6a3ea183addd18ab488d9212",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 282,
+  "normalizedKey": "billie eilish|xanny",
+  "playableChords": [
+    "A",
+    "E",
+    "Bm",
+    "Dm",
+    "F#m",
+    "Faug",
+    "A(b5)/Eb",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Interlude"
+    },
+    {
+      "measure": 44,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2de4f66b61b86d38935f923cdba1a001fc1d7b9b6a3ea183addd18ab488d9212",
+    "version": "BCFZ"
+  },
+  "tempo": 55,
+  "title": "xanny",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

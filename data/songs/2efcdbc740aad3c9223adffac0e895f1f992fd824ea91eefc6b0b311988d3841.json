@@ -1,0 +1,144 @@
+{
+  "artist": "BECK",
+  "artistNormalized": "beck",
+  "capo": "No capo",
+  "chordPositionCount": 40,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[G]  [Bm]\n[E]\n[Am]  [C]\n[Eb]\n[Bb]\n[Dm]\n[G]\n\n[Verse 1]\n[G]There's [Bm]nothing left to hide;\n[E]\n[Am]You can [C]see it in my eyes.\n[Eb]Oh I've tried,\n[Bb]to\n[Dm]be who I thought you wan-\n[G]ted.\n[G]And [Bm]if it's all a lie,\n[E]\n[Am]The [C]truth's not far behind.\n[Eb]We could try\n[Bb]to\n[Dm]live right follow the mo-\n[G]ment.\n\n[Chorus]\n[Bm][G]Ramona!\n[E]\n[C][Am]Ramona...\n[Eb]Oh, oh.\n[Bb]Ramo-\n[Dm]na.\n[G]\n\n[Verse 2]\n[G]If [Bm]only I had known,\n[E]\n[Am]It's less [C]than what I felt,\n[Eb]Why should I\n[Bb]have no-\n[Dm]thing to fear\n[G]for?\n\n[Interlude]\n[Bm][G]Ramona...\n[E]\n[C][Am]Ramona...\n[Eb]Oh, oh.\n[Bb]Ramo-\n[Dm]\n[G]\nna.\n\n[Chorus]\n[Bm][G]Ramona!\n[E]Oh oh,\n[C][Am]Ramo-\n[Eb]na! Oh\n[Bb]my, Ramo-\n[Dm]na!\n[G]\n[Bm][G]Ramo-\n[E]na!\n[C][Am]Ramo-\n[Eb]na! Oh,\n[Bb]Ramo-\n[Dm]\n[G]na!",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x6534x",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "RAMONA",
+  "id": "2efcdbc740aad3c9223adffac0e895f1f992fd824ea91eefc6b0b311988d3841",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 113,
+  "normalizedKey": "beck|ramona",
+  "playableChords": [
+    "G",
+    "Bm",
+    "E",
+    "Am",
+    "C",
+    "Eb",
+    "Bb",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2efcdbc740aad3c9223adffac0e895f1f992fd824ea91eefc6b0b311988d3841",
+    "version": "BCFZ"
+  },
+  "tempo": 65,
+  "title": "RAMONA",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

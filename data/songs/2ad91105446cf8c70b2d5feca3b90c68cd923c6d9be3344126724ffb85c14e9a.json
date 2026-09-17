@@ -1,0 +1,109 @@
+{
+  "artist": "Bob Seger & The Silver Bullet Band",
+  "artistNormalized": "bob seger the silver bullet band",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[F#]  [C#]\n[F#]  [C#]\nJust take those old records\n\n[Verse 1]\n[F#]off the shelf\nI'll sit and listen to 'em\n[B]by myself\nToday's music ain't\n[C#]got the same soul\nI like that old time\n[F#]rock 'n' roll\nDon't try to take me to a\n[F#]disco\nYou'll never even get me\n[B]out on the floor\nIn ten minutes I'll be\n[C#]late for the door\nI like that old time\n[F#]rock 'n' roll\n[C#]Still like that old time\n\n[Chorus]\n[F#]rock 'n' roll\nThat kind of music just\n[B]soothes my soul\nI reminisce about the\n[C#]days of old\nWith that old time\n[F#]rock 'n' roll\n[C#]\n\n[Solo 1 (Guitar)]\n[F#]\n[B]\n[C#]\n[F#]\n[C#]Won't go to hear 'em play a\n\n[Verse 2]\n[F#]tango\nI'd rather hear some blues or\n[B]funky old soul\nThere's only one sure way to\n[C#]get me to go\nStart playing old time\n[F#]rock 'n' roll\nCall me a relic, call me\n[F#]what you will\nSay I'm old fashioned, say I'm\n[B]over the hill\nToday's music ain't\n[C#]got the same soul\nI like that old time\n[F#]rock 'n' roll\n[C#]Still like that old time\n\n[Chorus]\n[F#]rock 'n' roll\nThat kind of music just\n[B]soothes the soul\nI reminisce about the\n[C#]days of old\nWith that old time\n[F#]rock 'n' roll\n[C#]\n\n[Solo 2 (Sax)]\n[F#]\n[B]\n[C#]\n[F#]\n[C#]Still like that old time\n\n[Chorus]\n[F#]rock 'n' roll\nThat kind of music just\n[B]soothes my soul\nI reminisce about the\n[C#]days of old\nWith that old time\n[F#]rock 'n' roll\n[C#]Still like that old time\n\n[Break]\n[F#]rock 'n' roll\nThat kind of music just\n[B]soothes my soul\nI reminisce about the\n[C#]days of old\nWith that old time\n[F#]rock 'n' roll\n[C#]Still like that old time\n\n[Chorus]\n[F#]rock 'n' roll\nThat kind of music just\n[B]soothes my soul\nI reminisce about the\n[C#]days of old\nWith that old time\n[F#]rock 'n' roll\n[C#]Still like that old time\n\n[Outro (Fade Out)]\n[F#]rock 'n' roll\n[B]\n[C#]\n[F#]\n[C#]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Old Time Rock & Roll",
+  "id": "2ad91105446cf8c70b2d5feca3b90c68cd923c6d9be3344126724ffb85c14e9a",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 344,
+  "normalizedKey": "bob seger the silver bullet band|old time rock roll",
+  "playableChords": [
+    "F#",
+    "C#",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Solo 1 (Guitar)"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Solo 2 (Sax)"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Break"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    },
+    {
+      "measure": 93,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2ad91105446cf8c70b2d5feca3b90c68cd923c6d9be3344126724ffb85c14e9a",
+    "version": "BCFZ"
+  },
+  "tempo": 124,
+  "title": "Old Time Rock & Roll",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

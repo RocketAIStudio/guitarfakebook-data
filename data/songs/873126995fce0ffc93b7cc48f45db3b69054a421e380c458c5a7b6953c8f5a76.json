@@ -1,0 +1,100 @@
+{
+  "artist": "Ben Howard",
+  "artistNormalized": "ben howard",
+  "capo": "2",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Fade In]\n[Fadd9]\n[C]\n[Fadd9]\n[C]\n\n[Intro]\n[Fadd9]\n[C]\n[Fadd9]\n[C]\nAnd\n\n[Verse 1]\n[Fadd9]meet\nme there\n[C]Bundles of flowers We'll\nwade through the hours of\n[Fadd9]cold\nWin-\n[C]ter, she'll howl at the walls\nTearing down doors of\n[Fadd9]time\nShel-\n[C]ter\nas we go\n[Fadd9]\n[C]\n[Fadd9]\n[C]\nAnd\n\n[Verse 2]\n[Fadd9]pro-\nmise me\n[C]this You'll\nwait for me only Scared of the lonely\n[Fadd9]arms\nSur-\n[C]face,\nfar below these\n[Fadd9]burns\n[C]\n[Fadd9]\n[C]\n[Fadd9]\nAnd may-\n\n[Chorus]\n[G7add11/B]be,\njust maybe,\nI'll come home\n[C]\n[Am7]\n[C]\n[Am7]\n\n[Break]\n[C]\n[Am7]\n\n[Bridge]\n[C]Oh, who am I, darling to\nyou? Who am I? Will tell you sto-\n[Am7]ries of mine\nWho am I?\n[C]Oh, who am I, darling for\nyou? Who am I? Will be a bur-\n[Am7]den in time, lone-\nly Who am I to you?\n[C]And who am I, darling for\nyou? Who am I? Will be a bur-\n[Am7]den And who am I, darling to\nyou? Who am I? I come alone\n[C]here\nI come alone\n[Am7]here\n\n[Outro]\n[C]\n[Am7]\n[C]\n[Am7]\n[C]\n[Am7]\n[C]\n[Am7]\n[C]\n[Am7]\n[C]\n[Am7]\n[C]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "9-11-8-12-x-8",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "10-11-10-12-x-10",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Fadd9": {
+      "catalog": [
+        "9-8-8-12-8-8"
+      ],
+      "catalogCount": 1
+    },
+    "G7add11/B": {
+      "catalog": [
+        "11-9-8-12-8-8"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Promise",
+  "id": "873126995fce0ffc93b7cc48f45db3b69054a421e380c458c5a7b6953c8f5a76",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 151,
+  "normalizedKey": "ben howard|promise",
+  "playableChords": [
+    "Fadd9",
+    "C",
+    "G7add11/B",
+    "Am7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Fade In"
+    },
+    {
+      "measure": 9,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Break"
+    },
+    {
+      "measure": 70,
+      "name": "Bridge"
+    },
+    {
+      "measure": 86,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "873126995fce0ffc93b7cc48f45db3b69054a421e380c458c5a7b6953c8f5a76",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "Promise",
+  "tuning": "C F C G F C",
+  "variantRole": "primary"
+}

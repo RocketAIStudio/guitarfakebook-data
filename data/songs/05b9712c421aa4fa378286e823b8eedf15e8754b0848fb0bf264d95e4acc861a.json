@@ -1,0 +1,106 @@
+{
+  "artist": "Bad Religion",
+  "artistNormalized": "bad religion",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\nDe-\nlirium of Di-\nsorder De-\nlirium of Diso-\nrder\nHey\n[G5]\n[G5]  [F5]  [E5]\n[G5]\n[G5]  [F5]  [E5]\n\n[Verse 1]\n[Am]Life is the sieve through which my\nanarchy strains Re-\n[F]solving itself into\n[Am]works\n[Am]Chaos is the score upon which re-\nality is written The\n[F]timeless, swirling gyroscopic\n[Am]horde\n\n[Chorus]\n[G5]\nDe-\nlirium\n[G5][F5][E5]De-\n[G5]lirium\nof dis-\n[G5][F5][E5]order\n\n[Bridge]\n[A5]\nYeah!\n\n[Verse 2]\n[Am]I am just an atom in an\nectoplasmic sea Without di-\n[F]rection or a reason to e-\n[Am]xist The\n[Am]anechoic nebula ro-\ntating in my brain Is per-\n[F]suading me, contritely, to per-\n[Am]sist Let's go!\n\n[Chorus]\n[G5]\nDe-\nlirium of dis-\norder De-\nlirium of dis-\n[G5]order [F5][E5]De-\n[G5]lirium of dis-\norder\nDelirium of dis-\n[G5]order [F5][E5]De-\n[G5]lirium of dis-\norder De-\nlirium of dis-\n[G5][F5][E5]order De-\n[G5]lirium of dis-\norder De-\nlirium of dis-\n[G5]order [F5][E5]\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Delirium of Disorder",
+  "id": "05b9712c421aa4fa378286e823b8eedf15e8754b0848fb0bf264d95e4acc861a",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 181,
+  "normalizedKey": "bad religion|delirium of disorder",
+  "playableChords": [
+    "G5",
+    "F5",
+    "E5",
+    "Am",
+    "F",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "05b9712c421aa4fa378286e823b8eedf15e8754b0848fb0bf264d95e4acc861a",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Delirium of Disorder",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

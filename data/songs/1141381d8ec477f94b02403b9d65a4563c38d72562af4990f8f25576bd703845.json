@@ -1,0 +1,120 @@
+{
+  "artist": "Attack Attack!",
+  "artistNormalized": "attack attack",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[C#5]Oh the\nblood, oh the blood, of the\nmassacre\n[C#madd9]\n[C#5]Oh the\nblood, oh the blood, of the\nmassa-\n[C#madd9]cre\n\n[Verse 1]\n[A5]Your\nlove will run and\n[B5]hide And\nleave me on my\n[C#5]own [C#sus2]\n[C#m]\n[C#5]  [C#sus2]\n[C#m]\n[A5]The\ntrue\n[B5]ones\nwill\n[C#5]fall [C#sus2]So\nhard baby [C#m]\n[C#5][C#sus2]That's\nwhy this hurts [C#m]\n\n[Breakdown]\n[C#5]\n[G5]Lies\n[C#5]\n[G5]Why this hurts\n[C#5]\n[G5]Why they\n[C#5]\n[G5]lies\n[C#5]\n[C#5]\n\n[Chorus]\n[C#5]I always thought\nthat you would [B5]be\nthe [F#5]one\n[C#5]\nBut baby just\ngive me a [B5]chance\n[F#5]\n[C#5]\nI always thought\nthat you would [B5]be\nthe [F#5]one\n[C#5]\nBut baby just\ngive me a [B5]chance\n[F#5]\n\n[Verse 2]\n[C#5]This is the last chance you\nget what you want, And I'll\nnever be the one to\n[C#madd9]turn on you,\n[C#5]And I get what I\nwant, and I said, I'll\ndo anything, any-\n[C#madd9]thing for you\n[C#5]I've torn a-\npart this possi-\nbility From\n[C#madd9]one night stands\n[C#5]You give it a-\nway for just one\nnight I give you\n[C#madd9]all I had\n[C#5]\n\n[Chorus]\n[C#5]I always thought\nthat you would [B5]be\nthe [F#5]one\n[C#5]\nBut baby just\ngive me a [B5]chance\n[F#5]\n[C#5]\nI always thought\nthat you would [B5]be\nthe [F#5]one\n[C#5]\nBut baby just\ngive me a [B5]chance\n[F#5]\n\n[Outro]\n[C#5]\n[C#5]Oh the\nblood, oh the blood, of the\nmassacre\n[C#madd9]\n[C#5]Oh the\nblood, oh the blood, of the\nmassa-\n[C#madd9]cre\n[C#5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "888xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "10-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "003231",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "C#madd9": {
+      "catalog": [
+        "003230"
+      ],
+      "catalogCount": 1
+    },
+    "C#sus2": {
+      "catalog": [
+        "002230"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "666xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The People's Elbow",
+  "id": "1141381d8ec477f94b02403b9d65a4563c38d72562af4990f8f25576bd703845",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 217,
+  "normalizedKey": "attack attack|the people s elbow",
+  "playableChords": [
+    "C#5",
+    "C#madd9",
+    "A5",
+    "B5",
+    "C#sus2",
+    "C#m",
+    "G5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Breakdown"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 71,
+      "name": "Chorus"
+    },
+    {
+      "measure": 87,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1141381d8ec477f94b02403b9d65a4563c38d72562af4990f8f25576bd703845",
+    "version": "BCFZ"
+  },
+  "tempo": 146,
+  "title": "The People's Elbow",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "primary"
+}

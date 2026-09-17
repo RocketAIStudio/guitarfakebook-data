@@ -1,0 +1,96 @@
+{
+  "artist": "Beth Ditto",
+  "artistNormalized": "beth ditto",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[B]\n[F#]\n[B]\n[F#]\n\n[Verse1]\n[B]I'm alive [F#]And I\n[A]see things mighty clear [E]today I'm alive\n[B]  [F#]\n[A]  [E]\n[B]I'm alive [F#]And I\n[A]breathe a clean, fresh air [E]today I'm alive\n[B]  [F#]\n[A]  [E]\n[B]I'm alive [F#]Who\n[A]cares if my hair is a little [E]bit long I'm alive\n[B]  [F#]\n[A]  [E]\n[B]I'm alive [F#]And\n[A]I'm doing my thing and singing [E]my song I'm alive\n[B]  [F#]\n[A]  [E]\n\n[Bridge]\n[B]\n[E]\n[F#]\n\n[Verse 2]\n[B]I'm real [F#]I can\n[A]see, and touch, and taste, [E]and feel I'm alive\n[B]  [F#]\n[A]  [E]\n[B]I'm real [F#]I can\n[A]see, and touch, and taste, [E]and feel I'm alive\n[B]  [F#]\n[A]  [E]\n[B]I'm real [F#]I can\n[A]see, and touch, and taste, [E]and feel I'm alive\n[B]  [F#]\n[A]  [E]\n[B]\n\n[Solo]\n[B]  [F#]\n[A]  [E]\n[B]  [F#]\n[A]  [E]\n[B]  [F#]\n[A]  [E]\n[B]  [F#]\n[A]  [E]\n[B]  [F#]\n[A]  [E]\n[B]  [F#]\n[A]  [E]\n[B]  [F#]\n[A]  [E]\n[B]  [F#]\n[A]  [E]\n[B]  [F#]\n[A]  [E]\n[B]  [F#]\n[A]  [E]\n[B]  [F#]\n[A]  [E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I'm Alive",
+  "id": "b4f6301a710505ca30731422c976a5ca3c4fdd3916566fa31ab5f4409abe0c90",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 106,
+  "normalizedKey": "beth ditto|i m alive",
+  "playableChords": [
+    "B",
+    "F#",
+    "A",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse1"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b4f6301a710505ca30731422c976a5ca3c4fdd3916566fa31ab5f4409abe0c90",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "I'm Alive",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

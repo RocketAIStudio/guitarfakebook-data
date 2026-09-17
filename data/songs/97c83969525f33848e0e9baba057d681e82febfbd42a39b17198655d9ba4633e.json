@@ -1,0 +1,119 @@
+{
+  "artist": "Bee Gees",
+  "artistNormalized": "bee gees",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]Feel I'm goin' back\n[Am]to [C]Massa-\n[G]chusetts,\nSomething's telling me\n[Am]I [C]must go\n[G]home.\nAnd the\n\n[Chorus]\n[G]lights all went\nout in Mas sa-\n[C]chusetts\nThe day I\n[G]left her\n[D]standing on her\n[G]own.\n[D7]\n\n[Verse 2]\n[G]Tried to hitch a ride\n[Am]to [C]San Fran-\n[G]cisco,\nGotta do the things\n[Am]I [C]wanna\n[G]do.\nAnd the\n\n[Chorus]\n[G]lights all went\nout in Mas sa-\n[C]chusetts\nThey brought me\n[G]back to\n[D]see my way with\n[G]you.\n[D7]\n\n[Verse 3]\n[G]Talk about the life\n[Am]in [C]Massa-\n[G]chusetts,\nSpeak about the peo\n[Am]ple [C]I have\n[G]seen,\nAnd the\n\n[Chorus]\n[G]lights all went\nout in Mas sa-\n[C]chusetts\nAnd Massa-\n[G]chusetts is\n[D]one place I have\n\n[Outro]\n[G]seen.\n[Am]  [C]\n[G]I will re-\n[Am]member [C]Massa-\n[G]chusetts...\n[Am]  [C]\n[G]I will re-\n[Am]member [C]Massa-\n[G]chusetts...\n[Am]  [C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Massachusetts",
+  "id": "97c83969525f33848e0e9baba057d681e82febfbd42a39b17198655d9ba4633e",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 145,
+  "normalizedKey": "bee gees|massachusetts",
+  "playableChords": [
+    "G",
+    "Am",
+    "C",
+    "D",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "97c83969525f33848e0e9baba057d681e82febfbd42a39b17198655d9ba4633e",
+    "version": "BCFZ"
+  },
+  "tempo": 102,
+  "title": "Massachusetts",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

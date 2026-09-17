@@ -1,0 +1,141 @@
+{
+  "artist": "Bob Dylan",
+  "artistNormalized": "bob dylan",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C]  [F]\n[C][G]Well I\n\n[Verse 1]\n[C]don't know why I [F]love you like I do\n[C][A7]Nobo-\n[D7]dy in the world can [G]get along with\n[C]you. You got the\n[C]ways of a devil slee [F]ping in a lion's den\n[C][A7]I come\n[D7]home last night you [G]wouldn't even let me\n[C]in. Well\n\n[Pre-Chorus]\n[E]sometimes you're as swe et as any-\n[F]body want to be When\n[D7]you get a crazy no tion of jum\n[G]pin' all over me Well you\n\n[Chorus]\n[C]give me the blues I [F]guess you're satisfied\n[C][A7]An' you\n[D7]give me the blues I [G]wanna lay down and die.\n[C]\n\n[Solo]\n[G]  [C]\n[G]  [E]\n[A7]  [D7]\n[G]\n[B7]\n[C]\n[A7]\n[D7]\n[G]  [C]\n[G]  [E]\n[A7]  [D7]\n[G]I\n\n[Verse 2]\n[C]helped you when you [F]had no shoes on your fe-\n[C]et, pretty [A7]mama I\n[D7]helped you when you [G]had no food to\n[C]eat. You're\n[C]the kind of woman I [F]just don't under-\n[C]stand [A7]You're takin'\n[D7]all my money and [G]give it to another man.\n[C]Well\n\n[Pre-Chorus]\n[E]you're the kinda woman makes a\n[F]man lose his brain You're\n[D7]the kinda wo man drives\n[G]a man insane Well you\n\n[Chorus]\n[C]give me the blues I [F]guess you're satisfied\n[C][A7]An' you\n[D7]give me the blues I [G]wanna lay down and die.\n[C][A7]Well you\n[D7]give me the blues, I [G]wanna lay down and\n[C]die",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "13321x",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "She's No Good",
+  "id": "7e182dec634316bdc80ef9967140ce817c9ea59555bdecef5886f8799f8d0ce3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 225,
+  "normalizedKey": "bob dylan|she s no good",
+  "playableChords": [
+    "C",
+    "F",
+    "G",
+    "A7",
+    "D7",
+    "E",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Solo"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7e182dec634316bdc80ef9967140ce817c9ea59555bdecef5886f8799f8d0ce3",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "She's No Good",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,130 @@
+{
+  "artist": "Beatles",
+  "artistNormalized": "beatles",
+  "capo": "3",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Em]  [G]\n[Em]  [D]\n[A]It's been a\n\n[Verse 1]\n[G]long [Gbm]long\n[Em]long [D]time\n[G]  [D]\n[A]How could I ever have\n[Em]lost you\n\n[Bridge]\n[D]  [A]\n[Em]When I\n[D]loved [A]you\nIt took a\n\n[Verse 2]\n[G]long [Gbm]long\n[Em]long [D]time\n[G]  [D]\n[A]Now I'm so happy I\n[Em]found you\n\n[Bridge]\n[D]  [A]\n[Em]How I\n[D]love [A]you\n[A7]\n\n[Chorus]\n[G]So many tears [D]I was\n[A]search ing, [Em]\n[G]So many [D]tears I was\n[Em][A]wasting,\n[G]oh [A]\nNow I can\n\n[Verse 2]\n[G]see [Gbm]you,\n[Em]be [D]you\n[G]  [D]\n[A]How can I ever mis-\n[Em]place you\n[D]  [A]\n[Em]How I\n[D]want [A]you\n[Em]Oh I\n[D]love [A]you\n[Em]You know that I\n[D]need you [A]\n[Em]Oh I\n[D]love [A]you\n\n[Outro]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gbm": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Long Long Long",
+  "id": "e544b3ea96f8a84579703abf39106287d9b221ea52d5f6361e3e72fdb2557379",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 89,
+  "normalizedKey": "beatles|long long long",
+  "playableChords": [
+    "Em",
+    "G",
+    "D",
+    "A",
+    "Gbm",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Bridge"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e544b3ea96f8a84579703abf39106287d9b221ea52d5f6361e3e72fdb2557379",
+    "version": "BCFZ"
+  },
+  "tempo": 52,
+  "title": "Long Long Long",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

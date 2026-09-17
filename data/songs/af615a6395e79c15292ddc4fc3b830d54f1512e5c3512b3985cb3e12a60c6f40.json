@@ -1,0 +1,128 @@
+{
+  "artist": "Black Sabbath",
+  "artistNormalized": "black sabbath",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Em]\n\n[Verse 1]\n[Em]Finished with my wo-\nman 'cause she\n[D]Couldn't help me\n[G]with [D]my [Em]mind\nPeople think I'm in-\nsane because\n[D]I am frowning\n[G]all [D]the [Em]time\n\n[Break]\n[Em]\n[C]  [D]\n[Em]\n[Em]\n[C]  [D]\n[Em]\n\n[Verse 2]\n[Em]All day long I think\nof things but\n[D]Nothing seems to\n[Em][D][G]satisfy\nThink I'll lose my mind\nif I don't\n[D]Find something to\n[Em][D][G]pacify\n\n[Bridge]\n[Em]\nCan you help me\n[D]\noccupy my brain?\n[Em]\nOh\n[D]yeah\n\n[Main Riff]\n[Em]\n[D]\n[G]  [D]  [Em]\n[Em]\n[D]\n[G]  [D]  [Em]\n\n[Verse 3]\n[Em]I need someone to\nshow me the\n[D]Things in life that\n[G]I [D]can't [Em]find\nI can't see the things\nthat make true\n[D]Happiness, I\n[G]must [D]be [Em]blind\n\n[Guitar Solo]\n[Em]\n[D]\n[G]  [D]  [Em]\n[Em]\n[D]\n[G]  [D]  [Em]\n[Em]\n[D]\n[G]  [D]  [Em]\n[Em]\n[D]\n[G]  [D]  [Em]\n\n[Main Riff]\n[Em]\n[D]\n[G]  [D]  [Em]\n[Em]\n[D]\n[G]  [D]  [Em]\n\n[Verse 4]\n[Em]Make a joke and I\nwill sigh and\n[D]You will laugh and\n[G]I [D]will [Em]cry\nHappiness I can-\nnot feel and\n[D]Love to me is\n[G]so [Em][D]unreal\n\n[Break]\n[Em]\n[C]  [D]\n[Em]\n[Em]\n[C]  [D]\n[Em]\n\n[Verse 5]\n[Em]And so as you hear\nthese words Tell-\n[D]ing you now\n[G]of [D]my [Em]state\nI tell you to en-\njoy life I\n[D]Wish I could but\n[G]it's [D]too [Em]late\n\n[Outro]\n[Em]\n[D]\n[G]  [D]  [Em]\n[Em]\n[D]\n[G]  [D]  [Em]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "02200x",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Paranoid *alt 3",
+  "id": "af615a6395e79c15292ddc4fc3b830d54f1512e5c3512b3985cb3e12a60c6f40",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 160,
+  "normalizedKey": "black sabbath|paranoid",
+  "playableChords": [
+    "Em",
+    "D",
+    "G",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Break"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Main Riff"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 73,
+      "name": "Main Riff"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 89,
+      "name": "Break"
+    },
+    {
+      "measure": 97,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 105,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "af615a6395e79c15292ddc4fc3b830d54f1512e5c3512b3985cb3e12a60c6f40",
+    "version": "BCFZ"
+  },
+  "tempo": 164,
+  "title": "Paranoid",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

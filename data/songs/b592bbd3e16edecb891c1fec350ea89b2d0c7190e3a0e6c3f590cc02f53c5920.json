@@ -1,0 +1,112 @@
+{
+  "artist": "Bloc Party",
+  "artistNormalized": "bloc party",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n[F#m]\n[A]\n[F#m]\n[A]\n[F#m]\n[A]\n[F#m]\n\n[Verse 1]\n[A]Promise youll say\n[F#m]if it gets\n[A]Promise youll say\n[F#m]if it gets too much\n[A]Dont be so scared\n[F#m]of corners\n[A]Dont be so tir\n[F#m]ed of this\n[A]life\n[F#m]Of this\n[A]life\n[F#m]Of this\n[A]life\n[F#m]Of this\n[A]life\n[F#m]\n\n[Chorus]\n[A]\n[F#m]You drink to laugh\n[A]\n[F#m]You drink to cry\n[A]\n[F#m]You wear me in\n[A]\n[F#m]You wear me\n\n[Verse 2]\n[A]You really suf\n[F#m]fer for it\n[A]You really suf\n[F#m]fer for your art\n[A]Dont be a mar\n[F#m]tyr for it\n[A]Dont be a mar\n[F#m]tyr for the\n[A]Cause your eyes\n[F#m]tell it\n[A]Oh your eyes\n[F#m]tell it\n[A]Oh your eyes\n[F#m]tell it\n[A]Oh your eyes\n[F#m]tell the\n\n[Chorus]\n[A]truth\n[F#m]You drink to laugh\n[A]\n[F#m]You drink to cry\n[A]\n[F#m]You wear me in\n[A]\n[F#m]Your wear me\n\n[Interlude]\n[F#m]\n[E]\n[D]\n[F#m]\n[E]\n[D]\n[F#m]Youre not always\n[E]Youre not always r\n[D]ight\n[F#m]Youre not always\n[E]Youre not always r\n[D]ight\nYoure not always\n\n[Bridge]\n[A]right\n[F#m]\n[A]\n[F#m]A\n[A]new fight for our\n[F#m]last rite A\n[A]new fight for our\n[F#m]last rite\n[A]You can fight a\n[F#m]new fight\n[A]You can fight its\n[F#m]all Youre the life of the par\n[A]ty\n[F#m]Youre the life of the par\n[A]ty\n[F#m]Your the life of the par\n[A]ty\n[F#m]You make my\n[A]world spin round\n[F#m]\n\n[Interlude]\n[F#m]Youre not always\n[E]Youre not always r\n[D]ight\n[F#m]Youre not always\n[E]Youre not always r\n[D]ight\n[F#m]Youre not always\n[E]Youre not always r\n[D]ight\n[F#m]Youre not always\n[E]Youre not always r\n[D]ight\nYoure not always\n\n[Outro]\n[A]right\n[F#m]\n[A]\n[F#m]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Storm And Stress",
+  "id": "b592bbd3e16edecb891c1fec350ea89b2d0c7190e3a0e6c3f590cc02f53c5920",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 256,
+  "normalizedKey": "bloc party|storm and stress",
+  "playableChords": [
+    "A",
+    "F#m",
+    "E",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Interlude"
+    },
+    {
+      "measure": 70,
+      "name": "Bridge"
+    },
+    {
+      "measure": 90,
+      "name": "Interlude"
+    },
+    {
+      "measure": 103,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b592bbd3e16edecb891c1fec350ea89b2d0c7190e3a0e6c3f590cc02f53c5920",
+    "version": "BCFZ"
+  },
+  "tempo": 169,
+  "title": "Storm And Stress",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

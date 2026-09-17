@@ -1,0 +1,141 @@
+{
+  "artist": "Beach Fossils",
+  "artistNormalized": "beach fossils",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[D/F#]\n[Gsus2]\n[Esus2]\n[Gsus2]\n\n[Bridge]\n\n[Verse 1]\n[D]It's\nso\n[D][Em7/B]ha-\nzy\nWhat you're\nbrea thing\nWhere\nyou\ngo ing\nYou're still\ndrea ming\n\n[Bridge]\n\n[Verse 2]\nIf\nthey\nfall\ndown\nWhat will\nyou say\nBut\nyou\ndon't care\nThese are\nyour days\n\n[Interlude]\n[D]\n[Em7/B]\n[D]\n[Em7/B]\n[D]\n[Em7/B]\n[D]\n[Em7/B]\n\n[Outro]\n[Em/G]  [D5/A]\n[B5]  [F#m/A]\n[Em/G]  [F#aug]\n[A5/E]  [D5/A]",
+  "diagrams": {
+    "A5/E": {
+      "catalog": [
+        "202xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "999xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "x-9-12-11-10-x"
+      ],
+      "catalogCount": 1
+    },
+    "D5/A": {
+      "catalog": [
+        "757xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Em/G": {
+      "catalog": [
+        "5759xx"
+      ],
+      "catalogCount": 1
+    },
+    "Em7/B": {
+      "catalog": [
+        "x20000"
+      ],
+      "catalogCount": 1
+    },
+    "Esus2": {
+      "catalog": [
+        "2244xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#aug": {
+      "catalog": [
+        "4543xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#m/A": {
+      "catalog": [
+        "7-9-7-11-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Gsus2": {
+      "catalog": [
+        "5577xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Birthday",
+  "id": "de13c64798922c6f65ee84d01f4ecb6861bbaf2ea01eaa90ff0051b266e88885",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 35,
+  "normalizedKey": "beach fossils|birthday",
+  "playableChords": [
+    "D/F#",
+    "Gsus2",
+    "Esus2",
+    "D",
+    "Em7/B",
+    "Em/G",
+    "D5/A",
+    "B5",
+    "F#m/A",
+    "F#aug",
+    "A5/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 73,
+      "name": "Interlude"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "de13c64798922c6f65ee84d01f4ecb6861bbaf2ea01eaa90ff0051b266e88885",
+    "version": "BCFZ"
+  },
+  "tempo": 166,
+  "title": "Birthday",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

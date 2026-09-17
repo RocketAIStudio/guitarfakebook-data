@@ -1,0 +1,131 @@
+{
+  "artist": "Bad Company",
+  "artistNormalized": "bad company",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\nYeah!\nYeah!\n\n[Verse 1]\n[Em]Here come the jesters\n[C]One two three [D]\n[Em]It's all part of my\n[C]fantasy [D]\n[Em]I love the music And I love\n[C]to see the [D]crowd\n[Em]Danc ing in the aisles\nAnd singing out loud\n\n[Interlude]\n[Em]Yeah!\nYeah!\n\n[Verse 2]\n[Em]Here come the dancers\n[C]One by one [D]\n[Em]Your mom is calling But you're\n[C]having fun. [D]\n[Em]You find your dancing On the num-\n[C]ber nine [D]cloud.\n[Em]Put your hands to get her now And\nSing it out loud.\n\n[Chorus]\n[C]It's all [A]part\n[G]of my [D]rock and roll\n[A]fantasy,\nyeah\n[C]It's all [A]part\n[G]of my [D]rock and roll\n[A]dream, yeah\n\n[Interlude]\n[Em]\nYeah,\naah\n\n[Chorus]\n[C]It's all [A]part\n[G]of my [D]rock and roll\n[A]fantasy.\n[C]It's all [A]part\n[G]of my [D]rock and roll\n[A]dream,\n\n[Interlude]\n[Em]yeah\n\n[Verse 3]\n[Em]Put out the spot lights\n[C]One and all [D]\n[Em]And let the feel ing Get down\n[C]to your soul. [D]\n[Em]The music's so loud\n[C]You can hear the sound [D]\n[Em]Reaching for the sky\nChurning up the ground.\n\n[Chorus]\n[C]It's all [A]part\n[G]of my [D]rock and roll\n[A]fantasy\n[C]It's all [A]part\n[G]of my [D]rock and roll\n[A]dream,\noh, yeah\n[C]It's all [A]part\n[G]of my [D]rock and roll\n[A]fantasy.\n[C]It's all [A]part\n[G]of my [D]rock and roll\n[A]dream\nYeah!\n\n[Outro]\n[A]\nFanta sy. Yeah! Yeah!\nYeah!\nYeah!\nFanta sy. Yeah! Yeah!\nYeah!\nYeah!",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rock And Roll Fantasy",
+  "id": "b8b2b4e7d612401a2347590c3e13cf2cf52cb040ed5e0f1f4b9937b2c33d70b0",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 224,
+  "normalizedKey": "bad company|rock and roll fantasy",
+  "playableChords": [
+    "Em",
+    "C",
+    "D",
+    "A",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Interlude"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b8b2b4e7d612401a2347590c3e13cf2cf52cb040ed5e0f1f4b9937b2c33d70b0",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "Rock And Roll Fantasy",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

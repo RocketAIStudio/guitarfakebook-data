@@ -1,0 +1,119 @@
+{
+  "artist": "Blink-182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D]\n[D/C#]\n[Bm]\n[A]\n\n[Verse 1]\n[D]It's hard to wake up,\n[D/C#]when the shades have been pulled shut\n[Bm]This house is haunted, it's\n[A]so pathetic, it makes no sense at all\n[D]I'm ripe with things to say,\n[D/C#]the words rot and fall away\n[Bm]What stupid poem could\n[A]fix this home, I'd read it every day\n\n[Chorus]\n[G]So here's your holiday,\n[D]Hope you en-\n[G]joy it this time, you gave it all away\n[D]It was mine,\n[G]so when you're dead and gone\n[D]Will you re-\n[G]member this night, twenty years now lost,\n[D]It's not right.\n\n[Pre-Verse]\n[D]\n[D/C#]\n[Bm]\n[A]\n\n[Verse 2]\n[D]Their anger hurts my\n[Bm]ears, been running strong for seven years\n[A]Rather than fix the problems, they\nnever solve them, it makes no sense at all\n[D]I see them every day,\n[Bm]we get along so why can't they?\n[A]If this is what he wants, and it's\nwhat she wants, then why there so much pain?\n\n[Chorus]\n[G]So here's your holiday,\n[D]Hope you en-\n[G]joy it this time, you gave it all away\n[D]It was mine,\n[G]so when you're dead and gone\n[D]Will you re-\n[G]member this night, twenty years now lost,\n[D]It's not right.\n\n[Interlude]\n[D]  [A]\n[G]  [A]\n[D]  [A]\n[G]  [A]\n[D]  [A]\n[G]  [A]\n[D]  [A]\n[G]  [A]\n\n[Chorus]\n[G]\n[D]\n[G]\n[D]\n[G]So here's your holiday,\n[D]Hope you en-\n[G]joy it this time, you gave it all away\n[D]It was mine,\n[G]so when you're dead and gone\n[D]Will you re-\n[G]member this night, twenty years now lost,\n[D]It's not right.\n\n[Outro]\n[G]It's not right\n[D]It's not right\n[G]It's not right\n[D]\n[G]\n[D]\n[G]\n[D]\n[G]\n[D]\n[G]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x5423x",
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/C#": {
+      "catalog": [
+        "x4423x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Stay Together for the Kids *alt 9",
+  "id": "1a0872479ea88c8c163834125b3c1b29ad0948b2d6ea8307555b10d477b6dcaa",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 256,
+  "normalizedKey": "blink 182|stay together for the kids",
+  "playableChords": [
+    "D",
+    "D/C#",
+    "Bm",
+    "A",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1a0872479ea88c8c163834125b3c1b29ad0948b2d6ea8307555b10d477b6dcaa",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "Stay Together for the Kids",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

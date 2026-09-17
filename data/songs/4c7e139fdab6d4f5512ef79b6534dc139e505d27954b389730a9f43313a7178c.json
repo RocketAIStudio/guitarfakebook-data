@@ -1,0 +1,107 @@
+{
+  "artist": "Bill Withers",
+  "artistNormalized": "bill withers",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\nAin't no sunshine when she's\n[Am7]gone [Em7][G7]\n[Am7]It's not warm when [G]she's a-\n[Am7]way [Em7][G7]\n[Am7]Ain't no sunshine when she's gone\n[Em7]She's always gone too\n[Dm7]long anytime she goes a-\n[Am7]way [Em7][G7]\n[Am7]Wonder this time [G]where\n\n[Verse 2]\n[Am7]she's gone [Em7][G7]\n[Am7]Wonder if she's [G]gone\n[Am7]to stay [Em7][G7]\n[Am7]Ain't no sunshine when she's gone\n[Em7]And this house just ain't no\n[Dm7]home anytime she goes a-\n[Am7]way [Em7][G7]And\n[Am7]I know, I know, I know, I know I know, I\n\n[Bridge]\n[Am7]know, I know, I know I know, I know, I know,\nI know I know, I know, I know, I know\nI know, I know, I know, I know I know, I\nknow, I know, I know I know, I know, I know\nHey, oughtta leave young thing alone\nBut ain't no sunshine when she's\n[Am7]gone [Em7][G7]\n[Am7]Ain't no sunshine [G]when she's\n\n[Verse 3]\n[Am7]gone [Em7][G7]\n[Am7]Only darkness [G]every\n[Am7]day [Em7][G7]\n[Am7]Ain't no sunshine when she's gone\n[Em7]And this house just ain't no\n[Dm7]home anytime she goes a-\n[Am7]way [Em7][G7]\n[Am7]Anytime [G]she goes a-\n\n[Outro]\n[Am7]way [Em7][G7]\n[Am7]Anytime [G]she goes a-\n[Am7]way [Em7][G7]\n[Am7]Anytime [G]she goes a-\n[Am7]way [Em7][G7]\n[Am7]Anytime [G]she goes a-\n[Am7]way [Em7][G7]\n[Am7]Anytime [G]she goes a-\n[Am7]way [Em7][G7]\n[Am7]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm7": {
+      "catalog": [
+        "xx0211",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "020000",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12",
+        "x-19-21-19-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ain't No Sunshine",
+  "id": "4c7e139fdab6d4f5512ef79b6534dc139e505d27954b389730a9f43313a7178c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 210,
+  "normalizedKey": "bill withers|ain t no sunshine",
+  "playableChords": [
+    "Am7",
+    "Em7",
+    "G7",
+    "G",
+    "Dm7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 18,
+      "name": "Bridge"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 34,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4c7e139fdab6d4f5512ef79b6534dc139e505d27954b389730a9f43313a7178c",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Ain't No Sunshine",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

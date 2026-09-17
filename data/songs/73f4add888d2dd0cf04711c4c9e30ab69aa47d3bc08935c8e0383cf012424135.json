@@ -1,0 +1,134 @@
+{
+  "artist": "Billy Talent",
+  "artistNormalized": "billy talent",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[F]\n[Bb]\n[F]\n[Bb]We\n\n[Verse 1]\n[F]tried to stay young By\n[Bb]chasing the sun You\n[F]blank for too long The\n[Bb]swan sing a song And\n[F]all that I've [C]lost And\n[Bb]all that I've [Dm]won Don't\n[C]mean no thing more when you o-\n[Bb]pen Your eyes and they're\n\n[Bridge]\n[F]gone\n[Dm]\n[F]\n[Dm]After\n\n[Verse 2]\n[F]all we've been told We're\n[Bb]still flesh and bones And\n[F]lifes worth much more Than\n[Bb]silver and gold And\n[F]all that I've [C]lost And\n[Bb]all that I've [Dm]won Dont\n[C]mean no thing more when you o-\n[Bb]pen Your eyes and they're\n\n[Bridge]\n[F]gone\n[Dm]\n[F]\n[Dm]And\n\n[Verse 3]\n[Bb]how could it be that\n[Dm]we'll never see The\n[C]first days of spring And the la-\n[Gm]st autumn leaves So\n[Bb]lost in my mind I\n[Dm]tried to stay strong If\n[C]wounds heal in time Tell me why\n[Bb]it's so hard to move\n\n[Bridge]\n[F]on\n[Dm]Hard to move\n[F]on\n[Dm]I'll never move\n[Am]on\n[Bb][C]I\n\n[Verse 4]\n[F]curse the mistakes That\n[Bb]we'll never make The\n[F]pictures of trips That\n[Bb]we'll never take And\n[F]all of these [C]thoughts They\n[Bb]keep me a [Dm]wake Hang\n[C]on to your heroes Before\n[Bb]it's too late Cause\n[C]there'll come the time when you O-\n[Bb]pen your eyes and they're\n\n[Bridge]\n[F]gone\n[Dm]Some day they're\n[F]gone\n[Dm]Some day they'll be\n[Am]gone\n[Bb][C]And\n\n[Outro]\n[F]I'll still be here\n[Bb]Chasing the sun",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Chasing The Sun",
+  "id": "73f4add888d2dd0cf04711c4c9e30ab69aa47d3bc08935c8e0383cf012424135",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 228,
+  "normalizedKey": "billy talent|chasing the sun",
+  "playableChords": [
+    "F",
+    "Bb",
+    "C",
+    "Dm",
+    "Gm",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Bridge"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "73f4add888d2dd0cf04711c4c9e30ab69aa47d3bc08935c8e0383cf012424135",
+    "version": "BCFZ"
+  },
+  "tempo": 93,
+  "title": "Chasing The Sun",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

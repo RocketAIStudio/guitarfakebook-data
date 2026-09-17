@@ -1,0 +1,156 @@
+{
+  "artist": "Beatles",
+  "artistNormalized": "beatles",
+  "capo": "No capo",
+  "chordPositionCount": 40,
+  "chordSymbolCount": 8,
+  "content": "[A7]WhoaI,\n\n[Intro]\nwhoaI\nI got a\n[D7]whole lot of things to tell her\n[G7]When I get home\n[Am]  [G7]\nCome\n\n[Verse 1]\n[C7]on, out of\n[F7]my way 'Cause I'ma\n[C7]going to see my baby to-\n[F7]day I've got a\n[C7]whole lot of things I've gotta\n[F7]say To\n[G7]her\nWhoa - [A7]I,\n\n[Chorus]\nwhoa I\nI got a\n[D7]whole lot of things to tell her\n[G7]When I get home\n[Am]  [G7]\nCome\n\n[Verse 2]\n[C7]on if you\n[F7]please I've got no\n[C7]time for triviali-\n[F7]ties I've got a\n[C7]girl who's waiting home for\n[F7]me to-\n[G7]night\nWhoa - [A7]I,\n\n[Chorus]\nwhoa I\nI got a\n[D7]whole lot of things to tell her\n[G7]When I get home\n[Am]\nWhen I'm getting\n\n[Interlude]\n[C]home tonight I'm going to\n[Am]hold her tight I'm going to\n[C]love her till the cows come home\n[Am]I bet I'll\n[F]love her more\n[G7]Till I\n[F]walk out that door\n[G7]Again\n[Am]\n[G7]Come\n\n[Verse 3]\n[C7]on, let me\n[F7]through I've got so\n[C7]many things I've got to\n[F7]do I've got no\n[C7]business being here with\n[F7]you This\n[G7]way\nWhoa - [A7]I,\n\n[Chorus]\nwhoa I\nI got a\n[D7]whole lot of things to tell her\n[G7]When I get home\n[Am]Yeah\nI got a\n\n[Outro]\n[D7]whole lot of things to tell her\n[G7]When I get home\n[C]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "575655",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x3231x",
+        "x-3-2-3-1-0",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "x57575",
+        "x-x-0-2-1-2",
+        "x-5-4-5-3-2",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "131211",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "When I get home",
+  "id": "02082ca5d6ef40f0343c242172e891bd7f9bb70b0e517429febc9aec70aa3af1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 217,
+  "normalizedKey": "beatles|when i get home",
+  "playableChords": [
+    "A7",
+    "D7",
+    "G7",
+    "Am",
+    "C7",
+    "F7",
+    "C",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Interlude"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 68,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "02082ca5d6ef40f0343c242172e891bd7f9bb70b0e517429febc9aec70aa3af1",
+    "version": "BCFZ"
+  },
+  "tempo": 123,
+  "title": "When I get home",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

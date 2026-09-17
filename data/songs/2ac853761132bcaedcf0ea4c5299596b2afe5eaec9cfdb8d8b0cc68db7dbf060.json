@@ -1,0 +1,124 @@
+{
+  "artist": "Aurora",
+  "artistNormalized": "aurora",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Am]\n[Am/G]\n[F7M]\n[G6]\n\n[Verse 1]\n[Am]Five, four, three, two,\n[Am/G]one\n[F7M]Five, four, three, two,\n[G6]one He\n[Am]holds the gun\n[Am/G]a-\n[F7M]gainst my head\n[G6]I\n[Am]close my\n[Am/G]eyes and\n[F7M]bang I am dead\n[G6]I\n\n[Chorus]\n[Am]know he knows\n[Am/G]that he’s\n[F7M]killing me for mer-\n[G6]cy And here I go\n[Am]Oh oh oh\n[Am/G]oh Oh oh oh\n[F7M]oh Oh oh oh\n[G6]oh And here I go\n[Am]Oh oh oh\n[Am/G]oh Oh oh oh\n[F7M]oh Oh oh oh\n[G6]oh And he\n\n[Verse 2]\n[Am]holds my body in his arms He\n[Am/G]didn't mean to do no harm And he\n[F7M]holds me tight\n[G6]Oh, he\n[Am]did it all to spare me from the aw-\n[Am/G]ful things in life that comes And he\n[F7M]cries and cries\n[G6]I\n\n[Chorus]\n[Am]know he knows\n[Am/G]that he’s\n[F7M]killing me for mer-\n[G6]cy And here I go\n[Am]Oh oh oh\n[Am/G]oh Oh oh oh\n[F7M]oh Oh oh oh\n[G6]oh And here I go\n[Am]Oh oh oh\n[Am/G]oh Oh oh oh\n[F7M]oh Oh oh oh\n[G6]oh He\n\n[Bridge]\n[F7M]holds my body in his arms He\n[D7/F#]didn't mean to do no harm And he\n[G]holds me\n[E7/G#]tight Oh, he\n[F7M]did it all to spare me from the aw-\n[D9/F#]ful things in life that comes And he\n[G6]cries and\n[E7/G#]cries\n\n[Outro]\n[Am]\n[Am/G]\n[F7M]Five, four, three, two,\n[G6]one\n[Am]Five, four, three, two,\n[Am/G]one\n[F7M]Five, four, three, two,\n[G]one The gun\nis gone And so\nam I\nAnd here I\ngo",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am/G": {
+      "catalog": [
+        "3x2210"
+      ],
+      "catalogCount": 1
+    },
+    "D7/F#": {
+      "catalog": [
+        "2x0212"
+      ],
+      "catalogCount": 1
+    },
+    "D9/F#": {
+      "catalog": [
+        "2x0210"
+      ],
+      "catalogCount": 1
+    },
+    "E7/G#": {
+      "catalog": [
+        "4x0430"
+      ],
+      "catalogCount": 1
+    },
+    "F7M": {
+      "catalog": [
+        "1x3210"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "3x0003",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "3x0000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Murder Song (5, 4, 3, 2, 1)",
+  "id": "2ac853761132bcaedcf0ea4c5299596b2afe5eaec9cfdb8d8b0cc68db7dbf060",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 229,
+  "normalizedKey": "aurora|murder song 5 4 3 2 1",
+  "playableChords": [
+    "Am",
+    "Am/G",
+    "F7M",
+    "G6",
+    "D7/F#",
+    "G",
+    "E7/G#",
+    "D9/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2ac853761132bcaedcf0ea4c5299596b2afe5eaec9cfdb8d8b0cc68db7dbf060",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Murder Song (5, 4, 3, 2, 1)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

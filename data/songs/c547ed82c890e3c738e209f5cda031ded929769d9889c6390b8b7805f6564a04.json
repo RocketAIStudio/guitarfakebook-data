@@ -1,0 +1,141 @@
+{
+  "artist": "Blink 182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G]\n[Em]  [C]\n[G]\n[Em]  [C]\n\n[Verse 1]\n[G]I'm sick of always\n[Em]hearing All the\n[D]sad songs on the [C]radi-\no\n[G]All day it is\n[Em]there to remind an over\n[D]sensitive guy That he's [C]\nlost and alone, yeah\n\n[Bridge]\n[G]\n[Em]  [C]\n[G]\n[Em]  [C]\n\n[Verse 2]\n[G]I hate our favorite\n[Em]restaurant, favorite\n[D]movie, our favorite [C]\nshow\n[G]We would stay up\n[Em]all through the night We would\n[D]laugh and get high And never [C]\nanswer the phone\n\n[Chorus]\n[G]I can't for-\n[G/F#]give Can't for-\n[Em]get Can't give\n[C]in what went\n[G]wrong Cause you\n[G/F#]said this was\n[Em]right You\n[C]fucked up my\n\n[Bridge]\n[G]life\n[Em]  [C]\n[G]\n[Em]  [C]\n\n[Verse 3]\n[G]I'm sick of always\n[Em]hearing Sappy\n[D]love songs on the [C]radi-\no\n[G]This place is fucking\n[Em]cursed in it's plague And I can\n[D]never escape when my [C]\nheart it explodes\n\n[Chorus]\n[G]I can't for-\n[G/F#]give Can't for-\n[Em]get Can't give\n[C]in what went\n[G]wrong Cause you\n[G/F#]said this was\n[Em]right You\n[C]fucked up my\n\n[Interlude]\n[Em]life\n[G/C]\n[G]\n[G/A]\n[G/C]\n\n[Clarnet Solo]\n[Em]\n[C]\n[G]\n[Em]\n[C]\n[G]\n[D]\n[C]I'm\n\n[Outro]\n[G]kicking out\n[Em]fiercely at [C]the world a-\n[G]round me\n[Em]What went wrong [C]I'm\n[G]kicking out\n[Em]fiercely at [C]the world a-\n[G]round me\n[Em]What went wrong [C]I'm\n[G]kicking out\n[Em]fiercely at [C]the world a-\n[G]round me\n[Em]What went wrong [C]I'm\n[G]kicking out\n[Em]fiercely at [C]the world a-\n[G]round me\n[Em]What went wrong [C]I'm\n[G]kicking",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x3555x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x5777x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "0220xx",
+        "02200x",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "3554xx",
+        "35543x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/A": {
+      "catalog": [
+        "5x543x"
+      ],
+      "catalogCount": 1
+    },
+    "G/C": {
+      "catalog": [
+        "x3543x"
+      ],
+      "catalogCount": 1
+    },
+    "G/F#": {
+      "catalog": [
+        "255xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "What Went Wrong",
+  "id": "c547ed82c890e3c738e209f5cda031ded929769d9889c6390b8b7805f6564a04",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 226,
+  "normalizedKey": "blink 182|what went wrong",
+  "playableChords": [
+    "G",
+    "Em",
+    "C",
+    "D",
+    "G/F#",
+    "G/C",
+    "G/A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Bridge"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Bridge"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Interlude"
+    },
+    {
+      "measure": 63,
+      "name": "Clarnet Solo"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c547ed82c890e3c738e209f5cda031ded929769d9889c6390b8b7805f6564a04",
+    "version": "BCFZ"
+  },
+  "tempo": 113,
+  "title": "What Went Wrong",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

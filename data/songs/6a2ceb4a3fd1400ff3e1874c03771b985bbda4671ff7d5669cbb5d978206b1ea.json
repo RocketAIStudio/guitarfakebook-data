@@ -1,0 +1,133 @@
+{
+  "artist": "Bob Dylan",
+  "artistNormalized": "bob dylan",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[A]  [C#m]\n[G]  [Bm]\n[A]  [C#m]\n[G]  [Bm]\n\n[Verse 1]\n[A]Lay, lady, lay, [C#m]\n[G]lay across [Bm]my big brass be-\n[A]d [C#m]\n[G]  [Bm]\n[A]Lay, lady, lay, [C#m]\n[G]lay across [Bm]my big brass be-\n[A]d [C#m]\n[G]  [Bm]\n[E]Whatever [F#m]colors you have\n[A]in your mind\n[E]I'll show them to [F#m]you\n[A]and you'll see them shine\n[A]Lay, lady, lay, [C#m]\n[G]lay across [Bm]my big brass be-\n[A]d [C#m]\n[G]  [Bm]\n\n[Verse 2]\n[A]Stay, lady, stay, [C#m]\n[G]stay with your [Bm]man awhile\n[A]  [C#m]\n[G]  [Bm]\n[A]Until the break of [C#m]day,\n[G]let me see you [Bm]make him smi-\n[A]le [C#m]\n[G]  [Bm]\n[E]His clothes are [F#m]dirty but his\n[A]hands are clean\n[E]And you're the best [F#m]thing that he's\n[A]ever seen\n[A]Stay, lady, stay, [C#m]\n[G]stay with your man [Bm]awhile\n[A]  [C#m]\n[G]  [Bm]\n\n[Bridge]\n[C#m]Why wait any longer for the\n[E]world [F#m]to [A]begin\n[C#m]You can have your cake and eat it too\n[A]\n[C#m]Why wait any longer for the\n[E]one [F#m]you [A]love When he's stand-\n[C#m]ing in front of\n[Bm]you\n\n[Verse 3]\n[A]Lay, lady, lay, [C#m]\n[G]lay across [Bm]my big brass be-\n[A]d [C#m]\n[G]  [Bm]\n[A]Stay, lady, stay, [C#m]\n[G]stay while the [Bm]night is still a-\n[A]head [C#m]\n[G]  [Bm]\n[E]I long to see [F#m]you in the\n[A]morning light\n[E]I long to reach [F#m]for you\n[A]in the night\n[A]Stay, lady, stay, [C#m]\n[G]stay while the [Bm]night is still a-\n[A]head [C#m]\n[G]  [Bm]\n\n[Outro]\n[A]  [Bm]\n[C#m]  [D]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x02220",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lay Lady Lay *alt",
+  "id": "6a2ceb4a3fd1400ff3e1874c03771b985bbda4671ff7d5669cbb5d978206b1ea",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 205,
+  "normalizedKey": "bob dylan|lay lady lay",
+  "playableChords": [
+    "A",
+    "C#m",
+    "G",
+    "Bm",
+    "E",
+    "F#m",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6a2ceb4a3fd1400ff3e1874c03771b985bbda4671ff7d5669cbb5d978206b1ea",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "Lay Lady Lay",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,127 @@
+{
+  "artist": "Beck",
+  "artistNormalized": "beck",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]  [D]\n[A]\n[E]  [D]\n[A]\n[E]  [D]\n[A]\n[E]  [D]\n[A]\n\n[Verse 1]\n[E5]See me coming to town with my soul\nStraight down out of the world with my fingers\nHolding onto the devil I know\nAll my troubles will hang on your trigger\nTake your eyes and your mind from the road\nShoot your mouth if you know where you're aiming\nDon't forget to pick up what you sow\nTalking trash to the garbage around you\n\n[Chorus]\n[E]Na na na na [D]na na na\n[A]na\n[E]Na na na na [D]na na na\n[A]na\n[E]Na na na na [D]na na na\n[A]na\n[E]Na na na na [D]na na na\n[A]na\n\n[Verse 2]\n[E5]See me kicking the door with my boots\nBroke down out in a ditch of old rubbish\nSnakes and bones in the back of your room\nHanding out a confection of venom\nHeaven's drunk from the poison you use\nCharm the wolves with the eyes of a gambler\nNow I see it's a comfort to you\nHammer my bones on the anvil of daylight\n\n[Chorus]\n[E]Na na na na [D]na na na\n[A]na\n[E]Na na na na [D]na na na\n[A]na\n[E]Na na na na [D]na na na\n[A]na\n[E]Na na na na [D]na na na\n[A]na\n\n[Verse 3]\n[Em]I won't give up that ghost It's\nsick the way these tongues are twisted The\ngood in us is all we know There's\ntoo much left to taste that's bitter\nI won't give up that ghost It's\nsick the way these tongues are twisted The\ngood in us is all we know There's\ntoo much left to taste that's bitter\n\n[Chorus]\nNa na na na na na na\n[A]na\n[E]Na na na na [D]na na na\n[A]na\n[E]Na na na na [D]na na na\n[A]na\n\n[Bridge]\n[E]Na na na na [D]na na na\n[A]na\n\n[Chorus]\n[E]Na na na na [D]na na na\n[A]na\n[E]Na na na na [D]na na na\n[A]na\n[E]Na na na na [D]na na na\n[A]na\n[E]Na na na na [D]na na na\n[A]na\n\n[Interlude]\n[E]  [D]\n[A]\n[E]  [D]\n[A]\n[E]  [D]\n[A]\n[E]Na na na na [D]na na na\n[A]na\n\n[Outro]\n[E]  [D]\n[A]\n[E]  [D]\n[A]\n[E]  [D]\n[A]\n[E]  [D]\n[A]\n[E]  [D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "E-Pro",
+  "id": "7afff07a23af6988492f9564a746671d8c9554135966b4e35cfdfda419fa9467",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 351,
+  "normalizedKey": "beck|e pro",
+  "playableChords": [
+    "E",
+    "D",
+    "A",
+    "E5",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Interlude"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7afff07a23af6988492f9564a746671d8c9554135966b4e35cfdfda419fa9467",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "E-Pro",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

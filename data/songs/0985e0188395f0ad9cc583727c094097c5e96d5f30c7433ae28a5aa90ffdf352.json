@@ -1,0 +1,113 @@
+{
+  "artist": "BBQ Chickens",
+  "artistNormalized": "bbq chickens",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C]\n[G]\n\n[Interlude 1]\n[C]He's a musician and a\nfriend of mine\nHe can play any instru-\nment so fine\n[F]He just recorded a\nnew CD\n[C]All by Himself he plays\neverything\n[G]It isn't punky\n[F]It's kinda country\nWe try to steal his\nsound\n\n[Break]\n[C5]\n[F5]  [Eb5]\n[C5]\n[F5]  [Eb5]\n\n[Interlude 2]\n[C5]When he was young\n[F5]  [Eb5]\n[C5]Played in a punk band\n[F5]  [Eb5]\n[C5]He used to shout\n[F5]  [Eb5]\n[C5]Just like I do now\n[F5]  [Eb5]\n[C5]LOW [Eb5]I-\n[F5]Q [Bb5]ICHI\n[C5]LOW [Eb5]I-\n[F5]Q [Bb5]ICHI\n[C5]LOW [Eb5]I-\n[F5]Q [Bb5]ICHI\n[C5]LOW [Eb5]I-\n[F5]Q [Bb5]ICHI\n\n[Outro]\n[C5]YEAH\n[F5]  [Eb5]\n[C5]WOW\n[F5]  [Eb5]\n[C5]That is his name",
+  "diagrams": {
+    "Bb5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Low IQ Ichi",
+  "id": "0985e0188395f0ad9cc583727c094097c5e96d5f30c7433ae28a5aa90ffdf352",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 93,
+  "normalizedKey": "bbq chickens|low iq ichi",
+  "playableChords": [
+    "C",
+    "G",
+    "F",
+    "C5",
+    "F5",
+    "Eb5",
+    "Bb5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Interlude 1"
+    },
+    {
+      "measure": 23,
+      "name": "Break"
+    },
+    {
+      "measure": 27,
+      "name": "Interlude 2"
+    },
+    {
+      "measure": 43,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0985e0188395f0ad9cc583727c094097c5e96d5f30c7433ae28a5aa90ffdf352",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Low IQ Ichi",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

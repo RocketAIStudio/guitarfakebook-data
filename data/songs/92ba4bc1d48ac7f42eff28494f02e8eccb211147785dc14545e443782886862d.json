@@ -1,0 +1,127 @@
+{
+  "artist": "Audioslave",
+  "artistNormalized": "audioslave",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Dm]\n[C]\n[Am]  [G]  [F]\n[Dm]\n[C]\n[Am]  [G]  [F]\n[Dm]Well, it's\n\n[Verse 1]\n[Dm]late in the hour\nAnd [C]a few more grains\n[Dm]of sand will fall\n[F]On the\n[Dm]co lorful flo wers\n[C]Have grown upon the\n[Dm]dust and moss\n[F]\n[Dm]Now I feel the worst\nis near [C]\n[Dm]I hold them close and count\ntheir [F]years\n[Dm]Pray, a ray of light\nappears [C]\n[Dm]To shine down on us here\n[F]\n\n[Chorus]\n[Dm]Break down\n[C]in the shape of things to come\n[Am]But I'm [G]moving on [F]like a\n[Dm]sol dier And I\nsay now\n[C]when all is said and done\n[Am]It's not ours [G]to break [F]the\n[Dm]shape of things to come\n\n[Bridge]\n[Dm]\nThere's a\n\n[Verse 2]\n[Dm]crack in the clouds\nBut [C]only for a\n[Dm]moment now\n[F]Like an\n[Dm]eye looking out\n[C]In the blue skies finds the\n[Dm]roads, we will go down\n[F]\n[Dm]I wonder what they hold\nfor us [C]\n[Dm]I hold my family to\nmy breast [F]\n[Dm]I fear the worst and hope\nthe best [C]Will\n[Dm]come to see us blessed\n[F]\n\n[Chorus]\n[Dm]Break down\n[C]in the shape of things to come\n[Am]But I'm [G]moving on [F]like a\n[Dm]sol dier And I\nsay now\n[C]when all is said and done\n[Am]It's not ours [G]to break [F]the\n[Dm]shape of things to come\n[G]\n[Dm]\n\n[Interlude]\n[G]\nGiven one more try, wonder what I'd\nchange?\nI won't deny, the thought is\nstrange\nI've done my best and I will\nlay no blame my-\n\n[Solo]\n[Dm]self\n[C]\n[Am]  [G]  [F]\n[Dm]\n[C]\n[Am]  [G]  [F]\n[Dm]\n\n[Chorus]\n[Dm]Break down in the\n[C]shape of things to come\n[Am]But I'm [G]moving on [F]like a\n[Dm]sol dier And I\nsay now\n[C]when all is said and done\n[Am]It's not ours [G]to break [F]the\n[Dm]shape of things to come\n\n[Outro]\n[Dm]The\nshape of things to come\nThe\nshape of things to come",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "000231",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "333211",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "555433",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Shape Of Things To Come",
+  "id": "92ba4bc1d48ac7f42eff28494f02e8eccb211147785dc14545e443782886862d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 262,
+  "normalizedKey": "audioslave|shape of things to come",
+  "playableChords": [
+    "Dm",
+    "C",
+    "Am",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Interlude"
+    },
+    {
+      "measure": 70,
+      "name": "Solo"
+    },
+    {
+      "measure": 78,
+      "name": "Chorus"
+    },
+    {
+      "measure": 86,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "92ba4bc1d48ac7f42eff28494f02e8eccb211147785dc14545e443782886862d",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Shape Of Things To Come",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

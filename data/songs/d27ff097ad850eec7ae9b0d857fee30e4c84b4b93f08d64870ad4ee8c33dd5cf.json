@@ -1,0 +1,101 @@
+{
+  "artist": "Blink-182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[C]\n[F5]\n[C]\n[F5]\n\n[Verse 1]\n[C]Are we all victims of\nopportunity\n[F5]Locked outside the door\nback in eighty three\n[C]I heard the angry voice\nof the man inside\n[F5]And saw the look of fear\nin my mother's eyes\n\n[Chorus]\n[A5](Go! Go!\n[F5]Go! Go!\n[A5]Go!) I don't wanna know\n[F5](Go!) I don't wanna know\n\n[Main RIff]\n[C]\n[F5]\n[C]\n[F5]\n\n[Verse 2]\n[C]Mom get in the car\nand let's drive away\n[F5]She said I'm sorry Mark\nbut there's nowhere to stay\n[C]Gave up all her hope\nand went back inside\n[F5]Hid her broken heart\nand let the engine die\n\n[Chorus]\n[A5](Go! Go!\n[F5]Go! Go!\n[A5]Go!) I don't wanna know\n[F5](Go!) I don't wanna know\n\n[Bridge]\n[C]\n[F5]\n[C]\n[F5]\n\n[Verse 3]\n[C]Why do evil men\nget away with it\n[F5]Can't you see that I'm\nin a world of shit\n[C]Turn your back on hope\nand go back inside\n[F5]Stop my bleeding heart\nand let the engine die\n\n[Pre-Chorus]\n[F5]I don't wanna know\nI don't wanna know\nI don't wanna know\nI don't wanna know\n\n[Chorus]\n[A5](Go!) I don't wanna know\n[F5](Go!) I don't wanna know\n[A5](Go!) I don't wanna know\n[F5](Go!) I don't wanna know\n\n[Outro]\n[C]\n[F5]\n[C]\n[F5]\n[C]\n[F5]\n[C]\n[F5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x320xx",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Go!",
+  "id": "d27ff097ad850eec7ae9b0d857fee30e4c84b4b93f08d64870ad4ee8c33dd5cf",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 203,
+  "normalizedKey": "blink 182|go",
+  "playableChords": [
+    "C",
+    "F5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Main RIff"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d27ff097ad850eec7ae9b0d857fee30e4c84b4b93f08d64870ad4ee8c33dd5cf",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Go!",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

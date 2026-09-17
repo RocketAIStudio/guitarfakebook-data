@@ -1,0 +1,113 @@
+{
+  "artist": "Bob Dylan",
+  "artistNormalized": "bob dylan",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[A]\n[D]\n[G/B]  [A]\n[D]\n[A]\n[D]\n[G/B]  [A]\n[D]\nMary wore\n\n[Verse 1]\n[D]three links of chain Every link\n[A]was Jesus [D]name Keep your\n[G/B]hand on that [A]plow, hold on\n[D]Oh\n\n[Chorus]\n[A]Lord, Oh\n[D]Lord, keep your\n[G/B]hand on that [A]plow, hold on\n[D]\n\n[Interlude]\n[A]\n[D]\n[G/B]  [A]\n[D]\nMa ry,\n\n[Verse 2]\n[D]Mark, Luke and John All these pro\n[A]phets so good and [D]gone Keep your\n[G/B]hand on that [A]plow, hold on\n[D]Oh\n\n[Chorus]\n[A]Lord, Oh\n[D]Lord, keep your\n[G/B]hand on that [A]plow, hold on\n[D]\n\n[Interlude]\n[A]\n[D]\n[G/B]  [A]\n[D]\nWell, I never been to\n\n[Verse 3]\n[D]heaven But I've been told streets up\n[A]there Are lined with [D]gold Keep your\n[G/B]hand on that [A]plow, hold on\n[D]Oh\n\n[Chorus]\n[A]Lord, Oh\n[D]Lord, keep your\n[G/B]hand on that [A]plow, hold on\n[D]Oh\n\n[Chorus]\n[A]Lord, Oh\n[D]Lord, keep your\n[G/B]hand on that [A]plow, hold on\n[D]\n\n[Interlude]\n[A]\n[D]\n[G/B]  [A]\n[D]Oh\n\n[Chorus]\n[A]Lord, Oh\n[D]Lord, keep your\n[G/B]hand on that [A]plow, hold on\n[D]\n\n[Outro]\n[G/B]  [A]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Gospel Plow",
+  "id": "3b1f9a44b20ebb9591ea129598d0f401bbd3429cd14e7c26b431f17428dfce2c",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 133,
+  "normalizedKey": "bob dylan|gospel plow",
+  "playableChords": [
+    "A",
+    "D",
+    "G/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Interlude"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Interlude"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3b1f9a44b20ebb9591ea129598d0f401bbd3429cd14e7c26b431f17428dfce2c",
+    "version": "BCFZ"
+  },
+  "tempo": 136,
+  "title": "Gospel Plow",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

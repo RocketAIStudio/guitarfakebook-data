@@ -1,0 +1,111 @@
+{
+  "artist": "Blink-182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A5]\n[D5]\n[A5]\n[E5]\n[D5]\n[A5]\n[E5]\n\n[Verse 1]\n[A5]I know what it's\n[F#5]like to be [E5]a-\n[D5]lone sitting in your\n[E5]room\n[A5]Listening to\n[F#5]all the doubts [E5]that\n[D5]your parents\n[E5]have to say to\n[A5]you And as your head gets all\n[F#5]cluttered inside [E5]\n[D5]Try to stay a-\n[E5]wake\n[A5]Everything they\n[F#5]say are lies [E5]\n[D5]That's all the shit\n[E5]that you ever have to take\n\n[Chorus]\n[D5]So hold in\nall your ag-\n[C#5]gressions\nBecause your\n[D5]grinding your teeth\non down to\n[C#5]The bottom [E5]of\nyour chin It's not\n[D5]easy\nor so damn\n[C#5]pleasing\nTo not laugh\n[D5]at everything\nthey say as\n[C#5]They tell you [E5]what\nto be you're not a-\n\n[Bridge]\n[A5]lone\n[D5]\n[A5]\n[E5]\n[D5]\n[A5]\n[E5]\n\n[Verse 2]\n[A5]I know what it's\n[F#5]like to be [E5]de-\n[D5]nied at everything you\n[E5]do\n[A5]It's not the\n[F#5]same reason why [E5]that\n[D5]Makes you change the\n[E5]things that you once\n[A5]knew As your head gets all\n[F#5]cluttered inside [E5]\n[D5]Give more than you\n[E5]take\n[A5]Everything they\n[F#5]say are lies [E5]\n[D5]That's all the shit that you\n[E5]ever have to take So\n\n[Chorus]\n[D5]hold in\nall your ag-\n[C#5]gressions\nBecause your\n[D5]grinding your teeth\non down to\n[C#5]The bottom [E5]of\nyour chin It's not\n[D5]easy\nor so damn\n[C#5]pleasing\nTo not laugh\n[D5]at everything\nthey say as\n[C#5]They tell you [E5]what\nto be you're not a-\n\n[Interlude]\n[A5]lone\n[E5]  [D5]\n[A5]\n[E5]  [D5]\nYou say you\n[A5]want to take off\nyour shoes and\n[E5]Walk barefoot [D5]down\nthe street Just to\n[A5]be the things that you\ncan be\n[E5]Just live for [D5]one\nmore week, go!\n\n[Solo]\n[C#aug]\nYou say you\nwant to take off\nyour shoes and\nWalk barefoot down\nthe street Just to\nbe the things that you\ncan be\nJust live for one\nmore week So\n\n[Chorus]\n[D5]hold in\nall your ag-\n[C#5]gressions\nBecause your\n[D5]grinding your teeth\non down to\n[C#5]The bottom [E5]of\nyour chin It's not\n[D5]easy\nor so damn\n[C#5]pleasing\nTo not laugh\n[D5]at everything\nthey say as\n[C#5]They tell you [E5]what\nto be you're not a-\n[A5]lone",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#aug": {
+      "catalog": [
+        "x4766x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Peggy Sue *alt",
+  "id": "a078e734ea1a227e825094b7a9ca01fad2d949c5e86f5ea1906f849bee1c8e0f",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 347,
+  "normalizedKey": "blink 182|peggy sue",
+  "playableChords": [
+    "A5",
+    "D5",
+    "E5",
+    "F#5",
+    "C#5",
+    "C#aug"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Bridge"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 74,
+      "name": "Chorus"
+    },
+    {
+      "measure": 90,
+      "name": "Interlude"
+    },
+    {
+      "measure": 106,
+      "name": "Solo"
+    },
+    {
+      "measure": 122,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a078e734ea1a227e825094b7a9ca01fad2d949c5e86f5ea1906f849bee1c8e0f",
+    "version": "BCFZ"
+  },
+  "tempo": 217,
+  "title": "Peggy Sue",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

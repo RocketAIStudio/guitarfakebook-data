@@ -1,0 +1,129 @@
+{
+  "artist": "Bane's World",
+  "artistNormalized": "bane s world",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Gb]  [Eb7]\n[Abm7]  [Db7]\n[Gb]  [Eb7]\n[Abm7]  [Db7]\n[Gb]  [Eb7]\n[Abm7]  [Db7]\n[Gb]  [Eb7]\n[Abm7]  [Db7]\n\n[Verse]\n[Gb]I've been so [Eb7]unafraid\n[Abm7]to [Db7]die alone\n[Gb]I know [Eb7]what I've done,\n[Abm7]I heard your [Db7]tone\n[Gb]Dust off your coat, [Eb7]the\n[Abm7]rain is coming [Db7]back\n[Gb]A few months [Eb7]without it,\n[Abm7]keeps happiness on [Db7]track But\n[Gb]you would never [Eb7]notice,\n[Abm7]stuck in that [Db7]head of\n[Gb]yours [Eb7]\n[Abm7]  [Db7]\n\n[Bridge]\n[Ebm7]\n[Bmaj7]\n[Db/Ab]\n[Ebm7]You say I'm in love,\nI say I'm a fool\n[Bmaj7]Look away from me now,\n[Db/Ab]I'll look away too\n\n[Break]\n[Gb]  [Eb7]\n[Abm7]  [Db7]\n[Gb]  [Eb7]\n[Abm7]  [Db7]\n[Gb]  [Eb7]\n[Abm7]  [Db7]\n[Gb]  [Eb7]\n[Abm7]  [Db7]\n\n[Solo]\n[Gb]  [Eb7]\n[Abm7]  [Db7]\n[Gb]  [Eb7]\n[Abm7]  [Db7]\n[Gb]  [Eb7]\n[Abm7]  [Db7]\n\n[Outro]\n[Ebm7]\n[Bmaj7]\n[Db/Ab]\n[Ebm7]You say I'm in love,\nI say I'm a fool\n[Bmaj7]Look away from me now,\n[Db/Ab]I'll look away too",
+  "diagrams": {
+    "Abm7": {
+      "catalog": [
+        "464444",
+        "x-x-6-8-7-7",
+        "x-11-13-11-12-11",
+        "16-18-16-16-16-16",
+        "x-x-18-20-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Bmaj7": {
+      "catalog": [
+        "x24342",
+        "7-6-4-4-4-6",
+        "7-9-8-8-7-7",
+        "x-x-9-11-11-11",
+        "x-14-13-11-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Db/Ab": {
+      "catalog": [
+        "xx6664"
+      ],
+      "catalogCount": 1
+    },
+    "Db7": {
+      "catalog": [
+        "x46464",
+        "x-4-3-4-2-1",
+        "9-8-6-6-6-7",
+        "9-11-9-10-9-9",
+        "x-x-11-13-12-13"
+      ],
+      "catalogCount": 5
+    },
+    "Eb7": {
+      "catalog": [
+        "x68686",
+        "x-x-1-3-2-3",
+        "x-6-5-6-4-3",
+        "11-10-8-8-8-9",
+        "11-13-11-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Ebm7": {
+      "catalog": [
+        "x68676",
+        "x-x-1-3-2-2",
+        "11-13-11-11-11-11",
+        "x-x-13-15-14-14",
+        "x-18-20-18-19-18"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You Say I'm in Love",
+  "id": "03041c95635842aee7d95532c385c2ef835e3968031adce00be7370094dfd964",
+  "key": "G♭",
+  "keyIdentified": true,
+  "lyricEventCount": 96,
+  "normalizedKey": "bane s world|you say i m in love",
+  "playableChords": [
+    "Gb",
+    "Eb7",
+    "Abm7",
+    "Db7",
+    "Ebm7",
+    "Bmaj7",
+    "Db/Ab"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse"
+    },
+    {
+      "measure": 22,
+      "name": "Bridge"
+    },
+    {
+      "measure": 30,
+      "name": "Break"
+    },
+    {
+      "measure": 38,
+      "name": "Solo"
+    },
+    {
+      "measure": 44,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "03041c95635842aee7d95532c385c2ef835e3968031adce00be7370094dfd964",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "You Say I'm in Love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

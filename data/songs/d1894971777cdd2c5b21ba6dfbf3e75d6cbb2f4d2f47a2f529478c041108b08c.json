@@ -1,0 +1,138 @@
+{
+  "artist": "Bob Dylan",
+  "artistNormalized": "bob dylan",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]\nMay God\n\n[Verse 1]\n[D]bless and keep you always May your\n[F#m]wishes all come true May you\n[Em7]always do for others And let o-\n[G]thers do for you\n[D]\nMay you\nbuild a ladder to the stars And\n[F#m]climb on every rung And may you stay\n[Em7]\n[A]forever\n[D]young\nForever\n\n[Chorus]\n[A]young,\nfore-\n[Bm]ver young\nMay you\n[D]stay\n[A]forever\n[D]young\nMay you grow\n\n[Verse 2]\n[D]up to be righteous May you grow\n[F#m]up to be true May you al-\n[Em7]ways know the truth And see the lights\n[G]surrounding you\n[D]\nMay you al-\nways be courageous Stand up-\n[F#m]right and be strong And may you stay\n[Em7]\n[A]forever\n[D]young\nForever young,\n\n[Chorus]\n[A]\nforever\n[Bm]young\nMay you stay\n[D]\n[A]forever\n[D]young\nMay your\n\n[Verse 3]\n[D]hands always be busy May your feet al-\n[F#m]ways be swift May you have\n[Em7]a strong foundation When the winds\n[G]of changes shift\n[D]\nMay your heart\nalways be joyful May your song\n[F#m]always be sung And may you stay\n[Em7]\n[A]forever\n[D]young\nForever young,\n\n[Chorus]\n[A]\nfore-\n[Bm]ver young\nMay you stay\n[D]\n[A]forever\n[D]young\n\n[Harmonica Solo]\n[D]\n[F#m]\n[Em7]\n[G]\n[D]\n[F#m]\n[Em7]\n[A]\n[D]\n\n[Refrain]\n[A]\n[Bm]\n\n[Outro]\n[D]\n[A]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "020033",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Forever Young",
+  "id": "d1894971777cdd2c5b21ba6dfbf3e75d6cbb2f4d2f47a2f529478c041108b08c",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 203,
+  "normalizedKey": "bob dylan|forever young",
+  "playableChords": [
+    "D",
+    "F#m",
+    "Em7",
+    "G",
+    "A",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Harmonica Solo"
+    },
+    {
+      "measure": 78,
+      "name": "Refrain"
+    },
+    {
+      "measure": 82,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d1894971777cdd2c5b21ba6dfbf3e75d6cbb2f4d2f47a2f529478c041108b08c",
+    "version": "BCFZ"
+  },
+  "tempo": 67,
+  "title": "Forever Young",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

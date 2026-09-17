@@ -1,0 +1,100 @@
+{
+  "artist": "Beach Fossils",
+  "artistNormalized": "beach fossils",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E]\n[C#m]\n[A]\n[E]\n[C#m]\n[A]\n[E]\n[C#m]\n[A]\n[E]\n[C#m]\n[A]\n[E]\n\n[Verse 1]\nIt's not so\n[C#m]worth getting\n[A]all bent out of\n[E]shape about\nI turn my\n[C#m]back on it and\n[A]next you know it's\n[E]all run out\nDo you wanna\n[C#m]step outside or\n[A]do you want me\n[E]to ride\nI don't know just\n[C#m]what I feel but\n[A]I feel it all tonight\n[E]\n\n[Interlude]\n[A]\n[E]\n[B]\n[A]\n[E]\n[B]\n[A]\n[E]\n[B]\n[A]\n[E]\n[B]\n\n[Verse 2]\nI give it\n[C#m]all in these\n[A]hours that we\n[E]set aside\nI know I'm\n[C#m]feeling brave but\n[A]that's because my\n[E]heart's untied\nDon't want to\n[C#m]trim any-\n[A]more off of our\n[E]only truth\nWe got e-\n[C#m]nough to spare cause\n[A]we're awake throug-\n[E]hout our youth\n\n[Interlude]\n[A]\n[E]\n[B]\n[A]\n[E]\n[B]\n[A]\n[E]\n[B]\n[A]\n[E]\n[B]\n\n[Outro]\n[E]\n[C#m]\n[A]\n[E]\n[C#m]\n[A]\n[E]\n[C#m]\n[A]\n[E]\n[C#m]\n[A]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Youth",
+  "id": "910f0ee68b001ca2a0c39376b0f03c73466164d544add26958d3a48b01b068df",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 106,
+  "normalizedKey": "beach fossils|youth",
+  "playableChords": [
+    "E",
+    "C#m",
+    "A",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Interlude"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "910f0ee68b001ca2a0c39376b0f03c73466164d544add26958d3a48b01b068df",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Youth",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,119 @@
+{
+  "artist": "Blink-182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D]\n[G]\n[D]\n[A]\n[D]\n[G]\n[D]\n[A]\nAnd she was\n\n[Verse 1]\n[D]\nlike a starry night\nLike a Ferris wheel,\n[G]\nfull of bluegreen\neyes\nAnd a heart of steel,\n[Bm]\nalways on her own\n[A]\nAlmost never real\n\n[Chorus]\n[D]When the\n[A]night will begin The\n[Bm]pain it won't end, even\n[A]if she falls in love\n[D]Fact, you\n[A]wanna turn back Your\n[Bm]heart will attack, even\n[A]if she falls in love\n\n[Bridge]\n[D]\n[G]\n[D]\n[A]\n[D]\n[G]\n[D]\n[A]\nAnd she was\n\n[Verse 2]\n[D]\nlike a blade of ice\nLike a lonely road,\n[G]\nclear as day, alive\nAlways sharp and\n[Bm]cold,\nalways beautiful\n[A]\nI am such a fool\n\n[Chorus]\n[D]When the\n[A]night will begin The\n[Bm]pain it won't end, even\n[A]if she falls in love\n[D]Fact, you\n[A]wanna turn back Your\n[Bm]heart will attack, even\n[A]if she falls in love\n[D]Try to\n[A]look in her eyes The\n[Bm]light is just right, even\n[A]if she falls in love\n[D]And it\n[A]isn't so bad It's\n[Bm]driving you mad, even\n[A]if she falls in love\n\n[Interlude]\n[D]\n[Em]\n[D]\n[G]\n[D]\n[Em]\n[D]\n[G]\n\n[Chorus]\n[D]When the\n[A]night will begin The\n[Bm]pain it won't end, even\n[A]if she falls in love\n[D]Fact, you\n[A]wanna turn back Your\n[Bm]heart will attack, even\n[A]if she falls in love\n[D]Try to\n[A]look in her eyes The\n[Bm]light is just right, even\n[A]if she falls in love\n[D]And it\n[A]isn't so bad It's\n[Bm]driving you mad, even\n[A]if she falls in love\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Even If She Falls",
+  "id": "e6a336a3fb48f28c37164299f9c778319c43f35d044cca0fb8fa0a24ed322417",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 246,
+  "normalizedKey": "blink 182|even if she falls",
+  "playableChords": [
+    "D",
+    "G",
+    "A",
+    "Bm",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Interlude"
+    },
+    {
+      "measure": 97,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e6a336a3fb48f28c37164299f9c778319c43f35d044cca0fb8fa0a24ed322417",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Even If She Falls",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

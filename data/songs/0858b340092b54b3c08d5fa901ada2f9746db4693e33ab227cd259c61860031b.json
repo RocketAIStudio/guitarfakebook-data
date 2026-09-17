@@ -1,0 +1,113 @@
+{
+  "artist": "Blink-182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D5]\n[G5]  [A5]\n[B5]\n[G5]  [D5]\n[D5]\n[G5]  [A5]\n[B5]\n[G5]  [D5]\n[D5]  [A5]\n[B5]  [G5]\n[D5]  [A5]\n[B5]  [G5]\n[D5]  [E5]  [F#5]  [D5]\n[D5]  [E5]  [F#5]  [D5]\n[D5]  [E5]  [F#5]  [D5]\n[D5]  [E5]  [F#5]  [D5]\n\n[Pre-Verse]\n[D5]  [A5]\n[B5]  [G5]\n[D5]  [A5]\n[B5]  [G5]\n[D5]  [A5]\n[B5]  [G5]\n[D5]  [A5]\n[B5]  [G5]\n[D5]  [A5]\n[B5]  [G5]\n[D5]  [A5]\n[B5]  [G5]\n\n[Verse 1]\n[D5]I talk to you every [A5]now and then\n[B5]I never felt so [G5]alone again\n[D5]I stop to think at a [A5]wishing well\n[B5]My thoughts send me on a [G5]carousel\n[D5]Here I am [A5]standing on my\n[B5]own Not a [G5]motion from the tele-\n[D5]phone I know [A5]not a reason\n[B5]why [G5]Solitudes a reason to di-\n\n[Chorus]\n[D5]e Just you wait [E5]and\n[A5]see [G5]As\n[D5]school life is [E5]a\n[A5]It is a [G5]woken dre-\n[D5]am Aren't you [E5]feeling a-\n[A5]lo [G5]ne?\n[D5]I guess its just another I [E5]guess its just another\n[A5]I guess its just another [G5]night alone...\n\n[Bridge]\n[D5]  [A5]\n[B5]  [G5]\n[D5]  [A5]\n[B5]  [G5]\n\n[Verse 2]\n[D5]Now as I walk [A5]down the street\n[B5]I need a job just to [G5]sleep in sheets\n[D5]Find food every [A5]once in a while\n[B5]But not enough to [G5]purchase a smile\n\n[Interlude]\n[D5]A tank of gas is a [A5]treasure to me\n[B5]I know now that [G5]nothing is free\n[D5]I talk to you every [A5]now and then\n[B5]I never felt so [G5]alone again\n\n[Bridge]\n[D5]  [A5]\n[B5]  [G5]\n[D5]  [A5]\n[B5]  [G5]\n[D5]  [A5]\n[B5]  [G5]\n[D5]  [A5]\n[B5]  [G5]\n\n[Outro]\n[D5]Just you wait [E5]and\n[A5]see [G5]As\n[D5]school life is [E5]a\n[A5]It is a [G5]woken dre-\n[D5]am Aren't you [E5]feeling a-\n[A5]lo [G5]ne?\n[D5]I guess its just another I [E5]guess its just another\n[A5]I guess its just another [G5]night alone...\n[D5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx",
+        "x022xx"
+      ],
+      "catalogCount": 2
+    },
+    "B5": {
+      "catalog": [
+        "799xxx",
+        "x244xx"
+      ],
+      "catalogCount": 2
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "x-9-11-11-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x-10-12-12-x-x",
+        "355xxx"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Carousel *alt",
+  "id": "0858b340092b54b3c08d5fa901ada2f9746db4693e33ab227cd259c61860031b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 256,
+  "normalizedKey": "blink 182|carousel",
+  "playableChords": [
+    "D5",
+    "G5",
+    "A5",
+    "B5",
+    "E5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0858b340092b54b3c08d5fa901ada2f9746db4693e33ab227cd259c61860031b",
+    "version": "BCFZ"
+  },
+  "tempo": 71,
+  "title": "Carousel",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,122 @@
+{
+  "artist": "BBQ Chickens",
+  "artistNormalized": "bbq chickens",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E5]\n[A5]Big Mac!\n\n[Pre-Verse]\n[B5]  [A5]  [D5]\n[G5][C5]Big Mac!\n\n[Verse 1]\n[B5]In my left hand A [A5]large cup of [D5]soda\n[G5]In my right hand A [C5]fuckin' juicy burger\n[B5]This is [A5]my [D5]favorite\n[G5]style The is [C5]my fuckin' sweet moment\n\n[Chorus]\n[F#5]Big mac rules! Big mac rules!\nBig mac rules! BIG! MAC!!\n\n[Break]\n[B5]RULES!!! [A5][D5]\n[G5]  [C5]\n\n[Pre-Verse]\n[B5]  [A5]  [D5]\n[G5][C5]Big Mac!\n\n[Verse 2]\n[B5]I don't care [A5]what it's made [D5]of\n[G5]I don't care [C5]why it rules\n[B5]I only eat [A5]this greasy [D5]shit\n[G5]I gotta eat [C5]every fuckin' day\n\n[Chorus]\n[F#5]Big mac rules! Big mac rules!\nBig mac rules! Big mac rules!\n\n[Break]\n[F#5]\n\n[Outro]\n[E5]\n[A5]BIG MAC!",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx",
+        "x022xx"
+      ],
+      "catalogCount": 2
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Big Mac",
+  "id": "8d7c576ed7a0742a31706a2d044f231f8541d60712687d4938e859678bc1e02f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 97,
+  "normalizedKey": "bbq chickens|big mac",
+  "playableChords": [
+    "E5",
+    "A5",
+    "B5",
+    "D5",
+    "G5",
+    "C5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 12,
+      "name": "Break"
+    },
+    {
+      "measure": 14,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Break"
+    },
+    {
+      "measure": 26,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8d7c576ed7a0742a31706a2d044f231f8541d60712687d4938e859678bc1e02f",
+    "version": "BCFZ"
+  },
+  "tempo": 115,
+  "title": "Big Mac",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

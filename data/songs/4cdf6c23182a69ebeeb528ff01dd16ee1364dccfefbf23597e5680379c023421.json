@@ -1,0 +1,76 @@
+{
+  "artist": "Blink 182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\nIt's Christmas\n[B5]Eve And I've only wrapped\n[F#5]two fucking presents It's Christmas\n[B5]Eve And I've only wrapped\n[F#5]two fucking presents And I\n[Ab5]hate hate hate your guts I\n[E5]hate hate hate your guts And\n\n[Chorus]\n[B5]I'll never [F#5]talk to you a-\n[E5]gain [F#5]\n[B5]I'll never [F#5]talk to you a-\n[E5]gain\n[B5]I'll never [F#5]talk to you a-\n[E5]gain\n[B5]I'll never [F#5]talk to you a-\n[E5]gain I'll never [F#5]talk It's Labor\n\n[Verse 2]\n[B5]day and my grampa just ate\n[F#5]seven fucking hot dogs Labor\n[B5]day and my grampa just ate\n[F#5]seven fucking hot dogs And he\n[Ab5]shit shit shit his pants He's\n[E5]always fucking shit his pants And\n\n[Chorus]\n[B5]I'll never [F#5]talk to you a-\n[E5]gain [F#5]\n[B5]I'll never [F#5]talk to you a-\n[E5]gain\n[B5]I'll never [F#5]talk to you a-\n[E5]gain\n[B5]I'll never [F#5]talk to you a-\n[E5]gain I'll never [F#5]talk to you a-\n[B5]gain",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Happy Holidays, You Bastard *alt",
+  "id": "4cdf6c23182a69ebeeb528ff01dd16ee1364dccfefbf23597e5680379c023421",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 164,
+  "normalizedKey": "blink 182|happy holidays you bastard",
+  "playableChords": [
+    "B5",
+    "F#5",
+    "Ab5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 8,
+      "name": "Chorus"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4cdf6c23182a69ebeeb528ff01dd16ee1364dccfefbf23597e5680379c023421",
+    "version": "BCFZ"
+  },
+  "tempo": 172,
+  "title": "Happy Holidays, You Bastard",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

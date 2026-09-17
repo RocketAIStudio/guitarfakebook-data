@@ -1,0 +1,144 @@
+{
+  "artist": "At The Gates",
+  "artistNormalized": "at the gates",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[B5]  [A#5]\n[G5]\n[B5]  [A#5]\n[G5]\n[B5]  [A#5]\n[G5]\n[B5]  [A#5]\n[G5]\n\n[Bridge]\n[C#5]\n[A5]Be-\n\n[Verse 1]\n[B5]hind the curtain [A#5]\n[G5]Laid to ruins\n[B5]Words that drift [A#5]\n[G5]Into oblivion With\n[B5]every dawn [A#5]The\n[G5]world deforms And\n[B5]as we fade [A#5]Our\n[G5]truth it dies\n\n[Bridge]\n[C#5]Our\npoetry of broken dreams\nAn a-\nbattoir of time [A5]\n\n[Chorus]\n[B5][A#5]Deep in the hive\n[G5]of the serpent\n[F#5]We shed the disgui-\n[G5]ses [E5][C#5]we have worn\n[B5]A [A#5]curtain of mad-\n[G5]men\n[F#5]We are the illu-\n[G5]sions [B5][C#5]we have torn\n\n[Bridge]\n[C#5]\nDeath and the labyrinth\nSwallowed by earth [A5]itself\n\n[Verse 2]\n[B5]With every\ndawn [C5][A5][C5]\n[B5]Of hunger and thirst\n[C5]\n[B5]The world deforms\n[C5][A5]To [C5]a\n[B5]pale uncertain ash\n[C5]\n[B5]Words without sound\n[C5/G]  [A5/E]  [C5/G]\n[B5]Fade away\nas they are [C5/G]swallowed\n[B5]Swallowed\nby [A5/E][C5/G]barriers [C5/G]and\n[B5]walls Like a swarm\n[C5/G]\n\n[Chorus]\n[B5][A#5]Deep in the hive\n[G5]of the serpent\n[F#5]We shed the disgui-\n[G5]ses [E5][C#5]we have worn\n[B5]A [A#5]curtain of mad-\n[G5]men\n[F#5]We are the illu-\n[G5]sions [B5][C#5]we have torn\n\n[Interlude]\n[B5]\n\n[Outro]\n[C#5]Our\npoetry of broken dreams\nAn a-\nbattoir of time\nDeath and the labyrinth\nSwallowed by earth itself",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "A5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "A5/E": {
+      "catalog": [
+        "557xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "C#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "C5/G": {
+      "catalog": [
+        "8-8-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x355xx",
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Death and the Labyrinth",
+  "id": "99841933d8502a979399deb35aae75c860b46b195135811d5acb695e01f37d5c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 195,
+  "normalizedKey": "at the gates|death and the labyrinth",
+  "playableChords": [
+    "B5",
+    "A#5",
+    "G5",
+    "C#5",
+    "A5",
+    "F#5",
+    "E5",
+    "C5",
+    "C5/G",
+    "A5/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Bridge"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Interlude"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "99841933d8502a979399deb35aae75c860b46b195135811d5acb695e01f37d5c",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Death and the Labyrinth",
+  "tuning": "B E A D F# B",
+  "variantRole": "primary"
+}

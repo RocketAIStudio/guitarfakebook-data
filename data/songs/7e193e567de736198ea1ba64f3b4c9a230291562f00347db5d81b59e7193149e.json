@@ -1,0 +1,130 @@
+{
+  "artist": "Blue Rodeo",
+  "artistNormalized": "blue rodeo",
+  "capo": "2",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[G]\n[D]\n[Csus2]\n[G]\n\n[Verse 1]\n[G]Don't tell me I'm wrong\n[D]'Cause I've been watch-\n[Csus2]ing every move that you make\n[G]Hearts\nyou steal, in your\n[Bm]makeup and heels Trou-\n[Csus2]ble for the men that you take\n[G]Every time\n\n[Pre-Chorus]\n[Bm]you walk in the room\n[Csus2]I couldn't ever be sure\n[Am]of a smile You were\n[Csus2]never the same way twice\n[Bm]I'm falling in love\n[Csus2]Oh, night after night\n[Am]Oh, it's\n[Csus2]cra-\nzy, ooh\n\n[Verse 2]\n[G]So many people who said,\n[D]ooh Girl,\n[Csus2]you've got nothing but time\n[G]Oh,\nyou are a shin-\n[Bm]ing star Don't\n[Csus2]worry what you’re leaving behind\n[G]Every time\n\n[Pre-Chorus]\n[Bm]you walk in the room\n[Csus2]I couldn't ever be sure\n[Am]of a smile You were\n[Csus2]never the same way twice\n[Bm]I'm falling in love\n[Csus2]Oh, night after night\n[Am]Oh, it's\n[Csus2]cra-\nzy Oh, you got to\n\n[Chorus]\n[G]try, try,\n[Bm]\n[Em]try\nAh, don't you know you've got to\n[G]try, try,\n[Bm]\n[Em]try, ooh\nOh, baby, you\n[Csus2]try, [Bm][Am]oh\n\n[Solo Organ]\n[G]\n[D]\n[Csus2]\n[G]\n[Bm]\n[Csus2]\n[G]Every time\n\n[Pre-Chorus]\n[Bm]you walk in the room\n[Csus2]I couldn't ever be sure\n[Am]of a smile You were\n[Csus2]never the same way twice\n[Bm]I'm falling in love\n[Csus2]Oh, night after night\n[Am]Oh, it's\n[Csus2]cra-\nzy Oh, you got to\n\n[Chorus]\n[G]try, try,\n[Bm]\n[Em]try\nAh, don't you know you've got to\n[G]try, try,\n[Bm]\n[Em]try, ooh\nOh, baby, you\n[Csus2]try, [Bm][Am]oh\n\n[Outro]\n[Csus2]Try, [Bm][Am]oh,\nwhoa,\n[G]whoa",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Csus2": {
+      "catalog": [
+        "x35533"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Try",
+  "id": "7e193e567de736198ea1ba64f3b4c9a230291562f00347db5d81b59e7193149e",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 234,
+  "normalizedKey": "blue rodeo|try",
+  "playableChords": [
+    "G",
+    "D",
+    "Csus2",
+    "Bm",
+    "Am",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Solo Organ"
+    },
+    {
+      "measure": 57,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    },
+    {
+      "measure": 76,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7e193e567de736198ea1ba64f3b4c9a230291562f00347db5d81b59e7193149e",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Try",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,110 @@
+{
+  "artist": "Autopsy",
+  "artistNormalized": "autopsy",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Theme 1 (Fade In)]\n[G#5/D#]  [A5/E]\n[C#5]  [A5/E]\n[G#5/D#]  [A5/E]\n[C#5]  [A5/E]\n[G#5/D#]  [A5/E]\n[C#5]  [A5/E]\n[G#5/D#]  [A5/E]\n[C#5]  [A5/E]\n\n[Theme 2]\n[G#5/D#]  [A5/E]\n[C#5]  [A5/E]\n[G#5/D#]  [A5/E]\n[C#5]  [A5/E]\n[G#5/D#]  [A5/E]\n[C#5]  [A5/E]\n[G#5/D#]  [A5/E]\n[C#5]  [A5/E]\n[G#5/D#]\n[C5]\n\n[Theme 3]\n[C#5]\n[B5]\n\n[Theme 4]\n[B5]\n\n[Theme 5]\n[A#5]\n\n[Verse]\n[A#5]Dead\nStiff and\ncold\nIn your\nbox\nTo de-\ncay\n\n[Theme 6]\n[A#5]Dead...\n\n[Outro]\n[A#5]\n\n[Fade Out]\n[A#5]",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "111xxx"
+      ],
+      "catalogCount": 1
+    },
+    "A5/E": {
+      "catalog": [
+        "757xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "444xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5/D#": {
+      "catalog": [
+        "646xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dead",
+  "id": "42bf64281c4e9dcb1b42cd60307a0449205c2bc652fd1ac0faf80534dbbb0d4e",
+  "key": "G♯",
+  "keyIdentified": true,
+  "lyricEventCount": 11,
+  "normalizedKey": "autopsy|dead",
+  "playableChords": [
+    "G#5/D#",
+    "A5/E",
+    "C#5",
+    "C5",
+    "B5",
+    "A#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Theme 1 (Fade In)"
+    },
+    {
+      "measure": 9,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 20,
+      "name": "Theme 3"
+    },
+    {
+      "measure": 30,
+      "name": "Theme 4"
+    },
+    {
+      "measure": 39,
+      "name": "Theme 5"
+    },
+    {
+      "measure": 51,
+      "name": "Verse"
+    },
+    {
+      "measure": 59,
+      "name": "Theme 6"
+    },
+    {
+      "measure": 67,
+      "name": "Outro"
+    },
+    {
+      "measure": 75,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "42bf64281c4e9dcb1b42cd60307a0449205c2bc652fd1ac0faf80534dbbb0d4e",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "Dead",
+  "tuning": "B E A D F# B",
+  "variantRole": "primary"
+}

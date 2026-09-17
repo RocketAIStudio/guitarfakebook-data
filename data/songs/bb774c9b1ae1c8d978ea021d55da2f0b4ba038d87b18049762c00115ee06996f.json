@@ -1,0 +1,101 @@
+{
+  "artist": "Blink-182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A5]\n\n[Verse 1]\n[A5]Breathing deeply,\nwalking backwards\n[D5]finding strength to\n[B5]call and [D5]ask her\n[A5]Rollercoaster\nfavorite ride\n[D5]let me kiss you\none last time\n\n[Chorus]\n[A5]\n[E5]\n[D5]\n[A5]\n[E5]\n[D5]\n\n[Verse 2]\n[A5]Leave me [D5]standing here\n[B5]act like I'm [D5]not around The\n[A5]coaster will probably [D5]never clear\n[B5]can I please [D5]go home now I\n[A5]had that dream [D5]about you\n[B5]again [D5]Where I\n[A5]wait outside [D5]until you let\n[B5]me in, and [D5]there I stay\n\n[Chorus]\n[A5]\n[E5]\n[D5]\n\n[Verse 3]\n[A5]Lay [D5]beside me\n[B5]and listen at [D5]the wall we'll\n[A5]keep on [D5]lying\n[B5]until the [D5]summer comes I\n[A5]had that dream [D5]about you\n[B5]again, where you\n[A5]drive my car [D5]right off\n[B5]the fucking cliff [D5]And now I`m\n\n[Verse 4]\n[A5]breathing deeply,\nwalking backwards,\n[D5]finding strength to\n[B5]call and [D5]ask her,\n[A5]Rollercoaster\nfavorite ride,\n[D5]let me kiss you\n[B5]one last [D5]time\n\n[Interlude]\n[A5]\n[E5]\n[D5]\n[A5]\n[E5]\n[D5]\n\n[Verse 5]\n[A5]Make me [D5]promise\n[B5]that I will [D5]never tell, all\n[A5]I [D5]remember's\n[B5]the way her [D5]bedroom smelled I\n[A5]had that dream [D5]about you\n[D5][B5]again, where\n[A5]I wait [D5]outside until you\n[B5]let me in [D5]And now I'm\n[A5]breathing deeply,\nwalking backwards,\n[D5]finding strength to\n[B5]call and ask her\n[A5]Rollercoaster\nfavorite ride,\n[D5]let me kiss you\n[B5]one last time good\n\n[Outro]\n[A5]night\nGood\nnight",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx",
+        "x244xx"
+      ],
+      "catalogCount": 2
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Roller Coaster *alt",
+  "id": "bb774c9b1ae1c8d978ea021d55da2f0b4ba038d87b18049762c00115ee06996f",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 231,
+  "normalizedKey": "blink 182|roller coaster",
+  "playableChords": [
+    "A5",
+    "D5",
+    "B5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 48,
+      "name": "Interlude"
+    },
+    {
+      "measure": 60,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 76,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bb774c9b1ae1c8d978ea021d55da2f0b4ba038d87b18049762c00115ee06996f",
+    "version": "BCFZ"
+  },
+  "tempo": 116,
+  "title": "Roller Coaster",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

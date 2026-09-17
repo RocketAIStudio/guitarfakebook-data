@@ -1,0 +1,128 @@
+{
+  "artist": "Blink-182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Am]Tragedy Erased my\n[F]memory And now\n[C]all I see is this black\n[G]rain [Abdim]\n[Am]Tragedy You took my\n[F]everything Now\n[C]all I feel All I feel is pain\n[G]  [Abdim]\n[Am]How can I go on knowing that I lost you?\n[F]Where did I go wrong? Where did you run off to?\n[C]Lost down here, broken and alone\n[G]  [Abdim]\n\n[Verse 1]\n[A5]I went and\nsearched for some answers\nBut all I\nfound were monsters\nThey're under my\nbed They're haunting this\n[E5]tie that's been severed This\n[F5]tie that's been severed\n[A5]Now I\nfollow your footsteps\nThrough the\nashes you once crept\nI feel so\nhollow now I'm trapped\n[E5]on this island This\n[F5]island of regret\n\n[Chorus]\n[Am]Tragedy Erased my\n[F]memory And now\n[C]all I see is this black\n[G]rain [Abdim]\n[Am]Tragedy You took my\n[F]everything Now\n[C]all I feel All I feel is pain\n[G]  [Abdim]\n[Am]How can I go on knowing that I lost you?\n[F]Where did I go wrong? Where did you run off to?\n[C]Lost down here, broken and alone\n[G]  [Abdim]\n\n[Verse 2]\n[A5]They left a\nnote on the front door\nWith a time and a\nplace As the tears poured\nfrom my eyes Straight\nto the floor, There was no\n[E5]going back once We knew\n[F5]what they came for\n[A5]And all I\nhave here is heartache\nAnd bones,\nand mirrors for me to\nbreak Only so much\nbad luck a person\n[E5]can take We quiver and\n[F5]quake, we shiver and\n\n[Interlude]\n[A5]shake\n[E5]\n[F5]\n\n[Chorus]\n[A5]Tragedy Erased my\nmemory And now\nall I see is this black\n[E5]rain [F5]\n[A5]Tragedy",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Abdim": {
+      "catalog": [
+        "4564xx"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Black Rain",
+  "id": "4030c4288fa235a232fb52a894ed490e8549fbecf5287b07eb55542584c7c7c3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 294,
+  "normalizedKey": "blink 182|black rain",
+  "playableChords": [
+    "Am",
+    "F",
+    "C",
+    "G",
+    "Abdim",
+    "A5",
+    "E5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Interlude"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4030c4288fa235a232fb52a894ed490e8549fbecf5287b07eb55542584c7c7c3",
+    "version": "BCFZ"
+  },
+  "tempo": 74,
+  "title": "Black Rain",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

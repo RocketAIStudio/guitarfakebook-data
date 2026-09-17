@@ -1,0 +1,104 @@
+{
+  "artist": "Beatles",
+  "artistNormalized": "beatles",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "I'm gonna\n\n[Verse 1]\n[G]tell aunt Mary\n'bout uncle John He\nsaid he had the misery but\nhe got a lot of fun Oh ba-\n[C]by,\nyeah now ba-\n[G]by,\nwoo ba-\n[D]by\n[C]Some fun tonight\n[G]\nI\n\n[Verse 2]\n[G]saw uncle John with\nlong tall Sally He\nsaw aunt Mary comin' and he\nducked back in the alley Oh ba-\n[C]by,\nyeah now ba-\n[G]by,\nwoo ba-\n[D]by\n[C]Some fun tonight\n[G]\n\n[Guitar Solo 1]\n[G]\n[C]\n[G]\n[D]\n[C]\n[G]\nWell,\n\n[Verse 3]\n[G]long tall Sally's built\npretty sweet She got\neverything that un\ncle John needs Oh ba-\n[C]by,\nyeah now ba-\n[G]by,\nwoo ba-\n[D]by\n[C]Some fun tonight\n[G]\n\n[Guitar Solo 2]\n[G]\n[C]\n[G]\n[D]\n[C]\n[G]Well,\nwe're gonna\n\n[Verse 4]\n[G]have some fun tonight\nHave\nsome fun tonight\n[C]Everything's all right\nHave\n[G]some fun tonight\nHave\n[D]some fun,\n[C]yeah, yeah,\n[G]yeah\nyeah We're gonna\n\n[Verse 5]\n[G]have some fun tonight\nHave\nsome fun tonight\nEv-\n[C]erything is all right\nHave\n[G]some fun tonight\nYeah, we'll have\n[D]some fun\n[C]Some fun tonight\n\n[Outro]\n[G]\n[G9]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G9": {
+      "catalog": [
+        "x-10-9-10-10-10"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Long Tall Sally *alt",
+  "id": "171cd238d41ac04ebe3e25bad617fef16654cb3ed0f389d5963cc8151ca2eaae",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 176,
+  "normalizedKey": "beatles|long tall sally",
+  "playableChords": [
+    "G",
+    "C",
+    "D",
+    "G9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Guitar Solo 1"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Guitar Solo 2"
+    },
+    {
+      "measure": 62,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 74,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 84,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "171cd238d41ac04ebe3e25bad617fef16654cb3ed0f389d5963cc8151ca2eaae",
+    "version": "BCFZ"
+  },
+  "tempo": 175,
+  "title": "Long Tall Sally",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

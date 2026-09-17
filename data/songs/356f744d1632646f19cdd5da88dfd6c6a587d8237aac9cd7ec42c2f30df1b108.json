@@ -1,0 +1,143 @@
+{
+  "artist": "Bob Dylan",
+  "artistNormalized": "bob dylan",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 9,
+  "content": "[Verse 1]\n[C#]When the rain is blowing in\n[G#]your face\n[G#m]And the whole world is\n[F#]on your case\n[F#m]I could offer you a warm\n[C#]embrace\n[D#9]To make you [A#madd11/D#]feel my love\n[C#]\n\n[Verse 2]\n[C#]When the evening shadows and the stars\n[G#]appear\n[G#m]And there is no one there to dry\n[F#]your tears\n[F#m]I could hold you for a\n[C#]million years\n[D#9]To make you [A#madd11/D#]feel my love\n[C#]\n\n[Bridge]\n[F#]I know you haven't made your\n[C#]mind up yet\n[C#aug]But I would [F#/C#]never do you wrong\n[C#]\n[F#]I’ve known it from the moment\n[C#]that we met\n[D#9]No doubt in my mind where you belong\n[G#]\n\n[Verse 3]\n[C#]I'd go hungry, I'd go\n[G#]black and blue\n[G#m]I'd go crawling down the\n[F#]avenue\n[F#m]I know there's nothing that I\n[C#]wouldn't do\n[D#9]To make you [A#madd11/D#]feel my love\n[C#]\n\n[Interlude]\n[C#]\n[G#]\n[G#m]\n[F#]\n[F#m]\n[C#]\n[D#9]  [A#madd11/D#]\n[C#]\n\n[Bridge]\n[F#]The storms are raging on the\n[C#]rolling sea\n[C#aug]And on the [F#/C#]highway of regret\n[C#]\n[F#]The winds of change are blowing\n[C#]wild and free\n[D#9]You ain't seen nothing like me\n[G#]yet\n\n[Verse 4]\n[C#]I could make you happy, make your\n[G#]dreams come true\n[G#m]Nothing that I would-\n[F#]n't do\n[F#m]Go to the ends of the\n[C#]earth for you\n[D#9]To make you [A#madd11/D#]feel my love\n[C#]\n\n[Outro]\n[C#]\n[G#]\n[G#m]\n[F#]\n\n[Fade-Out]\n[F#m]\n[C#]\n[D#9]  [A#madd11/D#]\n[C#]",
+  "diagrams": {
+    "A#madd11/D#": {
+      "catalog": [
+        "xx132x"
+      ],
+      "catalogCount": 1
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "C#aug": {
+      "catalog": [
+        "xxx665"
+      ],
+      "catalogCount": 1
+    },
+    "D#9": {
+      "catalog": [
+        "xx1021"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#/C#": {
+      "catalog": [
+        "xxx676"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Make You Feel My Love",
+  "id": "356f744d1632646f19cdd5da88dfd6c6a587d8237aac9cd7ec42c2f30df1b108",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 208,
+  "normalizedKey": "bob dylan|make you feel my love",
+  "playableChords": [
+    "C#",
+    "G#",
+    "G#m",
+    "F#",
+    "F#m",
+    "D#9",
+    "A#madd11/D#",
+    "C#aug",
+    "F#/C#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 18,
+      "name": "Bridge"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 34,
+      "name": "Interlude"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 58,
+      "name": "Outro"
+    },
+    {
+      "measure": 62,
+      "name": "Fade-Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "356f744d1632646f19cdd5da88dfd6c6a587d8237aac9cd7ec42c2f30df1b108",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "Make You Feel My Love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

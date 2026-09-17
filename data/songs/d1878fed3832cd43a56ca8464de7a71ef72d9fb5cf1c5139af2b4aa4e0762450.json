@@ -1,0 +1,124 @@
+{
+  "artist": "Blink 182",
+  "artistNormalized": "blink 182",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "One two three four\n\n[Intro]\n[E5]\n[G5]  [F#5]  [F5]\n[E5]\n[G5]  [F#5]  [F5]\n\n[Verse 1]\n[E5]Fuckin' and suckin' and touchin'\nFuckin' and suckin' and touchin'\nFuckin' and suckin' and touchin'\n[G5]  [F#5]  [F5]\n[E5]Fuckin' and suckin' and touchin'\nFuckin' and suckin' and touchin'\nFuckin' and suckin' and touchin'\n[G5]  [F#5]  [F5]\n\n[Chorus]\n[Em]\n[C]It's mother's\n[G]day\n[D]\n[Em]\n[C]It's mother's\n[G]day\n[D]\n[Em]\n[C]It's mother's\n[G]day\n[D]\n[Em]\n[C]It's mother's\n[G]day\n[D]I'll be\n\n[Verse 2]\n[E5]fuckin' and suckin' and touchin'\nFuckin' and suckin' and touchin'\nFuckin' and suckin' and touchin'\n[G5]  [F#5]  [F5]\n[E5]Fuckin' and suckin' and touchin'\nFuckin' and suckin' and touchin'\nFuckin' and suckin' and touchin'\n[G5]  [F#5]  [F5]\n\n[Chorus]\n[Em]\n[C]It's mother's\n[G]day\n[D]\n[Em]\n[C]It's mother's\n[G]day\n[D]\n[Em]\n[C]It's mother's\n[G]day\n[D]\n[Em]\n[C]It's mother's\n[G]day\n[D]\n[Em]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mothers day *alt",
+  "id": "d1878fed3832cd43a56ca8464de7a71ef72d9fb5cf1c5139af2b4aa4e0762450",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 134,
+  "normalizedKey": "blink 182|mothers day",
+  "playableChords": [
+    "E5",
+    "G5",
+    "F#5",
+    "F5",
+    "Em",
+    "C",
+    "G",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d1878fed3832cd43a56ca8464de7a71ef72d9fb5cf1c5139af2b4aa4e0762450",
+    "version": "BCFZ"
+  },
+  "tempo": 200,
+  "title": "Mothers day",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,126 @@
+{
+  "artist": "Ben Harper",
+  "artistNormalized": "ben harper",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]  [F]\n[G]  [Am]\n[C]  [F]  [G]\nNot\n\n[Verse 1]\n[C]talkin' 'bout a year [F]No\n[G]not three or [Am]four I don't\n[C]want that kind of [F]forever In my\n[G]life [Am]anymore For-\n[C]ever always seems [F]To be 'round\n[G]when it begins [Am]But for-\n[C]ever never [F]seems To be around\n[G]when it ends [Am]So [Csus2/B]give me your\n\n[Chorus]\n[C]forever [G/B]\n[Am][G]Please your\n[C]forever [G/B]\n[Am][G]Not a day less will\n[C]do [G/B]\n[Am][G]From\n[C]you [G/B]\n[G][Am]People\n\n[Verse 2]\n[C]spend so much time [F]\n[G]Every single [Am]day\n[C]Runnin' 'round all [F]over town Givin' their\n[G]forever away [Am]But\n[C]no not me I [F]won't let my\n[G]forever roam [Am]And\n[C]now I hope I can [F]find My for-\n[G]ever a home [Am]So [Csus2/B]give me your\n\n[Chorus]\n[C]forever [G/B]\n[Am][G]Please your\n[C]forever [G/B]\n[Am][G]Not a day less will\n[C]do [G/B]\n[Am][G]From you\n[C]  [G/B]\n[G]  [Am]\n\n[Interlude]\n[C]  [F]\n[G]  [Am]\n[C]  [F]\n[G]  [Am]\n[C]  [F]\n[G]  [Am]\n[C]  [F]\n[G]  [Am]  [Csus2/B]\n[C]  [G/B]\n[Am]  [G]\n[C]  [G/B]\n[Am]  [G]\n[C]  [G/B]\n[Am]  [G]\n[C]  [G/B]\n[G][Am]Like a\n\n[Verse 3]\n[C]handless clock with numbers [F]An\n[G]infinite of [Am]time\n[C]No not the [F]forever found\n[G]Only in the mind [Am]For-\n[C]ever always seems [F]To be 'round\n[G]when things begin [Am]But for-\n[C]ever never seems [F]To be around\n[G]things end [Am]So [Csus2/B]give me your\n\n[Chorus]\n[C]forever [G/B]\n[Am][G]Please your\n[C]forever [G/B]\n[Am][G]Not a day less will\n[C]do [G/B]\n[Am][G]From\n\n[Outro]\n[C]you [G/B]\n[Am]  [G]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Csus2/B": {
+      "catalog": [
+        "x2001x"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Forever *alt 2",
+  "id": "f64076562a50627c14b468cec36b729f80390764d6b4c0f599d1aea850da831e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 216,
+  "normalizedKey": "ben harper|forever",
+  "playableChords": [
+    "C",
+    "F",
+    "G",
+    "Am",
+    "Csus2/B",
+    "G/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Interlude"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f64076562a50627c14b468cec36b729f80390764d6b4c0f599d1aea850da831e",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Forever",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

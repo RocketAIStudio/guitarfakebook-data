@@ -1,0 +1,162 @@
+{
+  "artist": "Between The Buried And Me",
+  "artistNormalized": "between the buried and me",
+  "capo": "No capo",
+  "chordPositionCount": 46,
+  "chordSymbolCount": 10,
+  "content": "[Intro (Accordion)]\n[E]\n[F]\n[Dm]\n[E]\n[F]\n[Dm]\n[E]\n\n[Intro (Piano)]\n[Am]  [E]\n[C]\n[D]\n[Dm]\n[Am]  [E]\n[C]\n[D]\n[Dm]\n\n[Bridge (Accordion)]\n[E]\n\n[Verse (Accordion)]\n[E]\"May I\nhave this dance?\"...\n[F]it nervously asks The\n[Dm]two glide into the\n[E]heavy crowd A-\nwake this smile\nFa-\nmiliar...\n[F]The comfort of be-\n[Dm]ing We are every-\n[E]thing\n\n[Chorus (Piano)]\n[Am]Time is [E]ir-\n[C]relevant while you're in my\n[D]arms... maker\n[Dm]The grid is done\n[Am]and we all [E]slowly\n[C]collapse around each o-\n[D]ther Piles of\n[Dm]flesh and wires create\n[E]a mountain of\nmemo-\n[D#]ry\n\n[Outro]\n[Em]  [B]  [G]  [B]\n[Em]  [B]  [G]\n[Em]  [B]  [G]  [B]\n[Em]  [B]  [G]\n[B]\n[Em]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "x6888x"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Glide",
+  "id": "4788c1b40e466a1db1d4300ca186b66630e91ac110ef96c7a9f5d2fd62048e02",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 80,
+  "normalizedKey": "between the buried and me|glide",
+  "playableChords": [
+    "E",
+    "F",
+    "Dm",
+    "Am",
+    "C",
+    "D",
+    "D#",
+    "Em",
+    "B",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro (Accordion)"
+    },
+    {
+      "measure": 14,
+      "name": "Intro (Piano)"
+    },
+    {
+      "measure": 22,
+      "name": "Bridge (Accordion)"
+    },
+    {
+      "measure": 24,
+      "name": "Verse (Accordion)"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus (Piano)"
+    },
+    {
+      "measure": 47,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4788c1b40e466a1db1d4300ca186b66630e91ac110ef96c7a9f5d2fd62048e02",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "Glide",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

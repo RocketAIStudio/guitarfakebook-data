@@ -1,0 +1,150 @@
+{
+  "artist": "Black Sabbath",
+  "artistNormalized": "black sabbath",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Em]\n[D]  [Em]\n[Em]\n[D]  [Em]\n[Em]\n[D]  [Em]\n[Em]\n[D]  [Em]\n[Am]\n[Am]  [C]  [D]\n[Am]  [C]  [D]\n[Am]  [C]  [D]\n[Em]\n[Em]\n\n[Pre-Verse]\n[Em]\nThe\n\n[Verse 1]\nworld [Em]today is such a wicked place\nFigh-\nting going on between the human race\nPeo-\nple go to work just to earn their bread\nWhile\npeople just across the sea are counting their dead\n\n[Bridge]\n[Bm]\n[C#m]\n\n[Pre-Verse]\n[Em]\nA\n\n[Verse 2]\n[Em]politician's job they say is very high\nFor\nhe has to choose who's gotta go and die\nThey\ncan put a man on the Moon quite easy\nWhile\npeople here on Earth are dying of old diseases\n\n[Bridge]\n[Bm]\n[C#m]\n\n[Interlude]\n[Em]\n\n[Solo]\n[Em]\n\n[Pre-Verse]\n[Em]\nA\n\n[Verse 3]\n[Em]woman goes to work every day after day\nShe\njust goes to work just to earn her pay\nChild\nsitting crying by a life that's harder\nHe\ndoesn't even know who is his father\n\n[Bridge]\n[Bm]\n[C#m]\n\n[Outro]\n[Em]\n[D]  [Em]\n[Em]\n[D]  [Em]\n[Em]\n[D]  [Em]\n[Em]\n[D]  [Em]\n[Am]\n[Am]  [C]  [D]\n[Am]  [C]  [D]\n[Am]  [C]  [D]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wicked World",
+  "id": "e5797d04c2dfe1148467241e3205538655f951a6ef2d5c10814f1528183a3163",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 134,
+  "normalizedKey": "black sabbath|wicked world",
+  "playableChords": [
+    "Em",
+    "D",
+    "Am",
+    "C",
+    "Bm",
+    "C#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 27,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Interlude"
+    },
+    {
+      "measure": 72,
+      "name": "Solo"
+    },
+    {
+      "measure": 81,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 85,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 93,
+      "name": "Bridge"
+    },
+    {
+      "measure": 95,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e5797d04c2dfe1148467241e3205538655f951a6ef2d5c10814f1528183a3163",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Wicked World",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

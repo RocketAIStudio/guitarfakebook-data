@@ -1,0 +1,89 @@
+{
+  "artist": "Bob Marley & The Wailers",
+  "artistNormalized": "bob marley the wailers",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[A]\nDon't\n\n[Chorus]\n[A]worry about a thing,\n'Cause\nevery [D]little thing gonna be all right.\n[A]Singin': Don't\n[A]worry about a thing,\n'Cause\nevery [D]little thing gonna be all right\nRise up this\n\n[Verse 1]\n[A]mornin', Smile with the\n[E]risin' sun, Three little birds\n[A]Pitch by my\n[D]doorstep Singin' sweet\nsongs [A]Of melodies\npure [E]and true, Sayin:\n[D]\"This is my message to you\"\n[A]Singin': Don't\n\n[Chorus]\n[A]worry about a thing,\n'Cause\nevery [D]little thing gonna be all right.\n[A]Singin': Don't\n[A]worry about a thing,\n'Cause\nevery [D]little thing gonna be all right\nRise up this\n\n[Verse 2]\n[A]mornin', Smile with the\n[E]risin' sun, Three little birds\n[A]Pitch by my\n[D]doorstep Singin' sweet\nsongs [A]Of melodies\npure [E]and true, Sayin:\n[D]\"This is my message to you-\n[A]Singin': Don't\n\n[Outro]\n[A]worry about a thing,\n'Cause\nevery [D]little thing gonna be all right.\n[A]Singin': Don't\n[A]worry about a thing,\n'Cause\nevery [D]little thing gonna be all right\n[A]Singin': Don't\n[A]worry about a thing,\n'Cause\nevery [D]little thing gonna be all right.\n[A]Singin': Don't\n[A]worry about a thing,\n'Cause\nevery [D]little thing gonna be all right\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "xx7655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x76454",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Three Little Birds",
+  "id": "18fe82ef7d885f2a7651b78e8532c5e9b526b56121c0c083f3be2e3be0cce8ab",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 238,
+  "normalizedKey": "bob marley the wailers|three little birds",
+  "playableChords": [
+    "A",
+    "D",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Chorus"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "18fe82ef7d885f2a7651b78e8532c5e9b526b56121c0c083f3be2e3be0cce8ab",
+    "version": "BCFZ"
+  },
+  "tempo": 76,
+  "title": "Three Little Birds",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

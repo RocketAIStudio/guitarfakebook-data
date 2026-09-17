@@ -1,0 +1,123 @@
+{
+  "artist": "Biffy Clyro",
+  "artistNormalized": "biffy clyro",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em7]\n[G]\n[Cadd9]\n[Dsus4]\n[G]\n[Cadd9]\n\n[Verse 1]\n[G]I would dig a thousand holes\nto lay\n[Cadd9]next to you\nI would\n[Em7]dig a thousand more\n[Dsus4]if I needed to\n[Cadd9]\n[G]I look around the grave\nfor an es-\n[Cadd9]cape route of old routines\nThere\n[Dsus4]doesn’t seem to be\n[G]any other way\n[Cadd9]\nCause\n\n[Chorus]\n[Em7]I’ve started falling apart,\n[G]I’m not savoring life\n[Cadd9]\nI’ve for-\n[Dsus4]gotten how good it could be\n[G]to feel alive\n[Cadd9]\n\n[Interlude]\n[Em7]\n[G]\n[Cadd9]\n[Dsus4]\n[G]\n[Cadd9]\n\n[Verse 2]\n[G]Crazy as it sounds, you won't\nfeel as\n[Cadd9]low as you feel right now\nAt\n[Em7]least that’s what I've been told\n[Dsus4]by everyone\n[Cadd9]\n\n[Pre-Chorus]\n[Dsus4]I whisper empty sounds\n[Em7]in your ear And\n[Cadd9]hope that you won’t let go\n[A7sus4]\n[Cadd9]Take the pieces and\n[A7sus4]build them skywards Cause\n\n[Chorus]\n[Em7]I’ve started falling apart,\n[G]I’m not savoring life\n[Cadd9]\nI’ve for-\n[Dsus4]gotten how good it could be\n[G]to feel alive\n[Cadd9]\n[Em7]I’ve started falling apart,\n[G]I’m not savoring life\n[Cadd9]Take the pieces and\nbuild them skywards I’ve for-\n[Dsus4]gotten how good it could be\n[G]to feel alive\n[Cadd9]Take the pieces and\nbuild them skywards\n\n[Solo]\n[Em7]\n[G]\n[Cadd9]\n[Dsus4]\n[G]\n[Cadd9]\n\n[Bridge]\n[G]I’ve started falling apart,\nI’m not savoring life\n[Cadd9]Take the pieces and\nbuild them skywards I’ve for-\n[Em7]gotten how good it could be\n[Dsus4]to feel alive\n[Cadd9]Take the pieces and\nbuild them skywards\n\n[Chorus]\n[Em7]I’ve started falling apart,\n[G]I’m not savoring life\n[Cadd9]Take the pieces and\nbuild them skywards I’ve for-\n[Dsus4]gotten how good it could be\n[G]to feel alive\n[Cadd9]Take the pieces and\n[A7sus4]build them skywards\n\n[Outro]\n[Em7]Take the pieces and\n[G]build them skywards and\n[Cadd9]Take the pieces and\n[A7sus4]build them skywards and\n[Em7]Take the pieces and\n[G]build them up to the\n\n[Fade Out]\n[Cadd9]sky",
+  "diagrams": {
+    "A7sus4": {
+      "catalog": [
+        "x02233"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus4": {
+      "catalog": [
+        "xx0233"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "022033",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Machines",
+  "id": "ca6baee902e479dc274278ddccafa275857853ce2b5460f03ea70e2fb6ddcc9d",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 318,
+  "normalizedKey": "biffy clyro|machines",
+  "playableChords": [
+    "Em7",
+    "G",
+    "Cadd9",
+    "Dsus4",
+    "A7sus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Interlude"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    },
+    {
+      "measure": 72,
+      "name": "Solo"
+    },
+    {
+      "measure": 80,
+      "name": "Bridge"
+    },
+    {
+      "measure": 88,
+      "name": "Chorus"
+    },
+    {
+      "measure": 96,
+      "name": "Outro"
+    },
+    {
+      "measure": 102,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ca6baee902e479dc274278ddccafa275857853ce2b5460f03ea70e2fb6ddcc9d",
+    "version": "BCFZ"
+  },
+  "tempo": 108,
+  "title": "Machines",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

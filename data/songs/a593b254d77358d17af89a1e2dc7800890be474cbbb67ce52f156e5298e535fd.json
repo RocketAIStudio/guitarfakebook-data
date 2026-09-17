@@ -1,0 +1,92 @@
+{
+  "artist": "Beartooth",
+  "artistNormalized": "beartooth",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Cm]  [D#6]\n[F7sus2]\n[Cm]  [D#6]\n[F7sus2]\n\n[Verse 1]\n[Cm]Can't take another [D#6]second of this he-\n[F7sus2]ll\n[Cm]Making up [D#6]stories and saying I'm\n[F7sus2]better off dead\n[Cm]They want me to [D#6]be this perfect thi-\n[F7sus2]ng Like\n[Cm]everything is fine [D#6]Like\n[F7sus2]everything is ok\n\n[Chorus]\n[G#maj7]But I'm not close to\n[F7sus2]perfect I'm not close to\n[Cm]sane I'm not the one to\n[D#6]worship And I'm not the one to blame\n[G#maj7]But you made up your mind\n[F7sus2]And you put me on your stage\n[Cm]Just take it all back\n[F7sus2]I'm not the king of anything\n\n[Interlude]\n[Cm]  [D#6]\n[F7sus2]\n[Cm]  [D#6]\n[F7sus2]\n\n[Verse 2]\n[Cm]Can't take another [D#6]second of this pai-\n[F7sus2]n I've\n[Cm]tried to be the [D#6]person all of\n[F7sus2]you want me to be\n[Cm]Maybe I'm [D#6]ok with who I a-\n[F7sus2]m I\n[Cm]know I'm just a child [D#6]but I'll\n[F7sus2]try to be a man\n\n[Chorus]\n[G#maj7]But I'm not close to\n[F7sus2]perfect I'm not close to\n[Cm]sane I'm not the one to\n[D#6]worship And I'm not the one to blame\n[G#maj7]But you made up your mind\n[F7sus2]And you put me on your stage\n[Cm]Just take it all back\n[F7sus2]I'm not the king of anything\n\n[Outro]\n[Cm]  [D#6]\n[F7sus2]\n[Cm]  [D#6]\n[F7sus2]I'm not the king of anything",
+  "diagrams": {
+    "Cm": {
+      "catalog": [
+        "000231",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "D#6": {
+      "catalog": [
+        "33323x"
+      ],
+      "catalogCount": 1
+    },
+    "F7sus2": {
+      "catalog": [
+        "555765"
+      ],
+      "catalogCount": 1
+    },
+    "G#maj7": {
+      "catalog": [
+        "x13231"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "King Of Anything",
+  "id": "a593b254d77358d17af89a1e2dc7800890be474cbbb67ce52f156e5298e535fd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 207,
+  "normalizedKey": "beartooth|king of anything",
+  "playableChords": [
+    "Cm",
+    "D#6",
+    "F7sus2",
+    "G#maj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Interlude"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a593b254d77358d17af89a1e2dc7800890be474cbbb67ce52f156e5298e535fd",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "King Of Anything",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

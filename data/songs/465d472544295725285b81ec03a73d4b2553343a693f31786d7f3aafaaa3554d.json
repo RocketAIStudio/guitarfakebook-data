@@ -1,0 +1,104 @@
+{
+  "artist": "Bill Haley & His Comets",
+  "artistNormalized": "bill haley his comets",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\nOne, two, three o'clock,\nfour o'clock rock\nFive, six, seven o'clock,\neight o'clock rock\nNine, ten, eleven o'clock,\ntwelve o'clock rock We're gonna\n[E7]rock around the\nclock tonight Put your\n\n[Verse 1]\n[A]glad rags on and\njoin me hon' We'll\nhave some fun when the\nclock strikes one We're gonna\n[D9]rock around the\nclock tonight We're gonna\n[A]rock, rock, rock, 'till\nbroad daylight We're gonna\n[E9]rock, gonna rock around\nthe clock tonight\n[A]\nWhen the\n\n[Verse 2]\n[A]clock strikes two,\nthree and four If the\nband slows down we'll\nyell for more We're gonna\n[D9]rock around the\nclock tonight We're gonna\n[A]rock, rock, rock, 'till\nbroad daylight We're gonna\n[E9]rock, gonna rock around\nthe clock tonight\n[A]\n\n[Solo]\n[A]\n[D9]\n[A]\n[E9]\n[A]\nWhen the\n\n[Verse 3]\n[A]chimes ring five,\nsix, and seven\nWe'll be right in\nseventh heaven We're gonna\n[D9]rock around the\nclock tonight We're gonna\n[A]rock, rock, rock, 'till\nbroad daylight We're gonna\n[E9]rock, gonna rock around\nthe clock tonight\n[A]\nWhen it's\n\n[Verse 4]\n[A]eight, nine, ten, e-\nleven too I'll be\ngoin' strong and\nso will you We're gonna\n[D9]rock around the\nclock tonight We're gonna\n[A]rock, rock, rock, 'till\nbroad daylight We're gonna\n[E9]rock, gonna rock around\nthe clock tonight\n[A]\n\n[Interlude]\n[A]\n[D9]\n[A]\n[E9]\n[A]\nWhen the\n\n[Verse 5]\n[A]clock strikes twelve we'll\ncool off then Start\nrockin' 'round the\nclock again We're gonna\n[D9]rock around the\nclock tonight We're gonna\n[A]rock, rock, rock, 'till\nbroad daylight We're gonna\n[E9]rock, gonna rock around\nthe clock tonight\n[A]\n\n[Outro]\n[E7]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D9": {
+      "catalog": [
+        "x54555"
+      ],
+      "catalogCount": 1
+    },
+    "E7": {
+      "catalog": [
+        "x7675x",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "E9": {
+      "catalog": [
+        "x76777"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rock Around the Clock",
+  "id": "465d472544295725285b81ec03a73d4b2553343a693f31786d7f3aafaaa3554d",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 296,
+  "normalizedKey": "bill haley his comets|rock around the clock",
+  "playableChords": [
+    "A",
+    "E7",
+    "D9",
+    "E9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Solo"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 70,
+      "name": "Interlude"
+    },
+    {
+      "measure": 82,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 94,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "465d472544295725285b81ec03a73d4b2553343a693f31786d7f3aafaaa3554d",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Rock Around the Clock",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

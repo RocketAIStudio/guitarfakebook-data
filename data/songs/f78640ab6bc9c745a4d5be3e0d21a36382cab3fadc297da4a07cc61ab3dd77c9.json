@@ -1,0 +1,116 @@
+{
+  "artist": "Bastille",
+  "artistNormalized": "bastille",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E]\n[B]  [F#]\n\n[Verse 1]\n[E]Obsession it takes con-\n[B]trol [F#]\n[E]Obsession it eats me\n[B]whole [F#]\n[G#m]I can't say the words [F#]out loud\n[G#m]So in a rhyme I wrote [F#]you down\n[E]Now you'll live through the [F#]ages I\n[E]can feel your pulse in [F#]the pages\n\n[Pre-Chorus]\n[B][E]woahoh, woah-\n[F#]oh oh I have\n\n[Chorus]\n[E]written you down [B]Now you\n[G#m]will live forever [F#]And all\n[E]the world will read [B]you And\n[G#m]you will live [F#]forever In\n[E]eyes not yet [B]created On\n[E]tongues that are not [B]born I have\n[E]written you down [B]Now\n[G#m]you will live [F#]forever\n\n[Pre-Verse]\n[E]\n[B]  [F#]\n\n[Verse 2]\n[E]Your body lies upon the\n[B]sheets [F#]\n[E]Of paper and words so\n[B]sweet [F#]\n[G#m]I can't [F#]say the words\n[G#m]so I wrote you [F#]into my verse\n[E]Now you'll live through the [F#]ages\n[E]I can feel your pulse [F#]in the pages\n\n[Pre-Chorus]\n[E]woahoh, [B]woahoh\n[F#]oh I have\n\n[Chorus]\n[E]written you down [B]Now you\n[G#m]will live forever [F#]And all\n[E]the world will read [B]you And\n[G#m]you will live [F#]forever In\n[E]eyes not yet [B]created On\n[E]tongues that are not [B]born I have\n[E]written you down [B]Now\n[G#m]you will live [F#]forever\n\n[Bridge]\n[E]I have read her with these eyes\nI've read her with these eyes I\n[B]have held her in these\n[F#]hands I have\n[E]written you down [B]Now you\n[G#m]will live forever [F#]The vir-\n[E]tues in the verse [B]And\n[G#m]you will live [F#]forever I have\n\n[Chorus]\n[E]written you down [B]Now you\n[G#m]will live forever [F#]And all\n[E]the world will read [B]you and\n[G#m]you will live [F#]forever In\n[E]eyes not yet [B]created On\n[E]tongues that are not [B]born I have\n[E]written you down [B]\n[G#m]Now you will live [F#]forever\n\n[Outro]\n[E]\n[B]You will live [F#]forever",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Poet",
+  "id": "f78640ab6bc9c745a4d5be3e0d21a36382cab3fadc297da4a07cc61ab3dd77c9",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 311,
+  "normalizedKey": "bastille|poet",
+  "playableChords": [
+    "E",
+    "B",
+    "F#",
+    "G#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f78640ab6bc9c745a4d5be3e0d21a36382cab3fadc297da4a07cc61ab3dd77c9",
+    "version": "BCFZ"
+  },
+  "tempo": 86,
+  "title": "Poet",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}
