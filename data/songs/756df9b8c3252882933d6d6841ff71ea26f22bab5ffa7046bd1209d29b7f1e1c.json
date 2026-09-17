@@ -1,0 +1,104 @@
+{
+  "artist": "Eric Clapton",
+  "artistNormalized": "eric clapton",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Fmaj7/C]\n[Cmaj7]\n[Fmaj7/C]\n[Cmaj7]\n[Fmaj7/C]\n[Cmaj7]\n[Fmaj7/C]\n[Cmaj7]\n\n[Verse 1]\n[Fmaj7/C]Whippoorwill sin-\n[Cmaj7]ging\n[Fmaj7/C]Soft summer breeze\n[Cmaj7]\n[Fmaj7/C]Makes me think of my ba-\n[Cmaj7]by I\n[Fmaj7/C]left down in New Or-\n[Cmaj7]leans I\n[Fmaj7/C]left down in New Or-\n[Cmaj7]leans\n\n[Verse 2]\n[Fmaj7/C]Magnolia, you\n[Cmaj7]sweet thing\n[Fmaj7/C]You're driving me mad\n[Cmaj7]\n[Fmaj7/C]Gotta get back to\n[Cmaj7]you, babe\n[Fmaj7/C]You're the best I ever had\n[Cmaj7]\n[Fmaj7/C]You're the best I ever had\n[Cmaj7]\n\n[Verse 3]\n[Am7]You whisper \"Good\n[G]morning\"\n[Am7]So gently in my\n[G]ear\n[Am7]I'm coming home to\n[G]you, babe\n[Fmaj7/C]I'll soon be there\n[Cmaj7]\n[Fmaj7/C]I'll soon be there\n[Cmaj7]\n\n[Solo]\n[Am7]\n[G]\n[Am7]\n[G]\n[Am7]\n[G]\n[Fmaj7/C]\n[Cmaj7]\n[Fmaj7/C]\n[Cmaj7]\n\n[Verse 4]\n[Fmaj7/C]Magnolia, you\n[Cmaj7]sweet thing\n[Fmaj7/C]You're driving me mad\n[Cmaj7]\n[Fmaj7/C]I've gotta get back to\n[Cmaj7]you, babe\n[Fmaj7/C]You're the best I ever had\n[Cmaj7]\n\n[Outro]\n[Fmaj7/C]You're the best I ever had\n[Cmaj7]\n[Fmaj7/C]You're the best I ever had\n[Cmaj7]\n[Fmaj7/C]You're the best I ever had\n[Cmaj7]\n\n[Fade Out]\n[Fmaj7/C]You're the best I ever had\n[Cmaj7]\n[Fmaj7/C]You're the best I ever had\n[Cmaj7]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7/C": {
+      "catalog": [
+        "x33210"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Magnolia",
+  "id": "756df9b8c3252882933d6d6841ff71ea26f22bab5ffa7046bd1209d29b7f1e1c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 150,
+  "normalizedKey": "eric clapton|magnolia",
+  "playableChords": [
+    "Fmaj7/C",
+    "Cmaj7",
+    "Am7",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 40,
+      "name": "Solo"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 58,
+      "name": "Outro"
+    },
+    {
+      "measure": 64,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "756df9b8c3252882933d6d6841ff71ea26f22bab5ffa7046bd1209d29b7f1e1c",
+    "version": "BCFZ"
+  },
+  "tempo": 74,
+  "title": "Magnolia",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

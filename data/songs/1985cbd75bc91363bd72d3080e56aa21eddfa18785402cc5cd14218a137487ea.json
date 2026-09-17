@@ -1,0 +1,108 @@
+{
+  "artist": "Elvis Presley",
+  "artistNormalized": "elvis presley",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]  [Am]\n[F]  [G]\n[C]  [Am]\n[F][G]Blue\n\n[Verse 1]\n[C]moon [Am]\n[F]You saw me [G]standing alone\n[C]  [Am]\n[F]Without a [G]dream in my heart\n[C]  [Am]\n[F]Without a [G]love of my\n[C]own [Am]\n[F][G]Blue\n\n[Verse 2]\n[C]moon [Am]\n[F]You knew just [G]what I was there\n[C]for [Am]\n[F]You heard me [G]saying a pray\n[C]for [Am]\n[F]Someone I [G]really could care\n[C]for [Am]\n[F]  [G]\n\n[Bridge]\n[C]Uh [Am]\n[F]  [G]\n[C]  [Am]\n[F]  [G]\n[C]  [Am]\n[F]Without a [G]love of my\n[C]own [Am]\n[F][G]Blue\n\n[Verse 3]\n[C]moon [Am]\n[F]You saw me [G]standing alone\n[C]  [Am]\n[F]Without a [G]dream in my heart\n[C]  [Am]\n[F]Without a [G]love of my\n[C]own [Am]\n[F]  [G]\n\n[Bridge]\n[C]Uh [Am]\n[F]  [G]\n[C]  [Am]\n[F]  [G]\n[C]  [Am]\n[F]Without a [G]love of my\n[C]own [Am]\n[F][G]Blue\n\n[Outro]\n[C]moon [Am]\n[F][G]Uh\n[C]  [Am]\n[F]  [G]\n[C]  [Am]\n[F]Without a [G]love of my\n[C]own [Am]\n[F]  [G]\n\n[Fade Out]\n[C]Uh [Am]\n[F]  [G]\n[C]  [Am]\n[F]M.... [G]\n[C]  [Am]\n[F]  [G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Blue Moon",
+  "id": "1985cbd75bc91363bd72d3080e56aa21eddfa18785402cc5cd14218a137487ea",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 100,
+  "normalizedKey": "elvis presley|blue moon",
+  "playableChords": [
+    "C",
+    "Am",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Outro"
+    },
+    {
+      "measure": 53,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1985cbd75bc91363bd72d3080e56aa21eddfa18785402cc5cd14218a137487ea",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "Blue Moon",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

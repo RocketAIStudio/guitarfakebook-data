@@ -1,0 +1,96 @@
+{
+  "artist": "Ed Sheeran",
+  "artistNormalized": "ed sheeran",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[E]It's just another night [B]And I'm\n[F#][G#m]staring [E]at the moon\n[B]I saw a shooting star And\n[F#]thought of you\n[E]I sang a lullaby [B]By the\n[E][F#][G#m]waterside and knew\n[B]If you were here I'd\n[F#]sing to you\n[E]You're on the other side [B]As the\n[F#][G#m]skyline [E]splits in two\n[B]Miles away from see-\n[F#]ing you\n[E]But I can see the stars [B]from A-\n[F#][G#m]merica [E]\n[B]I wonder, do you see\n[F#]them too? So open your\n\n[Chorus]\n[B]eyes and see\nThe way our ho-\n[F#]rizons meet\nAnd all of the\n[G#m]lights will lead\nInto the\n[E]night with me\nAnd I know these\n[B]scars will bleed\nBut both of our\n[F#]hearts believe\nAll of these\n[G#m]stars will [E]guide\n[B]us [F#]home\n[B]\n\n[Verse 2]\n[E]I can hear your heart [B]On the\n[E][F#][G#m]radio beat\n[B]They're playing 'Chasing Cars' And I\n[F#]thought of us\n[E]Back to the time [B]You were\n[F#][G#m]lying [E]next to me\n[B]I looked across and\n[F#]fell in love\n[E]So I took your hand [B]Back through\n[F#][G#m]lamplit [E]streets and knew\n[B]Everything led back\n[F#]to you\n[E]So can you see the stars [B]over\n[F#][G#m]Amsterdam? [E]\n[B]Hear the song my heart is bea-\n[F#]ting to? So open your\n\n[Chorus]\n[B]eyes and see\nThe way our ho-\n[F#]rizons meet\nAnd all of the\n[G#m]lights will lead\nInto the\n[E]night with me\nAnd I know these\n[B]scars will bleed\nBut both of our\n[F#]hearts believe\nAll of these\n[G#m]stars will [E]guide\n[B]us [F#]home And I\n\n[Bridge]\n[E]know\n[F#]And I\n[G#m]know\n[B]And I\n[E]know\n[F#]\n[B]\n\n[Outro]\n[E]I can see the stars [B]from A-\n[F#][G#m]merica [E]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "All Of The Stars",
+  "id": "af97c2a8cc2f93c38901831f0ad9bcd18db4a4439ca4e3cdc37634810ae57824",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 280,
+  "normalizedKey": "ed sheeran|all of the stars",
+  "playableChords": [
+    "E",
+    "B",
+    "G#m",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 48,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Bridge"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "af97c2a8cc2f93c38901831f0ad9bcd18db4a4439ca4e3cdc37634810ae57824",
+    "version": "BCFZ"
+  },
+  "tempo": 75,
+  "title": "All Of The Stars",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

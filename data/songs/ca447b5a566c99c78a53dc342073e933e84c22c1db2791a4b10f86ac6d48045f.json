@@ -1,0 +1,123 @@
+{
+  "artist": "Evanescence",
+  "artistNormalized": "evanescence",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n[C]\n[D]  [B7]\n[Em]\n[C]\n[D]  [B7]\n\n[Bridge]\n[Em]I tried to\n[C]kill my pain\n[Am]But only brought\n[D]more So much\n\n[Verse 1]\n[Em]more I lay dying\n[C]And I'm pouring\n[Am]crimson regret\n[D]and betrayal\n[Em]I'm dying,\npraying,\n[C]bleeding\n[D]and [B7]screaming\n[Em]Am I too lost\nto be saved?\n[C]Am I too\n[D]lost? [B7]\n\n[Chorus]\n[Em]My God my\ntourniquet Re-\n[C]turn to me sal-\n[D]vation [B7]\n[Em]My God my\ntourniquet Re-\n[C]turn to me sal-\n[B7][D]vation\n\n[Verse 2]\n[Em]Do you re-\n[C]member me?\n[Am]Lost for so\n[D]long\n[Em]Will you be\non the other side\n[C]Or will you forget\n[D]me? [B7]\n[Em]I'm dying,\npraying,\n[C]bleeding\n[D]and [B7]screaming\n[Em]Am I too lost\nto be saved?\n[C]Am I too\n[D]lost? [B7]\n\n[Chorus]\n[Em]My God my\ntourniquet Re-\n[C]turn to me sal-\n[D]vation [B7]\n[Em]My God my\ntourniquet Re-\n[C]turn to me sal-\n[B7][D]vation\n\n[Bridge]\n[Em]\n(r-\neturn to me sa-\nlvation)\nI want to die!!!\n\n[Chorus]\n[Em]My God my\ntourniquet Re-\n[C]turn to me sal-\n[D]vation [B7]\n[Em]My God my\ntourniquet Re-\n[C]turn to me sal-\n[B7][D]vation\n[Em]My wounds cry\nfor the grave\n[C]My soul cries\n[D]for [B7]deliverance\n[Em]Will I be\ndenied\n[C]Christ Tourniquet\n[D]My [B7]suicide\n\n[Outro]\n[Em]\n(return to\n[C]me sal-\n[B7][D]va-\n[Em]tion)\n(return to\n[C]me sal-\n[B7][D]va-\n[Em]tion)",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tourniquet",
+  "id": "ca447b5a566c99c78a53dc342073e933e84c22c1db2791a4b10f86ac6d48045f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 230,
+  "normalizedKey": "evanescence|tourniquet",
+  "playableChords": [
+    "Em",
+    "C",
+    "D",
+    "B7",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Bridge"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ca447b5a566c99c78a53dc342073e933e84c22c1db2791a4b10f86ac6d48045f",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "Tourniquet",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,137 @@
+{
+  "artist": "Elvis Presley",
+  "artistNormalized": "elvis presley",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Eb]Return to\n[Cm]sender!\n[Fm]Return to\n[Bb7]sender!\n\n[Verse 1]\n[Eb]I gave a letter to the\n[Cm]postman\n[Fm]He put it in his sack\n[Bb7]\n[Eb]Bright in early next\n[Cm]morning He\n[Fm]brought my [Bb7]letter\n[Eb]back She wrote upon it\n\n[Chorus]\n[Ab]Return to\n[Bb7]sender\n[Ab]Address un-\n[Bb7]known\n[Ab]No such\n[Bb7]number\n[Eb]No such\n[Eb7]zone\n[Ab]We had a\n[Bb7]quarrel\n[Ab]A lover's spat\n[Bb7]\n[F7]I write I'm\nsorry, but my\nletter keeps coming\n[Bb7]back\n\n[Verse 2]\n[Eb]So then I dropped it in\n[Cm]the mail-\n[Fm]box And sent it special\n[Bb7]D\n[Eb]Bright in early next\n[Cm]morning It\n[Fm]came right [Bb7]back to\n[Eb]me She wrote upon it\n\n[Chorus]\n[Ab]Return to\n[Bb7]sender\n[Ab]Address un-\n[Bb7]known\n[Ab]No such\n[Bb7]person\n[Eb]No such\n[Eb7]zone\n[Ab]This time I'm gonna\ntake it myself And\n[Eb]put it right in her hand\nAnd\n[F7]if it comes back the\nvery next day\n[Bb7]Then I'll understand\nThe writing on it\n\n[Chorus]\n[Ab]Return to\n[Bb7]sender\n[Ab]Address un-\n[Bb7]known\n[Ab]No such\n[Bb7]number\n[Eb]No such\n[Eb7]zone\n[Ab]Return to\n[Bb7]sender\n[Ab]Return to\n[Bb7]sender\n\n[Fade Out]\n[Ab]Return to\n[Bb7]sender\n[Ab]Return to\n[Bb7]sender\n[Ab]Return to\n[Bb7]sender",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "466544",
+        "4-3-1-1-1-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bb7": {
+      "catalog": [
+        "6x6766",
+        "x-1-3-1-3-1",
+        "6-5-3-3-3-4",
+        "6-8-6-7-6-6",
+        "x-x-8-10-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "8-10-10-8-8-8",
+        "x-3-5-5-4-3",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Eb7": {
+      "catalog": [
+        "x6868x",
+        "x-x-1-3-2-3",
+        "x-6-5-6-4-3",
+        "x-6-8-6-8-6",
+        "11-10-8-8-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "1x1211",
+        "1-3-1-2-1-1",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "x-8-10-10-9-8",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Return To Sender",
+  "id": "a18e7af9796bdc92853ca132ba360b526d2bbb6ca62cc74ba590070a384a2615",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 208,
+  "normalizedKey": "elvis presley|return to sender",
+  "playableChords": [
+    "Eb",
+    "Cm",
+    "Fm",
+    "Bb7",
+    "Ab",
+    "Eb7",
+    "F7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a18e7af9796bdc92853ca132ba360b526d2bbb6ca62cc74ba590070a384a2615",
+    "version": "BCFZ"
+  },
+  "tempo": 133,
+  "title": "Return To Sender",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

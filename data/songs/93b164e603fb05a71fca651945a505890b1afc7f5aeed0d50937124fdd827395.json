@@ -1,0 +1,126 @@
+{
+  "artist": "Demi Lovato",
+  "artistNormalized": "demi lovato",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F#]\n[C#m7]Uh,\n[E]uh\n[B]I\n\n[Verse 1]\n[F#]tried to talk to my piano I\n[C#m7]tried to talk to my guitar\n[E]Talked to my imagination Con-\n[B]fided into alcohol I\n[F#]tried and tried and tried some more Told\n[C#m7]secrets 'til my voice was sore\n[E]Tired of empty conversation 'Cause\n[B]no one hears me anymore A\n\n[Pre-Chorus]\n[F#]hundred million stories And a hundred million songs I feel\n[C#m7]stupid when I sing Nobody's\n[E]listening to me Nobody's\n[B]listening I\n[F#]talk to shooting stars But they always get it wrong I feel\n[C#m7]stupid when I pray So, why am I\n[E]praying anyway? If nobody's\n[B]listening\n\n[Chorus]\n[F#]Anyone, please send me\n[C#m7]anyone Lord, is there\n[E]anyone? I need\n[B]someone, oh\n[F#]Anyone, please send me\n[C#m7]anyone Lord, is there\n[E]anyone? I need\n[B]someone\n\n[Bridge]\n[F#]\n[C#m7]\n[E]\n[B]I\n\n[Verse 2]\n[F#]used to crave the world's attention I\n[C#m7]think I cried too many times\n[E]I just need some more affection\n[B]Anything to get me by A\n\n[Pre-Chorus]\n[F#]hundred million stories And a hundred million songs I feel\n[C#m7]stupid when I sing Nobody's\n[E]listening to me Nobody's\n[B]listening I\n[F#]talk to shooting stars But they always get it wrong I feel\n[C#m7]stupid when I pray Why the fuck am I\n[E]praying anyway? If nobody's\n[B]listening\n\n[Chorus]\n[F#]Anyone, please send me\n[C#m7]anyone Lord, is there\n[E]anyone? I need\n[B]someone, oh\n[F#]Anyone, please send me\n[C#m7]anyone Oh, Lord, is there anyone?\n[E]I need\n[B]someone Oh,\n[F#]anyone, I need\n[C#m7]anyone Oh,\n[E]anyone, I need\n[B]someone [B6][Bm/E]A\n\n[Outro]\n[F#]hundred million stories And a hundred million songs I feel\n[C#m7]stupid when I sing Nobody's\n[E]listening to me Nobody's\n[B]listening",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B6": {
+      "catalog": [
+        "x24444"
+      ],
+      "catalogCount": 1
+    },
+    "Bm/E": {
+      "catalog": [
+        "022432"
+      ],
+      "catalogCount": 1
+    },
+    "C#m7": {
+      "catalog": [
+        "x46454",
+        "9-11-9-9-9-9",
+        "x-x-11-13-12-12",
+        "x-16-18-16-17-16",
+        "21-23-21-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Anyone",
+  "id": "93b164e603fb05a71fca651945a505890b1afc7f5aeed0d50937124fdd827395",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 373,
+  "normalizedKey": "demi lovato|anyone",
+  "playableChords": [
+    "F#",
+    "C#m7",
+    "E",
+    "B",
+    "B6",
+    "Bm/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "93b164e603fb05a71fca651945a505890b1afc7f5aeed0d50937124fdd827395",
+    "version": "BCFZ"
+  },
+  "tempo": 65,
+  "title": "Anyone",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

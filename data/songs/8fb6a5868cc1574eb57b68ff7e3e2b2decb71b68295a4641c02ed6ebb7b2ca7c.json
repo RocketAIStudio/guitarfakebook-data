@@ -1,0 +1,127 @@
+{
+  "artist": "Ed Sheeran",
+  "artistNormalized": "ed sheeran",
+  "capo": "2",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n\n[Verse 1]\n[E]She's like cold\ncoffee in the morning\n[A]I'm drunk off\nlast night's whiskey and coke\n[E]She'll make me\nshiver without warning\n[A]And make me laugh as if I'm\nin on the joke You can\n\n[Pre-Chorus]\n[F#m]stay with me\n[A]fore-\n[E]ver\nOr you could\n[F#m]stay with me\n[A]for now\n[B]\nTell me if I'm\n\n[Chorus]\n[C#m]wrong\n[A]Tell me if I'm\n[E]right\nTell me if you\n[F#m]need a loving hand\n[A]To help you fall asleep tonight\n[E]\nTell me if I\n[C#m]know\n[A]Tell me if I\n[E]do\nTell me how to\n[F#m]fall in love the\n[A]Way you want me to\n[E]\n\n[Verse 2]\n[E]I'll wake with\ncoffee in the morning\n[A]But she prefers\ntwo lumps of sugar and tea\n[E]Outside the\nday is up and calling\n[A]But I don't have to be so,\nplease go back to sleep\n\n[Pre-Chorus]\n[F#m]Stay with me\n[A]fore-\n[E]ver\nOr you could\n[F#m]stay with me\n[A]for now\n[B]\nTell me if I'm\n\n[Chorus]\n[C#m]wrong\n[A]Tell me if I'm\n[E]right\nTell me if you\n[F#m]need a loving hand\n[A]To help you fall asleep tonight\n[E]\nTell me if I\n[C#m]know\n[A]Tell me if I\n[E]do\nTell me how to\n[F#m]fall in love the\n[A]Way you want me to\n[E]\n'Cause I\n\n[Bridge]\n[B]love the way you\n[A]wake me up\n[E]\nAnd for\n[B]goodness sake, will my\n[A]love not be enough?\n[B]\nTell me if I'm\n\n[Chorus]\n[C#m]wrong\n[A]Tell me if I'm\n[E]right\nTell me if you\n[F#m]need a loving hand\n[A]To help you fall asleep tonight\n[E]\nTell me if I\n[C#m]know\n[A]Tell me if I\n[E]do\nTell me how to\n[F#m]fall in love the\n[A]Way you want me to\n[E]\nTell me if I'm\n\n[Outro]\n[C#m]wrong\n[A]Tell me if I'm\n[E]right\nTell me if you\n[F#m]need a loving hand\n[A]To help you fall asleep tonight\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "577655",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Cold Coffee",
+  "id": "8fb6a5868cc1574eb57b68ff7e3e2b2decb71b68295a4641c02ed6ebb7b2ca7c",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 307,
+  "normalizedKey": "ed sheeran|cold coffee",
+  "playableChords": [
+    "E",
+    "A",
+    "F#m",
+    "B",
+    "C#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Bridge"
+    },
+    {
+      "measure": 74,
+      "name": "Chorus"
+    },
+    {
+      "measure": 90,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8fb6a5868cc1574eb57b68ff7e3e2b2decb71b68295a4641c02ed6ebb7b2ca7c",
+    "version": "BCFZ"
+  },
+  "tempo": 93,
+  "title": "Cold Coffee",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

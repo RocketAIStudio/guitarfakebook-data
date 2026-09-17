@@ -1,0 +1,101 @@
+{
+  "artist": "Eric Clapton",
+  "artistNormalized": "eric clapton",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[E7]\n[A7]\n[E7]\n[B7]\n[A7]\n[E7]\n[A7]\n[E7]\n[B7]\n[A7]\n[E7]\n\n[Verse 1]\n[E7]Hey hey.\nHey hey, baby, hey.\n[A7]Hey hey.\nHey hey, baby, hey.\n[E7]\n[B7]I love you baby,\n[A7]Sure ain't gonna be your dog.\n[E7]\n\n[Intelrude]\n[E7]\n[A7]\n[E7]\n[B7]\n[A7]\n[E7]\n\n[Verse 2]\n[E7]Hey hey.\nHey hey, baby, hey.\n[A7]Hey hey.\nHey hey, baby, hey.\n[E7]\nMy\n[B7]arms around you baby,\n[A7]All I can say is hey.\n[E7]\n\n[Interlude]\n[E7]\n[A7]\n[E7]\n[B7]\n[A7]\n[E7]\n\n[Verse 3]\n[E7]Hey hey.\nHey hey, baby, hey.\n[A7]Hey hey.\nHey hey, baby, hey.\n[E7]\n[B7]I love you baby,\n[A7]Sure ain't gonna be your dog.\n[E7]\n\n[Interlude]\n[E7]\n[A7]\n[E7]\n[B7]\n[A7]\n[E7]\n\n[Verse 4]\n[E7]Hey hey.\nYou lost your good thing now.\n[A7]Hey hey.\nYou lost your good thing\n[E7]now.\nYou\n[B7]had me fooled, I\n[A7]found it out somehow.\n[E7]\n\n[Outro]\n[E7]\n[A7]\n[E7]\n[B7]\n[A7]\n[E7]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hey Hey *alt 2",
+  "id": "cd14323012c91c81cc84fc5b1ca4eab47a01afbf8a912baf7caf7f8b879186b6",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 103,
+  "normalizedKey": "eric clapton|hey hey",
+  "playableChords": [
+    "E7",
+    "A7",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 38,
+      "name": "Intelrude"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 62,
+      "name": "Interlude"
+    },
+    {
+      "measure": 74,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 86,
+      "name": "Interlude"
+    },
+    {
+      "measure": 98,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 110,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cd14323012c91c81cc84fc5b1ca4eab47a01afbf8a912baf7caf7f8b879186b6",
+    "version": "BCFZ"
+  },
+  "tempo": 155,
+  "title": "Hey Hey",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

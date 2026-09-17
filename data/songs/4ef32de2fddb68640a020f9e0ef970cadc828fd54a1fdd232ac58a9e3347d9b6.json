@@ -1,0 +1,136 @@
+{
+  "artist": "Eva Cassidy",
+  "artistNormalized": "eva cassidy",
+  "capo": "5",
+  "chordPositionCount": 28,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Am]  [Em]\n[Am]  [Em]  [G]\n[Am]  [Em]\n[Am]  [Em]  [G]\n[Am]\n[Em]  [F#13]\n[F13]  [E7]  [E7b13]\n[Am]  [Em]  [G]\n\n[Verse 1]\n[Am]Ain't no sunshine [Em]when he's\n[Am]gone [Em][G]\n[Am]It's [Em]not warm [G]when he's\n[Am]away [Em][G]\n[Am]Ain't no sunshine when\n[Em]he's gone And he's always [F#13]gone too\n[F13]long [E7]Anytime [E7b13]\n[Am]he goes away [Em][G]\n\n[Verse 2]\n[Am]I Wonder this time [Em]where\n[Am]he's gone [Em][G]\n[Am]Wonder [Em]how long [G]he's\n[Am]gonna stay [Em][G]\n[Am]Ain't no sunshine when\n[Em]he's gone And this house just [F#13]ain't no home\n[E7b13][F13][E7]Anytime\n[Am]he goes away [Em][G]\n\n[Bridge]\n[Am]  [Em]\n[Am]  [Em]  [G]\n[Am]  [Em]  [G]\n[Am]  [Em]  [G]\n[Am]\n[Em]  [F#13]\n[F13]  [E7]  [E7b13]\n[Am]  [Em]  [G]\n\n[Piano Solo]\n[Am]  [Em]\n[Am]  [Em]  [G]\n[Am]  [Em]  [G]\n[Am]  [Em]  [G]\n[Am]\n[Em]  [F#13]\n[F13]  [E7]  [E7b13]\n[Am]  [Em]  [G]\n\n[Bridge]\n[Am]Well, I know, I know, I know, I know,\nI know I know, I know, I know, I know,\nI know, I know I know, I know, I know, I\nknow, I know, I know I know where he's gone\n\n[Verse 3]\n[Dm]Always gone\n[F13]too long [E7]Anytime\n[Am]he goes away [Em][G]\n[E7][F13]Anytime\n[Am]he goes away [Em][G]\n[E7][F13]Anytime\n[Am]  [Em]  [G]\n[F13]he goes [E7]away\n[Am]  [Em]\n[G]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "0x013x",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "E7b13": {
+      "catalog": [
+        "0x011x"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#13": {
+      "catalog": [
+        "2x234x"
+      ],
+      "catalogCount": 1
+    },
+    "F13": {
+      "catalog": [
+        "1x123x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Aint No Sunshine",
+  "id": "4ef32de2fddb68640a020f9e0ef970cadc828fd54a1fdd232ac58a9e3347d9b6",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 138,
+  "normalizedKey": "eva cassidy|aint no sunshine",
+  "playableChords": [
+    "Am",
+    "Em",
+    "G",
+    "F#13",
+    "F13",
+    "E7",
+    "E7b13",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Piano Solo"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4ef32de2fddb68640a020f9e0ef970cadc828fd54a1fdd232ac58a9e3347d9b6",
+    "version": "BCFZ"
+  },
+  "tempo": 65,
+  "title": "Aint No Sunshine",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

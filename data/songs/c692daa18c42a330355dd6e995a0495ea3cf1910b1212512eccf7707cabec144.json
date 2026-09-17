@@ -1,0 +1,130 @@
+{
+  "artist": "Descendents",
+  "artistNormalized": "descendents",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[Am]We flipped [C]our finger to the [G]king of [Am]England\n[F]Stole our [C]country from the [Am][G]indians\n[Am]With god on [C]our side [G]and guns in [Am]our hands\n[F]We took it for our own [E]\n[Am]A nation [C]dedicated to [Am][G]liberty\n[F]Justice [C]and [G]equality Does [Am]it\n[Am]look that way [C]to you? [G]It doesn't look [Am]that way to me\n[F]The sickest joke I [E]know\n\n[Chorus]\n[C]Listen up man, [G]I'll tell you [F]who I am [Am]\nJust another stupid American\nYou don't wanna listen, you don't wanna understand\n[F]So finish up your [E]drink and go [Am]home\n\n[Verse 2]\n[Am]I come [C]from the land of [G]Ben [Am]Franklin\n[F]Twain and [C]Poe and Walt [G]Whitman [Am]\n[Am]Otis Redding, [C][G]Ellington [Am]The\n[F]country that I love [E]\n[Am]But it's [C]a land of the [G]slaves and [Am]the ku klux klan\n[F]Haymarket [C]riot and the great [Am][G]depression\n[Am]Joe [C]McCarthy, [G]Vietnam [Am]The\n[F]sickest joke I know [E]\n\n[Chorus]\n[C]Listen up man, [G]I'll tell you [F]who I am [Am]\nJust another stupid American\nYou don't wanna listen, you don't wanna understand\n[F]So finish up your [E]drink and go [Am]home I'm\n\n[Bridge]\n[F]proud and [E]ashamed Every\n[Am]fourth of July You\n[B]got to know the truth Before you\n[E]say that you got pride\n\n[Solo]\n[Am]  [C]  [G]  [Am]  [F]  [C]  [G]  [Am]\n[Am]  [G]  [F]  [Am]  [F]  [E]\n\n[Verse 3]\n[Am]Now the [C]cops got tanks 'cause [G]the kids [Am]got guns\n[F]Shrinks [C]pushing pills on [G]everyone [Am]\n[Am]Cancer from the [C]ocean, [G]cancer from the [Am]sun\n[F]Straight to Hell we go [E]\n\n[Chorus]\n[C]Listen up [G]man, I'll tell [F]you who I [Am]am\nJust another stupid American You\ndon't wanna listen, you don't wanna understand So\nfinish up your drink and go home\n[C]Listen up man, [G]I'll tell you [F]who I am [Am]\nJust another stupid American\nYou don't wanna listen, you don't wanna understand\nSo finish up your drink and go home So\nfinish up your drink and go\nhome",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "13321x",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Merican",
+  "id": "c692daa18c42a330355dd6e995a0495ea3cf1910b1212512eccf7707cabec144",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 308,
+  "normalizedKey": "descendents|merican",
+  "playableChords": [
+    "Am",
+    "C",
+    "G",
+    "F",
+    "E",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Bridge"
+    },
+    {
+      "measure": 31,
+      "name": "Solo"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c692daa18c42a330355dd6e995a0495ea3cf1910b1212512eccf7707cabec144",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Merican",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

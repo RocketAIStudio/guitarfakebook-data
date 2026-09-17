@@ -1,0 +1,109 @@
+{
+  "artist": "Eric Clapton",
+  "artistNormalized": "eric clapton",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro 1]\n[G]\n[Am7]\n\n[Intro 2]\n[G]  [D]\n[Am7]\n[G]  [D]\n[Am7]\n\n[Verse 1]\n[G]Ma, [D]take this badge off of\n[Am7]me.\n[G]I can't [D]use it any\n[Am7]more.\n[G]It's [D]getting dark,\n[Am7]too dark to see.\n[G]Feel like I'm [D]knockin' on heaven's door.\n[Am7]\n\n[Chorus]\n[G]Knock, knock, [D]knockin' on heavens door.\n[Am7]\n[G]Knock, knock, [D]knockin' on heavens door.\n[Am7]\n[G]Knock, knock, [D]knockin' on heavens door.\n[Am7]\n[G]Knock, knock, [D]knockin' on heavens door.\n[Am7]\n\n[Verse 2]\n[G]Ma, [D]take these guns a-\n[Am7]way from me.\n[G]I can't [D]shoot them any\n[Am7]more.\n[G]There's [D]a long black cloud\n[Am7]following me.\n[G]Feel like I'm [D]knockin' on heaven's door.\n[Am7]\n\n[Chorus]\n[G]Knock, knock, [D]knockin' on heavens door.\n[Am7]\n[G]Knock, knock, [D]knockin' on heavens door.\n[Am7]\n\n[Solo]\n[G]  [D]\n[Am7]\n[G]  [D]\n[Am7]\n[G]  [D]\n[Am7]\n[G]  [D]\n[Am7]\n\n[Intrelude]\n[G]  [D]\n[Am7]\n[G]  [D]\n[Am7]\n\n[Verse 3]\n[G]Ma, [D]take this badge off of\n[Am7]me.\n[G]I can't [D]use it any\n[Am7]more.\n[G]It's [D]getting dark,\n[Am7]too dark to see.\n[G]Feel like I'm [D]knockin' on heaven's door.\n[Am7]\n\n[Chorus]\n[G]Knock, knock, [D]knockin' on heavens door.\n[Am7]\n[G]Knock, knock, [D]knockin' on heavens door.\n[Am7]\n[G]Knock, knock, [D]knockin' on heavens door.\n[Am7]\n[G]Knock, knock, [D]knockin' on heavens door.\n[Am7]\n\n[Outro]\n[G]  [D]\n[Am7]\n[G]  [D]\n[Am7]\n[G]  [D]\n[Am7]\n[G]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Knockin' On Heaven's Door",
+  "id": "d02b62899f4796e4c97cdab5a90e287a06b52edbf23c0e3b9cf65c2ec9c29157",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 175,
+  "normalizedKey": "eric clapton|knockin on heaven s door",
+  "playableChords": [
+    "G",
+    "Am7",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 3,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Solo"
+    },
+    {
+      "measure": 43,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d02b62899f4796e4c97cdab5a90e287a06b52edbf23c0e3b9cf65c2ec9c29157",
+    "version": "BCFZ"
+  },
+  "tempo": 66,
+  "title": "Knockin' On Heaven's Door",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

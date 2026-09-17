@@ -1,0 +1,90 @@
+{
+  "artist": "Dead Can Dance",
+  "artistNormalized": "dead can dance",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n[C#m]\n\n[Verse 1]\n[C#m]I thought I'd found a\nreason to live\nJust like before when\nI was a child\nOnly to find\ndreams made of sand Would\njust fall apart and\nslip through my hands But the\n\n[Chorus]\n[C#m]spirit of life\nkeeps us strong\nAnd the\nspirit of life\nis the\nwill to carry on\nAd-\n\n[Verse 2]\n[C#m]versity\nWhat have I\n[B]done to you\nTo cause this\n[C#m]reclusive silence\nThat has come betwee-\n[B]n me and you ?\nAnd the\n\n[Chorus]\n[C#m]spirit of li-\nfe re-\nmains in ligh-\nt And the\nspirit of li-\nfe re-\nmains insi-\n\n[Interlude]\n[C#m]de,\ninside\n\n[Verse 3]\n[C#m]I never thought it woul-\nd be quite like this\nLiving outside o-\nf mutual bliss\nBut as long as the veins in our\narm still stand up\nThe spirit of life will kee-\np living on.\n\n[Bridge]\n[C#m]\n\n[Outro]\n[C#m]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x22002",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "xx0220",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Spirit",
+  "id": "07c7af95fc25804245bfba1d0aa783618cdf154a02998402766b2716bf2695bb",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 167,
+  "normalizedKey": "dead can dance|spirit",
+  "playableChords": [
+    "C#m",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 61,
+      "name": "Bridge"
+    },
+    {
+      "measure": 72,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "07c7af95fc25804245bfba1d0aa783618cdf154a02998402766b2716bf2695bb",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Spirit",
+  "tuning": "E A C# F# B E",
+  "variantRole": "primary"
+}

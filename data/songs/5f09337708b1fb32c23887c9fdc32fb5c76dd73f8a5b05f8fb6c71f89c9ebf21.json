@@ -1,0 +1,136 @@
+{
+  "artist": "Eddie Vedder",
+  "artistNormalized": "eddie vedder",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Cmaj7]\n[Fadd9]\n[Cmaj7]\n[Fadd9]\n\n[Verse 1]\n[Cmaj7]I'm falling\n[Fadd9]harder than I've\n[Cmaj7]Ever fell be-\n[Fadd9]fore, mmh\n[Cmaj7]I'm fallin\n[Fadd9]fast while hoping\n[Cmaj7]I'll land in your\n[Fadd9]arms\n\n[Chorus]\n[Dm]Cause all my\n[A]time is spent here\n[Fadd9]Longing to belong\n[G7]to\n\n[Interlude]\n[Cmaj7]you\n[Fadd9]\n[Cmaj7]\n[Fadd9]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[Cmaj7]\n[Fadd9]\n\n[Verse 2]\n[Cmaj7]I dream of\n[Fadd9]circles perfect\n[Cmaj7]Eyes within your\n[Fadd9]face\n[Cmaj7]My heart's an\n[Fadd9]open wound that\n[Cmaj7]Only you'd re-\n[Fadd9]place\n\n[Bridge]\n[Dm]And though the\n[F#(b5)/C]moon is [G7]rising\n[Dm]Can't put your\n[F#(b5)/C]picture [G7]down\n[Dm]Love, can be\n[F#(b5)/C]frightning [G7]when you\n\n[Interlude]\n[Cmaj7]fall\n[Fadd9]\n[Cmaj7]\n[Fadd9]\n\n[Chorus]\n[Dm]And when the\n[A]time is right, I\n[F]hope that you'll respond\n[G7]\n[Dm]Like when the\n[A]wind gets tired The\n[F]ocean becomes\n[G7]calm\n[Dm]I may be\n[A]dreaming but I'm\n[F]Longing to belong\n[G7]to\n\n[Outro]\n[Cmaj7]you\n[Fadd9]\n[Cmaj7]\n[Fadd9]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[Cmaj7]\n[Fadd9]\n[Cmaj7]\n[Fadd9]\n[Cmaj7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x-3-2-0-0-0",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "3-2-0-0-0-1",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "Longing to belong",
+  "id": "5f09337708b1fb32c23887c9fdc32fb5c76dd73f8a5b05f8fb6c71f89c9ebf21",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 120,
+  "normalizedKey": "eddie vedder|longing to belong",
+  "playableChords": [
+    "Cmaj7",
+    "Fadd9",
+    "Dm",
+    "A",
+    "G7",
+    "C",
+    "F",
+    "F#(b5)/C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Interlude"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 43,
+      "name": "Interlude"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5f09337708b1fb32c23887c9fdc32fb5c76dd73f8a5b05f8fb6c71f89c9ebf21",
+    "version": "BCFZ"
+  },
+  "tempo": 115,
+  "title": "Longing to belong",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,128 @@
+{
+  "artist": "Eric Clapton",
+  "artistNormalized": "eric clapton",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]\n[D/F#]\n[C]\n[D]\n[G]\n[D/F#]\n[C]\n[D]\n\n[Verse 1]\n[G]It's late in the e-\n[D/F#]vening\n[C]She's wondering what clo-\n[D]thes to wear\n[G]She puts on her ma-\n[D/F#]keup\n[C]And brushes her lo-\n[D]ng blonde hair\n\n[Chorus]\n[C]And then she a-\n[D]sks me\n[G]\"Do I [D/F#]look alri-\n[Em]ght\" And I say\n[C]\"Yes, you look\n[D]wonderful tonight\"\n\n[Bridge]\n[G]\n[D/F#]\n[C]\n[D]\n\n[Verse 2]\n[G]We go to a pa-\n[D/F#]rty\n[C]And everyone tu-\n[D]rns to see\n[G]This beautiful l-\n[D/F#]ady\n[C]That's walking aro-\n[D]und with me\n\n[Chorus]\n[C]And then she a-\n[D]sks me\n[G]\"Do you [D/F#]feel alri-\n[Em]ght\" And I say:\n[C]\"Yes, I feel\n[D]wonderful toni-\n[G]ght\"\nI feel\n\n[Bridge]\n[C]wonderful be-\n[D]cause I see The lo-\n[G]ve light [D/F#]in your\n[Em]eyes. And the\n[C]wonder of it a-\n[D]ll Is that you\n[C]just don't reali-\n[D]ze How much I lo-\n\n[Solo]\n[G]ve you.\n[D/F#]\n[C]\n[D]\n[G]\n[D/F#]\n[C]\n[D]\n\n[Verse 3]\n[G]It's time to go ho-\n[D/F#]me now\n[C]And I've got an aching\n[D]head\n[G]So I give her the ca-\n[D/F#]r keys\n[C]And she helps me to\n[D]bed\n\n[Chorus]\n[C]And then I te-\n[D]ll her\n[G]As I [D/F#]turn out the li-\n[Em]ght I say \"My\n[C]darling you are\n[D]wonderful toni-\n[G]ght\nOh my\n[C]darling you were\n[D]wonderful toni-\n\n[Outro]\n[G]ght.\"\n[D/F#]\n[C]\n[D]\n[G]\n[D/F#]\n[C]\n[D]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "254232",
+        "xx4232"
+      ],
+      "catalogCount": 2
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wonderful Tonight *alt 2",
+  "id": "277c2de2ed6d806826a73fe42ecda3d3ea07e4a8d4e6d7e0abc5fecdf276785c",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 213,
+  "normalizedKey": "eric clapton|wonderful tonight",
+  "playableChords": [
+    "G",
+    "D/F#",
+    "C",
+    "D",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Bridge"
+    },
+    {
+      "measure": 51,
+      "name": "Solo"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "277c2de2ed6d806826a73fe42ecda3d3ea07e4a8d4e6d7e0abc5fecdf276785c",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "Wonderful Tonight",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

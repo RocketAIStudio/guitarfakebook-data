@@ -1,0 +1,112 @@
+{
+  "artist": "Echosmith",
+  "artistNormalized": "echosmith",
+  "capo": "1",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Em]\n[Cmaj7]\n[G]\n[D]\n[Em]\n[Cmaj7]\n[G]\n[D]She says I'm\n\n[Verse 1]\n[Em]walking in a straight line\n[Cmaj7]That's not really her\n[G]style\n[D]And they've all\n[Em]got the same heartbeat\n[Cmaj7]But hers is falling be-\n[G]hind\n[D]\n[Em]Nothing in this world could\n[Cmaj7]ever bring them\n[G]down\n[D]\n[Em]Yeah they're invincible\n[Cmaj7]And she's just in the back-\n[G]ground\n[D]And she says\n\n[Chorus]\n[Em]I wish that I could\n[Cmaj7]be like the cool kids\n[G]'Cause all the cool kids\n[D]They seem to fit in\n[Em]I wish that I could\n[Cmaj7]be like the cool kids\n[G]Like the cool ki-\n[D]ids\n\n[Interlude]\n[Em]\n[Cmaj7]\n[G]\n[D]\n[Em]\n[Cmaj7]\n[G]\n[D]He says I'm\n\n[Verse 2]\n[Em]talking with a big smile\n[Cmaj7]but they haven't got a\n[G]clue\n[D]Yeah\n[Em]they're living the good life\n[Cmaj7]Can't see what he is going\n[G]through\n[D]\n[Em]They're driving fast cars\n[Cmaj7]But they don't know where they're\n[G]going\n[D]\n[Em]In the fast lane\n[Cmaj7]Living life without\n[G]knowing\n[D]And he says\n\n[Chorus]\n[Em]I wish that I could\n[Cmaj7]be like the cool kids\n[G]'Cause all the cool kids\n[D]They seem to fit in\n[Em]I wish that I could\n[Cmaj7]be like the cool kids\n[G]Like the cool ki-\n[D]ids\n[Em]I wish that I could\n[Cmaj7]be like the cool kids\n[G]Cause all the cool kids\n[D]They seem to get it\n[Em]I wish that I could\n[Cmaj7]be like the cool kids\n[G]Like the cool ki-\n[D]ids\n\n[Bridge]\n[Em]\n[Cmaj7]\n[G]\n[D]\n[Em]\n[Cmaj7]\n[G]\n[D]\n[Em]\n[Cmaj7]\n[G]\n[D]\n[Em]\n[Cmaj7]\n[G]\n[D]And they said\n\n[Chorus]\n[Em]I wish that I could\n[Cmaj7]be like the cool kids\n[G]Cause all the cool kids\n[D]They seem to fit in\n[Em]I wish that I could\n[Cmaj7]be like the cool kids\n[G]Like the cool ki-\n[D]ids\n[Em]I wish that I could\n[Cmaj7]be like the cool kids\n[G]Cause all the cool kids\n[D]They seem to fit in\n[Em]I wish that I could\n[Cmaj7]be like the cool kids\n[G]Like the cool ki-\n[D]ids\n[Em]I wish that I could\n[Cmaj7]be like the cool kids\n[G]Cause all the cool kids\n[D]They seem to get it\n[Em]I wish that I could\n[Cmaj7]be like the cool kids\n[G]Like the cool ki-\n[D]ids\n\n[Coda]\n[Em]\n[Cmaj7]\n[G]\n[D]\n[Em]\n[Cmaj7]\n[G]\n[D]\n[Em]\n[Cmaj7]\n[G]\n[D]\n[Em]\n[Cmaj7]\n[G]\n[D]",
+  "diagrams": {
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Cool Kids",
+  "id": "6ff97f960afba7e94eab663fd3bfd86598cb5ab065ccaad2f157a912bcd5dbe8",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 330,
+  "normalizedKey": "echosmith|cool kids",
+  "playableChords": [
+    "Em",
+    "Cmaj7",
+    "G",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Interlude"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Bridge"
+    },
+    {
+      "measure": 91,
+      "name": "Chorus"
+    },
+    {
+      "measure": 115,
+      "name": "Coda"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6ff97f960afba7e94eab663fd3bfd86598cb5ab065ccaad2f157a912bcd5dbe8",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Cool Kids",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

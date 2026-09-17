@@ -1,0 +1,142 @@
+{
+  "artist": "Dave Mathews Band",
+  "artistNormalized": "dave mathews band",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[A]\n[D/F#]When [Amaj7/E]I'm\n\n[Verse 1]\n[Esus4][Dmaj7]wea-\n[A]ry [D/F#]When [Amaj7/E]I'm\n[Esus4][Dmaj7]tir-\n[A]ed [D/F#]You [Amaj7/E]re-\n[D]mind [Esus4]\n[A]me To [D/F#]keep on\n[E][Esus4]try-\n[A]ing\n[D/F#]There'll [Amaj7/E]be\n\n[Verse 2]\n[Dmaj7]dark, [Esus4]dark\n[A]days [D/F#]More [Amaj7/E]are\n[Esus4][Dmaj7]com-\n[A]ing [D/F#]Just [Amaj7/E]as\n[D]sure [Esus4]as\n[Dmaj7/F#]this Sweet earth be-\n[Esus4]neath [E]my\n[A]feet\n[D]It [E]don't\n\n[Chorus]\n[D]mat-\n[Esus4]ter [D]Come [E]to-\n[D]mor-\n[Esus4]row [E][D]Together\n[D]we [Esus4]must\n[D/F#]face [Dadd#11/F#]What\n[Esus4]lies a-\nhead [D/F#]When [Amaj7/E]you're\n\n[Verse 3]\n[Esus4][Dmaj7]wea-\n[A]ry [D/F#]When [Amaj7/E]you're\n[Esus4][Dmaj7]tir-\n[A]ed [D/F#]Please [Amaj7/E]re-\n[Esus4][D]mem-\n[A]ber To [D/F#]keep on\n[E7sus4/D]go-\n[E]\n\n[Outro]\n[A]ing",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Amaj7/E": {
+      "catalog": [
+        "002224"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "200232"
+      ],
+      "catalogCount": 1
+    },
+    "Dadd#11/F#": {
+      "catalog": [
+        "200132"
+      ],
+      "catalogCount": 1
+    },
+    "Dmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9",
+        "10-12-11-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dmaj7/F#": {
+      "catalog": [
+        "200222"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7sus4/D": {
+      "catalog": [
+        "xx0200"
+      ],
+      "catalogCount": 1
+    },
+    "Esus4": {
+      "catalog": [
+        "022200"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "When I'm Weary",
+  "id": "bd0589b69451d9a1bf4cb2fe832326a741221501b26e9ba7325e7b835a12aa0b",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 74,
+  "normalizedKey": "dave mathews band|when i m weary",
+  "playableChords": [
+    "A",
+    "D/F#",
+    "Amaj7/E",
+    "Dmaj7",
+    "Esus4",
+    "D",
+    "E",
+    "Dmaj7/F#",
+    "Dadd#11/F#",
+    "E7sus4/D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 39,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bd0589b69451d9a1bf4cb2fe832326a741221501b26e9ba7325e7b835a12aa0b",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "When I'm Weary",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

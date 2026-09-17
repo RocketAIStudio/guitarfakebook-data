@@ -1,0 +1,148 @@
+{
+  "artist": "Exploited",
+  "artistNormalized": "exploited",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[D]\n[G]  [F]  [E]\n[D]\n[G]  [F]  [E]\n[D]\n[G]  [F]  [E]\n[D]\n[G]  [F]  [E]\n\n[Verse 1]\n[D]OffRoute class, we don't need 'em\n[G]MiddleClass, [F]help the fever [E]\n[D]WorkingClass, I'm with them\n[G]Nobody around, [F]never shout [E]\n\n[Chorus]\n[E5]\"Class War!\" Do you want it?\n\"Class War!\" We don't either.\n\"Class War!\" Can you see it?\n\"Class War!\" Mein [F5]Kampft [F#5]keep [G5]out!\n\n[Interlude]\n[D]\n[G]  [F]  [E]\n[D]\n[G]  [F]  [E]\n\n[Verse 2]\n[D]I see a house and everyone's dead\n[G]Diamondstealing bastards, [F]those cops stole grass [E]\n[D]Middleworkers know the truth,\n[G]I'm the last one, the [F]last rebel [E]\n\n[Chorus]\n[E5]\"Class War!\" Do you want it?\n\"Class War!\" We don't either.\n\"Class War!\" Can you see it?\n\"Class War!\" Mein [F5]Kampft [F#5]keep [G5]out!\n\n[Bridge]\n[D]\n[G]  [F]  [E]\n[D]\n[G]  [F]  [E]\n\n[Interlude]\n[D]\n[G]  [F]  [E]\n[D]\n[G]  [F]  [E]\n\n[Verse 3]\n[D]Keep out and back, we'll kick your ass\n[G]Test your luck, don't [F]tread so fast [E]\n[D]Moaning, groaning, don't give a f***\n[G]Kick your ass, ya' [F]want some more? [E]\n\n[Chorus]\n[E5]\"Class War!\" Do you want it?\n\"Class War!\" We don't either.\n\"Class War!\" Can you see it?\n\"Class War!\" Mein [F5]Kampft [F#5]keep [G5]out!\n\n[Outro]\n[D]",
+  "diagrams": {
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#5": {
+      "catalog": [
+        "x-9-11-11-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "x-10-12-12-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Class War",
+  "id": "55e79e9a1764a6ae6dc2ddc7d4fda8220a5c0fa25b8ea0a98d38dd0d9bda8a3a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 157,
+  "normalizedKey": "exploited|class war",
+  "playableChords": [
+    "D",
+    "G",
+    "F",
+    "E",
+    "E5",
+    "F5",
+    "F#5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Interlude"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "55e79e9a1764a6ae6dc2ddc7d4fda8220a5c0fa25b8ea0a98d38dd0d9bda8a3a",
+    "version": "BCFZ"
+  },
+  "tempo": 146,
+  "title": "Class War",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

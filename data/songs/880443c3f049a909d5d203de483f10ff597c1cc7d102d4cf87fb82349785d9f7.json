@@ -1,0 +1,105 @@
+{
+  "artist": "Elvis Presley",
+  "artistNormalized": "elvis presley",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[E]\n\n[Verse 1]\n[A]Train I ride,\nsixteen coaches long\n[E]\n[A]Train I ride,\nsixteen coaches long\n[E]\nWell, that\n\n[Bridge]\n[B]long black train\n[A]got my baby and\n[E]gone\n\n[Verse 2]\n[A]Train, train,\ncomin' 'round the bend\n[E]\n[A]Train, train,\ncomin' 'round the bend\n[E]\nWell, it\n\n[Bridge]\n[B]took my baby,\n[A]but it never will a-\n[E]gain No, not again\n\n[Verse 3]\n[A]Train, train,\ncomin' down, down the line\n[E]\n[A]Train, train,\ncomin' down, down the line\n[E]\nWell, it's\n\n[Bridge]\n[B]bringin' my baby\n[A]'cause she's mine, all all\n[E]mine She's mine, all all\nmine\n\n[Guitar Solo]\n[E]\n[A]\n[E]\n[B]\n[A]\n[E]\n\n[Verse 4]\n[A]Train, train,\ncomin' 'round the bend\n[E]'Round, 'round the bend\n[A]Train, train,\ncomin' 'round the bend\n[E]'Round, 'round the bend\nWell, it\n\n[Bridge]\n[B]took my baby,\n[A]but it never will a-\n[E]gain Never will again\n\n[Outro (Fade Out)]\n[A]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mystery Train *alt",
+  "id": "880443c3f049a909d5d203de483f10ff597c1cc7d102d4cf87fb82349785d9f7",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 135,
+  "normalizedKey": "elvis presley|mystery train",
+  "playableChords": [
+    "E",
+    "A",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Bridge"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 43,
+      "name": "Bridge"
+    },
+    {
+      "measure": 47,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 69,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "880443c3f049a909d5d203de483f10ff597c1cc7d102d4cf87fb82349785d9f7",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Mystery Train",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

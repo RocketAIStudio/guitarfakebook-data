@@ -1,0 +1,142 @@
+{
+  "artist": "Fall Out Boy",
+  "artistNormalized": "fall out boy",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[C#maj7]\n\n[Verse 1]\n[C#maj7]How cru-\n[G#]el\n[C#maj7]is the golden rule,\n[G#][A#m7][G#/B#]When the\n[C#maj7]lives we lived are only\n[G#]golden plated.\n[C]\n[F]And I knew\n[C#maj7]that the lights of the ci-\n[G#]ty were too heavy for me,\n[C#maj7]\n[G#]Though I\n[C#maj7]carried karats for\n[G#]everyone to see.\n[C]\n[F]And I\n\n[Chorus]\n[Fm]saw God [D#/A#]cry in the re-\n[G#]flection of my [D#]enemies,\n[Fm]And all the [D#/A#]lovers with no\n[G#]time for me, [D#]And\n[Fm]all the [D#/A#]mothers raise\n[G#]their [D#]babies\n[Cm7]to stay away from\n[C#maj7]me.\n\n[Verse 2]\n[C#maj7]Tongues on the so-\n[G#]ckets\n[C#maj7]of electric dreams,\n[G#][A#m7][G#/B#]When the\n[C#maj7]sewage of youth drowned the\n[G#]spark of my\n[C]teens.\n[F]And I knew\n[C#maj7]that the lights of the ci-\n[G#]ty were too heavy for me,\n[C#maj7]\n[G#]Though I\n[C#maj7]carried karats for\n[G#]everyone to see.\n[C]\n[F]And I\n\n[Chorus]\n[Fm]saw God [D#/A#]cry in the re-\n[G#]flection of my [D#]enemies,\n[Fm]And all the [D#/A#]lovers with no\n[G#]time for me, [D#]And\n[Fm]all the [D#/A#]mothers raise\n[G#]their [D#]babies\n[Cm7]to stay away from\n[C#maj7]me, And\n[Cm7]pray they don’t grow up to\n[C#maj7]be…",
+  "diagrams": {
+    "A#m7": {
+      "catalog": [
+        "68669x"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x320x3",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C#maj7": {
+      "catalog": [
+        "x46564",
+        "x-4-3-1-1-1",
+        "9-8-6-6-6-8",
+        "9-11-10-10-9-9",
+        "x-x-11-13-13-13"
+      ],
+      "catalogCount": 5
+    },
+    "Cm7": {
+      "catalog": [
+        "x35343",
+        "8-10-8-8-8-8",
+        "x-x-10-12-11-11",
+        "x-15-17-15-16-15",
+        "20-22-20-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "xx1343"
+      ],
+      "catalogCount": 1
+    },
+    "D#/A#": {
+      "catalog": [
+        "x11343"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    },
+    "G#/B#": {
+      "catalog": [
+        "x3654x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Golden",
+  "id": "bfbc0cca35d3072a5036af518f86f4677eb52f44b5a6d85f613c561fe91c03cb",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 187,
+  "normalizedKey": "fall out boy|golden",
+  "playableChords": [
+    "C#maj7",
+    "G#",
+    "A#m7",
+    "G#/B#",
+    "C",
+    "F",
+    "Fm",
+    "D#/A#",
+    "D#",
+    "Cm7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bfbc0cca35d3072a5036af518f86f4677eb52f44b5a6d85f613c561fe91c03cb",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Golden",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

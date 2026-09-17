@@ -1,0 +1,111 @@
+{
+  "artist": "Deep Purple",
+  "artistNormalized": "deep purple",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Bm]  [G]\n[Bm]  [G]\n[Bm]  [G]\n[Bm]\n\n[Verse 1]\n[Bm]If you're leaving\n[Bm]close the door\n[A]I'm not expecting people,\n[Bm]anymore\n[Bm]Hear me grieving,\n[Bm]lying on the floor\n[A]Whether I'm drunk or dead, I\n[Bm]really ain't too sure\n\n[Chorus]\n[Bm]I'm a blind man\n[D]I'm a blind man\n[G]And my world is\n[Em]pale\n[Bm]When a blind man cries\n[D]Lord , you\n[G]know There ain't [Em]a sadder ta-\n[Bm]le\n\n[Solo]\n[Bm]\n[Bm]\n[A]\n[Bm]\n[Bm]\n[Bm]\n[A]\n[Bm]\n[Bm]\n[D]\n[G]\n[Em]\n[Bm]\n[D]\n[G]  [Em]\n[Bm]\n\n[Verse 2]\n[Bm]Had a friend once,\n[Bm]in a room\n[A]Had a good time, but it en-\n[Bm]ded much too soon\n[Bm]In a cold month,\n[Bm]in that room\n[A]We found a reason, for the\n[Bm]things we had to do\n\n[Chorus]\n[Bm]I'm a blind man\n[D]I'm a blind man\n[G]Now my room is\n[Em]cold\n[Bm]When a blind man cries\n[D]Lord, you know\n[G]He feels [Em]it from\n[Bm]his soul\n[Bm]\n[Bm]\n[Bm]\n[Bm]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "When a Blind Man Cries",
+  "id": "08928748813776396ecd0c21e0ec5850c7c3f948e3f5160375585a3542e5203d",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 147,
+  "normalizedKey": "deep purple|when a blind man cries",
+  "playableChords": [
+    "Bm",
+    "G",
+    "A",
+    "D",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Solo"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "08928748813776396ecd0c21e0ec5850c7c3f948e3f5160375585a3542e5203d",
+    "version": "BCFZ"
+  },
+  "tempo": 64,
+  "title": "When a Blind Man Cries",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

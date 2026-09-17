@@ -1,0 +1,130 @@
+{
+  "artist": "Eloy",
+  "artistNormalized": "eloy",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am]\n[G]\n[Am]\n\n[Verse 1]\n[Am]Now we've come to the age,\nWhere the splendour fades,\n[G]And we look behind\n[Am]drooping facades.\nThe glossy front's just fake,\nThe firm base breaks,\n[G]as this doomed world\n[Am]slowly decays.\n\n[Interlude]\n[Am]\n\n[Verse 2]\n[Am]Illusions fly high,\nNothing we don't try\n[G]To build up fantasies\n[Am]we can believe.\nWe dance, sing and play,\nCause we feel the strain\n[G]of living at the end\n[Am]of our time.\n\n[Chorus]\n[F]We have resigned to our fate\nAfraid that our time is up\n[Am]now.\n[F]Though it's not quite too late,\nif we take to action\n[Am]now.\n\n[Bridge]\n[Bm]Our legacy\nFades and melts away,\n[G]Cause tomorrow\n[Em]may not ever be.\n[Bm]So we dance and sing,\ntry to bear the thought\n[G]Of approaching\n[Em]the end of our\n[Bm]time.\n\n[Solo]\n[Am]\n[G]\n[Am]\n[G]\n[Am]\n[F]\n[Am]\n[F]\n[Am]\n\n[Outro]\n[Bm]Our legacy\nFades and melts away,\n[G]Cause tomorrow\n[E]may not ever be.\n[Bm]So we dance and sing,\ntry to bear the thought\n[G]Cause tomorrow\n[E]may not ever be.\n[Bm]Our legacy\nFades and melts away,\n[G]Cause tomorrow\n[E]may not ever be.\n[Bm]So we dance and sing,\ntry to bear the thought\n[G]Cause tomorrow\n[E]may not ever be.",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "577555",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "799777",
+        "x-2-4-4-3-2",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Time To Turn",
+  "id": "2bb6a894423940bc89b5382d0755d118756f1f5654bab3af02b9e3e1ec80af2b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 222,
+  "normalizedKey": "eloy|time to turn",
+  "playableChords": [
+    "Am",
+    "G",
+    "F",
+    "Bm",
+    "Em",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Interlude"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 43,
+      "name": "Solo"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2bb6a894423940bc89b5382d0755d118756f1f5654bab3af02b9e3e1ec80af2b",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "Time To Turn",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

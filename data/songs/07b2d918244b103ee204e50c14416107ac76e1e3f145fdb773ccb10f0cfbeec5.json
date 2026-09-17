@@ -1,0 +1,86 @@
+{
+  "artist": "Dream Theater",
+  "artistNormalized": "dream theater",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 6,
+  "content": "[Interlude]\n[Gmaj7]\n[Gmaj7]\nAll your eyes have e-\nver seen\n[Gmaj7/B]All you've ever heard\nIs etched\n[Em9]upon my me-\n[C]mory I spo-\n[Em9]ken through my words\n[Gmaj7]All that I take with\nme Is all\n[D9]you've left behind\nWe're sha-\n[Em9]ring one eter-\nnity Li-\n[C9]ving in two\nminds\n[Em9]Linked by an end-\nless thread\n[D9]Impos-\nsible to break\n[Gmaj7]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x320x3",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C9": {
+      "catalog": [
+        "x30353"
+      ],
+      "catalogCount": 1
+    },
+    "D9": {
+      "catalog": [
+        "x54555"
+      ],
+      "catalogCount": 1
+    },
+    "Em9": {
+      "catalog": [
+        "024433"
+      ],
+      "catalogCount": 1
+    },
+    "Gmaj7": {
+      "catalog": [
+        "354433",
+        "3-2-0-0-0-2",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7",
+        "x-10-12-11-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7/B": {
+      "catalog": [
+        "79978x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Scene Three: I. Through my Words",
+  "id": "07b2d918244b103ee204e50c14416107ac76e1e3f145fdb773ccb10f0cfbeec5",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 64,
+  "normalizedKey": "dream theater|scene three i through my words",
+  "playableChords": [
+    "Gmaj7",
+    "Gmaj7/B",
+    "Em9",
+    "C",
+    "D9",
+    "C9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Interlude"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "07b2d918244b103ee204e50c14416107ac76e1e3f145fdb773ccb10f0cfbeec5",
+    "version": "BCFZ"
+  },
+  "tempo": 108,
+  "title": "Scene Three: I. Through my Words",
+  "tuning": "B E A D G B E",
+  "variantRole": "primary"
+}

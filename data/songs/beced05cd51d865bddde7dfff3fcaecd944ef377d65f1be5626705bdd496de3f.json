@@ -1,0 +1,76 @@
+{
+  "artist": "Enemy You",
+  "artistNormalized": "enemy you",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 5,
+  "content": "[Part 1]\n[D5]I know a [A5]girl who\n[F#5]strives to [E5]better this\n[D5]planet [A5]every\n[E5]day And\n[D5]there is a [A5]boy who\n[F#5]knows his [E5]actions won't\n[D5]change a thing any-\n[E5]way And\n\n[Part 2]\n[C#5]out their bedroom wi-\n[D5]ndows they both sta-\n[A5]re\n[C#5]Those that hurt most\n[D5]are the ones that\n[A5]give a [E5]fuck to care\n[F#5]\n[D5]And I know that's\n[E5]life but it still\n[A5]sucks",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bedroom Windows",
+  "id": "beced05cd51d865bddde7dfff3fcaecd944ef377d65f1be5626705bdd496de3f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 66,
+  "normalizedKey": "enemy you|bedroom windows",
+  "playableChords": [
+    "D5",
+    "A5",
+    "F#5",
+    "E5",
+    "C#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Part 1"
+    },
+    {
+      "measure": 9,
+      "name": "Part 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "beced05cd51d865bddde7dfff3fcaecd944ef377d65f1be5626705bdd496de3f",
+    "version": "BCFZ"
+  },
+  "tempo": 190,
+  "title": "Bedroom Windows",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

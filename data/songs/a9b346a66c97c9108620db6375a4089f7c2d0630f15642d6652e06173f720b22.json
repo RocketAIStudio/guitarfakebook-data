@@ -1,0 +1,114 @@
+{
+  "artist": "Damien Rice",
+  "artistNormalized": "damien rice",
+  "capo": "5",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[G6add11]\n\n[Verse 1]\n[F]We might\n[C]kiss\n[F]when we are alone\n[C]\n[F]Nobody's watch-\n[C]ing We might\n[G6add11]take it home\n[G6]\n[F]We might make\n[C]out\n[F]when nobody's there\n[C]\n[F]It's not that we're scared\n[C]It's just that it's de-\n[G6add11]licate\n[G6]So why do you fill\n\n[Chorus]\n[Fmaj7]my\nsorrow With the words\n[C]you've\nborrowed From the on-\n[Fmaj7]ly\nplace you've\n[C]known\nAnd why do you sing\n[Fmaj7]Halle-\nlujah If it means\n[C]nothing\nto you Why do you\n[Fmaj7]sing with\nme at\n[G13]all?\n\n[Verse 2]\n[F]We might\n[C]live\n[F]like never before\n[C]\n[F]When there's nothing to give\n[C]Well how can we ask\n[G6add11]for more\n[G6]\n[F]We might make love\n[C]\n[F]in some sacred place\n[C]\n[F]The look on your face\n[C]is delicate\n[G6add11]\n[G6]So why do you fill\n\n[Chorus]\n[Fmaj7]my\nsorrow With the words\n[C]you've\nborrowed From the on-\n[Fmaj7]ly\nplace you've\n[C]known\nAnd why do you sing\n[Fmaj7]Halle-\nlujah If it means\n[C]nothing\nto you Why do you\n[Fmaj7]sing with\nme at all?\n[G13]\nWhy do you fill\n\n[Chorus]\n[Fmaj7]my\nsorrow With the\n[C]words you've\nborrowed From the on-\n[Fmaj7]ly\nplace that you've known\n[C]\nAnd why do you sing\n[Fmaj7]Hallelu-\njah If it means\n[C]nothing\nto you Why do you\n[Fmaj7]sing with\nme at\n[G13]all?\n\n[Outro]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[G6add11]\n[Fmaj7]\n[C]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "xx3210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G13": {
+      "catalog": [
+        "323010"
+      ],
+      "catalogCount": 1
+    },
+    "G6": {
+      "catalog": [
+        "320000"
+      ],
+      "catalogCount": 1
+    },
+    "G6add11": {
+      "catalog": [
+        "320010"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Delicate",
+  "id": "a9b346a66c97c9108620db6375a4089f7c2d0630f15642d6652e06173f720b22",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 211,
+  "normalizedKey": "damien rice|delicate",
+  "playableChords": [
+    "F",
+    "C",
+    "G6add11",
+    "G6",
+    "Fmaj7",
+    "G13"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a9b346a66c97c9108620db6375a4089f7c2d0630f15642d6652e06173f720b22",
+    "version": "BCFZ"
+  },
+  "tempo": 57,
+  "title": "Delicate",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

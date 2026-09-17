@@ -1,0 +1,82 @@
+{
+  "artist": "Etta James",
+  "artistNormalized": "etta james",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n[A]\n[Bm]\n[Bm]\n[A]\n\n[Verse 1]\n[A]Something told\nme it was o-\n[Bm]ver\n[Bm]When I saw\nyou and her\n[A]talkin'\n[A]Something deep\ndown in my\n[Bm]soul said, 'Cry,\ngirl'\n[Bm]When I saw\nyou and that girl\n[A]walkin' around\nWhoo,\n\n[Chorus]\n[A]I would ra-\nther, I would rather go blind,\n[Bm]boy\n[Bm]Then to see\nyou walk away from me,\n[A]child, no\nWhoo,\n\n[Verse 2]\n[A]so you see,\nI love you so much\n[Bm]That I don't wanna watch you leave\nme, baby\n[Bm]Most of all,\nI just don't, I just don't\n[A]wanna be free, no\nWhoo, whoo,\n\n[Verse 3]\n[A]I was just,\nI was just,\n[Bm]I was just\nSittin' here thinkin',\n[Bm]of your kiss\nand your warm em-\n[A]brace, yeah\n[A]When the re-\nflection in the glass that I held\n[Bm]to my lips now, baby\n[Bm]Revealed the\ntears that was on\n[A]my face, yeah\nWhoo,\n\n[Chorus]\n[A]and baby, ba-\nby, I'd rather, I'd rather be\n[Bm]blind, boy\n[Bm]Then to see you\nwalk away, see you walk away from\n[A]me, yeah\nWhoo,\n\n[Outro/Fade Out]\n[A]baby, baby,\nbaby, I'd rather be\n[Bm]blind...\n[Bm]Baby, baby, babe",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I'd Rather Go Blind",
+  "id": "b423a424ce752156585b5691aff7d92bf786c7eefc4dcfb3e8c27d299b18d42c",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 191,
+  "normalizedKey": "etta james|i d rather go blind",
+  "playableChords": [
+    "A",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Outro/Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b423a424ce752156585b5691aff7d92bf786c7eefc4dcfb3e8c27d299b18d42c",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "I'd Rather Go Blind",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

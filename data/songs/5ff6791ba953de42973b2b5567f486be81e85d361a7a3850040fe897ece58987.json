@@ -1,0 +1,141 @@
+{
+  "artist": "Elliott Smith",
+  "artistNormalized": "elliott smith",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Em]  [C]  [G]\n[Em]  [C]  [G]\n[Em]  [C]  [G]\n[Em]  [C]  [G]\n\n[Verse 1]\n[Em]`I'm [C]going out [G]sleepwalking\nWhere\n[Em]mute memories [C]start [G]talking\nThe\n[Em]boss that couldn't [C]help but hurt [G]you\nAnd the\n[Em]pretty thing he [C]made desert [G]you\nI'm\n[Em]going out now [C]like a [G]baby\nA\n[Em]naive [C]unsatisfiable [G]baby\n[Em]Grabbing onto [C]whatever's [G]around\nFor the\n[Em]soaring high or the [C]crushing [G]down\n\n[Chorus]\n[A]With hidden cracks that don't show\n[Am7]But\n[D]that constantly just [Am]grow\n\n[Verse 2]\n[Em]I'm looking for the [C]man that attacked [G]me\nWhile\n[Em]everybody was [C]laughing at [G]me\nYou\n[Em]beat it in me [C]that part of [G]you\nBut I'm\n[Em]gonna split us [C]back in [G]two\n\n[Chorus]\n[A]Tired of living in a\ncloud [Am7]If you're gonna\n[D]say shit now you'll do it out [Am]loud\n\n[Verse 3]\n[Em]It's two forty [C]five in the [G]morning\nAnd\n[Em]I'm putting [C]myself on [G]warning\nFor\n[Em]waking up in [C]an unknown [G]place\nWith\n[Em]a [C]recollection you've half [G]erased\n\n[Chorus]\n[A]Looking for somebody's\narms [Am7]to\n[D]Wave away past [Am]harms\n\n[Outro]\n[Em]I'm walking out [C]on center [G]circle\n[Em]The both of you [C]can just fade [G]to black\n[Em]I'm walking out [C]on center [G]circle\nBeen\n[Em]pushed away and [C]I'll never go [G]back\n[Em]  [C]  [G]\n[Em]  [C]  [G]\n[Em]  [C]  [G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "2:45 A.M.",
+  "id": "5ff6791ba953de42973b2b5567f486be81e85d361a7a3850040fe897ece58987",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 214,
+  "normalizedKey": "elliott smith|2 45 a m",
+  "playableChords": [
+    "Em",
+    "C",
+    "G",
+    "A",
+    "Am7",
+    "D",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5ff6791ba953de42973b2b5567f486be81e85d361a7a3850040fe897ece58987",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "2:45 A.M.",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

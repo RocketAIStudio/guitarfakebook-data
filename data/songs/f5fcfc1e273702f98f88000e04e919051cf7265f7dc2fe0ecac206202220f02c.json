@@ -1,0 +1,129 @@
+{
+  "artist": "Dishwalla",
+  "artistNormalized": "dishwalla",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D7sus2]\n[Fmaj7]\n[C]\n[D7sus2]\n[Fmaj7]\n[C]\nSo the lines are lost\n\n[Verse 1]\n[D7sus2]On the smallest details\n[Fmaj7]Of the life that we tossed\n[C]Pushed out over the rail\nAnd the wounds run deep\n[D7sus2]Through the one man so bad\n[Fmaj7]He's fallen beneath\n[C]The touch of your hand\nAnd its all drawn out\n\n[Chorus]\n[Am]There's nothing inside\n[Dm]And nothing to hold\n[Fmaj7]Nothing to find\n[Dm]Its wearing' me out\n[Am]This feeling inside\n[Dm]I'm all drawn out\n[Fmaj7]\n[Dm]And the promise we break\n\n[Verse 2]\n[D7sus2]it And the reasons we fake it\n[Fmaj7]Bring us farther apart\n[C]From the love that we make\nAs the poisonous time\n[D7sus2]Leaves us gasping for air\n[Fmaj7]We run for the past\n[C]But were already there\nAnd its all drawn out\n\n[Chorus]\n[Am]There's nothing inside\n[Dm]And nothing to hold\n[Fmaj7]Nothing to find\n[Dm]Its wearing' me out\n[Am]This feeling inside\n[Dm]I'm all drawn out\n\n[Bridge]\n[Fmaj7]\nIts all drawn\nout I'm all drawn\n[C]out\nThere's nothing in-\n[Am]side\nAnd nothing to\n[Fmaj7]hold\nNothing to\n[Gadd11]find\n[G]I'm all drawn out\n[C]\nThere's nothing in-\n[Am]side\nAnd nothing to\n[Fmaj7]hold\nNothing to\n[Gadd11]find\n\n[Outro]\n[G]Its all drawn\n[Gadd11]out\n[G]Its all drawn\n[Gadd11]out\n[G]Its all drawn\n[Gadd11]out\n[G]I'm all drawn\n[Gadd11]out\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7sus2": {
+      "catalog": [
+        "xx0210"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "xx3210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gadd11": {
+      "catalog": [
+        "320013"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Drown Out",
+  "id": "f5fcfc1e273702f98f88000e04e919051cf7265f7dc2fe0ecac206202220f02c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 207,
+  "normalizedKey": "dishwalla|drown out",
+  "playableChords": [
+    "D7sus2",
+    "Fmaj7",
+    "C",
+    "Am",
+    "Dm",
+    "Gadd11",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f5fcfc1e273702f98f88000e04e919051cf7265f7dc2fe0ecac206202220f02c",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "Drown Out",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,62 @@
+{
+  "artist": "Eric Clapton",
+  "artistNormalized": "eric clapton",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[E]\n[A]\n\n[1st verse]\n    Hey    hey\n      a   hey hey            ba  by   hey\n    Hey    hey\n         hey hey         ba  by   hey\n    I love you           ba  by\nsure aint gonna  be    your       dog\n\n[2nd verse]\n    Hey    hey\n      a   hey hey            ba  by   hey\nA    hey    hey\na    hey hey           ba - by   hey\nmy      arm´s     around   you     baby´s\nall i can say is hey",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "Hey Hey *alt",
+  "id": "b126c19cad759ebec453e972a2feb1110ac52c9beb4b6dae9eba650b6d4f7c76",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 12,
+  "normalizedKey": "eric clapton|hey hey",
+  "playableChords": [
+    "E",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 26,
+      "name": "1st verse"
+    },
+    {
+      "measure": 50,
+      "name": "2nd verse"
+    }
+  ],
+  "source": {
+    "format": "gp3",
+    "sha256": "b126c19cad759ebec453e972a2feb1110ac52c9beb4b6dae9eba650b6d4f7c76",
+    "version": "FICHIER GUITAR PRO v3.00"
+  },
+  "tempo": 158,
+  "title": "Hey Hey",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

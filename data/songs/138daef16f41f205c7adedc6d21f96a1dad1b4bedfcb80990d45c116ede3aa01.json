@@ -1,0 +1,130 @@
+{
+  "artist": "Deftones",
+  "artistNormalized": "deftones",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G#m]\n[B]\n[G#m]\n[B]\n[G#m]\n[B]\n[G#m]\n[B]\n[G#m]\n[B]\n\n[Verse 1]\n[D#m]I li-\n[A#m]ke you when,\n[B]when you ta-\n[F#]ke off your [C#]fa-\n[D#m]ce Put awa-\n[A#m]y all your teeth\n[B]And take us wa-\n[F#]y [C#]underneath\n[D#m]'Cause you could die\n[A#m]if you ta-\n[B]ke it alo-\n[F#]ne [C#]\n[D#m]\nI\n\n[Chorus]\n[B]watch you ta-\nste it I\nsee your fa-\nce And I\n[G#m]know I'm ali-\nve You're\n[B]shooting sta-\nrs From the\nbarrel of your eye-\ns And it\n[G#m]drives me cra-\nzy Just\ndrives me wi-\nld\n\n[Post-Chorus]\n[D#m]\n\n[Interlude]\n[G#m]\n[B]\n[G#m]\n[B]\n[G#m]\n[B]\n\n[Verse 2]\n[D#m]I kind of li-\n[A#m]ke you whe-\n[B]n, when you ma-\n[F#]ke up the [C#]ree-\n[D#m]l Take the pho-\n[A#m]ne in your roo-\n[B]m Stop the ta-\n[F#]pe or [C#]resu-\n[D#m]me Well you could try\n[A#m]if you thi-\n[B]nk it will loa-\n[F#]d [C#]\n[D#m]\nI\n\n[Chorus]\n[B]watch you ta-\nste it I\nsee your fa-\nce And I\n[G#m]know I'm ali-\nve You're\n[B]shooting sta-\nrs From the\nbarrel of your eye-\ns And it\n[G#m]drives me cra-\nzy Just\ndrives me wi-\nld\n\n[Break]\n[D#m]Every ti-\nme,\nevery ti-\nme you try\n\n[Bridge]\n[B]Why\n,\nit's a beau-\ntiful\n[G#m]ri-\nde\n[B]Why\n,\nit's a beau-\ntiful\n[G#m]ri-\nde\nRi-\nde I\n\n[Chorus]\n[B]watch you ta-\nste it I\nsee your fa-\nce And I\n[G#m]know I'm ali-\nve You're\n[B]shooting sta-\nrs From the\nbarrel of your eye-\ns And it\n[G#m]drives me cra-\nzy Just\ndrives me wi-\nld.\n\n[Outro]\n[B]\n[G#m]\n[B]\n[G#m]",
+  "diagrams": {
+    "A#m": {
+      "catalog": [
+        "x24432"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x32010",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "022000"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "320003",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "x02210"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Beauty School",
+  "id": "138daef16f41f205c7adedc6d21f96a1dad1b4bedfcb80990d45c116ede3aa01",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 243,
+  "normalizedKey": "deftones|beauty school",
+  "playableChords": [
+    "G#m",
+    "B",
+    "D#m",
+    "A#m",
+    "F#",
+    "C#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Interlude"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Break"
+    },
+    {
+      "measure": 85,
+      "name": "Bridge"
+    },
+    {
+      "measure": 99,
+      "name": "Chorus"
+    },
+    {
+      "measure": 113,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "138daef16f41f205c7adedc6d21f96a1dad1b4bedfcb80990d45c116ede3aa01",
+    "version": "BCFZ"
+  },
+  "tempo": 106,
+  "title": "Beauty School",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

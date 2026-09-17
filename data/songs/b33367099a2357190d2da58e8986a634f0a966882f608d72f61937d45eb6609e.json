@@ -1,0 +1,137 @@
+{
+  "artist": "Death Cab For Cutie",
+  "artistNormalized": "death cab for cutie",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Eb]\n[Cm7]\n\n[Verse 1]\n[Eb]And\nwhen I see you\nI really see\nyou up side down\n[Cm7]\n[Eb]But my\nbrain knows better\nIt picks you up\nand turns you around\n[Cm7]Turns\nyou around,\nturns\nyou around\n\n[Verse 2]\n[Eb]If you\nfeel discouraged\nWhen there's a lack\nof color here\n[Cm7]\n[Eb]Please don't\nworry lover\nIt's really burst-\ning at the seams\n[Cm7]From\nabsorbing every-\nthing, the spectrum's\nA to Z\n\n[Chorus]\n[Eb]\n[Cm7]\n[Eb]\n[Cm7]\n\n[Verse 3]\n[Eb]This is\nfact not fiction\nFor the first\ntime in years\n[Cm7]\n[Eb]All the girls\nin every gillie\nmagazine\nCan't make me feel\n[Cm7]a-\nny less alone\nI'm reach\ning for the phone\n\n[Bridge]\n[Bb]To\ncall at seven o three\n[Bdim7]and\non your machine\n[Cm]I slur a plea\n[Bb]for you to come home\n[Ab]\n[Bb]\nBut I know it's too late\n[Bdim7]And\nI should have gi-\n[Cm]ven you a rea-\n[Bb]son to\n[Ab]stay\n[Cm]Given you a rea\n[Gm]son to stay\n[Ab]\n[Cm]Given you a rea\n[Gm]son to\n[Ab]stay\n[Cm]Given you a rea\n[Gm]son to stay\n[Ab]\n\n[Interlude]\n[Eb]\n[Cm7]\n\n[Outro]\n[Eb]This is\nfact, not fiction\nFor the first\ntime in years\n[Cm7]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "577655",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x24442",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bdim7": {
+      "catalog": [
+        "x34242"
+      ],
+      "catalogCount": 1
+    },
+    "Cm": {
+      "catalog": [
+        "x46654",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "Cm7": {
+      "catalog": [
+        "x46454",
+        "x-3-5-3-4-3",
+        "8-10-8-8-8-8",
+        "x-x-10-12-11-11",
+        "x-15-17-15-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "022100",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "466444",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "A Lack Of Color",
+  "id": "b33367099a2357190d2da58e8986a634f0a966882f608d72f61937d45eb6609e",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 190,
+  "normalizedKey": "death cab for cutie|a lack of color",
+  "playableChords": [
+    "Eb",
+    "Cm7",
+    "Bb",
+    "Bdim7",
+    "Cm",
+    "Ab",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge"
+    },
+    {
+      "measure": 98,
+      "name": "Interlude"
+    },
+    {
+      "measure": 106,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b33367099a2357190d2da58e8986a634f0a966882f608d72f61937d45eb6609e",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "A Lack Of Color",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

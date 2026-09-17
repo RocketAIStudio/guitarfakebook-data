@@ -1,0 +1,95 @@
+{
+  "artist": "David Bowie",
+  "artistNormalized": "david bowie",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F]\n[C]\n[F]\n[C]\n[D/F#]\n[E]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[E]\n[F]\n[G]  [F]\n\n[Verse]\n[C]Tactful cac tus by your\n[F]window,\n[C]Surveys the prairie of your\n[F]room,\n[C]the mobile spins to its\n[D/F#]collision,\n[E]Clara puts her head between her\n[F]paws.\n[C]They've opened shops down on the\n[F]West side,\n[C]will all the cacti find a\n[F]home?\n[C]But the key to the\n[E]city Is in the\n[F]sun that pins the branches To the\n[G]sky, [F]oh.\n\n[Outro]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "xx4232"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Eight Line Poem *alt",
+  "id": "552d91eb247acf92098e91b58c3180fa27915d7df54e4ade6a97d4840e23d36c",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 70,
+  "normalizedKey": "david bowie|eight line poem",
+  "playableChords": [
+    "F",
+    "C",
+    "D/F#",
+    "E",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 16,
+      "name": "Verse"
+    },
+    {
+      "measure": 32,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "552d91eb247acf92098e91b58c3180fa27915d7df54e4ade6a97d4840e23d36c",
+    "version": "BCFZ"
+  },
+  "tempo": 59,
+  "title": "Eight Line Poem",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

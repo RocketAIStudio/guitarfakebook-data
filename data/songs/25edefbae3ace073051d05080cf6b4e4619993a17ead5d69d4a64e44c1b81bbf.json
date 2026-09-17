@@ -1,0 +1,104 @@
+{
+  "artist": "Enrique Iglesias",
+  "artistNormalized": "enrique iglesias",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[Em7]Let me be your hero\n[Cadd9]\n[Dsus4]Would you\n\n[Verse 1]\n[G]dance If I asked you to\n[Em7]dance? Would you\n[Cadd9]run And never look\n[Dsus4]back? Would you\n[G]cry If you saw me cry-\n[Em7]ing? And would\n[Cadd9]you save my [Dsus4]soul, tonig-\n[G]ht? Would you\n[G]tremble If I touched your\n[Em7]lips? Would you\n[Cadd9]laugh? Oh please tell me\n[Dsus4]this Now would you di-\n[G]e For the one you lov-\n[Em7]ed? Hold me\n[Cadd9]in your [Dsus4]arms, tonig-\n[G]ht\n\n[Chorus]\n[G]I can [Dsus4]be your hero, ba-\n[Cadd9]by\n[G]I can [Dsus4]kiss away the pa-\n[Cadd9]in\n[G]I will [Dsus4]stand by you fore-\n[Cadd9]ver\n[G]You can [Dsus4]take my\n[Cadd9]breath away\nWould you\n\n[Verse 2]\n[G]swear That you'll always be\n[Em7]mine? Or would you\n[Cadd9]lie? Would you run and\n[Dsus4]hide? Am I in too de-\n[G]ep? Have I lost my mi-\n[Em7]nd? I don't\n[Cadd9]care You're [Dsus4]here toni-\n[G]ght\n\n[Chorus]\n[G]I can [Dsus4]be your hero, ba-\n[Cadd9]by\n[G]I can [Dsus4]kiss away the pa-\n[Cadd9]in\n[G]I will [Dsus4]stand by you fore-\n[Cadd9]ver\n[G]You can [Dsus4]take my\n[Cadd9]breath away\n\n[Solo]\n[G]\n[Em7]\n[Cadd9]\n[Dsus4]\n[G]\n[Em7]\n[Cadd9]  [Dsus4]\n[G]\n\n[Verse 3]\n[G]Oh,\n[Em7]I just want to hold\n[Cadd9]you I just want to hold you,\n[Dsus4]oh, yeah Am I in too de-\n[G]ep? Have I lost my\n[Em7]mind? Well, I don't\n[Cadd9]care You're [Dsus4]here tonight\n[G]\n\n[Chorus]\n[G]I can [Dsus4]be your hero, ba-\n[Cadd9]by\n[G]I can [Dsus4]kiss away the pa-\n[Cadd9]in\n[G]I will [Dsus4]stand by you fore-\n[Cadd9]ver\n[G]You can [Dsus4]take my\n[Cadd9]breath away\n[G]I can [Dsus4]be your he-\n[Cadd9]ro\n[G]I can [Dsus4]kiss away the pa-\n[Cadd9]in And I will\n[G]stand by [Dsus4]you fore-\n[Cadd9]ver\n[G]You can [Dsus4]take my\n[Cadd9]breath away\n\n[Outro]\n[G]You can [Dsus4]take my\n[Cadd9]breath away\n[G]I can be\nyour hero",
+  "diagrams": {
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus4": {
+      "catalog": [
+        "xx0233"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "022033",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hero *alt",
+  "id": "25edefbae3ace073051d05080cf6b4e4619993a17ead5d69d4a64e44c1b81bbf",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 284,
+  "normalizedKey": "enrique iglesias|hero",
+  "playableChords": [
+    "G",
+    "Em7",
+    "Cadd9",
+    "Dsus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Solo"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "25edefbae3ace073051d05080cf6b4e4619993a17ead5d69d4a64e44c1b81bbf",
+    "version": "BCFZ"
+  },
+  "tempo": 76,
+  "title": "Hero",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

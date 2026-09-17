@@ -1,0 +1,128 @@
+{
+  "artist": "Elliott Smith",
+  "artistNormalized": "elliott smith",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 8,
+  "content": "[Verse 1]\n[F7M/A]Haven't laughed this hard in a\nlong time I better\nstop now before [G]I start cry-\n[F/C]ing [C]\nGo off to sleep in the sunshi-\n[F7M/A]ne I don't\nwant to see [G]the day when it's\n[F/C]dying [C]She's a\n\n[Chorus]\n[Dsus2/F#]sight to see, she's\n[F7M]good to me I'm\nalready [G]somebody's b-\n[F/C]aby [C]She's a\n[Dsus2/F#]pretty thing and she\n[F7M]knows everything But I'm\n[Am]already [G]somebody's b-\n[F/C]aby [C]\n\n[Verse 2]\n[F7M/A]You don't deserve to be lo-\nnely But those\ndrugs you got [G]won't make you feel\n[F/C]better [C]\nPretty soon you'll find it's the o-\n[F7M/A]nly Little\npart of your [G]life you're keeping\n[F/C]together [C]I'm\n\n[Chorus]\n[Dsus2/F#]nice to you, I could\n[F7M]make it through That you're\nalready [G]somebody's b-\n[F/C]aby [C]I could\n[Dsus2/F#]make you smile if you\n[F7M]stayed a while But how\n[Am]long will you [G]stay with me b-\n[F/C]aby [C]\n\n[Instrumental]\n[F7M/A]\n[Am]  [G]\n[F/C]  [C]\n[F7M/A]\n[Am]  [G]\n[F/C]  [C]\n[Dsus2/F#]\n[F7M]\n[Am]  [G]\n[F/C]  [C]\n[Dsus2/F#]\n[F7M]\n[Am]  [G]\n[C]\n\n[Verse]\n[F7M/A]Because your candle burns to-\no bright Well,\nI almost forgot [G]it was twili-\n[F/C]ght [C]\nEven if I think that you a-\n[F7M/A]re right Well,\nI'm tired of [G]being down, I got\n[F/C]no fight [C]You're\n\n[Chorus]\n[Dsus2/F#]wonderful, when it's\n[F7M]beautiful But\nI'm already [G]somebody's b-\n[F/C]aby [C]And if\n[Dsus2/F#]I went with you I'd disap-\n[F7M]point you too Well, I'm\n[Am]already [G]somebody's b-\n[F/C]aby [C]Al-\n[Am]ready [G]somebody's\n[Asus4]baby\n[F/C]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2/F#": {
+      "catalog": [
+        "2x0230"
+      ],
+      "catalogCount": 1
+    },
+    "F/C": {
+      "catalog": [
+        "x33211"
+      ],
+      "catalogCount": 1
+    },
+    "F7M": {
+      "catalog": [
+        "1x3210"
+      ],
+      "catalogCount": 1
+    },
+    "F7M/A": {
+      "catalog": [
+        "x03210"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Twilight",
+  "id": "76fc0b3da803044455e7beaeb6cea5a5cb5744c5680828bc042ab7b5fe7ac872",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 295,
+  "normalizedKey": "elliott smith|twilight",
+  "playableChords": [
+    "F7M/A",
+    "G",
+    "F/C",
+    "C",
+    "Dsus2/F#",
+    "F7M",
+    "Am",
+    "Asus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Instrumental"
+    },
+    {
+      "measure": 50,
+      "name": "Verse"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "76fc0b3da803044455e7beaeb6cea5a5cb5744c5680828bc042ab7b5fe7ac872",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "Twilight",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

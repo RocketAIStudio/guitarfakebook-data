@@ -1,0 +1,130 @@
+{
+  "artist": "Eddie Cochran",
+  "artistNormalized": "eddie cochran",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\nOooh, Well I\n\n[Verse 1]\ngotta gal with a\nrecord machine When it\ncomes to rockin'\nshe's a queen\n[D]We love to dance on\nSaturday night\n[A]All alone when I can\nhold her tight But she\n[E7]lives on the twentieth\n[D7]floor uptown\n[A]The elevators\nbroken down So I\n\n[Chorus]\nWalk one two flight\nthree flight four\nfive six seventh flight\neight flight more\n[D]Up on the twelfth I'm\nstartin' to drag fif-\n[A]teen floor I'm a\nready to sag\n[E]Get to the top\n[D]I'm too tired to rock\n[A]\nWhen she\n\n[Verse 2]\ncalled me up on the\ntelephone She said\ncomes on over honny I'm\nall along\n[D]I said Betty you're\nmight sweet\n[A]But I'm in bed with\nachin' feet\n[E7]This went on for a\n[D7]couple of day\n[A]But I couldn't\nstay away So I\n\n[Chorus]\nWalk one two flight\nthree flight four\nfive six seventh flight\neight flight more\n[D]Up on the twelfth I'm\nstartin' to drag fif-\n[A]teen floor I'm a\nready to sag\n[E]Get to the top\n[D]I'm too tired to rock\n[A]\n\n[Guitar Solo]\n[A]\n[D]\n[A]\n[E]\n[D]\n[A]\nWell they\n\n[Verse 3]\nsend to Chicago\nfor repairs Till it's\nfixed I'm using\nthe stairs\n[D]Hope they hurry be-\nfore it's too late\n[A]Want my baby\ntoo much to wait\n[E7]All this climbin'\n[D7]is a gettin' me down\n[A]You'll find my corpse draped\nover a rail So I\n\n[Chorus]\nWalk one two flight\nthree flight four\nfive six seventh flight\neight flight more\n[D]Up on the twelfth I'm\nstartin' to drag fif-\n[A]teen floor I'm a\nready to sag\n[E]Get to the top\n[D]I'm too tired to rock\n\n[Outro]\n[G#]  [A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "x5453x",
+        "x-x-0-2-1-2",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "x7675x",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Twenty Flight Rock",
+  "id": "aeed1742f71cae5f12c9baaba03e968dbb8450c041c5a881f29ffdd35ae9dba9",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 287,
+  "normalizedKey": "eddie cochran|twenty flight rock",
+  "playableChords": [
+    "A",
+    "D",
+    "E7",
+    "D7",
+    "E",
+    "G#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 79,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "aeed1742f71cae5f12c9baaba03e968dbb8450c041c5a881f29ffdd35ae9dba9",
+    "version": "BCFZ"
+  },
+  "tempo": 208,
+  "title": "Twenty Flight Rock",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

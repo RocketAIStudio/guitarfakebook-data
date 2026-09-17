@@ -1,0 +1,99 @@
+{
+  "artist": "Doom",
+  "artistNormalized": "doom",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F#5]\n[C5]\n[B5]\n[F#5]\n[C5]\n[B5]\n\n[Pre-Verse]\n[F#5]\n[C5]\n[B5]\n[F#5]\n[C5]\n[B5]\n\n[Verse 1]\n[F#5]Get a job, buy a car,\nbuy a house, Slave 'till\n[C5]death.\n[B5]\n\n[Chorus]\n[G#5]  [G5]\n[G#5]  [G5]\n[G#5]Slave [G5]to con-\n[G#5]vention [G5]\n\n[Pre-Verse]\n[F#5]\n[C5]\n[B5]\n[F#5]\n[C5]\n[B5]\n\n[Verse 2]\n[F#5]Get a job, buy a car,\nbuy a house, Slave 'till\n[C5]death.\n[B5]\n\n[Chorus]\n[G#5]  [G5]\n[G#5]  [G5]\n[G#5]Slave [G5]to con-\n[G#5]vention [G5]\n\n[Outro]\n[F#5]",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Slave To Convention",
+  "id": "ae827553f40e3ed246cd693e8755b6374e95faf174c95d026ead0954b8a1d791",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 34,
+  "normalizedKey": "doom|slave to convention",
+  "playableChords": [
+    "F#5",
+    "C5",
+    "B5",
+    "G#5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ae827553f40e3ed246cd693e8755b6374e95faf174c95d026ead0954b8a1d791",
+    "version": "BCFZ"
+  },
+  "tempo": 200,
+  "title": "Slave To Convention",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

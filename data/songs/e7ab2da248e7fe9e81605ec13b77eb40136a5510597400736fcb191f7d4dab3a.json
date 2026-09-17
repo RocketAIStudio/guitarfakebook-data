@@ -1,0 +1,129 @@
+{
+  "artist": "Del Shannon",
+  "artistNormalized": "del shannon",
+  "capo": "1",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Am]\n\n[Verse 1]\n[Am]As I\nwalk along, I\n[G]wonder A-\nwhat went wrong with our\n[F]love A\nlove that was so strong\n[E7]\n[Am]And as I\nstill walk on, I\n[G]think of The\nthings we've done toge-\n[F]ther\nWhile our hearts were young\n[E7]\n\n[Chorus]\n[A]I'm awalkin'\nin the rain\n[F#m]Tears are fallin' and I\nfeel the pain\n[A]Oh, wishin' you were\nhere by me\n[F#m]To end this\nmisery And I won-\n[A]der I\nwahwahwahwah-\n[F#m]wonder\n[A]Why Ah,\nWhy, why, why, why,\n[F#m]why She ran away\nAnd I\n[D]wonder\nUh, where she will stay\n[E7]\nMy little\n[A]runaway A-\n[D]run, run, run, run,\n[A]runaway\n[E7]\n\n[Organ Solo]\n[Am]\n[G]\n[F]\n[E7]\n[Am]\n[G]\n[F]\n[E7]\n\n[Chorus]\n[A]I'm awalkin'\nin the rain\n[F#m]Tears are fallin' and I\nfeel the pain\n[A]Oh, wishin' you were\nhere by me\n[F#m]To end this\nmisery And I won-\n[A]der I\nwahwahwahwah-\n[F#m]wonder\n[A]Why Ah,\nWhy, why, why, why,\n[F#m]why She ran away\nAnd I\n[D]wonder\nUh, where she will stay\n[E7]\nMy little\n[A]runaway A-\n[D]run, run, run, run,\n[A]runaway A-\n[D]run, run, run, run,\n[A]runaway A-\n[D]run, run, run, run,\n[A]runaway A-",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Runaway *alt",
+  "id": "e7ab2da248e7fe9e81605ec13b77eb40136a5510597400736fcb191f7d4dab3a",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 209,
+  "normalizedKey": "del shannon|runaway",
+  "playableChords": [
+    "Am",
+    "G",
+    "F",
+    "E7",
+    "A",
+    "F#m",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Organ Solo"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e7ab2da248e7fe9e81605ec13b77eb40136a5510597400736fcb191f7d4dab3a",
+    "version": "BCFZ"
+  },
+  "tempo": 153,
+  "title": "Runaway",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

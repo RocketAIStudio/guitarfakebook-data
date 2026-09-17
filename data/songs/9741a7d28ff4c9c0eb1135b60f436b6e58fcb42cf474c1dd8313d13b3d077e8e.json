@@ -1,0 +1,112 @@
+{
+  "artist": "Dance Gavin Dance",
+  "artistNormalized": "dance gavin dance",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Em7]\n\n[Verse 1]\n[Em7]Damaged pride and vulnerable,\n[Dadd11]all my fears are open now\n[Cmaj7]Never thought this would hit me so hard\n[Em7]Staring at my hollow phone,\n[Dadd11]not sure if you're coming home\n[Cmaj7]Bed still smells like I'm not all alone\nagain\n\n[Pre-Chorus]\n[Em7]I know we fucked it\n[Dadd11]all up this\n[Cmaj7]time We got so high\n(Couldn't see the bottom) I\n\n[Chorus]\n[Cmaj7]just crashed my car\n[G]And it got\n[Dadd11]me thinking of\n[Cmaj7]you So I\n[Cmaj7]just thought I'd call\n[G]To tell\n[Dadd11]you, to tell you I, to\n[Cmaj7]tell you I still love you\n\n[Bridge]\n[G]My mental image impaired,\nundid the braids in my hair\n[Em7]I rain destruction in the\nfight of my inner feels\n[G]Remove the tricks of the trade,\nyou're just alone on the stage\n[Em7]There's no witness, fly your\nsoul through the windshield\n\n[Verse 2]\n[Em7]Damaged pride and vulnerable,\n[Dadd11]all my fears are open now\n[Cmaj7]Never thought this would hit me so hard\n[Em7]Staring at my hollow phone,\n[Dadd11]wondering if you've found your home\n[Cmaj7]Feel like I deserve to die alone\nagain\n\n[Pre-Chorus]\n[Em7]We really fucked it\n[Dadd11]all up this\n[Cmaj7]time We got so low\n(Only for a second) I\n\n[Chorus]\n[Cmaj7]just crashed my car\n[G]And it got\n[Dadd11]me thinking of\n[Cmaj7]you So I\n[Cmaj7]just thought I'd call\n[G]To tell\n[Dadd11]you, to tell you I, to\n[Cmaj7]tell you I still love you\n\n[Bridge]\n[G]Take a sip from the drain,\nthe flavor tastes like nothing\n[Em7]Or nothing tastes the same 'cause\nnothing is never there\n[G]I know what I'm talking 'bout,\nbelieve the words in my mouth\n[Em7]'Cause I can say that it was\nall just a metaphor\n\n[Outro]\n[G]In my heart and in my own mind, in my soul\nI know that they ain't never gonna break me\n[Em7]In my heart and in my own mind, in my soul\nI know that they ain't never gonna break me\n[G]In my heart and in my own mind, in my soul\nI know that they ain't never gonna break me\n[Em7]In my heart and in my own mind, in my soul\nI know that they ain't never gonna break me\n[G]",
+  "diagrams": {
+    "Cmaj7": {
+      "catalog": [
+        "x35453",
+        "x-3-2-0-0-0",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dadd11": {
+      "catalog": [
+        "x55775"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "x79787",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "12-14-12-12-12-12",
+        "x-19-21-19-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "x-10-12-12-12-10",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Betrayed By The Game",
+  "id": "9741a7d28ff4c9c0eb1135b60f436b6e58fcb42cf474c1dd8313d13b3d077e8e",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 392,
+  "normalizedKey": "dance gavin dance|betrayed by the game",
+  "playableChords": [
+    "Em7",
+    "Dadd11",
+    "Cmaj7",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Bridge"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Bridge"
+    },
+    {
+      "measure": 58,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9741a7d28ff4c9c0eb1135b60f436b6e58fcb42cf474c1dd8313d13b3d077e8e",
+    "version": "BCFZ"
+  },
+  "tempo": 86,
+  "title": "Betrayed By The Game",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

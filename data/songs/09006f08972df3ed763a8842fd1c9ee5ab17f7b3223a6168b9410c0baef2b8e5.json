@@ -1,0 +1,130 @@
+{
+  "artist": "Eric Church",
+  "artistNormalized": "eric church",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am]  [G]  [F]  [C/E]  [G]\n[C]\n\n[Verse 1]\n[C]Beer don't keep Love's not cheap And trucks\n[F]don't wreck themselves [C]\n[G]Mama ain't a shrink Daddy ain't a bank And God\n[Am]ain't a wishin' well [G]Mo-\n[C]ney ain't rich Everybody sins And no-\n[F]body wins in a [C]fight And\n[Am]sometimes [G]wrong gets\n[F]right\n\n[Chorus]\n[C]Some of it you learn the hard way\n[G]Some of it you read on a page\n[Am]Some of it comes from [C/G]heartbreak\n[F]Most of it comes with age And\n[C]none of it ever comes easy A\n[G]bunch of it you maybe can't use I\n[Am]know I don't probably know [G]what I think I do\n[F]But there's somethin' to\n\n[Interlude]\n[C]Some of it\n[F]  [C]\n[G]\n[Am]Girls\n\n[Verse 2]\n[C]like to laugh Tears don't last And scared's\n[F]what praying's for [C]If it's close,\n[G]swing the bat Everybody's gotta past And love's\n[F]worth living for [C]When you dance,\nhold her close 'Til it breaks, go for broke Be the\n[F]first to reach for her [C]hand No you don't\n[Am]get to [G]do some things a-\n[F]gain\n\n[Chorus]\n[C]Some of it you learn the hard way\n[G]Some of it you read on a page\n[Am]Some of it comes from [C/G]heartbreak\n[F]Most of it comes with age And\n[C]none of it ever comes easy A\n[G]bunch of it you maybe can't use I\n[Am]know I don't probably know [G]what I think I do\n[F]But there's somethin' to\n\n[Solo]\n[C]Some of it\n[F]\n[G]\n[F]\n[C]\n[F]\n[G]When you can't\n\n[Verse 3]\n[C]take it slow 'Cause time sure won't What real-\n[F]ly makes you a [C]man Is being\n[Am]true to her 'til your [G]glass runs out of\n[F]sand\n\n[Chorus]\n[C]Some of it you learn the hard way\n[G]Some of it you read on a page\n[Am]Some of it comes from [C/G]heartbreak\n[F]Most of it comes with age And\n[C]none of it ever comes easy A\n[G]bunch of it you maybe can't use I\n[Am]know I don't probably know [G]what I think I do\n[F]But there's somethin' to\n\n[Outro]\n[C]Some of it\n[F][C]Some\n[G]of it\n[Am]  [G]  [F]  [C/E]  [G]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/E": {
+      "catalog": [
+        "032010"
+      ],
+      "catalogCount": 1
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Some Of It",
+  "id": "09006f08972df3ed763a8842fd1c9ee5ab17f7b3223a6168b9410c0baef2b8e5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 349,
+  "normalizedKey": "eric church|some of it",
+  "playableChords": [
+    "Am",
+    "G",
+    "F",
+    "C/E",
+    "C",
+    "C/G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Interlude"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Solo"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "09006f08972df3ed763a8842fd1c9ee5ab17f7b3223a6168b9410c0baef2b8e5",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Some Of It",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

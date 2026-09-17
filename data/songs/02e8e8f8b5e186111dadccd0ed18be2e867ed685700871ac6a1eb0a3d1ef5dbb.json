@@ -1,0 +1,97 @@
+{
+  "artist": "Eels",
+  "artistNormalized": "eels",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n\n[Verse 1]\n[A]  [D]\n[A]  [D]\n[A]My [D]beloved mon-\n[A]ster and me [D]\n[A]We go [D]everywhere to-\n[A]gether [D]\n[A]Wearing a [D]raincoat that\n[A]has four sleeves [D]\n[A]Gets us [D]through all kinds of\n[A]weather [D]\n\n[Chorus]\n[E]She will always be the\n[D]only thing\n[E]That comes between me and the\n[D]awful sting\n[E]That comes from living in a\n[D]world that's so damn\n\n[Bridge]\n[A]mean [D]\n[A]  [D]\n\n[Verse 2]\n[A]My [D]beloved mon-\n[A]ster is tough [D]\n[A]If she [D]wants she will dis-\n[A]robe you [D]\n[A]But if you [D]lay her down\n[A]for a kiss [D]\n[A]Her little [D]heart it could exp-\n[A]lode [D]\n\n[Chorus]\n[E]She will always be the\n[D]only thing\n[E]That comes between me and the\n[D]awful sting\n[E]That comes from living in a\n[D]world that's so damn\n\n[Instrumental]\n[A][D]Mean\n[A]  [D]\n[A]  [D]\n[A]  [D]\n[A]  [D]\n[A]  [D]\n[A]  [D]\n[A]  [D]\n[A]  [D]\n[A]  [D]\n\n[Outro]\n[A]La la [D]la la la\n[A]la la la [D]\n[A]La la [D]la la la\n[A]l-\na",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "02210x",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "My Beloved Monster",
+  "id": "02e8e8f8b5e186111dadccd0ed18be2e867ed685700871ac6a1eb0a3d1ef5dbb",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 143,
+  "normalizedKey": "eels|my beloved monster",
+  "playableChords": [
+    "A",
+    "D",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Bridge"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Instrumental"
+    },
+    {
+      "measure": 46,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "02e8e8f8b5e186111dadccd0ed18be2e867ed685700871ac6a1eb0a3d1ef5dbb",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "My Beloved Monster",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

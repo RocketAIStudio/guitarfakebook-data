@@ -1,0 +1,111 @@
+{
+  "artist": "David Guetta",
+  "artistNormalized": "david guetta",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\nWhat\n\n[Verse 1]\n[Em]are we supposed to do\nAf ter all\n[Dsus4]that we've been through\n[D]When everything\n[Asus2]that felt so right is wrong\nNow that the love\n[Cmaj7]is gone?\n[D]There\n[Em]is nothing left to prove\nNo use to deny\n[Dsus4]this simple truth\n[D]Can't find the rea\n[Asus2]son to keep holding on\nNow that the love\n[Cmaj7]is gone?\n[D]There\n[Em]is nothing left to prove\nNo use to deny\n[Dsus4]this simple truth\n[D]Can't find the rea\n[Asus2]son to keep holding on\nNow that the love\n[Cmaj7]is gone?\n[D]Love is\n\n[Bridge]\n[Em]gone\nLove is\ngone\nLove is\ngone\n\n[Interlude]\n[Em]\nLove is\n\n[Chorus]\n[Em]gone\nLove is\ngone\n\n[Pre-Verse]\n[Em]\nWhat\n\n[Verse 2]\n[Em]are we supposed to do\nAf ter all\n[Dsus4]that we've been through\n[D]When everything\n[Asus2]that felt so right is wrong\nNow that the love\n[Cmaj7]is gone?\n[D]There\n[Em]is nothing left to prove\nNo use to deny\n[Dsus4]this simple truth\n[D]Can't find the rea\n[Asus2]son to keep holding on\nNow that the love\n[Cmaj7]is gone?\n[D]What\n[Em]are we supposed to do\nAf ter all\n[Dsus4]that we've been through\n[D]When everything\n[Asus2]that felt so right is wrong\nNow that the love\n[Cmaj7]is gone?\n[D]There\n[Em]is nothing left to prove\nNo use to deny\n[Dsus4]this simple truth\n[D]Can't find the rea\n[Asus2]son to keep holding on\nNow that the love\n[Cmaj7]is gone?\n[D]Love is\n\n[Chorus]\n[Em]gone\nLove is\ngone\nLove is\ngone\nLove is\ngone",
+  "diagrams": {
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x35453",
+        "x-3-2-0-0-0",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus4": {
+      "catalog": [
+        "x57785"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Love Is Gone",
+  "id": "34a706f16115a868aba91ffe2a107f4ee6bb818b8ca1d20c330e10baf7ef9014",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 252,
+  "normalizedKey": "david guetta|love is gone",
+  "playableChords": [
+    "Em",
+    "Dsus4",
+    "D",
+    "Asus2",
+    "Cmaj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Bridge"
+    },
+    {
+      "measure": 43,
+      "name": "Interlude"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "34a706f16115a868aba91ffe2a107f4ee6bb818b8ca1d20c330e10baf7ef9014",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "Love Is Gone",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,104 @@
+{
+  "artist": "Elvis Presley",
+  "artistNormalized": "elvis presley",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E]\n\n[Chorus]\nLittle sister, don't you\nLittle sister, don't you\nLittle sister, don't you\n[A]Kiss me once or twice Then say\nit's very nice And then you\n[E]run\n[B7]Little sister, don't you\n[C7]Do what your [B7]big sister\n[E]done\nWell, I\n\n[Verse 1]\ndated your big sis-\nter And I\ntook her to a show\nI\nwent for some candy A-\nlong came Jim Dandy And they\nsnuck right out of the door\n\n[Chorus]\nLittle sister, don't you\nLittle sister, don't you\nLittle sister, don't you\n[A]Kiss me once or twice Then\nsay it's very nice And then you\n[E]run\n[B7]Little sister, don't you\n[C7]Do what your [B7]big sister\n[E]done\nEv'ry\n\n[Verse 2]\ntime I see your sis-\nter Well she's\ngot somebody new\nShe's\nmean and she's evil Like that\nold Boll Weevil Guess I'll\ntry my luck with you\n\n[Chorus]\nLittle sister, don't you\nLittle sister, don't you\nLittle sister, don't you\n[A]Kiss me once or twice Then\nsay it's very nice And then you\n[E]run\n[B7]Little sister, don't you\n[C7]Do what your [B7]big sister\n[E]done\nWell, I\n\n[Verse 3]\nused to pull your pig-\ntails And\npinch your turnedup nose\nBut\nyou been a growin' And\nbaby, it's been showin' From your\nhead down to your toes\nLittle sister, don't you\nLittle sister, don't you\nLittle sister, don't you\n[A]Kiss me once or twice Then\nsay it's very nice And then you\n[E]run\n[B7]Little sister, don't you\n[C7]Do what your [B7]big sister\n[E]done\n[B7]Little sister, don't you\n[C7]Do what your [B7]big sister\n[E]done\n[B7]Little sister, don't you\n[C7]Do what your [B7]big sister\n[E]done",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x323xx",
+        "x-3-2-3-1-0",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Little Sister",
+  "id": "4bdab6e1adc8d77130b2db2e1c5c0d7d6122fa34987168230e222d1f89b9973b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 313,
+  "normalizedKey": "elvis presley|little sister",
+  "playableChords": [
+    "E",
+    "A",
+    "B7",
+    "C7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4bdab6e1adc8d77130b2db2e1c5c0d7d6122fa34987168230e222d1f89b9973b",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Little Sister",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

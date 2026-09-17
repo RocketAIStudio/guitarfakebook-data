@@ -1,0 +1,145 @@
+{
+  "artist": "Descendents",
+  "artistNormalized": "descendents",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C#]\nLook [A]out [B]get\n\n[Verse 1]\n[C#]out of my way\n[E]I'm [B]going to a-\n[C#]tomic cafe\n[E]I'm [B]going to a-\n[C#]tomic cafe\n[A]You're a [B]mystery to\n[C#]me [A]Kabuki\n[Ab]girl\n[A]Don't [B]say\n\n[Verse 2]\n[C#][E][C#]sayanaro\n[E]I [B]want to\n[C#]see you [C#][E]tomorrow\n[E]I [B]want to\n[C#]see you tonight\n[A]You're a [B]mystery to\n[C#]me [A]Kabuki\n\n[Bridge]\n[Ab]girl\n\n[Chorus]\n[F#]Face is white,\nHair is black\n[E]Probably stab me\nin the back\n[D]That's the chance\nthat I'm gonna\n[C#]take\n[C#]  [Ab]\n[A]Don't [B]say\n\n[Verse 3]\n[C#][E][C#]sayanaro\n[E]I [B]want to\n[C#]see you [C#][E]tomorrow\n[E]I [B]want to\n[C#]see you tonight\n[A]You're a [B]mystery to\n[C#]me [A]Kabuki\n\n[Bridge]\n[Ab]girl\n\n[Chorus]\n[F#]East is east,\nwest is west\n[E]Girls from east\nare the best\n[D]They got more of\nwhat I'm lookin'\n[C#]for Aahhhh.....\n[Ab]Look\n[A]out [B]get\n\n[Verse 4]\n[C#]out of my way\n[E]I'm [B]going to a-\n[C#]tomic cafe ___\n[E]I'm [B]going to a-\n[C#]tomic cafe\n[A]You're a [B]mystery to\n[C#]me Kabuki\n[Ab]girl",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Ab": {
+      "catalog": [
+        "466544",
+        "4-3-1-1-1-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Kabuki Girl",
+  "id": "a59de522babe19eaa542aadd22e146f1697fd7553d183b50dcb495e4666bbc8f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 177,
+  "normalizedKey": "descendents|kabuki girl",
+  "playableChords": [
+    "C#",
+    "A",
+    "B",
+    "E",
+    "Ab",
+    "F#",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 48,
+      "name": "Verse 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a59de522babe19eaa542aadd22e146f1697fd7553d183b50dcb495e4666bbc8f",
+    "version": "BCFZ"
+  },
+  "tempo": 200,
+  "title": "Kabuki Girl",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

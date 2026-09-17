@@ -1,0 +1,127 @@
+{
+  "artist": "Evanescence",
+  "artistNormalized": "evanescence",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Chorus]\n[Bbm]Lithi-\n[Ab]um\n[Ebm]Don't wanna lock\nme up inside\n[Bbm]Lithi-\n[Ab]um\n[Ebm]Don't wanna forget\nhow it feels without\n[Bbm]Lithi-\n[Ab]um\n[Ebm]I wanna stay\nin love with my\n[Bbm]sorrow Oh\n[Ab]\n[Ebm]But God,\nI wanna let it go\n\n[Bridge]\n[Bbm]\n\n[Verse 1]\n[Bbm]Come to bed,\ndon't make me sleep\n[Gb]alone\nCouldn't hide the emp-\n[Ebm]tiness, you [Ab]let it show\n[Bbm]\nNever wan-\nted it to be\n[Gb]so cold\nJust\ndidn't drink enough\n[Ebm]to say you [Ab]love me\n\n[Pre-Chorus]\n[Bbm]I can't hold\n[Gb]on to me\n[Bbm]Wonder what's\n[Ebm]wrong with me\n\n[Chorus]\n[Bbm]Lithi-\n[Ab]um\n[Ebm]Don't wanna lock\nme up inside\n[Bbm]Lithi-\n[Ab]um\n[Ebm]Don't wanna forget\nhow it feels without\n[Bbm]Lithi-\n[Ab]um\n[Ebm]I wanna stay\nin love with my\n[Bbm]sorrow Oh\n[Ab]\n[Ebm]\nDon't wanna let it a lay\n\n[Break]\n[Gb]me\n[Ab]down this time\n[Bbm]\n[Gb]Drown my\n[Ebm]will [Ab]to fly\n[Bbm]\n[Gb]Here in the\n[F]darkness I\n[Bbm]know myself\n[Gb]Can't break free\n[Ebm]until I [Ab]let it go\n\n[Bridge]\n[Bbm]\nLet me\ngo\n\n[Verse 2]\n[Bbm]Darling, I\nforgive you af-\n[Gb]ter all\nAnything is bet-\n[Ebm]ter than to [Ab]be alone\n[Bbm]\nAnd\nin the end\nI guess I had\n[Gb]to fall\nAlways find my place\n[Ebm]among the [Ab]ashes\n\n[Pre-Chorus]\n[Bbm]I can't hold\n[Gb]on to me\n[Bbm]Wonder what's\n[Ebm]wrong with me\n\n[Chorus]\n[Bbm]Lithi-\n[Ab]um\n[Ebm]Don't wanna lock\nme up inside\n[Bbm]Lithi-\n[Ab]um\n[Ebm]Don't wanna forget\nhow it feels without\n[Bbm]Lithi-\n[Ab]\n[Ebm]um Stay\nin love with you\n[Bbm]\n[Ab]I,\n[Ebm]\nI'm gonna let it go",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x32010",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm": {
+      "catalog": [
+        "000231",
+        "x-1-3-3-2-1",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Ebm": {
+      "catalog": [
+        "555333",
+        "x-x-1-3-4-2",
+        "x-6-8-8-7-6",
+        "11-13-13-11-11-11",
+        "x-x-13-15-16-14"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "x02220",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "x13331",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lithium",
+  "id": "e5b42e66465b15b6db38e6f6df153216b626b86d075ab11c6e0890c8afd43c3f",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 262,
+  "normalizedKey": "evanescence|lithium",
+  "playableChords": [
+    "Bbm",
+    "Ab",
+    "Ebm",
+    "Gb",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 35,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Break"
+    },
+    {
+      "measure": 69,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 87,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 91,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e5b42e66465b15b6db38e6f6df153216b626b86d075ab11c6e0890c8afd43c3f",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Lithium",
+  "tuning": "A# F A# D# G C",
+  "variantRole": "primary"
+}

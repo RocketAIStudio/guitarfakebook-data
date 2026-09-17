@@ -1,0 +1,99 @@
+{
+  "artist": "Ed Sheeran",
+  "artistNormalized": "ed sheeran",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "Of\n\n[Verse 1]\n[F#m]all the money [D]that\n[A]e'er I had [E]I\n[F#m]spent it in [D]good\n[A]company [E]And\n[F#m]all [D]the harm that\n[A]e'er I've done [E]A-\n[F#m]las it [D]was [A]to\n[D]none [E]but me [F#m]And\n[A]all I've done [D]for\n[A]want of wit [Bm]To\n[A]memory now [Bm]I\n[E]can't recall So\n[F#m]fill to me [D]the\n[A]parting glass [E]Good\n[F#m]night and [D]joy [A]be\n[D]with [E]you all [F#m]Of\n\n[Verse 2]\n[F#m]all the comrades [D]that\n[A]e'er I had [E]They are\n[F#m]sorry for [D]my go-\n[A]ing away [E]And\n[F#m]all the [D]sweethearts that\n[A]e'er I had [E]They would\n[F#m]wish me one [A]more\n[D]day [E]to stay [F#m]But\n[A]since it falls [D]un-\n[A]to my lot [Bm]That\nI should [A]rise and\n[D]you should not [E]I'll\n[F#m]gently rise [D]and I'll\n[A]softly call [E]Good\n[F#m]night and [D]joy [A]be\n[D]with [E]you all [F#m]A\n\n[Verse 3]\n[F#m]man may drink [D]and\n[A]not be drunk [E]A\n[F#m]man may fight [D]and\n[A]not be slain [E]A\n[F#m]man may court [D]a\n[A]pretty girl [E]And per-\n[F#m]haps be [A]welcomed\n[D]back [E]again [F#m]But\n[A]since it has [D]so\n[A]ought to be [Bm]By a\ntime to rise [A]and a\n[D]time to fall [E]Come\n[F#m]fill to me [D]the\n[A]parting glass [E]Good\n[F#m]night and [D]joy [A]be\n[D]with [E]you all [F#m]Good\n[F#m]night and [D]joy [A]be\n[D]with [E]you [F#m]all",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Parting Glass",
+  "id": "fcc8004c5e243075880af281dd50353e14c65c7dfd4af984703d2c90fa545bc6",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 212,
+  "normalizedKey": "ed sheeran|the parting glass",
+  "playableChords": [
+    "F#m",
+    "D",
+    "A",
+    "E",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fcc8004c5e243075880af281dd50353e14c65c7dfd4af984703d2c90fa545bc6",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "The Parting Glass",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

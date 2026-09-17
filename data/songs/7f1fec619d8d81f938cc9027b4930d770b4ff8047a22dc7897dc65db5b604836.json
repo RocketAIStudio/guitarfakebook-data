@@ -1,0 +1,136 @@
+{
+  "artist": "Elliot Smith",
+  "artistNormalized": "elliot smith",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Am]\n[Dm7]\n[Gsus4]\n[A#sus2]\n[Csus4]\n[Dm7]\n[G7]\n[A#sus2]\n\n[Verse 1]\n[Csus4]You sho-\nuldn't talk to yours-\n[Dm7]elf Well I pi-\nctured somebody els-\n[G7]e Someone that lo-\noks like\n[A#sus2]What I look li-\nke\n[Csus4]Would you sa-\ny that one of your\n[Dm7]dreams Got i-\nn you and ripped out the se-\n[G7]ams That's what I'-\nd say\n[A#sus2]That's what I'd\nsay\n\n[Bridge]\n[Gsus4]\n[Dm7]\n[G7]\n[A#sus2]\n[Dm7]\n\n[Verse 2]\n[Csus4]He was a\nsucker for your double\n[Dm7]dose Motherfuck-\ner turned white as a ghos-\n[G7]t Don't you sa-\ny hi\n[A#sus2]Don't you sa-\ny hi\n[Csus4]With a bro-\nken sink for a fa-\n[Dm7]ce And a he-\nad that just takes up sp-\n[G7]ace He's not ha-\nlf right\n[A#sus2]He's not ha-\nlf right\n\n[Bridge]\n[Fm]It's already hal-\n[Esus4]f past\n[Gsus4]And it wo-\n[Dm7]n't las-\nt\n\n[Interlude]\n[Am]\n[Dm7]\n[Gsus4]\n[A#sus2]\n\n[Verse 3]\n[Csus4]I was st-\nicking up for my fri-\n[Dm7]end When there's not-\nhing much to defe-\n[G7]nd It's a lo-\nst fight\n[A#sus2]It's a lo-\nst fight\n[Csus4]Cause when I ta-\nlk to you on the ph-\n[Dm7]one Well it's ju-\nst like being al-\n[G7]one It's not ha-\nlf right\n[A#sus2]It's not\nhalf right\n\n[Outro]\n[Csus4]\n[Dm7]\n[G7]\n[A#sus2]",
+  "diagrams": {
+    "A#sus2": {
+      "catalog": [
+        "x35533"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x24432",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Csus4": {
+      "catalog": [
+        "x55785"
+      ],
+      "catalogCount": 1
+    },
+    "Dm7": {
+      "catalog": [
+        "xx2433",
+        "x-x-0-2-1-1",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "Esus4": {
+      "catalog": [
+        "224422"
+      ],
+      "catalogCount": 1
+    },
+    "Fm": {
+      "catalog": [
+        "355333",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "x02023",
+        "3-2-0-0-0-1",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus4": {
+      "catalog": [
+        "x00230"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Half Right",
+  "id": "7f1fec619d8d81f938cc9027b4930d770b4ff8047a22dc7897dc65db5b604836",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 207,
+  "normalizedKey": "elliot smith|half right",
+  "playableChords": [
+    "Am",
+    "Dm7",
+    "Gsus4",
+    "A#sus2",
+    "Csus4",
+    "G7",
+    "Fm",
+    "Esus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 58,
+      "name": "Bridge"
+    },
+    {
+      "measure": 63,
+      "name": "Interlude"
+    },
+    {
+      "measure": 72,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 88,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7f1fec619d8d81f938cc9027b4930d770b4ff8047a22dc7897dc65db5b604836",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Half Right",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

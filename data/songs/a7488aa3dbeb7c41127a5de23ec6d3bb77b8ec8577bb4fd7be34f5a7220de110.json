@@ -1,0 +1,108 @@
+{
+  "artist": "Dan + Shay, Justin Bieber",
+  "artistNormalized": "dan shay justin bieber",
+  "capo": "3",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[G]\nDo you love [Em7]the rain, does it make you dance\n[Cadd9]When you're drunk [G]with your friends at a party\nWhat's your [Em7]favorite song, does it make you smile\n[Cadd9]Do you think of [G]me When you\n\n[Pre-Chorus]\n[G]close your [Em7]eyes, tell me,\n[Cadd9]what are [G]you dreamin' Every-\nthing, I [Em7]wanna know it all\n[Cadd9][G]I'd spend\n\n[Chorus]\n[G]ten thousand [Em7]hours and\n[Cadd9]ten thousand [G]more Oh, if\nthat's what it [Em7]takes to learn that\n[Cadd9]sweet heart of [G]yours And I\nmight never [Em7]get there, but\n[Cadd9]I'm gonna [G]try If it's\nten thousand [Em7]hours or the\n[Cadd9]rest of my [G]life I'm gonna love\nyou [Em7]\n[Cadd9]  [G]\n\n[Verse 2]\n[G]Do you miss [Em7]the road that you grew up on\n[Cadd9]Did you get your [G]middle name from your grandma\nWhen you think [Em7]about your forever now,\n[Cadd9]do you think of [G]me When you\n\n[Pre-Chorus]\n[G]close your [Em7]eyes, tell me,\n[Cadd9]what are [G]you dreamin' Every-\nthing, I [Em7]wanna know it all\n[Cadd9][G]I'd spend\n\n[Chorus]\n[G]ten thousand [Em7]hours and\n[Cadd9]ten thousand [G]more Oh, if\nthat's what it [Em7]takes to learn that\n[Cadd9]sweet heart of [G]yours And I\nmight never [Em7]get there, but\n[Cadd9]I'm gonna [G]try If it's\nten thousand [Em7]hours or the\n[Cadd9]rest of my [G]life I'm gonna love\n\n[Break]\n[G]you [Em7]\n[Cadd9][G]I'm gonna love\nyou [Em7]\n[Cadd9]  [G]\n\n[Bridge]\n[Gmaj7/B]Ooh, want the\n[Cadd9]good and the bad and everything in between\n[Gmaj7/B]Ooh, gotta\n[Cadd9]cure my curiosity\nOoh, yeah I'd spend\n\n[Chorus]\n[G]ten thousand [Em7]hours and\n[Cadd9]ten thousand [G]more Oh, if\nthat's what it [Em7]takes to learn that\n[Cadd9]sweet heart of [G]yours And I\nmight never [Em7]get there, but\n[Cadd9]I'm gonna [G]try If it's\nten thousand [Em7]hours or the\n[Cadd9]rest of my [G]life I'm gonna love\n\n[Outro]\n[G]you [Em7]\n[Cadd9][G]I'm gonna love\nyou [Em7]\n[Cadd9][G]And I'm\n[Em7]\n[Cadd9]gonna [G]love you I'm\n[Em7]\n[Cadd9]gonna love [G]you",
+  "diagrams": {
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "022033",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7/B": {
+      "catalog": [
+        "x20032"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "10,000 Hours",
+  "id": "a7488aa3dbeb7c41127a5de23ec6d3bb77b8ec8577bb4fd7be34f5a7220de110",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 320,
+  "normalizedKey": "dan shay justin bieber|10 000 hours",
+  "playableChords": [
+    "G",
+    "Em7",
+    "Cadd9",
+    "Gmaj7/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 6,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Break"
+    },
+    {
+      "measure": 40,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a7488aa3dbeb7c41127a5de23ec6d3bb77b8ec8577bb4fd7be34f5a7220de110",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "10,000 Hours",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

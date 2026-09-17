@@ -1,0 +1,103 @@
+{
+  "artist": "Default",
+  "artistNormalized": "default",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 5,
+  "content": "Lyrics from LetsSingIt.com\n\n[Verse !]\n[B5]You\nknow what you are\n[A5]\nsome super star\n[E]\nthat's never\nbeen any whe - e - ere\nMe\nI wont pre -  tend\nto (loathe)\nsay I don't see\nthrough those\nsome phoney\nstanding up the - e - ere\n\n[Chorus 1]\n[D]Close your eyes [E]\nand hope that\n[G5]no one else will see - [A5]\ne - ee\n[D]Re - a - lize [E]\nexactly\n[G5]what you'll never be - [A5]\ne - ee\nThis time\nthe curtain's\nLanding on (a) you - \nou - ou\nSome day\nI'm gonna\nsee this come true - u - ue\n\n[Verse 2]\nBack then\nwhen we were frie - \ne - ends\nright to the end\nyou'd promised\nwe'd always be - e - e\nNow seems\nyou got a diff - \n- 'rent dream\nThanks for in -  clud - \n- ing me\nYou spell \"we\"\nso diffe - rent - ly\nee - ee\n\n[Chorus 2]\nClose your eyes\nand hope that\nno one else will see -\ne - ee\nRe - a - lize\nexactly\nwhat you'll never be -\ne - ee\nThis time\nthe curtain's\nLanding on (a) you - \nou - ou\nSome day\nI'm gonna\nsee this come true - u - ue\n\n[Bridge]\n\n[Solo]\n\n[Chorus 3]\nClose your eyes\nand hope that\nno one else will see -\ne - ee\nRe - a - lize\nexactly\nwhat you'll never be -\ne - ee\nThis time\nthe curtain's\nLanding on (a) you - \nou - ou\nSome day\nI'm gonna\nsee this come true - u - ue\nI'm gonna\nsee this come true - u - ue",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "554xxx",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "0221xx",
+        "776xxx",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Blind",
+  "id": "9c86425038a1f12d783bc16ed91f67ca47a7503b30653f6b2996a60de858d37c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 84,
+  "normalizedKey": "default|blind",
+  "playableChords": [
+    "B5",
+    "A5",
+    "E",
+    "D",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 5,
+      "name": "Verse !"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus 1"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus 2"
+    },
+    {
+      "measure": 68,
+      "name": "Bridge"
+    },
+    {
+      "measure": 86,
+      "name": "Solo"
+    },
+    {
+      "measure": 105,
+      "name": "Chorus 3"
+    }
+  ],
+  "source": {
+    "format": "gp3",
+    "sha256": "9c86425038a1f12d783bc16ed91f67ca47a7503b30653f6b2996a60de858d37c",
+    "version": "FICHIER GUITAR PRO v3.00"
+  },
+  "tempo": 194,
+  "title": "Blind",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

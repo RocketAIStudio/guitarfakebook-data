@@ -1,0 +1,143 @@
+{
+  "artist": "Elliott Smith",
+  "artistNormalized": "elliott smith",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[C]\n\n[Verse 1]\n[Gmadd11/C]Think I'm un-\n[F/C]kind\n[Fm/C]But people aren't the way you\n[C]think they are\n[Gmadd11/C]They can't remember all the\n[F/C]time\n[Fm/C]What it was you wanted\n[C]\n\n[Chorus]\n[Ab]Paint you out in straight silhou-\n[C]ette [Bb]\n[Ab]But don't you get the picture yet\n[Bb5]  [B5]\n[C]Why you getting all upset?\n[F]The\n[Ab]worst parts almost over\n[C]\n\n[Verse 2]\n[Gmadd11/C]Three's such a\n[F/C]crowd\n[Fm/C]You ought to tell me what you\n[C]tell yourself\n[Gmadd11/C]You ever gonna speak it a-\n[F/C]loud Do I\n[Fm/C]have to guess like everyone else?\n[C]\n\n[Chorus]\n[Ab]Iron will to walk the\n[C]walk [Bb]And the\n[Ab]glass drawn can't be moved to talk\n[Bb5]  [B5]\n[C]Black eyes always watch the clock\n[F]The\n[Ab]worst parts almost over\n[C]\n\n[Intrelude]\n[C]  [Bb]\n[F]\n[Ab]\n[C]\n[C]  [Bb]\n[F]\n[Ab]\n[C]\n\n[Chorus]\n[Ab]Let yourself be froze by\n[C]death [Bb]You think\n[Ab]I'm mean 'cause I call you out\n[Bb5]  [B5]\n[C]You don't know what you're about\n[F]The\n[Ab]worst parts almost over\n[F]now\n[Ab]Worst parts almost over\n\n[Outro]\n[C]now\nNow\nNow",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "888888",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "B5": {
+      "catalog": [
+        "11-11-11-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Bb": {
+      "catalog": [
+        "10-10-10-10-10-10",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bb5": {
+      "catalog": [
+        "10-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "000000",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "555555",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "F/C": {
+      "catalog": [
+        "020201"
+      ],
+      "catalogCount": 1
+    },
+    "Fm/C": {
+      "catalog": [
+        "010101"
+      ],
+      "catalogCount": 1
+    },
+    "Gmadd11/C": {
+      "catalog": [
+        "030023"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Almost Over",
+  "id": "a8f174f01cc1bda0cdccb01721c41e48ba6a46097bd40ea787d4560cb9fc3897",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 159,
+  "normalizedKey": "elliott smith|almost over",
+  "playableChords": [
+    "C",
+    "Gmadd11/C",
+    "F/C",
+    "Fm/C",
+    "Ab",
+    "Bb",
+    "Bb5",
+    "B5",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a8f174f01cc1bda0cdccb01721c41e48ba6a46097bd40ea787d4560cb9fc3897",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Almost Over",
+  "tuning": "C G C G C E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,134 @@
+{
+  "artist": "Dan Auerbach",
+  "artistNormalized": "dan auerbach",
+  "capo": "5",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C/G]\n[Fmaj7]\n[C/G]\n[Fmaj7]\n[C/G]\nNever in my wildest dreams\n\n[Verse 1]\n[Fmaj7]\nWould I be loving you-\n[C/G]u\nNever in my wildest dreams\n[Fmaj7]\nWould my dreams come true\n[G]\n[G7]You're just too good\n\n[Chorus]\n[Dm]to touch\nI can't dis-\n[Am]cuss it much\nI get too\n[Fmaj7]choked up\nDon't wanna make a scene\n[G7]\nNever in my wildest dre-\n[C/G]ams\n\n[Bridge]\n[Fmaj7]\n[C/G]\n[Fmaj7]\n[G]\nNever in my wildest dreams\n\n[Verse 2]\n[Fmaj7]\nWould I roam this la-\n[C/G]and\nSail across the seven seas\n[Fmaj7]\nI'm a hard luck man\n[G]\nI know where my pur-\n\n[Chorus]\n[Dm]pose is\nIt ain't on some\n[Am]pilgrimage\nIt's wherever my\n[Fmaj7]baby is\nMy love su-\n[G7]preme\nNever in my wildest dreams\n[C/G]\n\n[Bridge]\n[Fmaj7]\n[C/G]\n[Fmaj7]\n[G]\nWalk in the cold,\n\n[Chorus]\n[Dm]cold wind\nCarry my lau-\n[Am]ndry bin\nTake my rags\n[Fmaj7]for a spin\nWatch daytime T-\n[G7]V\nYou're just too good\n\n[Chorus]\n[Dm]to touch\nI can't discuss\n[Am]it much\nI get too\n[Fmaj7]choked up\nDon't wanna make a scene\n[G7]\nNever in my wildest dreams\n[C/G]\n\n[Coda]\n[Fmaj7]\n[C/G]\n[Fmaj7]\n[Fmaj7]  [C/G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "1x3210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Never in my wildest dreams",
+  "id": "3447acdb281bb8399a0f2a74fd1781ada9cd303a3bba81d5ab2690a3ef3fdad0",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 168,
+  "normalizedKey": "dan auerbach|never in my wildest dreams",
+  "playableChords": [
+    "C/G",
+    "Fmaj7",
+    "G",
+    "G7",
+    "Dm",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Bridge"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 68,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Coda"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3447acdb281bb8399a0f2a74fd1781ada9cd303a3bba81d5ab2690a3ef3fdad0",
+    "version": "BCFZ"
+  },
+  "tempo": 115,
+  "title": "Never in my wildest dreams",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

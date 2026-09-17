@@ -1,0 +1,122 @@
+{
+  "artist": "Elvis Presley",
+  "artistNormalized": "elvis presley",
+  "capo": "1",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]  [Asus4]\n[A][Asus4]As the\n\n[Verse 1]\n[A]snow flies [Asus4]\n[A][Asus4]On a\n[C#m]cold and gray Chica go mornin' A\n[D]poor little baby child [E]is born In the\n[A]ghetto [Asus4]\n[A][Asus4]And his\n[A]mama cries [Asus4]\n[A][Asus4]'Cause if\n[C#m]there's one thing that she don't need It's a-\n[D]nother hungry [E]mouth to feed In the\n[A]ghetto [Asus4]\n[A][Asus4]People, don't you\n\n[Chorus]\n[E]understand The child needs a\n[D]hel ping [A]hand Or\n[D]he'll grow to be an ang [E]ry young man some\n[A]day Take a look at\n[E]you and me, Are we too\n[D]blind to see? [A]\n[D]Do we simply [C#m]turn our heads and\n[Bm]look the other [E]way? Well, the\n\n[Verse 2]\n[A]world turns [Asus4]\n[A][Asus4]And a\n[C#m]hungry little boy with a runny nose\n[D]Plays in the street as the [E]cold wind blows In the\n[A]ghetto [Asus4]\n[A][Asus4]And his\n[A]hunger burns [Asus4]\n[A][Asus4]So he\n[C#m]starts to roam the streets at night And he\n[D]learns how to steal, and he [E]learns how to fight In the\n[A]ghetto [Asus4]\n[A]  [Asus4]\n\n[Chorus]\n[E]Then one night in despera tion The\n[D]young man breaks [A]away He\n[D]buys a gun, [C#m]Steals a car,\n[Bm]Tries to run, But he [E]don't get far And his\n\n[Verse 3]\n[A]mama cries [Asus4]\n[A][Asus4]As a\n[C#m]crowd gathers 'round an ang ry young man Face\n[D]down on the street with a [E]gun in his hand In the\n[A]ghetto [Asus4]\n[A][Asus4]And as her\n[A]young man dies, [Asus4]\n[A][Asus4]On a\n[C#m]cold and gray Chica go mornin', A-\n[D]nother little baby [E]child is born In the\n[A]ghetto [Asus4]\n[A][Asus4]And his\n\n[Outro]\n[A]mama cries [Asus4]\n[A]  [Asus4]\n[A]  [Asus4]\n[A]  [Asus4]\n[A]  [Asus4]\n[A]  [Asus4]\n[A]  [Asus4]\n[A]  [Asus4]\n[A]  [Asus4]\n[A]  [Asus4]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "In The Ghetto",
+  "id": "62c94d8d5bcf683ac516153a64571f64f69cd012cb78e9422e923eef49cb0b4d",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 266,
+  "normalizedKey": "elvis presley|in the ghetto",
+  "playableChords": [
+    "A",
+    "Asus4",
+    "C#m",
+    "D",
+    "E",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 51,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "62c94d8d5bcf683ac516153a64571f64f69cd012cb78e9422e923eef49cb0b4d",
+    "version": "BCFZ"
+  },
+  "tempo": 89,
+  "title": "In The Ghetto",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

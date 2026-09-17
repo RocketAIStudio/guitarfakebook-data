@@ -1,0 +1,150 @@
+{
+  "artist": "Evanescence",
+  "artistNormalized": "evanescence",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro 1]\n\n[Intro 2]\n[Dm]\n[C]\n[Dm]\n[C]\n\n[Verse 1]\n[Dm]Perfect by\nnature\nIcons of\n[Bb]self [C]indulgence\n[Dm]Just what we\nall need\nMore lies a-\n[Bb]bout a [C]world that\n\n[Chorus]\n[Dm]Never was and ne\n[C]ver will be\n[Dm]Have you no shame don't\n[C]you see me\n[Bb]You know you've got e-\n[Gm]verybody fooled\n\n[Bridge]\n[Dm]\n\n[Verse 2]\n[Dm]Look here she\ncomes now\nBow down and\n[Bb]stare in [C]wonder\n[Dm]Oh how we\nlove you\nNo flaws when\n[Bb]you're [C]pretendin-\n\n[Pre-Chorus]\ng But\n[Bb]now I [C]know she\n\n[Chorus]\n[Dm]Never was and ne-\n[C]ver will be\n[Dm]You don't know how you've\n[C]betrayed me\n[Bb]And somehow you've got e-\n[Gm]verybody fooled\n\n[Interlude]\n[Dm]Without the mask\n[Bb]\n[Bb]where will you hide\n[Dm]\n[Gm]Can't find yourself\n[Dm]\n[Bb]lost in your lie\n[A]\n\n[Bridge]\n[Dm]I know the truth\n[C]now\n[Bb]I know who you\n[C]are And\n[Bb]I don't love you a-\n[Am][Gm]nymore\n\n[Chorus]\n[Dm]Never was and ne-\n[C]ver will be\n[Dm]You don't know how you've\n[C]betrayed me\n[Bb]And somehow you have e-\n[Gm]verybody fooled\n\n[Final Chorus]\n[Dm]It never was and ne-\n[C]ver will be\n[Dm]You're not real and you\n[C]can't save me\n[Bb]Somehow now you're e-\n[Gm]verybody's fool\n\n[Outro]\n[Dm]\n[C]\n[Dm]\n[C]\n[Bb]\n[Gm]\n[Dm]  [A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "xx5333",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Everybody’s Fool *alt",
+  "id": "d1e65fd1241b3ee08f50c96dec200375fffe296484f06195419053b91de96617",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 193,
+  "normalizedKey": "evanescence|everybody s fool",
+  "playableChords": [
+    "Dm",
+    "C",
+    "Bb",
+    "Gm",
+    "A",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 8,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Bridge"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Interlude"
+    },
+    {
+      "measure": 52,
+      "name": "Bridge"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Final Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d1e65fd1241b3ee08f50c96dec200375fffe296484f06195419053b91de96617",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Everybody’s Fool",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

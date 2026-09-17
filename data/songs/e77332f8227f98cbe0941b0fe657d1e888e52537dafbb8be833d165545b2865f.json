@@ -1,0 +1,115 @@
+{
+  "artist": "Devendra Banhart",
+  "artistNormalized": "devendra banhart",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F#m]\n[E6]\n[D6]\n[A]\n[F#m]\n[E6]\n[D6]\n[A]\n[Asus4]\n[A]\n[Asus4]\n[A]\n\n[Verse 1]\n[F#m]The body breaks And the\n[E6]body is fine I'm\n[D6]open to yours And I'm\n[A]open to mine\n[F#m]The body aches And that\n[E6]ache takes it time But\n[D6]you'll get over yours And I'll\n[A]get over mine\n\n[Chorus]\n[Asus4]And the sun will\n[A]shine\n[Asus4]And the moon will\n[A]rise up\n\n[Interlude]\n[F#m]\n[E6]\n[D6]\n[A]\n[F#m]\n[E6]\n[D6]\n[A]\n\n[Verse 2]\n[F#m]The body calls Yeah, the\n[E6]body, it calls out It\n[D6]whispers at first But it\n[A]ends with a shout\n[F#m]The body burns Yeah, the bo-\n[E6]dy burns strong Un-\n[D6]til mine is with yours Then mi-\n[A]ne will burn on\n\n[Chorus]\n[Asus4]My flash sings\n[A]out It sings,\n[Asus4]\"Come pour me\n[A]out\"\n\n[Interlude]\n[F#m]\n[E6]\n[D6]\n[A]\n[F#m]\n[E6]\n[D6]\n[A]\n\n[Verse 3]\n[F#m]The body sways Like the\n[E6]wind on a swing A\n[D6]bridge through a hoop Or a\n[A]lake through a ring\n[F#m]The body stays And then\n[E6]the body moves on And\n[D6]I'd really rather not dwell on When\n[A]yours will be gone\n\n[Chorus]\n[Asus4]But within the\n[A]dark\n[Asus4]There is a\n[A]shine\n\n[Outro]\n[Asus4]One tiny\n[A]spark\n[Asus4]That's yours and\n[A]mine",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "D6": {
+      "catalog": [
+        "xx0202"
+      ],
+      "catalogCount": 1
+    },
+    "E6": {
+      "catalog": [
+        "022120"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Body Breaks",
+  "id": "e77332f8227f98cbe0941b0fe657d1e888e52537dafbb8be833d165545b2865f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 175,
+  "normalizedKey": "devendra banhart|the body breaks",
+  "playableChords": [
+    "F#m",
+    "E6",
+    "D6",
+    "A",
+    "Asus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Interlude"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Interlude"
+    },
+    {
+      "measure": 56,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 64,
+      "name": "Chorus"
+    },
+    {
+      "measure": 68,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e77332f8227f98cbe0941b0fe657d1e888e52537dafbb8be833d165545b2865f",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "The Body Breaks",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

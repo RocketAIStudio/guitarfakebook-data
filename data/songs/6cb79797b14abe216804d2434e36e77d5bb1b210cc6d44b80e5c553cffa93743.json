@@ -1,0 +1,148 @@
+{
+  "artist": "Daniel Caesar",
+  "artistNormalized": "daniel caesar",
+  "capo": "No capo",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[E]\n\n[Verse 1]\n[E]Isn't it an iro-\nny?\nThe things that inspire\nme They make me\n[A6]bleed\nSo profuse-\nly\n[E]I got everything I\nneed\nTime and space to think and\nbreathe What does it\n[A6]mean\nWhen cash grows on\ntrees?\n\n[Chorus]\n[C#m7]Exist in su-\n[E]perposition\n[A]Life's all about\ncontradiction\n[C#m7]Yin and yang Flu-\n[E]idity and\n[A]things\nI'm\n[C#m7]me, I'm God I'm\n[E]everything I'm\n[A]my own reason\nwhy I sing And\n[Am]so are you, are\n[D]you understan-\n[Emaj7]ding?\n[Am]Whoa\n[D]\n\n[Interlude]\n[Emaj7]\nI\n\n[Verse 2]\n[Emaj7]know you think this shi-\nt is easy\nFor you, but not so\nmuch for me But\n[Amaj7]I'll still ride, that's\njust the risk I'll ta-\nke\nI\n[Emaj7]know you see me a-\nctin' sleazy I'm\nworking on it, ta-\nke it easy I'll\n[Amaj7]figure it all ou-\nt before I brea-\nk\nIf\n[Emaj7]I should die befo-\nre I wake Oh,\nplease, do not resu-\nscitate I\n[Amaj7]know I didn't li-\nve my life in vai-\nn\nThis\n[Emaj7]music shit's a pie-\nce of cake The\nrest of my life's i-\nn a state of\n[Amaj7]chaos But I know\nI'll be oka-\ny\n\n[Chorus]\n[Emaj7]Exist in su-\nperposition\nLife's all about\ncontradiction\n[Amaj7]Yin and yang Flu-\nidity, and thi-\nngs\nI'm\n[Emaj7]me, I'm God I'm\neverything I'm\nmy own reason\nwhy I sing And\n[Amaj7]so are you, are you\nunderstandi-\nng?\n\n[Bridge]\n[Emaj7]\n[Amaj7]\n[Emaj7]\n[Amaj7]\n\n[Outro]\n[Emaj7]\n[Amaj7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A6": {
+      "catalog": [
+        "x02222"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Amaj7": {
+      "catalog": [
+        "x02120",
+        "5-4-2-2-2-4",
+        "5-7-6-6-5-5",
+        "x-x-7-9-9-9",
+        "x-12-11-9-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#m7": {
+      "catalog": [
+        "x46454",
+        "9-11-9-9-9-9",
+        "x-x-11-13-12-12",
+        "x-16-18-16-17-16",
+        "21-23-21-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Emaj7": {
+      "catalog": [
+        "021100",
+        "x-x-2-4-4-4",
+        "x-7-6-4-4-4",
+        "x-7-9-8-9-7",
+        "12-11-9-9-9-11"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Superposition",
+  "id": "6cb79797b14abe216804d2434e36e77d5bb1b210cc6d44b80e5c553cffa93743",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 275,
+  "normalizedKey": "daniel caesar|superposition",
+  "playableChords": [
+    "E",
+    "A6",
+    "C#m7",
+    "A",
+    "Am",
+    "D",
+    "Emaj7",
+    "Amaj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Interlude"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 79,
+      "name": "Chorus"
+    },
+    {
+      "measure": 95,
+      "name": "Bridge"
+    },
+    {
+      "measure": 111,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6cb79797b14abe216804d2434e36e77d5bb1b210cc6d44b80e5c553cffa93743",
+    "version": "BCFZ"
+  },
+  "tempo": 116,
+  "title": "Superposition",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

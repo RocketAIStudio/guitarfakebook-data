@@ -1,0 +1,120 @@
+{
+  "artist": "Disturbed",
+  "artistNormalized": "disturbed",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C#5]\n\n[Verse 1]\n[C#5]Sensation\nwashes over me,\nI can't describe\nit.\nPain I\nfelt so long ago,\nI don't remem-\nber.\nTear a\nhole so I can see\nMy devasta-\ntion.\nFeelings\nfrom so long ago\nI don't remem-\nber.\n\n[Chorus]\n[A5]Hol-\n[Ab5]ding\n[C#5]on,\nto\n[E5]let them know.\n[F#5]What's\n[C#5]given to me, given\nto me. To\n[A5]hide behind\n[Ab5]The\n[C#5]mask this time\nAnd\n[F#5]try\nto believe.\n[Ab5]\n\n[Break]\n[C#5]\n\n[Verse 2]\n[C#5]Blind your\neyes to what you\nsee. You can't em-\nbrace\nit. Leave it\nwell enough alone\nAnd don't remem-\nber.\nCut your\npride and watch it bleed.\nYou can't deny\nit.\nPain you\nknow you can't ignore.\nI don't remem-\nber.\n\n[Chorus]\n[A5]Hol-\n[Ab5]ding\n[C#5]on,\nto\n[E5]let them know.\n[F#5]What's\n[C#5]given to me, given\nto me. To\n[A5]hide behind\n[Ab5]The\n[C#5]mask this time\nAnd\n[F#5]try\nto believe.\n[Ab5]\nIf\n\n[Bridge]\n[A5]I can\n[C#5]Re-\n[C#5][E5]member,\nTo\n[A5]know this\n[C#5]will\n[C#5][E5]Conquer me.\nIf\n[A5]I can\n[C#5]Just\n[E5]walk [C#5]alone\nAnd\n[F#5]try\nto escape\n[D#5]\nInto me.\n\n[Interlude]\n[C#5]\nI'm just\n\n[Chorus]\n[A5]Hol-\n[Ab5]ding\n[C#5]on,\nto\n[E5]let them know.\n[F#5]What's\n[C#5]given to me, given\nto me. To\n[A5]hide behind\n[Ab5]The\n[C#5]mask this time\nAnd\n[F#5]try\nto believe\n[Ab5]\nIf\n\n[Bridge]\n[A5]I can\n[C#5]Re-\n[C#5][E5]member,\nTo\n[A5]know this\n[C#5]will\n[C#5][E5]Conquer me.\nIf\n[A5]I can\n[C#5]Just\n[E5]walk [C#5]alone\nAnd\n[F#5]try\nto escape\n[D#5]\nInto me.\n\n[Outro]\n[C#5]\nInto\nme.\nInto me.",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "888xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Ab5": {
+      "catalog": [
+        "x022xx",
+        "777xxx"
+      ],
+      "catalogCount": 2
+    },
+    "C#5": {
+      "catalog": [
+        "000xxx",
+        "12-12-12-x-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "D#5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Remember *alt 2",
+  "id": "9d0ef6070d4e415f1087737e647711fb634ffe4c07c023e2b06d85ca02e7bfa3",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 248,
+  "normalizedKey": "disturbed|remember",
+  "playableChords": [
+    "C#5",
+    "A5",
+    "Ab5",
+    "E5",
+    "F#5",
+    "D#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Break"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 81,
+      "name": "Chorus"
+    },
+    {
+      "measure": 97,
+      "name": "Bridge"
+    },
+    {
+      "measure": 113,
+      "name": "Interlude"
+    },
+    {
+      "measure": 129,
+      "name": "Chorus"
+    },
+    {
+      "measure": 145,
+      "name": "Bridge"
+    },
+    {
+      "measure": 161,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9d0ef6070d4e415f1087737e647711fb634ffe4c07c023e2b06d85ca02e7bfa3",
+    "version": "BCFZ"
+  },
+  "tempo": 164,
+  "title": "Remember",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "alt"
+}

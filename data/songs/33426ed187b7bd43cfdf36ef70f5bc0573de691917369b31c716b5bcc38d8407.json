@@ -1,0 +1,111 @@
+{
+  "artist": "Deep Purple",
+  "artistNormalized": "deep purple",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E5]  [D5]\n[B5]  [G5]\n\n[Riff]\n[E5]\n\n[Verse 1]\n[E5]Black night\nis not right\nI don't feel\nso bright\nDon't care\nsit tight\nMaybe I'll find on the\n[B5]way down the line That I'm\n[A5]free,\n[G5]free to be\n[E5]me\n[A5]Black night is a\n[G5]long way from\n[B5]home\n\n[Riff]\n[E5]\n\n[Verse 2]\n[E5]Don't need\na dark tree\nI don't want\na rough sea\nCan't feel,\nI can't see\nMaybe I'll find on the\n[B5]way down the line That I'm\n[A5]free,\n[G5]free to be\n[E5]me\n[A5]Black night is a\n[G5]long way from\n[B5]home\n\n[Guitar Solo]\n[E5]\n[B5]\n\n[Organ Solo]\n[A5]\n\n[Riff]\n[E5]\n\n[Verse 3]\n[E5]Black night,\nblack night\nI don't need\nblack night\nI can't see\ndark light\nMaybe I'll find on the\n[B5]way down the line That I'm\n[A5]free,\n[G5]free to be\n[E5]me\n[A5]Black night is a\n[G5]long way from\n[B5]home\n\n[Outro]\n[E5]\n\n[Fade Out]\n[E5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Black Night *alt",
+  "id": "33426ed187b7bd43cfdf36ef70f5bc0573de691917369b31c716b5bcc38d8407",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 119,
+  "normalizedKey": "deep purple|black night",
+  "playableChords": [
+    "E5",
+    "D5",
+    "B5",
+    "G5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Riff"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Riff"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 65,
+      "name": "Organ Solo"
+    },
+    {
+      "measure": 77,
+      "name": "Riff"
+    },
+    {
+      "measure": 85,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 101,
+      "name": "Outro"
+    },
+    {
+      "measure": 111,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "33426ed187b7bd43cfdf36ef70f5bc0573de691917369b31c716b5bcc38d8407",
+    "version": "BCFZ"
+  },
+  "tempo": 137,
+  "title": "Black Night",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

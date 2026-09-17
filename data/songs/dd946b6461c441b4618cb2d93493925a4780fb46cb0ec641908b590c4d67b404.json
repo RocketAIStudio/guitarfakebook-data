@@ -1,0 +1,130 @@
+{
+  "artist": "Eagles",
+  "artistNormalized": "eagles",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Em]\n[D]\n[C]\n[Am]\n[Em]\n[Em]\n[D]\n[C]\n[Am]\n[Em]\n[Bm]One of these\n\n[Verse 1]\n[Em]nights,\n[D]one of these cra-\n[C]zy old nights\nWe're gonna\n[Am]find out, pretty mama,\nwhat turns on\n[Em]your lights\n[Bm]The\n[Em]full moon is calling, the\n[D]fever is high And the\n[C]wicked wind whispers and moans\n[Am]You got your demons, you got\nyour desires Well,\n[Em]I got a few of my own\n[Bm]\n\n[Chorus]\n[C]Oh,\nsomeone to be kind to\n[G]in between the dark and the light\n[C]Oh,\ncoming right behind you,\n[Am]swear I'm gonna find you,\n[Bm]one of these nights One of these\n\n[Verse 2]\n[Em]dreams,\n[D]one of these lost\n[C]and lonely dreams, now\nWe're gonna\n[Am]find one,\nmm, one that real-\n[Em]ly screams\n[Bm]I've been\n[Em]searching for the daughter of the\n[D]devil himself I've been\n[C]searching for an angel in white\nI've been\n[Am]waiting for a woman who's a\nlittle of both And I can\n[Em]feel her but she's nowhere in sight\n[Bm]\n\n[Chorus]\n[C]Oh,\nloneliness will blind you\n[G]in between the wrong and the right\n[C]Oh,\ncoming right behind you,\n[Am]swear I'm gonna find you,\n[Bm]one of these nights\n\n[Guitar Solo]\n[Em]\n[D]\n[C]\n[Am]\n[Em]\n[Bm]\n[Em]\n[D]\n[C]\n[Am]\n[Em]\n[Bm]One of these\n\n[Chorus]\n[C]nights\n[G]in between the dark and the light\n[C]Coming right behind you,\nswear I'm gonna find you\n[G]Get you, baby, one of these nights\n[C]\n[G]\nOne of these\n[C]nights\n[G]\nOne of these\n[C]nights\n[G]\nOne of these\n[C]nights\n[G]\nOne of these\n[C]nights\n[G]\nOne of these\n[C]nights\n[G]\nOne of these\n\n[Outro (Fade Out)]\n[C]nights\n[G]\nOne of these\n[C]nights\n[G]\nOne of these\n[C]nights\n[G]\nOne of these\n[C]nights\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "One Of These Nights *alt",
+  "id": "dd946b6461c441b4618cb2d93493925a4780fb46cb0ec641908b590c4d67b404",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 267,
+  "normalizedKey": "eagles|one of these nights",
+  "playableChords": [
+    "Em",
+    "D",
+    "C",
+    "Am",
+    "Bm",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 81,
+      "name": "Chorus"
+    },
+    {
+      "measure": 113,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dd946b6461c441b4618cb2d93493925a4780fb46cb0ec641908b590c4d67b404",
+    "version": "BCFZ"
+  },
+  "tempo": 108,
+  "title": "One Of These Nights",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

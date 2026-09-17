@@ -1,0 +1,143 @@
+{
+  "artist": "Depeche Mode",
+  "artistNormalized": "depeche mode",
+  "capo": "No capo",
+  "chordPositionCount": 41,
+  "chordSymbolCount": 9,
+  "content": "I want some-\n\n[Verse 1]\n[G]body to share Share the\nrest of my life Share my\n[Am]innermost thoughts Know my\n[D7]intimate details Someone who'll\n[G]stand by my side And\ngive me support And\n[Am]in return She'll get\n[D7]my support She will\n[Cmaj7]listen to me When I\n[G/B]want to speak About the\n[Am]world we live in And\n[C]life in general Though my\nviews may be wrong They may\n[G/B]even be perverted She'll\n[Am7]hear me out And won't\n[C]easily be converted To\n[G]my way of thinking In fact she'll\n[C]often disagree But at the\nend [G]of it all She will\n[Em]understand me I\n[C]\n[D]\n\n[Bridge]\n[G]\n[C]\n[D]\n[G]\n[C]\n[D]I want some-\n\n[Verse 2]\n[G]body who cares For me\npassionately With\n[Am]every thought and With e-\n[D7]very breath Someone who'll\n[G]help me see things In a\ndifferent light All the\n[Am]things I detest I will al-\n[D7]most like I don't\n[Cmaj7]want to be tied To\n[G/B]anyone's strings I'm\n[Am]carefully trying to steer clear of\n[C]Those things But\nwhen I'm asleep I\n[G/B]want somebody Who will\n[Am7]put their arms around me And kiss me\n[C]tenderly Though\n[G]things like this\nMake [C]me sick In a\ncase [G]like this I'll get a-\n[Em]way with it\n[C]\n[D]\n\n[Outro]\n[G]\n[C]\n[D]\n[G]\n[C]\n[D]\n[G]\n[C]\n[D]\n[G]\n[C]\n[D]\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Somebody *alt",
+  "id": "5a294de5b1f2b359b36dcef7a2ef4487731f31ddfdfb8b875e6c10a37a5c738c",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 235,
+  "normalizedKey": "depeche mode|somebody",
+  "playableChords": [
+    "G",
+    "Am",
+    "D7",
+    "Cmaj7",
+    "G/B",
+    "C",
+    "Am7",
+    "Em",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Bridge"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 54,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5a294de5b1f2b359b36dcef7a2ef4487731f31ddfdfb8b875e6c10a37a5c738c",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Somebody",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,117 @@
+{
+  "artist": "Delta Sleep",
+  "artistNormalized": "delta sleep",
+  "capo": "2",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[A/D]\n[F#m7]\n[C#m7/E]\n[A/D]\n[C#m7/E]\n[A/D]\n[F#m7]\n[C#m7/E]\n[A/D]\n[F#m7]\n[C#m7/E]\n\n[Verse 1]\n[A/D]\nThe obstacles in\n[F#m7]sight should never have the\n[C#m7/E]right To be part of the\n[A/D]problem\nBut even if we\n[F#m7]tried, we'd hardly have the\n[C#m7/E]time To spend in living\n[A/D]our lives\nright Don't say that I could\n[F#m7]change, 'cause even if you\n[C#m7/E]stayed We'd still be climbing\n[A/D]up this mountain\nSo let us go our\n[F#m7]ways and skip out all the\n[C#m7/E]pain And forget all the...\n\n[Verse 2]\n[Bm/D]Bricks we've\nlaid into this\n[C#m/E]path, yet the\nhouse remains un-\n[F#m7]done\nFlooding at every cloud\nand\nwithering in the sun\n[Bm/D]\nHow's one meant to\n[C#m/E]grow when\nwalls keep caving\n[F#m7]in? The\nceiling above us\nhas de-\nnied its existence in...\n\n[Break]\n[A/D]\n[A/B]\n[F#m7]\n[E]\n[A/D]\n[A/B]\n[F#m7]\n[E]\n[A/D]\n[A/B]\n[F#m7]\n[E]\n[A/D]\n[A/B]\n[F#m7]\n[E]\n\n[Verse 3]\n[Bm/D]Bridges\nbuilt for better\n[C#m/E]days, but\nthey won't hold our\n[F#m7]weight The\nropes have been wearing thin,\nen-\ntangling in the wind\n[Bm/D]\nHow's one meant to\n[C#m/E]grow when\nwalls keep caving\n[F#m7]in? The\nceiling above us\nhas de-\nnied its existence in...\n\n[Verse 4]\n[A/D]Oh,\nof all the times we\n[F#m7]tried, I've still been up all\n[C#m7/E]night Writing songs of\n[A/D]you\nAnd even though you're\n[F#m7]gone, they will still live\n[C#m7/E]on In a memory or\n[A/D]two\nOf all the streets I\n[F#m7]see, no one will ever be\n[C#m7/E]Comparable to\n[A/D]you\nSo with these words I\n[F#m7]go, I just wanted you to\n[C#m7/E]know That my dreams are still of\n\n[Outro]\n[A/D]you",
+  "diagrams": {
+    "A/B": {
+      "catalog": [
+        "x0555x"
+      ],
+      "catalogCount": 1
+    },
+    "A/D": {
+      "catalog": [
+        "x3555x"
+      ],
+      "catalogCount": 1
+    },
+    "Bm/D": {
+      "catalog": [
+        "x3233x"
+      ],
+      "catalogCount": 1
+    },
+    "C#m/E": {
+      "catalog": [
+        "x5455x"
+      ],
+      "catalogCount": 1
+    },
+    "C#m7/E": {
+      "catalog": [
+        "x5755x"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "000000",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "x7555x",
+        "2-4-2-2-2-2",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Camp Adventure",
+  "id": "6ba3ff58912433fafba4976592554c7da61983b394960a2297b444904bfcbf55",
+  "key": "G♯",
+  "keyIdentified": true,
+  "lyricEventCount": 255,
+  "normalizedKey": "delta sleep|camp adventure",
+  "playableChords": [
+    "A/D",
+    "F#m7",
+    "C#m7/E",
+    "Bm/D",
+    "C#m/E",
+    "A/B",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Intro"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Break"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 83,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 99,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6ba3ff58912433fafba4976592554c7da61983b394960a2297b444904bfcbf55",
+    "version": "BCFZ"
+  },
+  "tempo": 138,
+  "title": "Camp Adventure",
+  "tuning": "E B E G# B E",
+  "variantRole": "primary"
+}

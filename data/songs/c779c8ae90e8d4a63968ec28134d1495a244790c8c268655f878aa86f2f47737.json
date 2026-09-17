@@ -1,0 +1,115 @@
+{
+  "artist": "Echo And The Bunnymen",
+  "artistNormalized": "echo and the bunnymen",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[B]Where the hell have you been\n[D]We've\n[B]been waiting with our best suits on\n[D]\n[B]Hair slicked back and all that jazz\n[D]\n[B]Rolling down the Union Jack\n[D]\n[B]See you at the barricades,\n[D]babe\n[B]See you when the lights go low,\n[D]Joe\n[B]Hear you when the wheels turn ro-\n[D]und\n[B]Someday when the sky turns\n[A]bla-\n\n[Interlude]\n[Em]ck\n[D]\n[Em]\n[D]\n[Em]\n[D]\n[Em]\n[D]\n[B]\n[D]\n[B]\n[D]\n[B]\n[D]\n[B]\n[D]It ap-\n\n[Verse 2]\n[B]pears because it's what I feel\n[D]I\n[B]know I don't understand\n[D]If\n[B]you ask you know I don't mind knee-\n[D]ling But when\n[B]my knees hurt I like to stand\n[D]\n[B]Instinct is the common law-\n[D]yer\n[B]A million years won't erase\n[D]\n[B]Strike that chord, I'm searching fo-\n[D]r\n[B]Call it a committed\n[D]race\n\n[Interlude]\n[Em]\n[D]\n[Em]\n[D]\n[Em]\n[D]\n[Em]\n[D]\n[B]\n[D]\n[B]\n[D]\n[B]\n[D]\n[B]No\n\n[Bridge]\n[A]matter, how I shake my fist\n[C]I know I can't resist it\n[D]\n[B]No\n[A]matter, how you shake your fist You\n[C]know, you can't re-\n[D]sist it\n[B]\n[Em]\n[D]\n[Em]\n[D]\n[Em]\n[D]\n[Em]\n[D]\n\n[Verse 3]\n[B]See you at the barricades,\n[D]babe\n[B]See you when the lights go low,\n[D]Joe\n[B]Hear you when the wheels turn ro-\n[D]und\n[B]Someday when the sky turns\n[D]black\n\n[Outro]\n[B]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "all that jazz",
+  "id": "c779c8ae90e8d4a63968ec28134d1495a244790c8c268655f878aa86f2f47737",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 185,
+  "normalizedKey": "echo and the bunnymen|all that jazz",
+  "playableChords": [
+    "B",
+    "D",
+    "A",
+    "Em",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 64,
+      "name": "Bridge"
+    },
+    {
+      "measure": 85,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 93,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c779c8ae90e8d4a63968ec28134d1495a244790c8c268655f878aa86f2f47737",
+    "version": "BCFZ"
+  },
+  "tempo": 134,
+  "title": "all that jazz",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

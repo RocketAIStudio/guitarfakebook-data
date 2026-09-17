@@ -1,0 +1,90 @@
+{
+  "artist": "Dethklok",
+  "artistNormalized": "dethklok",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[D5]  [Ab5]\n[D5]Do you [F5]folks like\n[D5]coffee? [Ab5]\n[D5][F5]Real coffee,\n[D5]From the [Ab5]hills\n[D5]of [F5]columbia?\n[D5]  [Ab5]\n[D5][F5]The\n\n[Bridge]\n[D5]Duncan Hills awake you\nFrom a thousand deaths. A\ncup of blackned blood. (Die, Die) You're\ndying for a cup.\nGuatemala Blend,\nEthiopean,\nFrench Vanilla Roast. (Die, Die) You're\ndying for a cup.\n\n[Verse 2]\n[D5]  [Ab5]\n[D5]Prepare for [F5]ultimate\n[D5]flavor! [Ab5]\n[D5]You're gonna [F5]get some...\n[D5]Now! [Ab5]\n[D5][F5]And\n[D5]scream... [Ab5]for your\n[D5]cream. [F5]\n\n[Solo]\n[D5]\n[C5]\n[Bb5]  [C5]\n[D5]\n[D5]\n[C5]\n[Bb5]  [C5]\n[F5]  [G5]\n[Bb5]  [C5]\n[D5]Duncan hills, Duncan hills,\nDuncan hills Coffee.",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "666xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bb5": {
+      "catalog": [
+        "888xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "10-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Duncan Hills Coffee Jingle",
+  "id": "6d3915472e438332e2b7ab2a54b06c5d12aca7b330906fb93eeaecbf2b2bd373",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 97,
+  "normalizedKey": "dethklok|duncan hills coffee jingle",
+  "playableChords": [
+    "D5",
+    "Ab5",
+    "F5",
+    "C5",
+    "Bb5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Bridge"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6d3915472e438332e2b7ab2a54b06c5d12aca7b330906fb93eeaecbf2b2bd373",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Duncan Hills Coffee Jingle",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,137 @@
+{
+  "artist": "Dean Martin",
+  "artistNormalized": "dean martin",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G]Wonder-\nland winter\nwonderland wonder-\n[C]land Sleigh bells ring\n\n[Verse 1]\n[C]are you listening In the lane\n[Dm7][G]snow is [Dm7]glistening [G7]A\nbeautiful sight oh we're happy tonight\n[D9]Walking in a [G]winter wonderland [C]Gone away\n\n[Verse 2]\n[C]is the bluebird Here to\n[Dm7]stay [G]is a [Dm7]new bird [G7]He's\nsinging a song as we go along\n[D9]Walking in a [G]winter wonderland [C]Well\n\n[Chorus]\n[E]in the meadow we can build a snowman\nAnd pretend that he is Parson Brown\n[G]He'll say are you married we say no man But\n[G]you can do the [D]job when you're in [G]town Later on\n\n[Verse 3]\n[C]we'll conspire as we dream\n[Dm7][G]by the [Dm7]fire [G7]To\nface unafraid of the plans that we made\n[D9]Walking in a [G]winter wonderland [C]\n\n[Chiorus]\n[E]In the meadow we can build a snowman\nAnd pretend that he's a circus clown\n[G]We have lots of fun with Mister Snowman Un-\n[G]til the other [D]kiddies knock him [G]down Oh when it\n\n[Verse 4]\n[C]snows ain't it filling Though your\n[Dm7]nose [G]gets a [Dm7]chilling [G7]We'll\nfrolic and play the Eskimo way\n[D9]Walking in a [G]winter wonder-\n\n[Outro]\n[C]land Wonderland wonder-\nland",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D9": {
+      "catalog": [
+        "x54555"
+      ],
+      "catalogCount": 1
+    },
+    "Dm7": {
+      "catalog": [
+        "x57565",
+        "x-x-0-2-1-1",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Winter Wonderland",
+  "id": "1cf96a2cc457a816f5bb2647b2c5276b42f5e2e9914908836d7981f832521199",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 233,
+  "normalizedKey": "dean martin|winter wonderland",
+  "playableChords": [
+    "G",
+    "C",
+    "Dm7",
+    "G7",
+    "D9",
+    "E",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 21,
+      "name": "Chiorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 29,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1cf96a2cc457a816f5bb2647b2c5276b42f5e2e9914908836d7981f832521199",
+    "version": "BCFZ"
+  },
+  "tempo": 65,
+  "title": "Winter Wonderland",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

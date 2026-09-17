@@ -1,0 +1,122 @@
+{
+  "artist": "Duncan Dhu",
+  "artistNormalized": "duncan dhu",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[(Intro)]\n[Em]\n[G]  [D]\n[G]  [D]\n[Bm]\n[C]\n\n[Riff 1]\n[Am]\nEn algun lugar de un gran pais\nOlvidaron contruir\nUn lugar donde no queme el sol\nY al nacer no haya que morir\nY en la sombra\nMueren genios\nSin saber\n/ De su magia\nconcedida\nsin pedirlo\nmucho tiempo\nantes de nacer\n\n[Riff 2]\nNo hay camino que,\nLlege hasta aqui\ny..\nluego pretenda salir\nCon el fuego del atardecer\nArde la hierda\n\n[Solo]\n\n[Coro]\nEn algun\nlugar de un gran pais\nOlvidaron contruir\nUn lugar donde no queme el sol\nY al nacer no haya que morir\nUn silvido\nCruza el pueblo\nY se ve,\nA un jinete\nQue se marcha \nCon el viento\nMientras grita\nQue no va volver\n\n[Riff Final]\nLa tierra aqui \nEs de...\notro color\nY el polvo no te deja ver\nLos hombres ya no lo saben ni lo son\nPero lo quieren creer\nLas madres que\nya no saben llorar\nVen a sus hijos partir\nLa tristeza aqui\nNo tiene lugar\nCuando lo triste es vivir\n/",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xxx232",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "0220xx",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "En algun lugar",
+  "id": "730a215d9fe62a19ac71c0ad79dc3e936e98e70df20342b7e5e35ea6958f5cb1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 45,
+  "normalizedKey": "duncan dhu|en algun lugar",
+  "playableChords": [
+    "Em",
+    "G",
+    "D",
+    "Bm",
+    "C",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 6,
+      "name": "(Intro)"
+    },
+    {
+      "measure": 19,
+      "name": "Riff 1"
+    },
+    {
+      "measure": 53,
+      "name": "Riff 2"
+    },
+    {
+      "measure": 71,
+      "name": "Solo"
+    },
+    {
+      "measure": 86,
+      "name": "Coro"
+    },
+    {
+      "measure": 112,
+      "name": "Riff Final"
+    }
+  ],
+  "source": {
+    "format": "gp3",
+    "sha256": "730a215d9fe62a19ac71c0ad79dc3e936e98e70df20342b7e5e35ea6958f5cb1",
+    "version": "FICHIER GUITAR PRO v3.00"
+  },
+  "tempo": 147,
+  "title": "En algun lugar",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

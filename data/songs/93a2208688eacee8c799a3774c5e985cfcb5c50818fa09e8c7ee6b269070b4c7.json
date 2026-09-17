@@ -1,0 +1,140 @@
+{
+  "artist": "Doris Day",
+  "artistNormalized": "doris day",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[E]\n[A]\nWhen I was\n\n[Verse 1]\n[A]just a\n[Amaj7]little\n[A6]girl\n[A]I asked my\n[A6]mother\n[A#dim]What will I\n[Bm]be\n[E]\n[Bm]Will I be\n[E]pretty\n[Bm]Will I be\n[E]rich\n[Bm]Here's what she\n[E7]said to\n[A]me\nQue se-\n\n[Chorus]\n[D]ra, se-\nra\nWhat-\never will\n[A]be, will\nbe\nThe\nfuture's not\n[E]ours to\nsee\nQue se-\nra, se-\n[A]ra\nWhat will\n[E7]be, will\n[A]be\nWhen I grew\n\n[Verse 2]\n[A]up\n[Amaj7]and fell in\n[A6]love\n[A]I asked my\n[A6]lover\n[A#dim]What lies a-\n[Bm]head\n[E]\n[Bm]Will we have\n[E]rainbows\n[Bm]Day after\n[E]day\n[Bm]Guess what my\n[E7]lover\n[A]said\nQue se-\n\n[Chorus]\n[D]ra, se-\nra\nWhat-\never will\n[A]be, will\nbe\nThe\nfuture's not\n[E]ours to\nsee\nQue se-\nra, se-\n[A]ra\nWhat will\n[E7]be, will\n[A]be\nNow I have\n\n[Verse 3]\n[A]Children\n[Amaj7]of my\n[A6]own\n[A]They ask their\n[A6]mother\n[A#dim]What will I\n[Bm]be\n[E]\n[Bm]Will I be\n[E]fairy\n[Bm]Will I be\n[E]rich\n[Bm]I tell them\n[E7]wait and\n[A]see\nQue se-\n\n[Chorus]\n[D]ra, se-\nra\nWhat-\never will\n[A]be, will\nbe\nThe\nfuture's not\n[E]ours to\nsee\nQue se-\nra, se-\n[A]ra\n[E]What will\nbe, will\n[A]be\n[E]Que se-\nra,\n[A]se-\nra\n[E]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#dim": {
+      "catalog": [
+        "x12320"
+      ],
+      "catalogCount": 1
+    },
+    "A6": {
+      "catalog": [
+        "x02222"
+      ],
+      "catalogCount": 1
+    },
+    "Amaj7": {
+      "catalog": [
+        "x02120",
+        "5-4-2-2-2-4",
+        "5-7-6-6-5-5",
+        "x-x-7-9-9-9",
+        "x-12-11-9-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Que Sera Sera",
+  "id": "93a2208688eacee8c799a3774c5e985cfcb5c50818fa09e8c7ee6b269070b4c7",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 188,
+  "normalizedKey": "doris day|que sera sera",
+  "playableChords": [
+    "E",
+    "A",
+    "Amaj7",
+    "A6",
+    "A#dim",
+    "Bm",
+    "E7",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 97,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "93a2208688eacee8c799a3774c5e985cfcb5c50818fa09e8c7ee6b269070b4c7",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Que Sera Sera",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

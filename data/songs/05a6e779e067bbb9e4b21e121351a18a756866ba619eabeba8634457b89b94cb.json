@@ -1,0 +1,131 @@
+{
+  "artist": "De Palmas",
+  "artistNormalized": "de palmas",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Em]\n[D]\nHou ...\nHum...\n\n[Strophe 1]\n[Em]je l'ai emm'née [D]au bout  du mon_\n[G]_de\nEn     con      corde    en quel     ques \nse condes\nJe lui     ai     dit que je  l'ai  mais\nElle m'a dit  moi  j'ai me   rais\nren  trer\n[Cadd9]Et c'est   à n'y    rien com  pren_\n[Asus2]_dre\n[Cadd9]Je dois   sur ment    mal m'y    pren\n[D]dre car Elle\n\n[Refrain]\n[Em]s'en  nuie_\n[D][Cadd9]Elle\ns'en  nuie_\nC'est\n[Em]ainsi_ [D]\n[Cadd9][Asus2]Elle \ns'en  nuie_\nQuoi   que  je  dise quoi    que  je fasse\n\n[Intro Bis]\nHou__\n\n[Strophe 2]\nJe l'ai   cou  ver     te    de          four   ru\nre\nDe     bi    joux    de  pa\nru       res\nOn   a     dor   mi dans des\npalaces\nTou jours tou jours en pre\nmière   classe\nEt    je vou  drais     bien     com     pren\ndre\nJe dois sure ment mal     m'y pren\ndre car Elle\n\n[Refrain]\ns'en  nuie_\nElle\ns'en  nuie_\nC'est\nainsi_\nElle \ns'en  nuie_\nQuoi   que  je  dise quoi    que  je fasse\n\n[Intro Bis]\nHou__\n\n[Pont]\n[Cadd9]Vous me di      rez pro ba\n[Dadd11]ble    ment Qu' il   faut\n[Em]l'ai   mer tout    sim ple   ment___\n[G]\n[Cadd9]Je   ne   suis pas si bête\n[B5]j'ai es say é a vant Elle\n\n[Refrain]\ns'en  nuie_\nElle\ns'en  nuie_\nC'est\nainsi_\nElle \ns'en  nuie_\nQuoi   que  je  dise quoi    que  je fasse\ns'en  nuie_\nElle\ns'en  nuie_\nC'est\nainsi_\nElle \ns'en  nuie_\nquoi   que  je dise quoi  que  je  fas\nse",
+  "diagrams": {
+    "Asus2": {
+      "catalog": [
+        "x02200",
+        "x0220x"
+      ],
+      "catalogCount": 2
+    },
+    "B5": {
+      "catalog": [
+        "x24xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32030",
+        "x32033"
+      ],
+      "catalogCount": 2
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "2xx23x",
+        "2x023x",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5"
+      ],
+      "catalogCount": 5
+    },
+    "Dadd11": {
+      "catalog": [
+        "x5403x"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Elle s'ennuie *alt",
+  "id": "05a6e779e067bbb9e4b21e121351a18a756866ba619eabeba8634457b89b94cb",
+  "key": "C♭",
+  "keyIdentified": true,
+  "lyricEventCount": 120,
+  "normalizedKey": "de palmas|elle s ennuie",
+  "playableChords": [
+    "Em",
+    "D",
+    "G",
+    "Cadd9",
+    "Asus2",
+    "Dadd11",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Strophe 1"
+    },
+    {
+      "measure": 25,
+      "name": "Refrain"
+    },
+    {
+      "measure": 33,
+      "name": "Intro Bis"
+    },
+    {
+      "measure": 37,
+      "name": "Strophe 2"
+    },
+    {
+      "measure": 49,
+      "name": "Refrain"
+    },
+    {
+      "measure": 57,
+      "name": "Intro Bis"
+    },
+    {
+      "measure": 61,
+      "name": "Pont"
+    },
+    {
+      "measure": 67,
+      "name": "Refrain"
+    }
+  ],
+  "source": {
+    "format": "gp4",
+    "sha256": "05a6e779e067bbb9e4b21e121351a18a756866ba619eabeba8634457b89b94cb",
+    "version": "FICHIER GUITAR PRO v4.06"
+  },
+  "tempo": 99,
+  "title": "Elle s'ennuie",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

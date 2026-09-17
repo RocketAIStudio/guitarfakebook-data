@@ -1,0 +1,131 @@
+{
+  "artist": "Electric Light Orchestra",
+  "artistNormalized": "electric light orchestra",
+  "capo": "No capo",
+  "chordPositionCount": 29,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[Dm]\n[Am/C]\n[Bbmaj7]\n[Dm/A]  [Aaddb13]  [A]\n\n[Theme 1]\n[Dm]Can you hear me?\n[Am/C]\n[Bbmaj7]\n[Dm/A]  [Aaddb13]  [A]\n[Dm]Ahh, Something!\n[Am/C]\n[Bbmaj7]\n[Dm/A]  [Aaddb13]  [A]\n\n[Theme 2]\n[Dm]Believe me\n[Am/C]now\n[Bbmaj7]I could never say good-\n[Dm/A]bye [Aaddb13][A]\n\n[Theme 3]\n[Dmadd9]Don't leave me\n[Bb7]now\n[Dmadd9]Believe me\n[Bb7]now\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Aaddb13": {
+      "catalog": [
+        "x02221"
+      ],
+      "catalogCount": 1
+    },
+    "Am/C": {
+      "catalog": [
+        "x32210"
+      ],
+      "catalogCount": 1
+    },
+    "Bb7": {
+      "catalog": [
+        "x13131",
+        "6-5-3-3-3-4",
+        "6-8-6-7-6-6",
+        "x-x-8-10-9-10",
+        "x-13-12-13-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bbmaj7": {
+      "catalog": [
+        "x13231",
+        "6-5-3-3-3-5",
+        "6-8-7-7-6-6",
+        "x-x-8-10-10-10",
+        "x-13-12-10-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Dm/A": {
+      "catalog": [
+        "x03231"
+      ],
+      "catalogCount": 1
+    },
+    "Dmadd9": {
+      "catalog": [
+        "x57764"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Believe Me Now",
+  "id": "7c76e99ed1f7cf3ba54f35b1dadb9c1b959e7bca7407a311a6eba421ee5f5ead",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 26,
+  "normalizedKey": "electric light orchestra|believe me now",
+  "playableChords": [
+    "Dm",
+    "Am/C",
+    "Bbmaj7",
+    "Dm/A",
+    "Aaddb13",
+    "A",
+    "Dmadd9",
+    "Bb7",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Theme 1"
+    },
+    {
+      "measure": 13,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 17,
+      "name": "Theme 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7c76e99ed1f7cf3ba54f35b1dadb9c1b959e7bca7407a311a6eba421ee5f5ead",
+    "version": "BCFZ"
+  },
+  "tempo": 67,
+  "title": "Believe Me Now",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

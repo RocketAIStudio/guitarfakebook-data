@@ -1,0 +1,154 @@
+{
+  "artist": "Deep purple",
+  "artistNormalized": "deep purple",
+  "capo": "No capo",
+  "chordPositionCount": 38,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[Gm]\n[Dm]\n[C]\n[Gm]I have\n\n[Verse 1]\n[Gm]often told you stories\n[F]about the way I\n[Gm]lived the life of a drifter\n[Dm]Waiting for the day When I'd\ntake your hand and sing you songs\nThen maybe you would say\n\"Come lay with me and love me\"\nAnd I would surely stay\n\n[Chorus]\n[A#]But I [C]feel I'm growing\n[Gm]older\n[D#]And the [F]songs that I have\n[A#]sung [D]Echo in the dis-\n[Gm]tance Like the [F/A]sound Of a\n[A#]windmill going\n[D#]round\n[Cm]Guess I'll always [Dm]be a soldier of\n[Gm]fortune\n\n[Solo]\n[Gm]\n[C]\n[Gm]\n[C]\n[Gm]\n[A#]\n[Cm]\n[Gm]Many\n\n[Verse 2]\n[Gm]times I've been a traveller I\n[F]looked for something new In\n[Gm]days of old when nights were cold\n[Dm]I wandered without you\n[Gm]But those days I thought my eyes had\n[F]seen you standing near\n[Gm]Though blindness is confusing\n[Dm]It shows that you're not here\n\n[Chorus]\n[A#]Now I [C]feel I'm growing\n[Gm]older\n[D#]And the [F]songs that I have\n[A#]sung [D]Echo in the dis-\n[Gm]tance Like the [F/A]sound Of a\n[A#]windmill going\n[D#]round\n[Cm]Guess I'll always [Dm]be a soldier of\n[Gm]fortune\n[Gm]I can hear the [F/A]sound Of a\n[A#]windmill going\n[D#]round\n[Cm]Guess I'll always [Dm]be a soldier of\n[Gm]fortune\n[Cm]I guess I'll always be [Dm]A soldier of\n[G]fortune",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "688766"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "8-10-10-8-8-8",
+        "x-3-5-5-4-3",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "x65343"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "xx3211",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "F/A": {
+      "catalog": [
+        "xx7565"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Soldier of fortune *alt",
+  "id": "c253eb49034d8002e9acef15ed21368e03b8cf9a76f66a2c61473a301c45a8c0",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 273,
+  "normalizedKey": "deep purple|soldier of fortune",
+  "playableChords": [
+    "Gm",
+    "Dm",
+    "C",
+    "F",
+    "A#",
+    "D#",
+    "D",
+    "F/A",
+    "Cm",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Solo"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c253eb49034d8002e9acef15ed21368e03b8cf9a76f66a2c61473a301c45a8c0",
+    "version": "BCFZ"
+  },
+  "tempo": 66,
+  "title": "Soldier of fortune",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

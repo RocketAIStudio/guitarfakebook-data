@@ -1,0 +1,91 @@
+{
+  "artist": "Dog Party",
+  "artistNormalized": "dog party",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[E5]I don’t know how this\n[C#5]came to be\n[A5]My heart once full of ele-\n[B5]ctricity But\n[E5]now you’re gone and the\n[C#5]lights burnt out And\n[A5]I don’t know how\n[B5]this came about\n\n[Chorus]\n[A5]Spinning round ‘n’\n[B5]round it goes Just\n[A5]like my head I’m\n[B5]missing home\n[E5]\n[C#5]I’m missing\n[E5]home\n[C#5]I’m missing\n[E5]home\n[C#5]I’m missing\n[A5]home\n[B5]\n\n[Verse 2]\n[E5]All the places we\n[C#5]used to go Have\n[A5]left me feeling\n[B5]oh so low I\n[E5]think I see you\n[C#5]down the street But it’s\n[A5]just your ghost\n[B5]haunting me\n\n[Chorus]\n[A5]Spinning round ‘n’\n[B5]round it goes Just\n[A5]like my head I’m\n[B5]missing home\n[E5]\n[C#5]I’m missing\n[E5]home\n[C#5]I’m missing\n[E5]home\n[C#5]I’m missing\n[A5]home\n[B5]\n\n[Bridge]\n[A5]When\n[B5]can it go back to the\n[C#5]way it used to be\n[B5]\n[A5]You’ve got me\n[B5]spinning round ‘n’\n[E5]round\n[B/D#]\n\n[Chorus]\n[A5]Spinning round ‘n’\n[B5]round it goes Just\n[A5]like my head I’m\n[B5]missing home\n[E5]\n[C#5]I’m missing\n[E5]home\n[C#5]I’m missing\n[E5]home\n[C#5]I’m missing\n[E5]home\n[C#5]I’m missing\n[E5]home",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B/D#": {
+      "catalog": [
+        "x6987x"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Round 'N' Round",
+  "id": "b573248450dfdcefcb5154138863c7ef91a0bab1e8c6fd69a6d91701497ae525",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 173,
+  "normalizedKey": "dog party|round n round",
+  "playableChords": [
+    "E5",
+    "C#5",
+    "A5",
+    "B5",
+    "B/D#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b573248450dfdcefcb5154138863c7ef91a0bab1e8c6fd69a6d91701497ae525",
+    "version": "BCFZ"
+  },
+  "tempo": 170,
+  "title": "Round 'N' Round",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

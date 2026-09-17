@@ -1,0 +1,112 @@
+{
+  "artist": "Eddie Vedder",
+  "artistNormalized": "eddie vedder",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Bm]\n\n[Verse 1]\n[D]It's a\n[A]mystery to\n[D]me\nWe have a\ngreed with\n[G]which we have a-\n[A]greed\nAnd you\n[G]think you have to\n[A]want more than you\n[Bm]need\nUn-\n[G]til you have it\n[A]all you won't be\n[Bm]free\nSocie-\n\n[Chorus]\n[G]ty\nyou're a crazy\n[D]breed\nHope you're not\n[A]lonely\nwithout\n[Bm]me\nWhen you\n\n[Verse 2]\n[D]want more than you\n[A]have You think you\n[D]need\nWhen you\nthink more than you\n[G]want Your thoughts be-\n[A]gin to bleed\nI\n[G]think I need to\n[A]find a bigger\n[Bm]place\n'Cause when\n[G]have more than you\n[A]think You need more\n[Bm]space\nSocie-\n\n[Chorus]\n[G]ty\nyou're a crazy\n[D]breed\nHope you're not\n[A]lonely\nwithout\n[Bm]me\nSocie-\n[G]ty\ncrazy in-\n[D]deed\nHope you're not\n[A]lonely\nwithout\n[Bm]me\n\n[Solo]\n[D]\n[A]\n[D]\n[G]\n[A]\n[G]\n[A]\n[Bm]\n[G]\n[A]\n[Bm]\n[G]\n[D]\n[A]\n[Bm]\nThere's\n\n[Verse 3]\n[D]those thinking more--\n[A]or-less less is\n[D]more\nBut if\nless is more\n[G]how you keeping\n[A]score\nMeans for\n[G]every point you\n[A]make your level\n[Bm]drops\n[G]Kinda like you're\n[A]starting from the\n[Bm]top\nYou can't do\nthat\nSocie-\n\n[Chorus]\n[G]ty\nyou're a crazy\n[D]breed\nHope you're not\n[A]lonely\nwithout\n[Bm]me\nSocie-\n[G]ty\ncrazy in-\n[D]deed\nHope you're not\n[A]lonely\nwithout\n[Bm]me\nSocie-\n\n[Outro]\n[G]ty\nhave mercy on\n[D]me\nHope you're not\n[A]angry\nif I disa-\n[Bm]gree\nSocie-\n[G]ty\ncrazy in-\n[D]deed\nHope you're not\n[A]lonely\nwithout\n[Bm]me",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Society",
+  "id": "cca38630616baa064deb4a04341eb475e205e8e1d2cedbcc2f171661e636879a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 245,
+  "normalizedKey": "eddie vedder|society",
+  "playableChords": [
+    "Bm",
+    "D",
+    "A",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Solo"
+    },
+    {
+      "measure": 99,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 117,
+      "name": "Chorus"
+    },
+    {
+      "measure": 133,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cca38630616baa064deb4a04341eb475e205e8e1d2cedbcc2f171661e636879a",
+    "version": "BCFZ"
+  },
+  "tempo": 165,
+  "title": "Society",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

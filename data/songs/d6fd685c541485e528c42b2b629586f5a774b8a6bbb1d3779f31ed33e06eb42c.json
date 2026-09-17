@@ -1,0 +1,144 @@
+{
+  "artist": "Eddie Vedder",
+  "artistNormalized": "eddie vedder",
+  "capo": "No capo",
+  "chordPositionCount": 40,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[G]\nI\n\n[Verse 1]\n[G]know you be-\n[G7]long To\n[C]somebody\n[Cm]new But to-\n[G]night You be-\n[D]long to\n[G]me\n[Cm][Dmaj7]A-\n\n[Verse 2]\n[G]lthough we're a-\n[G7]part You are\n[C]a part of my\n[Cm]heart But to-\n[G]night You be-\n[D]long to\n[G]me\n[G][G7]Way\n\n[Bridge]\n[Cm]down by the\nstream How\nsweet it will se-\nem Once\n[G]more just to\n[A7]dreaming In the\n[D]moonlight [D7]\nMy honey I\n\n[Verse 3]\n[G]know With the\n[G7]dawn That\n[C]you will be\n[Cm]gone But to-\n[G]night You be-\n[D]long to\n[G]me\n\n[Outro]\n[Cm]But to-\n[G]night You be-\n[D7]long [D]To\n[G]me",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x0502x",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32013",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x31013",
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x5423x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "x5421x",
+        "x-x-0-2-1-2",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8"
+      ],
+      "catalogCount": 5
+    },
+    "Dmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9",
+        "10-12-11-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3x000x",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "35343x",
+        "3-2-0-0-0-1",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tonight You Belong to Me",
+  "id": "d6fd685c541485e528c42b2b629586f5a774b8a6bbb1d3779f31ed33e06eb42c",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 88,
+  "normalizedKey": "eddie vedder|tonight you belong to me",
+  "playableChords": [
+    "G",
+    "G7",
+    "C",
+    "Cm",
+    "D",
+    "Dmaj7",
+    "A7",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 34,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d6fd685c541485e528c42b2b629586f5a774b8a6bbb1d3779f31ed33e06eb42c",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Tonight You Belong to Me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

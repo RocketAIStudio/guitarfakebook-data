@@ -1,0 +1,148 @@
+{
+  "artist": "Deep purple",
+  "artistNormalized": "deep purple",
+  "capo": "No capo",
+  "chordPositionCount": 40,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[D]\n[G]\n\n[Verse 1]\n[D]Can you remember\nremember my name\n[G]\nAs I flow through your life\n[D]\nA thousand oceans I have\n[G]flown\n[A7]\nAnd cold spirits of ice\nAll my life\nI am the echo of your past\n[D]\n[G]\n[D]I am returning\nthe echo of a point in time\n[G]\nDistant faces shine\n[D]\nA thousand warriors I have\n[G]known\n[A7]And laughing\nas the spirits appear\nAll your life\nShadows of another day\nAnd\n\n[Chorus]\n[F]\n[C]if you hear me talking on\n[Dm]the wind You've got to\n[G]understand We\n[Dm]must remain Perfect\n[C]Strangers\n[G]\n[Gm]\n\n[Instrumental]\n[Am]\nI know I\nmust remain inside this silent well of\n\n[Verse 2]\n[D]sorrow\n[G]\n[D]A strand of silver\nhanging through the\n[G]sky\nTouching more than you see\n[A7]\nThe voice of ages in your mind\nIs aching\nwith the dead of the night\nPrecious life\nyour tears are lost in falling\nrain\n\n[Chorus]\n[F]\n[C]And if you hear me talking\n[Dm]on the wind 67You've got to\n[G]understand We\n[Dm]must remain Perfect\n[C]Strangers\n[G]\n[Gm]\n\n[Outro]\n[Am]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "575655",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Perfect strangers *alt",
+  "id": "e6e4eb9c0f3b7fbd1555fbd2ee03ec672a90baa5cde69ad45d5888d91fa37c50",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 187,
+  "normalizedKey": "deep purple|perfect strangers",
+  "playableChords": [
+    "D",
+    "G",
+    "A7",
+    "F",
+    "C",
+    "Dm",
+    "Gm",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Instrumental"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    },
+    {
+      "measure": 95,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e6e4eb9c0f3b7fbd1555fbd2ee03ec672a90baa5cde69ad45d5888d91fa37c50",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "Perfect strangers",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

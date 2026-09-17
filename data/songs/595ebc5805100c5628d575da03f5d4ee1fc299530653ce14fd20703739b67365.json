@@ -1,0 +1,125 @@
+{
+  "artist": "Ed Sheeran",
+  "artistNormalized": "ed sheeran",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D5]\n\n[Verse 1]\n[D5]Tell me that you'll turn down the man\nWho asks for your hand\n[B5]Cause you're waiting for me\n[D5]And I know,\nyou're gonna be away a while\nBut I've got no plans\n[B5]at all to leave\n[D5]And would you take\n[C#sus4]away my\n[G]hopes and dreams? And just\n[E5]stay with me\n[G]oh [A]\n\n[Chorus]\n[D5]All my senses\ncome to life While I'm\n[C#sus4]stumbling home as\ndrunk as I Have e-\n[B5]ver been and I'll ne-\n[G]ver leave again\n[C#5]Cause\n[G]you are the [A]only one And\n[D5]all my friends have\ngone to find Another\n[C#sus4]place to let their\nhearts collide Just pro-\n[B5]mise me, you'll ne-\n[G]ver leave again\n[C#5]Cause\n[G]you are the [A]only one\n\n[Bridge]\n[D5]\n\n[Verse 2]\n[D5]Take my hand and my\nHeart and soul, I will\n[B5]Only have these eyes for you\n[D5]And you know,\neverything changes but\nWe'll be strangers if\n[B5]we see this through\n[D5]You could\n[C#sus4]stay within these\n[G]walls and bleed Or just\n[E5]stay with me,\n[G]oh [A]Lord now\n\n[Chorus]\n[D5]All my senses\ncome to life While I'm\n[C#sus4]stumbling home as\ndrunk as I Have e-\n[B5]ver been and I'll ne-\n[G]ver leave again\n[C#5]Cause\n[G]you are the [A]only one And\n[D5]all my friends have\ngone to find Another\n[C#sus4]place to let their\nhearts collide Just prom-\n[B5]ise me, you'll al-\n[G]ways be a friend\n[C#5]Cause\n[G]you are the [A]only one\n\n[Interlude]\n[D5]Stumbling half drunk,\ngetting myself lost\n[A]I am so gone,\nso tell me the way home\n[D5]I listen to sad songs,\nsinging about love\n[A]And\nwhere it goes wrong\n\n[Bridge]\n[B5]  [G]\n[A]\n[B5]  [G]\n[A]\n[B5]  [G]\n[D5]\n[B5]  [A]\n[D5]\n\n[Chorus]\n[D5]All my senses\ncome to life While I'm\n[C#sus4]stumbling home as\ndrunk as I Have e-\n[B5]ver been and I'll ne-\n[G]ver leave again\n[C#5]Cause\n[G]you are the [A]only one And\n[D5]all my friends have\ngone to find Another\n[C#sus4]place to let their\nhearts collide Just prom-\n[B5]ise me, you'll al-\n[G]ways be a friend\n[C#5]Cause\n[G]you are the [A]only one\n[D5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "7x767x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B5": {
+      "catalog": [
+        "9-9-9-11-9-9"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x4664x"
+      ],
+      "catalogCount": 1
+    },
+    "C#sus4": {
+      "catalog": [
+        "11-11-11-11-11-11"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "000200"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "222422"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "5x545x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "One",
+  "id": "595ebc5805100c5628d575da03f5d4ee1fc299530653ce14fd20703739b67365",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 347,
+  "normalizedKey": "ed sheeran|one",
+  "playableChords": [
+    "D5",
+    "B5",
+    "C#sus4",
+    "G",
+    "E5",
+    "A",
+    "C#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Interlude"
+    },
+    {
+      "measure": 71,
+      "name": "Bridge"
+    },
+    {
+      "measure": 80,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "595ebc5805100c5628d575da03f5d4ee1fc299530653ce14fd20703739b67365",
+    "version": "BCFZ"
+  },
+  "tempo": 94,
+  "title": "One",
+  "tuning": "D A D G A D",
+  "variantRole": "primary"
+}

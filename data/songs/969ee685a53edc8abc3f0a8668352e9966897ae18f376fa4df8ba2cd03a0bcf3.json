@@ -1,0 +1,106 @@
+{
+  "artist": "Danzig",
+  "artistNormalized": "danzig",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[B5]  [G5]\n[A5]  [B5]\n[G5]\n[A5]  [B5]\n[G5]\n[A5]  [B5]\n[G5]\n[A5]  [B5]\n\n[Verse 1]\n[B5]Mother [G5]\nTell [A5]your children not [B5]to\nwalk my way [G5]\nTell [A5]your children not [B5]to\nhear my words What [G5]they\nmean What [A5]they say [B5]\nMother [G5]\n[A5]  [B5]\nMother [G5]\nCan [A5]you keep them in [B5]the\ndark for life [G5]\nCan [A5]you hide them from [B5]the\nwaiting world [G5]\nOh [A5][B5]\nmother [G5]\n[A5]  [B5]\nFather [G5]\n[A5]Gonna take you [B5]daughter\nout tonight [G5]\n[A5]Gonna show her [B5]\nmy world [G5]\nOh [A5][B5]\nfather [G5]\n[A5]  [B5]\n\n[Chorus]\n[G5]Not [A5]about\nto see your [B5]light\nBut if you\nwanna find [A5]hell with me\n[G5]I can [A5]show\nyou what it's like [B5]\nTill you're [A5]bleeding [G5]\nNot [A5]about\nto see your [B5]light\nAnd if you\nwanna find [A5]hell with me\n[G5]I can [A5]show\nyou what it's\n[F#5]\n[B5]\n\n[Verse 2]\n[B5]Mother [G5]\nTell [A5]your children not [B5]to\nhold my hand [G5]\nTell [A5]your children not [B5]to\nunderstand [G5]\nOh [A5][B5]\nmother [G5]\n[A5]  [B5]\nFather [G5]\nDo [A5]you wanna bang [B5]\nheads with me [G5]\nDo [A5]you wanna feel [B5]\neverything [G5]\nOh [A5][B5]\nfather [G5]\n[G5]  [A5]\n\n[Chorus]\n[G5]Not [A5]about\nto see your [B5]light\nBut if you\nwanna find [A5]hell with me\n[G5]I can [A5]show\nyou what it's like [B5]\nTill you're [A5]bleeding [G5]\nNot [A5]about\nto see your [B5]light\nAnd if you\nwanna find [A5]hell with me\n[G5]I can [A5]show\nyou what it's\n[F#5]\nYea [B5]\n\n[Solo]\n[B5]  [G5]\n[A5]  [B5]\n[G5]\n[A5]  [B5]\n[G5]\n[A5]  [B5]\n[G5]  [A5]\n\n[Chorus]\n[G5]Not [A5]about\nto see your [B5]light\nBut if you\nwanna find [A5]hell with me\n[G5]I can [A5]show\nyou what it's like [B5]\nTill you're [A5]bleeding [G5]\nNot [A5]about\nto see your [B5]light\nAnd if you\nwanna find [A5]hell with me\n[G5]I can [A5]show\nyou what it's like\n[F#5]\n\n[Outro]\n[B5]\n[G5]  [A5]\n[B5]\n[D5]  [C#5]\n[B5]Oh\n[G5]  [A5]\n[B5]\n[D5]  [C#5]\n[B5]\n[G5]No one! [A5]\n[B5]\n[D5]  [C#5]\n[B5]Yeah!\n[G5]  [A5]\n[B5]\n[D5]  [C#5]  [B5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mother",
+  "id": "969ee685a53edc8abc3f0a8668352e9966897ae18f376fa4df8ba2cd03a0bcf3",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 268,
+  "normalizedKey": "danzig|mother",
+  "playableChords": [
+    "B5",
+    "G5",
+    "A5",
+    "F#5",
+    "D5",
+    "C#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Solo"
+    },
+    {
+      "measure": 90,
+      "name": "Chorus"
+    },
+    {
+      "measure": 106,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "969ee685a53edc8abc3f0a8668352e9966897ae18f376fa4df8ba2cd03a0bcf3",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "Mother",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

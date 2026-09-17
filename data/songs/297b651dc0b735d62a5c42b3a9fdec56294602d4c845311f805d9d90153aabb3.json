@@ -1,0 +1,77 @@
+{
+  "artist": "Eskimo Callboy",
+  "artistNormalized": "eskimo callboy",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Cm]\n[Ab]\n[Gm]\n\n[Verse]\n[Cm]Ha! Ha! Do you\nknow EC!?\nHa! Ha! Do you\nknow EC!? Pussies\n[Ab]take of all your cloth! Moustache\nParty like a G! Shake your\n[Gm]bodies to the groove! 'Cause we\nare EC! WHOO!\n\n[Outro]\n[Cm]\n[Ab]\n[Gm]Fuck you\nEskimo Callboy!\n[Cm]\n[Ab]\n[Gm]Fuck you\nEskimo Callboy!",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x13331",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "000231",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "x02210",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Intro",
+  "id": "297b651dc0b735d62a5c42b3a9fdec56294602d4c845311f805d9d90153aabb3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 55,
+  "normalizedKey": "eskimo callboy|intro",
+  "playableChords": [
+    "Cm",
+    "Ab",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 17,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "297b651dc0b735d62a5c42b3a9fdec56294602d4c845311f805d9d90153aabb3",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Intro",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

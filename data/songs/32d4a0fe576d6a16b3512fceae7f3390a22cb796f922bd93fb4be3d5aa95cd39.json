@@ -1,0 +1,73 @@
+{
+  "artist": "Down By Law",
+  "artistNormalized": "down by law",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A5]  [G5]\n[A5]  [G5]\n[A5]  [G5]\n[D5]  [E5]\n\n[Interlude]\n[A5]  [G5]\n[A5]  [G5]\n[A5]  [G5]\n[D5]  [E5]\n\n[Verse]\n[A5]Hold onto [G5]fun As\n[A5]long as you can [G5]\n[A5]Cause life is [G5]short\n[D5]And this is your [E5]time\n[A5]Be smart and [G5]tough\n[A5]Find one true [G5]love\n[A5]And do your [G5]best to\n[D5]not fall in [E5]line\n[D5]Not fall in [E5]line\n[D5]  [E5]\n[A5]  [G5]  [D5]\n[A5]  [G5]  [D5]\n[A5]  [G5]  [D5]\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx",
+        "x799xx"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Life Rules 101",
+  "id": "32d4a0fe576d6a16b3512fceae7f3390a22cb796f922bd93fb4be3d5aa95cd39",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 38,
+  "normalizedKey": "down by law|life rules 101",
+  "playableChords": [
+    "A5",
+    "G5",
+    "D5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Interlude"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "32d4a0fe576d6a16b3512fceae7f3390a22cb796f922bd93fb4be3d5aa95cd39",
+    "version": "BCFZ"
+  },
+  "tempo": 178,
+  "title": "Life Rules 101",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

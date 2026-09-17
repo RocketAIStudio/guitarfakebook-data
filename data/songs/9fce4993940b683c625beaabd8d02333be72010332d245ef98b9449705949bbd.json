@@ -1,0 +1,129 @@
+{
+  "artist": "Dolores Keane",
+  "artistNormalized": "dolores keane",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[A]  [E/G#]\n[F#m]\n[D]  [Esus4]\n[A]I've been\n\n[Verse 1]\n[A]too long [E]away from your\n[F#m]lovin' Too\n[D]long with my back too the\n[Esus4]wall [E]I've\n[A]been to some [E/G#]far away\n[F#m]places With\n[D]nothing to [Esus4]show for it all\n[A][E][A/F#][E/G#]I've\n\n[Verse 2]\n[A]been to their [E]sights and show\n[F#m]cases I've\n[D]been through their strong city\n[Esus4]halls [E]\n[A]Men with black [E/G#]suits and no\n[F#m]faces And\n[D]nothing to [Esus4]show for it all\n[A][E][A/F#][E/G#]I've been\n\n[Chorus]\n[A]too long away [E]from this\n[F#m]country\n[D]Too long not heeding your\n[Esus4]call [E]Now I'm\n[F#m]home like some [E/G#]war weary\n[A]soldier [F#m]With\n[D]nothing to [Esus4]show for it all\n[A][E][A/F#][E/G#]I've\n\n[Verse 3]\n[A]taken the [E]jibe\n[F#m]jester I've\n[D]laughed at the joke through it\n[Esus4]all [E]He said\n[A]get back to the [E/G#]place where you\n[F#m]came from You've got\n[D]nothing to [Esus4]give after\n[A]all [E][A/F#][E/G#]I've been\n\n[Chorus]\n[A]too long away [E]from this\n[F#m]country\n[D]Too long not heeding your\n[Esus4]call [E]Now I'm\n[F#m]home like some [E/G#]war weary\n[A]soldier [F#m]With\n[D]nothing to [Esus4]show for it all\n[A][E][A/F#][E/G#]I've been\n\n[Chorus]\n[A]too long away [E]from this\n[F#m]country\n[D]Too long not heeding your\n[Esus4]call [E]Now I'm\n[F#m]home like some [E/G#]war weary\n[A]soldier [F#m]With\n[D]nothing to [Esus4]show for it all\n[A]Breath\n\n[Outro]\n[A]easy there's [E/G#]someone there\n[F#m]waiting\n[D]Someone who [Esus4]cares after all\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A/F#": {
+      "catalog": [
+        "2422xx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E/G#": {
+      "catalog": [
+        "4x2100"
+      ],
+      "catalogCount": 1
+    },
+    "Esus4": {
+      "catalog": [
+        "022200"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Nothing To Show",
+  "id": "9fce4993940b683c625beaabd8d02333be72010332d245ef98b9449705949bbd",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 224,
+  "normalizedKey": "dolores keane|nothing to show",
+  "playableChords": [
+    "A",
+    "E/G#",
+    "F#m",
+    "D",
+    "Esus4",
+    "E",
+    "A/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9fce4993940b683c625beaabd8d02333be72010332d245ef98b9449705949bbd",
+    "version": "BCFZ"
+  },
+  "tempo": 45,
+  "title": "Nothing To Show",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

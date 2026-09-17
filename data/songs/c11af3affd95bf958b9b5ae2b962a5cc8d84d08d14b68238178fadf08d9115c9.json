@@ -1,0 +1,119 @@
+{
+  "artist": "EDEN",
+  "artistNormalized": "eden",
+  "capo": "1",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[C]Free [D]fall for [Em7]now\n[D][C]Desert air won't [Em7]drown\nyou out\n[C]And for [D]a second I [Em7]thought\nthe world was ending And I\n[G][Am]couldn't breathe [D]in\nYeah,\n[C]and so [D]this isn't your [Em7]time\nYeah,\n[C]been [D]chasing kairos with [Em7]those\nscapegoat eyes Can't you [G]realize? Fuck [C]the\nsummertime, it's [D]you So scared [Em7]of\novergrowing youth When it's not\n[Am]done [G]with [D]you\nAnd everybody gon'\n\n[Chorus]\n[C]run, [D]run [Em7]\nEverybody gon'\n[C]run, [D]run [Em7]\n[G]And you [C]can\ncall it what [D]you want But [Em7]I\ncall it moving on And I'm so\n[Am]done [G]with [D]singing\nwords I don't believe in no more\n\n[Break]\n[C]  [D]  [Em7]\n[C]  [D]  [Em7]\n[C]  [D]  [Em7]\n[C]  [D]  [Em7]\n\n[Verse 2]\n[C]So what [D]you rushing for? [Em7]\nWho said it's now or never?\n[C]I think [D]you're taking on [Em7]the\nwrong advice [G]But it's [C]al-\nright [D]if these are your [Em7]worst\ntimes You know you're good\n[Am][G]You're good [D]\n\n[Interlude]\n[Em7]\n[C]\n[D]\nAnd if you\n[Em7]want you can breathe on your own\n[C]This isn't what I\n[D]thought but it's beautiful\n[C]Make peace with your mistakes\nand they'll turn to gold\nWeightless, I let\n[G]And everybody gon'\n\n[Chorus]\n[C]run, [D]run [Em7]\nEverybody gon'\n[C]run, [D]run [Em7]\n[G]And you [C]can\ncall it what [D]you want But [Em7]I\ncall it moving on And I'm so\n[Am]done [G]with [D]singing\nwords I don't believe in no more\n\n[Break]\n[C]  [D]  [Em7]\nNo more\n[C]  [D]  [Em7]\n[C]  [D]  [Em7]\n[C]  [D]  [Em7]\n\n[Outro]\n[C]  [D]  [Em7]\nNo more\n[C]  [D]  [Em7]\nCall it what you want [G][C]Call\nwhat you [D]want But [Em7]I\ncall it growing up and I'm\n[Am]done [G][C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022033",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "gold",
+  "id": "c11af3affd95bf958b9b5ae2b962a5cc8d84d08d14b68238178fadf08d9115c9",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 262,
+  "normalizedKey": "eden|gold",
+  "playableChords": [
+    "C",
+    "D",
+    "Em7",
+    "Am",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Break"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Break"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c11af3affd95bf958b9b5ae2b962a5cc8d84d08d14b68238178fadf08d9115c9",
+    "version": "BCFZ"
+  },
+  "tempo": 97,
+  "title": "gold",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

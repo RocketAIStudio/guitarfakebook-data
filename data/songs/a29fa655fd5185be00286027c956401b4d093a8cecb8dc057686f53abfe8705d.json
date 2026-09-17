@@ -1,0 +1,134 @@
+{
+  "artist": "Elvis Presley",
+  "artistNormalized": "elvis presley",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E]\n[C#m]\n[E]\n[C#m]\n[E]\n[C#m]\n\n[Verse 1]\n[E]The way she\n[C#m]walks,\n[E]The way she\n[C#m]talks\n[E]How long can\n[C#m]I pre-\n[B]tend\nOh\n\n[Chorus]\n[A]I can't\n[B]help I'm in\n[E]love\n[C#m]With the\n[A]girl of\nmy best\n[B]friend\n\n[Verse 2]\n[E]Her love ly\n[C#m]hair,\n[E]Her skin so\n[C#m]fair\n[E]I could go\n[C#m]on and never\n[B]end\nOh\n\n[Chorus]\n[A]I can't\n[B]help I'm in\n[E]love\n[C#m]With the\n[A]girl of\n[B]my best\n[E]friend\n[E7]\n\n[Bridge]\n[A]I want to\n[B]tell her How I\n[E]love her\n[C#m]so And\n[B]hold her\nin my arms, but\n[E]then\n[E7]\n[A]What if she\n[B]got real mad and\n[E]told him\n[C#m]so I could\n[F#]never face\neither one a-\n[B]gain\nOh\n\n[Verse 3]\n[E]The way they\n[C#m]kiss\n[E]Their hap pi -\n[C#m]ness\n[E]Will my ache in\n[C#m]heart ever\n[B]mend?\nOr\n\n[Chorus]\n[A]will I\n[B]always be in\n[E]love\n[C#m]With the\n[A]girl of\n[B]my best\n[E]friend?\n[C#m]\n\n[Outro]\n[E]Ne ver\n[C#m]end,\n[E]Will it e ver\n[C#m]end?\n[E]Please let it\n[C#m]end",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Girl Of My Best Friend",
+  "id": "a29fa655fd5185be00286027c956401b4d093a8cecb8dc057686f53abfe8705d",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 145,
+  "normalizedKey": "elvis presley|the girl of my best friend",
+  "playableChords": [
+    "E",
+    "C#m",
+    "B",
+    "A",
+    "E7",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Bridge"
+    },
+    {
+      "measure": 56,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 64,
+      "name": "Chorus"
+    },
+    {
+      "measure": 72,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a29fa655fd5185be00286027c956401b4d093a8cecb8dc057686f53abfe8705d",
+    "version": "BCFZ"
+  },
+  "tempo": 133,
+  "title": "The Girl Of My Best Friend",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

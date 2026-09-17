@@ -1,0 +1,107 @@
+{
+  "artist": "Deftones",
+  "artistNormalized": "deftones",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D#5]\n[G5]\n[D#5]\n[G5]\n[D#5]\n[G5]\n[D#5]\n[G5]\nMy\n\n[Verse 1]\n[D#5]knife\nit's sharp\n[G5]and chrome\nCome\n[D#5]see\ninside my\n[G5]\nbones\n[D#5]All of\nthe fiends are\n[G5]on the block\nI'm the new\n[D#5]king\nI take\n[G5]the queen\nSee here\n[D#5]\nwe are\n[G5]all anemic\nIn here\n[D#5]anemic\nand sweet,\n[G5]so\nGo get your\n\n[Chorus]\n[G#5]knife, go get your knife\nAnd come\n[Cm]in\nSo go get your\n[G#5]knife, go get your knife\nAnd lay\n[Cm]down\nGo get your\n[G#5]knife, go get your knife\nNow kiss\n[Cm]me\n\n[Verse 2]\n[D#5]Ooh,\nI can float here\n[G5]forever\nIn this\n[D#5]room\nwe can't touch\n[G5]the floor\nin\n[D#5]here\nWe're all\n[G5]anemic\nIn here\n[D#5]anemic\nand sweet\n[G5]so\nGo get your\n\n[Chorus]\n[G#5]knife, go get your knife\nAnd come\n[Cm]in\nGo get your\n[G#5]knife, go get your knife\nAnd lay\n[Cm]down\nGo get your\n[G#5]knife, go get your knife\nAnd kiss\n[Cm]me\n\n[Interlude]\n[Gm]\n[Cm]\n[Gm]\n[Cm]\n[Gm]\n[Cm]\n[Gm]\n[Cm]\n[Gm]\n[Cm]\n[Gm]\n[Cm]\n[Gm]Oh,\nI could float here\n[Cm]forever\n[Gm]Oh,\nYou are e-\n[Cm]ver sweet\n\n[Bridge]\n[Gm]Oh,\nI could float here\n[Cm]forever\n[Gm]Oh,\nanemic and\n[Cm]sweet,\nso Go get your\n\n[Chorus]\n[G#5]knife, go get your knife\nAnd come\n[Cm]in\nGo get your\n[G#5]knife, go get your knife\nAnd lay\n[Cm]down\nGo get your\n[G#5]knife, go get your knife\nCan't feel\n[Cm]a thing\nGo get your\n[G#5]knife, go get your knife\nAnd kiss\n[Cm]me",
+  "diagrams": {
+    "Cm": {
+      "catalog": [
+        "7-8-x-10-x-x",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "D#5": {
+      "catalog": [
+        "33356x"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "8-8-8-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gm": {
+      "catalog": [
+        "7-7-10-x-x-x",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Knife Party *alt",
+  "id": "6a1644df07fb5e15f171ffa9f866d0d456b60eec2fb8f73a760de96e073a1112",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 210,
+  "normalizedKey": "deftones|knife party",
+  "playableChords": [
+    "D#5",
+    "G5",
+    "G#5",
+    "Cm",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 71,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Interlude"
+    },
+    {
+      "measure": 115,
+      "name": "Bridge"
+    },
+    {
+      "measure": 123,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6a1644df07fb5e15f171ffa9f866d0d456b60eec2fb8f73a760de96e073a1112",
+    "version": "BCFZ"
+  },
+  "tempo": 117,
+  "title": "Knife Party",
+  "tuning": "C G C F A D",
+  "variantRole": "alt"
+}

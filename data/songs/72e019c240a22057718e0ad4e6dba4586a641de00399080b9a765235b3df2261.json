@@ -1,0 +1,148 @@
+{
+  "artist": "Elvis Presley",
+  "artistNormalized": "elvis presley",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[C]\n[Am]\n[F]\n[G]  [Gaug]\n\n[Verse 1]\n[C]I'll\nbe a strong\n[Am]as a mountain,\nOr\n[F]weak as a\nwil low\n[C]tree,\n\n[Chorus]\n[C]Any-\n[C7]way you\n[F]want\n[D#dim7]me,\n[C]That's how I\n[G]will\n[C]be.\n\n[Verse 2]\n[C]I'll\nbe a tame\n[Am]as a baby,\nOr\n[F]wild as the\nra ging\n[C]sea,\n\n[Chorus]\n[C]Any-\n[C7]way you\n[F]want\n[D#dim7]me,\n[C]That's how I\n[G]will\n[C]be.\n[C7]\n\n[Bridge]\n[F]In your hand\nmy heart\n[C]is clay,\nTo\n[F]take and\nhold as you\n[C]may.\n[D7]I'm what you\nmake me, you've\non ly to\ntake me, And\nin your arms\nI will\n[G]stay. [Gaug]\n\n[Verse 3]\n[C]I'll be a\nfool or a\n[Am]wise man,\nMy\n[F]darling you\nhold the\n[C]key,\nYes,\n\n[Chorus]\n[C]any-\n[C7]way you\n[F]want\n[D#dim7]me,\n[C]That's how I\n[G]will\n[C]be,\n\n[Outro]\n[F]I will\n[C]be.",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D#dim7": {
+      "catalog": [
+        "xx1212"
+      ],
+      "catalogCount": 1
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gaug": {
+      "catalog": [
+        "xx5443"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Any Way You Want Me",
+  "id": "72e019c240a22057718e0ad4e6dba4586a641de00399080b9a765235b3df2261",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 118,
+  "normalizedKey": "elvis presley|any way you want me",
+  "playableChords": [
+    "C",
+    "Am",
+    "F",
+    "G",
+    "Gaug",
+    "C7",
+    "D#dim7",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 68,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "72e019c240a22057718e0ad4e6dba4586a641de00399080b9a765235b3df2261",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Any Way You Want Me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

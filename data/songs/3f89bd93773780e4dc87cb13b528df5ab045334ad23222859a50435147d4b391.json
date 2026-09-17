@@ -1,0 +1,126 @@
+{
+  "artist": "Death Cab for Cutie",
+  "artistNormalized": "death cab for cutie",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[B]It's gotten late\n[Abm7]And now I want\n[E]to be alone\n[B]\nAll of our friends\n[Abm7]were here, They all\n[E]have gone home\n[B]And here I sit\n\n[Chorus]\n[Eb]on the front\n[E]porch Watching the drunks\n[Dbm]Stumble forth\n[Em]into the night\n\n[Verse 2]\n[B]\"You gave me a heart\n[Abm7]attack, I did\n[E]not see you there.\n[B]\nI thought you had dis-\n[Abm7]appeared So ear-\n[E]ly away from here.\"\n[B]And this is the\n\n[Chorus]\n[Eb]chance I never got\n[E]To make a move.\n[Dbm]But we just talk\n[Em]about The\n\n[Bridge]\n[Dbm]people we've [E]met in the last\n[B]five years. And\n[Dbm]will [E]remember them in\n[B]ten more?\n\n[Verse 3]\n[B]I let you bum\n[Abm7]a smoke, You quit\n[E]this winter past.\n[B]\nI've tried twice\n[Abm7]before But like this,\n[E]it just will not\n[B]last.\n\n[Outro]\n[Dbm]  [E]\n[B]\n[Dbm]  [E]\n[B]",
+  "diagrams": {
+    "Abm7": {
+      "catalog": [
+        "464444",
+        "x-x-6-8-7-7",
+        "x-11-13-11-12-11",
+        "16-18-16-16-16-16",
+        "x-x-18-20-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "799877",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Dbm": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Steadier Footing",
+  "id": "3f89bd93773780e4dc87cb13b528df5ab045334ad23222859a50435147d4b391",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 133,
+  "normalizedKey": "death cab for cutie|steadier footing",
+  "playableChords": [
+    "B",
+    "Abm7",
+    "E",
+    "Eb",
+    "Dbm",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3f89bd93773780e4dc87cb13b528df5ab045334ad23222859a50435147d4b391",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Steadier Footing",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

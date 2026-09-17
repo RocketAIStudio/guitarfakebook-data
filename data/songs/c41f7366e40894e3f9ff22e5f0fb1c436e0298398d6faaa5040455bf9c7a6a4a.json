@@ -1,0 +1,117 @@
+{
+  "artist": "Daft Punk",
+  "artistNormalized": "daft punk",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Bbmaj7]\n[Am7]\n[Dm9]\n[Gadd9]\n[Bbmaj7]\n[A7]\n[Am7/D]\n[F6/G]\n[Bbmaj7]\n[Am7]\n[Dm9]\n[Gadd9]\n[Bbmaj7]\n[A7]\n[Am7/D]\n[F6/G]\n[Bbmaj7]\n[Am7]\n[Dm9]\n[Gadd9]\n[Bbmaj7]\n[A7]\n[Am7/D]\n[F6/G]\n[Bbmaj7]\n[Am7]\n[Dm9]\n[Gadd9]\n[Bbmaj7]\n[A7]\n[Am7/D]\n[F6/G]\n\n[Verse 1]\n[Bbmaj7]It might not be the\n[Am7]right time\n[Dm9]I might not be the\n[Gadd9]right one But there's\n[Bbmaj7]something about us I\n[A7]want to say Cause there's\n[Am7/D]something between us anyway\n[F6/G]\n\n[Verse 2]\n[Bbmaj7]I might not be the\n[Am7]right one\n[Dm9]It might not be the\n[Gadd9]right time But there's\n[Bbmaj7]something about us I've\n[A7]got to do\n[Am7/D]Some kind of secret I will\n[F6/G]share with you\n\n[Chorus]\n[Bbmaj7]I need you more than any-\n[Am7]thing in my life\n[Dm9]I want you more than any-\n[Gadd9]thing in my life\n[Bbmaj7]I'll miss you more than any-\n[A7]one in my life\n[Am7/D]I love you more than any-\n[F6/G]one in my life\n\n[Solo]\n[Bbmaj7]\n[Am7]\n[Dm9]\n[Gadd9]\n[Bbmaj7]\n[A7]\n[Am7/D]\n[F6/G]\n[Bbmaj7]\n[Am7]\n[Dm9]\n[Gadd9]\n[Bbmaj7]\n[A7]\n[Am7/D]\n[F6/G]\n[Bbmaj7]\n[Am7]\n[Dm9]\n[Gadd9]\n[Bbmaj7]\n[A7]\n[Am7/D]\n[F6/G]\n[Bbmaj7]\n[Am7]\n[Dm9]\n[Gadd9]\n\n[Fade Out]\n[Bbmaj7]\n[A7]\n[Am7/D]\n[F6/G]\n[Bbmaj7]\n[Am7]\n[Dm9]\n[Gadd9]\n[Bbmaj7]\n[A7]\n[Am7/D]\n[F6/G]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am7/D": {
+      "catalog": [
+        "x57584"
+      ],
+      "catalogCount": 1
+    },
+    "Bbmaj7": {
+      "catalog": [
+        "x13231",
+        "6-5-3-3-3-5",
+        "6-8-7-7-6-6",
+        "x-x-8-10-10-10",
+        "x-13-12-10-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm9": {
+      "catalog": [
+        "x53550"
+      ],
+      "catalogCount": 1
+    },
+    "F6/G": {
+      "catalog": [
+        "300211"
+      ],
+      "catalogCount": 1
+    },
+    "Gadd9": {
+      "catalog": [
+        "32023x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Something About Us",
+  "id": "c41f7366e40894e3f9ff22e5f0fb1c436e0298398d6faaa5040455bf9c7a6a4a",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 114,
+  "normalizedKey": "daft punk|something about us",
+  "playableChords": [
+    "Bbmaj7",
+    "Am7",
+    "Dm9",
+    "Gadd9",
+    "A7",
+    "Am7/D",
+    "F6/G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 85,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c41f7366e40894e3f9ff22e5f0fb1c436e0298398d6faaa5040455bf9c7a6a4a",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Something About Us",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

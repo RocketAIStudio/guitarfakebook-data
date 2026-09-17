@@ -1,0 +1,114 @@
+{
+  "artist": "EDEN",
+  "artistNormalized": "eden",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E]\nThe water was cool,\n\n[Verse 1]\n[E]and you're shining\n[Emaj7]The windows were burn-\n[D#dim/A]ing patterns in my mind\n[Aadd#11]Running away\n[E]was so tiring\n[Emaj7]Holding your stare,\n[D#dim/A]I felt miles behind\n[Aadd#11]And how do you love\n[E]when you're frightened?\n[Emaj7]The thought of me fuck-\n[D#dim/A]ing up all these threads\n[Aadd#11]Situations I know\n[E]are just passing\n[Emaj7]I'm holding on\n[D#dim/A]for you,\n[Aadd#11]and static feel\n\n[Chorus]\n[E]The light\nran down the wall\n[G#]Hold-\ning back the stars\n[B]Divi-\nding us in new\n[D#dim/A]ways\n[Aadd#11]Away from sleep\n[E]Confu-\nsion has its cost\n[G#]Wave\npools in the dark\n[B]Crash-\ning 'round my head\n[D#dim/A]\n[Aadd#11]\n\n[Bridge]\nThe water was cool,\n\n[Verse 2]\n[E]and you're shining\n[Emaj7]The windows were burn-\n[D#dim/A]ing patterns in my mind\n[Aadd#11]Running away\n[E]was so tiring\n[Emaj7]Holding your stare,\n[D#dim/A]I slipped miles behind\n[Aadd#11]And how do you love\n[E]when you're frightened?\n[Emaj7]The thought of me fuck-\n[D#dim/A]ing up all these threads\n[Aadd#11]Situations I know\n[E]are just passing\n[Emaj7]I'm holding on\n[D#dim/A]for you,\n[Aadd#11]and how to sleep\n\n[Chorus]\n[E]The light\nran down the wall\n[G#]Hold-\ning back the stars\n[B]Divi-\nding us in new\n[D#dim/A]ways\n[Aadd#11]Away from sleep\n[E]Confu-\nsion has its cost\n[G#]Wave\npools in the dark\n[B]Crash-\ning 'round my head\n[D#dim/A]\n[Aadd#11]\n\n[Outro]",
+  "diagrams": {
+    "Aadd#11": {
+      "catalog": [
+        "x01220"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "D#dim/A": {
+      "catalog": [
+        "x0124x"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Emaj7": {
+      "catalog": [
+        "021100",
+        "x-x-2-4-4-4",
+        "x-7-6-4-4-4",
+        "x-7-9-8-9-7",
+        "12-11-9-9-9-11"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "how to sleep",
+  "id": "64272460b188a3062f1a8292d722d7f2da498cd4d553453a8efcd2cb65722e1a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 228,
+  "normalizedKey": "eden|how to sleep",
+  "playableChords": [
+    "E",
+    "Emaj7",
+    "D#dim/A",
+    "Aadd#11",
+    "G#",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "64272460b188a3062f1a8292d722d7f2da498cd4d553453a8efcd2cb65722e1a",
+    "version": "BCFZ"
+  },
+  "tempo": 117,
+  "title": "how to sleep",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

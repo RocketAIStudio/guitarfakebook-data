@@ -1,0 +1,123 @@
+{
+  "artist": "Death Cab for Cutie",
+  "artistNormalized": "death cab for cutie",
+  "capo": "2",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n[G]\n[Cmaj7]\n[Em]\n[G]\n[Cmaj7]\n\n[Verse 1]\n[Em]The glove\ncompartment\n[G]is inac\ncurately named\n[Cmaj7]And e\nverybody knows it\n[Em]So I'm\nproposing\n[G]a swift\norderly change\n[Cmaj7]\n'Cause behind its door,\n\n[Chorus]\n[G]there's nothing to keep\n[Am7]my fingers warm\n[Cmaj7]And all I find\n[G]are souvenirs\n[Am7]from better times\n[Cmaj7]Before the gleam\n[G]of your tail\n[Am7]lights fading east\n[Cmaj7]To find\n[G]yourself\n[Am7]a better life\n\n[Bridge]\n[Em]\n[G]\n[Cmaj7]\n\n[Verse 2]\n[Em]I\nwas searching\n[G]for some le\ngal document\n[Cmaj7]As the rain\nbeat down on the hood\n[Em]When I stum\nbled upon\n[G]pictures I\ntried to forget\n[Cmaj7]\n[Em]And that's how\nthis idea\n[G]was drilled\ninto my head\n[Cmaj7]\n[Em]'Cause it's too\nimportant\n[G]to stay\nthe way it's been\n[Cmaj7]\n\n[Chorus]\n[Em]There's no blame\n[G]for how our love\n[Am7]did slowly fade\n[Cmaj7]And now that gone,\n[G]it's like it was\n[Am7]n't there at al\n[Cmaj7]l And here I rest\n[G]where disappoint\n[Am7]ment and regret\n[Cmaj7]collide\n[G]Ly-\n[Am7]ing awake at night\n\n[Solo]\n[Em]\n[C]\n[Am7]\n[Em]\n[C]\n[Am7]\n[Em]\n[Cmaj7]There's no blame\n\n[Chorus]\n[G]for how our love\n[Am7]did slowly fade\n[Cmaj7]And now that gone,\n[G]it's like it was\n[Am7]n't there at al\n[Cmaj7]l And here I rest\n[G]where disappoint\n[Am7]ment and regret\n[Cmaj7]collide\n[G]Ly-\n[Am7]ing awake at night\n[Cmaj7]All\n[G]night When I ly-\n[Am7]ing awake at night\n\n[Outro]\n[Cmaj7]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "title and registration",
+  "id": "43c9b2d6989191c5809be9ba269922c59e163fbbdf6a99de1e82697e473868d9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 238,
+  "normalizedKey": "death cab for cutie|title and registration",
+  "playableChords": [
+    "Em",
+    "G",
+    "Cmaj7",
+    "Am7",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Solo"
+    },
+    {
+      "measure": 83,
+      "name": "Chorus"
+    },
+    {
+      "measure": 97,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "43c9b2d6989191c5809be9ba269922c59e163fbbdf6a99de1e82697e473868d9",
+    "version": "BCFZ"
+  },
+  "tempo": 114,
+  "title": "title and registration",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

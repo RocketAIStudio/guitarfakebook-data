@@ -1,0 +1,123 @@
+{
+  "artist": "Elvis Presley",
+  "artistNormalized": "elvis presley",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]\nWell,\n\n[Verse 1]\n[A]that's all right, ma-\nma That's\nall right with you\nThat's all right ma-\nma, just\nanyway you\n[A7]do Well, that's all\n\n[Chorus]\n[D7]right,\nthat's all\nright.\nThat's all\n[E]right [E7]now\n[E]mama, [E7]\n[E7][E]any-\n[E]way you [E7]do\n[A]\nWell\n\n[Verse 2]\n[A]Mama she done told\nme, Pa-\npa done told me\ntoo\n'Son, that gal your\nfoolin' with, She ain't\nno good for\n[A7]you' But, that's all\n\n[Chorus]\n[D7]right,\nthat's all\nright.\nThat's all\n[E]right [E7]now\n[E]mama, [E7]\n[E7][E]any-\n[E]way you [E7]do\n[A]\n\n[Solo]\n[A]\n[A7]\n[D7]\n[E]  [E7]\n[E]  [E7]\n[E]  [E7]\n[E]  [E7]\n[A7]\n[A]\nI'm\n\n[Verse 3]\n[A]leaving town, ba-\nby I'm lea-\nving town for sure\nWell,\nthen you won't be\nbothered with Me\nhanging 'round your\n[A7]door Well, that's all\n\n[Chorus]\n[D7]right,\nthat's all\nright.\nThat's all\n[E]right [E7]now\n[E]mama, [E7]\n[E7][E]any-\n[E]way you [E7]do\n[A]\nAh dadda di-\ndidi-\ndi\nDididi-\ndi\nDididi-\n[A7]di I don't need your lo-\n[D7]ving,\nthat's all\nright.\nThat's all\n[E]right [E7]now\n[E]mama, [E7]\n[E7][E]any-\n[E]way [E7]you do\n[A]\n\n[Outro]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02223",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "That's All Right, Mama",
+  "id": "546a72e214e2048e05f5831779548d570514300854b5da1dde1310cd563f6e30",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 163,
+  "normalizedKey": "elvis presley|that s all right mama",
+  "playableChords": [
+    "A",
+    "A7",
+    "D7",
+    "E",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Solo"
+    },
+    {
+      "measure": 62,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 70,
+      "name": "Chorus"
+    },
+    {
+      "measure": 96,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "546a72e214e2048e05f5831779548d570514300854b5da1dde1310cd563f6e30",
+    "version": "BCFZ"
+  },
+  "tempo": 205,
+  "title": "That's All Right, Mama",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

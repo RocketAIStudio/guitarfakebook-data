@@ -1,0 +1,100 @@
+{
+  "artist": "Ed Sheeran",
+  "artistNormalized": "ed sheeran",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Bm][G]Badaboom,\n[A]badabing You done knocked [F#m]me right off of my\n[Bm]feet [G]\n[A][F#m]Baby, I got the feels,\n\n[Chorus]\n[Bm]yeah [G]\n[A]Say that I'm out my mind, [F#m]but it's somethin' real\n[Bm][G]Somethin' real\n[A][F#m]Ooh, I got the feels,\n[Bm]yeah [G]\n[A]I waited most my life [F#m]for somethin' real\n[Bm]  [G]\n[A]Baby, I got the feels [F#m]for ya\n[Bm]  [G]\n[A]Baby, I got the feels for ya\n\n[Verse 1]\n[Bm]Jump into the crowd, leave your [G]hand in the sky, babe\n[A]No [F#m]hand, no nothin' Gotta\n[Bm]trust your crowd, gotta [G]land in the cloud, babe\n[A]Baby, I got that feel I don't know why you're\n[Bm]doin' this to me [G]I tried to tell 'em not to\n[A]do it this loud I tried to [F#m]tell 'em not to bust it out the\n[Bm]wrap' 'til we leave [G]I was thinkin' sui-\n[A]cide for the rivals [F#m]I done went and bought a\n[Bm]car with the title [G]Told the promoters have\n[A]her on the rider [F#m]Knockin' boots back-\n[Bm]stage at the Wireless [G]She contagious like\n[A]poison ivy Baby, I got the feels,\n\n[Chorus]\n[Bm]yeah [G]\n[A]Say that I'm out my mind, [F#m]but it's somethin' real\n[Bm][G]Somethin' real\n[A][F#m]Ooh, I got the feels,\n[Bm]yeah [G]\n[A]I waited most my life [F#m]for somethin' real\n[Bm]  [G]\n[A]Baby, I got the feels [F#m]for ya\n[Bm]  [G]\n[A]Baby, I got the feels [F#m]for ya\n\n[Verse 2]\n[Bm]Used to be Playboy [G]heartbreaker But for\n[A]you, I'll travel a [F#m]thousand acres When we\n[Bm]met, I told her I play [G]for Lakers One\n[A]day, we'll get married in Las Vegas I'm\n[Bm]good for your health, this [G]can't be a sin This\n[A]love give you protein [F#m]and vitamin\n[Bm]See you [G]wigglin', jigglin' If I\n[A]have a bite, will it taste like cinnamon?\n[Bm]This is one [G]in a million So I\n[A]never ever treat you [F#m]like Billie Jean Ain't\n[Bm]nothin' like anything I [G]ever really seen And\n[A]you give me this feel if you know what I mean Baby, I got the feels,\n\n[Outro]\n[Bm]yeah [G]Badaboom,\n[A]badabing You done knocked [F#m]me right off of my feet\n[Bm]Feels, yeah [G]\n[A][F#m]Baby, I got the feels,\n[Bm]yeah [G]\n[A]I waited most my life [F#m]for somethin' real\n[Bm]  [G]\n[A]Baby, I got the feels for ya",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Feels",
+  "id": "16db228f950aa6d32dcaf61a0d0e2666cf92d6841e932ed2056a35047db7229b",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 411,
+  "normalizedKey": "ed sheeran|feels",
+  "playableChords": [
+    "Bm",
+    "G",
+    "A",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "16db228f950aa6d32dcaf61a0d0e2666cf92d6841e932ed2056a35047db7229b",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "Feels",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

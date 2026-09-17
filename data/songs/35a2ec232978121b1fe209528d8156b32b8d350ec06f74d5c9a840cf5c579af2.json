@@ -1,0 +1,123 @@
+{
+  "artist": "Dinosaur Jr.",
+  "artistNormalized": "dinosaur jr",
+  "capo": "3",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n\n[Verse 1]\n[C]I\nfeel the pain of everyone\n[F]\n[C]Then\nI feel nothing\n[F]\n[C]I\nfeel the pain of everyone\n[F]\n[C]Then\nI feel nothing\n[F]\n\n[Bridge]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n\n[Verse 2]\n[C]I\nfeel the pain of everyone\n[F]\n[C]Then\nI feel nothing\n[F]\n[C]I\nfeel the pain of everyone\n[F]\n[C]Then\nI feel nothing\n[F]\n[C]\n[F]\n[C]\n[F]\n\n[Chorus]\n[Dm]Is\nit up to me?\n[G]\n[Em]You\nwon't wait to see\n[C]\n[G]Screwed\nus both again\n[Em]\n[G]About as\nclose as you\n[C]dare\n\n[Interlude]\n[C]\n[F]\n[C]\n[F]\n\n[Verse 3]\n[C]I\nfeel the pain of everyone\n[F]\n[C]Then\nI feel nothing\n[F]\n[C]\nI feel the pain of\n[F]everyone\n[C]\nThen I feel nothing\n[F]\n\n[Chorus]\n[Dm]Is\nit up to me?\n[G]\n[Em]You won't\nwait to see\n[C]\n[G]Screwed\nus both again\n[Em]\n[G]About as\nclose as you\n[C]dare\n[Dm]Hey\nnow, take it back\n[G]\n[Em]Get\noff me, you're sad\n[C]\n[G]Trailin' on\ny our scene\n[Em]\n[G]Just try\nand keep it\n[C]clean\n\n[Solo]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "x-8-10-10-10-8",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Feel The Pain *alt",
+  "id": "35a2ec232978121b1fe209528d8156b32b8d350ec06f74d5c9a840cf5c579af2",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 121,
+  "normalizedKey": "dinosaur jr|feel the pain",
+  "playableChords": [
+    "C",
+    "F",
+    "Dm",
+    "G",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Interlude"
+    },
+    {
+      "measure": 89,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 105,
+      "name": "Chorus"
+    },
+    {
+      "measure": 137,
+      "name": "Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "35a2ec232978121b1fe209528d8156b32b8d350ec06f74d5c9a840cf5c579af2",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "Feel The Pain",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

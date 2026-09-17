@@ -1,0 +1,121 @@
+{
+  "artist": "Death",
+  "artistNormalized": "death",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G5]\n[F5]\n[D#5]\n[D5]\n[G5]\n[F5]\n[D#5]\n[D5]\n[G5]\n\n[Bridge]\n\n[Verse 1]\n[C5]Trapped in-\n[D5]side\n[D#5]Life which is\n[D5]yours\n[C5]Spirits wi-\n[D5]thin\n[D#5]causing terror\n[D5]Fear and darkness\n\n[Chorus]\n[G5]Evil\ndead\nEvil\ndead\n\n[Verse 2]\n[C5]Voice speaks\n[D5]out\n[D#5]All die to-\n[D5]night\n[C5]Insa-\n[D5]nity\n[D#5]fills your mind You\n[D5]hear them calling\n\n[Chorus]\n[G5]Evil\ndead\nEvil\ndead\n\n[Solo]\n[C5]\n[D5]\n[D#5]\n[D5]\n[C5]\n[D5]\n[D#5]\n[D5]\n[G5]\n[C5]\n[D5]\n[D#5]\n[D5]\n[C5]\n[D5]\n[D#5]\n[D5]\n\n[Bridge]\n[G5]\n\n[Break]\n\n[Bridge]\n\n[Verse 3]\n[C5]Covered in\n[D5]blood\n[D#5]All hope is\n[D5]lost Fo-\n[C5]rever to\n[D5]rot\n[D#5]Controlled by the\n[D5]powers of the\n\n[Chorus]\n[G5]Evil\ndead\nEvil\ndead\n\n[Outro]\n[C5]\n[D5]\n[D#5]\n[D5]\n[C5]\n[D5]\n[D#5]\n[D5]\n[G5]",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "133xxx",
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "D5": {
+      "catalog": [
+        "022xxx",
+        "x799xx"
+      ],
+      "catalogCount": 2
+    },
+    "F5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Evil Dead *alt",
+  "id": "07c2d5d80f9ae53211ad7627f4a0b5c5ce19403fb513f6d762a8e4b391372780",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 72,
+  "normalizedKey": "death|evil dead",
+  "playableChords": [
+    "G5",
+    "F5",
+    "D#5",
+    "D5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 20,
+      "name": "Bridge"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 44,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 68,
+      "name": "Solo"
+    },
+    {
+      "measure": 92,
+      "name": "Bridge"
+    },
+    {
+      "measure": 102,
+      "name": "Break"
+    },
+    {
+      "measure": 110,
+      "name": "Bridge"
+    },
+    {
+      "measure": 118,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 126,
+      "name": "Chorus"
+    },
+    {
+      "measure": 134,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "07c2d5d80f9ae53211ad7627f4a0b5c5ce19403fb513f6d762a8e4b391372780",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "Evil Dead",
+  "tuning": "D G C F A D",
+  "variantRole": "alt"
+}

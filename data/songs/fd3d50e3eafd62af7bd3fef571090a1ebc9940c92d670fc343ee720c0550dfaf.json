@@ -1,0 +1,84 @@
+{
+  "artist": "Doom",
+  "artistNormalized": "doom",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[B5]  [A5]  [G5]\n[F5]\n[B5]  [A5]  [G5]\n[F5]\n\n[Verse 1]\n[B5]Clause [G5][A5]twenty\n[F5]eight\n[B5]Clause [G5][A5]twenty\n[F5]eight\n\n[Bridge]\n[B5]  [A5]  [G5]\n[F5]\n[B5]  [A5]  [G5]\n[F5]\n\n[Pre-Verse]\n[B5]  [A5]  [G5]\n[F5]\n[B5]  [A5]  [G5]\n[F5]\n\n[Verse 2]\n[B5]Clause [G5][A5]twenty\n[F5]eight\n[B5]Clause [G5][A5]twenty\n[F5]eight\n\n[Outro]\n[B5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Life In Freedom, Governed By Love",
+  "id": "fd3d50e3eafd62af7bd3fef571090a1ebc9940c92d670fc343ee720c0550dfaf",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 20,
+  "normalizedKey": "doom|life in freedom governed by love",
+  "playableChords": [
+    "B5",
+    "A5",
+    "G5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Bridge"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fd3d50e3eafd62af7bd3fef571090a1ebc9940c92d670fc343ee720c0550dfaf",
+    "version": "BCFZ"
+  },
+  "tempo": 242,
+  "title": "Life In Freedom, Governed By Love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

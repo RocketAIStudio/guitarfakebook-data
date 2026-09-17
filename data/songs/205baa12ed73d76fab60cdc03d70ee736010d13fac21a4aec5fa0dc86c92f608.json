@@ -1,0 +1,104 @@
+{
+  "artist": "Dashboard Confessional",
+  "artistNormalized": "dashboard confessional",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[D#5]So\nquiet Another wasted\n[Cm]night, The television\n[A#sus4]steals the conversation\n[D#5]Exhale,\nAnother wasted\n[Cm]breath, Again it goes un-\n[A#sus4]noticed.\n\n[Chorus]\n[D#5]Please tell me\n[A#sus4]you're just feeling\n[Cm]tired Cause if it's\n[G#5]more than that I feel that I might\n[D#5]break Out of\n[A#sus4]touch, out o-\n[Cm]f time.\n[G#5]\n[D#5]Please send me\n[A#sus4]anything but signals that a-\n[Cm]re mixed Cause\n[G#5]I can't read your rolling\n[D#5]eyes Out of\n[A#sus4]touch, are we out o-\n[Cm]f time?\n[G#5]\n\n[Verse 2]\n[D#5]Close lipped\nAnother goodnight\n[Cm]kiss Is robbed of all it's\n[A#sus4]passion,\n[D#5]Your grip\nAnother time, is\n[Cm]slack It leaves me feeling\n[A#sus4]empty.\n\n[Chorus]\n[D#5]Please tell me\n[A#sus4]you're just feeling\n[Cm]tired Cause if it's\n[G#5]more than that I feel that I might\n[D#5]break Out of\n[A#sus4]touch, out o-\n[Cm]f time.\n[G#5]\n[D#5]Please send me\n[A#sus4]anything but signals that a-\n[Cm]re mixed Cause\n[G#5]I can't read your rolling\n[D#5]eyes Out of\n[A#sus4]touch, are we out o-\n[Cm]f time?\n[G#5]\n\n[Bridge]\n[F5]I'll wait until to-\n[G#5]morrow Maybe you'll feel\n[D#5]better then Maybe we'll be\n[Gm/D]better then\n[F5]So what's another\n[G#5]day When I can't bear these\n[D#5]nights of thoughts Of going on wi-\n[Gm/D]thout you\n[F5]This mood of yours is\n[G#5]temporary It seems\n[D#5]worth the wait to see your smile a-\n[Gm/D]gain\n[F5]Out of the\n[G#5]corner of my eye Won't be the\n[D#5]only way You're looking at me\n[Gm/D]then.\n\n[Outro]\n[D#5]So quiet\nAnother wasted\n[Cm]night, The television\n[A#sus4]steals the conversation\n[D#5]Exhale,\nAnother wasted\n[Cm]breath, Again it goes un-\n[A#sus4]noticed.\n[D#5]",
+  "diagrams": {
+    "A#sus4": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "Cm": {
+      "catalog": [
+        "x24400",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "D#5": {
+      "catalog": [
+        "000000",
+        "x57744",
+        "x57777"
+      ],
+      "catalogCount": 3
+    },
+    "F5": {
+      "catalog": [
+        "222222"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "550000"
+      ],
+      "catalogCount": 1
+    },
+    "Gm/D": {
+      "catalog": [
+        "x47444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Again I Go Unnoticed *alt",
+  "id": "205baa12ed73d76fab60cdc03d70ee736010d13fac21a4aec5fa0dc86c92f608",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 296,
+  "normalizedKey": "dashboard confessional|again i go unnoticed",
+  "playableChords": [
+    "D#5",
+    "Cm",
+    "A#sus4",
+    "G#5",
+    "F5",
+    "Gm/D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "205baa12ed73d76fab60cdc03d70ee736010d13fac21a4aec5fa0dc86c92f608",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "Again I Go Unnoticed",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

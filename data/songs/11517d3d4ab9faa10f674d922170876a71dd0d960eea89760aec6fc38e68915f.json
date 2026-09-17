@@ -1,0 +1,127 @@
+{
+  "artist": "David Bowie",
+  "artistNormalized": "david bowie",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]\n[Dm]\n[F]\n[Dm]We passed upon the\n\n[Verse 1]\n[A]stair We\nspoke of was and when\n[Dm]Alth-\nough I wasn't the-\n[A]re He\nsaid I was his friend\n[F]Which\ncame as some surpri-\n[C]se I\nspoke into his\n[A]eyes I thought you died a-\n[Dm]lone A-\nlong long time a-\n[C]go\nOh n-\n\n[Chorus]\n[C]o, not m-\n[F]e I\n[Bbm]never lost contro-\n[F]l You're fa-\n[C]ce to fa-\n[F]ce With the\n[Bbm]man who sold the wo-\n\n[Bridge]\n[A]rld\n[Dm]\n[F]\n[Dm]I laughed and shook his\n\n[Verse 2]\n[A]hand And\nmade my way back home\n[Dm]I\nsearched for form and la-\n[A]nd For\nyears and years I roamed\n[F]I\ngazed a gazley sta-\n[C]re At\nall the millions\n[A]here We must have died a-\n[Dm]lone A\nlong long time a-\n[C]go\nWho kno-\n\n[Chorus]\n[C]ws Not m-\n[F]e We\n[Bbm]never lost cont-\n[F]rol You're fa-\n[C]ce to fa-\n[F]ce With the\n[Bbm]man who sold the wo-\n\n[Bridge]\n[A]rld\n[Dm]\n[F]\n[Dm]\nWho kno-\n\n[Chorus]\n[C]ws Not m-\n[F]e We\n[Bbm]never lost con-\n[F]trol You're fa-\n[C]ce to fa-\n[F]ce With the\n[Bbm]man who sold the wo-\n\n[Bridge]\n[A]rld\n[Dm]\n[F]\n[Dm]\n\n[Outro]\n[A]Ah-\nah\n[Dm]ah-\nah\n[F]ah-\nah\n[Dm]ahah-\nah\n[A]ah-\nah\n[Dm]Ah-\nah\n[F]ah-\nah\n[Dm]ahah-\nah\n[A]ah-\nah\n[Dm]ah-\nah\n[F]Ah-\nah\n[Dm]ahah-\nah\n[A]ah-\nah\n[Dm]ah-\nah\n[F]ah-\nah\n[Dm]Ahah-\nah\n[A]ah-\nah\n[Dm]ah-\nah\n[F]ah-\nah\n[Dm]ahah-\nah",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm": {
+      "catalog": [
+        "x13321",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13",
+        "18-20-20-18-18-18"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Man Who Sold The World *alt",
+  "id": "11517d3d4ab9faa10f674d922170876a71dd0d960eea89760aec6fc38e68915f",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 239,
+  "normalizedKey": "david bowie|the man who sold the world",
+  "playableChords": [
+    "A",
+    "Dm",
+    "F",
+    "C",
+    "Bbm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Bridge"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Bridge"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Bridge"
+    },
+    {
+      "measure": 82,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "11517d3d4ab9faa10f674d922170876a71dd0d960eea89760aec6fc38e68915f",
+    "version": "BCFZ"
+  },
+  "tempo": 116,
+  "title": "The Man Who Sold The World",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

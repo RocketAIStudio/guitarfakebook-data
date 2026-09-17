@@ -1,0 +1,114 @@
+{
+  "artist": "Dia Psalma",
+  "artistNormalized": "dia psalma",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G5]  [C5]  [G5]\n[Eb5]  [D5]\n[G5]  [C5]  [G5]\n[Eb5]  [D5]  [G5]\n[G5]  [C5]  [G5]\n[Eb5]  [D5]\n[G5]  [C5]  [G5]\n[Eb5][D5][G5]Det\n\n[Verse 1]\n[G5]var en [D5]liten [Bb5]flicka [F5]som en\n[Bb5]dag i [D5]skona [G5]maj, Skulle\n[G5]ga och [D5]hamta [Bb5]vatten [F5]men\n[Bb5]hon var [D5]lite [G5]skraj. Hade\n\n[Bridge]\n[G5]hort de vuxna [G5][C5]tala om vem som\n[C5]bodde [G5]nere i [F5]an, Son\n[G5]ville inte [C5]ga [G5]men hon\n[Eb5]vagade [D5]inte saga [G5]ifran. Nar\n\n[Verse 2]\n[G5]hon kom [D5]fram till [Bb5]an horde [F5]hon den\n[D5][Bb5]vackraste [G5]musik, Hon\n[G5]stallde [D5]sig att [Bb5]lyssna [F5]ingen\n[Bb5]ton var den [D5]andra [G5]lik. Maste\n\n[Bridge]\n[G5]bara smyga [C5]fram och [G5]se, vem\n[G5][C5]musikanten [F5]var. Den\n[G5]mannska som [C5]hanterar [G5]felan\n[Eb5]sa maste [D5]va [G5]underbar.\n\n[Chorus]\n[Eb5]Elsa blev bara [Bb5]atta ar,\n[C5]Hon ar dod nu [G5]som ni nog forstar.\n[Eb5]Elsa blev bara [Bb5]atta ar,\n[G5]Hon kommer aldrig [D5]mera att [G5]vakna.\n\n[Interlude]\n[G5]  [C5]  [G5]\n[Eb5]  [D5]\n[G5]  [C5]  [G5]\n[Eb5]  [D5]  [G5]\n[G5]  [C5]  [G5]\n[Eb5]  [D5]\n[G5]  [C5]  [G5]\n[Eb5][D5][G5]Dar\n\n[Verse 3]\n[D5][G5]nere vid [Bb5]vattnet [F5]satt en\n[Bb5]pojke [D5]ung och [G5]grann, Han\n[G5]sa kom [D5]hit lilla [Bb5]flicka [F5]sa vi far\n[Bb5]halsa [D5]pa [G5]varann. En\n\n[Bridge]\n[G5]vat arm kring en [C5]liten [G5]hals sen\n[C5]bada [G5]tva [F5]forsvann,\n[G5]Och den lilla [G5][C5]flickan man\n[Eb5]sedan [D5]aldrig [G5]fann.\n\n[Chorus]\n[Eb5]Elsa blev bara [Bb5]atta ar,\n[C5]Hon ar dod nu [G5]som ni nog forstar.\n[Eb5]Elsa blev bara [Bb5]atta ar,\n[G5]Hon kommer aldrig [D5]mera att [G5]vakna.\n[G5]Hon kommer aldrig [D5]mera att [G5]vakna.\n[G5]Hon kommer aldrig [D5]mera att [G5]vakna.",
+  "diagrams": {
+    "Bb5": {
+      "catalog": [
+        "x133xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "111xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "balladen om lilla elsa *alt",
+  "id": "e03513fb78aa29445316be982515bd82026bd786874ce48b667d5110f661224a",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 261,
+  "normalizedKey": "dia psalma|balladen om lilla elsa",
+  "playableChords": [
+    "G5",
+    "C5",
+    "Eb5",
+    "D5",
+    "Bb5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Bridge"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Interlude"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e03513fb78aa29445316be982515bd82026bd786874ce48b667d5110f661224a",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "balladen om lilla elsa",
+  "tuning": "D A D G B E",
+  "variantRole": "alt"
+}

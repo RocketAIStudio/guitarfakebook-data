@@ -1,0 +1,85 @@
+{
+  "artist": "EDEN",
+  "artistNormalized": "eden",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Chorus]\n[Bm7]Tide rushing in\n[Gmaj7]to me, two me 'Til I,\n[Bm7]can breathe easy on my\n[Gmaj7]knees\n[Bm7]Comes falling sins,\n[Gmaj7]I've been, been, I\n[Bm7]Living easy on my\n[Gmaj7]knees, on my\n\n[Verse 1]\n[Em7]Concaving in the back\n[Gmaj7]Days slipping through the cracks\n[Bm7]Call for you in the back, I'll\n[Gmaj7]become stoic if I have to\n[Bm7]Royce Rollin' in the back\n[Gmaj7]No phone is now a lux\n[Bm7]Heartbreaking in the past on\n[Gmaj7]me On me, on me\n\n[Pre-Chorus]\n[Em7]The still\n[Gmaj7]life projections of you\n[Bm7]Diffrac-\n[Gmaj7]ting through my skull 'til\n\n[Chorus]\n[Bm7]Tide rushing in\n[Gmaj7]to me, two me 'Til I,\n[Bm7]can breathe easy on my\n[Gmaj7]knees\n[Bm7]Comes falling sense,\n[Gmaj7]I've been, been, I been\n[Bm7]Living easy on my\n[Gmaj7]knees\n\n[Outro]\n[Em7]Breathe easy on me,\n[Gmaj7]yeah\n[Bm7]Sleep easy on me,\n[Gmaj7]on my",
+  "diagrams": {
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7": {
+      "catalog": [
+        "320002",
+        "3-5-4-4-3-3",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7",
+        "x-10-12-11-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "tides",
+  "id": "4a1f5dc7f8710874b0f19ff862dbc0fb1fd3f1566b454604dafe78b7e7e18a07",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 143,
+  "normalizedKey": "eden|tides",
+  "playableChords": [
+    "Bm7",
+    "Gmaj7",
+    "Em7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Chorus"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4a1f5dc7f8710874b0f19ff862dbc0fb1fd3f1566b454604dafe78b7e7e18a07",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "tides",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

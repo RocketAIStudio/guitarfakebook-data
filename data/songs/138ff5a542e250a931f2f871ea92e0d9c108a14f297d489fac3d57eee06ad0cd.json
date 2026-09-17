@@ -1,0 +1,68 @@
+{
+  "artist": "Dog Party",
+  "artistNormalized": "dog party",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[D5]Caf-\n\n[Chorus]\n[E5]feine\n[B5]La la [E5]la\n\n[Outro]\n[A5]Ah",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Caffeine",
+  "id": "138ff5a542e250a931f2f871ea92e0d9c108a14f297d489fac3d57eee06ad0cd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 6,
+  "normalizedKey": "dog party|caffeine",
+  "playableChords": [
+    "D5",
+    "E5",
+    "B5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Chorus"
+    },
+    {
+      "measure": 4,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "138ff5a542e250a931f2f871ea92e0d9c108a14f297d489fac3d57eee06ad0cd",
+    "version": "BCFZ"
+  },
+  "tempo": 233,
+  "title": "Caffeine",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

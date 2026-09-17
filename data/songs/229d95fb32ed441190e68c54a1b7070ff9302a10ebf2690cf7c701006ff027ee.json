@@ -1,0 +1,97 @@
+{
+  "artist": "Eddie Vedder",
+  "artistNormalized": "eddie vedder",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]Such is the way of the\nworld You can never\n[C]know\n[G]Just where to put all your\nfaith And how will it\n[C]grow\nGonna\n\n[Chorus]\n[D]rise up\n[G]Burning black holes in dark\n[C]memories\nGonna\n[D]rise up\n[G]Turning mistakes into\n[C]gold\n\n[Bridge]\n[G]\n[D]\n[C]\n[G]\n[D]\n[C]\n\n[Verse 2]\n[G]Such is the passage of\ntime Too fast to\n[C]fold\n[G]Suddenly swallowed by\nsigns Low and be-\n[C]hold\nGonna\n\n[Chorus]\n[D]rise up\n[G]Find my direction mag-\n[C]netically\nGonna\n[D]rise up\n[G]Throw down my ace in the\n[C]hole\n\n[Bridge]\n[D]\n[G]\n[C]\n[D]\n[G]\n[C]\n\n[Outro]\n[G]\n[D]\n[C]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rise",
+  "id": "229d95fb32ed441190e68c54a1b7070ff9302a10ebf2690cf7c701006ff027ee",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 94,
+  "normalizedKey": "eddie vedder|rise",
+  "playableChords": [
+    "G",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "229d95fb32ed441190e68c54a1b7070ff9302a10ebf2690cf7c701006ff027ee",
+    "version": "BCFZ"
+  },
+  "tempo": 173,
+  "title": "Rise",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,104 @@
+{
+  "artist": "Disturbed",
+  "artistNormalized": "disturbed",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F#m]\nHello darkness, my old\n\n[Verse 1]\n[E]friend\nI've come to talk with you\n[F#m]again\nBecause a vision softly\n[A][D]creeping\nLeft its seeds while I was\n[A][D]sleeping\nAnd the\n[D]vision that was\nplanted in my\n[A]brain Still\n[F#m]remains within the\n[E]sound of\n[F#m]silence\nIn restless dreams I walked a-\n\n[Verse 2]\n[E]lone\nNarrow streets of cobble-\n[F#m]stone\n'Neath the halo of a\n[D]street [A]lamp\nI turned my collar to the\n[D]cold and [A]damp\nWhen my\n[D]eyes were stabbed by the\nflash of a neon light\n[A]That split\n[F#m]the night [A]and touched the\n[E]sound of\n[F#m]silence\nAnd [E]in the [A]naked [F#m]light I\n\n[Verse 3]\n[E]saw\nTen thousand people, maybe\n[F#m]more\nPeople talking without\n[A][D]speaking\nPeople hearing without\n[A][D]listening People\nwriting\n[D]songs that\nvoices never shared\n[A]And no one\n[F#m]dared [A][A][F#m]disturb the\n[E]sound of\n[F#m]silence\n\"Fools\", said I, \"You do not\n\n[Verse 4]\n[E]know\nSilence like a cancer\n[F#m]grows\nHear my words that I might\n[D]teach [A]you\nTake my arms that I might\n[D]reach [A]you\"\nBut my\n[D]words like\nsilent raindrops fell\n[A]\n[F#m]And [A]echoed in the\n[E]wells of\n[F#m]silence\nAnd the people bowed and\n\n[Verse 5]\n[E]prayed\nTo the neon God\n[F#m]they made\nAnd the sign flashed out its\n[A][D]warning\nIn the words that it was\n[A][D]forming\nAnd the sign said \"The\n[D]words of the prophets are\nwritten on the subway walls\n[A]And tenement\n[F#m]halls\" [A]and\n[F#m]whispered in the\n[E]sound\nof silence\n\n[Outro]\n[F#m]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x32010",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx3211",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "320033",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "x02210",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sound of silence",
+  "id": "196921196c7db73efbb8c2e474ca3f28e7337850c80ca20be8e788bf0ebbb138",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 273,
+  "normalizedKey": "disturbed|sound of silence",
+  "playableChords": [
+    "F#m",
+    "E",
+    "D",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "196921196c7db73efbb8c2e474ca3f28e7337850c80ca20be8e788bf0ebbb138",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "Sound of silence",
+  "tuning": "C# F# B E G# C#",
+  "variantRole": "primary"
+}

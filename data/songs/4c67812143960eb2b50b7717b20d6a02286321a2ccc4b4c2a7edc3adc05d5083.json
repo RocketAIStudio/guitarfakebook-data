@@ -1,0 +1,121 @@
+{
+  "artist": "exploited",
+  "artistNormalized": "exploited",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D5]  [E5]  [D5]  [E5]\n[D5]  [E5]  [G5]  [F#5]\n[D5]  [E5]  [D5]  [E5]\n[D5]  [E5]  [G5]  [F#5]\n[D5]  [E5]  [D5]  [E5]\n[D5]  [E5]  [G5]  [F#5]\n[D5]  [E5]  [D5]  [E5]\n[D5]  [E5]  [G5]  [F#5]\n\n[Verse 1]\n[D5]Four [E5]white buttons [D5][E5]\n[D5]In [E5]the mist [G5][F#5]\n[D5]Hanging in [E5]a noose [D5][E5]While\n[D5]I [E5]get dressed [G5][F#5]\n[D5]Blown [E5]to bits [D5][E5]by\n[D5]an [E5]IRA bomb [G5][F#5]\n[D5]Weighing not [E5]too much more [D5][E5]than\n[D5]half [E5]a stone [G5][F#5]\n\n[Chorus]\n[B5]\n[C#5][A5]Blown to Bits\n[B5]\n[C#5]By [A5]an IRA bomb\n\n[Interlude]\n[D5]  [E5]  [D5]  [E5]\n[D5]  [E5]  [G5]  [F#5]\n[D5]  [E5]  [D5]  [E5]\n[D5]  [E5]  [G5]  [F#5]\n\n[Verse 2]\n[D5]Four [E5]white buttons [D5][E5]A\n[D5]dirty [E5]old man [G5][F#5]\n[D5]Had [E5]his own [D5][E5]am-\n[E5][D5]bitions [G5][F#5]\n[D5]In [E5]his day [D5][E5]\n[D5]To live with [E5]the queen [G5][F#5]And\n[D5]I [E5]should know [D5][E5]Cos\n[D5]I [E5]was there [G5][F#5]\n\n[Chorus]\n[B5]\n[C#5][A5]Blown to Bits\n[B5]\n[C#5]By [A5]an IRA bomb\n\n[Bridge]\n[E5]\n\n[Interlude]\n[D5]  [E5]  [D5]  [E5]\n[D5]  [E5]  [G5]  [F#5]\n[D5]  [E5]  [D5]  [E5]\n[D5]  [E5]  [G5]  [F#5]\n\n[Verse 3]\n[D5]That [E5]little boy [D5][E5]\n[D5]Is [E5]no more [G5][F#5]\n[D5]Feed [E5]him to the fish [D5][E5]For\n[D5]a [E5]day or more [G5][F#5]\n[E5][D5]Intestines in [D5][E5]\n[D5]A [E5]plastic bag [G5][F#5]\n[D5]Thats [E5]what you [D5][E5]Get from\n[D5]those fucking [E5]fags [G5][F#5]\n\n[Chorus]\n[B5]\n[C#5]He's [A5]blown to bits\n[B5]\n[C#5]By [A5]an IRA bomb\n[E5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "xx578x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "blown to bits",
+  "id": "4c67812143960eb2b50b7717b20d6a02286321a2ccc4b4c2a7edc3adc05d5083",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 106,
+  "normalizedKey": "exploited|blown to bits",
+  "playableChords": [
+    "D5",
+    "E5",
+    "G5",
+    "F#5",
+    "B5",
+    "C#5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Interlude"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 40,
+      "name": "Interlude"
+    },
+    {
+      "measure": 44,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4c67812143960eb2b50b7717b20d6a02286321a2ccc4b4c2a7edc3adc05d5083",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "blown to bits",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

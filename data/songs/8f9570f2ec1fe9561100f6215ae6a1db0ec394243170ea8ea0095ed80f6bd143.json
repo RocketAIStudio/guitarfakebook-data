@@ -1,0 +1,112 @@
+{
+  "artist": "Def Leppard",
+  "artistNormalized": "def leppard",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A5]\n[C5]\n[D5]\n[A5]\n[D5]\n[A5]\n[D5]\n[A5]\n[D5]\n[A5]\n\n[Verse 1]\n[A5]Cool woman,\n[C5]cool eyes\n[G5]You got me\n[D5]hypnotized\n[A5]So head down,\n[C5]get rhythm\n[G5]Stop your stalling\n[D5]and your bitching\n[A5]I'm rock steady,\n[C5]I'm still shaking\n[G5]I'm ready\n[D5]for the taking\n[A5]So make your move,\n[C5]yeah, make me\n[D5]And get ready for\n[D5]the big \"C\"\n\n[Chorus]\n[A5]Let it rock yeah\nLet it roll ready\nLet it go\nlet it go Gotta\n[A5]let it rock\nLet it roll\nlet it go\n[D5]\n\n[Verse 2]\n[A5]Slow down,\n[C5]hold on\n[G5]You're too fast,\n[D5]you're too strong\n[A5]Take it easy,\n[C5]take it slow\n[G5]Make it last,\n[D5]don't let go\n[A5]We're one body,\n[C5]it's one way\n[G5]You're not leaving,\n[D5]you gotta stay\n[A5]So get down\n[C5]on your knees\n[D5]And let me know you're\n[D5]eager to please\n\n[Chorus]\n[A5]Let it rock yeah\nLet it roll ready\nLet it go\nlet it go Gotta\nlet it rock\nLet it roll\nlet it go\n[D5]Let it\n\n[Bridge]\n[A5]go\n[G5]\n[D5]\n[C5]Let it go\n[A5]\n[C5]\n\n[Interlude]\n[D5]  [G5]\n[D5]  [C5]\n[D5]\n\n[Verse 3]\n[A5]Cool woman,\n[C5]cool eyes\n[G5]You got me\n[D5]hypnotized\n[A5]Slow down,\n[C5]hold on\n[G5]You're too fast,\n[D5]too strong\n[A5]I need a woman,\n[C5]a\n[G5]woman to love\n[D5]\n[A5]One good woman\n[C5]And you\n[D5]got what I want,\n[D5]what I want\n\n[Solo]\n[A5]\n[A5]\n[D5]\n[B5]\n[D5]\n[A5]\n\n[Bridge]\n[A5]Slow down, hold on [C5]You're\nmuch too fast, [G5]\nyou're much too [D5]\nstrong Take it\n[A5]slow, make it last Take [C5]it\neasy, not too fast [G5]\nDon't let [D5]go\nNo,\n[A5]I'm rock steady, [C5]\nbut still shaking [G5]\nAnd I'm ready [D5]\nfor the taking\n[A5]So make your move, [C5]\nyeah make me [G5]\nAnd get a ready for [D5]\nthe big \"C\", yeah\n\n[Outro-Chorus]\n[A5]Let it rock\nLet it roll\nLet it go\nLet it go\nLet it rock\nLet it roll\n[D5]\n[A5]\n[A5]\n[D5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x35xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x57xxx",
+        "x577xx"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "xx578x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Let It Go",
+  "id": "8f9570f2ec1fe9561100f6215ae6a1db0ec394243170ea8ea0095ed80f6bd143",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 289,
+  "normalizedKey": "def leppard|let it go",
+  "playableChords": [
+    "A5",
+    "C5",
+    "D5",
+    "G5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 71,
+      "name": "Bridge"
+    },
+    {
+      "measure": 79,
+      "name": "Interlude"
+    },
+    {
+      "measure": 87,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 103,
+      "name": "Solo"
+    },
+    {
+      "measure": 120,
+      "name": "Bridge"
+    },
+    {
+      "measure": 136,
+      "name": "Outro-Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8f9570f2ec1fe9561100f6215ae6a1db0ec394243170ea8ea0095ed80f6bd143",
+    "version": "BCFZ"
+  },
+  "tempo": 136,
+  "title": "Let It Go",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

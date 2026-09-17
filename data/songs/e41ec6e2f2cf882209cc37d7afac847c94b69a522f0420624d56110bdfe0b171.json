@@ -1,0 +1,124 @@
+{
+  "artist": "Dissection",
+  "artistNormalized": "dissection",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Dm]\n[Abm]\n[Dm]\n[Bbadd#9]\n\n[Part 1]\n[Dm]\n[Abm]\n[Dm]\n[E]\n\n[Part 2]\n[D5]\n[Ab5]\n[E5]\n[Bb5]\n[D5]\n[Ab5]\n[E5]\n[Bb5]\n\n[Part 3]\n[D5]\n[Ab5]\n[D5]\n[E5]\n\n[Part 4]\n[D5]\n[Bb5]\n[D5]\n[Bb5]\n[D5]\n[Bb5]\n[D5]\n\n[Outro]\n[Ab5]Zazas zazas na-\nsatanada zazas",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "x133xx"
+      ],
+      "catalogCount": 1
+    },
+    "Abm": {
+      "catalog": [
+        "x13321",
+        "4-6-6-4-4-4",
+        "x-x-6-8-9-7",
+        "x-11-13-13-12-11",
+        "16-18-18-16-16-16"
+      ],
+      "catalogCount": 5
+    },
+    "Bb5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "Bbadd#9": {
+      "catalog": [
+        "x35540"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "022000",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "244322",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Nexion 218",
+  "id": "e41ec6e2f2cf882209cc37d7afac847c94b69a522f0420624d56110bdfe0b171",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 11,
+  "normalizedKey": "dissection|nexion 218",
+  "playableChords": [
+    "Dm",
+    "Abm",
+    "Bbadd#9",
+    "E",
+    "D5",
+    "Ab5",
+    "E5",
+    "Bb5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Part 1"
+    },
+    {
+      "measure": 17,
+      "name": "Part 2"
+    },
+    {
+      "measure": 33,
+      "name": "Part 3"
+    },
+    {
+      "measure": 41,
+      "name": "Part 4"
+    },
+    {
+      "measure": 48,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e41ec6e2f2cf882209cc37d7afac847c94b69a522f0420624d56110bdfe0b171",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "Nexion 218",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

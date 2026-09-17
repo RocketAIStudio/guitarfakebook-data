@@ -1,0 +1,90 @@
+{
+  "artist": "Dog Party",
+  "artistNormalized": "dog party",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 5,
+  "content": "[Chorus]\n[B5]How are you doing? I could\n[E5]never be better\n[B5]How are you doing?\n[F#5]Worse\n[B5]If you’re feeling chilly\n[E5]Grab yourself a sweater\n[B5]When you leave the movies Don't for-\n[F#5]get to [E5]grab your [B5]purse\n\n[Bridge]\n[B5]\n[E5]\n\n[Verse 1]\n[F#5]I,\nI don’t under-\n[B5]stand\nThe way I [C#5]feel\nWhere do I [E5]stand\n[F#5]\nThe\n\n[Verse 2]\n[F#5]sun\nshining on [A5]my\n[B5]face\nIs this [C#5]run-\nning\njust [E5]a\n[F#5]race?\n[A5]\n\n[Chorus]\n[B5]How are you doing? I could\n[E5]never be better\n[B5]How are you doing?\n[F#5]Worse\n[B5]If you’re feeling chilly\n[E5]Grab yourself a sweater\n[B5]When you leave the movies Don't for-\n[F#5]get to [E5]grab your [B5]purse",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx",
+        "799xxx"
+      ],
+      "catalogCount": 2
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx",
+        "x799xx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx",
+        "x-9-11-11-x-x"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "How Are You Doing",
+  "id": "36399a71ca493e4ca1f12aa1b0cfd18159a67bcd36e667a6bd2aedac5da8a262",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 114,
+  "normalizedKey": "dog party|how are you doing",
+  "playableChords": [
+    "B5",
+    "E5",
+    "F#5",
+    "C#5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Chorus"
+    },
+    {
+      "measure": 9,
+      "name": "Bridge"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "36399a71ca493e4ca1f12aa1b0cfd18159a67bcd36e667a6bd2aedac5da8a262",
+    "version": "BCFZ"
+  },
+  "tempo": 195,
+  "title": "How Are You Doing",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,107 @@
+{
+  "artist": "Eels",
+  "artistNormalized": "eels",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\n[Em]\n[F]\n[C]\n[Am]\n[Em]\n[F]\n[G]\n\n[Verse 1]\n[Am]I need some\n[Em]sleep. You\n[F]can't go on like this.\n[C]\n[Am]I try counting sheep,\n[Em]But there's\n[F]one I always miss.\n[G]\n[Am]Everyone\n[Em]says, \"I'm\n[F]getting down too low\"\n[C]\n[Am]Everyone\n[Em]says, \"You\n[F]just gotta let it go\"\n[C]You\n[F]just gotta let it go\n[C]You\n[F]just gotta let it go\n[C]\n\n[Bridge]\n[Am]\n[Em]\n[F]\n[C]\n\n[Verse 2]\n[Am]I need some\n[Em]sleep Time to\n[F]put the old horse\n[C]down\n[Am]I'm in too\n[Em]deep And the\n[F]wheels keep spinning round\n[G]\n[Am]Everyone\n[Em]says, \"I'm\n[F]getting down too low\"\n[C]\n[Am]Everyone\n[Em]says \"You\n[F]just gotta let it go\"\n[C]You\n[F]just gotta let it go\n[C]You\n[F]just gotta let it go\n[C]\n\n[Outro]\n[Am]\n[Em]\n[F]\n[C]\n[Am]\n[Em]\n[F]\n[G]\n[Am]\n[Em]\n[F]\n[C]\n[Am]\n[Em]You\n[F]just gotta let it go\n[Em]\n[F]\n[C]You\n[F]just gotta let it go\n[C]\n[F]\n[C]You\n[F]just gotta let it go\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Need Some Sleep",
+  "id": "f2bac8d7bd40da90d67303bf4d799e84516afd4429d492b955e27adc6ecaa053",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 135,
+  "normalizedKey": "eels|i need some sleep",
+  "playableChords": [
+    "Am",
+    "Em",
+    "F",
+    "C",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f2bac8d7bd40da90d67303bf4d799e84516afd4429d492b955e27adc6ecaa053",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "I Need Some Sleep",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

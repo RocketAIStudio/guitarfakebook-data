@@ -1,0 +1,178 @@
+{
+  "artist": "Dream Theater",
+  "artistNormalized": "dream theater",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 16,
+  "content": "[Intro]\n[E5]  [E/G#]\n[Asus2]  [B]\n[E/G#]  [Asus2]\n[Eadd9/B]  [Amaj7/C#]\n[E]  [B7sus2/E]\n[Aadd9/E]  [Badd11/E]\n[E]  [B7sus2/E]\n[Aadd9/E]  [Badd11/E]\n\n[Verse 1]\n[E]I don't pretend to have [E/G#]the ans-\n[Aadd9]wer [B]\n[E]Never said I [E/G#]held the key\n[Bsus4][B]But\n[C#m]somehow they [B/D#]see a\n[Amaj7/C#]light inside of me [F#m11]Am I not\n[E/G#]the man who [Asus2]I was meant to be?\n[Bsus4]  [B]\n\n[Verse 2]\n[Aadd9]As the people [B]gather 'round\n[E]me [E/G#]\n[Bsus4]I never felt [B]so all alone\n[C#m][B/D#]Is this the\n[Amaj7/C#]chance to be [F#m11]someone? My\n[E/G#]moment in the sun [Asus2]Why am I\n[Bsus4]afraid of [B]facing the un-\nknown? They are\n\n[Chorus]\n[E/G#]finding [Bsus4]faith [Asus2]in\n[E/B]me and [Amaj7/C#]they believe\n[E/B]I'm the\n[Bsus4]one [B]to set them\n\n[Outro]\n[E/G#]free [Aadd9]\n[E/B]  [C#m]  [B/D#]\n[E/G#]  [Aadd9]\n[E/B]  [C#m]  [B/D#]\n[E/G#]  [Aadd9]\n[E/B]\n[Bsus4]  [B]\n[E]",
+  "diagrams": {
+    "Aadd9": {
+      "catalog": [
+        "577622"
+      ],
+      "catalogCount": 1
+    },
+    "Aadd9/E": {
+      "catalog": [
+        "577655"
+      ],
+      "catalogCount": 1
+    },
+    "Amaj7/C#": {
+      "catalog": [
+        "x47654"
+      ],
+      "catalogCount": 1
+    },
+    "Asus2": {
+      "catalog": [
+        "x02400",
+        "x02200"
+      ],
+      "catalogCount": 2
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B/D#": {
+      "catalog": [
+        "x69877"
+      ],
+      "catalogCount": 1
+    },
+    "B7sus2/E": {
+      "catalog": [
+        "044200"
+      ],
+      "catalogCount": 1
+    },
+    "Badd11/E": {
+      "catalog": [
+        "799877"
+      ],
+      "catalogCount": 1
+    },
+    "Bsus4": {
+      "catalog": [
+        "799977",
+        "x24452"
+      ],
+      "catalogCount": 2
+    },
+    "C#m": {
+      "catalog": [
+        "x46653",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E/B": {
+      "catalog": [
+        "x22100"
+      ],
+      "catalogCount": 1
+    },
+    "E/G#": {
+      "catalog": [
+        "422400"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022400"
+      ],
+      "catalogCount": 1
+    },
+    "Eadd9/B": {
+      "catalog": [
+        "79999x"
+      ],
+      "catalogCount": 1
+    },
+    "F#m11": {
+      "catalog": [
+        "244200"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Answer",
+  "id": "e468dec6cb54007cd130193f9f9438816864df1a056f32e14df4c69138fdc937",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 97,
+  "normalizedKey": "dream theater|the answer",
+  "playableChords": [
+    "E5",
+    "E/G#",
+    "Asus2",
+    "B",
+    "Eadd9/B",
+    "Amaj7/C#",
+    "E",
+    "B7sus2/E",
+    "Aadd9/E",
+    "Badd11/E",
+    "Aadd9",
+    "Bsus4",
+    "C#m",
+    "B/D#",
+    "F#m11",
+    "E/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e468dec6cb54007cd130193f9f9438816864df1a056f32e14df4c69138fdc937",
+    "version": "BCFZ"
+  },
+  "tempo": 77,
+  "title": "The Answer",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}
