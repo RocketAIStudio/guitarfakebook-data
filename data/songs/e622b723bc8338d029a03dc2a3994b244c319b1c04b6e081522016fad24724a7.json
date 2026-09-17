@@ -1,0 +1,157 @@
+{
+  "artist": "Architects",
+  "artistNormalized": "architects",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[E]\n[C#m9]\n[Emaj7/G#]\n[C#5]\n[E5]\n\n[Verse 1]\n[G#m9]These streets aren't\npaved with gold\n[C#5]Don't believe every-\n[E5]thing that you're told\n[G#m9]Deception hides in\nall you see\n[C#5]Corruption hangs in the\n[E5]air that you breathe\n\n[Bridge]\n[C#m]And in the\nland of the free\n[Esus2]You know\nnothing comes for\n[E5/B]free Fourth drive\nin paradise\n[E5/A#]Vapid souls\ncheck the market\n\n[Chorus]\n[Emaj7/G#]price\nLife time\nslave Living in a\nsuburban\ngrave If there\n[C#5]was a God,\nwas a God, You would\n[E5]be the death of him\n[Emaj7/G#]These colours\ndon't run,\nLike colours\nfrom the face,\n[C#5]Eyes roll back chemi-\ncal despair,\n[E5]It's true what they say\nlife isn't fair\n\n[Verse 2]\n[G#m9]So repeat\nthis line,\nevery thing,\neverything is fine\nSo repeat\nthis line,\neverything,\neverything is fine\n[C#5]\n\n[Break]\n[Emaj7/G#]\n\n[Chorus]\nThese colours\ndon't run,\nLike colours\nfrom the face,\nEyes roll back chemi-\ncal despair,\nIt's true what they say\nlife is n't fair\n\n[Bridge]\n[C#m]And in the\nland of the free\n[Esus2]You know\nnothing comes for\n\n[Bridge 2]\n[G#5]free\nI'm struggling to\nfind a ny poetry in this\nSomeone beat me to the\nline ignorance is bliss\nSo I guess I'll just\nsay it how it is\nYou had it all,\nyou fucking pigs!\n\n[Breakdown]\n[G#5]\nThese streets aren't\npaved with gold\nDon't believe every-\nthing that you're told\nDeception hides in\nall you see\nCorru ption hangs in the\nair\nyou\nbreathe",
+  "diagrams": {
+    "C#5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "x79987",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "C#m9": {
+      "catalog": [
+        "x75777"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "x-10-12-12-12-10",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "x-10-12-12-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "E5/A#": {
+      "catalog": [
+        "x400xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5/B": {
+      "catalog": [
+        "x55xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Emaj7/G#": {
+      "catalog": [
+        "x24433"
+      ],
+      "catalogCount": 1
+    },
+    "Esus2": {
+      "catalog": [
+        "x-10-12-12-10-10"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "024xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#m9": {
+      "catalog": [
+        "12-14-12-14-14-14"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "These colours don't run",
+  "id": "e622b723bc8338d029a03dc2a3994b244c319b1c04b6e081522016fad24724a7",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 265,
+  "normalizedKey": "architects|these colours don t run",
+  "playableChords": [
+    "E",
+    "C#m9",
+    "Emaj7/G#",
+    "C#5",
+    "E5",
+    "G#m9",
+    "C#m",
+    "Esus2",
+    "E5/B",
+    "E5/A#",
+    "G#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Bridge"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 63,
+      "name": "Break"
+    },
+    {
+      "measure": 71,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Bridge"
+    },
+    {
+      "measure": 83,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 99,
+      "name": "Breakdown"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e622b723bc8338d029a03dc2a3994b244c319b1c04b6e081522016fad24724a7",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "These colours don't run",
+  "tuning": "G# F# B E G# C#",
+  "variantRole": "primary"
+}

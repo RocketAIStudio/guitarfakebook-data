@@ -1,0 +1,97 @@
+{
+  "artist": "311",
+  "artistNormalized": "311",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Am]\n[G]\n[F]\n[G]\n[Am]\n[G]\n[F]\n[G]\n[Am]\n[G]\n[F]\n[G]\n[Am]\n[G]\n[F]\n[G]\n\n[Verse 1]\n[Am]Whenever I'm\n[G]alone with you\n[F]\n[G]\n[Am]You make me feel\n[G]like I am\n[F]home again\n[G]\n[Am]Whenever I'm\n[G]alone with you\n[F]\n[G]\n[Am]You make me feel\n[G]like I am\n[F]whole again\n[G]\n\n[Solo]\n[Am]\n[G]\n[F]\n[G]\n[Am]\n[G]\n[F]\n[G]Whe-\n\n[Verse 2]\n[Am]never I'm alone\n[G]with you\n[F]\n[G]\n[Am]You make me feel\n[G]like I am\n[F]home again\n[G]Whe-\n[Am]never I'm alone\n[G]with you\n[F]\n[G]\n[Am]You make me feel\n[G]like I am\n[F]home again\n[G]\n\n[Chorus]\n[F]However far\n[G]away,\n[Am]I will al\n[G]ways love you\n[F]However long\n[G]I stay,\n[Am]I will al\n[G]ways love you\n[F]Whatever words\n[G]I say,\n[Am]I will al\n[G]ways love you\n[F]I will al\n[G]ways love you\n\n[Solo]\n[Am]\n[G]\n[F]\n[G]\n[Am]\n[G]\n[F]\n[G]\n[Am]\n[G]\n[F]\n[G]\n[Am]\n[G]\n[F]\n[G]Whe-\n\n[Bridge]\n[Am]never I'm alone\n[G]with you\n[F]\n[G]\n[Am]You make me feel\n[G]like I am\n[F]free again\n[G]Whe-\n[Am]never I'm alone\n[G]with you\n[F]\n[G]\n[Am]You make me feel\n[G]like I am\n[F]clean again\n[G]\n\n[Outro-Chorus]\n[F]However far\n[G]away,\n[Am]I will al\n[G]ways love you\n[F]However long\n[G]I stay,\n[Am]I will al\n[G]ways love you\n[F]Whatever words\n[G]I say,\n[Am]I will al\n[G]ways love you\n[F]I will al\n[G]ways love you\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Love Song",
+  "id": "ddd477fd057ae6785e98532b3c896d21600105a6e96d2275b9a893d8fa2574fd",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 200,
+  "normalizedKey": "311|love song",
+  "playableChords": [
+    "Am",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Solo"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 72,
+      "name": "Solo"
+    },
+    {
+      "measure": 88,
+      "name": "Bridge"
+    },
+    {
+      "measure": 104,
+      "name": "Outro-Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ddd477fd057ae6785e98532b3c896d21600105a6e96d2275b9a893d8fa2574fd",
+    "version": "BCFZ"
+  },
+  "tempo": 139,
+  "title": "Love Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

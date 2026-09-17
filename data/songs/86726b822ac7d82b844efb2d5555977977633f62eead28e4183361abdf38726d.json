@@ -1,0 +1,101 @@
+{
+  "artist": "A Flock of Seagulls",
+  "artistNormalized": "a flock of seagulls",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n\n[Theme 1]\n[D]\n[Bm7]\n[G]\n[D]\n\n[Theme 2]\n[D]\n[Bm7]\n[G]\n[D]\nI\n\n[Verse 1]\n[D]saw your eyes\nAnd you\n[Bm7]made me smile\nFor a\n[G]little while\nI was falling in\n[D]love\nI\n\n[Verse 2]\n[D]saw your eyes\nAnd it\n[Bm7]touched my mind\nThough it\n[G]took a while\nI was falling in\n[D]love\n\n[Theme 2]\n[D]\n[Bm7]\n[G]\nI was falling in\n[D]love\nI\n\n[Verse 3]\n[D]saw your eyes\nAnd you\n[Bm7]made me cry\nAnd for a\n[G]little while\nI was falling in\n[D]love\n\n[Theme 2]\n[D]\n[Bm7]\n[G]\nI was falling in\n\n[Outro]\n[D]love\nFalling in\nlove\nFalling in\nlove\nFalling in\nlove\nFalling in\nlove",
+  "diagrams": {
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Space Age Love Song",
+  "id": "86726b822ac7d82b844efb2d5555977977633f62eead28e4183361abdf38726d",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 89,
+  "normalizedKey": "a flock of seagulls|space age love song",
+  "playableChords": [
+    "D",
+    "Bm7",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Theme 1"
+    },
+    {
+      "measure": 22,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 70,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 86,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 102,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 114,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "86726b822ac7d82b844efb2d5555977977633f62eead28e4183361abdf38726d",
+    "version": "BCFZ"
+  },
+  "tempo": 136,
+  "title": "Space Age Love Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

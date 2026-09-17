@@ -1,0 +1,111 @@
+{
+  "artist": "AC DC",
+  "artistNormalized": "ac dc",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 6,
+  "content": "[E5]\n[B5]\n[C5]  [G5]\n[A5]\n[B5]\n[E5]\nThere's\n\n[Verse 1]\n[E5]fighting on the left And\nmarching on the right Don't\n[E5]look up in the sky You're\ngonna die of fright\n\n[Chorus]\n[B5]Here\n[C5]comes [G5]the\n[A5]razors edge-\n[B5]\n[E5]\nYou're\n\n[Verse 2]\nliving on the edge\nDon't know wrong from right They're\nbreathing down your neck You're\nrunning out of lives And\n\n[Chorus]\n[B5]here\n[C5]comes [G5]the\n[A5]razors edge\n[B5]\n[B5]Here\n[C5]comes [G5]the\n[A5]razors edge\n[B5]The razors edge\n\n[Bridge]\n[E5]\n[A5]to raise [G5]the dead\n[B5]\n[A5]to cut to [G5]shreds\n[B5]\n\n[Pre-Solo]\n[D5]\n[G5]\n[D5]\n[G5]To raise the dead\n\n[Solo]\n[A5]  [G5]\n[B5]\n[A5]  [G5]\n[B5]\n[E5]\n\n[Chorus]\n[B5]Here\n[C5]comes [G5]the\n[A5]razors edge\n[B5]\n[B5]Here\n[C5]comes [G5]the\n[A5]razors edge\n[B5]\n[B5]Well here it\n\n[Outro]\n[C5]comes\n[G5]to cut to shreds-\n[A5]The razors\n[B5]edge\nIt's the razor's edge\n[E5]\nWell, the razor's edge\nBut you could cut to shreds\ngotta razor's edge\nGotta razors edge",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "35xxxx",
+        "355xxx"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "AC/DC - Razor's Edge",
+  "id": "23c10a8ba27827f5d3854daab0b27ca137406cfb5f3354b30763e69621737c80",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 134,
+  "normalizedKey": "ac dc|ac dc razor s edge",
+  "playableChords": [
+    "E5",
+    "B5",
+    "C5",
+    "G5",
+    "A5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 34,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 48,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Bridge"
+    },
+    {
+      "measure": 64,
+      "name": "Pre-Solo"
+    },
+    {
+      "measure": 68,
+      "name": "Solo"
+    },
+    {
+      "measure": 80,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "23c10a8ba27827f5d3854daab0b27ca137406cfb5f3354b30763e69621737c80",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "AC/DC - Razor's Edge",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

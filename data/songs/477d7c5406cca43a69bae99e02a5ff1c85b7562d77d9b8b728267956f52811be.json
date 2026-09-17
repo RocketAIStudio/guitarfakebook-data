@@ -1,0 +1,124 @@
+{
+  "artist": "Alice in Chains",
+  "artistNormalized": "alice in chains",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Ebm]\n\n[Pre-Verse]\n[Ebm]\n[Db]\n[Ab]\n[Ebm]\n[Ebm]\n[Db]\n[Ab]\n[Ebm]\n\n[Verse 1]\n[Ebm]I'm the man\n[Db]in the box\n[Ebm]\n[Ebm]Buried in\n[Db]my\n[Ab]shit\n[Ebm]\n\n[Pre-Chorus]\n[Gb]Won't\n[Db]you\n[Ab]come\n[Gb]and save\n[Ebm]me?\nSave\nme\n\n[Chorus]\n[Ebm]Feed [Gb]\nmy [Db]eyes\n[Ab]Can\nyou sew them [Gb]shut?\n[Gb][Ebm]Je-\nsus [Db]Chri-\nst [Ab]De-\nny your maker [Gb]\n[Ebm]He [Gb]\nwho [Db]tries\n[Ab]Will\nbe wasted [Gb]\n[Ebm]Feed [Gb]\nmy [Db]ey-\nes [Ab]Now\nyou've sewn them shut\n\n[Pre-Verse]\n[Ebm]\n[Db]\n[Ab]\n[Ebm]\n[Ebm]\n[Db]\n[Ab]\n[Ebm]\n\n[Verse 2]\n[Ebm]I'm the dog\n[Db]who gets be-\n[Ebm]at\n[Ebm]Shove my nose\n[Db]in\n[Ab]shit\n[Ebm]\n\n[Pre-Chorus]\n[Gb]Won't\n[Db]you\n[Ab]come\n[Gb]and save\n[Ebm]me?\nSave\nme\n\n[Chorus]\n[Ebm]Feed [Gb]\nmy [Db]eyes\n[Ab]Can\nyou sew them [Gb]shut?\n[Gb][Ebm]Je-\nsus [Db]Chri-\nst [Ab]De-\nny your maker [Gb]\n[Ebm]He [Gb]\nwho [Db]tries\n[Ab]Will\nbe wasted [Gb]\n[Ebm]Feed [Gb]\nmy [Db]ey-\nes [Ab]Now\nyou've sewn them shut\n\n[Solo]\n[Ebm]\n[Gb]\n[Ebm]\n\n[Chorus]\n[Ebm]Feed [Gb]\nmy [Db]eyes\n[Ab]Can\nyou sew them [Gb]shut?\n[Gb][Ebm]Je-\nsus [Db]Chri-\nst [Ab]De-\nny your maker [Gb]\n[Ebm]He [Gb]\nwho [Db]tries\n[Ab]Will\nbe wasted [Gb]\n[Ebm]Feed [Gb]\nmy [Db]ey-\nes [Ab]Now\nyou've sewn them shut\n\n[Outro]\n[Ebm]\n[Db]\n[Ab]\n[Ebm]\n[Ebm]\n[Db]\n[Ab]\n[Ebm]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x0222x",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Ebm": {
+      "catalog": [
+        "022000",
+        "x-x-1-3-4-2",
+        "x-6-8-8-7-6",
+        "11-13-13-11-11-11",
+        "x-x-13-15-16-14"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "355433",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Man In the Box",
+  "id": "477d7c5406cca43a69bae99e02a5ff1c85b7562d77d9b8b728267956f52811be",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 138,
+  "normalizedKey": "alice in chains|man in the box",
+  "playableChords": [
+    "Ebm",
+    "Db",
+    "Ab",
+    "Gb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 66,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Chorus"
+    },
+    {
+      "measure": 90,
+      "name": "Solo"
+    },
+    {
+      "measure": 106,
+      "name": "Chorus"
+    },
+    {
+      "measure": 122,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "477d7c5406cca43a69bae99e02a5ff1c85b7562d77d9b8b728267956f52811be",
+    "version": "BCFZ"
+  },
+  "tempo": 108,
+  "title": "Man In the Box",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

@@ -1,0 +1,100 @@
+{
+  "artist": "Ariana Grande",
+  "artistNormalized": "ariana grande",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am7b5]\n[Fdim]\n[Eb]\n[Eb7]\n\n[Verse 1]\n[Am7b5]If you take too long to hit me back\n[Fdim]I can't promise you how I'll react But\n[Eb]all I can say is\n[Eb7]at least I'll wait for you\n[Am7b5]Lately, I've been on a roller coaster\n[Fdim]Tryna get a hold of my emotions But\n[Eb]all that I know is\n[Eb7]I need you close And I'ma scream and shout for what\n\n[Pre-Chorus]\n[Am7b5]I love Passionate, but I don't give\n[Fdim]no fucks I admit that I'm a lil'\n[Eb]messed up But I can hide it when I'm all\n[Eb7]dressed up I'm obsessive and I love\n[Am7b5]too hard Good at overthinking with\n[Fdim]my heart How you even think it got\n[Eb]this far, this far?\n[Eb7]And I can be needy,\n\n[Chorus]\n[Am7b5]way too damn needy\n[Fdim]I can be needy,\n[Eb]tell me how\n[Eb7]good it feels to be needed\n[Am7b5]I can be needy,\n[Fdim]so hard to please me\n[Eb]I know it\n[Eb7]feels so good to be needed\n\n[Verse 2]\n[Am7b5]Sorry if I'm up and down a lot\n[Fdim]Sorry that I think I'm not enough And\n[Eb]sorry if I\n[Eb7]say sorry way too much\n[Am7b5]You can go ahead and call me selfish But\n[Fdim]after all this damage, I can't help it But\n[Eb]what you can trust is\n[Eb7]I need your touch And I'ma scream and shout for what\n\n[Pre-Chorus]\n[Am7b5]I love Passionate, but I don't give\n[Fdim]no fucks I admit that I'm a lil'\n[Eb]messed up But I can hide it when I'm all\n[Eb7]dressed up I'm obsessive and I love\n[Am7b5]too hard Good at overthinking with\n[Fdim]my heart How you even think it got\n[Eb]this far, this far?\n[Eb7]And I can be needy,\n\n[Chorus]\n[Am7b5]way too damn needy\n[Fdim]I can be needy,\n[Eb]tell me how\n[Eb7]good it feels to be needed\n[Am7b5]I can be needy,\n[Fdim]so hard to please me\n[Eb]I know it\n[Eb7]feels so good to be needed\n\n[Outro]\n[Am7b5]\n[Fdim]\n[Eb]\n[Eb7]\n[Am7b5]\n[Fdim]\n[Eb]\n[Eb7]",
+  "diagrams": {
+    "Am7b5": {
+      "catalog": [
+        "xx7888"
+      ],
+      "catalogCount": 1
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Eb7": {
+      "catalog": [
+        "x68686",
+        "x-x-1-3-2-3",
+        "x-6-5-6-4-3",
+        "11-10-8-8-8-9",
+        "11-13-11-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Fdim": {
+      "catalog": [
+        "x-8-9-10-9-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Needy",
+  "id": "47aa9ce16d13ee14407952e48e7689c2c7cce0efe9eb8b7b16bdc9d2f5cf1b99",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 345,
+  "normalizedKey": "ariana grande|needy",
+  "playableChords": [
+    "Am7b5",
+    "Fdim",
+    "Eb",
+    "Eb7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "47aa9ce16d13ee14407952e48e7689c2c7cce0efe9eb8b7b16bdc9d2f5cf1b99",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "Needy",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

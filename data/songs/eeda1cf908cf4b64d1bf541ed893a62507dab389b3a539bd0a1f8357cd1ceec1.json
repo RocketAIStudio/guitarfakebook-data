@@ -1,0 +1,108 @@
+{
+  "artist": "Adele",
+  "artistNormalized": "adele",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[F]So\nlittle to\n[C]say but so much\ntime, Des-\n[Em]pite my empty\nmouth the words are in\n[Am]my mind.\nPlease\n[F]wear the face,\nthe one where you\n[C]smile, Be-\ncause you lighten\n[Em]up my heart\nwhen I start to\n[Am]cry.\nForgive me\n\n[Chorus]\n[F]first love,\nbut I'm\n[C]tired.\nI need to\n[Em]get awa y\nto feel a-\n[Am]gain.\nTry to understand\n\n[Verse 2]\n[F]why,\ndon't get so\n[C]close to change my\nmind. Please wipe that\n[Em]look out of your\neyes, it's bribing me\n[Am]to doubt\nmyself; Simp-\n\n[Interlude]\n[F]ly,\nit's\n[C]ti ring.\n[Em]\n[Am]\n[F]\n[C]\nThis love has\n[Em]dried up\nand stayed behi\n[Am]nd,\nAnd if I\n\n[Verse 3]\n[F]stay I'll\nbe a\n[C]lie\nThen choke on\n[Em]words\nI'd always\n[Am]hide.\nExcuse me\n\n[Chorus]\n[F]first love,\nbut we're\n[C]through.\nI need to\n[Em]taste a kiss from\nsomeone\n[Am]new.\nForgive me\n\n[Chorus]\n[F]first love,\nbut I'm too\n[C]tired.\nI'm\n[Em]bored to say the least and I,\nI lack desi\n[Am]re.\nFor give me\n\n[Outro]\n[F]first love,\nFor give me\n[C]first love,\nForgive me\n[Em]first love,\nForgive me\n[Am]first love,\nForgive\n[F]me,\nForgive me\n[C]first love,\nForgive me\n[Em]first love\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "First Love",
+  "id": "eeda1cf908cf4b64d1bf541ed893a62507dab389b3a539bd0a1f8357cd1ceec1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 209,
+  "normalizedKey": "adele|first love",
+  "playableChords": [
+    "F",
+    "C",
+    "Em",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "eeda1cf908cf4b64d1bf541ed893a62507dab389b3a539bd0a1f8357cd1ceec1",
+    "version": "BCFZ"
+  },
+  "tempo": 81,
+  "title": "First Love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

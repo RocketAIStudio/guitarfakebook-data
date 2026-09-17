@@ -1,0 +1,100 @@
+{
+  "artist": "Alan Jackson",
+  "artistNormalized": "alan jackson",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[D7]\n[G]\nOn a\n\n[Verse 1]\n[G]hill far a-\nway stood an\n[C]old rugged\ncross The\n[D7]emblem of\nsuffering and\n[G]shame\nAnd I\nlove that old\ncross where the\n[C]dearest and\nbest For a\n[D7]world of lost\nsinners was\n[G]slain\nSo I'll\n\n[Chorus]\n[D7]cherish the\nold rugged\n[G]cross\nTill my\n[C]trophies at\nlast I lay\n[G]down\n[D7]And I will\n[G]cling to the\nold rugged\n[C]cross\n[Am]And ex-\n[G]change it some\n[D7]day for a\n[G]crown\n[D7]To the\n\n[Verse 2]\n[G]old rugged\ncross I will\n[C]ever be\ntrue It's\n[D7]shame and re-\nproach gladly\n[G]bear\nThen he'll\ncall me some-\nday to my\n[C]home far a-\nway Where his\n[D7]glory for-\never I'll\n[G]share\nAnd I'll\n\n[Chorus]\n[D7]cherish the\nold rugged\n[G]cross\nTill my\n[C]trophies at\nlast I lay\n[G]down\n[D7]And I will\n[G]cling to the\nold rugged\n[C]cross\n[Am]And ex-\n[G]change it some\n[D7]day for a\n[G]crown\n[D7]And I will\n\n[Outro]\n[G]cling to the\nold rugged\n[C]cross\n[Am]And ex-\n[G]change it some\n[D7]day for a\n[C]crown\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Old Rugged Cross",
+  "id": "4ff376119ae2f05b1f99d6a85148fef23c08d960a6e6fb6f88705310ecaf9877",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 176,
+  "normalizedKey": "alan jackson|the old rugged cross",
+  "playableChords": [
+    "G",
+    "D7",
+    "C",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4ff376119ae2f05b1f99d6a85148fef23c08d960a6e6fb6f88705310ecaf9877",
+    "version": "BCFZ"
+  },
+  "tempo": 79,
+  "title": "The Old Rugged Cross",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

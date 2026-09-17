@@ -1,0 +1,129 @@
+{
+  "artist": "Alvvays",
+  "artistNormalized": "alvvays",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "Hop that\n\n[Verse 1]\n[A]fence if you\n[D/A]wanna Then dis-\n[A]solve into the\n[D/A]night Ditch your\n[A]friends on a\n[D/A]whim Later, re-\n[A]surface in a\n[D/A]fight [E]Kill the\n[A]buzz with your de-\n[D/A]crees and con-\n[A]spiracy theo-\n[D/A]ries\nI\n[D/A]die on the in-\n\n[Chorus]\n[A]side [E]every time\n[D/A]You will\n[A]never be [E]al-\n[D/A]right I will\n[A]never be [E]your\n[D/A]type\n\n[Verse 2]\n[A]Gambling with your\n[D/A]working visa You’ve\n[A]got something to prove\n[D/A]Take a\n[A]photo of the\n[D/A]Mona Lisa Get\n[A]thrown out of the Louvre\n[D/A][E]And with\n[A]vomit on your\n[D/A]feet Clamouring\n[A]bon appetit\n[D/A]\nI\n[E]die on the in-\n\n[Chorus]\n[A]side [E]every time\n[D/A]You will\n[A]never be [E]al-\n[D/A]right I will\n[A]never be [E]your\n[D/A]type I will\n[A]never be [E]your\n[D/A]type\n\n[Bridge]\n[E7]\n[D/A]\n[E7]\n[D/A]\n[A]\nKnew that I would\nnever be [D/A]your\n[A]type\n[D/A]\n[A]\nOh I\nnever be [D/A]your\n[A]type\n[F]Hop that\n\n[Verse 3]\n[Bb]fence if you'd\n[Eb6]like to Then dis-\n[Bb]solve into the\n[Eb6]night All de-\n[Bb]pends how it\n[Eb6]strikes you Without\n[Bb]reason, without\n[Eb6]rhyme [F]Let me\n[Bb]state delicately,\n[Eb6]you’re an O\n[Bb]and I’m A\n[Eb6]B\nI\n[F]die on the in-\n\n[Chorus]\n[Bb]side [F]every time\n[Eb6]You will\n[Bb]never be [F]al-\n[Eb6]right I will\n[Bb]never be [F]your\n[Eb6]type I will\n[Bb]never be [F]your\n[Eb6]type I will\n[Bb]never be [F]your\n[Eb6]type",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x00232"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb6": {
+      "catalog": [
+        "xx1313"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Your Type",
+  "id": "658a5cd018c0070ec1475597a567855e692795d9f00e7166a780c562a88a1027",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 236,
+  "normalizedKey": "alvvays|your type",
+  "playableChords": [
+    "A",
+    "D/A",
+    "E",
+    "E7",
+    "F",
+    "Bb",
+    "Eb6"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 48,
+      "name": "Bridge"
+    },
+    {
+      "measure": 72,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 86,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "658a5cd018c0070ec1475597a567855e692795d9f00e7166a780c562a88a1027",
+    "version": "BCFZ"
+  },
+  "tempo": 205,
+  "title": "Your Type",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

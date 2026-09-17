@@ -1,0 +1,120 @@
+{
+  "artist": "AC DC",
+  "artistNormalized": "ac dc",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n\n[Verse 1]\n[Am]Take up all your t-\nime,\nKick up your heels, lookin' fi-\nne,\nAnd you come riding b-\nlind,\nYou come rollin'\nback a while,\n\n[Pre-Chorus]\n[C]  [D]\nWind blowin' on ya,\n[C][D]We're gonna\nmove on and on,\n[C][D]Sweating\nheat, soak you all,\n[C][D]Being\nout will make you crawl all\nnight, Deci-\n\n[Chorus]\n[Am]bel,\ndecibe-\nl,\n\n[Verse 2]\n[Am]Has you from deep ins-\nide,\nYou were waving then you\nsmiled,\n\n[Pre-Chorus]\n[C]  [G]  [D]\nGive me rock and\n[C]roll, [G][D]\nThey're in love,\n[C][G][D]L-\nove, in the rain,\n[C]  [G]  [D]\nThey're in there rocking standing\nproud, Deci-\n\n[Chorus]\n[Am]bel, That's the\nhistory of rock and roll, Deci-\nbel,\n\n[Solo]\n[Am]\n\n[Pre-Chorus]\n[C]  [G]  [D]\nRain is coming on,\n[C]  [G]  [D]\nWe're gonna ride along,\n[C]  [G]  [D]\nA hundred miles in all,\n[C]  [G]  [D]\nGetting in\nnight 'til dawn,\n[C][D]Spread the\njoy going on,\n[C][D]Yeah,\nhard and long,\n[C][D]Ooo.\nStaring down,\n[C][D]with a\nshock hit the ground,\nDeci-\n\n[Chorus]\n[Am]bel,\nDec-\nibel,\nDecibe-\nl,\nYou come rolling ba-\nck a while, Deci-\nbel,\nDeci-\nbel\n\n[Outro]\n[C]  [G]  [D]\n[C]  [G]  [D]\n[C]  [G]  [D]\n[C]  [G]  [D]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Decibel",
+  "id": "d25497629b16d18cf160e3297adfb9a5344e3c706c527ac53a67cfd46f6b2aa6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 199,
+  "normalizedKey": "ac dc|decibel",
+  "playableChords": [
+    "Am",
+    "C",
+    "D",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Solo"
+    },
+    {
+      "measure": 47,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d25497629b16d18cf160e3297adfb9a5344e3c706c527ac53a67cfd46f6b2aa6",
+    "version": "BCFZ"
+  },
+  "tempo": 97,
+  "title": "Decibel",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

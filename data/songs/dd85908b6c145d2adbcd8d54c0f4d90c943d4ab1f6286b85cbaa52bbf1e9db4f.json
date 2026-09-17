@@ -1,0 +1,107 @@
+{
+  "artist": "Alec Benjamin",
+  "artistNormalized": "alec benjamin",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\nI built a friend\n[A]With\nthree pieces of plastic and a pen\n[F#m7]I\nmade him on the table in the den\n[D]I\ngave him my old cell phone for a head,\n[A]for a head\n[E]And we\n[A]spent\nholidays at my house And we\n[F#m7]left\npresents in a stocking And we\n[D]bought\nbolts and things and strings And a new watch,\n[A]that's what he\n[E]got And\n\n[Chorus]\n[D]we had so much fun\ntogether\n[A]We knew we'd be friends\n[E]forever And we\n[D]had so much fun\ntogether\n[A]We had so much fun\n[E]Then I\n\n[Verse 2]\n[A]left for\ncollege in September And we\n[F#m7]wept 'cause\nwe can't be together So I\n[Dsus2]kept\npictures to remember my old\n[A]friend, my old\n[E]friend Then I\n[A]met this\ngirl at graduation And forget\n[F#m7]\nmy oldest creation And I\n[Dsus2]guess I'll\nsee him next vacation Send my\n[A]best, I send my\n[E]best And\n\n[Chorus]\n[D]we had so much fun\ntogether\n[A]We knew we'd be friends\n[E]f orever And we\n[D]had so much fun\ntogether\n[A]We had so much fun\n[E]I came\n\n[Verse 3]\n[A]home to\nfind him on the table With a note,\n[F#m7]\nscribbled out in pencil And he\n[D]wrote That\nhe just wasn't stable all alone,\n[A]all alone\n[E]Next to him,\n[A]an\nempty glass of water That he\n[F#m7]spilt\nAll over the body that I\n[D]built It\nfizz led and it popped And then it killed,\n[A]and then it killed\n[E]And\n\n[Chorus]\n[D]we had so much fun\ntogether\n[A]We thought we'd be friends\n[E]forever And we\n[D]had so much fun\ntogether\n[A]We had so much fun\n[E]I built a friend",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "242222",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14",
+        "x-21-23-21-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Built A Friend",
+  "id": "dd85908b6c145d2adbcd8d54c0f4d90c943d4ab1f6286b85cbaa52bbf1e9db4f",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 310,
+  "normalizedKey": "alec benjamin|i built a friend",
+  "playableChords": [
+    "A",
+    "F#m7",
+    "D",
+    "E",
+    "Dsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dd85908b6c145d2adbcd8d54c0f4d90c943d4ab1f6286b85cbaa52bbf1e9db4f",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "I Built A Friend",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

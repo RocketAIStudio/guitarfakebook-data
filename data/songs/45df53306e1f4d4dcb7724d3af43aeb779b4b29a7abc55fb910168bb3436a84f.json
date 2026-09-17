@@ -1,0 +1,134 @@
+{
+  "artist": "Aerosmith",
+  "artistNormalized": "aerosmith",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Gm]\n[C]\nI'm\n\n[Chorus]\n[Dm]back\nI'm\nback in the saddle aga-\nin I'm\nback\nI'm\nback in the saddle aga-\nin\n\n[Verse 1]\n[Gm]Ridin' into town alone\n[C]by the light of the mo-\n[Gm]on\n[C]I'm\n[Gm]lookin' for old Sukie Jones,\n[C]she crazy horse salo-\n[Gm]on\n[C]\n[Gm]Barkeep gimme a drink,\n[C]that's when she caught my\n[Gm]eye\n[C]She\n[Gm]turned to give me a wink,\n[C]that'd make a grown man\n[Gm]cry\n[C]I'm\n\n[Chorus]\n[Dm]back in the saddle aga-\nin I'm\nback\nI'm\nback in the saddle aga-\nin I'm\nback\n\n[Verse 2]\n[Gm]Come easy, go easy, all right\n[C]until the rising sun\n[Gm]\n[C]I'm\n[Gm]calling all the shots tonight,\n[C]I'm like a loaded gun\n[Gm]\n[C]\n[Am]Peelin' off my boots and chaps,\n[D]I'm saddle sore\n[Am]Four bits gets you time in the racks,\n[D]I scream for more\n[Am]Fools' gold out of their mines,\n[D]the girls are soaking wet\n[Am]No tongue's drier than mine,\n[D]I'll come when I get\n\n[Chorus]\n[Dm]Back\nI'm\nback in the saddle aga-\nin I'm\nback\nI'm\nback in the saddle aga-\nin\n\n[Bridge]\n[G]I'm ridin',\nI'm loadin' up my\npistol\nI'm ridin',\nI really got a\nfistful\nI'm ridin',\nI'm shinin' up my\nsaddle\nI'm ridin',\nthis snake is gonna\nrattle\n[C]I'm\n\n[Chorus]\n[Dm]back in the saddle aga-\nin I'm\nback\nI'm\nback in the saddle aga-\nin I'm\nback\n\n[Outro]\n[G]\nRidin' high\nRidin' high\nRidin' high\nRidin' high",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Back In The Saddle (Live)",
+  "id": "45df53306e1f4d4dcb7724d3af43aeb779b4b29a7abc55fb910168bb3436a84f",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 266,
+  "normalizedKey": "aerosmith|back in the saddle live",
+  "playableChords": [
+    "Gm",
+    "C",
+    "Dm",
+    "Am",
+    "D",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Bridge"
+    },
+    {
+      "measure": 90,
+      "name": "Chorus"
+    },
+    {
+      "measure": 98,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "45df53306e1f4d4dcb7724d3af43aeb779b4b29a7abc55fb910168bb3436a84f",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Back In The Saddle (Live)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

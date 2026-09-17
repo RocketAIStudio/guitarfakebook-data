@@ -1,0 +1,130 @@
+{
+  "artist": "Alice In Chains",
+  "artistNormalized": "alice in chains",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Bbm]  [Gb]\n[Bbm]  [Gb]\n[Bbm]  [Gb]\n[Bbm]  [Gb]\n[Bbm]  [Gb]\n[Bbm]  [Gb]\n\n[Verse 1]\n[Bbm]Know [Gb]me\nbroken by\n[Bbm]my [Gb]master\nTeach [Gb]thee\non child\n[Bbm]of love [Gb]hereafter\n\n[Chorus]\n[Bbm]Into the flood [Bbm]again\n[Gb]Same old trip it was\n[Bbm]back [Gb]then\n[Bbm]So I made a big [Gb]mistake\nTry to see it once\n[Bbm]my way [Gb]\n\n[Interlude]\n[Bbm]  [Gb]\n[Bbm]  [Gb]\n[Bbm]  [Gb]\n[Bbm]  [Gb]\n\n[Verse 2]\n[Gb][Bbm]Drifting\nbody it's\n[Bbm]sole [Gb]desertion\n[Gb][Bbm]Flying\nnot yet\n[Bbm]quite the [Gb]notion\n\n[Chorus]\n[Bbm]Into the flood [Gb]again\n[Gb]Same old trip it was\n[Bbm]back [Gb]then\n[Bbm]So I made a big [Gb]mistake\n[Gb]Try to see it once\n[Bbm]my way [Gb]\n\n[Solo]\n[Bbm]  [Gb]\n[Bbm]  [Gb]\n[Bbm]  [Gb]\n[Bbm]  [Gb]\n\n[Chorus]\n[Bbm]Into the flood [Gb]again\nSame old trip it was\n[Bbm]back [Gb]then\n[Bbm]So I made a big [Gb]mistake\nTry to see it once\n[Bbm]my way [Gb]\n\n[Outro]\n[Db]Am [Dbm7-11]I wrong?\n[G]\n[Gb]Have I run too far\n[Eb]to get home?\n[Db][Dbm7-11]Have I gone?\n[G]\n[Gb]And left you here alone?\n[Eb]\n[Db][Dbm7-11]Am I wrong?\n[G]\n[Gb]Have I run too far\n[Eb]to get home?\n[Db][Dbm7-11]Have I gone?\n[G]\n[Gb]And left you here alone?\n[Eb]\n[Dbm7-11]If I\nwould, could\nyou?",
+  "diagrams": {
+    "Bbm": {
+      "catalog": [
+        "x24432",
+        "x-1-3-3-2-1",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Dbm7-11": {
+      "catalog": [
+        "x5456x"
+      ],
+      "catalogCount": 1
+    },
+    "Eb": {
+      "catalog": [
+        "022100",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "466544",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "320033",
+        "355433",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Would *alt 2",
+  "id": "6ec01ab233edf3fc9cf29a26abc4cc5890cfb0060db2551113434ee4da7312c9",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 157,
+  "normalizedKey": "alice in chains|would",
+  "playableChords": [
+    "Bbm",
+    "Gb",
+    "Db",
+    "Dbm7-11",
+    "G",
+    "Eb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Interlude"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Solo"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6ec01ab233edf3fc9cf29a26abc4cc5890cfb0060db2551113434ee4da7312c9",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Would",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

@@ -1,0 +1,104 @@
+{
+  "artist": "An Albatross",
+  "artistNormalized": "an albatross",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 8,
+  "content": "[Verse]\n[Edim]\n[Gdim]Look into my [G#dim]eyes\n[Edim]C'-\n[Gdim]mon and [G#dim]thrust with me\n[Edim]\n[Gdim]Let's get [G#dim]down child\n\n[Intrelude]\n\n[Chorus]\n[A5]We'll scream\nso loud We can\n[F#5]even fucking\n[E5]breathe.\n[F#5]\n[G5]\n\n[Outro]\n[Edim]\n[Gdim]Sock it to me [G#dim]right now\n[G5]It's the [G#5]time The\n[G5]writing [G#5]on the\n[G5]wall It's [G#5]the time\n[G5]Love and [G#5]fall\n[Edim]\n[Gdim]Sock it to me [G#dim]right now\n[G5]It's the [G#5]time The writing\n[G5]on the [G#5]wall",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Edim": {
+      "catalog": [
+        "x7898x"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#dim": {
+      "catalog": [
+        "x-11-12-13-12-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gdim": {
+      "catalog": [
+        "x-10-11-12-11-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Vitally Important Pelvic Thrust",
+  "id": "9e2016c498e8497694d6cbe79cef0520e0c7298857296ad9118438990275a422",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 59,
+  "normalizedKey": "an albatross|the vitally important pelvic thrust",
+  "playableChords": [
+    "Edim",
+    "Gdim",
+    "G#dim",
+    "A5",
+    "F#5",
+    "E5",
+    "G5",
+    "G#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse"
+    },
+    {
+      "measure": 8,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9e2016c498e8497694d6cbe79cef0520e0c7298857296ad9118438990275a422",
+    "version": "BCFZ"
+  },
+  "tempo": 184,
+  "title": "The Vitally Important Pelvic Thrust",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,107 @@
+{
+  "artist": "Asaf Avidan",
+  "artistNormalized": "asaf avidan",
+  "capo": "6",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\n[C]  [Cadd9/B]\n[Am]\n[C]  [Cadd9/B]  [C]  [Cadd9/B]\n[Am]\n\n[Verse 1]\n[Am]No more tears, my heart is dry\n[C]I don't laugh and I don't cry I\n[G7]don't think about you all the time But\n[F]when I do, I wonder why You\n[Am]have to go out of my door And\n[C]leave just like you did before I\n[G7]know I said that I was sure But\n[F]rich men can't imagine poor\n\n[Chorus]\n[Am]One day baby, we'll be\n[C]old Oh baby, we'll be\n[G7]old And think about the stories\n[F]that we could have told\n[Am]One day baby, we'll be\n[C]old Oh baby, we'll be\n[G7]old And think about the stories\n[F]that we could have\ntold\n\n[Verse 2]\n[Am]Little me and little you Kept\n[C]doing all the things they do They\n[G7]never really think it through Like\n[F]I can never think you're true\n[Am]Here I go again the blame The\n[C]guilt, the pain, the hurt, the shame The\n[G7]founding fathers of our plane\nThat's\n[F]stuck in heavy clouds of rain\n\n[Chorus]\n[Am]One day baby, we'll be\n[C]old Oh baby, we'll be\n[G7]old And think about the stories\n[F]that we could have told\n[Am]One day baby, we'll be\n[C]old Oh baby, we'll be\n[G7]old And think about the stories\n[F]that we could have told\n[Am]One day baby, we'll be\n[C]old Oh baby, we'll be\n[G7]old And think about the stories\n[F]that we could have told\n[Am]One day baby, we'll be\n[C]old Oh baby, we'll be\n[G7]old And think about the stories\n[F]that we could have told\n[Am]One day baby, we'll be\n[C]old Oh baby, we'll be\n[G7]old Oh baby, we'll be\n[F]old Oh baby, we'll be\n\n[Outro]\n[Am]One day baby, we'll be\n[C]old Baby, we'll be\n[G7]old Think about stories\n[F]that we could have told\n[Am]One day baby, we'll be\n[C]old Oh baby, we'll be\n[G7]old And think about the stories\n[F]that we could have told",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9/B": {
+      "catalog": [
+        "x20010"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Reckoning Song",
+  "id": "fb28748e7c856485f273d2ba982a9ddaf9f5e8c12ce76c62ba9fffe34338d8f9",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 345,
+  "normalizedKey": "asaf avidan|reckoning song",
+  "playableChords": [
+    "Am",
+    "C",
+    "Cadd9/B",
+    "G7",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fb28748e7c856485f273d2ba982a9ddaf9f5e8c12ce76c62ba9fffe34338d8f9",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Reckoning Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

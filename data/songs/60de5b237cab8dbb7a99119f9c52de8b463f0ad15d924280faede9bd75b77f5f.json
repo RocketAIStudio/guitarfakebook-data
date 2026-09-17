@@ -1,0 +1,111 @@
+{
+  "artist": "Alphaville",
+  "artistNormalized": "alphaville",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]  [G]\n[Am]  [F]\n[G]  [Dm]\n[F]  [Am]  [G]\n\n[Verse 1]\n[C]Let's dance in style, [G]let's dance for a while\n[Am]Heaven can wait [F]we're only watching the skies\n[G]Hoping for the [Dm]best but expecting the worst\n[F]Are you gonna drop the [Am]bomb or not? [G]\n[C]Let us die young [G]or let us live fore-\n[Am]ver We don't have the [F]power but we never say ne-\n[G]ver Sitting in a [Dm]sandpit, life is a\n[F]short trip The music's for the [Am]sad men [G]\n[C]Can you [G]imagine when this race is won\n[Am]Turn our golden [F]faces into the sun\n[G]Praising our [Dm]leaders we're getting in tune\n[F]The music's played by the [Am]the mad [G]man\n\n[Chorus]\n[C]Forever young, [G]I want to be\n[Am]forever young [F]\n[G]Do you really want to [Dm]live forever?\n[F]Forever, [G]and ever\n[C]Forever young, [G]I want to be\n[Am]forever young [F]\n[G]Do you really want to [Dm]live forever?\n[F][G]Forever\n[C]young\n\n[Verse 2]\n[C]Some are like [G]water, some are like the heat\n[Am]Some are a [F]melody and some are the beat\n[G]Sooner or [Dm]later they all will be gone\n[F]Why don't they stay [Am]young [G]\n[C]It's so hard to get old [G]without a cause\n[Am]I don't want to [F]perish like a fading horse\n[G]Youth's like [Dm]diamonds in the sun\n[F]And diamonds are [Am]forever [G]\n[C]So many [G]adventures couldn't happen today\n[Am]So many songs [F]we forgot to play\n[G]So many dreams [Dm]swinging out of the blue\n[F]We let them come [Am]true [G]\n\n[Chorus]\n[C]Forever young, [G]I want to be\n[Am]forever young [F]\n[G]Do you really want to [Dm]live forever?\n[F]Forever, [G]and ever\n[C]Forever young, [G]I want to be\n[Am]forever young [F]\n[G]Do you really want to [Dm]live forever?\n[F]Forever, [G]and ever\n[C]Forever young, [G]I wanna be\n[Am]forever [F]young\n[G]Do you really want to [Dm]live forever?\n[F]  [G]\n\n[Solo]\n[C]  [G]\n[Am]  [F]\n[G]  [Dm]\n[F]  [Am]\n[C]  [G]\n[Am]  [F]\n[G]  [Dm]\n[F]  [Am]\n[C]  [G]\n[Am]  [F]\n[G]  [Dm]\n[F]  [Am]\n[C]  [G]\n[Am]  [F]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Forever young *alt",
+  "id": "60de5b237cab8dbb7a99119f9c52de8b463f0ad15d924280faede9bd75b77f5f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 359,
+  "normalizedKey": "alphaville|forever young",
+  "playableChords": [
+    "C",
+    "G",
+    "Am",
+    "F",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "60de5b237cab8dbb7a99119f9c52de8b463f0ad15d924280faede9bd75b77f5f",
+    "version": "BCFZ"
+  },
+  "tempo": 69,
+  "title": "Forever young",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

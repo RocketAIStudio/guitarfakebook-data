@@ -1,0 +1,108 @@
+{
+  "artist": "Arctic Monkeys",
+  "artistNormalized": "arctic monkeys",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]  [A]\n[Bb]  [C]\n[A]\n[G]  [A]\n[Bb]  [C]\n[A]\n\n[Verse 1]\n[G]Blind faith [A]\n[Bb]Heartache [C]\n[A]Mind games\nMistakes\n[G]My sweet [A]\n[Bb]fireball [C]\n[A]My sweet\nrigmarole I want\n\n[Chorus]\n[G]  [A]\n[Bb][C]it all\n[A]\nI want\n[G]  [A]\n[Bb][C]it all\n[A]\n\n[Verse 2]\n[G]Old dogs [A]\n[Bb]New tricks [C]\n[A]Can you\nfeel it?\n[G]Space age [A]\n[Bb]country girl [C]\n[A]Stone cold\nmiracle I want\n\n[Chorus]\n[G]  [A]\n[Bb][C]it all\n[A]\nI want\n[G]  [A]\n[Bb][C]it all\n[A]\nAnd then\n\n[Bridge]\n[A][G]suddenly it hit\n[Bb]me [C]it's a\n[A]year ago\nSince I\n[G]drank [A]miniature whis\n[Bb]key [C]and we\n[A]shared your coke\nAin't it just like\n[G]you [A]to kiss\n[Bb]me [C]\n[A]and then\nhit the road\n[G]Leave me [A]listening\n[Bb]to the [C]stones\n[A]Two hundred light\nyears from home\n\n[Solo]\n[G]  [A]\n[Bb]  [C]\n[A]Shoo wop shoo wop\nshoo wop shoo shoo wop shoo\n[G]wop wah [A]\n[Bb]  [C]\n[A]Shoo wop shoo wop\nshoo wop shoo shoo wop shoo\n[G]wop wah [A]\n[Bb]  [C]\n[A]Shoo wop shoo wop\nshoo wop shoo shoo wop shoo\n[G]wop wah [A]\n[Bb]  [C]\n[A]\nI want\n\n[Outro]\n[G]  [A]\n[Bb][C]it all\n[A]\nI want\n[G]  [A]\n[Bb][C]it all\n[A]\nI want\n[G]  [A]\n[Bb][C]it all\n[A]\nI want\n[G]  [A]\n[Bb][C]it all\n[A]\nI want\n[G]  [A]\n[Bb][C]it all\n[A]\nI want\n[G]  [A]\n[Bb][C]it all\n[A]\nI want\n[G]  [A]\n[Bb][C]it all\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Want It All",
+  "id": "d7f336805f80f60444dd24859682258cf691a4003a200cbafc8238ae49cb157f",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 170,
+  "normalizedKey": "arctic monkeys|i want it all",
+  "playableChords": [
+    "G",
+    "A",
+    "Bb",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d7f336805f80f60444dd24859682258cf691a4003a200cbafc8238ae49cb157f",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "I Want It All",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

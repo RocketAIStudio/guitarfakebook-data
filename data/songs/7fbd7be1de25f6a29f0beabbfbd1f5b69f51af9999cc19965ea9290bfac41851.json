@@ -1,0 +1,133 @@
+{
+  "artist": "Anberlin",
+  "artistNormalized": "anberlin",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Asus2]\n\n[Verse 1]\n[A]Do you re-\nmember when we were just\n[F#m]kids? And cardboard boxes took us\n[E]miles From what we would miss\n[A]Schoolyard conversations\ntaken to heart And\n[F#m]laughter took the place of\n[E]everything we knew We were\n\n[Pre-Chorus]\n[Aadd9]not\nI wanna break\n[C#m]every clock The\nhands of time could never move a-\n[Aadd9]gain We could\nstay in this moment\n[C#m](Stay in this moment)\nFor the rest of our lives\n[Dsus2]Is it over now, hey?\nIs it over now?\n\n[Chorus]\n[Dsus2]  [E]\n[F#m]I wanna be your last\n[Dsus2][E]first kiss\n[F#m]That you'll e-\n[Dsus2]ver have [E]\n[F#m]I wanna [E]be your last\n[Dsus2]first\nkiss\n\n[Verse 2]\n[A]Amazing how\nlife turns out\n[F#m]The way that it does\n[E]\n[A]We end up hurt-\ning the worst\n[F#m]The only ones we\n[E]really love\n\n[Pre-Chorus]\n[Aadd9]\nI wanna break\n[C#m]every clock The\nhands of time could never move a-\n[Aadd9]gain We could\nstay in this moment\n[C#m](Stay in this moment)\nFor the rest of our lives\n[E]Is it over now, hey?\nIs it over now?\n\n[Chorus]\n[Dsus2]  [E]\n[F#m]I wanna be your last\n[Dsus2][E]first kiss\n[F#m]That you'll e-\n[Dsus2]ver have [E]\n[F#m]I wanna [E]be your last\n[Dsus2]first\nkiss\n\n[Interlude]\n[A]\n[F#m]\n[E]\n[A]\n[F#m]\n[E]\n[A]\n[F#m]\n[E]\n[A]\n[F#m](Is it over now, hey?\n[E]Is it over now?)\n[Dsus2]Is it over now? Hey,\nit's not over now!\n\n[Chorus]\n[Dsus2]  [E]\n[F#m]I wanna be your last\n[Dsus2][E]first kiss\n[F#m]That you'll e-\n[Dsus2]ver have [E]\n[F#m]\n[Dsus2]I wanna [E]be your last\n[F#m]first love Till you're\n[Dsus2]lying here [E]beside me With arms\n[F#m]and eyes open wide\n[Dsus2]I wanna [E]be your last\n[F#m][E]first\n[Dsus2]kiss\nFor all time\n[A]  [E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Aadd9": {
+      "catalog": [
+        "577644"
+      ],
+      "catalogCount": 1
+    },
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "x46653",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Inevitable",
+  "id": "7fbd7be1de25f6a29f0beabbfbd1f5b69f51af9999cc19965ea9290bfac41851",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 278,
+  "normalizedKey": "anberlin|inevitable",
+  "playableChords": [
+    "Asus2",
+    "A",
+    "F#m",
+    "E",
+    "Aadd9",
+    "C#m",
+    "Dsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Interlude"
+    },
+    {
+      "measure": 75,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7fbd7be1de25f6a29f0beabbfbd1f5b69f51af9999cc19965ea9290bfac41851",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Inevitable",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

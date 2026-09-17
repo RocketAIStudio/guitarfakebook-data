@@ -1,0 +1,81 @@
+{
+  "artist": "Adam Lasher",
+  "artistNormalized": "adam lasher",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Bm]\n[A]\n[E]\nThe\n\n[Verse]\n[Bm]world was on fire\n[A]no one could save me but yo-\n[E]u\n[Bm]What foolish games commit\n[A]some\n[E]people do\n[Bm]I'd never dreamed\n[A]I'd meet someone like\n[E]you\n[Bm]I'd never dreamed that\n[A]I'd lose someone\n[E]like\nyou And\n\n[Chorus]\n[Bm]I\n[A]\n[E]don't want to\nfall in love\n[Bm]Ooh, I I\n[A]\n[E]don't want to\nfall in love\n\n[Outro]\n[E]\n[Bm]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "xx0232",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "022000",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x02220",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wicked Games",
+  "id": "ca14c153a1b595943c88732bbb5ee6a91511bb814a98837090b543f2df7732aa",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 61,
+  "normalizedKey": "adam lasher|wicked games",
+  "playableChords": [
+    "Bm",
+    "A",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ca14c153a1b595943c88732bbb5ee6a91511bb814a98837090b543f2df7732aa",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "Wicked Games",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

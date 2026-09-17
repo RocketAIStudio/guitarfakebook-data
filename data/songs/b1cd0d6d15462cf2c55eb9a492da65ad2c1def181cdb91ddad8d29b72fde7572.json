@@ -1,0 +1,133 @@
+{
+  "artist": "A-Ha",
+  "artistNormalized": "a ha",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Bm]  [C#m/G#]\n[A]  [D]\n[Bm]  [C#m/G#]\n[A][D]We're\n\n[Verse 1]\n[Bm]talking away [C#m/G#]\n[A]I don't know what [F#m]I'm to say I'll\n[Bm]say it anyway [C#m/G#]To-\n[A]day's another [F#m]day to find you\n[Bm]Shying away [C#m/G#]\n[F#m]I'll be coming for your [D]love, okay?\n\n[Chorus]\n[A]Take [C#m/G#]on\n[F#m]me,\n[A]Take [C#m/G#]me\n[F#m]on, [D]\n[A]I'll [C#7/G#]be\n[F#m]gone [D]In a day or\n[A]two [C#m/G#]\n[D]So need\n\n[Verse 2]\n[Bm]less to say [C#m/G#]I'm\n[A]odds and ends [F#m]But that's me I'm\n[Bm]stumbling away [C#m/G#]\n[A]Slowly learning that [F#m]life is OK\n[Bm]Say after me [C#m/G#]\n[F#m]It's no better to be [D]safe than sorry and\n\n[Chorus]\n[A]Take [C#m/G#]on\n[F#m]me,\n[A]Take [C#m/G#]me\n[F#m]on, [D]\n[A]I'll [C#7/G#]be\n[F#m]gone [D]In a day or\n[A]two [C#m/G#]\n[D]\n\n[Interlude]\n[Bm]  [C#m/G#]\n[A]  [F#m]\n[Bm]  [C#m/G#]\n[A]  [F#m]\n[Bm]  [C#m/G#]\n[F#m][D]Oh the\n\n[Verse 3]\n[Bm]things that you say [C#m/G#]\n[A]Is it live or [F#m]Just to play my\n[Bm]worries away [C#m/G#]You're\n[A]all the things I've got [F#m]to remember\n[Bm]You're shying [C#m/G#]away\n[F#m]I'll be coming for you [D]anyway and\n\n[Chorus]\n[A]Take [C#m/G#]on\n[F#m]me,\n[A]Take [C#m/G#]me\n[F#m]on, [D]\n[A]I'll [C#/G#]be\n[F#m]gone [D]In a day or\n[A]two [C#m/G#]\n[F#m]  [D]\n[A]I'll [C#/G#]be\n[F#m]gone [D]In a day or\n\n[Outro]\n[A]two [C#m/G#]\n[F#m][D]In a day or\n[A]two [C#m/G#]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#/G#": {
+      "catalog": [
+        "446664"
+      ],
+      "catalogCount": 1
+    },
+    "C#7/G#": {
+      "catalog": [
+        "446464"
+      ],
+      "catalogCount": 1
+    },
+    "C#m/G#": {
+      "catalog": [
+        "446654"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Take On Me *alt 2",
+  "id": "b1cd0d6d15462cf2c55eb9a492da65ad2c1def181cdb91ddad8d29b72fde7572",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 181,
+  "normalizedKey": "a ha|take on me",
+  "playableChords": [
+    "Bm",
+    "C#m/G#",
+    "A",
+    "D",
+    "F#m",
+    "C#7/G#",
+    "C#/G#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b1cd0d6d15462cf2c55eb9a492da65ad2c1def181cdb91ddad8d29b72fde7572",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "Take On Me",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

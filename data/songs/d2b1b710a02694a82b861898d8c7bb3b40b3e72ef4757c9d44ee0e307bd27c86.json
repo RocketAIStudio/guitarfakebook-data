@@ -1,0 +1,115 @@
+{
+  "artist": "Alice In Chains",
+  "artistNormalized": "alice in chains",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Db]  [Db/F]\n[Gb]  [Ab7]\n[Db]  [Db/F]\n[Gb]  [Ab7]\n\n[Verse 1]\n[Db]Hey, [Db/F]\n[Gb]I ain't [Ab7]never coming\n[Db]home [Db/F]\n[Gb]  [Ab7]\n[Db]Hey, [Db/F]\n[Gb]I'll just [Ab7]wander my own\n[Db]road [Db/F]\n[Gb]  [Ab7]\n[Db]Hey, [Db/F]hey,\n[Gb]I can't [Ab7]meet you here tomor-\n[Db]row, [Db/F]no\n[Gb][Ab7]Say goodbye, don't\n[Gb]follow\n[Ab7]Misery so hol-\n\n[Break]\n[Db]low [Db/F]\n[Gb]  [Ab7]\n[Db]  [Db/F]\n[Gb]  [Ab7]\n\n[Verse 2]\n[Db]Hey [Db/F]\n[Gb]you, you're [Ab7]livin' life full\n[Db]throttle [Db/F]\n[Gb]  [Ab7]\n[Db]Hey [Db/F]\n[Gb]you, [Ab7]pass me down that\n[Db]bottle, yeah [Db/F]\n[Gb]  [Ab7]\n[Db]Hey, [Db/F]hey\n[Gb]you, [Ab7]you can't shake me round\n[Db]now [Db/F]\n[Gb]I [Ab7]get so lost and don't\n[Gb]know how, yeah\n[Ab7]And it hurts to care, I'm\n[Db]going down\n\n[Bridge]\n[Ab]\n[Db]\n[Ab]\n[Db]\n\n[Harmonica Solo]\n[Ab]\n[Db]\n[Ab]\n[Db]Ooh, for-\n\n[Verse 3]\n[Ab]got my woman, lost my friends\n[Db]Things I'd done and where I've been\n[Ab]Sleep in sweat the mirrors cold\n[Db]See my face it's growin' old\n[Ab]Scared to death no reason why\n[Db]Do whatever to get me by\n[Ab]Think about the things I said\n[Db]Read the page it's cold and dead And take me\n[Ab]home\n[Db]Yeah, take me\n[Ab]home, oh oh\n[Db]Take me\n[Ab]home\n[Db]Take me\n[Ab]home, yeah\n[Db]Take me\n[Ab]home\n\n[Outro]\n[Gb]  [Ab7]\n[Gb]\n[Ab7]Say goodbye, don't\n[Db]follow",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x02220",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Ab7": {
+      "catalog": [
+        "x02020",
+        "4-3-1-1-1-2",
+        "4-6-4-5-4-4",
+        "x-x-6-8-7-8",
+        "x-11-10-11-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Db/F": {
+      "catalog": [
+        "200232"
+      ],
+      "catalogCount": 1
+    },
+    "Gb": {
+      "catalog": [
+        "320033",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Don't Follow *alt",
+  "id": "d2b1b710a02694a82b861898d8c7bb3b40b3e72ef4757c9d44ee0e307bd27c86",
+  "key": "D♭",
+  "keyIdentified": true,
+  "lyricEventCount": 168,
+  "normalizedKey": "alice in chains|don t follow",
+  "playableChords": [
+    "Db",
+    "Db/F",
+    "Gb",
+    "Ab7",
+    "Ab"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Break"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Harmonica Solo"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 63,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d2b1b710a02694a82b861898d8c7bb3b40b3e72ef4757c9d44ee0e307bd27c86",
+    "version": "BCFZ"
+  },
+  "tempo": 58,
+  "title": "Don't Follow",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

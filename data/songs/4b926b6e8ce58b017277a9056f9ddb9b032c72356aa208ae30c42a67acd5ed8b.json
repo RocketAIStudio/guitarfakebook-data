@@ -1,0 +1,123 @@
+{
+  "artist": "Amon Amarth",
+  "artistNormalized": "amon amarth",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[F#5]\n[E5]\n[C#5]\n[F#5]\n[E5]\n[C#5]\n\n[Bridge]\n[F#5]\n[E5]\n[A5/E]\n[D5]\n[E5]\n[D5]\n[C#5]\n[F#5]\n[E5]\n[A5/E]\n[D5]\n[E5]\n[D5]\n[C#5]The\n\n[Verse 1]\n[F#5]icy winter is\ncreeping near [E5]\n[A5/E]Dark skies above\nus [D5]\n[E5]Buting frost is\nin the air\n[D5]Darkness surrounds\n[C#5]us The\n[F#5]cold, piercing au-\ntumn breeze [E5]\n[A5/E]Fills the longship sail\n[D5]\n[E5]Soon the lakes and\nseas will freeze And\n[D5]snow will lay its veil\n[C#5]\n\n[Bridge]\n[B5]Many years\nwe are been away\n[A5]\n[C#5]The\noceans we have roamed\n[B5]Now the\nnorth star\nguides us on our way\n[A5]\n[C#5]As\nwe are headed home\n\n[Chorus]\n[B5]\n[A5]\n[G5]\n[F#5]\nThe\n[B5]many hardships we've\nendured Have\n[A5]brought us rich reward\n[G5]Now the north star\nguides us home With\n[F#5]cargo full of gold\n[B5]\n[A5]\n[G5]\n[F#5]\n[B5]Many friends died on\nthe way Only\n[A5]few of us survived\nBut\n[G5]I would gladly\ntake their place In\n[F#5]Oden's hall up high\n\n[Interlude]\n[B5]\n[A5]\n[C#5]\n[B5]\n[A5]\n[C#5]\nThe\n\n[Verse 2]\n[F#5]icy winter is\ncreeping near [E5]\n[A5/E]Dark skies above\nus [D5]\n[E5]Buting frost is\nin the air\n[D5]Darkness surrounds\n[C#5]us\n[F#5]Soon the lakes and seas\nwill freeze [E5]\n[A5/E]Snow will lay its veil\n[D5]And\n[E5]we will long for the\nsummer breeze When\n[D5]we can\n[C#5]set our\n\n[Outro]\n[F#5]sails\n[E5]\n[A5/E]\n[D5]\n[E5]\n[D5]\n[C#5]\n[F#5]\n[E5]\n[A5/E]\n[D5]\n[E5]\n[D5]\n[C#5]  [B5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "A5/E": {
+      "catalog": [
+        "5577xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "022xxx",
+        "x799xx"
+      ],
+      "catalogCount": 2
+    },
+    "C#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x022xx",
+        "577xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "x244xx",
+        "799xxx"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Under The Northern Star",
+  "id": "4b926b6e8ce58b017277a9056f9ddb9b032c72356aa208ae30c42a67acd5ed8b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 188,
+  "normalizedKey": "amon amarth|under the northern star",
+  "playableChords": [
+    "F#5",
+    "E5",
+    "C#5",
+    "A5/E",
+    "D5",
+    "B5",
+    "A5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 99,
+      "name": "Interlude"
+    },
+    {
+      "measure": 115,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 131,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4b926b6e8ce58b017277a9056f9ddb9b032c72356aa208ae30c42a67acd5ed8b",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Under The Northern Star",
+  "tuning": "B E A D F# B",
+  "variantRole": "primary"
+}

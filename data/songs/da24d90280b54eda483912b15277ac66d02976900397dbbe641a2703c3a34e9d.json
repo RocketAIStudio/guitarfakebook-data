@@ -1,0 +1,137 @@
+{
+  "artist": "Arctic Monkeys",
+  "artistNormalized": "arctic monkeys",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E]\n\n[Verse 1]\n[E]I etched the face\nof a stopwatch\n[C#m]On the back\nof a raindrop\n[G#]And did a swap\nfor the sand In an\n[A]hourglass\n[E]I heard an un-\nhappy ending\n[C#m]It sort of sounds\nlike you leaving\n[G#]I heard the pile-\ndriver waltz\n[A]It woke me up\nthis morning\n\n[Pre-Chorus]\n[E]\nYou look like you've\n\n[Chorus]\n[A]been for breakfast at the\n[F#m]Heartbreak Ho-\n[C#m]tel And sat in the\nback booth by the\n[A]pamphlets and the\n[F#m]lit'rature\n[C#m]on how to\nlose Your\n[A]waitress was\n[B]mis'rable and\n[E]so was your\n[G#]food If you're going to\n[A]try and walk on water\nmake sure you wear your\n[B]comfortable\nsho es\n\n[Verse 2]\n[E]Mysteries\nflashing amber\n[C#m]Go green\nwhen you answer But the\n[G#]red on the rest\nof the questionnaire\n[A]Never\nchanges\n[E]I heard the news\nthat you're planning\n[C#m]To shoot me out\nof a cannon\n[G#]I heard the pile-\ndriver waltz\n[A]It woke me up\nthis morning\n\n[Pre-Chorus]\n[E]\nYou look like you've\n\n[Chorus]\n[A]been for breakfast at the\n[F#m]Heartbreak Ho-\n[C#m]tel And sat in the\nback booth by the\n[A]pamphlets and the\n[F#m]lit'rature\n[C#m]on how to\nlose Your\n[A]waitress was\n[B]mis'rable and\n[E]so was your\n[G#]food If you're going to\n[A]try and walk on water\nmake sure you wear your\n[B]comfortable\nsho es\n[B7]Oh\n\n[Solo]\n[E]Pile-\ndriver\n[C#m]\n[G#]\n[A]\n[E]\n[C#m]\n[G#]\n[A]\n[E]\n[C#m]\n[G#]\n[A]\n[E]\n[C#m]\n[G#]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "797877",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Piledriver Waltz",
+  "id": "da24d90280b54eda483912b15277ac66d02976900397dbbe641a2703c3a34e9d",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 250,
+  "normalizedKey": "arctic monkeys|piledriver waltz",
+  "playableChords": [
+    "E",
+    "C#m",
+    "G#",
+    "A",
+    "F#m",
+    "B",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "da24d90280b54eda483912b15277ac66d02976900397dbbe641a2703c3a34e9d",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Piledriver Waltz",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

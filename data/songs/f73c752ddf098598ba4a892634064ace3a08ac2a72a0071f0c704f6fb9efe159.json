@@ -1,0 +1,146 @@
+{
+  "artist": "Albert King",
+  "artistNormalized": "albert king",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Dm]\n\n[Verse 1]\n[Dm]Laying around home alone\nOn a rainy night like\nthis\n[G]Starving for your love\nHungry for just one\n[Dm]kiss\nEvery raindrop I hear\nOn my window\npane yeah\n[G]Beats so loud and clear\nWhy does it tell your\n[Dm]name?\n[G]I got nowhere to turn to\n[F]Tired of being alone\n[G]I feel like breaking up somebody's\n[Dm]home\n\n[Verse 2]\n[Dm]I know it's useless\n[G]Hanging on to you When you belong to someone\n[Dm]else\nCan't control the feelin'\n[G]Cause after all I didn't make it my-\n[Dm]self\nyeah\n\n[Bridge]\n[C]  [Dm]\n\n[Verse 3]\n[Dm]Last night I cried so hard\nI believe I caught a\nchill\n[G]Can't control the vibration\nMy heart just won't stand\n[Dm]still\n[G]I got nowhere to turn to\n[F]Tired of being alone\n[G]I feel like breaking up somebody's\n[Dm]home\n\n[Guitar Solo 1]\n[Dm]\n[G]I know you\nhear me talkin'\n[Dm]\n[Am]\n[G]\n[Dm]\n\n[Verse 4]\n[Dm]I know it's useless\n[G]Hanging on to you When you belong to someone\n[Dm]else\n[Dm]Can't control the vibration\n[G]Cause after all I didn't make it my-\n[Dm]self\n[G]I got nowhere to turn to\n[F]Tired of being alone\n[G]I feel like breaking up somebody's\n[Dm]home\n\n[Guitar Solo 2]\n[Dm]\n\n[Guitar Solo 3]\n[D7]\n\n[Verse 5]\n[Dm]I know it's useless\nHanging on to you When you belong to someone\nelse\nCan't control the vibration\n[G]Cause after all I didn't make it my-\n[Dm]self\n[G]I got nowhere to turn to\n[F]Tired of being alone\n[G]I feel like breaking up somebody's\n[Dm]home\n\n[Guitar Solo 3]\n[Dm]\n\n[Outro (Fade Out)]\n[Dm]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Breaking up Somebody's Home",
+  "id": "f73c752ddf098598ba4a892634064ace3a08ac2a72a0071f0c704f6fb9efe159",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 263,
+  "normalizedKey": "albert king|breaking up somebody s home",
+  "playableChords": [
+    "Dm",
+    "G",
+    "F",
+    "C",
+    "Am",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Bridge"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Guitar Solo 1"
+    },
+    {
+      "measure": 62,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 75,
+      "name": "Guitar Solo 2"
+    },
+    {
+      "measure": 89,
+      "name": "Guitar Solo 3"
+    },
+    {
+      "measure": 126,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 139,
+      "name": "Guitar Solo 3"
+    },
+    {
+      "measure": 159,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f73c752ddf098598ba4a892634064ace3a08ac2a72a0071f0c704f6fb9efe159",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "Breaking up Somebody's Home",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

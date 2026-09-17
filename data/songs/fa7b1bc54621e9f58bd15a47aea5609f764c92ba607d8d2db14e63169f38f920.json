@@ -1,0 +1,104 @@
+{
+  "artist": "Alcest",
+  "artistNormalized": "alcest",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D#m]\n[Bmaj7]\n[Gb/F]\n[Bmaj7]\n[D#m]\n[Bmaj7]\n[Gb/F]\n[Bmaj7]\n[D#m]\n[Bmaj7]\n[Gb/F]\n[Bmaj7]\n[D#m]\n[Bmaj7]\n[Gb/F]\n[Bmaj7]\nD'où\n\n[Verse 1]\n[D#m]je viens\nle temps n'exis-\n[Bmaj7]te pas,\nLes\n[Gb/F]secondes\ndevie-\n[Bmaj7]nnent des heu-\nres, Les\n[D#m]années\nde courts\n[Bmaj7]instant\n[Gb/F]sitôt\nen-\n[Bmaj7]volés\nEt nos\n[D#m]mots\ntrom-\n[Bmaj7]peurs\nsont repla-\n[Gb/F]cés Par la mu-\nsique et\n[Bmaj7]les couleurs\nQui\n[D#m]flottent\ncomme des\n[Bmaj7]parfums\n[Gb/F]dans\nl'air\n[Bmaj7]ambré\n\n[Chorus]\n[C#]\n[D#m]\n[Bmaj7]\n[C#]\n[D#m]\n[Bmaj7]\n[C#]\n[D#m]\n[Bmaj7]\n[C#]\n[D#m]\n[Bmaj7]\n\"N'aie\n\n[Verse 2]\n[D#m]crainte,\nà présent tout est\n[Bmaj7]fini\nBrise\n[Gb/F]les chaînes\nde tes\n[Bmaj7]peurs mortelles\nPour à\n[D#m]jamais\nen être li-\n[Bmaj7]béré\nEt re-\n[Gb/F]trouver\nla quiétude\n[Bmaj7]passée.\nN'aie\n[D#m]crainte,\nà présent tout est\n[Bmaj7]fini\nLaisse\n[Gb/F]couler tes\nlarmes une\n[Bmaj7]dernière fois\nPour à\n[D#m]jamais\nen être\n[Bmaj7]libéré\nEt\n[Gb/F]rejoins\nle monde\n[Bmaj7]d'où tu viens\".\n\n[Chorus]\n[C#]\n[D#m]\n[Bmaj7]\n[C#]\n[D#m]\n[Bmaj7]\n[C#]\n[D#m]\n[Bmaj7]\n[C#]\n[D#m]\n[Bmaj7]\n\n[Bridge]\n[Bmaj7]\n[Gb/Bb]\n[Bmaj7]\n[Gb/Bb]\n[Bmaj7]\n[Gb/Bb]\n[Bmaj7]\n[Gb/Bb]\n\n[Outro]\n[Bmaj7]\n[Gb/Bb]\n[D#m]\n[Bmaj7]\n[Gb/Bb]\n[D#m]\n[Bmaj7]\n[Gb/Bb]\n[D#m]\n[Bmaj7]\n[Gb/Bb]\n[D#m]\n[Bmaj7]\n[Gb/Bb]\n[D#m]\n[Bmaj7]\n[Gb/Bb]\n[D#m]\n[Bmaj7]\n[Gb/Bb]\n[D#m]\n[Bmaj7]\n[Gb/Bb]\n[D#m]",
+  "diagrams": {
+    "Bmaj7": {
+      "catalog": [
+        "x35000",
+        "x35400",
+        "x35500",
+        "x-2-4-3-4-2",
+        "7-6-4-4-4-6"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "025000",
+        "022003"
+      ],
+      "catalogCount": 2
+    },
+    "Gb/Bb": {
+      "catalog": [
+        "x2540x"
+      ],
+      "catalogCount": 1
+    },
+    "Gb/F": {
+      "catalog": [
+        "22003x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Souvenirs D'un Autre Monde",
+  "id": "fa7b1bc54621e9f58bd15a47aea5609f764c92ba607d8d2db14e63169f38f920",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 117,
+  "normalizedKey": "alcest|souvenirs d un autre monde",
+  "playableChords": [
+    "D#m",
+    "Bmaj7",
+    "Gb/F",
+    "C#",
+    "Gb/Bb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 113,
+      "name": "Chorus"
+    },
+    {
+      "measure": 129,
+      "name": "Bridge"
+    },
+    {
+      "measure": 161,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fa7b1bc54621e9f58bd15a47aea5609f764c92ba607d8d2db14e63169f38f920",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Souvenirs D'un Autre Monde",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

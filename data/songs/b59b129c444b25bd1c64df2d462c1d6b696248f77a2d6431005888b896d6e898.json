@@ -1,0 +1,125 @@
+{
+  "artist": "AC DC",
+  "artistNormalized": "ac dc",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G]\n[G7]\n[G7]  [C]\n[G7]  [C]\n[G7]  [C]\n[G]\n\n[Bridge]\n[G5]  [C5]\n[A#5]  [G5]\n[G5]  [C5]\n[A#5]  [G5]\n[G5]  [C5]\n[A#5]  [G5]\n[G5]  [C5]\n[A#5]  [G5]\n[F5]  [C5]\n[A#5]  [G5]\n[F5]  [C5]\n[A#5]  [G5]\n\n[Verse 1]\n[G5]The storm [C5]is raging\n[A#5][G5]Winds are howling\n[G5]The [C5]water's calling\n[A#5]rescue [G5]you\n[G5]A flash [C5]of lightning\n[A#5]At [G5]times a frightening\n[G5]A wind [C5]is coming And the\n[A#5]sun don't [G5]shine\n\n[Chorus]\n[F5]Rain [C5]day\n[A#5]May [G5]day\n[F5]May [C5]day Stormy\n[A#5]rain day [G5]\n[F5]Rain [C5]day\n[A#5]May [G5]day\n[F5]May [C5]day Stormy\n[A#5]rain day [G5]\n\n[Bridge]\n[G5][C5]Stormy\n[A#5]May [G5]day\n[G5]  [C5]\n[A#5]  [G5]\n[G5]  [C5]\n[A#5]  [G5]\n[G5]  [C5]\n[A#5]  [G5]\n\n[Verse 2]\nThe sky is darkening\nThe dogs are barking\nA call for help you hope they\nGet you through\nA clap of thunder\nA split us under\nThe people running And the\nmoon doth rise\n\n[Chorus]\n[F5]Rain [C5]day\n[A#5]May [G5]day\n[F5]May [C5]day Stormy\n[A#5]rain [G5]day\n\n[Outro]\n[F5]Rain [C5]day\n[A#5]May [G5]day\n[F5]Rain [C5]day Stormy\n[A#5]May day [G5]\n[F5]Rain [C5]day\n[A#5]May [G5]day\n[F5]Rain [C5]day Stormy\n[A#5]May day [G5]",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "x133xx"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G7": {
+      "catalog": [
+        "320031",
+        "3-2-0-0-0-1",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Stormy May Day Live",
+  "id": "b59b129c444b25bd1c64df2d462c1d6b696248f77a2d6431005888b896d6e898",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 135,
+  "normalizedKey": "ac dc|stormy may day live",
+  "playableChords": [
+    "G",
+    "G7",
+    "C",
+    "G5",
+    "C5",
+    "A#5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b59b129c444b25bd1c64df2d462c1d6b696248f77a2d6431005888b896d6e898",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Stormy May Day Live",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

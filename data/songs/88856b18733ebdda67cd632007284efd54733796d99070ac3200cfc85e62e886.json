@@ -1,0 +1,112 @@
+{
+  "artist": "Alice Cooper",
+  "artistNormalized": "alice cooper",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n[F]\n[G]\n[F]\n\n[Verse 1]\n[Am]Billion dollar\n[F]baby.\n[G]Rubber little lady, slicker than a weasel.\n[F]Grimy as an alley, loves me like no other lover.\n[Am]\n[F]\n[G]\n[F]\n\n[Chorus]\n[E]We go dancing nightly\n[Am]in the attic, While the\n[E]moon is rising in the\n[Am]sky.\n[E]If I'm too rough, tell me,\n[Am]I'm so scared your little\n[E]head will come off in my\n[F]hands.\n[G]\n\n[Break]\n[Am]\nAh!\n\n[Solo]\n[Am]\n[F]\n[G]\n[F]\n[Am]\n[F]\n[G]\n[F]Yeah!\n\n[Verse 2]\n[Am]Billion dollar\n[F]baby. I\n[G]got you in a dimestore. No other little girl could ever\n[F]Hold you any tighter, any tighter than me baby.\n[Am]\n[F]\n[G]\n[F]\n\n[Chorus]\n[E]We go dancing nightly\n[Am]in the attic, While the\n[E]moon is rising in the\n[Am]sky.\n[E]If I'm too rough, tell me,\n[Am]I'm so scared your little\n[E]head will come off in my\n[F]hands.\n[G]\n\n[Verse 3]\n[Am]\n[F]Yeah.\n[G]Billion dollar\n[F]baby.\n[Am]Trillion dollar\n[F]baby.\n[G]Zillion dollar\n[F]baby.\n\n[Outro]\n[Am]\n[F]\n[G]\n[F]\n[Am]\n[F]\n[G]\n[F]\n[Am]\n[F]\n[G]\n[F]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Billion Dollar Babies",
+  "id": "88856b18733ebdda67cd632007284efd54733796d99070ac3200cfc85e62e886",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 165,
+  "normalizedKey": "alice cooper|billion dollar babies",
+  "playableChords": [
+    "Am",
+    "F",
+    "G",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Break"
+    },
+    {
+      "measure": 32,
+      "name": "Solo"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 48,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 67,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "88856b18733ebdda67cd632007284efd54733796d99070ac3200cfc85e62e886",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "Billion Dollar Babies",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

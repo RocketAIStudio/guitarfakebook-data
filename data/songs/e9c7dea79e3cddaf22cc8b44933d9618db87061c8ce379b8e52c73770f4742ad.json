@@ -1,0 +1,131 @@
+{
+  "artist": "As I Lay Dying",
+  "artistNormalized": "as i lay dying",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[C5]  [G5]  [Ab5]\n[C5]  [G5]  [F5]\n[Eb5]\n[C5]  [G5]  [Ab5]\n[C5]  [G5]  [F5]\n[Eb5]Yeah\n[C5]  [G5]  [Ab5]\n[C5]  [G5]  [F5]\n[Eb5]\n[C5]  [G5]  [Ab5]\n[C5]  [G5]  [F5]\n[Eb5]\n\n[Verse 1]\n[C5]I have [Ab5][G5]traveled\n[C5]so far [G5]to [F5]find\n[Eb5]\n[C5]so [G5]little [Ab5]\n[C5]Meaning [G5][F5]\nin [Eb5]trage-\n[C5]dy [G5][Ab5]\n[C5]or [G5][F5]\n[Eb5]trage-\n[C5]dy [G5][Ab5]\n[C5]  [G5]  [F5]\n[Eb5]\n[Ab]\n[G5]Dark clouds have\n[Ab5]lead [Bb5]me\n\n[Bridge]\n[C5]here\nYeah\n[F5]  [Ab5]\n[C5]\n[F5]  [Ab5]\n[C5]Confined\nfreedom\n[F5]Guides [Ab5]\n[C5]us to\n[Ab5][F5]securi-\n\n[Intrelude]\n[C5]ty [G5][Ab5]\n[C5]What [G5]if [F5]e-\nverything [Eb5]\n[C5]  [G5]  [Ab5]\n[C5]I have [G5]been [F5]\n[Eb5]taught is\n\n[Verse 2]\n[C5]a lie [G5][Ab5]\n[C5]And all [G5]of [F5]my\n[Eb5]teach-\n[C5]ers [G5][Ab5]\n[C5]I [G5]have [F5]been\nwrong this [Eb5]whole\n\n[Middle]\n[C5]time\n[Daug]Compelling us\n[F5]to fight The bat-\ntles\n[Absus2]they would\nnot\n[C5]They have\n[Daug]already won\n[Ab5]And we\nhave\n[F5]already\n\n[Intrelude]\n[C5]lost\n[Daug]If we\n[F5]do not\nlearn\n[Absus2]from their\nmis-\n[C5]takes\n[Daug]We have\n[Ab5]alrea-\ndy\n[F5]lost\n\n[Outro]\n[C5]\nYeah\nIf we\nalready\nlost\nIf we\ndo not\nlearn to\nchange",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "8-8-12-x-x-x",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Ab5": {
+      "catalog": [
+        "888xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Absus2": {
+      "catalog": [
+        "8-8-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Bb5": {
+      "catalog": [
+        "10-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Daug": {
+      "catalog": [
+        "2321xx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Meaning In Tragedy",
+  "id": "e9c7dea79e3cddaf22cc8b44933d9618db87061c8ce379b8e52c73770f4742ad",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 118,
+  "normalizedKey": "as i lay dying|meaning in tragedy",
+  "playableChords": [
+    "C5",
+    "G5",
+    "Ab5",
+    "F5",
+    "Eb5",
+    "Ab",
+    "Bb5",
+    "Daug",
+    "Absus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 59,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 75,
+      "name": "Middle"
+    },
+    {
+      "measure": 91,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 107,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e9c7dea79e3cddaf22cc8b44933d9618db87061c8ce379b8e52c73770f4742ad",
+    "version": "BCFZ"
+  },
+  "tempo": 177,
+  "title": "Meaning In Tragedy",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

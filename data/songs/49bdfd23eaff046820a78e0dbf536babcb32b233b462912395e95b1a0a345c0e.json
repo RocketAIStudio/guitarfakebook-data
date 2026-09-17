@@ -1,0 +1,130 @@
+{
+  "artist": "Arctic Monkeys",
+  "artistNormalized": "arctic monkeys",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Cm]\n\n[Verse 1]\n[Cm]So when you gaze at planet Earth from outer\n[D]space\n[Gm]Does it wipe that stupid look off of your\n[Cm]face? I saw this aura over the battleground\n[D]states I lost the\n[Gm]money, lost the keys But I'm still handcuffed to the\n[Eb]briefcase\n[F]And I never\n\n[Chorus]\n[Eb]thought,\n[F]not in a million year\n[Eb]That I'd meet [F]so many lo-\n[Cm]vers Can I please have my money back? My virtu-\n[D]al reality mask is\n[Gm]stuck on Parliament Brawl\n[Cm]Emergency battery pack, just in\n[D]time for my weekly chat With\n[Gm]God on video call\n\n[Verse 2]\n[Cm]Breaking news, they take the truth and make it\n[D]fluid The\n[Gm]trainer's explanation was accepted by the\n[Cm]steward A montage of the latest ancient\n[D]ruins\n[Gm]Soundtracked by a chorus of You don't know what you're\n[Eb]doing\n[F]And I never\n\n[Chorus]\n[Eb]thought,\n[F]not in a million years\n[Eb]That I'd meet [F]so many lo-\n[Cm]vers\n[D]\n[Gm]\n\n[Break]\n[A]And all\nof my\n[F]most muscular reg-\nrets Ex-\n[D]plode behind my\neyes like A-\n[Gm]merican sports\n[Eb]\n[F]And I\n\n[Chorus]\n[Eb]never thought,\n[F]not in a million year\n[Eb]That I'd meet [F]so many lo-\n[Cm]vers\n\n[Outro]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "x-8-10-10-10-8",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "American Sports",
+  "id": "49bdfd23eaff046820a78e0dbf536babcb32b233b462912395e95b1a0a345c0e",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 231,
+  "normalizedKey": "arctic monkeys|american sports",
+  "playableChords": [
+    "Cm",
+    "D",
+    "Gm",
+    "Eb",
+    "F",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Break"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "49bdfd23eaff046820a78e0dbf536babcb32b233b462912395e95b1a0a345c0e",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "American Sports",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

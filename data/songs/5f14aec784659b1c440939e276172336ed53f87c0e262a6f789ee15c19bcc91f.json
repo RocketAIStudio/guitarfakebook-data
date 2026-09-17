@@ -1,0 +1,119 @@
+{
+  "artist": "AC_DC",
+  "artistNormalized": "ac dc",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n\n[Verse]\n[Am]Well the [D#]devil [D]may care\n[Am]  [D#]  [D]\n[Am]You toss ‘em [D#]back and [D]be a m-\n[Am]an [D#][D]\n\n[Chorus]\n[Am]With the [C]last [D]tim-\ne, Black ice\n[D]  [C]  [Am]\nEnd of it all, end of the\n[Am]line, [C][D]\nEnd of the road,\n[D]  [C]  [Am]\nBlack\n[Am]ice, [D#][D]\n[Am][D#][D]Black\n[Am]ice, [D#][D]\n[Am]  [D#]  [D]\n\n[Verse 2]\n[Bm]Come on and bleeding out the\ncrowds,\nWe’re watching all the women\ngo,\nMany a mile I’ll never\ntake,\nI run for forty miles and\ncome up runnin late,\n[Am]Don’t you [D#]know I [D]live it down,\n[Am]  [D#]  [D]\n[Am]When the devil [D#]come a [D]callin\n[Am]aint gona be around, [D#][D]\n\n[Chorus]\n[Am]  [C]  [D]\n[D][C]Black [Am]ice,\n[Am][C]Black [D]ice,\n[Am][D][C]Black ice,\n[Am][C]Black [D]ice\n[D]  [C]  [Am]\n[Am]The [C]devil come a [D]callin i\n[D]aint gonna be [C]around [Am]\n\n[Solo]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n\n[Verse 3]\n[Bm]Livin long, a livin long\nSleep all alone, you’re gonna take it all,\n[Am]And I’m [D#]gonna [D]rip it out\n[Am][D#][D]I’ll\n[Am]kick, I creep crawl [D#]down your [D]street I’ll\n[Am]gouge your eyes [D#]out [D]\n\n[Chorus]\n[Am]  [C]  [D]\n[D][C]Black [Am]ice,\n[Am][C]Black [D]ice,\n[Am][D][C]Black ice,\n[Am][C]Black [D]ice\n[D][C]My [Am]life,\n[Am][C]Black [D]ice\n[D]  [C]  [Am]\n\n[Outro]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n[Am]  [D#]  [D]\n[Am]When the devil [D#]come a [D]callin\n[Am]aint gonna be around, [D#][D]I’ll\n[Am]kick, I creep crawl [D#]down your [D]street, and\n[Am]gouge your eyes [D#]out, [D][C]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "xx0232",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "x68886"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Black Ice",
+  "id": "5f14aec784659b1c440939e276172336ed53f87c0e262a6f789ee15c19bcc91f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 204,
+  "normalizedKey": "ac dc|black ice",
+  "playableChords": [
+    "Am",
+    "D#",
+    "D",
+    "C",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Solo"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5f14aec784659b1c440939e276172336ed53f87c0e262a6f789ee15c19bcc91f",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "Black Ice",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,112 @@
+{
+  "artist": "AC DC",
+  "artistNormalized": "ac dc",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[D]  [A]\n[D]  [A]\n[Em]\n[G]\n[D]  [A]\n[D]  [A]\n[Em]\n[G]\n[D]  [A]\n[D]  [A]\n[Em]\n[G]\n[D]  [A]\n[D]  [A]\n[Em]\n[G]\n[D]  [G]\n[A]\n[Em]\nYou put your\n\n[Verse 1]\n[Em]foot to the floor\nDon't\nneed no more\nYou've been\ndigging all around\nWhile you're\nmessing about\n\n[Chorus]\n[D]Better catch her [A]name\n[D]Come on [A]in\n[D]Gimme that [A]thing That\n[D]thing gone [G]\n[A]wild\n[Em]War Machine\nWar Machine\nMake a\n\n[Verse 2]\n[Em]stand show your hand\nCalling a\nhigh command\nDon't think\njust demand\nI'm like a\nbird of prey\n\n[Chorus]\n[D]Better catch her [A]name\n[D]Come on [A]in\n[D]Gimme that [A]thing That\n[D]thing gone [G]\n[A]wild\n[Em]War Machine\nWar Machine\n\n[Break]\n[Em]\nBetter\n\n[Bridge]\n[D]watch your [A]back\n[D][A]And\n[Em]cover your tracks\nKick your\n[D]foot through the [A]door\n[D][A]Hit the\n[Em]deck know the score\nThey're taken\n[D]by [A]surprise\n[D][A]And here's\n[Em]mud in your eyes\n\n[Chorus]\n[D]Let's erase the [A]name That you\n[D]should have forgove [A]\n[D]Call of the [A]wild\n[D]Hurry for naught [A]That\n[D]thing gone [G]\n[A]wild\n[Em]War Machine\nWar Machine\n\n[Solo]\n[D]  [A]\n[D]  [A]\n[D]  [A]\n[D][A]That\n[D]thing gone [G]\n[A]wild\n[Em]War Machine\nWar Machine\nWar Machine\nWar Machine",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3x0003",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "War Machine",
+  "id": "5ea5998b37581b5c4c34310129a69507532771052f4cafad4472425dbbfa489d",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 185,
+  "normalizedKey": "ac dc|war machine",
+  "playableChords": [
+    "G",
+    "D",
+    "A",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 52,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Break"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    },
+    {
+      "measure": 87,
+      "name": "Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5ea5998b37581b5c4c34310129a69507532771052f4cafad4472425dbbfa489d",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "War Machine",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

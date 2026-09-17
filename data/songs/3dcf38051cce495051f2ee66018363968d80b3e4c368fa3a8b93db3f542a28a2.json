@@ -1,0 +1,103 @@
+{
+  "artist": "Agnostic Front",
+  "artistNormalized": "agnostic front",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[B5]\n[D5]  [C#5]  [B5]\n[B5]\n[D5]  [C#5]  [B5]\n[B5]\n[D5]  [C#5]  [B5]\n[B5]\n[D5][C#5][B5]It's\nyour mistake\n\n[Interlude]\n[B5]\n[D5]  [C#5]  [B5]\n[B5]\n[D5]  [C#5]  [B5]\n\n[Verse 1]\n[B5]We're here to be and the ones to succeed\n[D5][C#5][B5]No\n[B5]need for you to tell us how to be\n[D5][C#5][B5]Can't\n[B5]seem to find your reasons why\n[D5][C#5][B5]You\n[B5]tell us lies and think you're wise\n[D5]  [C#5]  [B5]\n[G5]  [A5]  [B5]\n\n[Verse 2]\n[B5]Why can't you think [G5][A5]\n[B5]before you sink [G5][A5]\n[B5]Why can't you see, [G5][A5]then\n[B5]come to me [G5][A5]\n[G5][A5]Tell\n[B5]us lies [G5][A5]and\n[B5]ask us why [G5][A5]We\n[B5]hate society [G5][A5]And\n[B5]we're here to fight [G5][A5]\n[G5][A5]I won't shake\n[B5]their hands [G5][A5]Cause\n[B5]they're not our friends [G5][A5]Won't\n[B5]talk to you [G5][A5]\n[B5]'cause you can't be true [G5][A5]\n[G5]  [A5]\n\n[Bridge]\n[B5]\n[B5]  [D5]\n[A5]  [G5]  [A5]\n[B5]  [D5]\n[A5]  [G5]  [A5]\n[B5]  [D5]\n[A5]  [G5]  [A5]\n[B5]  [D5]\n[A5]  [G5]  [A5]\n\n[Interlude]\n[B5]\n[D5]  [C#5]  [B5]\n[B5]\n[D5]  [C#5]  [B5]\n\n[Verse 3]\n[B5]You've got problems, yet you keep hiding them\n[D5][C#5][B5]You\n[B5]entered their gate but now it's too late\n[D5]  [C#5]  [B5]\n\n[Chorus]\n[G5]It's your [B5][A5]mistake\n[D5]  [C#5]  [B5]\n[G5]It's your [B5][A5]mistake\n[D5]  [C#5]  [B5]\n[G5]It's your [B5][A5]mistake\n[D5]  [C#5]  [B5]\n[G5]It's your [A5]mis-\n\n[Outro]\n[B5]take",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Your Mistake *alt",
+  "id": "3dcf38051cce495051f2ee66018363968d80b3e4c368fa3a8b93db3f542a28a2",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 104,
+  "normalizedKey": "agnostic front|your mistake",
+  "playableChords": [
+    "B5",
+    "D5",
+    "C#5",
+    "G5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Interlude"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 51,
+      "name": "Interlude"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3dcf38051cce495051f2ee66018363968d80b3e4c368fa3a8b93db3f542a28a2",
+    "version": "BCFZ"
+  },
+  "tempo": 216,
+  "title": "Your Mistake",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

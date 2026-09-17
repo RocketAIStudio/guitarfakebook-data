@@ -1,0 +1,142 @@
+{
+  "artist": "311",
+  "artistNormalized": "311",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]  [Am]\n[G]\n[G]  [Am]\n[G]\n[G]  [Am]\n[G]\n[G]  [Am]\n[G]\n\n[Verse 1]\n[G][Am]Brain-\n[G]storm Take me away from the\n[G]norm [Am]\n[G]I got to tell you some-\n[G]thing [Am]\n[G]This phenomenon\n[G][Am]I had to put it in a\n[G]song And it goes like\n\n[Chorus]\n[C]Whoa, [Am]\namber [Em]is the color of your energy\n[C]Whoa, [Am]\nshades [Em]of gold displayed naturally\n\n[Verse 2]\n[Dm]You ought to know what brings\nme [G]here\n[Dm]You glide through my head blind to\nfear [G]And I know why\n\n[Chorus]\n[C]Whoa, [Am]\namber [Em]is the color of your energy\n[C]Whoa, [Am]\nshades [Em]of gold displayed naturally\n\n[Interlude]\n[C]  [Am]\n[Em]\n[C]  [Am]\n[Em]\n\n[Solo]\n[C]  [Am]\n[Em]\n[C]  [Am]\n[Em]\n[Dm]\n[G]\n[Dm]\n[G]\n\n[Chorus]\n[C]Whoa, [Am]\namber [Em]is the color of your energy\n[C]Whoa, [Am]\nshades [Em]of gold displayed naturally\n[C]  [Dm]\n[Em]\n\n[Verse 3]\n[Am]You live too\n[Em]far away\n[Am]Your voice rings like a bell\n[Em]anyway\n[F5]Don't give up your in-\n[Em]dependence Unless it feels so\n[F5]right Nothing good comes ea-\n[Em]sily [G]Sometimes you've got to\n\n[Chorus]\nfight [C]Whoa, [Am]\namber [Em]is the color of your energy\n[C]Whoa, [Am]\nshades [Em]of gold displayed naturally\n\n[Verse 4]\n[Dm]Launched a thousand ships\nin [G]my heart, so ea-\nsy [Dm]Still it's fine from a-\nfar, [G]and you know that\n[C]Whoa, [Am]brain-\nstorm [Em]take me away from the\nnorm [C]Whoa, [Am]\n[Em]I got to tell you something\n\n[Outro]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "577555",
+        "x02210",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "022000",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Amber *alt",
+  "id": "6030e93556832c069e4be357007d1d3fc199bb875b337bba34beca99ada6943c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 218,
+  "normalizedKey": "311|amber",
+  "playableChords": [
+    "G",
+    "Am",
+    "C",
+    "Em",
+    "Dm",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Solo"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 67,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6030e93556832c069e4be357007d1d3fc199bb875b337bba34beca99ada6943c",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "Amber",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

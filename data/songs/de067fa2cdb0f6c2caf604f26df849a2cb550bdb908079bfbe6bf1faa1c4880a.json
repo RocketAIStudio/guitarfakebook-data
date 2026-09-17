@@ -1,0 +1,123 @@
+{
+  "artist": "Amon Amarth",
+  "artistNormalized": "amon amarth",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C#5]\n[E5]  [A5]\n[B5]\n[C#5]\n[E5]  [A5]\n[B5]\n\n[Pre Verse]\n[C#5]\n[E5]  [A5]\n[B5]\n[C#5]\n[E5]  [A5]\n[B5]\n\n[Verse 1]\n[C#5]There comes Fenris' twin\nHis\njaws are open wide\n[E5][A5]The\n[B5]serpent\nrises from the waves\nJormund\n[C#5]gandr twists and turns\nMighty in his wrath\n[E5][A5]The\n[B5]eyes are\nfull of primal hate\n\n[Chorus]\n[C#5]Thor\nOdin's son Pro-\ntector of\n[E5]mankind [A5]\n[B5]Ride to meet your\nfate Your\n[C#5]destiny a-\nwaits\nThor\n[E5]Hldyn's son [A5]Pro-\n[B5]tector of\nmanking\nRide to meet your\nfate\n[C#5]Ragnar'k a-\nwaits\n\n[Bridge]\n[E5]\n\n[Verse 2]\n[C#5]Vingthor rides to face\nThe\nsnake with hammer high\n[E5]  [A5]\n[B5]At the\nedge of the world\nBolts of\n[C#5]lightning fills the air\nAs\nMjllnir does its work\n[E5][A5]The\n[B5]dreadfull\nserpent roars in pain\n\n[Chorus]\n[C#5]Thor\nOdin's son Pro-\ntector of\n[E5]mankind [A5]\n[B5]Ride to meet your\nfate Your\n[C#5]destiny a-\nwaits\nThor\n[E5]Hldyn's son [A5]Pro-\n[B5]tector of\nmankind\nRide to meet your\nfate\n[C#5]Ragnarok a-\nwaits\n\n[Bridge 1]\n[E5]\n\n[Bridge 2]\n[C#5]\nMighty Thor\ngrips the snake\nFirmly by it's tounge\nLifts his hammer\nhigh to strike\nSoon his work is done\n\n[Interlude]\n[C#5]Vingtor sends the\n[D5]giant snake\n[C#5]Bleeding to the depth\n[D5]\n[C#5]Twilight of the thun-\n[D5]dergod\n[B5]Ragnarok awaits\n[C#5]\nTwilight\nof the\nthunder god\nTwilight\nof the\nthunder god\nTwilight\nof the\nthunder god\nTwilight\nof the\nthunder\ngod\n\n[Pre-Solo]\n[C#5]\n[B5]\n\n[Solo]\n[C#5]\n[E5]\n[B5]\n[C#5]\n[E5]\n[B5]\n[C#5]\n\n[Chorus]\n[C#5]Thor\nOdin's son Pro-\n[E5]tector of\nmankind\n[B5]Ride to meet your\nfate Your\n[C#5]destiny a-\nwaits\nThor\nHldyn's son Pro-\n[E5]tector of\nmankind\n[B5]Ride to meet your\nfate\n[C#5]Ragnarok a-\nwaits\n\n[Outro]\n[E5]\n[C#5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Twilight of the Thunder God",
+  "id": "de067fa2cdb0f6c2caf604f26df849a2cb550bdb908079bfbe6bf1faa1c4880a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 274,
+  "normalizedKey": "amon amarth|twilight of the thunder god",
+  "playableChords": [
+    "C#5",
+    "E5",
+    "A5",
+    "B5",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Pre Verse"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 69,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    },
+    {
+      "measure": 101,
+      "name": "Bridge 1"
+    },
+    {
+      "measure": 105,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 125,
+      "name": "Interlude"
+    },
+    {
+      "measure": 149,
+      "name": "Pre-Solo"
+    },
+    {
+      "measure": 157,
+      "name": "Solo"
+    },
+    {
+      "measure": 173,
+      "name": "Chorus"
+    },
+    {
+      "measure": 189,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "de067fa2cdb0f6c2caf604f26df849a2cb550bdb908079bfbe6bf1faa1c4880a",
+    "version": "BCFZ"
+  },
+  "tempo": 190,
+  "title": "Twilight of the Thunder God",
+  "tuning": "B E A D F# B",
+  "variantRole": "primary"
+}

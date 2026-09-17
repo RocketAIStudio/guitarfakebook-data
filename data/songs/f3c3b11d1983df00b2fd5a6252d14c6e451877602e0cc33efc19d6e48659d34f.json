@@ -1,0 +1,122 @@
+{
+  "artist": "Alice In Chains",
+  "artistNormalized": "alice in chains",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Ab5]\n[Gb5]\n[Ab5]\n[Gb5]\n[Ab5]\n[Gb5]\n[Ab5]\n[Gb5]\n[Ab5]\n[Gb5]\n[Ab5]\n[Gb5]\n[Ab5]\n[Gb5]\n[Ab5]\n[Eb5]\n\n[Verse 1]\n[Ab5]I\nhave [Gb5]never\n[Ab5]felt such\n[Gb5]frus-\n[Ab5]tration\nOr lack [Gb5]of\n[Ab5]selfcontrol\n[Gb5]\n[Ab5]I\nwant you [Gb5]to\n[Ab5]kill me\nand dig [Gb5]me\n[Ab5]under\nI [Gb5]wanna\n[Ab5]live no more\n[Eb5]\n\n[Chorus]\n[Ab5]One who [A5]doesn't [B]care\n[A5]is\n[Ab5]one who [A5]shouldn't [B]be\nI've\n[Ab5]tried to [A5]hide [B]my-\nself from what [A5]is\n[Ab5]wrong for [A5]me [B]\nFor me\n\n[Interlude]\n[Ab5]\n[Gb5]\n[Ab5]\n[Gb5]\n[Ab5]\n[Gb5]\n[Ab5]\n[Eb5]\n\n[Verse 2]\n[Ab5]I\nwant to [Gb5]taste\n[Ab5]dirty,\na [Gb5]stinging\n[Ab5]pistol\nIn my [Gb5]mouth,\n[Ab5]on my tongue\n[Gb5]\n[Ab5]I\nwant you [Gb5]to\n[Ab5]scrape me\nfrom [Gb5]the walls\n[Ab5]\nAnd [Gb5]go\n[Ab5]crazy\n[Eb5]like you've made me\n\n[Chorus]\n[Ab5]One who [A5]doesn't [B]care\n[A5]is\n[Ab5]one who [A5]shouldn't [B]be\nI've\n[Ab5]tried to [A5]hide [B]my-\nself from what [A5]is\n[Ab5]wrong for [A5]me [B]\n[Ab5]One who [A5]doesn't [B]care\n[A5]is\n[Ab5]one who [A5]shouldn't [B]be\nI've\n[Ab5]tried to [A5]hide [B]my-\nself from what [A5]is\n[Ab5]wrong for [A5]me [B]\nFor me\n\n[Solo]\n[Ab5]\n[E5]\n[Ab5]\n[E5]\n[Ab5]\n[E5]\n[Ab5]\n[E5]\n\n[Interlude]\n[Ab5]\n[Gb5]\n[Ab5]\n[Gb5]\n[Ab5]\n[Gb5]\n[Ab5]\n[Eb5]\n\n[Verse 3]\n[Ab5]You,\nyou are [Gb5]so\n[Ab5]special\nYou have [Gb5]the\n[Ab5]talent\nto make [Gb5]me\n[Ab5]feel like dirt\n[Gb5]\n[Ab5]And you,\nyou use [Gb5]your\n[Ab5]talent\nto dig [Gb5]me\n[Ab5]under\nAnd [Gb5]cover\n[Ab5]me with dirt\n[Eb5]\n\n[Chorus]\n[Ab5]One who [A5]doesn't [B]care\n[A5]is\n[Ab5]one who [A5]shouldn't [B]be\nI've\n[Ab5]tried to [A5]hide [B]my-\nself from what [A5]is\n[Ab5]wrong for [A5]me [B]\n[Ab5]One who [A5]doesn't [B]care\n[A5]is\n[Ab5]one who [A5]shouldn't [B]be\nI've\n[Ab5]tried to [A5]hide [B]my-\nself from what [A5]is\n[Ab5]wrong for [A5]me [B]\n\n[Outro]\n[Ab5]\n[Gb5]\n[Ab5]\n[Gb5]\n[Ab5]\n[Gb5]\n[Ab5]\n[Gb5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x133xx"
+      ],
+      "catalogCount": 1
+    },
+    "Ab5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x320xx",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gb5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dirt *alt",
+  "id": "f3c3b11d1983df00b2fd5a6252d14c6e451877602e0cc33efc19d6e48659d34f",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 219,
+  "normalizedKey": "alice in chains|dirt",
+  "playableChords": [
+    "Ab5",
+    "Gb5",
+    "Eb5",
+    "A5",
+    "B",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Interlude"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Solo"
+    },
+    {
+      "measure": 99,
+      "name": "Interlude"
+    },
+    {
+      "measure": 107,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 123,
+      "name": "Chorus"
+    },
+    {
+      "measure": 139,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f3c3b11d1983df00b2fd5a6252d14c6e451877602e0cc33efc19d6e48659d34f",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Dirt",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

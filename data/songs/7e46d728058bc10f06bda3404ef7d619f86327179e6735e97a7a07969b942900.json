@@ -1,0 +1,144 @@
+{
+  "artist": "Arctic Monkeys",
+  "artistNormalized": "arctic monkeys",
+  "capo": "No capo",
+  "chordPositionCount": 40,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[D]\n[B7]\n[Em]\n[A7]\n[D]\n[B7]\n[Em]\n[A7]Baby, I'm yours\n\n[Verse 1]\n[D]\n[B7]And I'll be\n[Em]yours until the\n[A7]stars fall from the sky,\n[D]\n[B7]\n[Em]Yours, until the\n[A7]rivers all run dry\n[G]In\n[F#m]other words, until I\n[Em]die\n[A7]Baby, I'm yours\n\n[Verse 2]\n[D]\n[B7]And I'll be\n[Em]yours until the\n[A7]sun no longer shines,\n[D]\n[B7]\n[Em]Yours, until the\n[A7]poets run out of rhyme\n[G]In\n[F#m]other words, until the\n[Em]end of time\n[A7]I'm gonna\n\n[Chorus]\n[G]stay [F#m]right [Em]here\n[G]by [F#m]your [Em]side,\n[A]Do my best to keep you\nsatisfied\n[Bm]Nothin' in the world could\ndrive me away\n[F#m]'Cause every day, you'll\n[A]hear me say\n[A7]Baby, I'm yours\n\n[Verse 3]\n[D]\n[B7]And I'll be\n[Em]yours until\n[A7]two and two is three,\n[D]\n[B7]\n[Em]Yours, until the\n[A7]mountains crumble to the sea\n[G]In\n[F#m]other words, until et\n[Em]ernity\n[A7]Baby, I'm\n\n[Outro]\n[D]yours\n[B7]Til the stars\n[Em]fall from the sky\n[A7]Baby, I'm yours\n[D]Til the ri-\n[B7]vers all run dry\n[Em]Baby, I'm\n[A7]yours Til the sun\n[D]no longer\n[B7]shines Baby, I'm\n[Em]yours Til the poets\n[A7]run out of\n[D]rhymes Baby, I'm\n[B7]yours\n[Em]\n[A7]\n[D]\n[B7]\n[Em]\n[A7]\n[D]\n[B7]\n[Em]\n[A7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Baby im yours",
+  "id": "7e46d728058bc10f06bda3404ef7d619f86327179e6735e97a7a07969b942900",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 186,
+  "normalizedKey": "arctic monkeys|baby im yours",
+  "playableChords": [
+    "D",
+    "B7",
+    "Em",
+    "A7",
+    "G",
+    "F#m",
+    "A",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 54,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7e46d728058bc10f06bda3404ef7d619f86327179e6735e97a7a07969b942900",
+    "version": "BCFZ"
+  },
+  "tempo": 115,
+  "title": "Baby im yours",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

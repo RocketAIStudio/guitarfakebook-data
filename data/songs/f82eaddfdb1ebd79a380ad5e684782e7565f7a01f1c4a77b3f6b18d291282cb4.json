@@ -1,0 +1,78 @@
+{
+  "artist": "AFI",
+  "artistNormalized": "afi",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n[Ebm]\nThis is what I brought you, this you can keep\nThis is what I brought, you may forget me I\npromise to depart, just promise one thing\nKiss my eyes and lay me to sleep\n\n[Verse 1]\n[Ebm]\nThis is what I brought you, this you can keep\nThis is what I brought, you may forget me I\npromise you my heart, just promise to sing\nKiss my eyes and lay me to sleep\n\n[Chorus]\n[Ebm]\n[B]\n[Ebm]\n[B]Kiss my eyes and lay me to sleep\n\n[Verse 2]\n[Ebm]This is what I thought, I thought you'd need me\n[B]This is what I thought, so think me naive I'd\n[Ebm]promise you a heart, you'd promise to keep\n[B]Kiss my eyes and lay me to sleep\n\n[Chorus]\n[Ebm]\n[B]\n[Ebm]\n[B]Kiss my eyes and lay me to sleep\n[Ebm]\n[B]\n[Ebm]\n[B]Kiss my eyes and lay me to sleep\n\n[Outro]\n[Ebm]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x32010",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Ebm": {
+      "catalog": [
+        "022000",
+        "x-x-1-3-4-2",
+        "x-6-8-8-7-6",
+        "11-13-13-11-11-11",
+        "x-x-13-15-16-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Prelude 12/21",
+  "id": "f82eaddfdb1ebd79a380ad5e684782e7565f7a01f1c4a77b3f6b18d291282cb4",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 141,
+  "normalizedKey": "afi|prelude 12 21",
+  "playableChords": [
+    "Ebm",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f82eaddfdb1ebd79a380ad5e684782e7565f7a01f1c4a77b3f6b18d291282cb4",
+    "version": "BCFZ"
+  },
+  "tempo": 75,
+  "title": "Prelude 12/21",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

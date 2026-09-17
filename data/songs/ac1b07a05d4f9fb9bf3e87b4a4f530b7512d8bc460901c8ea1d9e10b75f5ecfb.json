@@ -1,0 +1,137 @@
+{
+  "artist": "All Time Low",
+  "artistNormalized": "all time low",
+  "capo": "1",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Am7]\nI got myself A\n\n[Verse 1]\n[Am7]brand new pair of boots\nTo keep the rain\n[Em/A]out\nI got myself A\n[Gadd11]brand new leather coat\nTo fight the cold\n[G]\nI've gotta find A\n[Am7]way to break this\nspell Before I lose\n[Em/A]it\nA victim of the\n[Gadd11]season, Need a better\nreason To be miserable\n[G]\nI blame it on the\n\n[Pre-Chorus]\n[F]weather Can't keep it to-\ngether, no\n\n[Chorus]\n[C]So can you save\nme From this\n[Am7]January gloom\n[G]Hiding in your room,\nThe\n[F]things that we could do\n[C]You're like the sun-\nshine In the\n[Am7]lazy days of June\n[G]Hiding in your room,\n[F]Save me from this\nJanuary\n[Am7]\nAnother drop of\n\n[Verse 2]\n[Am7]Hudson in the dark\nTo lift these\n[Em/A]spirits\nAnother record\n[Gadd11]spins My heavy heart\nAnd flips the script\n[G]\nSome crazy way to\n[Am7]turn This life around\nYou know I'll take\n[Em/A]it\nA victim of the\n[Gadd11]season, Fuck another\nreason To be miserable\n[G]\nI blame it on the\n\n[Pre-Chorus]\n[F]weather Can you make it\nbetter now\n\n[Chorus]\n[C]Come on and save\nme From this\n[Am7]January gloom\n[G]Hiding in your room,\nThe\n[F]things that we could do\n[C]You're like the sun-\nshine In the\n[Am7]lazy days of June\n[G]Hiding in your room,\n[F]Save me from this\nJanuary gloom\n\n[Bridge]\n[C/E]And all the things\nI'd like to tell\n[F]you Save it for\nanother day\n[Am7]Somewhere\nnot so far,\n[G]Just for now We'll\nshut those words away\n[C/E]And there you are,\nAnd there you were\n[F]You do your best\nor Do your worst\n[G]All I want,\nall I need\nfor Now is you\nto save me\n\n[Chorus]\n[C]So can you save\nme From this\n[Am7]January gloom\n[G]Hiding in your room,\nThe\n[F]things that we could do\n[C]You're like the sun-\nshine In the\n[Am7]lazy days of June\n[G]Hiding in your room,\n[F]Save me from this\nJanuary gloom\n\n[Outro]\n[C]\n[Am7]\n[G]\n[F]Save me from this\nJanuary gloom",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/E": {
+      "catalog": [
+        "032010"
+      ],
+      "catalogCount": 1
+    },
+    "Em/A": {
+      "catalog": [
+        "x02000"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gadd11": {
+      "catalog": [
+        "320013"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "January Gloom",
+  "id": "ac1b07a05d4f9fb9bf3e87b4a4f530b7512d8bc460901c8ea1d9e10b75f5ecfb",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 370,
+  "normalizedKey": "all time low|january gloom",
+  "playableChords": [
+    "Am7",
+    "Em/A",
+    "Gadd11",
+    "G",
+    "F",
+    "C",
+    "C/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 56,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Bridge"
+    },
+    {
+      "measure": 90,
+      "name": "Chorus"
+    },
+    {
+      "measure": 106,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ac1b07a05d4f9fb9bf3e87b4a4f530b7512d8bc460901c8ea1d9e10b75f5ecfb",
+    "version": "BCFZ"
+  },
+  "tempo": 165,
+  "title": "January Gloom",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

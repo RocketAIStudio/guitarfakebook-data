@@ -1,0 +1,65 @@
+{
+  "artist": "Angry Samoans",
+  "artistNormalized": "angry samoans",
+  "capo": "No capo",
+  "chordPositionCount": 3,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[C#5]  [D5]  [B5]\n[C#5]  [D5]  [B5]\n[C#5]  [D5]  [B5]\n[C#5][D5][B5]You\n\n[Verse]\n[C#5]stupid [D5]jerk! [B5]I can't\n[C#5]take it no [D5]more! [B5]Your\n[C#5]face makes [D5]me [B5]wanna puke!\n[C#5]And [D5]your mothers [B5]a whore!\n\n[Chorus]\n[C#5]  [D5]  [C#5]  [D5]\n[C#5][D5][B5]You\n[C#5]stupid [D5]jerk! [B5]",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You Stupid Jerk",
+  "id": "4f6709a4e60b5f60cba527d1cfd78e7a84e1709c1e465c5aa34fae5a71772cb9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 27,
+  "normalizedKey": "angry samoans|you stupid jerk",
+  "playableChords": [
+    "C#5",
+    "D5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4f6709a4e60b5f60cba527d1cfd78e7a84e1709c1e465c5aa34fae5a71772cb9",
+    "version": "BCFZ"
+  },
+  "tempo": 142,
+  "title": "You Stupid Jerk",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

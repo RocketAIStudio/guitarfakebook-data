@@ -1,0 +1,104 @@
+{
+  "artist": "An Albatross",
+  "artistNormalized": "an albatross",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Gdim]\n\n[Verse]\n[Gdim]Where the moon\nshines so bright,\n[Gdim]\nWell,\n[Gdim]my brother's\nhowling\n[Gdim]\n[Gdim]And constant-\nly prowling.\n\n[Intrelude]\n[Gdim]\n[Gdim]Out in the de-\nsert night.\n[Gdim]\n[Gdim]\n[Gdim]\n\n[Outro]\n[A5]  [B5]\n[C5]  [D5]  [D#5]\n[A5]  [B5]\n[C5]  [D5]  [D#5]\n[A5]  [B5]\n[C5]  [D5]\n[E5]\n[A5][A#5]Alright.",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "11-13-13-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "10-12-12-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "12-14-14-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Gdim": {
+      "catalog": [
+        "3453xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Ballad of the Electric Coyote",
+  "id": "385b5d0b306d997eda0e4945977408ab19f7e66cb24fbb89d3d2c33a2d77562b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 26,
+  "normalizedKey": "an albatross|the ballad of the electric coyote",
+  "playableChords": [
+    "Gdim",
+    "A5",
+    "B5",
+    "C5",
+    "D5",
+    "D#5",
+    "E5",
+    "A#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse"
+    },
+    {
+      "measure": 13,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 25,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "385b5d0b306d997eda0e4945977408ab19f7e66cb24fbb89d3d2c33a2d77562b",
+    "version": "BCFZ"
+  },
+  "tempo": 215,
+  "title": "The Ballad of the Electric Coyote",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,115 @@
+{
+  "artist": "AC DC",
+  "artistNormalized": "ac dc",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]\n[A]\n[D]  [G]  [D]\n[D]  [G]  [D]\n[G]  [D]  [G]\n[A]\n[D]  [G]  [D]\n[D]  [G]  [D]\n[G]  [D]  [G]\n[E7]\n[A]\n\n[Verse 1]\n[Am]See it on the television\nevery day\nHear it on the radio\nAin't humid but it sure\nis hot\nDown in mexico\nThe\nboy is trying to tell\nme\nNear enough the edge\nSay they've all been\nthere\nToo late my friend\n\n[Chorus]\n[D]Riff [G]raff [D]\n[D][G]Always good [D]for a\nlaugh [G][D][G]\n[A]\nHa ha ha\n[D]Riff [G]raff [D]\n[D][G]Go [D]on, Laugh\n[G]yourself in [D]half [G]\n[E7]\ns-\nmile awhile\n\n[SOLO]\n[A]\n[D]  [G]  [D]\n[G]  [D]  [G]\n[D]\n[A]\n[D]  [G]  [D]\n[G]  [D]  [G]\n[E7]\n[A]\n[D]  [G]  [D]\n[G]  [D]  [G]\n[D]\n[A]\n[D]  [G]  [D]\n[G]  [D]  [G]\n[E7]\n[Am]\n[D]\n[A]\n[Am]\n\n[Verse 2]\nNow\nI'm the kind of guy who keeps his\nbig mouth shut\nNo don't bother m-\ne\nSomebody give me\none arm up\nLeave me in miser-\ny\nI've never shot nobo-\ndy\nDon’t even carry gun\nI ain't done\nnothing wrong\nI'm just having fun\n\n[Chorus]\n[D]Riff [G]raff [D]\n[D][G]Always good [D]for a\nlaugh [G][D][G]\n[A]\nHa ha ha\n[D]Riff [G]raff [D]\n[D][G]Go [D]on, Laugh\n[G]yourself in [D]half [G]\n[E7]\ns-\nmile awhile\n[A]\n\n[Outro]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Riff Raff",
+  "id": "bf19b7e6dd350dd1cb1f75edbcbeab306a53122d8d8e387fa156f7abac5f3823",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 157,
+  "normalizedKey": "ac dc|riff raff",
+  "playableChords": [
+    "A",
+    "D",
+    "G",
+    "E7",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 73,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus"
+    },
+    {
+      "measure": 105,
+      "name": "SOLO"
+    },
+    {
+      "measure": 174,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 191,
+      "name": "Chorus"
+    },
+    {
+      "measure": 213,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bf19b7e6dd350dd1cb1f75edbcbeab306a53122d8d8e387fa156f7abac5f3823",
+    "version": "BCFZ"
+  },
+  "tempo": 141,
+  "title": "Riff Raff",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

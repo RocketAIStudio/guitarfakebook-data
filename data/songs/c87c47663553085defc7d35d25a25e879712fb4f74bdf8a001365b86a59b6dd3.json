@@ -1,0 +1,126 @@
+{
+  "artist": "Amos Lee",
+  "artistNormalized": "amos lee",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\n[E7]\n[Am]\n[D7]\n[C]  [Am]\n[F]  [G]\n[C]  [Am]\n[F]  [G]\n\n[Verse 1]\n[C]Sweet pea\n[E7]Apple of my eye\n[Am]Don't know when and I\n[D7]don't know why\n[C]You're the only [Am]reason I\n[F]keep on [G]coming home\n[C]  [Am]\n[F]  [G]\n\n[Verse 2]\n[C]Sweet pea\n[E7]What's all this about\n[Am]Don't get your way all you\n[D7]do is fuss and pout\n[C]You're the only [Am]reason I\n[F]keep on [G]coming home\n[C]  [Am]\n[F][G]Unlike the\n\n[Bridge]\n[E7]Rock of Gibraltar I\nalways seem to falter And the\n[Am]words just get in the\nway Oh I\n[D7]know I'm gonna crumble I'm\ntrying to stay humble But I\n[G]never think before\nI say\n\n[Interlude]\n[C]\n[E7]\n[Am]\n[D7]\n[C]  [Am]\n[F]  [G]\n[C]  [Am]\n[F]  [G]\n\n[Verse 3]\n[C]Sweet pea\n[E7]Keeper of my soul\n[Am]I know sometimes I'm\n[D7]out of control\n[C]You're the only [Am]reason I\n[F]keep on [G]coming\n[C]You're the only [Am]reason I\n[F]keep on [G]coming yeah\n[C]You're the only [Am]reason I\n[F]keep on [G]coming home\n\n[Outro]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sweet pea",
+  "id": "c87c47663553085defc7d35d25a25e879712fb4f74bdf8a001365b86a59b6dd3",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 153,
+  "normalizedKey": "amos lee|sweet pea",
+  "playableChords": [
+    "C",
+    "E7",
+    "Am",
+    "D7",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Bridge"
+    },
+    {
+      "measure": 34,
+      "name": "Interlude"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 52,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c87c47663553085defc7d35d25a25e879712fb4f74bdf8a001365b86a59b6dd3",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Sweet pea",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

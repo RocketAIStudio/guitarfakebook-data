@@ -1,0 +1,104 @@
+{
+  "artist": "Amy Grant",
+  "artistNormalized": "amy grant",
+  "capo": "6",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n\n[Verse 1]\n[D]Janua ry, Februa ry,\nMarch, The days are\n[G]marching\nfor ward\n[D]April, May, June and July\nThey fly like a\n[G]hummingbird\n[D]August, September, Oc-\ntober The year is\n[G]almost\no ver No-\n[D]vember, December arrive\n[A]Another year, come and gone\n[D]\nTime is il-\n\n[Chorus]\n[G]lu sion\nTime is a\n[Bm]curse\nTime is\n[G]all these things and\n[A]worse But our time is now,\n[Bm]\n[G]Yes, our time is now,\n[Bm]\n[G]Let us\n[Bm]sing before our\n[A]time runs\n[D]out\n\n[Verse 2]\n[D]The sound of your laughter, your\nsmile These things are\n[G]never\nchang ing But\n[D]Monday I blink and it's\nFriday I wish we could\n[G]slow it down\n[D]Satur day, Sunday, now\nMonday Another week\n[G]starting\no ver\n[D]Seconds to minutes to\n[A]hours Here's what I've\n[D]found\nTime is il-\n\n[Chorus]\n[G]lu sion\nTime is a\n[Bm]curse\nTime is\n[G]all these things and\n[A]worse But our time is now,\n[Bm]\n[G]Yes, our time is now,\n[Bm]\n[G]Let us\n[Bm]sing before our\n[A]time runs\n[D]out\nTime is il-\n\n[Chorus]\n[G]lu sion\nTime is a\n[Bm]curse\nTime is\n[G]all these things and\n[A]worse But our time is now,\n[Bm]\n[G]Yes, our time is now,\n[Bm]\n[G]Let us\n[Bm]sing before our\n[A]time runs\n[D]out\nI wanna\n\n[Outro]\n[G]sing before my\n[A]time\nruns\n[D]out",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Our Time Is Now",
+  "id": "4c67488ba9797b087237df8f5e0b73b897810d426905deec347ddcc4f80d7bb6",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 242,
+  "normalizedKey": "amy grant|our time is now",
+  "playableChords": [
+    "D",
+    "G",
+    "A",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Chorus"
+    },
+    {
+      "measure": 78,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4c67488ba9797b087237df8f5e0b73b897810d426905deec347ddcc4f80d7bb6",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Our Time Is Now",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

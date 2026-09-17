@@ -1,0 +1,180 @@
+{
+  "artist": "Antony and the Johnsons",
+  "artistNormalized": "antony and the johnsons",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 16,
+  "content": "[Intro]\n[A#7(#5)]\n\n[Verse 1]\nWhat can I do\n[D#m9]\nWhen the bird's got\n[A#m7]to die\nWhat can I\n[Bmaj7]do\nWhen she's too weak\n[G#madd9]to fly\n[A#7(#5)]\n\n[Verse 2]\nWhat can I do\n[F#add9]\nWhen she's calling\n[C#]my name She's crying:\n\n[Chorus]\n[B]\"Mama! Help me be-\n[D#m]live!\"\n[B]\"Mama! [B6]Help me be-\n[D#m]live!\" [F#/C#]\n[B]\"Mama! Help [F#/A#]\n[G#m]me to\n\n[Outro]\n[F#]live\n[D#m]To\n[F#]live\n[D#m]To\n[F#]live\n[D#m]To\n[F#]live\n[D#m]What can I\n[G#m7]do? What can I\n[B/F#]do?\nWhat can I\n[F#]do?",
+  "diagrams": {
+    "A#7(#5)": {
+      "catalog": [
+        "x10132"
+      ],
+      "catalogCount": 1
+    },
+    "A#m7": {
+      "catalog": [
+        "x13121"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B/F#": {
+      "catalog": [
+        "224442"
+      ],
+      "catalogCount": 1
+    },
+    "B6": {
+      "catalog": [
+        "x24444"
+      ],
+      "catalogCount": 1
+    },
+    "Bmaj7": {
+      "catalog": [
+        "x24342",
+        "7-6-4-4-4-6",
+        "7-9-8-8-7-7",
+        "x-x-9-11-11-11",
+        "x-14-13-11-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "x68876"
+      ],
+      "catalogCount": 1
+    },
+    "D#m9": {
+      "catalog": [
+        "x64666"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#/A#": {
+      "catalog": [
+        "x14322"
+      ],
+      "catalogCount": 1
+    },
+    "F#/C#": {
+      "catalog": [
+        "x44322"
+      ],
+      "catalogCount": 1
+    },
+    "F#add9": {
+      "catalog": [
+        "xx4324"
+      ],
+      "catalogCount": 1
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    },
+    "G#m7": {
+      "catalog": [
+        "464444"
+      ],
+      "catalogCount": 1
+    },
+    "G#madd9": {
+      "catalog": [
+        "466446"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "What Can I Do?",
+  "id": "b469c83bafab51cd9465ef982c59c0859c257c1bcaf3132eca764446ad0b91ea",
+  "key": "D♯",
+  "keyIdentified": true,
+  "lyricEventCount": 69,
+  "normalizedKey": "antony and the johnsons|what can i do",
+  "playableChords": [
+    "A#7(#5)",
+    "D#m9",
+    "A#m7",
+    "Bmaj7",
+    "G#madd9",
+    "F#add9",
+    "C#",
+    "B",
+    "D#m",
+    "B6",
+    "F#/C#",
+    "F#/A#",
+    "G#m",
+    "F#",
+    "G#m7",
+    "B/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b469c83bafab51cd9465ef982c59c0859c257c1bcaf3132eca764446ad0b91ea",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "What Can I Do?",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

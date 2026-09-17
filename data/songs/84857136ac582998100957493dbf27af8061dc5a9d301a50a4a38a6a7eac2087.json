@@ -1,0 +1,125 @@
+{
+  "artist": "Anouk",
+  "artistNormalized": "anouk",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Asus4/G]\n[Dsus2/F#]\n[Cadd9]\n[D/F#]\n\n[Verse 1]\n[Asus4/G]If roses are\nmeant to be red\n[Dsus2/F#]And violets to be\nblue\n[Cadd9]Why isn't\nmy heart\n[D/F#]meant for you\n[Asus4/G]My hands longing\nto touch you\n[D/F#]But I can barely\nbreathe\n[Cadd9]Starry eyes that\nmake me melt\nRight in front of\n[D]me\n\n[Chorus]\n[Asus4/G]Lost in this\nworld I even get\n[D/F#]lost in this so-\nng And when the\n[Cadd9]lights go down\nThat is where\n[D]I'll be found\n\n[Verse 2]\n[Asus4/G]This music's irres-\nistible Your\n[D/F#]voice makes my\nskin crawl\n[C]Innocent and\npure\n[D]I guess you heard it all bef-\nore\n[Asus4/G]Mister Inacc-\nessible\n[D/F#]Will this ever ch-\nange\n[C]One thing that rem-\nains the same You're\n[D]still a picture\nin a frame\n\n[Chorus]\n[Asus4/G]Lost in this\nworld I even get\n[D/F#]lost in this so-\nng And when the\n[C]lights go down\nThat is where\n[D]I'll be found\nI get\n[Asus4/G]lost in this\nworld I get\n[D/F#]lost in your ey-\nes And when the\n[C]lights go down\n[Am7]That's where\n[D]I'll be found\nYeah yeah\n\n[Solo]\n[C]\n[D]\n[Am7]\n[D]\n\n[Chorus]\n[Asus4/G]Lost in this\nworld I get\n[D/F#]lost in your ey-\nes For when the\n[C]lights go down\nAm I the\n[D]only one\nOohohoh-\n\n[Outro]\n[Asus4/G]oh-\nohohohohohoh-\n[D/F#]ohoh-\nohoh-\n[C]ohohoh-\n[Am7]ohoh-\n[D]ohohohohohoh-\nohohohhoohoh-\n[Asus4/G]ohoh-\nohohohohohohoh-\n[D/F#]oh-\nohohohohohoh-\n[C]oh-\noh-\n[D]\nohoh-\n[Asus4/G]ohohohoh-\noh-\n[D/F#]\n[C]ohohohoh-\noh-\n[D]ohohoh\n[Asus4/G]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x0201x",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4/G": {
+      "catalog": [
+        "300030"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x3201x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x3203x"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "2x023x"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2/F#": {
+      "catalog": [
+        "200230"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lost",
+  "id": "84857136ac582998100957493dbf27af8061dc5a9d301a50a4a38a6a7eac2087",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 277,
+  "normalizedKey": "anouk|lost",
+  "playableChords": [
+    "Asus4/G",
+    "Dsus2/F#",
+    "Cadd9",
+    "D/F#",
+    "D",
+    "C",
+    "Am7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Solo"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "84857136ac582998100957493dbf27af8061dc5a9d301a50a4a38a6a7eac2087",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Lost",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

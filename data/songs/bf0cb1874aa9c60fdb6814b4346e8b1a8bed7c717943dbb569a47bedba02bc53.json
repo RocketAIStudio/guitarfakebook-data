@@ -1,0 +1,141 @@
+{
+  "artist": "Aerosmith",
+  "artistNormalized": "aerosmith",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro 1]\n[C#madd9]\nI'm\n[F#]dreaming to-\nnight, I'm\n[D#7]liv ing back\nhome\n\n[Intro 2]\n[Eb7]Right!\nYeah... yeah\nTake\n\n[Verse 1]\n[Eb7]me back to a south Tallahassee\nDown cross the bridge to my sweet sassafrassy\nCan't\nstand up on my feet in the city\nGot\nta get back to the real nitty gritty\n\n[Pre-Chorus]\n[Ab7]Yes sir, no sir Don't come close to my Home\nsweet home Can't catch no dose Of my hot\ntail poon tang sweetheart Sweathog ready to make a\nsilk purse From a J Paul Getty and his ear\n[Eb7]With her face in her beer\n\n[Chorus]\n[Db]Home\n[Ab]sweet\n[Eb7]home\nGet out\n\n[Verse 2]\n[Eb7]in the field Put the mule in the stabl\nMa she's a cookin' Put the eats on the table\nHate's\nin the city And my love's in the meadow\nHands\non the plow And my feets in the ghetto\n\n[Pre-Chorus]\n[Ab7]Stand up, sit down Don't do nothing It ain't\nno good when boss man's Stuffin' and down\ntheir throats For paper notes And their ba\nbies cry While cities lie at their feet\n[Eb7]When you're rockin' the street\n\n[Chorus]\n[Db]Home\n[Ab]sweet\n[Eb7]home\n\n[Solo]\n[Eb7]\n[Db]\n[Ab]\n[Eb7]\n[Db]\n[Ab]\n\n[Outro]\n[Eb7]Mama, take me\nhome sweet home I was the\nlast child I'm just a punk in the\nstreet I was the\nlast child I'm just a punk in the\nstreet I was the\nlast child I'm just a punk in the\nstreet I was the\nlast child I'm just a punk in the\nstreet I was the\nlast child I'm just a punk in the",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x02220",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Ab7": {
+      "catalog": [
+        "x02020",
+        "4-3-1-1-1-2",
+        "4-6-4-5-4-4",
+        "x-x-6-8-7-8",
+        "x-11-10-11-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "C#madd9": {
+      "catalog": [
+        "x57764"
+      ],
+      "catalogCount": 1
+    },
+    "D#7": {
+      "catalog": [
+        "022130"
+      ],
+      "catalogCount": 1
+    },
+    "Db": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Eb7": {
+      "catalog": [
+        "022130",
+        "x-x-1-3-2-3",
+        "x-6-5-6-4-3",
+        "x-6-8-6-8-6",
+        "11-10-8-8-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "355433",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Last Child *alt 2",
+  "id": "bf0cb1874aa9c60fdb6814b4346e8b1a8bed7c717943dbb569a47bedba02bc53",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 264,
+  "normalizedKey": "aerosmith|last child",
+  "playableChords": [
+    "C#madd9",
+    "F#",
+    "D#7",
+    "Eb7",
+    "Ab7",
+    "Db",
+    "Ab"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 7,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Solo"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bf0cb1874aa9c60fdb6814b4346e8b1a8bed7c717943dbb569a47bedba02bc53",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "Last Child",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

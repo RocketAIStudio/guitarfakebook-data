@@ -1,0 +1,123 @@
+{
+  "artist": "Alan Walker",
+  "artistNormalized": "alan walker",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n\n[Verse 1]\n[Em]Wait a second, let me catch my\nbreath Re-\n[C]mind me how it feels to hear your\nvoice Your\n[Em]lips are movin', I can't hear a\nthing\n[C]Livin' life as if we had a\nchoice\n\n[Pre-Chorus]\n[Em]Anywhere, anytime\nI would do anything for\n[C]you\n[Am]Anything for you\n[Em]Yesterday got away\nMelodies stuck inside your\n[C]head A\nsong in every breath\n\n[Chorus]\n[Am]Sing [D]me to sleep\n[G]now [Em]Sing\n[Am]me [D]to sleep\n[G]Won't you\n[Am]sing [D]me to sleep\n[G]now? [Em]Sing\n[Am]me [D]to sleep\n[G]\n\n[Interlude 1]\n[Em]  [D]  [G]\n[C]  [D]\n[Em]  [D]  [G]\n[C]  [D]\n[Em]  [D]  [G]\n[C]  [D]\n[Em]  [D]  [G]\n[C][D]Re-\n\n[Verse 2]\n[Em]member me now, time cannot e-\nrase\n[C]I can hear your whispers in my\nmind\n[Em]I've become what you cannot em-\nbrace Our\n[C]memory will be my lulla-\nby\n\n[Chorus]\n[Am]Sing [D]me to sleep\n[G]now [Em]Sing\n[Am]me [D]to sleep\n[G]Won't you\n[Am]sing [D]me to sleep\n[G]now? [Em]Sing\n[Am]me [D]to sleep\n[G]\n\n[Interlude 2]\n[Em]  [D]  [G]\n[C]  [D]\n[Em]  [D]  [G]\n[C]  [D]\n[Em]  [D]  [G]\n[C]  [D]\n[Em]  [D]  [G]\n[C]  [D]\n\n[Outro]\n[D][Em]Aanytime [G]\n[C]I would do [D]\n[Em]Time [D]away [G]\n[D][C]Yesterdayday\n[D][Em]Aanytime [G]\n[C]I would do [D]\n[Em]Time [D]away [G]\n[D][C]Yesterdayday\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sing Me To Sleep",
+  "id": "c6fdb89c70770a011d2808f53d4dcddb0d0f6611bb2630da66c4f63aa3623bf0",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 183,
+  "normalizedKey": "alan walker|sing me to sleep",
+  "playableChords": [
+    "Em",
+    "C",
+    "Am",
+    "D",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Interlude 1"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Interlude 2"
+    },
+    {
+      "measure": 58,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c6fdb89c70770a011d2808f53d4dcddb0d0f6611bb2630da66c4f63aa3623bf0",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "Sing Me To Sleep",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

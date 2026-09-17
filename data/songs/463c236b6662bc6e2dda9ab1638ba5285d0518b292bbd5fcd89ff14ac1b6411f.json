@@ -1,0 +1,111 @@
+{
+  "artist": "Agnostic Front",
+  "artistNormalized": "agnostic front",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A5]\n\n[Verse 1]\nNew York [C5]police [B5]state\n[A5]New York [C5]police [B5]state\n[A5]New York [C5]police [B5]state\n[A5]New York [C5]police [B5]state\n[A5]New York we [C5]hate [B5]you\n[A5]New York we [C5]hate [B5]you\n[A5]New York we [C5]hate [B5]you\n[B5]\n\n[Chorus]\n[D5][E5][D5]Giuliani, [D5][E5]Giuliani,\n[E5][D5]Giuliani, [D5][A5]fuck [B5]you\n[D5][E5][D5]Giuliani, [D5][E5]Giuliani,\n[E5][D5]Giuliani, [D5][A5]fuck [B5]you\n\n[Verse 2]\n[A5]New York [C5]police [B5]state\n[A5]New York [C5]police [B5]state\n[A5]New York [C5]police [B5]state\n[A5]New York [C5]police [B5]state\n[A5]New York we [C5]hate [B5]you\n[A5]New York we [C5]hate [B5]you\n[A5]New York we [C5]hate [B5]you\n[B5]\n\n[Chorus]\n[D5][E5][D5]Giuliani, [D5][E5]Giuliani,\n[E5][D5]Giuliani, [D5][A5]fuck [B5]you\n[D5][E5][D5]Giuliani, [D5][E5]Giuliani,\n[E5][D5]Giuliani, [D5][A5]fuck [B5]you\n\n[Bridge]\n[A5]\n\n[Solo]\n[C5]  [B5]\n[F5]  [A5]\n[C5]  [B5]\n[F5]  [A5]\n[C5]  [B5]\n[F5]  [A5]\n[C5]  [B5]\n[F5]  [A5]\n\n[Verse 3]\n[B5]New York we [D5]hate [A5]you\n[B5]New York we [D5]hate [A5]you\n[B5]New York we [D5]hate [A5]you\n[B5]\n\n[Chorus]\nGiuliani, Giuliani,\nGiuliani, fuck you",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx",
+        "x244xx"
+      ],
+      "catalogCount": 2
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Police State",
+  "id": "463c236b6662bc6e2dda9ab1638ba5285d0518b292bbd5fcd89ff14ac1b6411f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 150,
+  "normalizedKey": "agnostic front|police state",
+  "playableChords": [
+    "A5",
+    "C5",
+    "B5",
+    "D5",
+    "E5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Solo"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "463c236b6662bc6e2dda9ab1638ba5285d0518b292bbd5fcd89ff14ac1b6411f",
+    "version": "BCFZ"
+  },
+  "tempo": 218,
+  "title": "Police State",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

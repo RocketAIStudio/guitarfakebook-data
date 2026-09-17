@@ -1,0 +1,66 @@
+{
+  "artist": "An Albatross",
+  "artistNormalized": "an albatross",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n\n[Verse]\n[Bm]\nThis is all we got,\n[Bm]\nAnd this is who I am.\n[Bm]\nIt gets my rocks off,\n[Bm]\nHail! Our lovein.\n[A]\nYou gotta scream it\n[A]\nWe're feelin' fuckin' divine...\n[Bm]\nYou scream it:\n\n[Outro]\n[Bm]\"We're feelin' fuckin'\ndivine all of the time.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Manifesto Of The Divine Children",
+  "id": "661b6825990ca5947ed1937247cef595df5fae3a3e11eced1d684852c6450333",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 45,
+  "normalizedKey": "an albatross|manifesto of the divine children",
+  "playableChords": [
+    "Bm",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse"
+    },
+    {
+      "measure": 17,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "661b6825990ca5947ed1937247cef595df5fae3a3e11eced1d684852c6450333",
+    "version": "BCFZ"
+  },
+  "tempo": 228,
+  "title": "Manifesto Of The Divine Children",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

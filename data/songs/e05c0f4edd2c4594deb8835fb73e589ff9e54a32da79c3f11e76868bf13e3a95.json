@@ -1,0 +1,140 @@
+{
+  "artist": "An Albatross",
+  "artistNormalized": "an albatross",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 12,
+  "content": "[Intro]\n[Am]\n[D/A]\n[Dm/A]\n[Asus4]\n[Am]\n\n[Verse 1]\n[Am]Pretty, baby\nlet it go now\n[D/A]It's a tingling sensation\ndown below now\n[Dm/A]Butterflies in our\nguts makes it alright\n[Asus4]Cocktails and flo-\n[Am]wers, baby alright\n\n[Verse 2]\n[G5]  [D5]  [C#5]\n[G5]Baby, let [D5]it go [C#5]now\n[A#5]  [F5]  [E5]\n[B5]Try to [F#5]let it go [F5]baby\n[G5]  [D5]  [C#5]\n[G5]Baby, let [D5]it go [C#5]now\n[A#5]  [F5]  [E5]\n[B5]Try to [F#5]let it go [F5]baby\n[G5]  [D5]  [C#5]\n[G5]Baby, let [D5]it go [C#5]now\n[A#5]  [F5]  [E5]\n[B5]Try to [F#5]let it go [F5]baby\n\n[Chorus]\n[G5]  [C#5]  [G5]\nWhat a cowboy\n[G5]  [C#5]  [G5]\nSuit's on fire\n[G5][C#5][G5]E-\nlectric suit's\n[G5]  [C#5]  [G5]\nCowboy boots, yeah.\n\n[Outro]\n[G5]  [C#5]  [D5]\n[G5]Baby, turn [C#5]it out [D5]now\n[G5]  [C#5]  [D5]\n[G5]Baby, turn [C#5]it out [D5]now\n[G5]  [C#5]  [D5]\n[G5]Baby, turn [C#5]it out [D5]now\n[G5]  [C#5]  [D5]\n[G5]Baby, turn [C#5]ot fuck [D5]off now\n[G5]  [C#5]  [D5]",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "x133xx"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "x0221x",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4": {
+      "catalog": [
+        "x0223x"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D/A": {
+      "catalog": [
+        "x04232"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "Dm/A": {
+      "catalog": [
+        "x03231"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "x-9-11-11-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Electric Suits And Cowboy Boots",
+  "id": "e05c0f4edd2c4594deb8835fb73e589ff9e54a32da79c3f11e76868bf13e3a95",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 112,
+  "normalizedKey": "an albatross|electric suits and cowboy boots",
+  "playableChords": [
+    "Am",
+    "D/A",
+    "Dm/A",
+    "Asus4",
+    "G5",
+    "D5",
+    "C#5",
+    "A#5",
+    "F5",
+    "E5",
+    "B5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e05c0f4edd2c4594deb8835fb73e589ff9e54a32da79c3f11e76868bf13e3a95",
+    "version": "BCFZ"
+  },
+  "tempo": 177,
+  "title": "Electric Suits And Cowboy Boots",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

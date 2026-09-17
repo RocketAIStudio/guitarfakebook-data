@@ -1,0 +1,126 @@
+{
+  "artist": "ABBA",
+  "artistNormalized": "abba",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]\n[Daug]\n[D]\n[Daug]\n[D]\n[Daug]\n[D]\n[Daug]\n\n[Verse 1]\n[D]I've been cheated by you\nsince I don't know when\n[G]\n[D]So I made up my mind,\nit must come to an end\n[G]\n[D]Look at me now,\nwill I ever learn?\nI don't know how\nbut I suddenly lose\n[G]control\nThere's a fire within\n[A]my soul\n[G]Just [D]one\n[A]look and I can hear a bell ring\n[G]One [D]more\n[A]look and I forget everything,\nwoooh\n\n[Chorus]\n[D]Mamma mia,\nhere I go again\n[G]My my, how\ncan I resist you?\n[D]Mamma mia,\ndoes it show again?\n[G]My my, just\nhow much I've missed you\n[D]Yes, I've been bro-\n[A]kenhearted\n[Bm]Blue since the day\n[A]we parted\n[G]Why, why did\n[Em]I ever [A]let you go?\n[D]Mamma mia,\n[Bm]now I really know\n[G]My my, I\n[Em]could never [A]let you go\n\n[Bridge]\n[D]\n[Daug]\n[D]\n[Daug]\n\n[Verse 2]\n[D]I've been angry and sad\nabout things that you do\n[G]\n[D]I can't count all the times\nthat I've told you we're through\n[G]\n[D]And when you go,\nwhen you slam the door\nI think you know\nthat you won't be away\n[G]too long\nYou know that I'm not\n[A]that strong\n[G]Just [D]one\n[A]look and I can hear a bell ring\n[G]One [D]more\n[A]look and I forget everything,\nwoooh\n\n[Chorus]\n[D]Mamma mia,\nhere I go again\n[G]My my, how\ncan I resist you?\n[D]Mamma mia,\ndoes it show again?\n[G]My my, just\nhow much I've missed you\n[D]Yes, I've been bro-\n[A]kenhearted\n[Bm]Blue since the day\n[A]we parted\n[G]Why, why did\n[Em]I ever let [A]you go?\n[D]Mamma mia,\n[Bm]even if I say\n[G]Bye bye, leave\n[Em]me now or [A]never\n[D]Mamma mia,\nit's a game we play\n[G]Bye bye does-\nn't mean forever\n\n[Chorus]\n[D]Mamma mia,\nhere I go again\n[G]My my, how\ncan I resist you?\n[D]Mamma mia,\ndoes it show again?\n[G]My my, just\nhow much I've missed you\n[D]Yes, I've been bro-\n[A]kenhearted\n[Bm]Blue since the day\n[A]we parted\n[G]Why, why did\n[Em]I ever [A]let you go?\n[D]Mamma mia,\n[Bm]now I really know\n[G]My my, I\n[Em]could never [A]let you go\n\n[Ending]\n[D]\n[Daug]\n[D]\n[Daug]\n[D]\n[Daug]\n[D]\n[Daug]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x2443x",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Daug": {
+      "catalog": [
+        "xx0332"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "0220xx",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mamma Mia",
+  "id": "19bec40adb14006b4abec12940a6c919c54e802414ca0b1d524f65b52834de98",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 395,
+  "normalizedKey": "abba|mamma mia",
+  "playableChords": [
+    "D",
+    "Daug",
+    "G",
+    "A",
+    "Bm",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Bridge"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 71,
+      "name": "Chorus"
+    },
+    {
+      "measure": 93,
+      "name": "Chorus"
+    },
+    {
+      "measure": 111,
+      "name": "Ending"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "19bec40adb14006b4abec12940a6c919c54e802414ca0b1d524f65b52834de98",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "Mamma Mia",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

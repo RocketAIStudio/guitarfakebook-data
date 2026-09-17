@@ -1,0 +1,118 @@
+{
+  "artist": "Arctic Monkeys",
+  "artistNormalized": "arctic monkeys",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[B]\n\n[Intro]\n[B]\n[G#m]\n[B]\n[G#m]\n[B]\n[G#m]\n[B]\n[G#m]\n\n[Verse 1]\n[B]Just when things are getting\n[G#m]complicated\n[B]in the eye of the storm\n[G#m]\n[B]She flicks a redhot\n[G#m]revelation\n[B]off the tip of her tongue\n[G#m]\n[B]It does a dozen\n[G#m]somersaults and\n[B]it leaves you supercharged\n[G#m]\n[B]Makes me wanna blow her\n[G#m]candles out just to\n[B]see if you glow in the dark\n[G#m]Shalalala\n\n[Chorus]\n[E]\n[D#m]Shalalala\n[E]\n[D#m]Shalalala\n[E]\n[D#m]Shalalala\n[F#]\n\n[Verse 2]\n[B]Home sweet home,\n[G#m]home sweet home,\n[B]home sweet boobytrap\n[G#m]\n[B]I took the batteries out my\n[G#m]mysticism an\n[B]put 'em in my thinking cap\n[G#m]\n[B]She's got a telescopic\n[G#m]hallelujah\n[B]hanging up on the wall\n[G#m]\n[B]For when it gets too\n[G#m]complicated\n[B]in the eye of the storm\n[G#m]Shalalala\n\n[Chorus]\n[E]\n[D#m]Shalalala\n[E]\n[D#m]Shalalala\n[E]\n[D#m]Shalalala\n[F#]\nOh,\nand in a\n\n[Bridge]\n[E]hellcat spangled [B]cavern\nWhen your\n[E]judgment's on the [B]run\nAnd you're act-\n[C#m]ing like a strang-\ner 'Cause you thought\n[F#]it looked like fun\nWell did you\n[G#m]ever get the feeling\nDid you\n[C#m]think she set the [G#m]fall\nHer\n[E]steady hands may [F#]\nwell have done the\n[B]devil's [E]pedicure\n[B]What you waiting [E]for\nto\n[C#m]sing another [F#]fuck-\nin' Shalalala\n\n[Outro]\n[B]\n[E]Shalalala\n[B]\n[E]Shalalala\n[B]\n[E]Shalalala\n[B]  [E]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "x68876"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "x-9-11-11-11-9",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Hellcat Spangled Shalalala",
+  "id": "cc4a0efa56e77d3fd53d000fb9ef41bda02aab288dc3f165aab26b94673f2223",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 243,
+  "normalizedKey": "arctic monkeys|the hellcat spangled shalalala",
+  "playableChords": [
+    "B",
+    "G#m",
+    "E",
+    "D#m",
+    "F#",
+    "C#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 6,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Bridge"
+    },
+    {
+      "measure": 84,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cc4a0efa56e77d3fd53d000fb9ef41bda02aab288dc3f165aab26b94673f2223",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "The Hellcat Spangled Shalalala",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

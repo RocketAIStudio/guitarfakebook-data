@@ -1,0 +1,100 @@
+{
+  "artist": "Albert Collins",
+  "artistNormalized": "albert collins",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F7]\n[Ebm7]\n[Bbm]  [Ebm7]\n[Bbm]  [F7]\n\n[Verse 1]\n[Bbm]I've got a cold, cold feelin;\nIt's just like ice around\nmy heart.\nI've got a\n[Ebm7]cold, cold feelin;\nIt's just like ice around\n[Bbm]my heart.\nI know I'm gonna'\n[F7]quit somebody,\n[Gb7]every time [F7]that, feelin'\n[Bbm]starts. [Ebm7]\n[Bbm]  [F7]\n\n[Verse 2]\n[Bbm]You treat my like a prisoner,\nbecause my hands are tied.\nEverything you do to me,\nis stackin' up inside. It's a\n[Ebm7]cold, cold feelin'\nYou're just like ice around\n[Bbm]my heart.\nI know I'm gonna'\n[F7]quit somebody,\n[Gb7]every time [F7]that, feelin'\n[Bbm]starts. [Ebm7]\n[Bbm]  [F7]\n\n[Solo 1]\n[Bbm]\n[Ebm7]\n[Bbm]\n[F7]\n[Gb7]  [F7]\n[Bbm]  [Ebm7]\n[Bbm]  [F7]\n\n[Verse 3]\n[Bbm]There's a change in me baby,\nonce I was blind but now I can see.\nThere's a\n[Ebm7]change in me baby,\nonce I was blind but now I can see.\n[Bbm]\nI'm gon-\n[F7]na' put everybody down baby,\n[Gb7]That ever [F7]made a fool outta\n[Bbm]me. [Ebm7]\n[Bbm]  [F7]\n\n[Solo 2]\n[Bbm]\n[Ebm7]\n[Bbm]\n[F7]\n[Gb7]  [F7]\n[Bbm]  [Ebm7]\n[Bbm]",
+  "diagrams": {
+    "Bbm": {
+      "catalog": [
+        "688666",
+        "x-1-3-3-2-1",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13",
+        "18-20-20-18-18-18"
+      ],
+      "catalogCount": 5
+    },
+    "Ebm7": {
+      "catalog": [
+        "x6867x",
+        "x68676",
+        "x-x-1-3-2-2",
+        "11-13-11-11-11-11",
+        "x-x-13-15-14-14"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "x8786x",
+        "1-3-1-2-1-1",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "Gb7": {
+      "catalog": [
+        "x989xx",
+        "2-4-2-3-2-2",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Cold Cold Feeling",
+  "id": "095b73d287ea598ffce5115b59d21dcdff14410eafd11b040ac1e240aa672861",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 152,
+  "normalizedKey": "albert collins|cold cold feeling",
+  "playableChords": [
+    "F7",
+    "Ebm7",
+    "Bbm",
+    "Gb7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 54,
+      "name": "Solo 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "095b73d287ea598ffce5115b59d21dcdff14410eafd11b040ac1e240aa672861",
+    "version": "BCFZ"
+  },
+  "tempo": 73,
+  "title": "Cold Cold Feeling",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

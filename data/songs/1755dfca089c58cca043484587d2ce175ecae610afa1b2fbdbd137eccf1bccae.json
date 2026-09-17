@@ -1,0 +1,115 @@
+{
+  "artist": "Analepsy",
+  "artistNormalized": "analepsy",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[B5]\n\n[Verse 1]\nWandering in the darkness\nTraveling through empty space\nNotion is abstract\nvisions in my brain\n\n[Chorus]\n[B5]Who Am\nI? [C#5][D5]\n[B5]Why Am I\nhere? [C#5][D5]\n[B5]The pain, I feel,\nthis can’t be [C#5]real [D5]\n[B5]My flesh, my soul,\nis real [C#5]after [D5]all\n\n[Bridge]\n[B5]  [C#5]\n[B5]  [C#5]\n[B5]  [C#5]\n[B5][C#5]Why Im fee ling like this?\n[B5]  [C#5]\n[B5]  [C#5]\n[B5]  [C#5]\n[B5][C#5]What can I do to e-\n\n[Verse 2]\n[C5]xist? [B5][A#5][C5]\n[C#5]  [C5]  [B5]  [Cdim]\n[C5]  [B5]  [A#5]  [C5]\n[C#5]  [C5]  [B5]  [Cdim]\n[C5][B5]Trapped [A#5]here [C5]in\n[C#5]this [B5][C5]moment [Cdim]\n[C5][A#5][C5][B5]Memories,\n[C#5]I [C5]have [B5]none [Cdim]\n[C5][A#5][C5][B5]Agoni-\n[C#5]zing [C5]here [Cdim][B5]a-\n[C5]lone [B5][A#5]In [C5]my\n[C#5]own [B5][C5]torment [Cdim]\n\n[Bridge]\n[C5]\n[B5]\n[D#5]\n\n[Solo]\n[C5]\n[B5]\n[D#5]\n[C5]\n[B5]\n[D#5]\n[C5]\n[B5]\n[D#5]\n[C5]\n[B5]\n[D#5]\n[C5]\n[B5]\n[D#5]\n\n[Verse 3]\n[C5]Boiling my blood in hate For\nreasons I don’t know\nI can feel this evil\nGrowing in my being\n\n[Chorus]\n[B5]\n[C#5]  [D5]\n[B5]The pain, I feel,\nthis can’t be [C#5]real [D5]\n[B5]My flesh, my soul,\nis real [C#5]after [D5]all\n[B5]A flash of what\nI can [C#5]become [D5]\n\n[Outro]\n[C5]\nWhat have I be-\ncome?",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "111xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Cdim": {
+      "catalog": [
+        "2120xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "444xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Eons in Vacuum",
+  "id": "1755dfca089c58cca043484587d2ce175ecae610afa1b2fbdbd137eccf1bccae",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 139,
+  "normalizedKey": "analepsy|eons in vacuum",
+  "playableChords": [
+    "B5",
+    "C#5",
+    "D5",
+    "C5",
+    "A#5",
+    "Cdim",
+    "D#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Solo"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1755dfca089c58cca043484587d2ce175ecae610afa1b2fbdbd137eccf1bccae",
+    "version": "BCFZ"
+  },
+  "tempo": 122,
+  "title": "Eons in Vacuum",
+  "tuning": "A# F A# D# G C",
+  "variantRole": "primary"
+}

@@ -1,0 +1,94 @@
+{
+  "artist": "Agnostic Front",
+  "artistNormalized": "agnostic front",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n\n[Verse 1]\n[B5]When you're [D5]with me\n[B5]You're my [D5]best friend\n[B5]Then when [D5]you leave\n[B5]You're a fucking [D5]hypocrite\n\n[Chorus]\n[E5][F5]Traitor [E5][F5]Traitor\n[E5][F5]Traitor [E5][F5]Traitor\n[A5]You're a fucking [C5]two [D5]faced\n[A5]You're a fucking [E5]two [D5]faced\n[A5]You're a fucking [C5]two [D5]faced\n[A5]You're a fucking [E5]two [D5]faced\n[E5][F5]Traitor [E5][F5]Traitor\n[E5][F5]Traitor [E5][F5]Traitor\n\n[Verse 2]\n[B5]When you're [D5]with me\n[B5]You're my [D5]best friend\n[B5]Then when [D5]you leave\n[B5]You're a fucking [D5]hypocrite\n\n[Chorus]\n[E5][F5]Traitor [E5][F5]Traitor\n[E5][F5]Traitor [E5][F5]Traitor\n[A5]You're a fucking [C5]two [D5]faced\n[A5]You're a fucking [E5]two [D5]faced\n[A5]You're a fucking [C5]two [D5]faced\n[A5]You're a fucking [E5]two [D5]faced",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Traitor",
+  "id": "41514366b5960a68210e437fdef99c3a5c09c53d5a123c925798e3df35305196",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 100,
+  "normalizedKey": "agnostic front|traitor",
+  "playableChords": [
+    "B5",
+    "D5",
+    "F5",
+    "E5",
+    "A5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 7,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "41514366b5960a68210e437fdef99c3a5c09c53d5a123c925798e3df35305196",
+    "version": "BCFZ"
+  },
+  "tempo": 190,
+  "title": "Traitor",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

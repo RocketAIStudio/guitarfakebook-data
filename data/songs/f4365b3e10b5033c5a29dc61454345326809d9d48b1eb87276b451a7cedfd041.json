@@ -1,0 +1,51 @@
+{
+  "artist": "An Albatross",
+  "artistNormalized": "an albatross",
+  "capo": "No capo",
+  "chordPositionCount": 1,
+  "chordSymbolCount": 1,
+  "content": "[Intro]\n[A5]\n[A5]\n\n[Verse]\n[A5]\nBaby,\nthis rock 'n\nroll\n[A5]\nBaby,\nwill save your\nsoul\n[A5]\nI Am The\nLazer Vi-\nking\n\n[Outro]\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Am The Lazer Viking",
+  "id": "f4365b3e10b5033c5a29dc61454345326809d9d48b1eb87276b451a7cedfd041",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 19,
+  "normalizedKey": "an albatross|i am the lazer viking",
+  "playableChords": [
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse"
+    },
+    {
+      "measure": 27,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f4365b3e10b5033c5a29dc61454345326809d9d48b1eb87276b451a7cedfd041",
+    "version": "BCFZ"
+  },
+  "tempo": 300,
+  "title": "I Am The Lazer Viking",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

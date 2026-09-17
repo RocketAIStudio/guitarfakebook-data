@@ -1,0 +1,126 @@
+{
+  "artist": "Arctic Monkeys",
+  "artistNormalized": "arctic monkeys",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]It feels like I\n\n[Chorus]\n[G]only go [D]backwards,\n[C]baby Every part of\n[G]me says, [D]\"go ahead\"\n[C]I got my hopes\n[G]up again, [D]oh no,\n[C]not again It feels like I\n[G]only go [D]backwards,\n[C]darling\n\n[Verse 1]\n[Em]I know that you think\nyou sound silly when you call my name\n[D]But I\nget it inside my head all day\n[Em]When I realize I'm just hold-\ning onto the hope that may-\n[A]be Your feelings don't\n[Am]show It feels like I\n\n[Chorus]\n[G]only go [D]backwards,\n[C]baby Every part of\n[G]me says, [D]\"go ahead\"\n[C]I got my hopes\n[G]up again, [D]oh no,\n[C]not again It feels like I\n[G]only go [D]backwards,\n[C]darling\n\n[Verse 2]\n[Em]The seed of all this\nindecision isn't me,\n[D]oh no 'Cause I\ndecided long ago But that's\n[Em]the way it seems to go When trying\nso hard to get to something real\n[A]It feels\n[Am]It feels like I\n\n[Chorus]\n[G]only go [D]backwards,\n[C]baby Every part of\n[G]me says, [D]\"go ahead\"\n[C]I got my hopes\n[G]up again, [D]oh no,\n[C]not again It feels like I\n[G]only go [D]backwards,\n[C]darling It feels like I\n[G]only go [D]backwards,\n[C]baby Every part of\n[G]me says, [D]\"go ahead\"\n[C]I got my hopes\n[G]up again, [D]oh no,\n[C]not again It feels like I\n[G]only go [D]backwards,\n[C]darling\n\n[Outro]\n[G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Feels Like We Only Go Backwards",
+  "id": "b9c5a23447ac210109e9b1c2b2f53b10088cc21eb93acd7365ee416f480a6e63",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 259,
+  "normalizedKey": "arctic monkeys|feels like we only go backwards",
+  "playableChords": [
+    "G",
+    "D",
+    "C",
+    "Em",
+    "A",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Chorus"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b9c5a23447ac210109e9b1c2b2f53b10088cc21eb93acd7365ee416f480a6e63",
+    "version": "BCFZ"
+  },
+  "tempo": 75,
+  "title": "Feels Like We Only Go Backwards",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

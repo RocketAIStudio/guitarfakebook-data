@@ -1,0 +1,115 @@
+{
+  "artist": "Albert King",
+  "artistNormalized": "albert king",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F#m]\n[Gm]  [F#m]\n[Bm]  [Em]\n[Bm]  [F#]\n\n[Verse 1]\n[Bm]\n[Em]\n[Bm]\n[Em]\n[Bm]\n[F#m]\n[Gm]  [F#m]\n[Bm]  [Em]\n[Bm][F#]There is\n\n[Verse 2]\n[Bm]nothing I can do,\n[Em]if you leave me, with a cry\n[Bm]\n[Em]There is\nnothing I can do,\n[Bm]if you leave me, with a cry\nMy\n[F#m]love will follow you,\n[Gm]as the [F#m]years go passing\n[Bm]by [Em]\n[Bm][F#]I give\n\n[Verse 3]\n[Bm]you all but a home,\n[Em]that's one thing you get the night\n[Bm]\n[Em]I give\nyou all but a home,\n[Bm]that's one thing you get the night\nMy\n[F#m]love will follow you,\n[Gm]as the [F#m]years go passing\n[Bm]by [Em]\n[Bm]  [F#]\n\n[Solo 1]\n[Bm]\n[Em]\n[Bm]\n[Em]\n[Bm]\n[F#m]\n[Gm]  [F#m]\n[Bm]  [Em]\n[Bm]  [F#]\n[Bm]\n[Em]\n[Bm]\n[Em]\n[Bm]\n[F#m]\n[Gm]  [F#m]\n[Bm]  [Em]\n[Bm][F#]I'm gonna\n\n[Verse 4]\n[Bm]leave it up to you,\n[Em]so long, so long good\n[Bm]bye\n[Em]I'm gonna\nleave it up to you,\n[Bm]so long, so long good\nbye My\n[F#m]love will follow you,\n[Gm]as the [F#m]years go passing\n[Bm]by [Em]\n[Bm]  [F#]\n\n[Solo 2]\n[Bm]\n[Em]\n[Bm]\n[Em]\n[Bm]\n[F#m]\n[Gm]  [F#m]\n[Bm]  [Em]\n[Bm]  [F#]\n[Bm]\n[Em]\n[Bm]\n[Em]\n[Bm]\n[F#m]\n[Gm]  [F#m]\n[Bm]  [Em]\n[Bm]  [F#]\n[Bm]\n[Em]\n[Bm]\n[Em]\n[Bm]\n[F#m]\n[Gm]  [F#m]\n[Bm]",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "799777",
+        "x-2-4-4-3-2",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "x98676",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "x-9-11-11-10-9",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "x-10-12-12-11-10",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "As The Years Go Passing By",
+  "id": "e327bce640293407fa85656db6fa44a4676e6e42c3edb7ebadf1f914b8f51069",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 123,
+  "normalizedKey": "albert king|as the years go passing by",
+  "playableChords": [
+    "F#m",
+    "Gm",
+    "Bm",
+    "Em",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 42,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 66,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 78,
+      "name": "Solo 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e327bce640293407fa85656db6fa44a4676e6e42c3edb7ebadf1f914b8f51069",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "As The Years Go Passing By",
+  "tuning": "B E A D G B E",
+  "variantRole": "primary"
+}

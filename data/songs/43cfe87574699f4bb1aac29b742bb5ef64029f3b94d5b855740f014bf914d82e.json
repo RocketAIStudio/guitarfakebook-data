@@ -1,0 +1,129 @@
+{
+  "artist": "Agnostic Front",
+  "artistNormalized": "agnostic front",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E5]  [F5]  [E5]\n[D5]\n\n[Interlude]\n[B5]  [C#5]  [D5]\n[E5]\n[B5]  [C#5]  [D5]\n[E5]\n\n[Verse 1]\n[C#5][B5]Hypocrite [D5]we\n[E5]had a deal\n[B5]Nothing [D5][C#5]ever\n[E5]fucking real\n[B5]Never [C#5]tust [D5]the\n[E5]outsider It's\n[B5]proven [C#5]once [D5]a-\n[E5]gain\n\n[Chorus]\n[E5]You can [F5]say what you\n[D5]wanna [E5]say\n[B5]No [A5]forgiveness\n[B5]no [A5]mercy\n[E5]Or you can [F5]just go\n[D5]straight to [E5]hell\n[B5]No [A5]forgiveness\n[B5]no [A5]mercy\n\n[Interlude]\n[B5]  [C#5]  [D5]\n[E5]\n[B5]  [C#5]  [D5]\n[E5]\n\n[Verse 2]\n[B5]It was [C#5]nothing [D5]but a\n[E5]big charade\n[B5]tired of [C#5]Playing [D5]these\n[E5]fucking games\n[B5]Can't wait to [C#5]see [D5]your\n[E5]tombstone slate\n[B5]may Have [C#5]been [D5]fooled\n[E5]but never played\n\n[Chorus]\n[E5]You can [F5]say what you\n[D5]wanna [E5]say\n[B5]No [A5]forgiveness\n[B5]no [A5]mercy\n[E5]Or you can [F5]just go\n[D5]straight to [E5]hell\n[B5]No [A5]forgiveness\n[B5]no [A5]mercy\n\n[Bridge]\n[C5]\n[D5]\n[A5]\n[C5]\n[D5]\n[E5]Fuck you I\ndon't need you!\n\n[Chorus]\n[E5]You can [F5]say what you\n[D5]wanna [E5]say\n[B5]No [A5]forgiveness\n[B5]no [A5]mercy\n[E5]Or you can [F5]just go\n[D5]straight to [E5]hell\n[B5]No [A5]forgiveness\n[B5]no [A5]mercy\n\n[Verse 3]\n[B5]Turns out [C#5][D5]I'm\n[E5]better off anyway\n[B5]tomorrow [C#5]is [D5]a-\n[E5]nother day\n[B5]I don't [C#5]need [D5]no\n[E5]sympathy from\n[B5]someone [C#5]living [D5]in a\n[E5]fantasy\n\n[Chorus]\n[E5]You can [F5]say what you\n[D5]wanna [E5]say\n[B5]No [A5]forgiveness\n[B5]no [A5]mercy\n\n[Outro]\n[E5]Or you can [F5]just go\n[D5]straight to [E5]hel\n[B5]  [A5]\n[B5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "No Mercy",
+  "id": "43cfe87574699f4bb1aac29b742bb5ef64029f3b94d5b855740f014bf914d82e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 213,
+  "normalizedKey": "agnostic front|no mercy",
+  "playableChords": [
+    "E5",
+    "F5",
+    "D5",
+    "B5",
+    "C#5",
+    "A5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Interlude"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Interlude"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Bridge"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    },
+    {
+      "measure": 71,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "43cfe87574699f4bb1aac29b742bb5ef64029f3b94d5b855740f014bf914d82e",
+    "version": "BCFZ"
+  },
+  "tempo": 220,
+  "title": "No Mercy",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

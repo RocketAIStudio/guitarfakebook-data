@@ -1,0 +1,130 @@
+{
+  "artist": "Amon Amarth",
+  "artistNormalized": "amon amarth",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[E5]\n\n[Verse 1]\n[E5]Thunder rolls across\nthe plains\nThor rides in pou-\nring rain He\nrides to Jotumheim\nto fight\nLightning strikes when\nMjallnir bites\n\n[Chorus]\n[E5]Fire!\n[B5]Burning in\n[G5]his eyes\n[D5]\n[E5]Fire!\n[B5]His\n[G5]rage is pure, see the\n[D5]lightning strike\n[E5]Fire!\n[B5]Burning in\n[G5]his eyes\n[D5]\n[E5]Fire!\n[B5]His\n[G5]hate is pure, see the\n[D5]lightning strike\n\n[Pre-Verse]\n[E5]\n\n[Verse 2]\n[E5]Lightning cracks the bla-\nckened sky\nHear the thunder cha-\nriot ride\nAll brave men with hearts\nof war\nRide the path of migh-\nty Thor\n\n[Bridge]\n[B5]\n[D5]\n[B5]\n[D5]\n[B5]Son of thunder,\nlighting strikes\nSon of thunder\n[D5]\n[B5]Son of thunder,\nThor arise\nSon of thunder\n[D5]\n\n[Interlude]\n[B5]\n[C5]\n[B5]\n[C5]\n[B5]\n[C5]\n[B5]\n[A]  [C]\n[B5]\n[C5]\n[B5]\n[A]  [C]\n[B5]\n[C5]\n[B5]\n[A]  [C]\n[B5]Son Of Oden\n[C5]\n[B5]Thundergod\n[A]  [C]\n[B5]Master of War\n[C5]\n[B5]Asator!\n[A]  [C]\n[B5]\n\n[Solo]\n[E5]\n[B5]\n[G5]\n[D5]\n[E5]\n[B5]\n[G5]\n[D5]\n[E5]\n[B5]\n[G5]\n[D5]\n[E5]\n[B5]\n[G5]\n[D5]\n\n[Chorus]\n[E5]Fire!\n[B5]Burning in\n[G5]his eyes\n[D5]\n[E5]Fire!\n[B5]His\n[G5]rage is pure, see the\n[D5]lightning strike\n[E5]Fire!\n[B5]Burning in\n[G5]his eyes\n[D5]\n[E5]Fire!\n[B5]His\n[G5]hate is pure, see the\n[D5]lightning strike\n\n[Outro]\n[E5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "xx0232",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x335xx",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x022xx",
+        "577xxx"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Asator",
+  "id": "07d6f4bbc3386f2e7146b0529a5f368f97740386da605c32e16c39129368ff0b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 163,
+  "normalizedKey": "amon amarth|asator",
+  "playableChords": [
+    "E5",
+    "B5",
+    "G5",
+    "D5",
+    "C5",
+    "A",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 69,
+      "name": "Interlude"
+    },
+    {
+      "measure": 95,
+      "name": "Solo"
+    },
+    {
+      "measure": 113,
+      "name": "Chorus"
+    },
+    {
+      "measure": 129,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "07d6f4bbc3386f2e7146b0529a5f368f97740386da605c32e16c39129368ff0b",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Asator",
+  "tuning": "B E A D F# B",
+  "variantRole": "primary"
+}

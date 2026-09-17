@@ -1,0 +1,130 @@
+{
+  "artist": "Ace of Base",
+  "artistNormalized": "ace of base",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C#m]\n[B]\n[C#m]She leads a lonely life\n[B]  [F#m]\n[C#m]She leads a lonely life\n[B]  [F#m]\n[C#m]\n[B]  [F#m]\n[C#m]\n[B][F#m]When she\n\n[Verse 1]\n[C#]woke up late in the morning light And the\n[B]day had just begun [F#]She\n[C#]opened up her eyes and thought\n[G#]Oh what a morning\n[C#]It's not a day for work It's a\n[F#]day for catching tan Just\n[C#]lying on the beach [G#]and having\n[F#]fun She's going to get you\n\n[Chorus]\n[C#m]All that she wants is another\n[B]ba by She's [F#m]gone tomorrow boy\n[C#m]All that she wants is another\n[B]ba by [F#m]\n[C#m]All that she wants is another\n[B]ba by She's [F#m]gone tomorrow boy\n[C#m]All that she wants is another\n[B]ba by [F#m]\n\n[Pre-Verse]\n[C#m]\n[B]  [F#m]\n[C#m]\n[B]  [F#m]\n[C#m]\n[B]  [F#m]\n[C#m]\n[B]  [F#m]\n\n[Verse 2]\n[C#]So if you\nare in sight and the day is right She's the\n[B]hun ter you're the fox [F#]The\n[C#]gentle voice that talks to you\n[G#]won't talk forever\n[C#]It is a night for pas sion But the\n[F#]mor ning means goodbye Be-\n[C#]ware of what is [G#]flashing in her\n[F#]eyes She's going to ge t you\n\n[Chorus]\n[C#m]All that she wants is another\n[B]ba by She's [F#m]gone tomorrow boy\n[C#m]All that she wants is another\n[B]ba by [F#m]\n[C#m]All that she wants is another\n[B]ba by She's [F#m]gone tomorrow boy\n[C#m]All that she wants is another\n[B]ba by [F#m]\n\n[Bridge]\n[C#m]\n[B]  [F#m]\n[C#m]\n[B]  [F#m]\n[C#m]\n[B]  [F#m]\n[C#m]\n[B]  [F#m]\n\n[Chorus]\n[C#m]All that she wants is another\n[B]ba by She's [F#m]gone tomorrow boy\n[C#m]All that she wants is another\n[B]ba by [F#m]\n[C#m]All that she wants is another\n[B]ba by She's [F#m]gone tomorrow boy\n[C#m]All that she wants is another\n[B]ba by [F#m]\n\n[Outro]\n[C#m]\n[B]  [F#m]\n[C#m]\n[B]  [F#m]\n[C#m]All that she wants\n[B]  [F#m]\n[C#m]All that she wants\n[B]  [F#m]\n[C#m]\n[B]  [F#m]\n[C#m]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "All That She Wants *alt",
+  "id": "c27b635f82b0ed906ca36d3eb1cc54ab4c2970a3b3c144a559cb132bc8ddc54a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 311,
+  "normalizedKey": "ace of base|all that she wants",
+  "playableChords": [
+    "C#m",
+    "B",
+    "F#m",
+    "C#",
+    "F#",
+    "G#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Bridge"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c27b635f82b0ed906ca36d3eb1cc54ab4c2970a3b3c144a559cb132bc8ddc54a",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "All That She Wants",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

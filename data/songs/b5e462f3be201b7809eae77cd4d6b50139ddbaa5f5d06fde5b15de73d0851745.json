@@ -1,0 +1,134 @@
+{
+  "artist": "AFI",
+  "artistNormalized": "afi",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E]\n\n[Verse 1]\n[E]None of them\n[C#sus2]Some of us\n[B]Heard what you said\n[B][E]With the dust\n[E]In your lungs\n[C#sus2]And we hush\n[B]Show you my face\n[B][E]Each of us\n\n[Pre-Chorus]\n[A]could res-\npond to\nCalls from\ngreat Our love must return\n\n[Chorus]\n[C#m]\n[E]All has un-\n[A]done\nOur love must return\n[C#m]now\n[E]Back into the sun\n[A]\n\n[Verse 2]\n[E]Overnight\n[C#sus2]With restrain\n[B]Whispering strange\n[B][E]Still remains\n[E]Mispronounced\n[C#sus2]Each of us\n[B]Screaming with pride\n[B][E]In our hearts\n\n[Bridge]\n[E]\n[B][G5]In our hearts\n[E]\n[B][G5]In our hearts\n\n[Pre-Chorus]\n[A]Soon res-\npose to\nShow much\nanyone Our love must return\n\n[Chorus]\n[C#m]\n[E]All has un-\n[A]done\nOur love must return\n[C#m]now\n[E]Back into the sun\n[A]\n\n[Solo]\n[E]\n[C#sus2]\n[B]\n[B]  [E]\n[E]\n[C#sus2]\n[B]\n[B][E]Our love must return\n\n[Interlude]\n[C#m]\n[E]All has un-\n[A]done\nOur love must return\n\n[Chorus]\n[C#m]now\n[E]All has un-\n[A]done\nOur love must return\n[C#m]now\n[E]Back into the sun\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "C#sus2": {
+      "catalog": [
+        "x46644"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Back Into The Sun",
+  "id": "b5e462f3be201b7809eae77cd4d6b50139ddbaa5f5d06fde5b15de73d0851745",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 142,
+  "normalizedKey": "afi|back into the sun",
+  "playableChords": [
+    "E",
+    "C#sus2",
+    "B",
+    "A",
+    "C#m",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Solo"
+    },
+    {
+      "measure": 55,
+      "name": "Interlude"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b5e462f3be201b7809eae77cd4d6b50139ddbaa5f5d06fde5b15de73d0851745",
+    "version": "BCFZ"
+  },
+  "tempo": 91,
+  "title": "Back Into The Sun",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

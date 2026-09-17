@@ -1,0 +1,111 @@
+{
+  "artist": "Alice In Chains",
+  "artistNormalized": "alice in chains",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Dbmaj7]\n[Bbm]\n[Ab]\n[Eb]\n[Dbmaj7]\n[Bbm]\n[Ab]\n[Eb]\n\n[Verse 1]\n[Dbmaj7]I don't wan-\n[Bbm]na feel no more\n[Ab]\n[Eb]\n[Dbmaj7]It's easier\n[Bbm]to keep fal-\n[Ab]lin'\n[Eb]\n[Dbmaj7]Imita-\n[Bbm]tions are pale\n[Ab]\n[Eb]\n[Dbmaj7]Emptiness\n[Bbm]all to-\n[Ab]morrows,\n[C]haunted by your ghost\n[Dbmaj7]\n[Bbm]\n\n[Chorus]\n[Ab]Lay down,\n[Eb]black gives way to blue\n[Dbmaj7]\n[Bbm]\n[Ab]Lay down,\n[Eb]I'll remember you\n\n[Break]\n[Dbmaj7]\n[Bbm]\n[Ab]\n[Eb]\n[Dbmaj7]\n[Bbm]\n[Ab]\n[Eb]\n\n[Verse 2]\n[Dbmaj7]Fading out\n[Bbm]by design\n[Ab]\n[Eb]\n[Dbmaj7]Conscious-\n[Bbm]ly avoiding chan-\n[Ab]ges\n[Eb]\n[Dbmaj7]Curtain's\n[Bbm]drawn, now it's done\n[Ab]\n[Eb]\n[Dbmaj7]Silencing\n[Bbm]all to-\n[Ab]morrows,\n[C]forcing a goodbye\n[Dbmaj7]\n[Bbm]\n\n[Chorus]\n[Ab]Lay down,\n[Eb]black gives way to blue\n[Dbmaj7]\n[Bbm]\n[Ab]Lay down,\n[C]I'll remember you\n[Dbmaj7]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x02220",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm": {
+      "catalog": [
+        "x24432",
+        "x-1-3-3-2-1",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x46664",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Dbmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-4-3-1-1-1",
+        "x-4-6-5-6-4",
+        "9-8-6-6-6-8",
+        "9-11-10-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "022100",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Black Gives Way To Blue",
+  "id": "ab6de5a3dd97801f389dd7bef5661e1f53b7af1e655d29a972daefd5f4935682",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 93,
+  "normalizedKey": "alice in chains|black gives way to blue",
+  "playableChords": [
+    "Dbmaj7",
+    "Bbm",
+    "Ab",
+    "Eb",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Break"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ab6de5a3dd97801f389dd7bef5661e1f53b7af1e655d29a972daefd5f4935682",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Black Gives Way To Blue",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

@@ -1,0 +1,122 @@
+{
+  "artist": "An Albatross",
+  "artistNormalized": "an albatross",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[A5]  [B5]\n[C5]  [D5]  [D#5]\n[A5]  [B5]\n[C5]  [D5]  [D#5]\n\n[Verse 1]\n[G5][Gdim]I said now\n[G5]it's alright [Gdim]With o-\n[G5]ur long hair 'n [Gdim]luv, We're livin'\n[G5]outta sight. [Gdim]\n[G5][Gdim]I said now\n[G5]it's alright, [Gdim]Down to my\n[G5]soulders now, [Gdim]We're gonna\n[G5]cease the night. [Gdim]\n\n[Verse 2]\n[A5]  [B5]\n[C5]  [D5]\n[E5]Alright, al-\nright, alright, al-\n[A5]right. [B5]\n[C5]  [D5]\n[B5]Yeah, yeah,\nyeah, yeah.\n[A5]  [B5]\n[C5]  [D5]\n[E5]\n\n[Bridge]\n[E5]\n[G5]\n[C#5]\n[E5]\n[G5]\n[C#5]\n[E5]\n[G5]\n[C#5]\n[E5]\n[G5]\n[C#5]\n\n[Chorus]\n[A5]Yes, immersion in\nlove It's al-\n[D#]right.\n[A5]\n[D#]\n[A5]Yes, long hair 'n\nluv, It's al-\n[D#]right.\n[A5]\n[D#]\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#": {
+      "catalog": [
+        "x6888x"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gdim": {
+      "catalog": [
+        "3453xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hairobics",
+  "id": "2f2e16756c9498a834515b0cf503f69605701cf62115773f232f3b54ecb6211b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 66,
+  "normalizedKey": "an albatross|hairobics",
+  "playableChords": [
+    "A5",
+    "B5",
+    "C5",
+    "D5",
+    "D#5",
+    "G5",
+    "Gdim",
+    "E5",
+    "C#5",
+    "D#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2f2e16756c9498a834515b0cf503f69605701cf62115773f232f3b54ecb6211b",
+    "version": "BCFZ"
+  },
+  "tempo": 230,
+  "title": "Hairobics",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,130 @@
+{
+  "artist": "30 Seconds To Mars",
+  "artistNormalized": "30 seconds to mars",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Ab]\n[Abmaj7]\n[Fm]\nI won't\n\n[Verse 1]\n[Ab]suffer be\nbroken get\n[Abmaj7]tired or\nwasted Su-\n[Fm]rrender to\nnothing or\ngive up\nwhat I\n[Ab]Started and\nstopped it from\n[Abmaj7]end to be-\nginning A\n[Fm]new day is\ncoming and\nI am\nfinally\n\n[Chorus]\n[Db]free! Run awa-\ny run awa-\n[Eb]y\nI'll atta-\n[Fm]ck Run awa-\ny run awa-\n[Cm]y go\nchase yoursel-\n[Db]f Run awa-\ny run awa-\n[Eb]y now\nI'll attack\n[Fm]I'll attack\nI'll aaa...\n[Cm]\nI would have\n\n[Verse 2]\n[Ab]kept you for-\never but\n[Abmaj7]we had to\nsever It\n[Fm]ended for\nboth of us\nfaster\nthan a\n[Ab]Kill off this\nthinking it's\n[Abmaj7]starting to\nsink in I'm\n[Fm]losing con-\ntrol now with-\nout you I can\nfinally\n\n[Chorus]\n[Db]see! Run awa-\ny run awa-\n[Eb]y\nI'll atta-\n[Fm]ck Run awa-\ny run awa-\n[Cm]y go\nchase yoursel-\n[Db]f Run awa-\ny run awa-\n[Eb]y now\nI'll attack\n[Fm]I'll attack\nI'll aaa...\n[Cm]\n\n[Bridge]\n[Ab]Your\npromis-\n[Abmaj7]es they\nlook like li-\n[Fm]es Your\nhonest-\ny like a back\nthat hides a\n[Ab]knife I\npromise yo-\n[Abmaj7]u I\npromise you\n[Fm]promise you\npromise... And\nI am\nfinally\n\n[Chorus]\n[Db]free Run awa-\ny run awa-\n[Eb]y\nI'll atta-\n[Fm]ck Run awa-\ny run awa-\n[Cm]y go\nchase yoursel-\n[Db]f Run awa-\ny run awa-\n[Eb]y now\nI'll attack\n[Fm]I'll attack\nI'll attack\n[Cm]I w-\nill attack\n[Db]Run awa-\ny\n[Eb]I w-\nill attack\n[Fm]Run awa-\ny\n[Cm]I w-\nill attack\n[Db]Run awa-\ny run awa-\n[Eb]y now\nI'll attack\n[Fm]I'll attack\nI'll attack\n[Cm]\n\n[Outro]\n[Ab]\n[Abmaj7]\n[Fm]\n[Ab]\n[Abmaj7]\n[Fm]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x13331",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Abmaj7": {
+      "catalog": [
+        "x13231",
+        "4-3-1-1-1-3",
+        "4-6-5-5-4-4",
+        "x-x-6-8-8-8",
+        "x-11-10-8-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x57765",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "x68886",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x-8-10-10-10-8",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "5553xx",
+        "x-10-12-12-11-10",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Attack",
+  "id": "8189ba383bc6c01ac6fc3d2def638757a6780bd5b1b9c4e3b1a8c8850a321035",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 309,
+  "normalizedKey": "30 seconds to mars|attack",
+  "playableChords": [
+    "Ab",
+    "Abmaj7",
+    "Fm",
+    "Db",
+    "Eb",
+    "Cm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Bridge"
+    },
+    {
+      "measure": 91,
+      "name": "Chorus"
+    },
+    {
+      "measure": 123,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8189ba383bc6c01ac6fc3d2def638757a6780bd5b1b9c4e3b1a8c8850a321035",
+    "version": "BCFZ"
+  },
+  "tempo": 175,
+  "title": "Attack",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

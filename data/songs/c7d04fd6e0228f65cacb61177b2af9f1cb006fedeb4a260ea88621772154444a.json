@@ -1,0 +1,123 @@
+{
+  "artist": "AC DC",
+  "artistNormalized": "ac dc",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\nThere was a\nfriend of mine on\nmurder\nAnd the judge's gavel fell\nJury found him\nguilty Gave him\nsixteen years in hell\nHe said\n\n[Verse 1]\n[E]\"I ain't spending my life\nhere\nI ain't living alone\nAin't\nbreaking no rocks on the chain\ngang I'm\nbreakin' out and headin' home\"\nGonna make a\njailbreak\nAnd I'm\nlookin' towards the sky\nI'm gonna make a\njailbreak\nOh, how\nI wish that I could fly\n\n[Pre-Chorus]\n[A]All in the name of\n[D]liberty\n[A]\n[D]\n[B]All in the name of\n[E]liberty\n[B]\n[D]Got to be free\n\n[Chorus]\n[E]Jailbreak,\nlet me out of here\nJailbreak,\nsixteen years\nah\nJailbreak,\nhad more\nthan I can take\nJailbreak,\nyeah\nHe said he'd\n\n[Verse 2]\n[E]seen his lady being fooled with\nBy another man\nShe was do-\nwn and he was up\nHad a gun in his hand\nBullets started flying everywhere\nAnd people started to scream\nBig man lying on the ground\nWith a hole\nin his body Where his\nlife had been But it was\n\n[Pre-Chorus]\n[A]all in the name of\n[D]liberty\n[A]\n[D]\n[B]All in the name of\n[E]liberty\n[B]\n[D]I got to be free\n\n[Chorus]\n[E]Jailbreak\nJailbreak\nI got to break out\nOut of here\n\n[Solo]\n[A]\n[D]\n[A]\n[D]\n[B]\n[E]\n[B]\n[D]\n\n[Bridge]\n[E]\nHeartbeats,\nthey were\nracin'\nFreedom,\nhe was\nchasin'\nSpotlights,\nsirens,\nrifles\nfiring But\nhe made it out\nWith a bullet\nin his back [E5]\n\n[Chorus]\n[E]Jailbreak\nJailbreak\nJailbreak\nJailbreak",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Jailbreak",
+  "id": "c7d04fd6e0228f65cacb61177b2af9f1cb006fedeb4a260ea88621772154444a",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 272,
+  "normalizedKey": "ac dc|jailbreak",
+  "playableChords": [
+    "E",
+    "A",
+    "D",
+    "B",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 30,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 71,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Chorus"
+    },
+    {
+      "measure": 87,
+      "name": "Solo"
+    },
+    {
+      "measure": 95,
+      "name": "Bridge"
+    },
+    {
+      "measure": 115,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c7d04fd6e0228f65cacb61177b2af9f1cb006fedeb4a260ea88621772154444a",
+    "version": "BCFZ"
+  },
+  "tempo": 134,
+  "title": "Jailbreak",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

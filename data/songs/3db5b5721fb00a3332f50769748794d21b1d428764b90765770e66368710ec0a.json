@@ -1,0 +1,105 @@
+{
+  "artist": "ABBA",
+  "artistNormalized": "abba",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Bb]\n[F]\n[Bb]\nI have a\n\n[Verse 1]\n[F]dream,\na song to\n[Bb]sing\nTo help me\n[F]cope\nwith any-\n[Bb]thing\nIf you see the\n[F]wonder\nof a fairy\n[Bb]tale\nYou can take the\n[F]future,\neven if you\n[Bb]fail\nI believe in\n\n[Chorus]\n[F]angels\nSomething good in\n[Eb]everything I\n[Bb]see I believe in\n[F]angels\nWhen I know the\n[Eb]time is right for\n[Bb]me I'll cross the\n[F]stream\nI have a\n[Bb]dream\nI have a\n\n[Verse 2]\n[F]dream,\na fanta-\n[Bb]sy\nTo help me\n[F]through\nreali-\n[Bb]ty\nAnd my desti-\n[F]nation\nmakes it worth the\n[Bb]while\nPushing through the\n[F]darkness;\nstill another\n[Bb]mile\nI believe\nin\n\n[Chorus]\n[F]angels\nSomething good in\n[Eb]everything I\n[Bb]see I believe in\n[F]angels\nWhen I know the\n[Eb]time is right for\n[Bb]me I'll cross the\n[F]stream\nI have a\n[Bb]dream\nI'll cross the\n[F]stream\nI have a\n\n[Interlude]\n[Bb]dream\n[F]\n[Bb]\n[F]\n[Bb]\nI have a\n\n[Verse 3]\n[F]dream,\na song to\n[Bb]sing\nTo help me\n[F]cope\nwith any-\n[Bb]thing\nIf you see the\n[F]wonder\nof a fairy\n[Bb]tale\nYou can take the\n[F]future\neven if you\n[Bb]fail\nI believe\nin\n\n[Chorus]\n[F]angels\nSomething good in\n[Eb]everything I\n[Bb]see I believe in\n[F]angels\nWhen I know the\n[Eb]time is right for\n[Bb]me I'll cross the\n[F]stream\nI have a\n[Bb]dream\nI'll cross the\n[F]stream\nI have a\n\n[Interlude]\n[Bb]dream\n[F]\n[Bb]\n[F]\n\n[Outro (Fade Out)]\n[Bb]\n[F]\n[Bb]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Have A Dream",
+  "id": "3db5b5721fb00a3332f50769748794d21b1d428764b90765770e66368710ec0a",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 244,
+  "normalizedKey": "abba|i have a dream",
+  "playableChords": [
+    "Bb",
+    "F",
+    "Eb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Interlude"
+    },
+    {
+      "measure": 78,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 95,
+      "name": "Chorus"
+    },
+    {
+      "measure": 109,
+      "name": "Interlude"
+    },
+    {
+      "measure": 118,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3db5b5721fb00a3332f50769748794d21b1d428764b90765770e66368710ec0a",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "I Have A Dream",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

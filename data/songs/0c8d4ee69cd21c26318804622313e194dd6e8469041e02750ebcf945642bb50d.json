@@ -1,0 +1,114 @@
+{
+  "artist": "A.A. Bondy",
+  "artistNormalized": "a a bondy",
+  "capo": "5",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\n[Em7]  [D/F#]\n[G]\n[Em7]  [D/F#]\n[G]\n[Em7]  [D/F#]\n[G]\n[Em7]  [D/F#]\n[G]\nYou\n\n[Verse 1]\n[G]see the Sunday bird swinging low\n[Em7][D/F#]The\n[G]fever in your brain only grows\n[Em7][D/F#]And The\n[C]Murder Boys are running down the street\n[G]You can\n[C]see 'em through the window from your seat\n[G]Hear\n[D]the sound of the [C]mightiest of guns\n[G]\nAnd the\n\n[Verse 2]\n[G]shadows go like ghosts across your road\n[Em7][D/F#]Oh\n[G]take the world and burn it in a spoon\n[Em7][D/F#]A\n[C]mercy ship to sail you off to sleep\n[G]To\n[C]where the crimson angels swim the deep\n[G]There's no\n[D]hiding from the [C]mightiest of guns\n[G]\nWith\n\n[Verse 3]\n[G]every breath you drink in the night\n[Em7][D/F#]You\n[G]won't give up your blue without a fight\n[Em7][D/F#]And\n[C]looking at the sky there is no pain\n[G]See the\n[C]stars all falling down like burning rain\n[G]They were\n[D]fired by the [C]mightiest of guns\n[G]\n\n[Intrelude]\n[Em7]\n[G]\n[Em7]\n[G]\n[C]\n[D]\n[D/F#]\n[C/G]\n[G]\nTo-\n\n[Verse 4]\n[G]morrow I'll be out of my mind\n[Em7][D/F#]The\n[G]bear will dance and the organ will grind\n[Em7][D/F#]And I'm\n[C]laughing 'cause I know there ain't no sin\n[G]\n[C]All the world on the head of a pin\n[G]Turning\n[D]fast beneath the [C]mightiest of guns\n[G]Turning\n[D]fast beneath the [C]mightiest of guns\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "254232"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "020030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mightiest Of Guns",
+  "id": "0c8d4ee69cd21c26318804622313e194dd6e8469041e02750ebcf945642bb50d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 209,
+  "normalizedKey": "a a bondy|mightiest of guns",
+  "playableChords": [
+    "G",
+    "Em7",
+    "D/F#",
+    "C",
+    "D",
+    "C/G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 44,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0c8d4ee69cd21c26318804622313e194dd6e8469041e02750ebcf945642bb50d",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "Mightiest Of Guns",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

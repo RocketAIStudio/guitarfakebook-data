@@ -1,0 +1,130 @@
+{
+  "artist": "Arctic Monkeys",
+  "artistNormalized": "arctic monkeys",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F#m]\n\n[Verse 1]\nDiamonds are forever,\nThey are all\n[Bm]I need to please me,\nThey can\n[E]stimulate and tease me,\nThey won't\n[Bm]leave in the night, I've no\nfear that they might de-\nsert me. [F#m]\n[E]\n\n[Verse 2]\n[F#m]Diamonds are forever,\nHold one up\n[Bm]and then caress it,\nTouch it,\n[E]stroke it and undress it,\nI can\n[Bm]see every part, Nothing\nhides in the heart to\n[G]hurt me. [F#m][E]\nI don't need\n\n[Chorus]\n[C#m]love,\nFor what good\n[F#m]will love do me?\n[Bm]Diamonds never\n[G]lie to me,\nFor when love's\n[C#7]gone,\nThey'll luster\non.\n\n[Verse 2]\n[F#m]Diamonds are forever,\nSparkling round\n[Bm]my little finger.\nUnlike\n[E]men, the diamonds linger;\nMen are\n[Bm]mere mortals who Are not\nworth going to your\ngrave for. [F#m]\n[E]I don't need\n\n[Chorus]\n[C#m]love,\nFor what good\n[F#m]will love do me?\n[Bm]Diamonds never\n[G]lie to me,\nFor when love's\n[C#7]gone,\nThey'll luster\non.\n\n[Verse 3]\n[F#m]Diamonds are forever, fo-\nrever, forever.\n[Bm]Diamonds are forever, fo-\nrever, forever. Fo-\n[G]rever\nand\n\n[Outro]\n[F#m]ever",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#7": {
+      "catalog": [
+        "x46464",
+        "x-4-3-4-2-1",
+        "9-8-6-6-6-7",
+        "9-11-9-10-9-9",
+        "x-x-11-13-12-13"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "02210x",
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Diamonds Are Forever",
+  "id": "484264db6de7ddb86e5e79c23bb544ac96e257961fb6f2453ed7bc6895a63994",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 190,
+  "normalizedKey": "arctic monkeys|diamonds are forever",
+  "playableChords": [
+    "F#m",
+    "Bm",
+    "E",
+    "G",
+    "C#m",
+    "C#7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "484264db6de7ddb86e5e79c23bb544ac96e257961fb6f2453ed7bc6895a63994",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "Diamonds Are Forever",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

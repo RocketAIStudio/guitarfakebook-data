@@ -1,0 +1,123 @@
+{
+  "artist": "Annie Lennox",
+  "artistNormalized": "annie lennox",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n\n[Verse 1]\n[C]Lay down\n[G]\n[Dm]Your sweet and weary\n[Am]head\n[C]The night is\n[G]falling\n[Dm]You have come to journey's\n[Am]end\n[C]Sleep\n[G]now\n[Dm]And dream of the ones who came be-\n[Am]fore\n[C]They are\n[G]calling\n[Dm]From across the distant\n[Am]shore\n\n[Pre-Chorus]\n[Am]Why do you weep?\n[C]\n[Dm]What are these tears\n[G]upon your face?\n[Am]Soon you will see\n[C]\n[Dm]All of your fears\n[G]will pass away\n[Am]Safe in my arms\n[C]\n[Dm]You're only\n[G]sleeping\n\n[Chorus]\n[C]What can you\nsee\n[F]On the ho-\nrizon?\n[C]Why do the\nwhite gulls\n[G]call?\n[C]Across the\nsea\n[F]A pale moon\nrises\n[C]The ships have\ncome to carry you\n[G]home\n\n[Bridge]\n[Am]And all will\n[G]turn\n[Dm]To silver\n[G]glass\n[Am]A light on the\n[G]water\n[Dm]All Souls\n[G]pass\n\n[Verse 2]\n[C]Hope fades\n[G]\n[Dm]Into the world of\n[Am]night\n[C]Through shadows\n[G]falling\n[Dm]Out of memory and\n[Am]time\n[C]Don't\n[G]say\n[Dm]We have come now to the\n[Am]end\n[C]White shores are\n[G]calling\n[Dm]You and I will meet a-\n[Am]gain And you'll be\n\n[Pre-Chorus]\n[Am]here in my arms\n[C]\n[Dm]Just\n[G]sleeping\n\n[Chorus]\n[C]What can you\nsee\n[F]On the ho-\nrizon?\n[C]Why do the\nwhite gulls\n[G]call?\n[C]Across the\nsea\n[F]A pale moon\nrises\n[C]The ships have\ncome to carry you\n[G]home\n\n[Outro]\n[Am]And all will\n[G]turn\n[Dm]To silver\n[G]glass\n[Am]A light on the\n[G]water\n[Dm]Grey ships\n[G]pass Into the\n[C]West",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Into The West",
+  "id": "87be0b2183315f10643f66fd287a254afe593674f662d08e95f1682d4cc9d239",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 228,
+  "normalizedKey": "annie lennox|into the west",
+  "playableChords": [
+    "C",
+    "G",
+    "Dm",
+    "Am",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 73,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    },
+    {
+      "measure": 93,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "87be0b2183315f10643f66fd287a254afe593674f662d08e95f1682d4cc9d239",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "Into The West",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

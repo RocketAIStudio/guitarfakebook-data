@@ -1,0 +1,99 @@
+{
+  "artist": "Ancient Warlocks",
+  "artistNormalized": "ancient warlocks",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D5]\n[Gsus4]\n[Bb5]  [F5]\n[D5]\n[Gsus4]\n[Bb5]  [F5]\n[D5]\n[Gsus4]\n[Bb5]  [F5]\n\n[Verse 1]\n[D5]Heading home, two wheels\ntear up road\nBy my side, the a-\nncient prize I\nstole\nCreature comes,\ncreature knows\n\n[Chorus]\n[Gsus4]\n[Bb5]Into the night [F5]I roll\n[D5]\n[Gsus4]\n[Bb5]  [F5]\n\n[Verse 2]\n[D5]Overhead I hear\nthe beast approach\nThat lizard falls before\nmy laser torch\nCreature comes,\ncreature falls\n\n[Chorus]\n[Gsus4]\n[Bb5]Into the night [F5]I roll\n[D5]\n[Gsus4]\n[Bb5]Into the night [F5]I\n[D5]roll\n[Gsus4]\n[Bb5]  [F5]\n\n[Bridge]\n[D5]\n[F5]  [F#5]\n[D5]\n[F5]  [F#5]\n[D5]\n[F5]  [F#5]\n[D5]\n[F5]  [F#5]\n\n[Solo]\n[D5]\n[F5]  [F#5]\n[D5]\n[F5]  [F#5]\n[D5]\n[F5]  [F#5]\n[D5]\n[F5]  [Gsus4]\n[D5]\n[F5]  [F#5]\n[D5]\n[F5]  [F#5]\n[D5]\n[F5]  [F#5]\n[D5]\n[F5]  [F#5]\n\n[Outro]\n[D5]\n[F5]  [F#5]\n[D5]",
+  "diagrams": {
+    "Bb5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gsus4": {
+      "catalog": [
+        "x00230"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Into the night",
+  "id": "e6536cd1497393465a3175b4c351a22932fc8e063467bab5136fdc79c1c18a01",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 66,
+  "normalizedKey": "ancient warlocks|into the night",
+  "playableChords": [
+    "D5",
+    "Gsus4",
+    "Bb5",
+    "F5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Bridge"
+    },
+    {
+      "measure": 99,
+      "name": "Solo"
+    },
+    {
+      "measure": 131,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e6536cd1497393465a3175b4c351a22932fc8e063467bab5136fdc79c1c18a01",
+    "version": "BCFZ"
+  },
+  "tempo": 117,
+  "title": "Into the night",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

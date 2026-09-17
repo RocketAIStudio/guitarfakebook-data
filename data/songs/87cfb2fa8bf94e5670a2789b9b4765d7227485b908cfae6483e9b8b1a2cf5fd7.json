@@ -1,0 +1,125 @@
+{
+  "artist": "An Albatross",
+  "artistNormalized": "an albatross",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro 1]\n[C]\n\n[Intro 2]\n[G#m]\n[A#m]\n[B]\n[C#m]\n\n[Intro 2]\n[G#m]\n\n[Verse]\n[G#m]You got the sweat pants and\nsexy striped kneesocks\nOur horned helmets,\nstruttin' bad boogaloo\nYes, it's Lazer Em-\npowerment, children.\nThrust your hips, invert\nsome sweat into it.\n\n[Pre-Chorus]\n[G#m]\nStomp those\n\n[Chorus]\n[G#m]feet\nClap those\n[A#m]hands\nIn the\n[B]street\n[E]Yeah\n[D#m]\n\n[Outro]\n[G#m]It's the revolutio\nnary politics of dance.\n[G#m]",
+  "diagrams": {
+    "A#m": {
+      "catalog": [
+        "688666"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "x68876"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Revolutionary Politics Of Dance",
+  "id": "87cfb2fa8bf94e5670a2789b9b4765d7227485b908cfae6483e9b8b1a2cf5fd7",
+  "key": "G♯",
+  "keyIdentified": true,
+  "lyricEventCount": 64,
+  "normalizedKey": "an albatross|the revolutionary politics of dance",
+  "playableChords": [
+    "C",
+    "G#m",
+    "A#m",
+    "B",
+    "C#m",
+    "E",
+    "D#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 9,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 17,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 25,
+      "name": "Verse"
+    },
+    {
+      "measure": 33,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "87cfb2fa8bf94e5670a2789b9b4765d7227485b908cfae6483e9b8b1a2cf5fd7",
+    "version": "BCFZ"
+  },
+  "tempo": 196,
+  "title": "The Revolutionary Politics Of Dance",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

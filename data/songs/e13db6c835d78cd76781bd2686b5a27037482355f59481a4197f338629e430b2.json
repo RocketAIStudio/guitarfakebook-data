@@ -1,0 +1,119 @@
+{
+  "artist": "AnnenMayKantereit",
+  "artistNormalized": "annenmaykantereit",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\nIch weiss gar nicht so genau\n[F#m]\n[F#m7]Warum ich sie so gerne mag\n[E]\nIch glaub', ich mag die Art\n[Bm]\n[A]Deswegen hab' ich sie gefragt\n[E]\nWurdest du heute mit mir aus-\n\n[Chorus]\n[F#m]geh'n?\nIch wurd dich auch nach Haus\n[E]bring'n\nIch weiss, du musst fruh auf-\n[Bm]steh'n\n[A]Wurdest du trotzdem mit mir\n[E]ausgeh'n?\n\n[Verse 2]\n[F#m]Ich glaub', ich mag die Art\n[F#m7]\n[E]Dass sie immer am Start\nist Wenn jemand was sagt,\n[Bm]was Ihr nicht gefallt\n[A]\n[E]\nIch glaube, auf der Welt\n\n[Verse 3]\n[F#m]\n[F#m7]Gibt es nicht vie-\n[E]le\nMit so grossen Zie-\n[Bm]len\n[A]Deswegen hab' ich sie gefragt\n[E]\nWurdest du heute mit mir aus-\n\n[Chorus]\n[F#m]geh'n?\nIch wurd dich auch nach Haus\n[E]bring'n\nIch weiss, du musst fruh auf-\n[Bm]steh'n\n[A]Wurdest du trotzdem mit mir\n[E]ausgeh'n?\nWurdest du heute mit mir aus-\n[F#m]geh'n?\nIch wurd dich auch nach Haus\n[E]bring'n\nIch weiss, du musst fruh auf-\n[Bm]steh'n\n[A]Willst du nicht trotzdem mit mir\n[E]ausgeh'n?\n\n[Interlude]\n[F#m]Verdammt, ich mag die\nArt\n[E]Sie ist einfach da\nUnd naja\n[Bm]\n[A]Zum Gluck hab ich sie gefragt\n[E]\nWurdest du heute mit mir aus-\n\n[Chorus]\n[F#m]geh'n?\nIch wurd dich auch nach Haus\n[E]bring'n\nIch weiss, du musst fruh auf-\n[Bm]steh'n\n[A]Wurdest du trotzdem mit mir\n[E]ausgeh'n?\nWurdest du trotzdem mit mir aus-\n\n[Outro]\n[F#m]geh'n?",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x-8-11-9-10-9",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "7-9-9-7-7-10",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "x-9-11-11-10-9",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "x-9-11-9-10-9",
+        "2-4-2-2-2-2",
+        "x-x-4-6-5-5",
+        "14-16-14-14-14-14",
+        "x-21-23-21-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ausgehen",
+  "id": "e13db6c835d78cd76781bd2686b5a27037482355f59481a4197f338629e430b2",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 235,
+  "normalizedKey": "annenmaykantereit|ausgehen",
+  "playableChords": [
+    "F#m",
+    "F#m7",
+    "E",
+    "Bm",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Interlude"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e13db6c835d78cd76781bd2686b5a27037482355f59481a4197f338629e430b2",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "Ausgehen",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

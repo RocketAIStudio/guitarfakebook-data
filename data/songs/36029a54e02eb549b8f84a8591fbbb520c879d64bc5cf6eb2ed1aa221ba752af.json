@@ -1,0 +1,117 @@
+{
+  "artist": "Adele",
+  "artistNormalized": "adele",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G]  [Em]\n[G]  [Em]\n[C6]\n[D6]  [C6]\n\n[Verse 1]\n[G]Found myself [Em]today singin'\n[G]out loud your [Em]name You said\n[C6]I'm crazy, if I\n[D6]am I'm [C6]crazy for\n[G]you [Em]\n[G]  [Em]\n[G]Sometimes sittin' [Em]in the dark,\n[G]wishin' you were [Em]here Turns me\n[C6]crazy, but it's\n[D6]you who makes me [C6]lose my\n[G][Em]head\n[G][Em]And\n[G]every time I'm [Em]meant to be\n[G]acting [Em]sensible You\n[C6]drift into my head and Turn me\n[D6]into a [C6]crumblin' fool\n[G]  [Em]\n[G]  [Em]\n\n[Chorus]\n[A#6]Tell me to run and I'll race If you\n[C6]want me to stop I'll freeze And if you\n[G7]want me gone, I'll leave Just hold me\n[A7]closer, baby,\nbaby\n[C6]Cra-\n[D6][C6]zy for\n[G]you [Em]\n[G]  [Em]\n[C6]Cra-\n[D6][C6]zy for\n[G]you [Em]\n[G]  [Em]\n\n[Verse 2]\n[G]Lately with this [Em]state I'm in, I\n[G]can't help myself [Em]but spin I\n[C6]wish you'd come over,\n[D6]send me spinning [C6]closer to\n[G]you [Em]\n[G]  [Em]\n[G]My, oh my, how [Em]my blood boils, it's\n[G]sweet taste for [Em]you\n[C6]Strips me down bare and gets me\n[D6]into my [C6]favourite\n[G][Em]mood\n[G][Em]I keep on\n[G]trying, [Em]fighting these\n[G]feelings away [Em]But\n[C6]more I do The crazi-\n[D6]er I [C6]turn in-\n[G]to [Em]\n[G]  [Em]\n\n[Chorus]\n[A#6]Pacing floors and\n[C6]opening doors\n[G7]Hoping you'll walk through And\n[A7]save me boy\nBecause I'm\ntoo\n[C6]Cra-\n[D6][C6]zy for\n[G][Em]you\n[G]  [Em]\n[C6]Cra-\n[D6]  [C6]\nzy\nfor\n[G]you [Em]\n[G]  [Em]\n[C6]\n[D6]  [C6]\n[G]",
+  "diagrams": {
+    "A#6": {
+      "catalog": [
+        "6557xx"
+      ],
+      "catalogCount": 1
+    },
+    "A7": {
+      "catalog": [
+        "5456xx",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "C6": {
+      "catalog": [
+        "8779xx"
+      ],
+      "catalogCount": 1
+    },
+    "D6": {
+      "catalog": [
+        "10-9-9-11-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "3230xx",
+        "3-2-0-0-0-1",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Crazy for you",
+  "id": "36029a54e02eb549b8f84a8591fbbb520c879d64bc5cf6eb2ed1aa221ba752af",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 225,
+  "normalizedKey": "adele|crazy for you",
+  "playableChords": [
+    "G",
+    "Em",
+    "C6",
+    "D6",
+    "A#6",
+    "G7",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "36029a54e02eb549b8f84a8591fbbb520c879d64bc5cf6eb2ed1aa221ba752af",
+    "version": "BCFZ"
+  },
+  "tempo": 86,
+  "title": "Crazy for you",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

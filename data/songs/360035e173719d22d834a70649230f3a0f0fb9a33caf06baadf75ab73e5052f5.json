@@ -1,0 +1,127 @@
+{
+  "artist": "Alter Bridge",
+  "artistNormalized": "alter bridge",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]Leaves are on\nthe ground\nFall has come\nBlueskies tur-\nning grey\nLike my love\nI tried to ca-\nrry you\nAnd make you whole\nBut it was ne-\nver\nenough I must go\no o And\n\n[Chorus]\n[Em]who o\n[D]is gonna save\n[Cadd9]you When I'm gone?\n[G]And\n[Em]who o'll\n[D]watch over you\n[Cadd9]\nWhen I'm gone?\n\n[Interlude]\n[G]\n\n[Verse 2]\n[G]You say you care\nfor me\nBut hide it well\nHow can you love\nsome\none not your se-\neelf? And\n\n[Chorus]\n[Em]who o\n[D]is gonna sa-\n[Cadd9]ave you When I'm\n[G]gone? And\n[Em]who o'll\n[D]watch over you\n[Cadd9]\nWhen I'm gone?\n\n[Break]\n[G]\n\n[Bridge]\n[Em]And when I'm gone\n[C]Who'll break your fall?\n[G]Who will you blame?\n[D]\n[Em]I can't go on\n[C]And let you lose it all\n[G]More than I can take\n[D]\n[Em]Who'll ease your pain?\n[Cadd9]Ease your\n\n[Interlude]\n[G]pain\nAnd\n\n[Chorus]\n[Em]who o\n[D]is gon na save\n[Cadd9]you when I'm\n[G]gone?\n[Em]And who o'll\n[D]watch o ver you?\n[Cadd9]\n[G]And\n[Em]who\n[D]o will give you strength\n[Cadd9]when you're not strong.\n[G]Who'll watch o-\n[Em]ver you oh when\n[D]I've gone a way?\n[Cadd9]\n\n[Outro]\n[G]Snow is on\nthe ground\nWin ters come\nYou long to hear\nmy voice\nBut I'm long gone",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x55555",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x50050"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "02423x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "202002",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "x00000",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Watch Over You",
+  "id": "360035e173719d22d834a70649230f3a0f0fb9a33caf06baadf75ab73e5052f5",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 193,
+  "normalizedKey": "alter bridge|watch over you",
+  "playableChords": [
+    "G",
+    "Em",
+    "D",
+    "Cadd9",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Break"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 63,
+      "name": "Interlude"
+    },
+    {
+      "measure": 67,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "360035e173719d22d834a70649230f3a0f0fb9a33caf06baadf75ab73e5052f5",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Watch Over You",
+  "tuning": "D G D G B D",
+  "variantRole": "primary"
+}

@@ -1,0 +1,116 @@
+{
+  "artist": "Arctic Monkeys",
+  "artistNormalized": "arctic monkeys",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Em]\n[C]  [Am]\n[Em]\n[C]  [Am]\n\n[Verse 1]\n[Em]From the bottom of your heart\n[C]  [Am]\n[Em]The relegation zone\n[C]  [Am]\n[Em]I saw this coming from the start\n[C]  [Am]\n[Em]The shake, rattle and roll\n[C]  [Am]\n\n[Verse 2]\n[Em]The cracks in black-\n[C]out [Am]blinds\n[Em]Cast patterns on the ceiling\n[C]but you're [Am]feeling fine\n[Em]I thought it was dark\n[Am][C]outside\n[Em]I thought it was dark\n[Am][C]outside\n\n[Chorus]\n[Em]So we all go back to yours and you\n[C]sit and talk to me [Am]on the floor\n[Em]There's no need to show me round baby,\n[C]I feel like I've been [Am]in here before\n[Em]I've been wondering whether later\n[C]when you tell [Am]everybody to go, Will you pour me\n[Em]one for the road?\n[C]  [Am]\n\n[Verse 3]\n[Em]I knew this would be on the cards\n[C]  [Am]\n[Em]I knew you wouldn't fold\n[C]  [Am]\n[Em]I saw this coming from the start\n[C]  [Am]\n[Em]The shake, rattle and\n[C]roll [Am]\n\n[Chorus]\n[Em]So we all go back to yours and you\n[C]sit and talk to me [Am]on the floor\n[Em]There's no need to show me round baby,\n[C]I feel like I've been [Am]in here before\n[Em]I've been wondering whether later\n[C]when you tell [Am]everybody to go, Will you pour me\n[Em]one for the road?\n[C]  [Am]\n\n[Bridge]\n[C]The mixture hits\n[Em]you hard\n[C]Don't get that sinking feeling,\n[Em]don't fall apart\n[C]Some out of tune\n[Em]guitar\n[C]Soundtrack to dis-\n[B7]aster\n\n[Interlude]\n[Em]\n[C]  [Am]\n[Em]\n[C]  [Am]\n[Em]\n[C]  [Am]\n[Em]\n[C]  [Am]\n\n[Guitar Solo]\n[C]\n[Em]\n[C]\n[Em]\n[C]\n[Em]\n[C]\n[Em]\n\n[Outro]\n[C]So we all go back to yours and you\n[Em]sit and talk to me on the floor\n[C]There's no need to show me round baby,\n[Em]I feel like I've been in here before\n[C]I've been wondering whether later\n[Em]when you tell everybody to go, Will you pour me\n[C]one for the road?\n[B7]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "One For The Road",
+  "id": "4065a570c316186f43aaa6b37c85246c1e9e713c9245eb1678eaae30d7dd6542",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 288,
+  "normalizedKey": "arctic monkeys|one for the road",
+  "playableChords": [
+    "Em",
+    "C",
+    "Am",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Bridge"
+    },
+    {
+      "measure": 54,
+      "name": "Interlude"
+    },
+    {
+      "measure": 62,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4065a570c316186f43aaa6b37c85246c1e9e713c9245eb1678eaae30d7dd6542",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "One For The Road",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

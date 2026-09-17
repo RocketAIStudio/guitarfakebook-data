@@ -1,0 +1,101 @@
+{
+  "artist": "Arctic Monkeys",
+  "artistNormalized": "arctic monkeys",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Em]  [G]\n[Em]\n[G]\n[Em]I wanna\n\n[Verse 1]\n[Em]build you [G]up\n(Brick by brick) [Em]I wanna\nbreak you [G]down\n(Brick by brick) [Em]I'm gonna\n[G]reconstruct\n(Brick by Brick) [Em]I wanna\nfeel you [G]love\nBrick by brick\n\n[Chorus]\n[Am]  [G]\n[Em]\n[Am](Ahhhhhh) [G]\n[Em]Brick by brick\n[Am]  [G]\n[Em]\n[Am](Ahhhhhh) [G]\n[Em]\n\n[Solo 1]\n[Em]  [G]\n[Em]\n[G]\n[Em]\n[G]\n[Em]\n[G]\n[Em]I wanna\n\n[Verse 2]\n[Em]steal your [G]soul\n(Brick by brick) [Em]I wanna\nrock and [G]roll\n(Brick by Brick) [Em]I wanna\nrock and [G]roll\n(Brick by brick) [Em]I wanna\nrock and [G]roll\nBrick by brick\n\n[Chorus]\n[Am]  [G]\n[Em]\n[Am](Ahhhhhh) [G]\n[Em]Brick by brick\n[Am]  [G]\n[Em]\n[Am](Ahhhhhh) [G]\n[Em]\n\n[Solo 2]\n[Em]  [G]\n[Em]\n[G]\n[Em]\n[G]\n[Em]\n[G]\n[Em]I wanna\n\n[Verse 3]\n[Em]brick by [G]brick\n(Brick by brick) [Em]I wanna\nblow by [G]blow\n(Brick by brick) [Em]I wanna an\n[G]episode\n(Brick by brick) [Em]I wanna\nbrick by [G]brick,\nby brick,\nby\nBrick by brick\n\n[Chorus]\n[Am]  [G]\n[Em]\n[Am](Ahhhhhh) [G]\n[Em]Brick by brick\n[Am]  [G]\n[Em]\n[Am](Ahhhhhh) [G]\n[Em]Brick by brick\n[Am]  [G]\n[Em]\n[Am](Ahhhhhh) [G]\n[Em]Brick by brick\n[Am]  [G]\n[Em]\n[Am](Ahhhhhh) [G]\n[Em]\n[Em]  [G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Brick By Brick",
+  "id": "0c7a14356c27ad07d759fc288e84de6305b117facf85b5e934bb6b1a68f8dbb6",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 135,
+  "normalizedKey": "arctic monkeys|brick by brick",
+  "playableChords": [
+    "Em",
+    "G",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0c7a14356c27ad07d759fc288e84de6305b117facf85b5e934bb6b1a68f8dbb6",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "Brick By Brick",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

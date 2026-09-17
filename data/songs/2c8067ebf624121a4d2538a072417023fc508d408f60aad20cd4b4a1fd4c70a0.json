@@ -1,0 +1,137 @@
+{
+  "artist": "Arch Enemy",
+  "artistNormalized": "arch enemy",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Bm]\n[G]\n[A]\n[Bbdim7]\n[Bm]\n[G]\n[A]\n[Bbdim7]\n\n[Verse]\n[Bm]So now the brid\nges are burnt\nA\nlesson learned?\n[G]Promises bro\nken\n[A]Tender lies\n[Bbdim7]softly spoken\n[Bm]Changes in you\nChanges in me\n[G]Maybe it was\nnever\n[A]meant to be\n[Bbdim7]\n\n[Intrelude]\n[Bm]\n[Gb7/Bb]\n[A]\n[D]\n[C]  [D]\n\n[Chorus]\n[Bm]It wasn't you\n[Gb7/Bb]It wasn't me\n[A]We were far\ntoo close\n[D]to see\n[C]  [D]\n[Bm]It wasn't you\n[Gb7/Bb]It wasn't me\n[A]We were far too close\n[D]to see\n[C]  [D]\n\n[Outro 1]\n[Bm]\n[Gb7/Bb]\n[A]\n[D]\n[C]  [D]\n\n[Outro 2]\n[Bm]\n[Gb7/Bb]\n[A]\n[D]\n[C]  [D]\n[Bm]\n[Gb7/Bb]\n[A]\n[D]\n[C]  [D]\n\n[Outro 3]\n[Bm]\n[Gb7/Bb]\n[A]\n[D]\n[C]  [D]\n\n[Outro 4]\n[Bm]\n[Gb7/Bb]\n[A]\n[D]\n[C]  [D]\n\n[Outro 5]\n[Bm]\n[Gb7/Bb]\n[A]\n[D]\n[C]  [D]\n[Bm]\n[Gb7/Bb]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "xx0232",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bbdim7": {
+      "catalog": [
+        "xx1212"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "022000",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "133211",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "355433",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "x32010",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gb7/Bb": {
+      "catalog": [
+        "xx1202"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Burning Bridges",
+  "id": "2c8067ebf624121a4d2538a072417023fc508d408f60aad20cd4b4a1fd4c70a0",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 72,
+  "normalizedKey": "arch enemy|burning bridges",
+  "playableChords": [
+    "Bm",
+    "G",
+    "A",
+    "Bbdim7",
+    "Gb7/Bb",
+    "D",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse"
+    },
+    {
+      "measure": 34,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Outro 1"
+    },
+    {
+      "measure": 66,
+      "name": "Outro 2"
+    },
+    {
+      "measure": 82,
+      "name": "Outro 3"
+    },
+    {
+      "measure": 90,
+      "name": "Outro 4"
+    },
+    {
+      "measure": 98,
+      "name": "Outro 5"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2c8067ebf624121a4d2538a072417023fc508d408f60aad20cd4b4a1fd4c70a0",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Burning Bridges",
+  "tuning": "B E A D F# B",
+  "variantRole": "primary"
+}

@@ -1,0 +1,119 @@
+{
+  "artist": "3 Doors Down",
+  "artistNormalized": "3 doors down",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[Em]I woke up today in Lon-\n[G]don\n[Am]As the plane was touching down\n[Em]\nAnd all I could think about was mon-\n[G]day\n[Am]And maybe ill be back\n[Em]around\nIf this keeps me away much\n[C]longer\n[D]I dont know what i will do\n[Em]\nYouve got to understand its a\n[C]hard life\n[D]That im going\n[Em]through\nAnd when the night falls in around\n\n[Chorus]\n[C]me\n[Am]I dont think ill make it through\n[Em]\nIll use your light to guide the way\n[C]\n[D]Cause all I think about is you\n\n[Interlude]\n[Em]\n\n[Verse 2]\n[Em]Well L.A is getting kinda cra-\n[G]zy\n[Am]And New york is getting kinda cold\n[Em]\nI keep my head from geting la-\n[G]zy\n[Am]I just cant wait to get back home\n[Em]\nAnd all these days i spend a-\n\n[Chorus]\n[C]way\n[Am]Ill make up for this i\n[Em]swear\nI need your love to hold\n[C]me up\n[D]When its all too much to bear\n[Em]\nAnd when the night falls in around\n[C]me\n[Am]I dont think ill make it through\n[Em]\nIll use your light to guide the way\n[C]\n[D]Cause all I think about is you\n[Em]\n\n[Solo]\n[C]\n[Am]\n[Em]\n[C]\n[D]\n[Em]\nAnd all these days i spend a-\n\n[Chorus]\n[C]way\n[Am]Ill make up for this i\n[Em]swear\nI need your love to hold\n[C]me up\n[D]When its all too much to bear\n[Em]\nWhen the night falls in around\n[C]me\n[Am]I dont think ill make it through\n[Em]\nIll use your light to guide the way\n[C]\n[D]\n\n[Fade-Out]\n[Em]Cause all I think about is you",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Landing In London",
+  "id": "36418edbcdfea6d41dd378a6b5ed7645b8a8eb189af16db3485663832b2c3f4e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 255,
+  "normalizedKey": "3 doors down|landing in london",
+  "playableChords": [
+    "Em",
+    "G",
+    "Am",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Interlude"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Solo"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Fade-Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "36418edbcdfea6d41dd378a6b5ed7645b8a8eb189af16db3485663832b2c3f4e",
+    "version": "BCFZ"
+  },
+  "tempo": 74,
+  "title": "Landing In London",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

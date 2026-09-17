@@ -1,0 +1,111 @@
+{
+  "artist": "Armor For Sleep",
+  "artistNormalized": "armor for sleep",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Bm]\n[Cmaj7]  [Am]\n[Bm]\n[Cmaj7]  [Am]\n\n[Verse 1]\n[Bm]Now I'm\n[Cmaj7]just spacing out [Am]again\n[Bm]If I\n[Cmaj7]try hard enough [Am]I'll pretend\n[Bm]That I'm\n[Cmaj7]flying above [Am]some trees\n[Bm]And they're\n[Cmaj7]smiling and [Am]waving at me\n\n[Bridge]\n[Em]  [G]\n[Am]\n[Em]  [G]\n[Am]\n\n[Verse 2]\n[Em][G]With the\n[Am]clouds on my back I can see\n[Em][G]All the\n[Am]people down there fast asleep\n[Em][G]Now I\n[Am]see your house far, far below\n[Em][G]So I'll\n[Am]fly down and give you a show\n\n[Chorus]\n[Em]Can you [G]see me through your\n[Am]bedroom window?\n[Em]Are you [G]waking up your\n[Am]friends to watch with you?\n[Em]Can you [G]see me at all?\n[Am]\n[Em]Can you [G]see me at all?\n[Am]\n[Em]Can you [G]see me through your\n[Am]bedroom window?\n[Em]Are you [G]waking up your\n[Am]friends to watch with you?\n[Em]Can you [G]see me at all?\n[Am]\n[Em]Can you [G]see me at all?\n[Am]\n\n[Outro]\n[Em]  [G]\n[Am]\n[Em]  [G]\n[Am]\n[Em]  [G]\n[Am]\n[Em]  [G]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x35453",
+        "x-3-2-0-0-0",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "a quick little flight",
+  "id": "c62dde4d0e5ded9c83835a9ef5a4049117d1a6c2f427047b9cdc734b1d87e434",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 136,
+  "normalizedKey": "armor for sleep|a quick little flight",
+  "playableChords": [
+    "Bm",
+    "Cmaj7",
+    "Am",
+    "Em",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Bridge"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c62dde4d0e5ded9c83835a9ef5a4049117d1a6c2f427047b9cdc734b1d87e434",
+    "version": "BCFZ"
+  },
+  "tempo": 86,
+  "title": "a quick little flight",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

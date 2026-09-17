@@ -1,0 +1,78 @@
+{
+  "artist": "Alice In Chains",
+  "artistNormalized": "alice in chains",
+  "capo": "No capo",
+  "chordPositionCount": 2,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n[C#5]\n\n[Verse 1]\n[C#5]I broke you in\nthe canyon\nI drowned you in\nthe lake\nYou a snake that I\nwould trample\nOnly thing I'd not\nembrace\n\n[Chorus]\n[C#5]Oh, you couldn't dam\nthat river\nAnd maybe I don't give a damn\nanyway\nSo you couldn't dam\nthat river\nAnd it washed me so\nfar away\n\n[Verse 2]\n[C#5]I pushed and then\nyou stumbled\nI kicked you in\nthe face\nYou stare at me\nso hollow\nGot to keep that kil-\nlin' pace\n\n[Chorus]\n[C#5]Oh, you couldn't dam\nthat river\nAnd maybe I don't give a damn\nanyway\nSo you couldn't dam\nthat river\nAnd it washed me so\nfar away\n\n[Solo]\n[E5]\n[C#5]\n[E5]\n[C#5]\n[E5]\n[C#5]\n[E5]\n\n[Verse 3]\n[C#5]I burned the place\naround you\nI hit you with\na rake\nYou piss upon\nmy candle\nSo proving you're\na fake\n\n[Outro]\n[C#5]Oh, you couldn't dam\nthat river\nAnd maybe I don't give a damn\nanyway\nSo you couldn't dam\nthat river\nAnd it washed me so\nfar away",
+  "diagrams": {
+    "C#5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "33xxxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dam That River *alt",
+  "id": "0fecc45fa65e270b1539113650ea21f04f97e7086b7927044659485cbf0588cd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 186,
+  "normalizedKey": "alice in chains|dam that river",
+  "playableChords": [
+    "C#5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Solo"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0fecc45fa65e270b1539113650ea21f04f97e7086b7927044659485cbf0588cd",
+    "version": "BCFZ"
+  },
+  "tempo": 126,
+  "title": "Dam That River",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "alt"
+}

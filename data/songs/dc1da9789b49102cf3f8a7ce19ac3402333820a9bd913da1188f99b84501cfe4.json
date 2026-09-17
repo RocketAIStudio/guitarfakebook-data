@@ -1,0 +1,134 @@
+{
+  "artist": "Arctic Monkeys",
+  "artistNormalized": "arctic monkeys",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F]\n[Bb]\n[F]\n[Bb]\n\n[Verse 1]\n[F]Mad sounds\n[Bb]in your ears,\n[F]they make you feel alright\n[Bb]\n[Gm]They bring you [A]back to\n[Dm]life [Gm]\n[F]Mad sounds\n[Bb]in your ears,\n[F]they make you get up and dance\n[Bb]They make you get up\n\n[Pre-Verse]\n[F]\n[Bb]Yeah they make you get\n[F]up\n[Bb]\n\n[Verse 2]\n[F]Love buckles\n[Bb]under the strain\n[F]of those wild nights\n[Bb]\n[Gm]Run but you [A]cannot\n[Dm]hide [Gm]\n[F]Mad sounds\n[Bb]in your ears,\n[F]they make you get up and dance\n[Bb]They make you get up All\n[F]night long\nthey reappear\nThey make you get up and dance\nYeah they make you get\n\n[Verse 3]\n[F]up\n[Bb]\n[F]\n[Bb]Sup-\n[F]pose you've gotta do what you\n[Bb]gotta do We\n[F]just weren't feeling how we\n[Bb]wanted to You sit and\n\n[Bridge]\n[Gm]try sometimes but you just can't fig-\n[C]ure out what went wrong\n[Gm]Then out of\n[C]nowhere somebody comes and hits you with an\n\n[Interlude]\n[F]Ooh la la la, ooh\n[Bb]la la la Ooh\n[F]la la la ooh\n[Bb]\n[F]Ooh la la la, ooh\n[Bb]la la la Ooh\n[F]la la la ooh\n[Bb]You got those\n\n[Chorus]\n[F]mad sounds\n[Bb]in your ears\n[F]to make you get up and dance\n[Bb]\n[F]Mad sounds\n[Bb]in your ears,\n[F]they make you get up and dance\n[Bb]Don`t they make you\n\n[Outro]\n[F]get up\n[Bb]\n[F]Don`t they make you\n[Bb]get up\n[F]\n[Bb]\n[F]\n[Bb]\n[F]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mad Sounds",
+  "id": "dc1da9789b49102cf3f8a7ce19ac3402333820a9bd913da1188f99b84501cfe4",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 205,
+  "normalizedKey": "arctic monkeys|mad sounds",
+  "playableChords": [
+    "F",
+    "Bb",
+    "Gm",
+    "A",
+    "Dm",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    },
+    {
+      "measure": 46,
+      "name": "Interlude"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dc1da9789b49102cf3f8a7ce19ac3402333820a9bd913da1188f99b84501cfe4",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Mad Sounds",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

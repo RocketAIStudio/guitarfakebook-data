@@ -1,0 +1,126 @@
+{
+  "artist": "Arctic Monkeys",
+  "artistNormalized": "arctic monkeys",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\n[C#m]\n[F#m]\n[Bm]\n[Dm]\nI\n\n[Verse 1]\n[A]wish you would have smi-\n[C#m]led in the\n[F#m]bakery Or\nsat on a tatty set-\n[Bm]tee\nAt some\n[Dm]mutual friend's\ngathering And the\n[A]more you keep on loo-\n[C#m]king, the more it's\n[F#m]hard to take\nLove, we're in\n[Bm]stalemate\nTo\n[Dm]never meet is\nsurely where we're\n[C#m]bound There's\none in every town\n[Bm]Just\nthere to grind you\n\n[Bridge]\n[Dm]down\nI\n\n[Verse 2]\n[A]wish I would have seen\n[C#m]you in the\n[F#m]post office Well,\nmaybe I did and I\n[Bm]missed it\nToo\n[Dm]busy with the\nmind on clever\n[A]lines Why not the roun-\n[C#m]ders pitch or\n[F#m]the canteen? You're\nslacking, love, where have\n[Bm]you been?\nJust\n[Dm]had to go and\nwait until to-\n\n[Bridge]\n[A]night\n[C#m]\n[F#m]\n[Bm]\n[Dm]\n[C#m]So\ngive me the invite,\n[Bm]don't\nworry, it's alright\n[Dm]\nI\n\n[Verse 3]\n[A]wish I would have seen\nyou down in\nthe arcade\nSipping on a lemo-\n[Bm]nade\nIn the\n[Dm]paper cup and\nchewing on the\n[A]straw And I wish I'd seen\n[C#m]you in the\n[F#m]bakery\nBut if I'd seen you in the\n[Bm]bakery\n[Dm]You probably\nwouldn't have seen\n\n[Outro]\n[A]me\n[F#m]\n[Dm]\n[F]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "x-9-11-11-10-9",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Bakery",
+  "id": "8997eb2254b72cdd646e9bd4060e37d7ae79834b3389c12edc7e00b7067b0b49",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 204,
+  "normalizedKey": "arctic monkeys|the bakery",
+  "playableChords": [
+    "A",
+    "C#m",
+    "F#m",
+    "Bm",
+    "Dm",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8997eb2254b72cdd646e9bd4060e37d7ae79834b3389c12edc7e00b7067b0b49",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "The Bakery",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,126 @@
+{
+  "artist": "Alice in chains",
+  "artistNormalized": "alice in chains",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F]\n[Ab]\n[F]\n[Ab]\n[F]\n[Ab]\n[F]\n[Ab]\n[F]\n[Ab]\n[F]\n[Ab]\n[F]\n[Ab]\n[F]\n[Ab]\n\n[Verse 1]\n[F]Ain't found a way to kill\n[Ab]me yet\n[F]Eyes burn with\n[Ab]stinging sweeat\n[F]Seems every path\n[Ab]leads me to no-\n[F]owhere\n[Ab]\n[F]Wife and kids, ho-\n[Ab]ousehold pet\n[F]Army green was\n[Ab]no safe bet\n[F]The bullets scream\n[Ab]to me from so-\n[F]omewhere\n[Ab]\n\n[Chorus]\n[Bb]Yeah, they come to snuff the roo-\n[Db]oster\n[F]\n[F]\n[Bb]Yeah here come the roo-\n[Db]oster, yeah\n[F]\n[Ab]You know he ain't gonna die\n[F]\n[Ab]\n[F]No, no, no,\n[Ab]you know he ain't gonna die\n[F]\n[Ab]\n\n[Solo]\n[F]\n[Ab]\n[F]\n[Ab]\n[F]\n[Ab]\n[F]\n[Ab]\n[F]\n[Ab]\n[F]\n[Ab]\n\n[Chorus]\n[Bb]Here they come to snuff the ro-\n[Db]ooster Ah yeah,\n[F]yeah\n[F]\n[A#]Yeah, here come the ro-\n[C#]ooster, yeah\n[F]\n[Ab]You know he ain't gonna die\n[F]\n[Ab]\n[F]No, no, no,\n[Ab]you know he ain't gonna die\n[F]\n[Ab]\n\n[Verse 2]\n[F]Walkin' tall machine\n[Ab]gun man\n[F]They spit on me in\n[Ab]my home land\n[F]Gloria sent me pi-\n[Ab]ictures of my boy\n[F]\n[Ab]\n[F]Got my pills 'gainst mos-\n[Ab]quito death\n[F]My buddy's breathin' his\n[Ab]dyin' breath\n[F]Oh God please\n[Ab]won't you help me make it through\n[F]\n[Ab]\n\n[Chorus]\n[Bb]Yeah they come to snuff the ro-\n[Db]ooster, ah yeah\n[F]\n[F]\n[Bb]Yeah here come the ro-\n[Db]ooster, yeah\n[F]\n[Ab]You know he ain't gonna die\n[F]\n[Ab]\n[F]No, no,\n[Ab]you know he ain't gonna die\n[F]\n[Ab]\n\n[Outro]\n[F]\n[Ab]\n[F]\n[Ab]\n[F]\n[Ab]\n[F]\n[Ab]",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "x24442"
+      ],
+      "catalogCount": 1
+    },
+    "Ab": {
+      "catalog": [
+        "x0222x",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x24442",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "xx4322",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rooster *alt",
+  "id": "6f023488c12b28a53e0fb17cf715bfebb1dc02399ef0d092fc541e20d1fae4e3",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 210,
+  "normalizedKey": "alice in chains|rooster",
+  "playableChords": [
+    "F",
+    "Ab",
+    "Bb",
+    "Db",
+    "A#",
+    "C#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Solo"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus"
+    },
+    {
+      "measure": 103,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6f023488c12b28a53e0fb17cf715bfebb1dc02399ef0d092fc541e20d1fae4e3",
+    "version": "BCFZ"
+  },
+  "tempo": 75,
+  "title": "Rooster",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,130 @@
+{
+  "artist": "Acceptance",
+  "artistNormalized": "acceptance",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Fm]  [C#]\n[G#]  [D#]\n[Fm]  [C#]\n[G#]  [D#]\n\n[Verse 1]\n[Fm]Oh no, [C#]\n[G#]this couldn't [D#]be more unex-\n[Fm]pected [C#]\n[G#]And I can [D#]tell that I've been\n[Fm]moving in [C#]so slow\n[G#]Don't [D#]let it\n[Fm]throw you off [C#]too far\n[G#]Cause I'll be [D#]running right be-\n\n[Pre-Chorus]\n[C#]hind you\nCould this be out\n\n[Chorus]\n[G#]of line? Could this be\nout of line? To say you're the on-\n[Cm]ly one breaking me dow-\n[F#]n like this You're the on-\n[G#]ly one I would take a\nshot on Keep me hang-\n[Cm]ing on so conta-\n[F#]giously\n\n[Verse 2]\n[Fm]Oh, [C#]\n[G#]when I'm [D#]around you I'm pre-\n[C#][Fm]dictable\n[G#]Cause I [D#]believe in\n[Fm]loving you with [C#]first sight\n[G#]I [D#]know it's\n[Fm]crazy but I'm [C#]hoping to\n[G#]To [D#]take a\n\n[Pre-Chorus]\n[C#]hold of you\nCould this be out\n\n[Chorus]\n[G#]of line? Could this be\nout of line? To say you're the on-\n[Cm]ly one breaking me dow-\n[F#]n like this You're the on-\n[G#]ly one I would take a\nshot on Keep me hang-\n[Cm]ing on so conta-\n[F#]giously\nOh you're e-\n\n[Bridge]\n[C#]verything I'm wanting Come to thi-\nnk of it, I'm aching\n[Fm]\nOn accou-\n[C#]nt of my transgression Will you we-\nlcome this confession?\n[G#]\n[D#]Could this be out\n\n[Chorus]\n[G#]of line? Could this be\nout of line? To say you're the on-\n[Cm]ly one breaking me dow-\n[F#]n like this You're the on-\n[G#]ly one I would take a\nshot on Keep me hang-\n[Cm]ing on so conta-\n[F#]giously Could this be out\n\n[Outro]\n[G#]of line? Could this be\nout of line? To say you're the on-\n[Cm]ly one breaking me dow-\n[F#]n like this You're the on-\n[G#]ly one I would take a\nshot on Keep me hang-\n[Cm]ing on so conta-\n[F#]giously",
+  "diagrams": {
+    "C#": {
+      "catalog": [
+        "000232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x46654",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "222454"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "555787",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "444675",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "x02220"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "So Contagious",
+  "id": "02658e7198a28d2c5c1358ebd6d2d637578185d453db90b7aef2b0661e4fa089",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 307,
+  "normalizedKey": "acceptance|so contagious",
+  "playableChords": [
+    "Fm",
+    "C#",
+    "G#",
+    "D#",
+    "Cm",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "02658e7198a28d2c5c1358ebd6d2d637578185d453db90b7aef2b0661e4fa089",
+    "version": "BCFZ"
+  },
+  "tempo": 89,
+  "title": "So Contagious",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "primary"
+}

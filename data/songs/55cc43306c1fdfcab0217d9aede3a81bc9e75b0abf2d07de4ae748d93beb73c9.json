@@ -1,0 +1,114 @@
+{
+  "artist": "10 Years",
+  "artistNormalized": "10 years",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C#5]\n[E5]  [F#5]\n[C#5]\n[E5]  [F#5]\n[C#5]\n\n[Verse 1]\n[E5]Casting a [F#5]cool\n[C#5]breeze\n[F#5][E5]Supplied by the\n[C#5]Autumn\n[E5]Question [F#5]\n[C#5]where it went wrong\n[E5]Climbing Jacob's [F#5]la-\n[C#5]dder\n[E5]Climbing Jacob's [F#5]la-\n[C#5]dder\n[E5]Kindly could you [F#5]reevalu-\n[C#5]ate Autumn's ani-\n[E5]mated [D5]growth\n\n[Chorus]\n[C#5]Autumn indicates the death of\n[A]beauty as we [B]know\n[C#5]Autumn indicates the death of\n[A]beauty as we [B]know\n[C#5]Keep on fighting, one died from\n[A]burning at his [B]throat\n[C#5]Autumn swiftly stole the breath of\n[A]body, [B]mind and\n\n[Bridge]\n[C#5]soul\n\n[Verse 2]\n[E5]Try and come to [F#5]willingly em-\n[C#5]brace\n[E5]Kharma's kiss of [F#5]withering de-\n[C#5]cay\n[E5]Death feeds, [F#5]Hell\n[C#5]breeds Sub-\n[E5]side in the [F#5]Autumn\n\n[Chorus]\n[C#5]Autumn indicates the death of\n[A]beauty as we [B]know\n[C#5]Autumn indicates the death of\n[A]beauty as we [B]know\n[C#5]Keep on fighting, one died from\n[A]burning at his [B]throat\n[C#5]Autumn swiftly stole the breath of\n[A]body, [B]mind and\n\n[Interlude]\n[B][A]Silent\n[C#5]beauty\n[A]No one [B]cares\n[C#5]Silent\n[A]en [B]ding\n[A]No one is\n[B]there\n\n[Outro]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x13331",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x35553",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#5": {
+      "catalog": [
+        "00023x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "1113xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "3335xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "5557xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Autumn Effect",
+  "id": "55cc43306c1fdfcab0217d9aede3a81bc9e75b0abf2d07de4ae748d93beb73c9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 192,
+  "normalizedKey": "10 years|the autumn effect",
+  "playableChords": [
+    "C#5",
+    "E5",
+    "F#5",
+    "D5",
+    "A",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Bridge"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Interlude"
+    },
+    {
+      "measure": 52,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "55cc43306c1fdfcab0217d9aede3a81bc9e75b0abf2d07de4ae748d93beb73c9",
+    "version": "BCFZ"
+  },
+  "tempo": 56,
+  "title": "The Autumn Effect",
+  "tuning": "C# G# C# F# A# C#",
+  "variantRole": "primary"
+}

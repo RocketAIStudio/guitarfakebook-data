@@ -1,0 +1,93 @@
+{
+  "artist": "Arctic Monkeys",
+  "artistNormalized": "arctic monkeys",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Gm]\n[Gm]\n[Db]\n[Gm]\n[Db]\n[Gm]\n[Db]\n[Gm]\n[Db]\n\n[Theme 1]\n[Gm]\n[Db]\n[Gm]\n[Db]\n[Gm]\n[Db]\n[Gm]\n[Db]\n[Gm]\n[Db]\n[Gm]\n[Db]\n[Gm]\n[Db]\n[Gm]\n[Db]\n[Gm]\n[Db]\n[Gm]\n[Db]\n[Gm]\n[Db]\n[Gm]\n[Db]\n\n[Theme 2]\n[Gm]\nShe was\n\n[Verse]\n[Gm]marrying a matador and he was with the weather girl, A ve-\nry clever girl who stood out amongst several\nonce A terrible dilemma and forever he’ll re-\ngret this day he didn’t make the Rescue from the bull ring\nSulking won’t get you nowhere son, There’s\nblood on your chin where you’ve bitten your tongue\nSmitten but might not be smitten for long if you’re\nstill sitting she’ll soon Be smitten and gone\n\n[Bridge]\n[Gm]\n\n[Theme 3]\n[Gm]\n[Abm]\n[Gm]\n[Abm]\n[Gm]\n[Abm]\n[Gm]\n[Abm]\n[Gm]\n[Abm]\n[Gm]\n[Abm]\n[Gm]\n[Abm]\n[Gm]\n[Abm]\n[Gm]\n[Abm]\n[Gm]\n[Abm]\n[Gm]\n[Abm]\n[Gm]\n[Abm]\n\n[Outro]\n[Gm]",
+  "diagrams": {
+    "Abm": {
+      "catalog": [
+        "466444",
+        "x-x-6-8-9-7",
+        "x-11-13-13-12-11",
+        "16-18-18-16-16-16",
+        "x-x-18-20-21-19"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Matador",
+  "id": "f7bee252d5e983f3881cac983e39fd638e9da63e41d6e88610e1cc945acbe22c",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 100,
+  "normalizedKey": "arctic monkeys|matador",
+  "playableChords": [
+    "Gm",
+    "Db",
+    "Abm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 23,
+      "name": "Theme 1"
+    },
+    {
+      "measure": 71,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 107,
+      "name": "Verse"
+    },
+    {
+      "measure": 115,
+      "name": "Bridge"
+    },
+    {
+      "measure": 131,
+      "name": "Theme 3"
+    },
+    {
+      "measure": 155,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f7bee252d5e983f3881cac983e39fd638e9da63e41d6e88610e1cc945acbe22c",
+    "version": "BCFZ"
+  },
+  "tempo": 152,
+  "title": "Matador",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

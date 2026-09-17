@@ -1,0 +1,118 @@
+{
+  "artist": "AC DC",
+  "artistNormalized": "ac dc",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\nThe\n\n[Verse 1]\n[C]video game says \"play\nme\"\nFace it on a level but it\ntakes you every time on a\n[Am]one on one\n[G]Feeling running down your spine\nNothing gonna save your one\nlast dime 'cause\n[C]it own you\nThrough and through\nThe\n\n[Verse 2]\n[C]databank know my num-\nber\nSays I gotta pay 'cause I\nmade the grade last ye-\n[Am]ar\n[G]Feel it when I turn the screw\nKicks you round the world, there ain't\na thing that\n[C]it can't do\nDo to you\n\n[Chorus]\n[C]Who made who, [Csus4]\nwho made you?\n[C]Who made who, [Csus4]ain't\nnobody told you?\n[C]Who made who, [Csus4]\nwho made you? If\n[C]you made them and they made you [Csus4]\nWho picked up the bill, and who made\n[G]who? [Fsus2][C]\n[G]\n[Fsus2]  [C]  [G]\nWho made who\n[C]  [Csus4]\nWho turned the screw?\n[C]\nYeah,\n[Am]\n[G]  [Fsus2]  [C]\n[G]\n[Fm]\n\n[Verse 3]\n[C]satellites send me [Csus4]pic-\nture\n[C]Get it in the eye, take [Csus4]it\nto the wire Spinning like a\n[Am]dynamo\n[G]Feel it going round and round\nRunning out of chips, you got\nno line in an\n[C]eight bit town\nSo\ndon't look down,\nno\n\n[Chorus]\n[C]Who made who, [Csus4]\nwho made you?\n[C]Who made who, [Csus4]ain't\nnobody told you?\n[C]Who made who, [Csus4]\nwho made you? If\n[C]you made them and they made you [Csus4]\nWho picked up the bill, and who made\n[G]who? [Fsus2][C]\n[G]Ain't nobody told\n[Fsus2]you [C]Oh [G]\nwho made who?\n[G]  [Fsus2]  [C]\n[G]Who made you?\n[Fsus2]  [C]  [G]\nWho made who\n[C](who made who) And [Csus4]\nwho made who\n[C](who made who) Yeah [Csus4]\nNobody told you\n\n[Outro]\n[G]  [Fsus2]  [C]\n[G]\n[Fsus2]  [C]  [G]\n[G]  [Fsus2]  [C]\n[G]\n[Fsus2]  [C]  [G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Csus4": {
+      "catalog": [
+        "x33011"
+      ],
+      "catalogCount": 1
+    },
+    "Fm": {
+      "catalog": [
+        "x-8-10-10-9-8",
+        "1-3-3-1-1-1",
+        "x-x-3-5-6-4",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "Fsus2": {
+      "catalog": [
+        "xx3011"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Who Made Who",
+  "id": "0ddc8d2e02cfaaefc909f74ea34d664f748bfa88f4a7edcb37d83799b423af9e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 257,
+  "normalizedKey": "ac dc|who made who",
+  "playableChords": [
+    "C",
+    "Am",
+    "G",
+    "Csus4",
+    "Fsus2",
+    "Fm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 76,
+      "name": "Chorus"
+    },
+    {
+      "measure": 96,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0ddc8d2e02cfaaefc909f74ea34d664f748bfa88f4a7edcb37d83799b423af9e",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "Who Made Who",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

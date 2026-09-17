@@ -1,0 +1,108 @@
+{
+  "artist": "Alan Walker",
+  "artistNormalized": "alan walker",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[Gm]Lost in\n[Eb]your mind\n[Bb]I wanna know\n[Dm]Am I\n[Gm]losing\n[Eb]my mind?\n[Bb]Never let me go\n[Dm]If this\n\n[Chorus]\n[Gm]night is not forever At\n[Eb]least we are together I\n[Bb]know I'm not alone I\n[Dm]know I'm not alone\n[Gm]Anywhere, whenever A-\n[Eb]part, but still together I\n[Bb]know I'm not alone I\n[Dm]know I'm not alone\n\n[Bridge]\n[Gm]\n[Eb]\n[Bb]I\n[Dm]know I'm not alone\n[Gm]\n[Eb]\n[Bb]I\n[Dm]know I'm not alone\n\n[Verse 2]\n[Gm]Uncon-\n[Eb]scious mind\n[Bb]I'm wide awake\n[Dm]Wanna\n[Gm]feel one\n[Eb]last time\n[Bb]Take my pain away\n[Dm]\n\n[Pre-Chorus]\n[Gm]\n[Eb]\n[Bb]\n[Dm]If this\n\n[Chorus]\n[Gm]night is not forever At\n[Eb]least we are together I\n[Bb]know I'm not alone I\n[Dm]know I'm not alone\n[Gm]Anywhere, whenever A-\n[Eb]part, but still together I\n[Bb]know I'm not alone I\n[Dm]know I'm not alone\n\n[Bridge]\n[Gm]\n[Eb]\n[Bb]I\n[Dm]know I'm not alone\n[Gm]\n[Eb]\n[Bb]I\n[Dm]know I'm not alone\n\n[Outro]\n[Gm]I'm not alone,\n[Eb]I'm not alone,\n[Bb]I'm not alone I\n[Dm]know I'm not alone\n[Gm]I'm not alone,\n[Eb]I'm not alone,\n[Bb]I'm not alone I\n[Dm]know I'm not alone",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "688766",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Alone",
+  "id": "0002dc19295f310ea33a0954009dfa90c67afb8d6719928d05797fe0251019b2",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 200,
+  "normalizedKey": "alan walker|alone",
+  "playableChords": [
+    "Gm",
+    "Eb",
+    "Bb",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Bridge"
+    },
+    {
+      "measure": 55,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0002dc19295f310ea33a0954009dfa90c67afb8d6719928d05797fe0251019b2",
+    "version": "BCFZ"
+  },
+  "tempo": 97,
+  "title": "Alone",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

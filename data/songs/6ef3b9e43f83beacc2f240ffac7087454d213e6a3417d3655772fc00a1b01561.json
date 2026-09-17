@@ -1,0 +1,108 @@
+{
+  "artist": "Alice in Chains",
+  "artistNormalized": "alice in chains",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C#m]  [E]\n[F#]\n[C#m]  [E]\n[G]  [E]\n\n[Verse 1]\n[C#m]Scary's [E]\non [F#]the wall\n[C#m]  [E]\n[G]  [E]\n[C#m]Scary's [E]\non [F#]his\n[C#m]way [E]\n[G]  [E]\n[G]Watch [E]where you spit\n[F#]  [E]\n[G]I'd [E]advise you wait\n[G]until it's [E]o-\n[G]ver [E]\nThen [F#]you [E]got hit\n[G][E]And you\nshoulda known [G]better [E]\n\n[Chorus]\n[C#m]And we [E]\ndie young [F#]\n[C#m]  [E]\n[G]  [E]\n[C#m]Faster [E]\nwe run [F#]\n[C#m]  [E]\n[G]  [E]\n\n[Verse 2]\n[G]Down, [E]down, down\nyou're rollin' [F#][E]\n[G]Watch [E]the blood float in\nthe [G]muddy [E]sew-\n[G]er [E]\nTake [E][F#]another hit\n[G][E]And\nbury your [G]brother [E]\n\n[Chorus]\n[C#m]\n[G]  [E]\n[C#m]\n[G]  [E]\n[E]And we [F#]\ndie young\n[C#m]\n[G]  [E]\n[C#m]\n[G]  [E]\n[E]Faster [F#]\nwe run\n\n[Solo]\n[C#m]  [E]\n[F#]\n[C#m]  [E]\n[G]  [E]\n[C#m]  [E]\n[F#]\n[C#m]  [E]\n[G]  [E]\n\n[Verse 3]\n[C#m]Scary's [E]\non [F#]the wall\n[C#m]  [E]\n[G]  [E]\n[C#m]Scary's [E]\non [F#]his\n[C#m]way [E]\n[G]  [E]\n[E][G]Another alley trip\n[F#]  [E]\n[G]Bullet [E]seek the place\nto [G]bend you [E]o-\n[G]ver [E]\nThen [F#]you [E]got hit\n[G][E]And you\nshoulda known [G]better [E]\n\n[Chorus]\n[C#m]Faster we [E]\nrun [F#]\n[C#m]  [E]\n[G]  [E]\n[C#m]And we [E]\ndie young [F#]\n[C#m]  [E]",
+  "diagrams": {
+    "C#m": {
+      "catalog": [
+        "xx0231",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "xx3211",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "xx5433",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "xx6544",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "We die Young *alt",
+  "id": "6ef3b9e43f83beacc2f240ffac7087454d213e6a3417d3655772fc00a1b01561",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 120,
+  "normalizedKey": "alice in chains|we die young",
+  "playableChords": [
+    "C#m",
+    "E",
+    "F#",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Solo"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6ef3b9e43f83beacc2f240ffac7087454d213e6a3417d3655772fc00a1b01561",
+    "version": "BCFZ"
+  },
+  "tempo": 126,
+  "title": "We die Young",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "alt"
+}

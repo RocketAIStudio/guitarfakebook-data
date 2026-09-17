@@ -1,0 +1,125 @@
+{
+  "artist": "Adele",
+  "artistNormalized": "adele",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[B]  [Emaj7]\n[B]  [Emaj7]\n\n[Verse 1]\n[B]This is how the [Emaj7]story went I\n[G#m]met someone by [F#/A#]accident Who\n[Emaj7]blew me away, [B]\n[Emaj7]blew me away [F#]And It was\n[B]in the darkest of [F#/A#]my days When you\n[G#m]took my sorrow and you [G#sus2/F#]took my pain And\n[Emaj7]buried them away, [B]\n[Emaj7]buried them away [F#]I\n\n[Chorus]\n[C#m]wish I could lay down [F#]beside you\n[B]when the day is done [G#m]And\n[C#m]wake up to your face [F#]against the\n[G#m]morning sun But like\n[C#m]everything I've [F#]ever known, you'll\n[B]disappear one [G#m]day So I'll spend\n[C#m]my whole life [F#]hiding my heart away\n[B]  [Emaj7]\n[B]  [Emaj7]\n\n[Verse 2]\n[B]Dropped you off at the train [Emaj7]station\n[G#m]Put a kiss on [F#/A#]top of your head\n[Emaj7]Watched you wave [B]and\n[Emaj7]watched you wave [F#]Then I\n[B]went on home to my [F#/A#]skyscrapers And\n[G#m]neon lights and [G#sus2/F#]waiting papers That\n[Emaj7]I call home, [B]I\n[Emaj7]call that home [F#]I\n\n[Chorus]\n[C#m]wish I could lay down [F#]beside you\n[B]when the day is done [G#m]And\n[C#m]wake up to your face [F#]against the\n[G#m]morning sun But like\n[C#m]everything I've [F#]ever known, you'll\n[B]disappear one [G#m]day So I'll spend\n[C#m]my whole life [F#]hiding my heart away,\n[B][Emaj7]away\n[B]  [Emaj7]\n[B]  [Emaj7]\n[B]  [Emaj7]\n\n[Verse 3]\n[B]Woke up feeling [Emaj7]heavyhearted I'm\n[G#m]going back to where [F#/A#]I started The\n[Emaj7]morning rain, [B]the\n[Emaj7]morning rain [F#]And\n[B]though I wish that you [F#/A#]were here On that\n[G#m]same old road that brought [G#sus2/F#]me here It's\n[Emaj7]calling me home, [B]it's\n[Emaj7]calling me home [F#]I\n\n[Chorus]\n[C#m]wish I could lay down [F#]beside you\n[B]when the day is done [G#m]And\n[Emaj7]wake up to your face [F#]against the\n[G#m]morning sun But like\n[C#m]everything I've [F#]ever known, you'll\n[B]disappear one [G#m]day So I'll spend\n[C#m]my whole life [F#]hiding my heart away\n[B]I can spend [C#m]my whole life hi\n[F#]ding my heart a-\n[B]way",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x32010",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "xx0231",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "Emaj7": {
+      "catalog": [
+        "xx3210",
+        "0-2-1-1-0-0",
+        "x-x-2-4-4-4",
+        "x-7-6-4-4-4",
+        "x-7-9-8-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "320033",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "F#/A#": {
+      "catalog": [
+        "x2003x"
+      ],
+      "catalogCount": 1
+    },
+    "G#m": {
+      "catalog": [
+        "x02210"
+      ],
+      "catalogCount": 1
+    },
+    "G#sus2/F#": {
+      "catalog": [
+        "3x2200"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hiding My Heart",
+  "id": "88adf8942ebd7b22440ebde52f3eaeb8f1c8de85365402da6f82b9e41a073082",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 337,
+  "normalizedKey": "adele|hiding my heart",
+  "playableChords": [
+    "B",
+    "Emaj7",
+    "G#m",
+    "F#/A#",
+    "F#",
+    "G#sus2/F#",
+    "C#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "88adf8942ebd7b22440ebde52f3eaeb8f1c8de85365402da6f82b9e41a073082",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "Hiding My Heart",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

@@ -1,0 +1,139 @@
+{
+  "artist": "A Flock Of Seagulls",
+  "artistNormalized": "a flock of seagulls",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro 1]\n[A]\n[G]\n[A]\n[G]\n\n[Intro 2]\n[A]\n[G]\n[A]\n[G]\n[F]\n[G]\n[A]\n\n[Pre-Verse]\n[A]\n[G]\n[A]\n[G]\n[F]\n[G]\n[A]\n\n[Verse 1]\n[Am]I walk along the a-\nvenue\nI never thought I'd meet\na girl like\n[G]you\nMeet a girl like\nyou\n[Am]With auburn hair and taw-\nny eyes\nThe kind of eyes that hyp-\nnotize me\n[G]through You\nhypnotize me\nthrough\nAnd I\n\n[Chorus]\n[F]ran I\nran so far a-\n[G]way\nI just\n[F]ran I\nran all night and\n[G]day\nI couldn't get away\n\n[Pre-Verse]\n[A]\n[G]\n[A]\n[G]\n\n[Verse 2]\n[Am]A cloud appears above\nyour head\nA beam of light comes shin-\ning down on\n[G]you\nShining down on\nyou\n[Am]The cloud is moving near-\ner still\nAurora Borea-\nlis comes in\n[G]view Au-\nrora comes in\nview\nAnd I\n\n[Chorus]\n[F]ran I\nran so far a-\n[G]way\nI just\n[F]ran I\nran all night and\n[G]day\nI couldn't get away\n\n[Interlude]\n[C]\n\n[Solo]\n[Am]\n[G]\n[Am]\n[G]\n[F]\n[G]\n[F]\n[G]\n\n[Verse 3]\n[Am]Reached out a hand to touch\nyour face\nYou're slowly disappear-\ning from my\n[G]view Disap-\npearing from my\nview\n[Am]Reached out a hand to try\nagain\nI'm floating in a beam\nof light with\n[G]you A\nbeam of light with\nyou\nAnd I\n\n[Chorus]\n[F]ran I\nran so far a-\n[G]way\nI just\n[F]ran I\nran all night and\n[G]day\nAnd I\n[F]ran I\nran so far a-\n[G]way\nI just\n[F]ran I\nran all night and\n[G]day\n\n[Outro]\n[F]\n[G]\n[F]\n[G]\n[Am]\n[G]\n[Am]\n[G]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Ran",
+  "id": "8ea71705f7e20630d86357e1d171e9a958025bb441c1b2b4b32cc035d997b3ad",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 227,
+  "normalizedKey": "a flock of seagulls|i ran",
+  "playableChords": [
+    "A",
+    "G",
+    "F",
+    "Am",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 21,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 37,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 85,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 101,
+      "name": "Chorus"
+    },
+    {
+      "measure": 109,
+      "name": "Interlude"
+    },
+    {
+      "measure": 113,
+      "name": "Solo"
+    },
+    {
+      "measure": 129,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 145,
+      "name": "Chorus"
+    },
+    {
+      "measure": 161,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8ea71705f7e20630d86357e1d171e9a958025bb441c1b2b4b32cc035d997b3ad",
+    "version": "BCFZ"
+  },
+  "tempo": 145,
+  "title": "I Ran",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

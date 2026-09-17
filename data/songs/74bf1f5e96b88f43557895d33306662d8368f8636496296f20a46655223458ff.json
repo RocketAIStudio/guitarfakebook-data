@@ -1,0 +1,106 @@
+{
+  "artist": "Adam Sandler",
+  "artistNormalized": "adam sandler",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\nI wanna\n[Asus2]make you smile\n[Bmadd11]whenever you're sad\n[C#m]Carry you around when your\n[Dsus2]arthritis is bad\n[Asus2]All I wanna do\n[E]is grow [Dsus2]old with\n[Asus2]you\n\n[Verse 2]\n[E]I'll get your\n[Asus2]medicine when\n[Bmadd11]your tummy aches\n[C#m]Build you a fire if the\n[Dsus2]furnace breaks Oh\n[Asus2]it could be so nice,\n[E]growing [Dsus2]old with\n[Asus2]you\n\n[Chorus]\n[A7]I'll\n[Dsus2]miss you\nKiss you\n[Asus2]Give you my coat when\nyou are cold\n[Dsus2]Need you\nFeed you\n[E]Even let ya hold the re-\n[Dsus2]mote control So\n\n[Verse 3]\n[Asus2]let me do the dishes in our\n[Bmadd11]kitchen sink\n[C#m]Put you to bed if you've had\n[Dsus2]too much to drink\n\n[Outro]\nI [Asus2]could be the\nman [E]who\ngrows [Dsus2]old with\n[Asus2]you I\n[E]wanna grow [Dsus2]old\nwith [Asus2]you",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "Bmadd11": {
+      "catalog": [
+        "x24430"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "x46653",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Wanna Grow Old With You",
+  "id": "74bf1f5e96b88f43557895d33306662d8368f8636496296f20a46655223458ff",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 130,
+  "normalizedKey": "adam sandler|i wanna grow old with you",
+  "playableChords": [
+    "Asus2",
+    "Bmadd11",
+    "C#m",
+    "Dsus2",
+    "E",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 30,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "74bf1f5e96b88f43557895d33306662d8368f8636496296f20a46655223458ff",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "I Wanna Grow Old With You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

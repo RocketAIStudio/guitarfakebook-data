@@ -1,0 +1,115 @@
+{
+  "artist": "Amon Amarth",
+  "artistNormalized": "amon amarth",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[E5]\n[C5]\n[E5]\n[C5]\n[E5]\n[C5]\n[E5]\n[C5]\n\n[Bridge]\n[E5]  [D5]\n[C5]  [A5]\n[E5]  [D5]\n[C5]  [A5]\n[E5]  [D5]\n[C5]  [A5]\n[E5]  [D5]\n[C5]  [A5]\n\n[Verse 1]\n[E5]My days are numbered soon I\nhave to leave\n[C5]The Norns have stretched my\nliving thread\n[E5]The notion of my demise\nwon't leave me be\n[C5]Why cannot death just\nset me free!\n[E5]I've lived a life or pros-\nperity\n[C5]But I'm not as young\nas I used to be\n[E5]Down the road waits\nmisery\n[C5]Why cannot in a death\nset me\n\n[Chorus]\n[E5]free! [D5]\n[C5]  [A5]\nSet me free!\n[E5]  [D5]\n[C5]  [A5]\n[E5]  [D5]\n[C5]  [A5]\n[E5]  [D5]\n[C5]  [A5]\n\n[Interlude]\n[E5]Countless armies have [A5]I\nattacked\n[G5]Not once have [D/F#]I\nbacked down\n[E5]And though I've spilled a [A5]lot\nof blood\n[G5]I never once received [D/F#]a\nmortal wound\n[E5]I've raided shores in [A5]ma-\nny lands\n[G5]I cannot count [D/F#]the\nmen I've killed\n[E5]So many friends died [A5]with\nsword in hand But the\n[G5]warrior's death was [D/F#]ne-\nver granted\n\n[Intro Riff]\n[E5]me\n[C5]\n[E5]\n[C5]\n\n[Bridge]\n[E5]\n[C5]\n[E5]\n[C5]\n\n[Interlude]\n[E5]\n[C5]\n[E5]\n[C5]\n[E5]\n[C5]\n[E5]\n[C5]\nI\n\n[Verse 2]\n[E5]dress myself in\nbattle clothes A-\n[C5]lone I make the\nfinal ride My\n[E5]sight is blurred, by\nwhipping snow I\n[C5]seek to end my\nlife I\n[E5]want to walk across\nRainbow Bridge And\n[C5]see my fathers in the\ngolden hall They\n[E5]beckon me to\njoin their feast\n[C5]In my dreams I\nhear their\n\n[Outro]\n[E5]call\n[C5]\n[E5]\n[C5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "133xxx",
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "D/F#": {
+      "catalog": [
+        "x254xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Across The Rainbow Bridge",
+  "id": "e517c671b936a0fa396149e119cf8d103370001db5f331b0b548ed8b0d6aebf0",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 206,
+  "normalizedKey": "amon amarth|across the rainbow bridge",
+  "playableChords": [
+    "E5",
+    "C5",
+    "D5",
+    "A5",
+    "G5",
+    "D/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Interlude"
+    },
+    {
+      "measure": 81,
+      "name": "Intro Riff"
+    },
+    {
+      "measure": 89,
+      "name": "Bridge"
+    },
+    {
+      "measure": 97,
+      "name": "Interlude"
+    },
+    {
+      "measure": 113,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 129,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e517c671b936a0fa396149e119cf8d103370001db5f331b0b548ed8b0d6aebf0",
+    "version": "BCFZ"
+  },
+  "tempo": 118,
+  "title": "Across The Rainbow Bridge",
+  "tuning": "B E A D F# B",
+  "variantRole": "primary"
+}

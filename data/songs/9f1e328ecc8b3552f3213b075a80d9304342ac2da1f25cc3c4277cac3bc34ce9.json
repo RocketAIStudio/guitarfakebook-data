@@ -1,0 +1,99 @@
+{
+  "artist": "As I Lay Dying",
+  "artistNormalized": "as i lay dying",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C5]\n\n[Verse 1]\n[C5]The sound of\nsilent\nvoices\nsurveying\nmy\nthoughts\n\n[Verse 2]\nRegularity\nde-\nfining per-\nfection\nNeither\nsorrow\nnor con-\ntentment\n\n[Verse 3]\nWhispering\nemptiness\nWhispering\nempti-\n\n[Break]\n[C5]ness\nFrail words col-\nlapse\nMy weight\nonly stirs the\nground\nHow long can\nI hold hand\nas you\nwalk over\n\n[Verse 4]\n[C5]graves?\n[F5]\n[G#5]You search for\n[G5]tears\n[C5]\n[F5]\n[G#5]of com-\n[G5]passion\n[C5]Yet find\n[F5]\n[G#5]the comfort\n[G5]of winter\n[C5]Yet\n[F5]find\n[G#5]of\n[G5]winter\n\n[Solo]\n[C5]\n[D#5]\n[G#5]\n[G5]\n[C5]\n[D#5]\n[G#5]\n[G5]\n\n[Outro]\n[C5]\nReassurance\ndead\nlike you\nfalling leaves\nLosing hope\nin your unchanging\nways\nAll of my\nstrength can save you\nIf you are\nunwilling to\nhelp",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "888xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Falling Upon Deaf Ears",
+  "id": "9f1e328ecc8b3552f3213b075a80d9304342ac2da1f25cc3c4277cac3bc34ce9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 120,
+  "normalizedKey": "as i lay dying|falling upon deaf ears",
+  "playableChords": [
+    "C5",
+    "F5",
+    "G#5",
+    "G5",
+    "D#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 30,
+      "name": "Break"
+    },
+    {
+      "measure": 48,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 64,
+      "name": "Solo"
+    },
+    {
+      "measure": 80,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9f1e328ecc8b3552f3213b075a80d9304342ac2da1f25cc3c4277cac3bc34ce9",
+    "version": "BCFZ"
+  },
+  "tempo": 170,
+  "title": "Falling Upon Deaf Ears",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

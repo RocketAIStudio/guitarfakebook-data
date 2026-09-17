@@ -1,0 +1,105 @@
+{
+  "artist": "AC DC",
+  "artistNormalized": "ac dc",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[E]\nIn the be-\n\n[Verse 1]\n[E]ginning\nBack in\nnineteen fifty f-\nive M-\nan didn't know 'bout a r-\nock 'n' roll show\n'Nall that j-\nive\nWhite man had the s-\nchmaltz\nBlack man had the b-\nlues\nNo one knew what they w-\nas gonna do But Tschai-\nkovsky had the n-\news Let there be s-\nound\nthere was s-\nound\nLet there be l-\night,\nthere was l-\night\nLet there be d-\nrums,\nthere was d-\nrums\nLet there be gui-\ntar,\nthere was gui-\ntar\nLet there be r-\n\n[Pre-Solo]\n[A]ock\n\n[Solo 1]\n[B]\n[A]\n[E]\n\n[Verse 2]\n[E]And it came to pass\nThat\nrock 'n' roll was b-\norn All a-\ncross the land every r-\nockin' band Was\nblowin' up a s-\ntorm And the\nguitar man got\nfamous\nbusiness man got r-\nich And in\nevery bar there was\nsuperstar\nWith a seven itch\nThere was\nfifteen million f-\ningers\nLearnin' how to play\nAnd you\ncould hear fingers p-\nickin' And this is\nwhat they had to say\nLet there be l-\night,\nsound,\ndrums,\nguitar,\nLet there be r-\n\n[Pre-Solo]\n[A]ock\n\n[Solo 2]\n[B]\n[A]\n[E]\n\n[Verse 3]\nOne\n[E]night in a club called S-\nhakin' Hand\nThere was a\nfourteen two decibel\nrockin' band\nAnd the m-\nusic was good And the m-\nusic was loud\nAnd the\nsinger turned and he s-\naid to the crowd\nLet there be r-\n[A]ock\n\n[Solo 3]\n[B]\n\n[Outro]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Let There Be Rock",
+  "id": "97f8d3f8ae9a051dd45e99370242ad5b6b40916f8fa8384a70e1d95571042ab5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 258,
+  "normalizedKey": "ac dc|let there be rock",
+  "playableChords": [
+    "E",
+    "A",
+    "B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 50,
+      "name": "Pre-Solo"
+    },
+    {
+      "measure": 58,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 99,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 131,
+      "name": "Pre-Solo"
+    },
+    {
+      "measure": 139,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 179,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 200,
+      "name": "Solo 3"
+    },
+    {
+      "measure": 258,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "97f8d3f8ae9a051dd45e99370242ad5b6b40916f8fa8384a70e1d95571042ab5",
+    "version": "BCFZ"
+  },
+  "tempo": 182,
+  "title": "Let There Be Rock",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,122 @@
+{
+  "artist": "Amy Winehouse",
+  "artistNormalized": "amy winehouse",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Cmaj7]\n[Fdim7]\n\n[Verse 1]\n[Cmaj7]For you\n[G7sus4]I was the flame\n[Fm6]Love is a lo-\n[Cmaj7]sing game\n[Cmaj7]Five story fire as\n[G7sus4]you came\n[Fm6]Love is a lo-\n[Cmaj7]sing game\n\n[Chorus]\n[Am7]One I wished,\n[Dm7]I never played\n[Fm6]Oh, what a\n[Cmaj7]mess we made\n[Cmaj7]And now the\n[G7sus4]final frame\n[Fm6]Love is a lo-\n[Cmaj7]sing game\n\n[Bridge]\n[Fdim7]\n\n[Verse 2]\n[Cmaj7]Played out by\n[G7sus4]the band\n[Fm6]Love is a lo-\n[Cmaj7]sing hand\n[Cmaj7]More than\n[G7sus4]I could stand\n[Fm6]Love is a lo\n[Cmaj7]sing hand\n\n[Chorus]\n[Am7]Selfprofessed\n[Dm7]profound\n[Fm6]Till the chips\n[Cmaj7]were down\n[Cmaj7]Know you're a\n[G7sus4]gambling man\n[Fm6]Love is a lo-\n[Cmaj7]sing hand\n[Fdim7]\n\n[Verse 3]\n[Cmaj7]Though I bat-\n[G7sus4]tled blind\n[Fm6]Love is a fate\n[Cmaj7]resigned\n[Cmaj7]Memories\n[G7sus4]mar my mind\n[Fm6]Love is a fate\n[Cmaj7]resigned\n\n[Chorus]\n[Am7]Over fu-\n[Dm7]tile odds\n[Fm6]And laughed at by\n[Cmaj7]the gods\n[Cmaj7]And now the\n[G7sus4]final frame\n[Fm6]Love is a lo-\n\n[Outro]\n[Cmaj7]sing game",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02213",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x35453",
+        "x-3-2-0-0-0",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm7": {
+      "catalog": [
+        "xx0211",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Fdim7": {
+      "catalog": [
+        "1x0101"
+      ],
+      "catalogCount": 1
+    },
+    "Fm6": {
+      "catalog": [
+        "1x0111"
+      ],
+      "catalogCount": 1
+    },
+    "G7sus4": {
+      "catalog": [
+        "353533"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Love Is A Losing Game",
+  "id": "91d3b791ffafffca8cefe31543e511bb3fe082f42684030a6bf4881b766070d6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 143,
+  "normalizedKey": "amy winehouse|love is a losing game",
+  "playableChords": [
+    "Cmaj7",
+    "Fdim7",
+    "G7sus4",
+    "Fm6",
+    "Am7",
+    "Dm7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "91d3b791ffafffca8cefe31543e511bb3fe082f42684030a6bf4881b766070d6",
+    "version": "BCFZ"
+  },
+  "tempo": 82,
+  "title": "Love Is A Losing Game",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}
