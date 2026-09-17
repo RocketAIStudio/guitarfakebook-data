@@ -1,0 +1,129 @@
+{
+  "artist": "Curtis Mayfield",
+  "artistNormalized": "curtis mayfield",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[G#m]  [C#m]\n\n[Intro]\n[F#m]\n[G#m]  [C#m]\n[F#m]\n[G#m]  [C#m]\n[F#m]\n[G#m]Add a [C#m]little\n\n[Verse 1]\n[F#m]sugar,\n[A]honeysuckle And [F#m]\n[G#m]a great big expression of\n[C#m]happiness Boy, you couldn't\n[F#m][A]miss\n[G#m]With a [C#m]dozen\n\n[Verse 2]\n[F#m]roses\n[A]Such will [F#m]astound you\n[G#m]The joy of children lau ghing a-\n[C#m]round you These are the\n[A]makings of you [F#m]It\nis true, [Bsus4]the\n[B7]makings [G#m]of yo [C#m]u\n[F#m]\n[G#m]The righteous [C#m]way to\n\n[Verse 3]\n[F#m]go\n[A]Little one would know [F#m]\n[G#m]Or believe if I\n[C#m]told them so You're second to no-\n[F#m][A]ne\n[G#m]The love [C#m]of all [F#m]mankind\n[A]Should reflect some [F#m]sign of these\n[G#m]wor ds I've tried to\n[C#m]recite They're close but not qu-\n[F#m][A]ite\nAlmost impossible to [Bsus4]do\n[B7]Reciting [G#m][C#m]\n[F#m]the makings [A]of yo-\n\n[Bridge]\n[Emaj9]u\n[G#m]The righteous [C#m]way to\n\n[Verse 4]\n[F#m]go\n[A]Little one would know [F#m]Or\n[G#m]believe if I told them\n[C#m]so You're second to none\n[A]The [F#m]love\n[G#m]of all [C#m]mankind\n\n[Verse 5]\n[F#m]\n[A]Should reflect some [F#m]sign\n[G#m]of these wor ds\n[C#m]I've tried to recite They're close but\n[A]not [F#m]quite\nAlmost impossible to [Bsus4]do\n[B7]Reciting [G#m][C#m]\n[F#m]the makings [A]of yo-\n\n[Outro]\n[Emaj9]u",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x24242",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11",
+        "x-14-13-14-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bsus4": {
+      "catalog": [
+        "x24452"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "Emaj9": {
+      "catalog": [
+        "024444"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Makings of You (Live)",
+  "id": "27c37152f5ad22eaf91c3e5b315436d865a877e72dd156d8284c2b4e41fb5328",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 208,
+  "normalizedKey": "curtis mayfield|the makings of you live",
+  "playableChords": [
+    "G#m",
+    "C#m",
+    "F#m",
+    "A",
+    "Bsus4",
+    "B7",
+    "Emaj9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 55,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "27c37152f5ad22eaf91c3e5b315436d865a877e72dd156d8284c2b4e41fb5328",
+    "version": "BCFZ"
+  },
+  "tempo": 75,
+  "title": "The Makings of You (Live)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,111 @@
+{
+  "artist": "Born Of Osiris",
+  "artistNormalized": "born of osiris",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C5]\nFucking bow down!\n\n[Theme]\n[C5]You were the price of the\nkilling,\nWhile we were waiting on\nthe other side.\nThe other ones were just\nstanding, But\nwe were playing on\nthe other side.\nYou can\nclose your eyes.\nForget what\nyou have seen. What you\nseen.\nBless us all,\nthey are\nguilty.\nBring back\nwhat is yours.\n\n[Solo]\n[Cm]\n[G/C]\n[Cm]\n[G/C]\n[G]We tried\nto es-\n[D#sus2]cape\n[F]But you still\n[G]waste.\nNothing is sa-\n[D#sus2]fe, nothing rema-\n[F]ins\n[G/C]\n\n[Bridge]\n[C5]\n\n[Breakdown]\n[C5]No mista-\nkes.\nYou can't take what you've\ngiven away.\nNo mis-\ntakes.\nYou can't take what you've\ngiven away.\n\n[Theme]\n[C5]You were the\nprice of the\nkilling.\nWe\nwere just\nplaying.\nYou can\nclose your eyes.\nForget what\nyou have seen.\nBless us all,\nthey are\nguilty.\nBring back\nwhat is yours.",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Cm": {
+      "catalog": [
+        "000231",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "D#sus2": {
+      "catalog": [
+        "335563"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "555787",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "7-7-7-9-10-9",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/C": {
+      "catalog": [
+        "000220",
+        "444655"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bow Down",
+  "id": "7a1dee2b0aa80132d3d946446f4445c3b59c9bb2d75416e23378782843d946a1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 146,
+  "normalizedKey": "born of osiris|bow down",
+  "playableChords": [
+    "C5",
+    "Cm",
+    "G/C",
+    "G",
+    "D#sus2",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Theme"
+    },
+    {
+      "measure": 21,
+      "name": "Solo"
+    },
+    {
+      "measure": 38,
+      "name": "Bridge"
+    },
+    {
+      "measure": 46,
+      "name": "Breakdown"
+    },
+    {
+      "measure": 54,
+      "name": "Theme"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7a1dee2b0aa80132d3d946446f4445c3b59c9bb2d75416e23378782843d946a1",
+    "version": "BCFZ"
+  },
+  "tempo": 141,
+  "title": "Bow Down",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

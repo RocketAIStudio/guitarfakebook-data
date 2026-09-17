@@ -1,0 +1,108 @@
+{
+  "artist": "Chris Stapleton",
+  "artistNormalized": "chris stapleton",
+  "capo": "2",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D5]\n\n[Verse 1]\nWe pass in hall\non our way to separate rooms\nOnly time we'll ever talk\nis when the monthly bills are due\n\n[Pre-Chorus]\n[G5]We go to work, we go\nto church We fake a perfect life\n[D5]\nI passed\n[G5]the point of giving a damn\nAll my tears are\n[A5]cried\nWe can just go\n\n[Chorus]\n[D]on like this\nOr say the word, we'll\n[G5]call it quits\nBaby, you can go\n[A5]or you can stay\n[G5]\nBut I won't love you either way\n\n[Interlude]\n[D5]\n\n[Verse 2]\nIt's been so long since I've felt\nAnything inside these walls\nYou can't heal, you can't hurt?\nWhen you don't feel at all\n\n[Pre-Chorus]\n[G5]I used to cry and stay\nup nights And wonder what went wrong\n[D5]\n[G5]It's been hard But hearts\ncan only do that for so long\n[A5]\nWe can just go\n\n[Chorus]\n[D]on like this\nOr say the word, we'll\n[G5]call it quits\nBaby, you can go\n[A5]or you can stay\n[G5]\nBut I won't love you either way\n\n[Bridge]\n[D5]\n[G5]\n[A5]\nWe can just go\n\n[Chorus]\n[D]on like this\nOr say the word, we'll\n[G5]call it quits\nBaby, you can go\n[A5]or you can stay\n[G5]\nBut I won't love you either way\n\n[Outro]\n[D5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "7779xx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "0002xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "5557xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Either Way",
+  "id": "845d215b71b0e6aee97108f0372e222b8eeaa0b8904c5634d3b941188f824db7",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 198,
+  "normalizedKey": "chris stapleton|either way",
+  "playableChords": [
+    "D5",
+    "G5",
+    "A5",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Interlude"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Bridge"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "845d215b71b0e6aee97108f0372e222b8eeaa0b8904c5634d3b941188f824db7",
+    "version": "BCFZ"
+  },
+  "tempo": 65,
+  "title": "Either Way",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

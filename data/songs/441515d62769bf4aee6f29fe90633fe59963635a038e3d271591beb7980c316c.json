@@ -1,0 +1,95 @@
+{
+  "artist": "Caustic Soda",
+  "artistNormalized": "caustic soda",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Verse]\nIt's\n[Dm]just not working out\nIt's\n[Bb]not what I expec\nted It's\n[F]not you, it's me I'm\nsetting you fee You'd look bet\n[Am]ter with somebody else\nI'm\n[Bb]really\nsorry\n\n[Chorus]\n[F]I don't get on\nwith your friends It's the\n[Am]same problem we\nhad last week I\n[Dm]miss every call for\n[C]boy's night out You're\n[Bb]lucky I'm leaving You\n[C]deserve better\n[F]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Welcome To Dumpsville, Population You",
+  "id": "441515d62769bf4aee6f29fe90633fe59963635a038e3d271591beb7980c316c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 75,
+  "normalizedKey": "caustic soda|welcome to dumpsville population you",
+  "playableChords": [
+    "Dm",
+    "Bb",
+    "F",
+    "Am",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse"
+    },
+    {
+      "measure": 12,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "441515d62769bf4aee6f29fe90633fe59963635a038e3d271591beb7980c316c",
+    "version": "BCFZ"
+  },
+  "tempo": 188,
+  "title": "Welcome To Dumpsville, Population You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,103 @@
+{
+  "artist": "Bruce Springsteen",
+  "artistNormalized": "bruce springsteen",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F]\n[Am]\n[F]\n[Am]\nI was\n\n[Verse 1]\n[F]bruised and battered I couldn't\ntell what I felt. I was\n[Am]unrecognizable to my-\nself. Saw my\n[F]reflection in a window and didn't\nknow my own face. Oh brother are you\n[Am]gonna leave me wast-\nin' away On the streets of Phi-\n[A#]ladelphia.\n[F]\n[C]\n[A#]\n[F]\n[C]\nI walked\n\n[Verse 2]\n[F]the avenue, 'til my legs\nfelt like stone, I heard\n[Am]the voices of friends, vanished\nand gone, At night I\n[F]could hear the blood in my\nveins, Just as\n[Am]black and whispering as the\nrain, On the streets of Phi-\n[A#]ladelphia.\n[F]\n[C]\n[A#]\n[F]\n[C]\n\n[Bridge]\n[A#]Ain't no angel gonna greet\n[Dm]me\n[A#]It's just you and I my\n[F]friend.\n[Am]And my clothes don't fit\n[A#]me no more,\n[C]A thousand miles Just to\nslip this skin.\n[C]\n\n[Verse 3]\n[F]Night has fallen, I'm\nlyin' awake, I can\n[Am]feel myself fad-\ning away, So\n[F]receive me brother with your\nfaithless kiss, Or will we\n[Am]leave each other alone\nlike this On the streets of Phi-\n[A#]ladelphia.\n[F]\n[C]\n[A#]\n[F]\n[C]\n[A#]\n[F]\n[C]\n[A#]\n[F]",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "x13331"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Streets of Philadelphia",
+  "id": "969aec11c1752b5d4c48cb6bb68e07f39dcb29f21111a7a2bfd8d3dc588e4e1d",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 189,
+  "normalizedKey": "bruce springsteen|streets of philadelphia",
+  "playableChords": [
+    "F",
+    "Am",
+    "A#",
+    "C",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "969aec11c1752b5d4c48cb6bb68e07f39dcb29f21111a7a2bfd8d3dc588e4e1d",
+    "version": "BCFZ"
+  },
+  "tempo": 94,
+  "title": "Streets of Philadelphia",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

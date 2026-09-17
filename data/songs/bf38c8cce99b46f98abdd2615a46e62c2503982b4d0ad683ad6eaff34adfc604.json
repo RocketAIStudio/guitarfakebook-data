@@ -1,0 +1,131 @@
+{
+  "artist": "Bruce Springsteen",
+  "artistNormalized": "bruce springsteen",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]\nI'm driving in my\n\n[Verse 1]\n[G]car\nI turn on the radi-\no\nI'm pulling you\n[Am]close\nYou just say\n[G]no\nSay you don't\n[Am]like it\nBut girl I know you're a\n[G]liar\nCause when we kiss\n[C]\n[D]Ooooh,\n\n[Pre-Verse]\n[G]Fire\nLate at night\n\n[Verse 2]\n[G]\nI'm takin' you\nhome\nI say I wanna\n[Am]stay\nYou say you wanna be al-\n[G]one\nYou say you don't\n[Am]love me\nGirl, you can't hide your de-\n[G]sire\nWhen we kiss\n[C]\n[D]Oh,\n[G]Fire\nYou had a\n\n[Chorus]\n[C]hold on me right\n[G]from the start A\n[D]grip so tight, I couldn't\n[G]tear it apart\n[C]Nerves all jumpin' Actin'\n[G]like a fool Your\n[A]kisses they burn But your\n[D]heart stays cool\nRomeo and Juli-\n\n[Verse 3]\n[G]et\nSamson and De-\nlilah\nYou can bet\n[Am]\nTheir love they didn't deny\n[G]\nYour words say\n[Am]split\nBut your words they\n[G]lie\nWhen we kiss\n[C]\n[D]Mmmmmm,\nFire\nFire\n\n[Solo 1]\n[G]\n[Am]\n[G]\n[Am]\n[G]\n[C]\n[D]\n[G]\n\n[Solo 2]\n[G]\n[Am]\n[G]\n[Am]\n[G]\n[C]\n[D]\nYou had a\n\n[Chorus]\n[C]hold on me right\n[G]from the start A\n[D]grip so tight, I couldn't\n[G]tear it apart\n[C]Nerves all jumpin' Actin'\n[G]like a fool Your\n[A]kisses they burn But your\n[D]heart stays cool\nRomeo and Juli-\n\n[Verse 4]\n[G]et\nSamson and De-\nlilah\nYou can bet\n[Am]\nTheir love they didn't deny\n[G]\nYour words say\n[Am]split\nBut your words they\n[G]lie\nWhen we kiss\n[C]\n[D]Mmmmmm,\n\n[Outro]\n[G]Fire\nFire\nFire\nFire\nFire\nFire\nFire",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Fire *alt 2",
+  "id": "bf38c8cce99b46f98abdd2615a46e62c2503982b4d0ad683ad6eaff34adfc604",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 250,
+  "normalizedKey": "bruce springsteen|fire",
+  "playableChords": [
+    "G",
+    "Am",
+    "C",
+    "D",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 68,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 86,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 104,
+      "name": "Chorus"
+    },
+    {
+      "measure": 113,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 127,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bf38c8cce99b46f98abdd2615a46e62c2503982b4d0ad683ad6eaff34adfc604",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "Fire",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

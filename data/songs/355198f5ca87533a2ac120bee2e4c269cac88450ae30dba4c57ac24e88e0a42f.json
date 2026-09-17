@@ -1,0 +1,112 @@
+{
+  "artist": "Buddy Holly",
+  "artistNormalized": "buddy holly",
+  "capo": "4",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]  [C]\n[D]\n[A]\n[D]Well, all right,\n\n[Verse 1]\n[D]so I'm [C]being foo-\n[D]lish Well, all right,\nlet [A]people know\n[D]About the\ndreams and [C]wishes you\n[D]wish In the night\nwhen the lights [A]are low\n[D]Well, all right,\n\n[Chorus]\n[G]well all right\n[A]We will\n[D]live and [C]love with\n[D]all our might Well, all right,\n[G]well all right\n[A]Our life\n[D]time love [C]will\n[D]be all right\n\n[Interlude]\n[D]  [C]\n[D]\n[A]\n[D]\n[C]\n[D]\n[A]\n[D]Well, all right,\n\n[Verse 2]\n[D]so I'm [C]going stea-\n[D]dy It's all right\nwhen [A]people say\n[D]That those\nfoolish kids [C]can't be\n[D]ready For the\nlove that comes [A]their way\n[D]Well, all right,\n\n[Chorus]\n[G]well all right\n[A]We will\n[D]live and [C]love with\n[D]all our might Well, all right,\n[G]well all right\n[A]Our life\n[D]time love [C]will\n[D]be all right\n\n[Interlude]\n[D]  [C]\n[D]\n[A]\n[D]\n[C]\n[D]\n[A]\n[D]Well, all right,\n\n[Chorus]\n[G]well all right\n[A]We will\n[D]live and [C]love with\n[D]all our might Well, all right,\n[G]well all right\n[A]Our life\n[D]time love [C]will\n[D]be all right\n\n[Outro]\n[D]  [C]\n[D]\n[A]\n[D]\n[C]\n[D]\n[A]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Well... All Right",
+  "id": "355198f5ca87533a2ac120bee2e4c269cac88450ae30dba4c57ac24e88e0a42f",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 154,
+  "normalizedKey": "buddy holly|well all right",
+  "playableChords": [
+    "D",
+    "C",
+    "A",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Interlude"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Interlude"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "355198f5ca87533a2ac120bee2e4c269cac88450ae30dba4c57ac24e88e0a42f",
+    "version": "BCFZ"
+  },
+  "tempo": 124,
+  "title": "Well... All Right",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,116 @@
+{
+  "artist": "Bruce Springsteen",
+  "artistNormalized": "bruce springsteen",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n[D]  [A]\n[E]\n[A]  [E]\n[D]I was\n\n[Verse 1]\n[A]eight years old and\nrunning with a\n[D]dime [A]in my\n[E]hand Into the\nbus stop to pick\nup a paper for\n[A]my [E]old\n[D]man I'd\n[A]sit on his lap in that\nbig old Buick And stee-\n[D]r as we [A]drove through\n[E]town He'd\ntousle my hair and\nsay \"Son, take a\n[A]good [E]look a-\n[D]round This is\n\n[Chorus]\n[A]your hometown.\"\nThis is\n[D]your [A]home-\n[E]town This is\nyour hometown\nThis is\n[A]your [E]home-\n[D]town\n[A]\nIn\n\n[Verse 2]\n[A]sixty five tension wa-\ns running high at\n[D]my high [A]\n[E]school There was a\nlot of fights 'tween the\nblack and white There was\n[A]nothing [E]you could\n[D]do Two\n[A]cars at a light on a\nSaturday night In the\n[D]back seat [A]there was a\n[E]gun\nWords were passed, then a\nshotgun blast Troubled\n[A]times [E]had\n[D]come to\n\n[Chorus]\n[A]my hometown\nTo\n[D]my [A]home-\n[E]town To\nmy hometown\nTo\n[A]my [E]home-\n[D]town\n[A]\nNow\n\n[Bridge]\n[F#m]Main Street's whitewashed\nwindows and\n[A]vacant stores\nSeems\n[F#m]like there ain't nobo-\ndy wants to come dow-\n[A]n here no more\nThey're\n[D]closing down the\ntextile mill across\n[A]the railroad tracks\nForeman\n[D]says \"These jobs are\ngoing, boys And\n[A]they ain't coming\n[E]back To\n\n[Chorus]\n[A]your hometown.\"\nTo\n[D]your [A]home-\n[E]town To\nyour hometown\nTo\n[A]your [E]home-\n[D]town\n[A]\nLast\n\n[Verse 3]\n[A]night me and Kate, we\nlaid in bed Ta-\n[D]lking 'bout [A]getting\n[E]out\nPacking up\nour bags maybe\n[E][A]heading\n[D]south I'm\n[A]thirtyfive, we\ngot a boy of\n[D]our [A]own\n[E]now Last night I\nsat him up be-\nhind the wheel, and said\n[A]\"Son take a [E]good look a-\n[D]round\nThis is\n\n[Outro]\n[A]your hometown.\"\n[D]  [A]\n[E]\n[A]  [E]\n[D]\n\n[(Fade out)]\n[A]\n[D]  [A]\n[E]\n[A]  [E]\n[D]\n[A]\n[D]  [A]\n[E]\n[A]  [E]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "My Hometown *alt",
+  "id": "71cf4998c721e80aaddc14035f8c3a2b96a941bbc263ad90288afb8b32083dfc",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 320,
+  "normalizedKey": "bruce springsteen|my hometown",
+  "playableChords": [
+    "A",
+    "D",
+    "E",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Bridge"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    },
+    {
+      "measure": 87,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 104,
+      "name": "Outro"
+    },
+    {
+      "measure": 112,
+      "name": "(Fade out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "71cf4998c721e80aaddc14035f8c3a2b96a941bbc263ad90288afb8b32083dfc",
+    "version": "BCFZ"
+  },
+  "tempo": 116,
+  "title": "My Hometown",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

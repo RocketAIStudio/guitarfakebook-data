@@ -1,0 +1,123 @@
+{
+  "artist": "Buddy Holly",
+  "artistNormalized": "buddy holly",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]\n[E]\n[A]\n[E]\n\n[Verse 1]\n[A]Tell me how to\n[E7]keep your love\n[A]You know how I\n[E7]need your love\n[A]Tell me how you\n[D]keep the love With -\n[A]in your [E7]heart from\n[A]me\n\n[Verse 2]\n[A]Don't you know that\n[E7]I love you\n[A]Let me show why\n[E7]I'm true blue\n[A]When I know our\n[D]love is true Don't\n[A]keep your [E7]love from\n[A]me If\n\n[Bridge]\n[F#m]you would say to\nme today The\n[E]time for love is\n[A]now\n[F#m]Could I sway your\nlove my way Then\n[D]I say tell me how\n[E]\n\n[Verse 3]\n[A]Tell me how to\n[E7]keep your love\n[A]You know how I\n[E7]need your love\n[A]Tell me how you\n[D]keep the love With -\n[A]in your [E7]heart from\n[A]me [E7]\n\n[Interlude]\n[A]\n[E7]\n[A]\n[E7]\n[A]\n[D]\n[A]  [E7]\n[A]\n[A]\n[E7]\n[A]\n[E7]\n[A]\n[D]\n[A]  [E7]\n[A]If\n\n[Bridge]\n[F#m]you would say to\nme today The\n[E]time for love is\n[A]now\n[F#m]Could I sway your\nlove my way Then\n[D]I say tell me how\n[E]\n\n[Verse 4]\n[A]Tell me how to\n[E7]keep your love\n[A]You know how I\n[E7]need your love\n[A]Tell me how you\n[D]keep the love With -\n[A]in your [E7]heart from\n[A]me\n\n[Outro]\n[A]Tell me how you\n[D]keep the love With -\n[A]in your [E7]heart from\n[A]me\n[D]\n[A]\n[E]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tell Me How",
+  "id": "beeda622e41bddcc7ea5a3f6f88e850ceb9316e9d9df8edab28e623874a8038f",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 181,
+  "normalizedKey": "buddy holly|tell me how",
+  "playableChords": [
+    "A",
+    "E",
+    "E7",
+    "D",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "beeda622e41bddcc7ea5a3f6f88e850ceb9316e9d9df8edab28e623874a8038f",
+    "version": "BCFZ"
+  },
+  "tempo": 157,
+  "title": "Tell Me How",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

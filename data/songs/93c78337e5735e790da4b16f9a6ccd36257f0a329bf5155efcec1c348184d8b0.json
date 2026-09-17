@@ -1,0 +1,108 @@
+{
+  "artist": "Chuck Berry",
+  "artistNormalized": "chuck berry",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n[A]\n[G]\n[D]\nWell I'mma\n\n[Verse 1]\n[D]write a little letter I'm gonna\nmail it to my local DJ\nYeah it's a\n[G]jumping little record I wa-\nnt my jockey to pla-\n[D]y\nRoll o-\n[A]ver Beethoven, I\n[G]gotta hear it again toda-\n[D]y\nYou know my\n\n[Verse 2]\n[D]temperature's rising The\njukebox blowing a fu-\nse\nMy\n[G]heart's beating rhythm And my\nsoul keep asinging the blue-\n[D]s\nRoll o-\n[A]ver Beethoven\n[G]Tell Tchaikovsky the new-\n[D]s\nI got the\n\n[Verse 3]\n[D]rocking pneumonia I\nneed a shot of rhythm and blue-\ns\nI caught the\n[G]rolling arthritis Sitting\ndown at a rhythm revue\n[D]\nRoll o-\n[A]ver Beethoven They\n[G]rocking in two by two\n[D]\nWell, if you\n\n[Bridge]\n[D]feel and like it\nGo get your lover, then\nreel and rock it\nRoll it over then\n[G]move on up just A\ntrifle further and\n[D]reel and rock with\nOne another Roll o-\n[A]ver Beethoven\n[G]Dig these rhythm and blue-\n[D]s\n\n[Solo]\n[D]\n[G]\n[D]\n[A]\n[G]\n[D]\nWell, ea-\n\n[Verse 4]\n[D]rly in the morning I'm\ngiving you my warning Don't you\nstep on my blue suede\nshoes Hey\n[G]diddle diddle, I'ma play\nmy fiddle Ai-\n[D]n't got nothing to lose\nRoll o-\n[A]ver Beethoven And\n[G]tell Tchaikovsky the new-\n[D]s\nYou know she\n\n[Verse 5]\n[D]wiggle like a glow worm\nDance like a spinnin'\ntop\nShe got a\n[G]crazy partner You\noughta see him reel and\n[D]rock\nLong as\n[A]she got a dime, the\n[G]music won't never sto-\n[D]p\nRoll over Beet-\n\n[Outro]\n[D]hoven\nRoll over Beet-\nhoven\nRoll over Beet-\n[G]hoven\nRoll over Beet-\n[D]hoven\nRoll over Beet-\n[A]hoven and dig these\n[G]rhythm and blue-\n[D]s. [A][D9]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D9": {
+      "catalog": [
+        "x5455x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Roll Over Beethoven",
+  "id": "93c78337e5735e790da4b16f9a6ccd36257f0a329bf5155efcec1c348184d8b0",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 343,
+  "normalizedKey": "chuck berry|roll over beethoven",
+  "playableChords": [
+    "D",
+    "A",
+    "G",
+    "D9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Bridge"
+    },
+    {
+      "measure": 62,
+      "name": "Solo"
+    },
+    {
+      "measure": 74,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 86,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 98,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "93c78337e5735e790da4b16f9a6ccd36257f0a329bf5155efcec1c348184d8b0",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Roll Over Beethoven",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

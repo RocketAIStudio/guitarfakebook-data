@@ -1,0 +1,104 @@
+{
+  "artist": "Chris Stapleton",
+  "artistNormalized": "chris stapleton",
+  "capo": "3",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[D]\n[Cadd9][Csus2]They say\n\n[Chorus]\n[G]\"Love is more [Cadd9]precious than\n[G]gold\" [Cadd9]Can't be\nbought [D]and it can't be\n[Cadd9]sold [Csus2]I got\n[G]love [Cadd9]enough to spare\n[G][Cadd9]That makes\nme [D]a millionaire\n[Cadd9]  [Csus2]\n\n[Verse 1]\n[Cadd9]I got a woman with eyes that\n[G]shine [D]Down\n[Cadd9]deep as a diamond\n[G]mine [D]\n[Cadd9]She's my treasure so very rare\n[G][D]She's made\n[Cadd9]me a millionaire\n[G]  [D]\n\n[Verse 2]\n[Cadd9]When we ride around, ride around this old\n[G]town In the [D]beatup\n[Cadd9]car, with the windows\n[G]down [D]\n[Cadd9]People look at her and they look at\n[G]me [D]And say \"That\n[Cadd9]boy is sure living in luxury\"\n[G]Sweet luxury [D]Become\n\n[Chorus]\n[G]love is more [Cadd9]precious than\n[G]gold It [Cadd9]can't be\nbought, no, [D]never could be\n[Cadd9]sold [Csus2]I got\n[G]love [Cadd9]enough to share\n[G][Cadd9]That makes\nme [D]a millionaire\n[Cadd9]  [Csus2]\n\n[Guitar Solo]\n[G]  [Cadd9]\n[G]  [Cadd9]\n[D]\n[Cadd9]  [Csus2]\n\n[Verse 3]\n[Cadd9]When the kisses fall from everywhere\n[G]Like [D]reaches on\n[Cadd9]a millionaire\n[G]  [D]\n[Cadd9]When the pocket's are empty and the cupboard is\n[G]bare [D]I still\n[Cadd9]feel like a millionaire\n[G][D]'Cause\n\n[Chorus]\n[G]love is more [Cadd9]precious than\n[G]gold It [Cadd9]can't be\nbought, no, [D]and it can't be\n[Cadd9]sold [Csus2]I got love\n[G]enough [Cadd9]to spare\n[G][Cadd9]That makes\nme [D]a millionaire\n[Cadd9]  [Csus2]\n\n[Outro]\n[G]\n[D]\n[Cadd9]",
+  "diagrams": {
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "Csus2": {
+      "catalog": [
+        "x30033"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Millionaire",
+  "id": "984c4b9fd78705724d93938f23e4114da2e26ab035f562f9ac89337cb41d2c79",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 211,
+  "normalizedKey": "chris stapleton|millionaire",
+  "playableChords": [
+    "G",
+    "D",
+    "Cadd9",
+    "Csus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Chorus"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "984c4b9fd78705724d93938f23e4114da2e26ab035f562f9ac89337cb41d2c79",
+    "version": "BCFZ"
+  },
+  "tempo": 71,
+  "title": "Millionaire",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

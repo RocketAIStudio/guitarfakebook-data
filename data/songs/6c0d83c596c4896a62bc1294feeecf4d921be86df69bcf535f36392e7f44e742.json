@@ -1,0 +1,137 @@
+{
+  "artist": "Chicago",
+  "artistNormalized": "chicago",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[F7M]\n[Am]\n[Bb]\n[Eb7M]\n[Ab7M]\n[Gb7M]\n[D7sus2]\n[D7]\n[G7M]\n[Eb9]\n[C7]\n[F7M]\n[Bb][C7]As\n\n[Verse 1]\n[F7M]time goes on,\nI rea-\n[Am]lize\nJust what you\n[Bb]mean\nTo\n[Eb7M]me\nAnd\n[Ab7M]now,\nNow that you're\n[Gb7M]near,\nPromise your\n[D7sus2]love\n[D7]That I've waited to\n[G7M]share\nAnd\n[Eb9]dreams\nOf our moments to-\n[C7]gether\nColour my world\n[F7M]with hope\n[Bb]of [C7]loving\n\n[Flute Solo]\n[F7M]you\n[Am]\n[Bb]\n[Eb7M]\n[Ab7M]\n[Gb7M]\n[D7sus2]\n[D7]\n[G7M]\n[Eb9]\n[C7]\n[F7M]\n[Bb]  [C7]\n[F7M]",
+  "diagrams": {
+    "Ab7M": {
+      "catalog": [
+        "xx6543"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x35353",
+        "x-3-2-3-1-0",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7sus2": {
+      "catalog": [
+        "xx0210"
+      ],
+      "catalogCount": 1
+    },
+    "Eb7M": {
+      "catalog": [
+        "xx1333"
+      ],
+      "catalogCount": 1
+    },
+    "Eb9": {
+      "catalog": [
+        "xx1021"
+      ],
+      "catalogCount": 1
+    },
+    "F7M": {
+      "catalog": [
+        "xx3210"
+      ],
+      "catalogCount": 1
+    },
+    "G7M": {
+      "catalog": [
+        "320002"
+      ],
+      "catalogCount": 1
+    },
+    "Gb7M": {
+      "catalog": [
+        "xx4321"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Colour My World",
+  "id": "6c0d83c596c4896a62bc1294feeecf4d921be86df69bcf535f36392e7f44e742",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 49,
+  "normalizedKey": "chicago|colour my world",
+  "playableChords": [
+    "F7M",
+    "Am",
+    "Bb",
+    "Eb7M",
+    "Ab7M",
+    "Gb7M",
+    "D7sus2",
+    "D7",
+    "G7M",
+    "Eb9",
+    "C7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 51,
+      "name": "Flute Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6c0d83c596c4896a62bc1294feeecf4d921be86df69bcf535f36392e7f44e742",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "Colour My World",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

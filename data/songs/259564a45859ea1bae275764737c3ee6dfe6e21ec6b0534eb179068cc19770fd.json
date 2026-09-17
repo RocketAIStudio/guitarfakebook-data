@@ -1,0 +1,100 @@
+{
+  "artist": "Chuck Berry",
+  "artistNormalized": "chuck berry",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Daug]\nRidin' along in my automo-\n\n[Verse 1]\n[G7]bile\nMy baby beside me at the\nwheel\nI stole a kiss at the turn of a\n[C7]mile\nMy curiosity runnin' wild\n[G7]\nCrusin' and playin' the radi-\n[D7]o\nWith no particular place to\n[G7]go\nRidin' along in my automo-\n\n[Verse 2]\n[G7]bile\nI's anxious to tell her the way I\nfeel\nSo I told her softly and sin-\n[C7]cere\nAnd she leaned and whispered in my\n[G7]ear\nCuddlin' more and drivin'\n[D7]slow\nWith no particular place to\n[G7]go\n[D7]\n\n[Solo]\n[G7]\n[C7]\n[G7]\n[D7]\n[C7]\n[G7]\nNo particular place to\n\n[Verse 3]\n[G7]go\nSo we parked way out on the Koko-\nmo\nThe night was young and the moon was\n[C7]gold\nSo we both decided to take a\n[G7]stroll\nCan you image the way I\n[D7]felt\nI couldn't unfasten her safety\n[G7]belt\nRidin' along in my calaboo-\n\n[Verse 4]\n[G7]se\nStill tryna get her belt a--\nloose\nAll the way home I held a\n[C7]grudge\nFor the safety belt that wouldn't\n[G7]budge\nCrusin' and playin' the radi-\n[D7]o\nWith no particular place to\n[G7]go\n[D7]\n\n[Solo]\n[G7]\n[C7]\n[G7]\n[D7]\n[C7]\n[G7]\n[D7]\n[G7]\n[C7]\n[G7]\n[D7]\n[C7]\n[G7]",
+  "diagrams": {
+    "C7": {
+      "catalog": [
+        "x35353",
+        "x-3-2-3-1-0",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "x5453x",
+        "x-x-0-2-1-2",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8"
+      ],
+      "catalogCount": 5
+    },
+    "Daug": {
+      "catalog": [
+        "x-x-12-11-11-10"
+      ],
+      "catalogCount": 1
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "No Particular Place To Go",
+  "id": "259564a45859ea1bae275764737c3ee6dfe6e21ec6b0534eb179068cc19770fd",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 220,
+  "normalizedKey": "chuck berry|no particular place to go",
+  "playableChords": [
+    "Daug",
+    "G7",
+    "C7",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 27,
+      "name": "Solo"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 63,
+      "name": "Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "259564a45859ea1bae275764737c3ee6dfe6e21ec6b0534eb179068cc19770fd",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "No Particular Place To Go",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

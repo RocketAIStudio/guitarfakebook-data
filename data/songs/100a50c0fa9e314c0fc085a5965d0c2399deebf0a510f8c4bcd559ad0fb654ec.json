@@ -1,0 +1,116 @@
+{
+  "artist": "Cage The Elephant",
+  "artistNormalized": "cage the elephant",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n\n[Post-Chorus]\n[Am]\n[Dm]\n[Am]\n[Dm]\n\n[Verse 1]\n[Am]Slowly drift across the floor,\n[Dm]can't escape from my\n[Am]mind Yet I feel like moving on,\n[Dm]but I’m stuck taking my\n[Am]time A window, a\n[Dm]sparrow, a spare room, a sha-\n[Am]dow Tied to the\n[Dm]place where I told you\n\n[Chorus]\n[C]I'm so sorry, honey,\n[Dm]for what I'm becoming\n[C]Everything you wanted\n[Dm]seems so far from me\n[C]Never meant to hurt you, no,\n[Dm]never meant to make you cry\n[C]I’m so sorry, honey,\n[Dm]for what I'm becoming\n\n[Post-Chorus]\n[Am]\n[Dm]\n[Am]\n[Dm]\n\n[Verse 2]\n[Am]Caught me walkin' through the walls,\n[Dm]still there's nothing I\n[Am]find Took the picture from the frame,\n[Dm]am I wasting my\n[Am]time? A stranger, the base-\n[Dm]ment, a table, the pave-\n[Am]ment Tied to the place\n[Dm]where I left you\n\n[Chorus]\n[C]I'm so sorry, honey,\n[Dm]for what I'm becoming\n[C]Everything you wanted\n[Dm]seems so far from me\n[C]Never meant to hurt you, no,\n[Dm]never meant to make you cry\n[C]I’m so sorry, honey,\n[Dm]for what I'm becoming\n\n[Bridge]\n[Em]Never meant to hurt you, no\n[Dm]Never meant to make you cry\n[Em]Never meant to hurt you, no\n[Dm]Never meant to hurt you\n\n[Chorus]\n[C]I'm so sorry, honey,\n[Dm]for what I'm becoming\n[C]Everything you wanted\n[Dm]seems so far from me\n[C]Never meant to hurt you, no,\n[Dm]never meant to make you cry\n[C]I’m so sorry, honey,\n[Dm]for what I'm becoming\n\n[Post-Chorus]\n[Am]\n[Dm]\n[Am]\n[Dm]\n[Am]\n[Dm]\n[Am]\n[Dm]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "679987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "What I'm Becoming",
+  "id": "100a50c0fa9e314c0fc085a5965d0c2399deebf0a510f8c4bcd559ad0fb654ec",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 267,
+  "normalizedKey": "cage the elephant|what i m becoming",
+  "playableChords": [
+    "Am",
+    "Dm",
+    "C",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Bridge"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Post-Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "100a50c0fa9e314c0fc085a5965d0c2399deebf0a510f8c4bcd559ad0fb654ec",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "What I'm Becoming",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

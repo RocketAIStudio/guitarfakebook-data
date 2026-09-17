@@ -1,0 +1,150 @@
+{
+  "artist": "Coldplay",
+  "artistNormalized": "coldplay",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[Em]  [Emmaj9]\n[Em]  [Fmaj9#11]\n[C#dim]\n[Cmaj7]\n\n[Interlude]\n[Gmaj7/D]\n[Em]\n[Gmaj7/D]\n[Em]\n[Gmaj7/D]\n[Em]\n[Gmaj7/D]\n[Em]\n\n[Verse 1]\n[Gmaj7/D]Did I drive you away?\n[Em]\n[Gmaj7/D]I know what you'll\n[Em]say, You say,\n[Amadd9]\"Oh,\nsing one we know\",\n[Gmaj7/D]\nBut I promise you this,\n[Em]\n[Gmaj7/D]I'll always look\n[Em]out for you,\n[Amadd9]\nThat's what I'll do.\n[Gmaj7/D]\nI say \"oh,\"\n\n[Chorus]\n[Em]  [Emmaj9]\n[Em]  [Fmaj9#11]\n[C#dim]\n[Cmaj7]I say \"oh.\"\n[Em]  [Emmaj9]\n[Em]  [Fmaj9#11]\n[C#dim]\n[Cmaj7]\n\n[Interlude]\n[Gmaj7/D]\n[Em]\n[Gmaj7/D]\n[Em]\n[Gmaj7/D]\n[Em]\n[Gmaj7/D]\n[Em]\n\n[Verse 2]\n[Gmaj7/D]My heart is yours,\n[Em]\n[Gmaj7/D]It's you that I\n[Em]hold on to,\n[Amadd9]\nThat's what I do,\n[Gmaj7/D]\nAnd I know I was wrong,\n[G]\n[Em]But I won't let you down,\n[D#aug]\n[Amadd9]Oh yeah,\n[C]yeah, yes I will\n[Gmaj7/D]\nI say \"oh,\"\n\n[Chorus]\n[Em]  [Emmaj9]\n[Em]  [Fmaj9#11]\n[C#dim]\n[Cmaj7]I say \"oh.\"\n[Em]  [Emmaj9]\n[Em]  [Fmaj9#11]\n[C#dim]\n[Cmaj7]And I saw\n\n[Outro]\n[Gmaj7/D]sparks,\n[Em]Yeah I saw\n[Gmaj7/D]sparks,\n[Em]And I saw\n[Gmaj7/D]sparks,\n[Em]Yeah I saw\n[Gmaj7/D]sparks,\n[Em]Sing it out.\n[Gmaj7/D]La, la, la,\n[Em]la, oh\n[Gmaj7/D]La, la, la,\n[Em]la, oh\nLa, la, la,\n[Gmaj7/D]la, oh\n[Em]La, la, la,\nla, oh\n[Gmaj7/D]",
+  "diagrams": {
+    "Amadd9": {
+      "catalog": [
+        "x47544"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C#dim": {
+      "catalog": [
+        "x420xx"
+      ],
+      "catalogCount": 1
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "D#aug": {
+      "catalog": [
+        "x6544x"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x75444",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Emmaj9": {
+      "catalog": [
+        "364333"
+      ],
+      "catalogCount": 1
+    },
+    "Fmaj9#11": {
+      "catalog": [
+        "x87666"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7/D": {
+      "catalog": [
+        "x5400x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sparks",
+  "id": "a76228494bcee8254213cb9bfabd254c997de71ea87f439bdd02698e4bcfd385",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 119,
+  "normalizedKey": "coldplay|sparks",
+  "playableChords": [
+    "Em",
+    "Emmaj9",
+    "Fmaj9#11",
+    "C#dim",
+    "Cmaj7",
+    "Gmaj7/D",
+    "Amadd9",
+    "G",
+    "D#aug",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Interlude"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a76228494bcee8254213cb9bfabd254c997de71ea87f439bdd02698e4bcfd385",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "Sparks",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

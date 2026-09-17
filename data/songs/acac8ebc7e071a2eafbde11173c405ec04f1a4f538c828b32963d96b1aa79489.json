@@ -1,0 +1,133 @@
+{
+  "artist": "Bright Eyes",
+  "artistNormalized": "bright eyes",
+  "capo": "7",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G]\n[C/G]\n[G]\n[C/G]\nI\n\n[Verse 1]\n[G]know that it is freezing But I\nthink we have to walk\n[C/G]\nKeep\n[G]waving at the taxis They keep\nturning the lights off\n[C/G]\nBut\n[Am]Julie knows a party at some\nactor's West Side loft\n[D]\nSupplies are\n[Am]endless in the [C]evening By the\n[Am]morning they'll [D]be gone\n[G]\nWhen\n\n[Verse 2]\n[G]everything is lonely I can\nbe my own best friend\n[C/G]\nI get a\n[G]coffee and the paper Have my\nown conversations\n[C/G]\nWith the\n[Am]sidewalk and the pigeons And my\nwindow reflection\n[D]\nThe mask i\n[Am]polish in the [C]evening By the\n[Am]morning looks [D]like shit\n[G]\nAnd I know\n\n[Chorus]\n[C]you have a hea-\nvy heart I can feel\n[G]it when we kiss\nSo\n[C]many men stronger\nthan me Have thrown their backs\n[G]out trying to lift\n[A7]it\nBut me\n[C]I'm not a gam-\n[Em]ble You can count\n[G]on me [D]to split\n[C]The love I\n[Am]sell you in the [C]evening By the\n[Am]morning won't [D]exi-\n[G]st\nYou\n\n[Verse 3]\n[G]looking skinny like a model With your\neyes all painted black\n[C/G]\nJust keep\n[G]going to the bathroom Only\nsay you'll be right back\n[C/G]\nWell it\n[Am]takes one to know one kid I think\nyou've got it bad\n[D]\nBut what's so\n[Am]easy in the [C]evening By the\n[Am]morning it's [D]such a\n[G]drag\nGot a\n[G]flask inside my pocket We can\nshare it on the train\n[C/G]\nAnd if you\n[G]promise to stay conscious I'll\ntry and do the same\n[C/G]\nWell we might\n[Am]die from medication But we\nsure killed all the pain\n[D]\nWhat was\n[Am]normal in the [C]evening By the\n[Am]morning seems [D]insane\n[G]\nAnd I'm not\n\n[Chorus]\n[C]sure what the troub-\nle was What\n[G]started all of this\nThe\n[C]reasons all have run\naway But the fee-\n[G]ling never did\n[A7]It's\nnot some\n[C]thing I would re-\n[Em]commend But it is\n[G]one way [D]to li-\n[C]ve\nCause what is\n[Am]simple in the [C]moonlight By the\n[Am]morning [D]never is\n[G]\nIt was simp-\n[Am]le in the [C]moonlight Now\n[Am]it's so [D]complicat-\n\n[Outro]\n[Em]ed\nIt was so\n[Am]simple in the [C]moonlight so\n[Am]simple in the [C]moonlight so\n[Am]simple in the [C]moonlight\n[G]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x05020",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lua",
+  "id": "acac8ebc7e071a2eafbde11173c405ec04f1a4f538c828b32963d96b1aa79489",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 405,
+  "normalizedKey": "bright eyes|lua",
+  "playableChords": [
+    "G",
+    "C/G",
+    "Am",
+    "D",
+    "C",
+    "A7",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 90,
+      "name": "Chorus"
+    },
+    {
+      "measure": 110,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "acac8ebc7e071a2eafbde11173c405ec04f1a4f538c828b32963d96b1aa79489",
+    "version": "BCFZ"
+  },
+  "tempo": 108,
+  "title": "Lua",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

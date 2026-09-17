@@ -1,0 +1,159 @@
+{
+  "artist": "Bruno Major",
+  "artistNormalized": "bruno major",
+  "capo": "No capo",
+  "chordPositionCount": 37,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[Gm7]  [Gbdim7]\n[Gm7]  [C]\n[F]  [A7]\n[Dm7]\n[Gm7]  [Gbdim7]\n[Gm7]  [C]\n[F]  [A7]\n[Dm7]\n\n[Verse 1]\n[Gm7]We were [Gbdim7]playing twen-\n[Gm7]ty one [C]In the\n[F]pitch black of a [A7]country night\n[Dm7]\n[Gm7]I was [Gbdim7]struck like a drum\n[Gm7][C]And I\n[F]rolled my eyes trying to [A7]sit tight\n[Dm7]I was dangerously\n\n[Chorus]\n[G7/B]tangled second time I\n[C]met you And\n[F]now I'm so [A7]impa-\n[Dm7]tient to a -\n[Gm7]dore [Am7]you\n[Bb]I crashed my car [C]\n\n[Bridge]\n[F]last night\n[Bb]\n[F]\n[Bb]\n\n[Verse 2]\n[Gm7]We were [Gbdim7]drinking warm\n[Gm7]wine [C]From\n[F]paper cups that we [A7]left out-\n[Dm7]side\n[Gm7]God, I [Gbdim7]wished you were mine\n[Gm7][C]As your\n[F]skin light up in the [A7]sunrise\n[Dm7]I was dangerously\n\n[Chorus]\n[G7/B]tangled second time I\n[C]met you And\n[F]now I'm so [A7]impa-\n[Dm7]tient to a -\n[Gm7]dore [Am7]you\n[Bb]I crashed my car [C]\n\n[Solo]\n[F]last night\n[Dm7]\n[C]  [Bb]\n[F]\n[Dm7]\n[Bb]\n[Gm7]\n[Bb]So [C]dangerously\n\n[Chorus]\n[G7/B]tangled second time I\n[C]met you And\n[F]now I'm so [A7]impa-\n[Dm7]tient to a -\n[Gm7]dore [Am7]you\n[Bb]I crashed my car [C]\n\n[Outro]\n[Gm7]last night [Gbdim7]\n[Gm7]  [C]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02213",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm7": {
+      "catalog": [
+        "xx0211",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G7/B": {
+      "catalog": [
+        "x2303x"
+      ],
+      "catalogCount": 1
+    },
+    "Gbdim7": {
+      "catalog": [
+        "2x121x"
+      ],
+      "catalogCount": 1
+    },
+    "Gm7": {
+      "catalog": [
+        "353333",
+        "x-x-5-7-6-6",
+        "x-10-12-10-11-10",
+        "15-17-15-15-15-15",
+        "x-22-24-22-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Second Time",
+  "id": "481d4579b84df164a16da013c69b103f55b10db0deb53e68c25b03a24c556d3c",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 156,
+  "normalizedKey": "bruno major|second time",
+  "playableChords": [
+    "Gm7",
+    "Gbdim7",
+    "C",
+    "F",
+    "A7",
+    "Dm7",
+    "G7/B",
+    "Am7",
+    "Bb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Solo"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "481d4579b84df164a16da013c69b103f55b10db0deb53e68c25b03a24c556d3c",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "Second Time",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

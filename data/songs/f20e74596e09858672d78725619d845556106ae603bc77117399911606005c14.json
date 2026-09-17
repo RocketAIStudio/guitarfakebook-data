@@ -1,0 +1,77 @@
+{
+  "artist": "Cream",
+  "artistNormalized": "cream",
+  "capo": "No capo",
+  "chordPositionCount": 3,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[A5]\n[D5]\n[A5]\n[E5]Strange brew,\n[D5]killing what's inside of you.\n[A5]\nShe's a\n\n[Verse 1]\n[A5]witch of trouble in e-\nlectric blue, In her\nown mad mind she's in\nlove with you. With you.\n[D5]\nNow what you gonna do?\n[A5]\n[E5]Strange brew,\n[D5]killing what's inside of you.\n[A5]\nShe's\n\n[Verse 2]\n[A5]some kind of demon dusting\nin the glue. If you\ndon't watch out it'll\nstick to you. To you.\n[D5]\nWhat kind of fool are you?\n[A5]\n[E5]Strange brew,\n[D5]killing what's inside of you.\n[A5]\n\n[Solo]\n[A5]\n[D5]\n[A5]\n[E5]\n[D5]\n[A5]\nOn a\n\n[Verse 3]\n[A5]boat in the middle of a\nraging sea, She would\nmake a scene for it\nall to be Ignored.\n[D5]\nAnd wouldn't you be bored?\n[A5]\n[E5]Strange brew,\n[D5]killing what's inside of you.\n[A5]\n\n[Outro]\n[A5]Strange brew\nStrange brew\n[D5]Strange brew\n[A5]Strange brew\n[E5]Strange brew,\n[D5]killing what's inside of you\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "xx023x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Strange Brew *alt",
+  "id": "f20e74596e09858672d78725619d845556106ae603bc77117399911606005c14",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 141,
+  "normalizedKey": "cream|strange brew",
+  "playableChords": [
+    "A5",
+    "D5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Solo"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 62,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f20e74596e09858672d78725619d845556106ae603bc77117399911606005c14",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "Strange Brew",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

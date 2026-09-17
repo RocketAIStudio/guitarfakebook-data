@@ -1,0 +1,86 @@
+{
+  "artist": "Coheed And Cambria",
+  "artistNormalized": "coheed and cambria",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Amadd9]\n[E5/B]  [Am/C]\n[Amadd9]\n[E5]  [F]\n[G/D]\n\n[Theme]\n[Amadd9]Na\n[E5/B]na [Am/C]na\n[Amadd9]na\n[E5]na [F]na\n[G/D]na\n[Amadd9]Na\n[E5/B]na [Am/C]na\n[Amadd9]na\n[E5]na [F]na\n[G/D]na\n[Amadd9]Na\n[E5/B]na [Am/C]na\n[Amadd9]na\n[E5]na [F]na\n[G/D]na\n[Amadd9]Na\n[E5/B]na [Am/C]na\n[Amadd9]na\n[E5]na [F]na\n[G/D]na\n[Amadd9]",
+  "diagrams": {
+    "Am/C": {
+      "catalog": [
+        "x3225x"
+      ],
+      "catalogCount": 1
+    },
+    "Amadd9": {
+      "catalog": [
+        "x02410"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "0224xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5/B": {
+      "catalog": [
+        "x2245x"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "13321x",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G/D": {
+      "catalog": [
+        "x55433"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The End Complete I: The Fall Of House Atlantic",
+  "id": "3023c4eb4aa7aa0ebcf386724602ec1214266f2b2ce2b3149336cee8d1cfcd3a",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 28,
+  "normalizedKey": "coheed and cambria|the end complete i the fall of house atlantic",
+  "playableChords": [
+    "Amadd9",
+    "E5/B",
+    "Am/C",
+    "E5",
+    "F",
+    "G/D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Theme"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3023c4eb4aa7aa0ebcf386724602ec1214266f2b2ce2b3149336cee8d1cfcd3a",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "The End Complete I: The Fall Of House Atlantic",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

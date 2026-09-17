@@ -1,0 +1,92 @@
+{
+  "artist": "BROCKHAMPTON",
+  "artistNormalized": "brockhampton",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Amaj7]\n\n[Verse]\n[Amaj7]Was I\nmore than it's worth Or will\n[A7]you see my\nname and I'll\n[Dmaj7]fade? Pitch my\ncamp in your mind\n[Dm/F]Sat by the fire,\nbehind your eyes And\n[Amaj7]I'll\nlook through them\n[A7]just once or twice But I\nmight see something I don't\n[Dmaj7]like\nLike your hands in his\n[Dm/F]shirt Entwined in\ncotton, his loving\n\n[Solo]\n[Amaj7]smirk\n[A7]\n[Dmaj7]\n[Dm/F]\n\n[Chorus]\n[Amaj7]Losing my\nway, ohh\n[A7]Seeing your\nname But I'll be\n[Dmaj7]fine, Yeah\nyeah yeah\n[Dm/F]Yeah yeah yeah\nYeah yeah yeah yeah\n[Amaj7]yeah Losing my\nway, ohh\n[A7]Seeing your\nname But I'll be\n[Dmaj7]fine, Yeah\nyeah yeah\n[Dm/F]Yeah yeah yeah\nYeah yeah yeah yeah\n\n[Outro]\n[Amaj7]yeah\n[A7]\n[Dmaj7]\n[Dm/F]\n[Amaj7]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Amaj7": {
+      "catalog": [
+        "x02120",
+        "5-4-2-2-2-4",
+        "5-7-6-6-5-5",
+        "x-x-7-9-9-9",
+        "x-12-11-9-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Dm/F": {
+      "catalog": [
+        "xx323x"
+      ],
+      "catalogCount": 1
+    },
+    "Dmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9",
+        "10-12-11-11-10-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "WASTE",
+  "id": "58fb3647ffa00e4931148df15acb9875a3f8a54dfd654439f77da909558df4e1",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 110,
+  "normalizedKey": "brockhampton|waste",
+  "playableChords": [
+    "Amaj7",
+    "A7",
+    "Dmaj7",
+    "Dm/F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse"
+    },
+    {
+      "measure": 18,
+      "name": "Solo"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "58fb3647ffa00e4931148df15acb9875a3f8a54dfd654439f77da909558df4e1",
+    "version": "BCFZ"
+  },
+  "tempo": 60,
+  "title": "WASTE",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

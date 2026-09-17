@@ -1,0 +1,114 @@
+{
+  "artist": "Creedence Clearwater Revival",
+  "artistNormalized": "creedence clearwater revival",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am]\n[F]\n[C]\n[G]\n[C]\n\n[Verse 1]\nSomeone told me\nlong ago\nthere's a calm before\nthe storm I\nknow [G]\nIt's been coming\nfor some time [C]\nWhen it's over\nso they say\nit will rain a\nsunny day I\nknow [G]\nshining down like\nwater\n\n[Chorus]\n[F]I\nwanna know [G]have you ever\n[C]seen [C/B]\nthe rain [Am][Am/G]\n[F]I\nwanna know [G]have you ever\n[C]seen [C/B]\nthe rain [Am][Am/G]\n[F]coming\ndown on a sunny [G]\nday [C]\n\n[Verse 2]\nYesterday and\ndays before\nsun is calm and\nrain is hard I\nknow [G]\nbeen that way for\nall my time [C]\n'Til forever\non it goes\nthrough the circle\nfast and slow I\nknow [G]\nit can't stop I\nwonder\n\n[Chorus]\n[F]I\nwanna know [G]have you ever\n[C]seen [C/B]\nthe rain [Am][Am/G]\n[F]I\nwanna know [G]have you ever\n[C]seen [C/B]\nthe rain [Am][Am/G]\n[F]coming\ndown on a sunny [G]\nday [C]\nYeah!!!\n\n[Chorus]\n[F]I\nwanna know [G]have you ever\n[C]seen [C/B]\nthe rain [Am][Am/G]\n[F]I\nwanna know [G]have you ever\n[C]seen [C/B]\nthe rain [Am][Am/G]\n[F]coming\ndown on a sunny [G]\nday [C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am/G": {
+      "catalog": [
+        "302210"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/B": {
+      "catalog": [
+        "x22010"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Have You Ever Seen The Rain *alt",
+  "id": "c73fb9c641f0f810958754bdd8a8f1a0f0756a528236c8bf8ced764c8bd6aa1d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 73,
+  "normalizedKey": "creedence clearwater revival|have you ever seen the rain",
+  "playableChords": [
+    "Am",
+    "C",
+    "G",
+    "F",
+    "C/B",
+    "Am/G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gp3",
+    "sha256": "c73fb9c641f0f810958754bdd8a8f1a0f0756a528236c8bf8ced764c8bd6aa1d",
+    "version": "FICHIER GUITAR PRO v3.00"
+  },
+  "tempo": 113,
+  "title": "Have You Ever Seen The Rain",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

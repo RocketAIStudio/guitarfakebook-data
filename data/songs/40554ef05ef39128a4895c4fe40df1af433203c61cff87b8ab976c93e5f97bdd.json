@@ -1,0 +1,145 @@
+{
+  "artist": "Cocoon",
+  "artistNormalized": "cocoon",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G]\n[Em]\n[Bm]\n[D7]\n[G]\n[Em]\n[Bm]\n[D7]\n\n[Verse 1]\n[G]We have gone to the coun-\n[Em]try In your old\n[Bm]car.\n[D7]\n[G]We have lost our way\n[Em]So many\n[Bm]times.\n[D7]\n\n[Chorus]\n[C]Hello!\n[Am]Hello! I\n[G]take you on a trip.\n[Bm]\n[C]Hello!\n[Am]Hello! I\n[G]take you on a [D]trip.\naa\n\n[Bridge]\n[G]\n[Em]\n[Bm]\n[D]\n[G]\n[Em]\n[Bm]\n[D]\n\n[Verse 2]\n[G]Eating your ChupaChups;\n[Em]\n[Bm]A plane is making a loop;\n[D]The\n[G]beavers are so cute;\n[Em]A\n[Bm]tree gave me a fruit.\n[D]ouh ouh\n\n[Chorus]\n[C]Hello!\n[Am]Hello! I\n[G]take you on a trip.\n[Bm]\n[C]Hello!\n[Am]Hello! I\n[G]take you on a [D]trip.\n\n[Bridge]\n[G]\n[Em]\n[Bm]\n[D]\n[G]\n[Em]\n[Bm]\n[D]\n\n[Chorus]\n[C]Hello!\n[Am]Hello! I\n[G]take you on a trip.\n[Bm]\n[C]Hello!\n[Am]Hello! I\n[G]take you on a trip.\n[D]\n\n[Outro]\n[C]Hello! Hello!\n[Am]Hello! Hello!\n[G]Hello! Hello!\n[Bm]Hello! Hello!\n[C]Hello! Hello!\n[Am]Hello! Hello!\n[G]Hello! Hello!\n[Bm]Hello! Hello!\n[C]Hello! Hello!\n[Am]Hello! Hello!\n[G]Hello! Hello!\n[Bm]Hello! Hello!\n[C]Hello! Hello!\n[Am]Hello! Hello!\n[G]Hello! Hello!\n[Bm]Hello! Hello!\n[C]Oh\n[Am]\n[G]\n[D]\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Chupee",
+  "id": "40554ef05ef39128a4895c4fe40df1af433203c61cff87b8ab976c93e5f97bdd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 174,
+  "normalizedKey": "cocoon|chupee",
+  "playableChords": [
+    "G",
+    "Em",
+    "Bm",
+    "D7",
+    "C",
+    "Am",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "40554ef05ef39128a4895c4fe40df1af433203c61cff87b8ab976c93e5f97bdd",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Chupee",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

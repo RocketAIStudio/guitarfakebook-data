@@ -1,0 +1,84 @@
+{
+  "artist": "Citizen",
+  "artistNormalized": "citizen",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F]\n[F]\n[C/E]\n[Dm/A]\n[A#sus2]\n[F]\n[C/E]\n[Dm/A]\n[A#sus2]\n\n[Verse 1]\n[F]And I hear you've\nended up fi-\n[C/E]ne.\n[Dm/A]And I've heard you're ma-\nking out alri-\n[A#sus2]ght.\n[F]I've heard you sti-\nll don't like the co-\n[C/E]ld outsi-\nde, And I've hea-\n[Dm/A]rd you still got trou-\nble tracking ti-\n[A#sus2]me.\n\n[Bridge]\n[F]\n[C/E]\n[Dm/A]\n[A#sus2]\n[F]\n[C/E]\n[Dm/A]\n[A#sus2]\n\n[Verse 2]\n[F]And I heard you\nsaid one ti-\n[C/E]me,\nThat I ne-\n[Dm/A]ver even fu-\ncking cross your mi-\n[A#sus2]nd.\n[F]And I guess I'll a-\nct like that's fi-\n[C/E]ne,\nBut you should kno-\n[Dm/A]w that you cro-\nss mine all the ti-\n[A#sus2]me.\n\n[Outro]\n[F]\n[C/E]\n[Dm/A]\n[A#sus2]\n[F]\n[C/E]\n[Dm/A]\n[A#sus2]\n[F]\n[C/E]\n[Dm/A]\n[A#sus2]\n[F]\n[C/E]\n[Dm/A]\n[A#sus2]",
+  "diagrams": {
+    "A#sus2": {
+      "catalog": [
+        "x13311"
+      ],
+      "catalogCount": 1
+    },
+    "C/E": {
+      "catalog": [
+        "032013"
+      ],
+      "catalogCount": 1
+    },
+    "Dm/A": {
+      "catalog": [
+        "x00231"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tracking Time",
+  "id": "efd4d592a60914b52dd7691a8e2ce7d599ecae171e60574d8588709c4fdf3ed5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 92,
+  "normalizedKey": "citizen|tracking time",
+  "playableChords": [
+    "F",
+    "C/E",
+    "Dm/A",
+    "A#sus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Bridge"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "efd4d592a60914b52dd7691a8e2ce7d599ecae171e60574d8588709c4fdf3ed5",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "Tracking Time",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

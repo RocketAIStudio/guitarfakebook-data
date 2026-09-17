@@ -1,0 +1,100 @@
+{
+  "artist": "Buddy Holly",
+  "artistNormalized": "buddy holly",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n[E7]\n\n[Verse 1]\n[A]Think it o ver what\nyou've just said\nThink it o ver in your\npretty little head\n[D]Are you sure that I'm\nnot the one?\n[A]Is your love real or\nonly fun? You think it o\n[E7]ver Yes, think it o\n[D7]ver A lonely\n[A]heart grows cold and old\n[E7]\n\n[Verse 2]\n[A]Think it o ver and\nlet me know\nThink it o ver but\ndon't be slow\n[D]Just remem ber all\nbirds and bees\n[A]Go by twos through life's\nmysteries You think it o\n[E7]ver Yes, think it o\n[D7]ver A lonely\n[A]heart grows cold and old\n[E7]\n\n[Interlude]\n[A]\n[D7]\n[A]\n[E7]\n[D7]\n[A]  [D]\n[A]  [E7]\n\n[Verse 3]\n[A]Think it o ver and\nthink of me\nThink it o ver and\nyou will see\n[D]A happy day when you\nand I\n[A]Think as one and kiss the\nblues goodbye You think it o\n[E7]ver Yes, think it o\n[D7]ver A lonely\n[A]heart grows cold and old\n[E7]\n\n[Outro]\n[A]Think it o ver\nThink it o ver",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Think It Over",
+  "id": "80c7a516f27a9e0312cc8d2f32296632952e1287d9f676531dabec89d8595118",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 177,
+  "normalizedKey": "buddy holly|think it over",
+  "playableChords": [
+    "A",
+    "E7",
+    "D",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Interlude"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 54,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "80c7a516f27a9e0312cc8d2f32296632952e1287d9f676531dabec89d8595118",
+    "version": "BCFZ"
+  },
+  "tempo": 131,
+  "title": "Think It Over",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

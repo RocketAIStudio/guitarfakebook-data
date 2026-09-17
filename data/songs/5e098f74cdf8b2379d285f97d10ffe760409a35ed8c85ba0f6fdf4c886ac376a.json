@@ -1,0 +1,111 @@
+{
+  "artist": "Buddy Holly",
+  "artistNormalized": "buddy holly",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "Send me some\n\n[Verse 1]\n[E]loving,\nsend it I\n[B7]pray\nHow can I\nlove you\nwhen you're\nfar a-\n[E]way\n[A]  [Am]\n[E]\nSend me your\n\n[Verse 2]\n[E]picture,\nsend it my\n[B7]dear\nSo I can\nhold it,\npretend\nyou are\n[E]near\n[A]  [Am]\n[E]Can't you\nsend me your kis\n\n[Chorus]\n[A]ses,\nI can\nfeel their\n[E]touch\nI need\nyou so\n[F#7]badly,\nI miss\nyou so\n[B7]much\nMy\ndays are so lone\n\n[Verse 3]\n[E]ly,\nmy ni-\nghts are so\n[B7]blue\nI'm here and\nlone ly,\nI'm wai\nting for\n[E]you\n[A]  [Am]\n[E]Can't you\nsend me your kis\n\n[Chorus]\n[A]ses,\nI can\nfeel their\n[E]touch\nI need\nyou so\n[F#7]badly,\nI miss\nyou so\n[B7]much\nMy\ndays are so lone\n\n[Verse 4]\n[E]ly,\nmy ni-\nghts are so\n[B7]blue\nI'm here and\nlone ly,\nI'm wai\nting for\n[E]you\n[A]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "244320",
+        "2-4-2-3-2-2",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Send Me Some Lovin'",
+  "id": "5e098f74cdf8b2379d285f97d10ffe760409a35ed8c85ba0f6fdf4c886ac376a",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 138,
+  "normalizedKey": "buddy holly|send me some lovin",
+  "playableChords": [
+    "E",
+    "B7",
+    "A",
+    "Am",
+    "F#7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    },
+    {
+      "measure": 82,
+      "name": "Verse 4"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5e098f74cdf8b2379d285f97d10ffe760409a35ed8c85ba0f6fdf4c886ac376a",
+    "version": "BCFZ"
+  },
+  "tempo": 114,
+  "title": "Send Me Some Lovin'",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,106 @@
+{
+  "artist": "Coldplay",
+  "artistNormalized": "coldplay",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[G]Honey you\n[Dsus2/F#]are a rock\n[Am]\n[G]Upon\n[Dsus2/F#]which I stand\n[Am]\n[G]And I come\n[Dsus2/F#]here to talk\n[Am]\n[G]I hope you\n[Dsus2/F#]understand\n[Am]\nThat\n\n[Chorus]\n[Am]green eyes\nYeah the spot-\n[Cadd9]light,\nshines u-\n[G]pon you\n[Dsus2/F#]\nAnd\n[Am]how could\nanybo-\n[Cadd9]dy\ndeny\n[G]you\n[Dsus2/F#]\n[Am]I\ncame here with a load\n[Cadd9]And\nit feels so much light-\n[G]er\n[F]Now I met\n[Cadd9]you\n[Am]And\nhoney you should know\n[Cadd9]That\nI could never go\n[G]on\n[F]without\n[Cadd9]you\n[Am]Green eyes\n\n[Verse 2]\n[G]Honey you\n[Dsus2/F#]are the sea\n[Am]\n[G]Upon\n[Dsus2/F#]which I float\n[Am]\n[G]And I came\n[Dsus2/F#]here to talk\n[Am]\n[G]I think you\n[Dsus2/F#]should know\n[Am]\nThat\n\n[Chorus]\n[Am]green eyes\nYou're the one\n[Cadd9]that I\nwanted to find\n[G]\n[Dsus2/F#]\nAnd anyone\n[Am]who\ntried to deny\n[Cadd9]you Must\nbe out of their mind\n[G]\n[Dsus2/F#]\n[Am]Because I\ncame here with a load\n[Cadd9]And\nit feels so much light-\n[G]er\n[F]Since I met\n[Cadd9]you\n[Am]\nHoney you should know\n[Cadd9]That\nI could never go\n[G]on\n[F]without\n[Cadd9]you\n[Am]Green eyes\n[Cadd9]Green eyes\nOh oh oh oh\n[G]\nOh oh oh oh\n[Cadd9]\nOh oh oh oh\n[Am]\nOh oh oh oh\n\n[Outro]\n[G]Honey you\n[Dsus2/F#]are a rock\n[Am]\n[G]Upon\n[Dsus2/F#]which I stand\n[Asus4]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32030"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2/F#": {
+      "catalog": [
+        "200230"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Green Eyes *alt",
+  "id": "aae69c32a18ff6227691a365745644b956e3eba5e67cedd41ccbf2095f16f1a2",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 194,
+  "normalizedKey": "coldplay|green eyes",
+  "playableChords": [
+    "G",
+    "Dsus2/F#",
+    "Am",
+    "Cadd9",
+    "F",
+    "Asus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 111,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "aae69c32a18ff6227691a365745644b956e3eba5e67cedd41ccbf2095f16f1a2",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Green Eyes",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

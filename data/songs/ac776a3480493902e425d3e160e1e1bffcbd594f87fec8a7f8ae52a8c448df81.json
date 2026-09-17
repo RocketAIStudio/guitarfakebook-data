@@ -1,0 +1,104 @@
+{
+  "artist": "Bring Me The Horizon",
+  "artistNormalized": "bring me the horizon",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro 1]\n[Abm]\n[Ebm]\n[Abm]\n[Ebm]\n\n[Intro 2]\n[Abm]Don't you try to\nfuck with me\n[Ebm]Don't you hide your\nlove\n[Abm]Don't you try to\nfuck with me\n[Ebm]Don't you hide your\nlove\n[Abm]Don't you try to\nfuck with me\n[Ebm]\n[Abm]Don't you try to\nfuck with me\n[Ebm]\n[Abm]Don't you try to\nfuck with me\n[Ebm]Don't you hide your\nlove\n\n[Verse]\n[Ebm]\n\n[Chorus]\n[Ebm]Don't you try to\nfuck with [Abm]me\n[B]Don't you hide your\nlove [Db]\n[Ebm]Don't you try to\nfuck with [Abm]me\n[B]Don't you hide your\nlove [Db]\n[Ebm]Don't you try to\nfuck with [Abm]me\n[B]Don't you hide your\nlove [Db]\n[Ebm]Don't you try to\nfuck with [Abm]me\n[B]Don't you hide your\nlove [Db]\n\n[Break]\n[Abm]\n[Ebm]\n[Abm]\n[Ebm]\n[Abm]Don't you try to\nfuck with me\n[Ebm]Don't you hide your\nlove\n\n[Chorus]\n[Ebm]Don't you\n[Abm]\n[B]\n[Db]\n[Ebm]Don't you\n[Abm]\n[B]\n[Db]\n[Ebm]Don't you try to\nfuck with [Abm]me\n[B]Don't you hide your\nlove [Db]\n[Ebm]Don't you try to\nfuck with [Abm]me\n[B]Don't you hide your\nlove [Db]\n\n[Outro]\n[Ebm]",
+  "diagrams": {
+    "Abm": {
+      "catalog": [
+        "466444",
+        "x-x-6-8-9-7",
+        "x-11-13-13-12-11",
+        "16-18-18-16-16-16",
+        "x-x-18-20-21-19"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Ebm": {
+      "catalog": [
+        "x68876",
+        "x-x-1-3-4-2",
+        "11-13-13-11-11-11",
+        "x-x-13-15-16-14",
+        "x-18-20-20-19-18"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "fresh bruises",
+  "id": "ac776a3480493902e425d3e160e1e1bffcbd594f87fec8a7f8ae52a8c448df81",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 138,
+  "normalizedKey": "bring me the horizon|fresh bruises",
+  "playableChords": [
+    "Abm",
+    "Ebm",
+    "B",
+    "Db"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 9,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 29,
+      "name": "Verse"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Break"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ac776a3480493902e425d3e160e1e1bffcbd594f87fec8a7f8ae52a8c448df81",
+    "version": "BCFZ"
+  },
+  "tempo": 117,
+  "title": "fresh bruises",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

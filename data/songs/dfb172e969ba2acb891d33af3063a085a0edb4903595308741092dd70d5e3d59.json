@@ -1,0 +1,74 @@
+{
+  "artist": "Brian Wilson",
+  "artistNormalized": "brian wilson",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n[Ab]\n[Db]\n\n[Verse 1]\n[Ab]Out in the barnyard, the\nchickens do their number\n[Db]Out in the barnyard, the\ncook is chopping lumber\n\n[Intrelude]\n[Ab]\n[Db]\n[Ab]\n[Db]\n\n[Verse 2]\n[Ab]Jump in the ppigpen, next\ntime I'll take my shoues off\n[Db]Hit the dirt doing two and a half, next\ntime I leave my hat on\n\n[Intrelude]\n[Ab]\n[Db]\n[Ab]\n[Db]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "466544",
+        "4-3-1-1-1-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Barnyard",
+  "id": "dfb172e969ba2acb891d33af3063a085a0edb4903595308741092dd70d5e3d59",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 50,
+  "normalizedKey": "brian wilson|barnyard",
+  "playableChords": [
+    "Ab",
+    "Db"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 23,
+      "name": "Intrelude"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dfb172e969ba2acb891d33af3063a085a0edb4903595308741092dd70d5e3d59",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Barnyard",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

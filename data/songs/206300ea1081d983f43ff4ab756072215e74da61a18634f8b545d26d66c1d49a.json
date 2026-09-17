@@ -1,0 +1,116 @@
+{
+  "artist": "Boyce Avenue",
+  "artistNormalized": "boyce avenue",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[A#m7]\n[F#sus2]\n[C#]\n[G#sus4]\n[A#m7]\n\n[Chorus]\nSay something,\n[F#sus2]I'm giving\nup on you\n[C#]\n[G#sus4]\n[A#m7]\nI'll be the\n[F#sus2]one if you\nwant me to\n[C#]\n[G#sus4]\n[A#m7]\nAnywhere\n[F#sus2]I would've\nfollowed you\n[C#]\n[G#sus4]\n[A#m7]\nSay something,\n[F#sus2]I'm giving\nup on you\n[C#]\n[G#sus4]\n\n[Verse 1]\nAnd\n[C#]I...\nam\nfeeling so\n[C#/F]small\nIt was\n[F#sus2]over my\nhead\nI know\nnothing at\n[C#]all\n[G#sus4/C]\nAnd\n[C#]I...\nwill\nstumble and\n[C#/F]fall\nI'm still\n[F#sus2]learning to\nlove\nJust\nstarting to\n[C#]crawl\n[G#sus4/C]\n[A#m7]\n\n[Chorus]\nSay something,\n[F#sus2]I'm giving\nup on you\n[C#]\n[G#sus4/C]\n[A#m7]I'm\nsorry that\n[F#sus2]I couldn't\nget to you\n[C#]\n[G#sus4/C]\n[A#m7]\nAnywhere\n[F#sus2]I would've\nfollowed you\n[C#]\n[G#sus4/C]\n[A#m7]\nSay something,\n[F#sus2]I'm giving\nup on you\n[C#]\n[G#sus4/C]\n\n[Verse 2]\nAnd\nI...\nwill\nswallow my\n[C#/F]pride\nYou're the\n[F#sus2]one that I\nlove\nAnd I'm\nsaying good-\n[C#]bye\n[C#6]\n\n[Chorus]\nSay something,\n[F#sus2]I'm giving\nup on you\n[C#]\n[G#sus4/C]\n[C#6]I'm\nsorry that\n[F#sus2]I couldn't\nget to you\n[C#]\n[G#sus4/C]\n[C#6]\nAnywhere\n[F#sus2]I would've\nfollowed you\n[C#]\n[G#sus4/C]\n[C#6]\nSay something,\n[F#sus2]I'm giving\nup on you\n[C#]\n[G#sus4/C]\n[C#6]\n\n[Outro]\nSay something,\nI'm giving\nup on you\n[A#m7]\nSay something...\n[F#sus2]\n[C#]",
+  "diagrams": {
+    "A#m7": {
+      "catalog": [
+        "988888",
+        "x2400x"
+      ],
+      "catalogCount": 2
+    },
+    "C#": {
+      "catalog": [
+        "xx0000",
+        "00400x",
+        "004000",
+        "000000",
+        "x-4-3-1-2-1"
+      ],
+      "catalogCount": 5
+    },
+    "C#/F": {
+      "catalog": [
+        "40400x"
+      ],
+      "catalogCount": 1
+    },
+    "C#6": {
+      "catalog": [
+        "024000"
+      ],
+      "catalogCount": 1
+    },
+    "F#sus2": {
+      "catalog": [
+        "x-10-9-9-9-9",
+        "50500x",
+        "505000"
+      ],
+      "catalogCount": 3
+    },
+    "G#sus4": {
+      "catalog": [
+        "x00000"
+      ],
+      "catalogCount": 1
+    },
+    "G#sus4/C": {
+      "catalog": [
+        "x4200x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Say Something",
+  "id": "206300ea1081d983f43ff4ab756072215e74da61a18634f8b545d26d66c1d49a",
+  "key": "C♯",
+  "keyIdentified": true,
+  "lyricEventCount": 178,
+  "normalizedKey": "boyce avenue|say something",
+  "playableChords": [
+    "A#m7",
+    "F#sus2",
+    "C#",
+    "G#sus4",
+    "C#/F",
+    "G#sus4/C",
+    "C#6"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 78,
+      "name": "Chorus"
+    },
+    {
+      "measure": 108,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 126,
+      "name": "Chorus"
+    },
+    {
+      "measure": 158,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "206300ea1081d983f43ff4ab756072215e74da61a18634f8b545d26d66c1d49a",
+    "version": "BCFZ"
+  },
+  "tempo": 141,
+  "title": "Say Something",
+  "tuning": "C# G# C# G# C# C#",
+  "variantRole": "primary"
+}

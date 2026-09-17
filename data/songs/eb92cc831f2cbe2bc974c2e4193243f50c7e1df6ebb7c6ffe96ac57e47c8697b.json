@@ -1,0 +1,87 @@
+{
+  "artist": "Circle Jerks",
+  "artistNormalized": "circle jerks",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[A5]I'm [E5]innocent [A5][E5]Un-\n[A5]til I'm [E5]proven [A5]guilty [E5]De-\n[C5]ny [C5][F5]everything, de-\nny [C5][F5]everything I'm\n[A5]being [E5]framed [A5][E5]It's\n[A5]all a [E5]setup [A5][E5]De-\n[C5]ny [C5][F5]everything, de-\nny [C5][F5]everything I'm\n\n[Chorus]\n[G5]just a spoke in the wheel [C5][A#5]\n[G5]Just a part of the puzzle [C5][A#5]\n[G5]A part of the game [C5][A#5]I'm\n[G5]being framed [C5][A#5]\n\n[Verse 2]\n[E5][A5]Innocent [A5][E5]Un-\n[A5]til I'm [E5]proven [A5]guilty [E5]De-\n[C5]ny [C5][F5]everything, de-\nny [C5][F5]everything De-\nny [C5][F5]everything, de-\nny [C5][F5]everything",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x",
+        "x355xx"
+      ],
+      "catalogCount": 2
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Deny Everything",
+  "id": "eb92cc831f2cbe2bc974c2e4193243f50c7e1df6ebb7c6ffe96ac57e47c8697b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 88,
+  "normalizedKey": "circle jerks|deny everything",
+  "playableChords": [
+    "A5",
+    "E5",
+    "C5",
+    "F5",
+    "G5",
+    "A#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "eb92cc831f2cbe2bc974c2e4193243f50c7e1df6ebb7c6ffe96ac57e47c8697b",
+    "version": "BCFZ"
+  },
+  "tempo": 191,
+  "title": "Deny Everything",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

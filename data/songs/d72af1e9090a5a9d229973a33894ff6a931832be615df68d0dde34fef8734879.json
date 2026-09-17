@@ -1,0 +1,112 @@
+{
+  "artist": "Crosby, Stills, Nash & Young",
+  "artistNormalized": "crosby stills nash young",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n[G]\n[D]\n[A]\n\n[Verse 1]\n[D]You,\nwho are on the roa-\n[G]d\nMust have a co-\n[D]de\nThat you can\n[A]live by\nAnd\n[D]so\nBecome your-\n[G]self\nBecause the pa-\n[D]st\nIs just a goo-\n[A]dbye\n\n[Chorus]\n[D]Teach\nyour children\n[G]well\nYour father's\n[D]hell\ndid slowly go\n[A]by\nAnd\n[D]feed\nthem on your\n[G]dreams\nThe one they\n[D]picked\nThe one you'll know\n[A]by\n\n[Post-Chorus]\n[D]Don't you e-\nver ask them\n[G]why If they\ntold you, you would\n[D]cry So just\nlook at them and\n[Bm]sigh\n[G]\n[A]And know they\n\n[Bridge]\n[D]love you\n[G]\n[D]\n[A]\nAnd\n\n[Verse 2]\n[D]you\nof tender yea-\n[G]rs\nCan't know the\n[D]fears\nThat your elders grew\n[A]by\nAnd so plea-\n[D]se help\nThem with you-\n[G]r youth\nThey seek the\n[D]truth\nBefore they ca-\n[A]n die\n\n[Chorus]\n[D]Teach\nyour parents\n[G]well\nThe children's\n[D]hell\nWill slowly go\n[A]by\nAnd\n[D]feed\nthem on your\n[G]dreams\nThe one they\n[D]picked\nThe one you'll know\n[A]by\n\n[Post-Chorus]\n[D]Don't you e-\nver ask them\n[G]why If they\ntold you, you would\n[D]cry So just\nlook at them and\n[Bm]sigh\n[G]\n[A]And know they\n\n[Outro]\n[D]love you.\n[G]\n[D]\n[A]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Teach Your Children",
+  "id": "d72af1e9090a5a9d229973a33894ff6a931832be615df68d0dde34fef8734879",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 181,
+  "normalizedKey": "crosby stills nash young|teach your children",
+  "playableChords": [
+    "D",
+    "G",
+    "A",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Bridge"
+    },
+    {
+      "measure": 60,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 76,
+      "name": "Chorus"
+    },
+    {
+      "measure": 92,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 102,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d72af1e9090a5a9d229973a33894ff6a931832be615df68d0dde34fef8734879",
+    "version": "BCFZ"
+  },
+  "tempo": 157,
+  "title": "Teach Your Children",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,139 @@
+{
+  "artist": "Coldplay",
+  "artistNormalized": "coldplay",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[F#madd11]\n[E6]\n[F#madd11]\n[E6]\nI wanna live\n\n[Verse 1]\n[F#madd11]life\nand never be cruel\n[E6]\nI wanna live\n[F#madd11]life\nand be good to\n[E6]you\n[Bmadd9]I wanna fly\n[F#madd11]\nand never come down\n[E6]\nAnd [Bmadd9]live my\n[F#madd11]life\nand have friends around\n[E6]\n\n[Chorus]\n[Aadd9]\nWe never change, do we?\n[C#m7]\nno, no\n[Aadd9]\nWe never learn, do we?\n[C#m7]\nSo [Bmadd9]I wanna live\n\n[Verse 2]\n[F#madd11]\nin a wooden\n[E6]house\nI wanna live\n[F#madd11]life\nand always\n[E6]be true\nI wanna live\n[F#madd11]life\nand be good to\n[E6]you\nI [Bmadd9]wanna fly\n[F#madd11]\nand never come down\n[E6]\nAnd [Bmadd9]live my\n[F#madd11]life\nand have friends around\n[E6]\n\n[Chorus]\n[Aadd9]\nWe never change, do we?\n[C#m7]\nno, no\n[Aadd9]\nWe never learn, do we?\n[C#m7]\nSo [Bmadd9]I wanna live\n\n[Verse 3]\n[F#madd11]\nin a wooden\n[E6]house\nWhere [Bmadd9]making more\n[F#madd11]friends\nwould be easy\n[E6]\n\n[Bridge]\n[Bm9][B7sus2]Oh, and I\n[Bm9]don't have a [B7sus2]soul to save\n[E6]\n[Bm9][B7sus2]Yes, and I\n[Bm9]sin every [B7sus2]single\n[E6]day\n\n[Chorus]\n[Bmadd9]\n[F#madd11]We never change, do we?\n[E6]\n[Bmadd9]\n[F#madd11]We never learn, do we?\n[E6]\nSo\n\n[Outro]\n[Bmadd9]I wanna live [F#madd11]in a wood-\n[E6]en [Bmadd9]house Where\nmaking more friends [F#madd11]would be\n[Badd9][D]easy\n[Bmadd9]I wanna live [F#madd11]where the sun\n[E6]comes [Bmadd9]out",
+  "diagrams": {
+    "Aadd9": {
+      "catalog": [
+        "577644"
+      ],
+      "catalogCount": 1
+    },
+    "B7sus2": {
+      "catalog": [
+        "7x7655"
+      ],
+      "catalogCount": 1
+    },
+    "Badd9": {
+      "catalog": [
+        "799866"
+      ],
+      "catalogCount": 1
+    },
+    "Bm9": {
+      "catalog": [
+        "7x7766"
+      ],
+      "catalogCount": 1
+    },
+    "Bmadd9": {
+      "catalog": [
+        "799766"
+      ],
+      "catalogCount": 1
+    },
+    "C#m7": {
+      "catalog": [
+        "9-11-11-9-8-8",
+        "x-4-6-4-5-4",
+        "9-11-9-9-9-9",
+        "x-x-11-13-12-12",
+        "x-16-18-16-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "10-12-12-11-x-x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E6": {
+      "catalog": [
+        "022100"
+      ],
+      "catalogCount": 1
+    },
+    "F#madd11": {
+      "catalog": [
+        "244200"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "We Never Change",
+  "id": "d7fcd4667600c343c169e59c9803dd222ad096886f78f2299c39fb676f3b3940",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 191,
+  "normalizedKey": "coldplay|we never change",
+  "playableChords": [
+    "F#madd11",
+    "E6",
+    "Bmadd9",
+    "Aadd9",
+    "C#m7",
+    "Bm9",
+    "B7sus2",
+    "D",
+    "Badd9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 69,
+      "name": "Bridge"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d7fcd4667600c343c169e59c9803dd222ad096886f78f2299c39fb676f3b3940",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "We Never Change",
+  "tuning": "E A D G B C#",
+  "variantRole": "primary"
+}

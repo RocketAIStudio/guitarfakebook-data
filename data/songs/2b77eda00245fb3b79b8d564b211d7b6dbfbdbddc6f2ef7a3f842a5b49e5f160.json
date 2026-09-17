@@ -1,0 +1,108 @@
+{
+  "artist": "Chris Stapleton",
+  "artistNormalized": "chris stapleton",
+  "capo": "1",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]Seen my\nshare of\n[G][Cadd9]broken ha\nlos,\n[G][Em7]Folded\nwings that\n[Cadd9]used to [G]fly,\n\n[Verse 1]\n[G]They've all\ngone\n[G][Cadd9]wherever they\ngo,\n[G][Em7]Broken\nhalos that\n[Cadd9]used to [G]shine.\n\n[Bridge 1]\n[Em7]  [G]\n[Cadd9]  [G]\n\n[Verse 2]\n[G]Angels\ncome down\n[Cadd9]from [G]the\nheavens\n[Em7]Just [G]to\nhelp us\n[Cadd9]on our [G]way,\n[G]Come to\nteach us,\n[Cadd9]then [G]they\nleave us\n[Em7]And they find [G]some\nother\n[Cadd9]soul to [G]save.\n\n[Chorus]\n[G]Seen my\nshare of\n[G][Cadd9]broken ha\nlos,\n[G][Em7]Folded\nwings that\n[Cadd9]used to [G]fly,\n[G]They've all\ngone\n[G][Cadd9]wherever they\ngo,\n[G][Em7]Broken\nhalos that\n[Cadd9]used to [G]shine.\n[G][Em7]Broken\nhalos that\n[Cadd9]used to [G]shine.\n\n[Bridge 2]\n[Bm]\n[G]\n[Bm]\n[Cadd9]\n\n[Interlude]\n[G]Don't go\nlooking\n[Cadd9]for [G]the rea\nsons,\n[Em7]Don't [G]go\nasking\n[Cadd9]Jesus [G]why,\n[G]We're not\nmeant to\n[Cadd9]know [G]the an\nswers,\n[Em7]They [G]belong\nto the\n[Cadd9]by and [G]by,\n[Em7]They [G]belong\nto the by\n[Cadd9]and [G]by.\n\n[Chorus]\n[G]Seen my\nshare of\n[G][Cadd9]broken ha\nlos,\n[G][Em7]Folded\nwings that\n[Cadd9]used to [G]fly,\n[G]They've all\ngone\n[G][Cadd9]wherever they\ngo,\n[G][Em7]Broken\nhalos that\n[Cadd9]used to [G]shine.\n\n[Outro]\n[G][Em7]Broken\nhalos that\n[Cadd9]used to [G]shine.\n[G][Em7]Broken\nhalos that\n[Cadd9]used to [G]shine.\n[G][Em7]Broken\nhalos that\n[Cadd9]used to [G]shine.",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "022033",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Broken Halos",
+  "id": "2b77eda00245fb3b79b8d564b211d7b6dbfbdbddc6f2ef7a3f842a5b49e5f160",
+  "key": "A♭",
+  "keyIdentified": true,
+  "lyricEventCount": 198,
+  "normalizedKey": "chris stapleton|broken halos",
+  "playableChords": [
+    "G",
+    "Cadd9",
+    "Em7",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 67,
+      "name": "Interlude"
+    },
+    {
+      "measure": 87,
+      "name": "Chorus"
+    },
+    {
+      "measure": 103,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2b77eda00245fb3b79b8d564b211d7b6dbfbdbddc6f2ef7a3f842a5b49e5f160",
+    "version": "BCFZ"
+  },
+  "tempo": 156,
+  "title": "Broken Halos",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

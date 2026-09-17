@@ -1,0 +1,123 @@
+{
+  "artist": "Cream",
+  "artistNormalized": "cream",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D7]\nIt's\n\n[Verse 1]\n[D7]getting near dawn,\nWhen\nlights close their tired eyes\nI'll\nsoon be with you my lo-\nve, To\ngive you my dawn surpri-\nse I'll\n[G7]be with you darling soo-\nn, I'll\nbe with you when the stars\nstart falling\n[D7]\n\n[Chorus]\n[A]I've been wait-\n[C]ing so [G]long\n[A]To be where\n[C]I'm [G]going\n[A]In the sun-\n[C]shine of [G]your\n[A]love\n[D7]\nI'm\n\n[Verse 2]\n[D7]with you my love,\nThe\nlight's shining through on yo-\nu Yes, I'm\nwith you my love,\nIt's the\nmorning and just we\ntwo I'll\n[G7]stay with you darling no-\nw, I'll\nstay with you 'till my seas\nare dried up\n[D7]\n\n[Chorus]\n[A]I've been wait-\n[C]ing so [G]long\n[A]To be where\n[C]I'm [G]going\n[A]In the sun-\n[C]shine of [G]your\n[A]love\n\n[Solo]\n[D7]\n[G7]\n[D7]\n[A]\n[C]  [G]\n[A]\n[C]  [G]\n[A]\n[C]  [G]\n[A]\n[D7]\nI'm\n\n[Verse 3]\n[D7]with you my love,\nThe\nlight's shining through on yo-\nu\nYes, I'm with you my lo-\nve, It's the\nmorning and just we tw-\no I'll\n[G7]stay with you darling no-\nw, I'll\nstay with you 'till my seas\nare dried up\n[D7]\n\n[Chorus]\n[A]I've been wait-\n[C]ing so [G]long\n[A]I've been wait-\n[C]ing so [G]long\n[A]I've been wait-\n[C]ing so [G]long\n[A]To be where\n[C]I'm [G]going\n[A]In the sun-\n[C]shine of [G]your\n\n[Outro]\n[A]love",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sunshine Of Your Love *alt",
+  "id": "8bfc941dc1559225b8abc1cae2636583d9d7c109e1d36561a468461af9e062e8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 208,
+  "normalizedKey": "cream|sunshine of your love",
+  "playableChords": [
+    "D7",
+    "G7",
+    "A",
+    "C",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Solo"
+    },
+    {
+      "measure": 87,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 103,
+      "name": "Chorus"
+    },
+    {
+      "measure": 113,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8bfc941dc1559225b8abc1cae2636583d9d7c109e1d36561a468461af9e062e8",
+    "version": "BCFZ"
+  },
+  "tempo": 116,
+  "title": "Sunshine Of Your Love",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

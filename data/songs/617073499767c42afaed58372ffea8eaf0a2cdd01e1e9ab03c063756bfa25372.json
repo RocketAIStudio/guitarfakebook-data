@@ -1,0 +1,93 @@
+{
+  "artist": "Buddy Holly",
+  "artistNormalized": "buddy holly",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[A]\n[D]  [E]\n[A]\n[D]  [E]\n[A]\n[D]  [E]\n[A]\n[D]  [E]\n\n[Verse 1]\n[A]Hold me close and\n[D][E]tell me how you\n[A]feel\n[D][E]Tell me love is\n[A]real\n[D][E]Hmm-\n[A]m-\n[E][D]mmm\n\n[Chorus]\n[A]Words of love you\n[D]whis [E]per soft and\n[A]true\n[D]Dar [E]ling I love\n[A]you\n[D][E]Hmm-\n[A]m-\n[E][D]mmm-\n\n[Interlude]\n[A]m\n[D]  [E]\n[A]\n[D]  [E]\n[A]\n[D]  [E]\n[A]\n[D]  [E]\n\n[Interlude 2]\n[A]\n[D]  [E]\n[A]\n[D]  [E]\n[A]\n[D]  [E]\n[A]\n[D]  [E]\n\n[Verse 2]\n[A]Let me hear you\n[D]say the [E]words I long to\n[A]hear\n[D]Dar [E]ling when you're\n[A]near\n[D]Hm [E]m-\n[A]m-\n[E][D]mmm\n\n[Chorus]\n[A]Words of love you\n[D]whis [E]per soft and\n[A]true\n[D]Dar [E]ling I love\n[A]you\n[D][E]Hmm-\n[A]m-\n[E][D]mmmmm-\n[A]m\n[E][D]Hmmmm-\n[A]m-\n[D]  [E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Words Of Love",
+  "id": "617073499767c42afaed58372ffea8eaf0a2cdd01e1e9ab03c063756bfa25372",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 97,
+  "normalizedKey": "buddy holly|words of love",
+  "playableChords": [
+    "A",
+    "D",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude 2"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "617073499767c42afaed58372ffea8eaf0a2cdd01e1e9ab03c063756bfa25372",
+    "version": "BCFZ"
+  },
+  "tempo": 129,
+  "title": "Words Of Love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

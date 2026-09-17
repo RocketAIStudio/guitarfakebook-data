@@ -1,0 +1,136 @@
+{
+  "artist": "Crowded House",
+  "artistNormalized": "crowded house",
+  "capo": "No capo",
+  "chordPositionCount": 28,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Em]\n[D/F#]\n[G]  [Am]  [Am6]\n\n[Verse 1]\n[Em]Four seasons [D/F#]in one day\n[G][Am]Lying in the depths\n[Am6]of your imagination\n[Em]Worlds above and [D/F#]worlds below\n[G]The [Am]sun shines on the black\n[Am6]clouds Hanging over the do-\n[C/G]main\n[Bm]Even when you're feeling warm\n[C/G]The\n[Bm]temperature could drop away\n[Am][Am6]Like\n[D]four seasons in one day\n[G]  [D/F#]\n\n[Verse 2]\n[Em]Smiling as the [D/F#]shit comes down\n[G][Am]You can tell a man\n[Am6]from what he has to say\n[Em]Everything gets [D/F#]turned around\n[G]And [Am]I will risk my\n[Am6]neck again, again\n[C/G]\n[Bm]You can take me where you will\n[C/G]\n[Bm]Up the creek and through the mill\n[Am][Am6]Like\n[Bm]all the things you can't explain\n[C/G]\n[D]Four seasons in one day\n[G]\n\n[Chorus]\n[C/G]Blood dries up\n[G]Like rain,\n[D]like rain\n[Em]\n[C/G]Fills my cup\n[G]Like\n[D]four seasons in one day\n\n[Interlude]\n[Em]\n[D/F#]\n[G]  [Am]\n[C/G]  [Bm]\n[Em][D/F#][G]It\n\n[Verse 3]\n[Am]doesn't pay to make predictions\n[Em]Sleeping on an [D/F#]unmade bed\n[G][Am]Finding out whe-\n[Am6]rever there is comfort there is\n[C/G]pain\n[Bm]Only one step away\n[C/G]Like\n[D]four seasons in one day\n[G]\n\n[Outro]\n[C/G]Blood dries up\n[G]Like rain,\n[D]like rain\n[Em]\n[C/G]Fills my cup\n[G]Like\n[D]four seasons in one day",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am6": {
+      "catalog": [
+        "x02212"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "200232"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Four Seasons In One Day",
+  "id": "9f9e2bf00aceae82d5b085f6ba56dc851950ae94201657c574288f967418f73f",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 200,
+  "normalizedKey": "crowded house|four seasons in one day",
+  "playableChords": [
+    "Em",
+    "D/F#",
+    "G",
+    "Am",
+    "Am6",
+    "C/G",
+    "Bm",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 54,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9f9e2bf00aceae82d5b085f6ba56dc851950ae94201657c574288f967418f73f",
+    "version": "BCFZ"
+  },
+  "tempo": 89,
+  "title": "Four Seasons In One Day",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,149 @@
+{
+  "artist": "Crosby, Stills & Nash",
+  "artistNormalized": "crosby stills nash",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[Am7]\n[C]\n[G]\n[D]  [Dsus2]  [D]  [Dsus2]\n\n[Verse 1]\n[Am7]Helplessly hoping her\n[C]harlequin hovers near-\n[G]by Awaiting a word\n[D]  [Dsus2]  [D]  [Dsus2]\n[Am7]Gasping at glimpses of\n[C]gentle true spirit he\n[G]runs Wishing he could fly\n[D]Only to\n[Am7]trip at the sound [Cadd9]of goodbye\n[G][C/G][G][C/G]ye, ye\n[D]  [Dsus2]  [D]  [Dsus2]\n\n[Verse 2]\n[Am7]Wordlessly watching he\n[C]waits by the window and won-\n[G]ders At the empty place inside\n[D]  [Dsus2]  [D]  [Dsus2]\n[Am7]Heartlessly helping himself\n[C]to her bad dreams he wor-\n[G]ries Did he hear a good-\n[D]bye? Ye. Or\n[Am7]even [Cadd9]hello?\n[G][G11]They are one\n\n[Chorus]\n[G][Gadd11]person They are two\n[G]alone [Gadd11]They are three\n[Gadd11][G]together They are for\n[G][F6sus2]each\n[Cadd9]other\n[C/G]  [G]\n\n[Verse 3]\n[Am7]Stand by the stairway you'll\n[C]see something certain to tell\n[G]you Confusion has its cost\n[D]  [Dsus2]  [D]  [Dsus2]\n[Am7]Love isn't lying it's loose\n[C]in a lady who lin-\n[G]gers Saying she is lost\n[D]And\n[Am7]choking [Cadd9]on hello\n[G][G11]They are one\n\n[Chorus]\n[G][G11]person [G]They are two\n[G]alone [G11][G]They are three\n[G11][G]together [G]They are for\n[G][Fsus2]each\n[Cadd9]other\n[C/G]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32030"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "F6sus2": {
+      "catalog": [
+        "xx3031"
+      ],
+      "catalogCount": 1
+    },
+    "Fsus2": {
+      "catalog": [
+        "xx3011"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "320033",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G11": {
+      "catalog": [
+        "320011"
+      ],
+      "catalogCount": 1
+    },
+    "Gadd11": {
+      "catalog": [
+        "320013"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Helplessly Hoping",
+  "id": "5fdd6b7963b770c58aeb1cf143865d794182433e0868c5622068c481303eb8be",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 184,
+  "normalizedKey": "crosby stills nash|helplessly hoping",
+  "playableChords": [
+    "Am7",
+    "C",
+    "G",
+    "D",
+    "Dsus2",
+    "Cadd9",
+    "C/G",
+    "G11",
+    "Gadd11",
+    "F6sus2",
+    "Fsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5fdd6b7963b770c58aeb1cf143865d794182433e0868c5622068c481303eb8be",
+    "version": "BCFZ"
+  },
+  "tempo": 73,
+  "title": "Helplessly Hoping",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

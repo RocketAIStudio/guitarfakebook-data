@@ -1,0 +1,97 @@
+{
+  "artist": "Cat Stevens",
+  "artistNormalized": "cat stevens",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]  [D]\n[C]  [D]\n[G]  [D]\n[C][D]I would have\n\n[Verse 1]\n[G]given you all [D]of my\n[C]heart [D]But there's some-\n[G]one who's [C]torn it a-\n[D]part [C]And she's ta-\n[G]kin' almost [D]all that I've\n[C]got But [D]if you want, I'll\n[G]try to love [D]again\n[D][C]Baby, I'll try\n[G]to love [C]again but I\n[D]know\n\n[Chorus]\n[G]The first [D]cut is the dee-\n[C]pest, [D]baby, I know\n[G]The first [D]cut is the dee-\n[C]pest [D]'Cause when it\n[G]comes to bein' [D]lucky, she's\n[C]cursed [D]When it comes\n[G]to lovin' [C]me, she's\n[D]worst [C]But when it\n[G]comes to bein' [D]loved, she's\n[C]first That's [D]how I know\n[G]The first [D]cut is the dee-\n[C]pest, [D]baby, I know\n[G]The first [D]cut is the dee-\n[C]pest [D]\nI still want\n\n[Verse 2]\n[G]you by [D]my side\n[C][D]Just to help\n[G]me dry the [C]tears that I've\n[D]cried [C]'Cause I'm sure\n[G]gonna give [D]you a try\n[C]And [D]if you want, I'll\n[G]try to love [D]again\n[C]But [D]baby, I'll try\n[G]to love [C]again, but I\n[D]know\n\n[Chorus]\n[G]The first [D]cut is the dee-\n[C]pest, [D]baby, I know\n[G]The first [D]cut is the dee-\n[C]pest [D]'Cause when it\n[G]comes to bein' [D]lucky, she's\n[C]cursed [D]When it comes\n[G]to lovin' [C]me, she's\n[D]worst [C]But when it\n[G]comes to bein' [D]loved, she's\n[C]first That's [D]how I know\n[G]The first [D]cut is the dee-\n[C]pest, [D]baby, I know\n[G]The first [D]cut is the dee-\n[C]pest [D]\n\n[Bridge]\n[G]  [D]\n[D][C]Baby, I know,\n\n[Chorus]\n[G]the first [D]cut is the dee-\n[C]pest [D]Baby, I know,\n[G]the first [D]cut is the dee-\n[C]pest [D]'Cause when it\n[G]comes to bein' [D]lucky, she's\n[C]cursed [D]When it comes\n[G]to lovin' [D]me, she's\n[C]worst [D]But when it\n[G]comes to bein' [D]loved, she's\n[C]first That's [D]how I know\n\n[Fade Out]\n[G]The first [D]cut is the dee-\n[C]pest, [D]baby, I know\n[G]  [D]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The First Cut Is The Deepest",
+  "id": "ced55638ae11bdeba7f4de6d6581e7ea2a9f50fbef28a23679989de806e58505",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 305,
+  "normalizedKey": "cat stevens|the first cut is the deepest",
+  "playableChords": [
+    "G",
+    "D",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 71,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ced55638ae11bdeba7f4de6d6581e7ea2a9f50fbef28a23679989de806e58505",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "The First Cut Is The Deepest",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

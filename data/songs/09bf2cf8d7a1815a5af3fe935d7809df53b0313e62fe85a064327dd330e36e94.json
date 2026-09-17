@@ -1,0 +1,101 @@
+{
+  "artist": "Buddy Holly",
+  "artistNormalized": "buddy holly",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]  [C]\n[D7]\n[G]  [C]\n[D7]\n\n[Verse 1]\n[G]Take [C]your time,\n[D7]\n[G]I [C]can wait\n[D7]For\n[G]all the love [D7]I know\n[G]will be [D7]mine If\n[G]you take [D7]your time\n[G]  [D7]\n\n[Verse 2]\n[G]Take [C]your time,\n[D7]\n[G]though [C]its late\n[D7]Heart\n[G]strings will [D7]sing like a\n[G]string of twine [D7]If\n[G]you take [D7]your time\n[G]\n\n[Bridge]\n[C]Take your time and\ntake mine too I\n[G]have time [D7]to spend\n[G]\n[C]Take your time go\nwith me through Times\n[G]'till all times\n[D7]end\n\n[Verse 3]\n[G]Take [C]your time,\n[D7]\n[G]I [C]can wait\n[D7]For\n[G]all the love [D7]I know\n[G]will be [D7]mine If\n[G]you take [D7]your time\n[G]  [D7]\n\n[Interlude]\n[G]  [C]\n[D7]\n[G]  [C]\n[D7]\n[G]  [D7]\n[G]  [D7]\n[G]  [D7]\n[G]\n\n[Bridge]\n[C]Take your time and\ntake mine too I\n[G]have time [D7]to spend\n[G]\n[C]Take your time go\nwith me through Times\n[G]'till all times\n[D7]end\n\n[Verse 4]\n[G]Take [C]your time,\n[D7]\n[G]I [C]can wait\n[D7]For\n[G]all the love [D7]I know\n[G]will be [D7]mine If\n[G]you take [D7]your time\n[G]  [D7]\n\n[Outro]\n[G]  [D7]\n[G]  [D7]\n[G]Take your [D7]time\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Take Your Time",
+  "id": "09bf2cf8d7a1815a5af3fe935d7809df53b0313e62fe85a064327dd330e36e94",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 131,
+  "normalizedKey": "buddy holly|take your time",
+  "playableChords": [
+    "G",
+    "C",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Bridge"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 38,
+      "name": "Interlude"
+    },
+    {
+      "measure": 46,
+      "name": "Bridge"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 62,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "09bf2cf8d7a1815a5af3fe935d7809df53b0313e62fe85a064327dd330e36e94",
+    "version": "BCFZ"
+  },
+  "tempo": 136,
+  "title": "Take Your Time",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

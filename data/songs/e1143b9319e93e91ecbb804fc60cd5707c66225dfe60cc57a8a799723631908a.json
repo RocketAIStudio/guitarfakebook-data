@@ -1,0 +1,89 @@
+{
+  "artist": "Chuck Berry",
+  "artistNormalized": "chuck berry",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[C]\nI\n\n[Verse 1]\nleft my home in Nor-\nfolk, Virginia, Cali-\nfornia on my mind.\n[F]I\n[G]straddled that Greyhound and rode\nhim into Raleigh and on\nacross Caroline.\n[C]We\nstopped in Charlotte, but by-\npassed Rock Hill, we\nnever was a minute late.\n[F]A, we was\n[G]ninety miles out of Atlan-\nta by sundown, rol-\nlin' out of Georgia\n[C]State. We\nhad motor trouble that turned\ninto a struggle half\nway across Alabam',\n[F]And that 'Hound\n[G]broke down and left\nus all stranded in\ndowntown Birmingham.\n[C]\n\n[Solo]\n[C]\n[F]\n[G]\n[C]\n\n[Verse 2]\n[C]Right away I bought me a through\ntrain ticket, ridin'\n'cross Mississippi clean.\n[F]And I was\n[G]on that Midnight Fly-\ner out of Birmingham\nsmokin' into New Orleans.\n[C]\nSomebody help me get out\nof Lou'siana, just\nhelp me get to Houston town.\n[F]There are a\n[G]people there who care\na little 'bout me and they\nwon't let the poor boy down.\n[C]\nSure as you're born, they bought\nme a silk suit, and\nput luggage in my hand.\n[F]And I\n[G]woke up high over\nAlbuquerque on a\njet to the Promised Land.\n[C]\n\n[Solo]\n[C]\n[F]\n[G]\n[C]A\n\n[Verse 3]\n[C]workin' on a Tbone steak\na la carte, flyin'\nover to the Golden State,\n[F]A when the\n[G]pilot told us in\nthirteen minutes he would\nset us at the terminal gate.\n[C]\nSwing low, chariot, come\ndown easy,\ntaxi to the terminal zone.\n[F]\n[G]Cut your engines and cool\nyour wings and let me\nmake it to the telephone.\n[C]\nLos Angeles, give me Nor-\nfolk, Virginia Tide-\nwater fourteen o nine.\n[F]Tell the\n[G]folks back home this is the\nPromised Land callin' and the\npoor boy's on the line.\n[C]\n\n[Solo]\n[C]\n[F]\n[G]\n[C]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Promised Land",
+  "id": "e1143b9319e93e91ecbb804fc60cd5707c66225dfe60cc57a8a799723631908a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 345,
+  "normalizedKey": "chuck berry|the promised land",
+  "playableChords": [
+    "C",
+    "F",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 28,
+      "name": "Solo"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 60,
+      "name": "Solo"
+    },
+    {
+      "measure": 68,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 92,
+      "name": "Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e1143b9319e93e91ecbb804fc60cd5707c66225dfe60cc57a8a799723631908a",
+    "version": "BCFZ"
+  },
+  "tempo": 168,
+  "title": "The Promised Land",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

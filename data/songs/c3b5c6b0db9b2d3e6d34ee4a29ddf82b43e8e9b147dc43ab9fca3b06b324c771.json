@@ -1,0 +1,155 @@
+{
+  "artist": "Carnifex",
+  "artistNormalized": "carnifex",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[A5]\n[F5]  [E5]  [F5]  [E5]\n[A5]\n[F5]  [E5]  [F5]  [E5]\n\n[Verse 1]\n[A#5]The scars [F#5]on my arms\n[A#5]remind [B5]me\n[A#5]How i [F#5]got this\n[A#5]way [B5]\n\n[Bridge]\n[A#5]I can taste the\nstain of your sickness\nOn my\nlips\n\n[Verse 2]\n[A5]\nAll the stupid things in my\n[F5]Life\n[D5]I fell [E5]\n[A5]\n[F5]I fell for\n[D5]this [E5]\n\n[Bridge]\n[A5]\nI\nask a like you never\nknew\nJust lie to\n\n[Break]\n[A5]What the fuck\n[C#dim]Just\nlie to me\nGonna make it throug\n[C5]I'm well\npast\nwanting the\ntruth\n\n[Verse 3]\n[A5]Just\n[F5]lie to [E5]\n[A5]me\n[F5]  [E5]\n[A5]I'll\n[F5]always [E5]\n[A5]love you\n[F5]  [E5]\n\n[Bridge]\n[A5]\nLie\nLie one\nLier\n\n[Break]\n[A#dim]Lie to\nme\nLie to my\nface\nLie to my\nface\n\n[Bridge]\n[A5]Lie\n[F5]  [G5]\n[A5]\n[F5]  [G5]\n[A5]The scars on my arms\n[F5]remind [G5]me\n[A5]How i got this\n[F5]way [G5]\n\n[Outro]\n[A5]Ill\nask again\nlike you never\nknew\nJust lie\nto me\nI'll always love\nyou",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "111xxx"
+      ],
+      "catalogCount": 1
+    },
+    "A#dim": {
+      "catalog": [
+        "x6787x"
+      ],
+      "catalogCount": 1
+    },
+    "A5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#dim": {
+      "catalog": [
+        "4342xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "777xxx",
+        "x022xx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "888xxx",
+        "x133xx"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "10-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lie To My Face",
+  "id": "c3b5c6b0db9b2d3e6d34ee4a29ddf82b43e8e9b147dc43ab9fca3b06b324c771",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 126,
+  "normalizedKey": "carnifex|lie to my face",
+  "playableChords": [
+    "A5",
+    "F5",
+    "E5",
+    "A#5",
+    "F#5",
+    "B5",
+    "D5",
+    "C#dim",
+    "C5",
+    "A#dim",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Bridge"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Break"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 46,
+      "name": "Bridge"
+    },
+    {
+      "measure": 52,
+      "name": "Break"
+    },
+    {
+      "measure": 62,
+      "name": "Bridge"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c3b5c6b0db9b2d3e6d34ee4a29ddf82b43e8e9b147dc43ab9fca3b06b324c771",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "Lie To My Face",
+  "tuning": "A E A D F# B",
+  "variantRole": "primary"
+}

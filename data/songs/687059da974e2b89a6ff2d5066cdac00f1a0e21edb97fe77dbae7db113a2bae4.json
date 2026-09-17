@@ -1,0 +1,122 @@
+{
+  "artist": "Bon Jovi",
+  "artistNormalized": "bon jovi",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Cm]\n[G#]  [G]\n[Cm]\n[G#]  [G]\n\n[Verse 1]\n[Cm]\n[Cm]\n[G#]  [G]\n[Cm]\n[Cm]\n[G#]  [G]\n[Cm]\n[F]\n\n[Chorus]\n[Cm]\n[G#]\n[D#]\n[A#]\n[Cm]\n[G#]\n[A#]\n[G]\n[Cm]\n[G#]\n[D#]\n[A#]\n[Cm]\n[G#]\n[A#]\n[A#]  [G]\n\n[Bridge]\n[Cm]\n[G#]  [G]\n[Cm]\n[G#]  [G]\n\n[Verse 2]\n[Cm]\n[Cm]\n[G#]  [G]\n[Cm]\n[Cm]\n[G#]  [G]\n[Cm]\n[F]\n\n[Chorus]\n[Cm]\n[G#]\n[D#]\n[A#]\n[Cm]\n[G#]\n[A#]\n[G]\n[Cm]\n[G#]\n[D#]\n[A#]\n[G#]\n[A#]\n[G]\n\n[Solo]\n[G#]\n[A#]\n[G#]\n[A#]\n\n[Bridge]\n[Cm]\n[F]\n\n[Chorus]\n[Cm]\n[G#]\n[D#]\n[A#]\n[Cm]\n[G#]\n[A#]\n[G]\n[Cm]\n[G#]\n[D#]\n[A#]\n[Cm]\n[G#]\n[A#]\n[G]\n[Cm]\n[G#]\n[D#]\n[A#]\n[Cm]\n[G#]\n[A#]\n[G]\n[Cm]\n[G#]\n[D#]\n[A#]\n[Cm]\n[G#]\n[A#]\n[A#]  [G]\n[A#]life!",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "688766"
+      ],
+      "catalogCount": 1
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "D#": {
+      "catalog": [
+        "x68886"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "It's my life *alt 3",
+  "id": "687059da974e2b89a6ff2d5066cdac00f1a0e21edb97fe77dbae7db113a2bae4",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 1,
+  "normalizedKey": "bon jovi|it s my life",
+  "playableChords": [
+    "Cm",
+    "G#",
+    "G",
+    "F",
+    "D#",
+    "A#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Bridge"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Solo"
+    },
+    {
+      "measure": 75,
+      "name": "Bridge"
+    },
+    {
+      "measure": 80,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "687059da974e2b89a6ff2d5066cdac00f1a0e21edb97fe77dbae7db113a2bae4",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "It's my life",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

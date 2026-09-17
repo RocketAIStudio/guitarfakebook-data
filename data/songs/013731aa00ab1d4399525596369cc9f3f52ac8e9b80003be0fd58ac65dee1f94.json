@@ -1,0 +1,111 @@
+{
+  "artist": "Champs",
+  "artistNormalized": "champs",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n\n[Theme 1]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n\n[Theme 2]\n[Edim7]  [E]\n[Edim7]  [E]\n[Edim7]  [E]\n[F#7][B7]Tequila\n\n[Theme 3]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n\n[Theme 4]\n[Edim7]  [E]\n[Edim7]  [E]\n[Edim7]  [E]\n[F#7][B7]Tequila\n\n[Theme 5]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n\n[Outro]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]  [D]\n[E]  [D]  [E]",
+  "diagrams": {
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Edim7": {
+      "catalog": [
+        "xx2323"
+      ],
+      "catalogCount": 1
+    },
+    "F#7": {
+      "catalog": [
+        "242322",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tequila",
+  "id": "013731aa00ab1d4399525596369cc9f3f52ac8e9b80003be0fd58ac65dee1f94",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 6,
+  "normalizedKey": "champs|tequila",
+  "playableChords": [
+    "E",
+    "D",
+    "Edim7",
+    "F#7",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Theme 1"
+    },
+    {
+      "measure": 17,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 21,
+      "name": "Theme 3"
+    },
+    {
+      "measure": 33,
+      "name": "Theme 4"
+    },
+    {
+      "measure": 37,
+      "name": "Theme 5"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "013731aa00ab1d4399525596369cc9f3f52ac8e9b80003be0fd58ac65dee1f94",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Tequila",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

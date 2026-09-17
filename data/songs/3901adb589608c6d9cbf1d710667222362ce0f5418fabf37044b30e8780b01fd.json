@@ -1,0 +1,66 @@
+{
+  "artist": "Buried By The Sirens",
+  "artistNormalized": "buried by the sirens",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n[Cm]\n\n[Verse]\n[Cm]For the world For\neverything Is\nNothing ready here for\nWe don't believe it\n\n[Bridge]\n[Dbdim]\n\n[Outro]\n[Cm]",
+  "diagrams": {
+    "Cm": {
+      "catalog": [
+        "000231",
+        "x-3-5-5-4-3",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15"
+      ],
+      "catalogCount": 5
+    },
+    "Dbdim": {
+      "catalog": [
+        "x6787x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Intro",
+  "id": "3901adb589608c6d9cbf1d710667222362ce0f5418fabf37044b30e8780b01fd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 19,
+  "normalizedKey": "buried by the sirens|intro",
+  "playableChords": [
+    "Cm",
+    "Dbdim"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 13,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3901adb589608c6d9cbf1d710667222362ce0f5418fabf37044b30e8780b01fd",
+    "version": "BCFZ"
+  },
+  "tempo": 146,
+  "title": "Intro",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

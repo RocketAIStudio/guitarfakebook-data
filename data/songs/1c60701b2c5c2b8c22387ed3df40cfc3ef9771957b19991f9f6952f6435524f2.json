@@ -1,0 +1,94 @@
+{
+  "artist": "Bracket",
+  "artistNormalized": "bracket",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n\n[Verse 1]\n[A5]The bags\n[A/C#]underneath my\n[F#5]eyes Catch\n[A7]all the tears I\n[D5]cry Where were you\n[E5]when every-\n[A5]thing went\n[E5]wrong\n\n[Verse 2]\n[A5]You suck\n[A/C#]colors from my\n[F#5]life You took\n[A7]away my para-\n[D5]dise Don't come craw-\n[E5]ling back when\n[A5]I move\n[E5]on\n\n[Verse 3]\n[A5]Just\n[A/C#]tell me what you\n[F#5]see When\n[A7]you look down at\n[D5]me I'm sure there's\n[E5]something that I'm\n[A5]doing\n[E5]wrong a-\n[A5]gain",
+  "diagrams": {
+    "A/C#": {
+      "catalog": [
+        "x476xx"
+      ],
+      "catalogCount": 1
+    },
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "A7": {
+      "catalog": [
+        "5756xx",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Warren's Song Part 8",
+  "id": "1c60701b2c5c2b8c22387ed3df40cfc3ef9771957b19991f9f6952f6435524f2",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 69,
+  "normalizedKey": "bracket|warren s song part 8",
+  "playableChords": [
+    "A5",
+    "A/C#",
+    "F#5",
+    "A7",
+    "D5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1c60701b2c5c2b8c22387ed3df40cfc3ef9771957b19991f9f6952f6435524f2",
+    "version": "BCFZ"
+  },
+  "tempo": 205,
+  "title": "Warren's Song Part 8",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

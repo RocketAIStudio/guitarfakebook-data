@@ -1,0 +1,126 @@
+{
+  "artist": "Chase Coy",
+  "artistNormalized": "chase coy",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Dsus2]\n[G6]\n[Dsus2]\n[G6]\n\n[Verse 1]\n[Dsus2]Everything is diffe-\n[G6]rent now\n[Dsus2]\n[G6]\n[Dsus2]Why are you so\n[G6]distant now?\n[Dsus2]\n[G6]\n\n[Pre-Chorus]\n[Bm7]Everything [Asus4]has cha-\n[G]nged, Yeah\n[Bm7]nothing is [Asus4]the sa-\n[G]me Since the\n[Bm7]day you went [Asus4]awa-\n[G]y,\n[Asus4]Nothing feels at a-\nll okay with me\n\n[Interlude]\n[Dsus2]\n[G6]\n[Dsus2]\n[G6]\n\n[Verse 2]\n[Dsus2]Don't you ever miss the mi-\n[G6]dwest sunri-\n[Dsus2]se?\n[G6]The\n[Dsus2]view of the stars and the\n[G6]full moon at ni-\n[Dsus2]ght\n[G6]Cause\n\n[Pre-Chorus]\n[Bm7]ever since [Asus4]you le-\n[G6]ft, There's been an\n[Bm7]open hole [Asus4]in my\n[G6]chest Yeah you\n[Bm7]left this boy [Asus4]such a\n[G6]mess But I'm\n[Asus4]hoping that my heart will\nfind some rest toni-\n\n[Chorus]\n[Em7]ght [D/F#]I'll try\n[G6]to explai-\n[Em7]n [D/F#]exactly why\n[G6]I've been\n[Em7]crying all [D/F#]the ti-\n[G6]me since you\n[Bm7]walked out of [Asus4]my li-\n[G6]fe\n\n[Outro]\n[Dsus2]Everything is diffe-\n[G6]rent now\n[Dsus2]\n[G6]\n[Dsus2]Why are you so\n[G6]distant now?\n[Dsus2]\n[G6]",
+  "diagrams": {
+    "Asus4": {
+      "catalog": [
+        "x0223x",
+        "x02230"
+      ],
+      "catalogCount": 2
+    },
+    "Bm7": {
+      "catalog": [
+        "x2023x",
+        "x-2-4-2-3-2",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "20023x"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "02203x",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "32003x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320030"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "My Heart Will Find Rest",
+  "id": "efd36fc155ebffe1d13c1c8a380b3db215755018540ca5727ba17af831655c2b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 148,
+  "normalizedKey": "chase coy|my heart will find rest",
+  "playableChords": [
+    "Dsus2",
+    "G6",
+    "Bm7",
+    "Asus4",
+    "G",
+    "Em7",
+    "D/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Interlude"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 52,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "efd36fc155ebffe1d13c1c8a380b3db215755018540ca5727ba17af831655c2b",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "My Heart Will Find Rest",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

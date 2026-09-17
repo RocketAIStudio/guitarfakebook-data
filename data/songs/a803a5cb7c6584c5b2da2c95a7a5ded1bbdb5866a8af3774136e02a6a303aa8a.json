@@ -1,0 +1,134 @@
+{
+  "artist": "Breakdown Of Sanity",
+  "artistNormalized": "breakdown of sanity",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[A5]I, I\nforget my own\nrules\nBut I still\nknow\nThe\nend of the sto-\n\n[Verse 1]\n[A5]ry\nWhat's\nhappened to the world,\nWhat's happened\nto my life?\nThere was a time\nI felt safe\nFrom the\ndrossiness\nSafe from\ndiscomfort\nNo enemies,\nno lies\n\n[Chorus]\n[F5]Where is my soul?\n[G5]Where are my ways, where is my\n[A]heart?\n[Am]  [G]\n[F5]Over years it made me weak\n[G5]Made me weak\n\n[Bridge]\n[A5]\n(me unpredictable)\n\n[Interlude]\n[A5]Something came across my way\nIt changed too many things\nInside me (inside me)\nInside\n\n[Verse 2]\n[A5]me\nOver years it made me weak\nI saw your smile\nEverything around me seems to glow,\nBut everything I touch goes out\n(Goes out)\n\n[Breakdown]\n[A5]\nI\nhold your hand,\nfeel your breath, See your smile I\ntook this gift from life\nNot\nknowing what awaits me\n\n[Chorus]\n[F5]Where is my soul?\n[G5]Where are my ways, where is my\n[A]heart?\n[Am]  [G]\n[F5]Over years it made me weak\n[G5][C5]Made [G5]me weak\n\n[Pre-Outro]\n[A5]Another step in an unknown direction\nHow can I be sure, Oh how can I be sure?\nDays go by, it seems to grow (It seems to\ngrow) It feels still right, it feels still right\n\n[Outro]\n[A5]Where I am Can't see you anymore,\nFeel you anymore These voices are [C5]pushing [G5][A5]\n[A5]me They want me to fail\n[G5]\n[A5]I am falling\nNothing to lose, nothing to [C5]win [G5][A5]\n[A5]How could I be sure?\nWhy so sure, why so [G5]sure? [C5][G5]\n[A5]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "004xxx",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "00xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "003xxx",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C5": {
+      "catalog": [
+        "33xxxx",
+        "333xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F5": {
+      "catalog": [
+        "88xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "10-10-14-x-x-x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "10-10-x-x-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Scissorhands",
+  "id": "a803a5cb7c6584c5b2da2c95a7a5ded1bbdb5866a8af3774136e02a6a303aa8a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 267,
+  "normalizedKey": "breakdown of sanity|scissorhands",
+  "playableChords": [
+    "A5",
+    "F5",
+    "G5",
+    "A",
+    "Am",
+    "G",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Bridge"
+    },
+    {
+      "measure": 48,
+      "name": "Interlude"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Breakdown"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Pre-Outro"
+    },
+    {
+      "measure": 83,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a803a5cb7c6584c5b2da2c95a7a5ded1bbdb5866a8af3774136e02a6a303aa8a",
+    "version": "BCFZ"
+  },
+  "tempo": 210,
+  "title": "Scissorhands",
+  "tuning": "A E A D F# B",
+  "variantRole": "primary"
+}

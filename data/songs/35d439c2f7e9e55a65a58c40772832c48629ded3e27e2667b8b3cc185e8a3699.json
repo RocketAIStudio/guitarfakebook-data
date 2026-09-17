@@ -1,0 +1,127 @@
+{
+  "artist": "Bonnie Tyler",
+  "artistNormalized": "bonnie tyler",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\nIt's a\n\n[Verse 1]\n[C]heartache,\nnothing but a\n[Em]heartache\nHits you when it's\n[F]too late,\nhits you when you're\n[C]down\n[G]It's a\n[C]fools' game,\nnothing but a\n[Em]fool's game\nStanding in the\n[F]cold rain,\nfeeling like a\n[C]clown\n[G]It's a\n[C]heartache,\nnothing but a\n[Em]heartache\nLove him 'till your\n[F]arms break,\nthen he'll let you\n[C]down\n[G]It ain't\n\n[Chorus]\n[F]right with love to share\n[G]When you find\n[Em]he doesn't care\n[Am]for\n[G]you\nIt ain't\n[F]wise to need some-\n[G]one As much as\n[Em]I depended on\n[Am]\n[G]you\nOh, it's a\n\n[Verse 2]\n[C]heartache,\nnothing but a\n[Em]heartache\nHits you when it's\n[F]too late,\nhits you when you're\n[C]down\n[G]It's a\n[C]fool's game,\nnothing but a\n[Em]fool's game\nStanding in the\n[F]cold rain,\nfeeling like a\n[C]clown\n[G]\n\n[Solo 1]\n[C]\n[Em]\n[F]\n[C]\n[G]It ain't\n\n[Chorus]\n[F]right with love to share\n[G]When you find\n[Em]he doesn't care\n[Am]for\n[G]you\nIt ain't\n[F]wise to need some-\n[G]one As much as\n[Em]I depended on\n[Am]\n[G]you\nOh, it's a\n\n[Verse 3]\n[C]heartache,\nnothing but a\n[Em]heartache\nLove him 'till your\n[F]arms break,\nthen he'll let you\n[C]down\n[G]\n\n[Solo 2]\n[C]It's a fool's\ngame,\n[Em]Standing in the\ncold rain, Fee-\n[F]\nling like a clown\n[C]\n[G]It's a heart-\n\n[Outro]\n[C]ache,\n[Em]Love\nhim 'till your arms\n[F]break, Then\nhe'll let you down\n[C]\n[G]It's a fools'\n\n[Fade-Out]\n[C]game,\nStanding in the\n[Em]cold rain\n[F]\n[C]\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "It's a Heartache",
+  "id": "35d439c2f7e9e55a65a58c40772832c48629ded3e27e2667b8b3cc185e8a3699",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 232,
+  "normalizedKey": "bonnie tyler|it s a heartache",
+  "playableChords": [
+    "C",
+    "Em",
+    "F",
+    "G",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 85,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 93,
+      "name": "Outro"
+    },
+    {
+      "measure": 101,
+      "name": "Fade-Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "35d439c2f7e9e55a65a58c40772832c48629ded3e27e2667b8b3cc185e8a3699",
+    "version": "BCFZ"
+  },
+  "tempo": 117,
+  "title": "It's a Heartache",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,119 @@
+{
+  "artist": "Daft Punk",
+  "artistNormalized": "daft punk",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\n[G]\n[F]\n[Dm]\n[Am]\n[G]\n[F]\n[Dm]\n\n[Theme 1]\n[F]\n[Am]\n[F]\n[Am]\n[F]\n[Am]\n[F]\n[Am]\nLet the mu\n\n[Theme 2]\n[Dm]sic in tonight [G]Just\nturn on the music Let the [C]mu\nsic of your life Give\n[Am]life back to music Let the mu\n[Dm]sic in tonight [G]Just\nturn on the music Let the [C]mu\nsic of your life Give\n[Am]life back to music Let the mu\n[Dm]sic in tonight [G]Just\nturn on the music Let the [C]mu\nsic of your life Give\n[Am]life back to music Let the mu\n[Dm]sic in tonight [G]Just\nturn on the music Let the [C]mu\nsic of your life Give\n[Am]life back to music\n\n[Theme 3]\n[Am]\n[G]\n[F]\n[Dm]\n[Am]\n[G]\n[F]\n[Dm]\n[Am]\n[G]\n[F]\n[Dm]\n[Am]\n[G]\n[F]\n[Dm]  [Am]\n\n[Bridge]\n[G]\n[F]\n[Dm]Give\nlife back to music [Am]\n[G]\n[F]\n[Dm]Give\nlife back to music Let the mu\n\n[Theme 3]\n[Am]sic in tonight Just\n[G]turn on the music Let the mu\n[F]sic of your life Give\n[Dm]life back to music Let the mu\n[Am]sic in tonight Just\n[G]turn on the music Let the mu\n[F]sic of your life Give\n[Dm]life back to music\n[Am]\n[G]\n[F]\n[Dm]\n[Am]\n[G]\n[F]\n[Dm]Let the mu\n[Am]sic in tonight Just\n[G]turn on the music Let the mu\n[F]sic of your life Give\n[Dm]life back to music Let the mu\n[Am]sic in tonight Just\n[G]turn on the music Let the mu\n[F]sic of your life Give\n[Dm]life back to music [Am]\n\n[Bridge]\n[G]\n[F]\n[Dm]\n[Am]\n[G]\n[F]\n[Dm]\n\n[Theme 1]\n[Dm]  [G]\n[C]\n[Am]\n[Dm]  [G]\n[C]\n[Am]\n[Dm]  [G]\n[C]\n[Am]\n[Dm]  [G]\n[C]\n[Am]\n[Dm]  [G]\n[C]\n[Am]\n[Dm]  [G]\n[C]\n[Am]\n[Dm]  [G]\n[C]\n[Am]\n[Dm]  [G]\n[C]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Give Life Back to Music",
+  "id": "07a3e5ce4c4e509022def33f60de6a61c68dfc87b30a553bb181cc4a77d04812",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 236,
+  "normalizedKey": "daft punk|give life back to music",
+  "playableChords": [
+    "Am",
+    "G",
+    "F",
+    "Dm",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Theme 1"
+    },
+    {
+      "measure": 26,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 42,
+      "name": "Theme 3"
+    },
+    {
+      "measure": 58,
+      "name": "Bridge"
+    },
+    {
+      "measure": 66,
+      "name": "Theme 3"
+    },
+    {
+      "measure": 90,
+      "name": "Bridge"
+    },
+    {
+      "measure": 98,
+      "name": "Theme 1"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "07a3e5ce4c4e509022def33f60de6a61c68dfc87b30a553bb181cc4a77d04812",
+    "version": "BCFZ"
+  },
+  "tempo": 121,
+  "title": "Give Life Back to Music",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

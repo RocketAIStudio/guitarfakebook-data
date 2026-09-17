@@ -1,0 +1,112 @@
+{
+  "artist": "Bonnie Raitt",
+  "artistNormalized": "bonnie raitt",
+  "capo": "2",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]  [G/B]\n[D]  [G/B]\n[D]  [G/B]\n[D]  [G/B]\n\n[Verse 1]\n[D]I am an old wo-\n[G/B]man\n[D]Named after my mot-\n[G/B]her\n[D]My old man is a-\n[G/B]nother\n[A]Child who's grown [D]old\n[D]If dreams were\n[G/B]thunder\n[D]And lightning was desi-\n[G/B]re\n[D]This old house would've\n[G/B]burned down A\n[A]long time [D]ago\n\n[Chorus]\n[D]Make me an an-\n[C]gel That\n[G/B]flies from Montgome-\n[D]ry\nMake me a pos-\n[C]ter Of an\n[G/B]old rodeo\n[D]\nJust give me one\n[C]thing That\n[G/B]I can hold on\n[D]to\nTo believe in this\n[G/B]livin' Is just a\n[A]hard way [D]to go\n\n[Break]\n[D]  [G/B]\n[D]  [G/B]\n\n[Verse 2]\n[D]When I was a young\n[G/B]girl\n[D]I had me a cow-\n[G/B]boy\n[D]He weren't much to\n[G/B]look at Just a\n[A]free ramblin' man [D]\n[D]That was a long\n[G/B]time\n[D]And no matter how\n[G/B]I tried\n[D]The years just\n[G/B]flow by Like a\n[A]broken down [D]dam\n\n[Chorus]\n[D]Make me an an-\n[C]gel That\n[G/B]flies from Montgome-\n[D]ry\nMake me a pos-\n[C]ter Of an\n[G/B]old rodeo\n[D]\nJust give me one\n[C]thing That\n[G/B]I can hold on\n[D]to\nTo believe in this\n[G/B]livin' Is just a\n[A]hard way\n\n[Interlude]\n[D]to go [G/B]\n[D]  [G/B]\n[D]  [G/B]\n[D]  [G/B]\n\n[Verse 3]\n[D]There's flies in the\n[G/B]kitchen\n[D]I can hear all their\n[G/B]buzzin'\n[D]And I ain't done\n[G/B]nothing Since I\n[A]woke up today [D]\n[D]How the hell\n[G/B]can a person\n[D]Go to work in the mor-\n[G/B]ning\n[D]Come home in the\n[G/B]evening And have\n[A]nothing to [D]say\n\n[Chorus]\n[D]Make me an an-\n[C]gel That\n[G/B]flies from Montgome-\n[D]ry\nMake me a pos-\n[C]ter Of an\n[G/B]old rodeo\n[D]\nJust give me one\n[C]thing That\n[G/B]I can hold on\n[D]to\nTo believe in this\n[G/B]livin' Is just a\n[A]hard way\n[D]to go\n\n[Outro]\n[D]To believe in this\n[G/B]livin' Is just a\n[A]hard way to [D]go",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "000232",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Angel From Montgomery",
+  "id": "7071ba5a8d41665a2135e9fc9814ea0319f0d002c3a143a42218e7ac73eb127a",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 299,
+  "normalizedKey": "bonnie raitt|angel from montgomery",
+  "playableChords": [
+    "D",
+    "G/B",
+    "A",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Break"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 76,
+      "name": "Interlude"
+    },
+    {
+      "measure": 84,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 100,
+      "name": "Chorus"
+    },
+    {
+      "measure": 116,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7071ba5a8d41665a2135e9fc9814ea0319f0d002c3a143a42218e7ac73eb127a",
+    "version": "BCFZ"
+  },
+  "tempo": 126,
+  "title": "Angel From Montgomery",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

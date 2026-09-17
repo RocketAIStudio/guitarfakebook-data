@@ -1,0 +1,119 @@
+{
+  "artist": "Bring Me The Horizon",
+  "artistNormalized": "bring me the horizon",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n\n[Verse 1]\n[Em]Eyes like a car crash\n[D]I know I shouldn't look but\n[Am7]I can't turn away\n[Em]Body like a whiplash\n[D]Salt my wounds but\n[Am7]I can't heal the way\nI feel about\n[Em]you I watch you like a hawk\n[D]I watch you like I'm gonna\n[Am7]tear you limb from limb\n[Em]Will the hunger ever stop?\n[D]Can we sim\n[Am7]ply starve this sin?\n\n[Chorus]\n[Em]That little kiss you stole\n[D]It held my heart and soul\n[Am7]And like a deer in the headlights\nI meet my fate\n[Em]Don't try to fight the storm\n[D]You'll tumble overboard\n[Am7]Tides will bring\nme back to you\n[Em]\n[D]\n[Am7]\n[Em]\n[D]\n[Am7]\nAnd on my\n\n[Verse 2]\n[Em]Deathbed,\n[D]all I'll see is you\n[Am7]\nThe life\n[Em]may leave my lungs\n[D]But my\n[Am7]heart will stay with you\n\n[Chorus]\n[Em]That little kiss you stole\n[D]It held my heart and soul\n[Am7]And like a ghost in the silence\nI disappear\n[Em]Don't try to fight the storm\n[D]You'll tumble overboard\n[Am7]Tides will bring\nme back to you\n\n[Bridge]\n[C]The waves will pull us un\nder [D]\n[Em]Tides will [Am7]bring\nme back to you\n[C]The waves will pull us un\nder [D]\n[Em]Tides will [Am7]bring\nme back to you\n[C]The waves will pull us un\nder [D]\n[Em]Tides will [Am7]bring\nme back to you\n[C]\n[D]\n[Em]Tides will [Am7]bring\nme back to you\n\n[Bridge 2]\n[C]\n[Cadd#11]\n[Em]  [Am7]\n[C]\n[Cadd#11]\n[Em]  [Am7]\n\n[Chorus]\n[C]That little kiss you stole\nIt held my heart and soul\n[Em]And like a ghost in the [Am7]silence\nI disappear\n[C]Don't try to fight the storm\nYou'll tumble overboard\n[Em]Tides will [Am7]bring\nme back to you\n\n[Outro]\nThat little kiss you stole\nIt held my heart and soul\nAnd like a deer in the headlights\nI meet my fate\nDon't try to fight the storm\nYou'll tumble overboard\nTides will bring\nme back to you",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x0201x",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd#11": {
+      "catalog": [
+        "x3405x"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "457775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Deathbeds",
+  "id": "facf61c72e553e276f67441271a87768fdf1034c18b8c0439ad1ff01775e9d54",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 332,
+  "normalizedKey": "bring me the horizon|deathbeds",
+  "playableChords": [
+    "Em",
+    "D",
+    "Am7",
+    "C",
+    "Cadd#11"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 81,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "facf61c72e553e276f67441271a87768fdf1034c18b8c0439ad1ff01775e9d54",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Deathbeds",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

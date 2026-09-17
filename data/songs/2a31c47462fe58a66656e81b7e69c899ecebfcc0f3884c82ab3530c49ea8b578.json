@@ -1,0 +1,101 @@
+{
+  "artist": "Coldplay",
+  "artistNormalized": "coldplay",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\nThree, two, one\nOh\n,\noh\n\n[Verse 1]\n[C]Sometimes I just can't take it\nSometimes I just can't take it and it isn't alright\n[Bb]I'm not gonna make it\nAnd I think my shoe's untight, oohooh\n[C]I'm like a broken record\nI'm like a broken record and I'm not playin' right\n[Bb]Drocer nekorb a ekil mi\n'Til you tell me on your heavenly phone To hold tight\n\n[Pre-Chorus]\n[C]Come on, come on\nOhohoh, oh, oh, ohoh\n[Bb]Come on, come on\nYeah, don't let go oh, oh, ohoh\n[C]Hold tight, hold tight\nOhohoh, oh, oh, ohoh\n[Bb]\"It's alright, it's alright\" she said I've got my\nhands up shakin' just to let you know That\n\n[Chorus]\n[F]you've got a higher\n[C]power Got me singing every\n[Bb]second, dancing every\nhour Oh yеah,\n[F]you've got a higher\n[C]power And you're really\n[Bb]someone I wanna\n[F]know, [Bb]ooh\n[C]\n\n[Verse 2]\n[C]This boy is electric\nThis boy is electric and you're sparklin' like\n[Bb]The universe connected And I'm\nbuzzin' night after night after night\n[C]This joy is electric\nThis joy is electric and you're circuiting through\n[Bb]I'm so happy that I'm alive\nHappy I'm alive at the same time as you 'Cause\n\n[Chorus]\n[F]you've got a higher\n[C]power Got me singing every\n[Bb]second, dancing every\nhour Oh yeah,\n[F]you've got a higher\n[C]power And you're really\n[Bb]someone I wanna\n[F]know [Bb]I wanna\n[F]know, [Bb]ooh\n\n[Bridge]\n[C]You've got, yeah, you've got a higher\nYou've got, yeah, you've got a higher\n[Bb]You've got, yeah, you've got a higher\nYou've got, ohohoh, oh, oh, ohoh\n[C]You've got, oh, you've got a higher\nYou've got, yeah, you've got a higher\n[Bb]You've got, oh, you've got a higher My\nhands up shaking just to let you know now\n\n[Chorus]\n[F]You've got a higher\n[C]power You've got me singing every\n[Bb]second, dancing every\nhour Oh yeah,\n[F]you've got a higher\n[C]power You're once in any\n[Bb]lifetime I'm going a million miles an\n[F]hour [Bb]When for\n\n[Outro]\n[F]so long I'd been\n[C]down on my knees Then your\n[Bb]love song saved me\n[F]over and [C]over For\n[F]so long I'd been\n[C]down on my knees 'Til your\n[Bb]love song floats me\n[F]on [Bb]Ee-\n[F]oh, [Bb]ohoh\n[C]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Higher Power",
+  "id": "2a31c47462fe58a66656e81b7e69c899ecebfcc0f3884c82ab3530c49ea8b578",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 453,
+  "normalizedKey": "coldplay|higher power",
+  "playableChords": [
+    "C",
+    "Bb",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Bridge"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2a31c47462fe58a66656e81b7e69c899ecebfcc0f3884c82ab3530c49ea8b578",
+    "version": "BCFZ"
+  },
+  "tempo": 180.318,
+  "title": "Higher Power",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

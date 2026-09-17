@@ -1,0 +1,129 @@
+{
+  "artist": "Chris Tomlin",
+  "artistNormalized": "chris tomlin",
+  "capo": "No capo",
+  "chordPositionCount": 19,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G]\nAmaz-\n\n[Verse 1]\n[G]ing grace how\n[C]sweet the sound [G]That\nsaved a wretch like\n[D]me I\n[G]once was lost [G/B]but\n[C]now am [G]found Was\n[G]blind but [D]now I\n[G]see Twas\n\n[Verse 2]\n[G]grace that taught my\n[C]heart to fear [G]And\nGrace my fears re-\n[D]lieved How\n[G]precious [G/B]did that\n[C]Grace appear [G]The\n[G]hour I [D]first believed\n[G][G/B]My chains are\n\n[Chorus]\n[Cadd9]gone I’ve been set\n[G/B]free My God my\n[Cadd9]Savior has ransomed\n[G/B]me And like a\n[Cadd9]flood His mercy\n[G/B]rains Unending love\n[A7sus4][Dsus4]amazing Grace\n\n[Interlude]\n[G]\nThe Lord\n\n[Verse 3]\n[G]has promised good\n[C]to me [G]His\nword my hope secures\n[D]He\n[G]will my [G/B]shield and\n[C]portion be [G]As\n[G]long as [D]life endures\n[G][G/B]My chains are\n\n[Chorus]\n[Cadd9]gone I’ve been set\n[G/B]free My God my\n[Cadd9]Savior has ransomed\n[G/B]me And like a\n[Cadd9]flood His mercy\n[G/B]rains Unending love\n[A7sus4][Dsus4]amazing Grace\n[G][G/B]My chains are\n[Cadd9]gone I’ve been set\n[G/B]free My God my\n[Cadd9]Savior has ransomed\n[G/B]me And like a\n[Cadd9]flood His mercy\n[G/B]rains Unending love\n[A7sus4][Dsus4]amazing Grace\nThe earth\n\n[Verse 4]\n[G]shall soon dissolve\n[C]like [G]snow The sun\nforbear to shine\n[D]But\n[G]God who [G/B]called me\n[C]here below [G]Will\n[G]be [D]forever mine\n[G][C][G]Will be\n\n[Outro]\n[D][G]forever mine\n[G][C][G]You are\n[D][G]forever\n[G]mine",
+  "diagrams": {
+    "A7sus4": {
+      "catalog": [
+        "x02033"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus4": {
+      "catalog": [
+        "xx0233"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Amazing Grace (My Chains Are Gone)",
+  "id": "21fcc3fe1415fd6ced7d89604a06afadfe4c03386f9ca1cb3682746fd3e14649",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 227,
+  "normalizedKey": "chris tomlin|amazing grace my chains are gone",
+  "playableChords": [
+    "G",
+    "C",
+    "D",
+    "G/B",
+    "Cadd9",
+    "A7sus4",
+    "Dsus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 28,
+      "name": "Interlude"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "21fcc3fe1415fd6ced7d89604a06afadfe4c03386f9ca1cb3682746fd3e14649",
+    "version": "BCFZ"
+  },
+  "tempo": 63,
+  "title": "Amazing Grace (My Chains Are Gone)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,136 @@
+{
+  "artist": "Cavetown",
+  "artistNormalized": "cavetown",
+  "capo": "No capo",
+  "chordPositionCount": 28,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[C]\n[Cmaj7]\n[Cadd9]\n[Cmaj7]\n\n[Verse 1]\n[C]Don't let me\n[Cmaj7]see what I\n[Cadd9]am\n[Cmaj7]Cause\n[F]I can't\nstand it,\n[Fm]no I\n[Fdim]can't I'm\n[C]coming back\n[Cmaj7]round a-\n[Cadd9]gain\n[Cmaj7]It's been\n[F]over a\nyear, I\n[Fm]thought this was the\n[Fdim]end And\n\n[Chorus]\n[Am]now I\ndon't re-\n[F]member\ncomfort\n[C]because\nwhat I am\n[G6]is what I'm\nnot\n[Am]I don't\nbe long here,\n[F]it's\njust hope\n[C]less Find me\na way\n[G6]out if you\nlove me at\n\n[Pre-Verse]\n[C]all\n[Cmaj7]\n[Cadd9]\n[Cmaj7]\n\n[Verse 2]\n[C]Don't let me\n[Cmaj7]hear what they\n[Cadd9]say\n[Cmaj7]cause\n[F]I can't\nstand it\n[Fm]every\n[Fdim]day I'm\n[C]thinking that\n[Cmaj7]I should\n[Cadd9]leave\n[Cmaj7]now And\n[F]I don't\nthink I'm coming\n[Fm]back this\n[Fdim]time Cause\n\n[Chorus]\n[Am]now I\ndon't re-\n[F]member\ncomfort be-\n[C]cause what\nI am is\n[G6]what I'm\nnot This\n[Am]phantom\nsking it's\n[F]weird to live\nin So\n[C]find me a\nway out\n[G6]if you\nlove me at\n\n[Outro]\n[C]all\n[Cmaj7]\n[Cadd9]\n[Cmaj7]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32030"
+      ],
+      "catalogCount": 1
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fdim": {
+      "catalog": [
+        "1231xx"
+      ],
+      "catalogCount": 1
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320030"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dysphoric",
+  "id": "f3d913eba83e7fbf0fe6e0e10617bc035a1ce9dc10555a4e4d7f3b84497e4b3b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 144,
+  "normalizedKey": "cavetown|dysphoric",
+  "playableChords": [
+    "C",
+    "Cmaj7",
+    "Cadd9",
+    "F",
+    "Fm",
+    "Fdim",
+    "Am",
+    "G6"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f3d913eba83e7fbf0fe6e0e10617bc035a1ce9dc10555a4e4d7f3b84497e4b3b",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Dysphoric",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

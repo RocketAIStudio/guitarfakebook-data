@@ -1,0 +1,111 @@
+{
+  "artist": "Brandi Carlile",
+  "artistNormalized": "brandi carlile",
+  "capo": "2",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]\n[Asus4]\n[A]\n[Asus4]All of these li-\n\n[Verse 1]\n[A]nes across my fa-\nce Tell you the sto-\n[E]ry of who I a-\nm So many sto-\n[F#m]ries of where I've bee-\nn And how I go-\n[Dsus2]t to where I a-\nm But these sto-\n[A]ries don't mean\n[E]anything When you've\n[F#m]got no one to\n[Dsus2]tell them to It's\n[A]true\n[E]I was made for\n[A]you [Asus4]\n[A]I climbed acro-\n\n[Verse 2]\n[A]ss the mountainto-\nps Swam all acro-\n[E]ss the ocean blue\nI crossed all the li-\n[F#m]nes and I broke all the ru-\nles But baby I bro-\n[Dsus2]ke them all for you\nOh because e-\n[A]ven when I wa-\n[E]s flat broke You\n[F#m]made me feel like a\n[Dsus2]million bucks You\n[A]do\n[E]I was made for\n[A]you [Asus4]\n[A]  [Asus4]\n\n[Solo]\n[A]\n[E]\n[F#m]\n[Dsus2]\n\n[Bridge]\n[A]\n[E]\n[F#m]\n[Dsus2]\n[A]\n[E]\n[A]  [Asus4]\n[A]You see the smi-\n\n[Verse 3]\n[A]le that's on my mou-\nth It's hiding the wo-\n[E]rds that don't come ou-\nt All of my frie-\n[F#m]nds who think that I'm ble-\nssed They don't know\n[Dsus2]my head is a me-\nss No\n[A]they don't know who I\n[E]really am And\n[F#m]they don't know what I-\n[Dsus2]'ve been through Like you\n[A]do And\n[E]I was made for\n[A]you [Asus4]\n[A]All of these\n\n[Verse 4]\n[A]lines across my fa-\nce Tell you the sto-\n[E]ry of who I a-\nm So many sto-\n[F#m]ries of where I've\nbeen And how I go-\n[Dsus2]t to where I a-\nm Oh but these\n[A]stories don't mean\n[E]anything When you've\n[F#m]got no one to\n[Dsus2]tell them to It's\n[A]true\n[E]I was made for you\n[A]  [Asus4]\n[A]Oh yeah, [Asus4]well it's\n\n[Outro]\n[A]true That\n[E]I was made for\n[A]you.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Story",
+  "id": "a91baef4dd65fa4d2adcae1dafa1de80e037d392bf49c5ac5c6bb6680a924cd5",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 280,
+  "normalizedKey": "brandi carlile|the story",
+  "playableChords": [
+    "A",
+    "Asus4",
+    "E",
+    "F#m",
+    "Dsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Solo"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 69,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 85,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a91baef4dd65fa4d2adcae1dafa1de80e037d392bf49c5ac5c6bb6680a924cd5",
+    "version": "BCFZ"
+  },
+  "tempo": 94,
+  "title": "The Story",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

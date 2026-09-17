@@ -1,0 +1,80 @@
+{
+  "artist": "Cold Cave",
+  "artistNormalized": "cold cave",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A5]\n[C5]\n[G5]\n[E5]\n[A5]\n[C5]\n[G5]\n[E5]\n\n[Verse 1]\n[A5]Hello rats nest\nlooking for an old friend\n[C5]Sip it hard when you\ncan't afford the medicine\n[G5]You're in bed with the\nfuture ex girlfriend\n[E5]Telling lies about e-\nmotions or something\n[A5]Cosmic sounds from the\nheadphone, dead phone\n[C5]Comet falls from the\nbomb filled sky I\n[G5]Can't compete with\nthe air I'm breathing\n[E5]Or the people who ne-\ned me to fail for them\n\n[Interlude]\n[A5]\n[C5]\n[G5]\n[E5]\n\n[Verse 2]\n[A5]Hello rats nest\nlooking for an old friend\n[C5]Sip it hard when you\ncan't afford the medicine\n[G5]You're in bed with the\nfuture ex girlfriend\n[E5]Telling lies about e-\nmotions or something\n[A5]Cosmic sounds from the\nheadphone, dead phone\n[C5]Comet falls from the\nbomb filled sky I\n[G5]Can't compete with\nthe air I'm breathing\n[E5]Or the people who ne-\ned me to fail for them\n\n[Outro]\n[A5]\nFor them\n[C5]\n[G5]\n[E5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hello Rats",
+  "id": "34e650fc99b7079de6b59ab5067d1196c9dbd2a2fe40e9cc905e18256bf69c10",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 166,
+  "normalizedKey": "cold cave|hello rats",
+  "playableChords": [
+    "A5",
+    "C5",
+    "G5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "34e650fc99b7079de6b59ab5067d1196c9dbd2a2fe40e9cc905e18256bf69c10",
+    "version": "BCFZ"
+  },
+  "tempo": 151,
+  "title": "Hello Rats",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

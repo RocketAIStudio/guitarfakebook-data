@@ -1,0 +1,115 @@
+{
+  "artist": "Converge",
+  "artistNormalized": "converge",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D5]\n[D5]  [Db5]\n\n[Verse 1]\n[Dm]Sick matriarch\nWe are worlds apart\nYour dysfunction rips\nThe roots from my heart\n\n[Pre-Chorus]\n[Db5]I\nswear that I'm trying\nI\nswear that I'm trying, but\n\n[Chorus]\n[Fmadd9/C]You don't\nknow what\nmy pain feels like\n\n[Interlude]\n[D5]\n[D5]  [Db5]\n\n[Verse 2]\n[Dm]And our memory dims\nA bitter sting sets in\nThe resentment grows\nAnd my blood thickens\n\n[Pre-Chorus]\n[Db5]I\nswear that I'm trying\nI\nswear that I'm trying, but\n\n[Chorus]\n[Fmadd9/C]You don't\nknow what\nmy pain feels like\nYou don't\nknow what\nmy pain feels like Just need to\n\n[Bridge]\n[C5]leave, just have to\nfind a way out Just have to\nrun, just need to\nfight my way out Just need to\nleave, just have to\nfind a way out Just have to\nrun, just need to\nfight my way out\nStay calm, stay calm,\nkeep your head down\nStay calm, stay calm,\nkeep your head down Just need to\nleave, just have to\nfind a way out Just have to\nrun, just need to\nfight my way out\n\n[Chorus]\n[Fmadd9/C]You don't\nknow what\nmy pain feels like\nYou don't\nknow what\nmy pain feels like\nYou don't\nknow what\nmy pain feels like\nYou don't\nknow what\nmy pain feels like\n\n[Outro]\n[Fmadd9/C]\nYou don't know what my pain feels like\nYou don't know what my pain feels like",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Db5": {
+      "catalog": [
+        "111xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "222012",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "Fmadd9/C": {
+      "catalog": [
+        "000000"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Can Tell You About Pain",
+  "id": "90ec3577649b2a04fd8811a6bcf820b323d4f7e71baf56d64a05510df4f32cc8",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 221,
+  "normalizedKey": "converge|i can tell you about pain",
+  "playableChords": [
+    "D5",
+    "Db5",
+    "Dm",
+    "Fmadd9/C",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Interlude"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "90ec3577649b2a04fd8811a6bcf820b323d4f7e71baf56d64a05510df4f32cc8",
+    "version": "BCFZ"
+  },
+  "tempo": 190,
+  "title": "I Can Tell You About Pain",
+  "tuning": "C G C F G# C",
+  "variantRole": "primary"
+}

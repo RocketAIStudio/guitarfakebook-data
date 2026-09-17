@@ -1,0 +1,162 @@
+{
+  "artist": "Buddy Holly",
+  "artistNormalized": "buddy holly",
+  "capo": "No capo",
+  "chordPositionCount": 38,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[C]  [Am]\n[Dm][G][Gaug]Oh,\n\n[Verse 1]\n[C]girl on my\n[Am]mind Please\n[Dm]come back to\n[G]me [Gaug]I\n[C]love you with all my\n[Am]heart With\n[Dm]you I want to\n[G]be [Gaug]I\n\n[Pre-Chorus]\n[C]want you to be\n[C7]near me Is that too\n[F]much to\n[Fm]ask? [G]Oh, [Gaug]\n\n[Chorus]\n[C]girl on my\n[Am]mind Please\n[Dm]say you [G]will be\n[C]mine [C7]You're the\n\n[Bridge]\n[F]one and the\n[C]on ly [C7]You are\n[F]mine to have and to\n[C]love [C7]No\n[F]one could ask for\n[C]more You're\n[Am]mine to a-\n[G]dore [Gaug]\n\n[Chorus]\n[C]Girl on my\n[Am]mind Please\n[Dm]say [G]you will be\n[C]mine [F][Fm]\n[C][C7]You are the\n\n[Bridge]\n[F]one and the\n[C]on ly [C7]You are\n[F]mine to have and to\n[C]love [C7]No\n[F]one could ask for\n[C]more You're\n[Am]mine to a-\n[G]dore [Gaug]\n\n[Chorus]\n[C]Girl on my\n[Am]mind Please\n[Dm]say you [G]will be\n[C]mine [F][Fm]\n[C]  [Db7sus2]  [Gm/C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "Db7sus2": {
+      "catalog": [
+        "x46444"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gaug": {
+      "catalog": [
+        "xx5443"
+      ],
+      "catalogCount": 1
+    },
+    "Gm/C": {
+      "catalog": [
+        "x35333"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Girl On My Mind",
+  "id": "29ce8ca10935721d1a0079d31d0672f19932a513e138c82d92f0927f3fcef1ce",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 122,
+  "normalizedKey": "buddy holly|girl on my mind",
+  "playableChords": [
+    "C",
+    "Am",
+    "Dm",
+    "G",
+    "Gaug",
+    "C7",
+    "F",
+    "Fm",
+    "Db7sus2",
+    "Gm/C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Bridge"
+    },
+    {
+      "measure": 40,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "29ce8ca10935721d1a0079d31d0672f19932a513e138c82d92f0927f3fcef1ce",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "Girl On My Mind",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

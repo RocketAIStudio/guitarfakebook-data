@@ -1,0 +1,101 @@
+{
+  "artist": "Chuck Berry",
+  "artistNormalized": "chuck berry",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Bb]\n[Eb]\n[Bb]\n[F]\n[Eb]\n[Bb]\nWay\n\n[Verse 1]\n[Bb]down Louisiana close to\nNew Orleans, Way\nback up in the woods among the\nevergreens. There\n[Eb]stood a log cabin made of\nearth and wood, Where\n[Bb]lived a country boy named\nJohnny B Good. He\n[F]never ever learned to read and\nwrite so well, But he could\n[Bb]play the guitar just like the\nringin' a bell. Go, g-\n\n[Chorus]\n[Bb]o. Go,\nJohnny go, g-\no. Go,\nJohnny go, g-\n[Eb]o. Go,\nJohnny go, g-\n[Bb]o. Go,\nJohnny go, g-\n[F]o.\nJohnny B Go-\n[Bb]od.\nHe used to\n\n[Verse 2]\n[Bb]carry his guitar in a\ngunny sack And\nsit beneath the trees by the\nrailroad track. Oh, en-\n[Eb]gineers would see him sitting\nin the shade\n[Bb]Strumming to the rhythm that the\ndrivers made.\n[F]People passing by they would\nstop and say: \"Oh, m-\n[Bb]y how that little country\nboy could play.\" Go, g-\n\n[Chorus]\n[Bb]o. Go,\nJohnny go, g-\no. Go,\nJohnny go, g-\n[Eb]o. Go,\nJohnny go, g-\n[Bb]o. Go,\nJohnny go, g-\n[F]o.\nJohnny B Go-\n[Bb]od.\n\n[Solo]\n[Bb]\n[Eb]\n[Bb]\n[F]\n[Bb]\n[Bb]\n[Eb]\n[Bb]\n[F]\n[Bb]\nHis\n\n[Verse 3]\n[Bb]mama told him: \"Someday you will\nbe a man, And\nyou will be the leader of a\nbig old band. Ma-\n[Eb]ny people coming from\nmiles around To\n[Bb]hear you play your music when the\nsun go down. Ma-\n[F]ybe someday your name will\nbe in lights Sayin'\n[Bb]Johnny B Good tonight.\"\nGo, go, g-\n\n[Chorus]\n[Bb]o, Johnny, go.\nGo, go, g-\no, Johnny go.\nOh, go, g-\n[Eb]o, Johnny go.\nOh, go, g-\n[Bb]o, Johnny, go.\n\n[Outro]\nG-\n[F]o.\nJohnny B Go-\n[Bb]od.",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "688766",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x6888x",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "x-8-10-10-10-8",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Johnny B Goode *alt 2",
+  "id": "5c412f47f5427cf1fcfbd33d3f8bf4e87a384e1cee3b4ee107d84f6f426c3772",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 305,
+  "normalizedKey": "chuck berry|johnny b goode",
+  "playableChords": [
+    "Bb",
+    "Eb",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Solo"
+    },
+    {
+      "measure": 86,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 98,
+      "name": "Chorus"
+    },
+    {
+      "measure": 105,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5c412f47f5427cf1fcfbd33d3f8bf4e87a384e1cee3b4ee107d84f6f426c3772",
+    "version": "BCFZ"
+  },
+  "tempo": 170,
+  "title": "Johnny B Goode",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

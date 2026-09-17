@@ -1,0 +1,122 @@
+{
+  "artist": "Crosby, Stills & Nash",
+  "artistNormalized": "crosby stills nash",
+  "capo": "2",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Em9]\n[Bm7]\n[C]\n[Am7]\n[Em9]\n[Bm7]\n[C]\n[Am7]\n\n[Verse 1]\n[Em9]Just a song before\n[Bm7]I go To\n[C]whom it may concern\n[Am7]\n[Em9]Traveling twice the speed\n[Bm7]of sound It's\n[C]easy to get burned\n[Am7]\n\n[Verse 2]\n[G]When the shows were o-\n[F]ver We\n[Am7]had to get back home\n[Bm7]And\n[G]when we opened up\n[F]the door I had to\n[Am7]be alone\nShe\n\n[Verse 3]\n[Em9]helped me with my suit-\n[Bm7]case She\n[C]stands before my eyes\n[Am7]\n[Em9]Driving me to the a-\n[Bm7]irport And\n[C]to the friendly skies\n[Am7]\n\n[Verse 4]\n[G]Going through secu-\n[F]rity I\n[Am7]held her for so long\n[Bm7]She\n[G]finally looked at me\n[F]in love And she was\n[Am7]gone\n\n[Solo]\n[Em9]\n[Bm7]\n[C]\n[Am7]\n[Em9]\n[Bm7]\n[C]\n[Am7]\n\n[Outro]\n[Em9]Just a song before\n[Bm7]I go A\n[C]lesson to be learned\n[Am7]\n[Em9]Traveling twice the speed\n[Bm7]of sound It's\n[C]easy to get burned\n[Em9]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em9": {
+      "catalog": [
+        "024030"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Just a Song Before I Go",
+  "id": "022593c028a4240197e1e9e0d140be841110cc6683116e296d4af7e3318851c5",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 130,
+  "normalizedKey": "crosby stills nash|just a song before i go",
+  "playableChords": [
+    "Em9",
+    "Bm7",
+    "C",
+    "Am7",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 41,
+      "name": "Solo"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "022593c028a4240197e1e9e0d140be841110cc6683116e296d4af7e3318851c5",
+    "version": "BCFZ"
+  },
+  "tempo": 108,
+  "title": "Just a Song Before I Go",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

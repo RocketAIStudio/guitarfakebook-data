@@ -1,0 +1,81 @@
+{
+  "artist": "Counting Crows",
+  "artistNormalized": "counting crows",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Am7]\n[F/Bb]\n[F]\n[F/Bb]\n[Am7]\n[F/Bb]\n[F]\n[F/Bb]\n\n[Verse 1]\n[Am7]I am co-\n[F/Bb]lorblind\n[F]\n[F/Bb]\n[Am7]Coffee black\n[F/Bb]and egg white\n[F]\n[F/Bb]\n[Am7]Pull me out\n[F/Bb]from inside\n[F]\n[F/Bb]\n[Am7]I am rea-\n[F/Bb]dy, I am rea-\n[F]dy, I am rea-\n[F/Bb]dy, I am\n\n[Verse 2]\n[Am7]Taffy stuck\n[F/Bb]and tongue tied\n[F]\n[F/Bb]\n[Am7]Stutter shook\n[F/Bb]and uptight\n[F]\n[F/Bb]\n[Am7]Pull me out\n[F/Bb]from inside\n[F]\n[F/Bb]\n[Am7]I am rea-\n[F/Bb]dy, I am rea-\n[F]dy, I am rea-\n[F/Bb]dy, I am\n[Am7]fine\n[F/Bb]\n[F]\n[F/Bb]\n\n[Verse 3]\n[Am7]I am co-\n[F/Bb]vered in skin\n[F]\n[F/Bb]\n[Am7]No one gets\n[F/Bb]to come in\n[F]\n[F/Bb]\n[Am7]Pull me out\n[F/Bb]from inside\n[F]\n[F/Bb]\n[Am7]I am fol-\n[F/Bb]ded and unfol-\n[F]ded and unfol-\n[F/Bb]ding I am\n[Am7]co-\n[F/Bb]lorblind\n[F]\n[F/Bb]\n[Am7]Coffee black\n[F/Bb]and egg white\n[F]\n[F/Bb]\n[Am7]Pull me out\n[F/Bb]from inside\n[F]\n[F/Bb]\n[Am7]I am rea-\n[F/Bb]dy, I am rea-\n[F]dy, I am rea-\n[F/Bb]dy, I am\n\n[Outro]\n[F]fine\n[F/Bb]\n[F]\n[F/Bb]I am\n[F]fine\n[F/Bb]\n[F]\n[F/Bb]I am\n[F]fine",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02013",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F/Bb": {
+      "catalog": [
+        "x13211"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Colorblind *alt",
+  "id": "9a4eeca5bc00c64b467300d0c595d405c69b91baae885514f25cba26ab4e9548",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 132,
+  "normalizedKey": "counting crows|colorblind",
+  "playableChords": [
+    "Am7",
+    "F/Bb",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 77,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9a4eeca5bc00c64b467300d0c595d405c69b91baae885514f25cba26ab4e9548",
+    "version": "BCFZ"
+  },
+  "tempo": 107,
+  "title": "Colorblind",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

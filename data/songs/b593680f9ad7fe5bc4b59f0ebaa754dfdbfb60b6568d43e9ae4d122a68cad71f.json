@@ -1,0 +1,139 @@
+{
+  "artist": "Buddy Holly",
+  "artistNormalized": "buddy holly",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Chorus]\n[A]It's so [E]easy to\n[D]fall in [E]love\n[A]It's so [D]easy to\n[E]fall in [A]love\n\n[Interlude]\n[A]  [E]\n[D]  [E]\n[A]  [D]\n[E]  [A]\n\n[Verse 1]\n[A]People [E]tell me\n[D]love's for [E]fools So\n[A]here I go, [D]breaking\n[E]all of the [A]rules It seems so\n\n[Pre-Chorus]\n[D]easy\nOhh, so doggone\n[A]easy\nMmm, it's seems so\n[D]easy\nWhere\n[B7]you're concerned, my\n[E]heart has learned\n\n[Chorus]\n[A]It's so [E]easy to\n[D]fall in [E]love\n[A]It's so [D]easy to\n[E]fall in [A]love\n\n[Interlude]\n[A]  [E]\n[D]  [E]\n[A]  [D]\n[E]  [A]\n\n[Solo]\n[D]\n[A]\n[D]\n[B7]\n[E]\n\n[Chorus]\n[A]It's so [E]easy to\n[D]fall in [E]love\n[A]It's so [D]easy to\n[E]fall in [A]love\n\n[Verse 2]\n[A]Look [E]into your\n[D]heart to [E]see\n[A]What your [D]love book has\n[E]set apart for [A]me It seems so\n\n[Pre-Chorus]\n[D]easy\nOhh, so doggone\n[A]easy\nMmm, it's seems so\n[D]easy\nWhere\n[B7]you're concerned, my\n[E]heart has learned\n\n[Chorus]\n[A]It's so [E]easy to\n[D]fall in [E]love\n[A]It's so [D]easy to\n[E]fall in [A]love\n\n[Interlude]\n[A]  [E]\n[D]  [E]\n[A]  [D]\n[E][A]Well, It's so\n\n[Pre-Chorus]\n[D]easy\nOhh, so doggone\n[A]easy\nMmm, it's seems so\n[D]easy\nWhere\n[B7]you're concerned, my\n[E]heart has learned\n\n[Chorus]\n[A]It's so [E]easy to\n[D]fall in [E]love\n[A]It's so [D]easy to\n[E]fall in [A]love [A7sus2]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7sus2": {
+      "catalog": [
+        "x02000"
+      ],
+      "catalogCount": 1
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "It's So Easy",
+  "id": "b593680f9ad7fe5bc4b59f0ebaa754dfdbfb60b6568d43e9ae4d122a68cad71f",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 190,
+  "normalizedKey": "buddy holly|it s so easy",
+  "playableChords": [
+    "A",
+    "E",
+    "D",
+    "B7",
+    "A7sus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Chorus"
+    },
+    {
+      "measure": 6,
+      "name": "Interlude"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Interlude"
+    },
+    {
+      "measure": 30,
+      "name": "Solo"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Interlude"
+    },
+    {
+      "measure": 62,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b593680f9ad7fe5bc4b59f0ebaa754dfdbfb60b6568d43e9ae4d122a68cad71f",
+    "version": "BCFZ"
+  },
+  "tempo": 138,
+  "title": "It's So Easy",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

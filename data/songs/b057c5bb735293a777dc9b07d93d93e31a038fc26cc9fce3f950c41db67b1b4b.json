@@ -1,0 +1,131 @@
+{
+  "artist": "Buckethead",
+  "artistNormalized": "buckethead",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G/B]\n[E5/B]\n[G/B]\n[E5/B]\n[G/B]\n[E5/B]\n[G/B]\n[E5/B]\n[G/B]\n[E5/B]\n[G/B]\n[E5/B]\n[G/B]\n[E5/B]\n[G/B]\n[E5/B]\n\n[Verse 1]\n[Bm]\n[Dadd11]\n[Bm]\n[Dadd11]\n[Bm]\n[Dadd11]\n[Bm]\n[Dadd11]\n\n[Interlude 1]\n[G/B]\n[E5/B]\n[G/B]\n[E5/B]\n[G/B]\n[E5/B]\n[G/B]\n[E5/B]\n\n[Verse 2]\n[Bm]\n[Dadd11]\n[Bm]\n[Dadd11]\n[Bm]\n[Dadd11]\n[Bm]\n[Dadd11]\n\n[Pre-Chorus]\n[Bm]Buckethead's a psycho Buckethead's\na psycho He's a total psycho\nBuckethead's a psycho Buckethead's\na psycho He's a total psycho\n\n[Chorus]\n[B5]\n\n[Bridge]\n[Bm]\n[Dadd11]\n[Bm]\n[Dadd11]\n\n[Interlude 2]\n[G/B]\n[E5/B]\n[G/B]\n[E5/B]\n[G/B]\n[E5/B]\n[G/B]\n[E5/B]\n\n[Verse 3]\n[Bm]\n[Dadd11]\n[Bm]\n[Dadd11]\n[Bm]\n[Dadd11]\n[Bm]\n[Dadd11]\n\n[Pre-Chorus]\n[Bm]Buckethead's a psycho Buckethead's\na psycho He's a total psycho\nBuckethead's a psycho Buckethead's\na psycho He's a total psycho\n\n[Chorus]\n[B5]\n\n[Bridge]\n[B5]\n\n[Verse 4]\n[B5]\n\n[Verse 5]\n[Bm]\n[Dadd11]\n[Bm]\n[Dadd11]\n[Bm]\n[Dadd11]\n[Bm]\n[Dadd11]\n[G/B]He's got a bucket\n[E5/B]on his head\n\n[Solo]\n[B5]",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "022003",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "Dadd11": {
+      "catalog": [
+        "3354xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5/B": {
+      "catalog": [
+        "6679xx"
+      ],
+      "catalogCount": 1
+    },
+    "G/B": {
+      "catalog": [
+        "032xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Frozen Brains Tell No Tales",
+  "id": "b057c5bb735293a777dc9b07d93d93e31a038fc26cc9fce3f950c41db67b1b4b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 80,
+  "normalizedKey": "buckethead|frozen brains tell no tales",
+  "playableChords": [
+    "G/B",
+    "E5/B",
+    "Bm",
+    "Dadd11",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Interlude 1"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Interlude 2"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 73,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Bridge"
+    },
+    {
+      "measure": 97,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 105,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 115,
+      "name": "Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b057c5bb735293a777dc9b07d93d93e31a038fc26cc9fce3f950c41db67b1b4b",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "Frozen Brains Tell No Tales",
+  "tuning": "B E A D F# B",
+  "variantRole": "primary"
+}

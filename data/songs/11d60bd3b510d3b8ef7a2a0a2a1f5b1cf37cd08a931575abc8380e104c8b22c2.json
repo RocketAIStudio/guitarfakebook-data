@@ -1,0 +1,144 @@
+{
+  "artist": "Cavetown",
+  "artistNormalized": "cavetown",
+  "capo": "No capo",
+  "chordPositionCount": 32,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Cmaj7]\n[Cm]\n[G]\n[Cmaj7]\n[Cm]\n[G]\n\n[Verse 1]\n[Cmaj7]Often\n[Cm]I am upset\n[G]that I cannot\nfall in love but I\n[Cmaj7]guess This avoids the\n[Cm]stress of falling out of it\n[G]\n[Cmaj7]Are you\n[Cm]tired of me yet?\n[G]I'm a little\nsick right now but I\n[Cmaj7]swear When I'm ready\n[Cm]I will fly us out of here\n[G]\n\n[Chorus]\n[Em]\n[C]\n[G]I'll cut\nmy hair\n[Em]\n[C]\n[G]To make\nyou stare\n[Em]\n[C]\n[G]I'll hide\nmy chest And I'll\n[Em]figure out a way to get us\n[C]out of here\n[G]\n\n[Break]\n[Em]\n[C]\n[G]\n[Em]\n[C]\n[G]\n[Em]\n[C]\n[G]\n[Em]\n[C]\n[G]\n\n[Verse 2]\n[Cmaj7]Turn off your\n[Ebaug]porcelain face,\n[G]I can't really\nthink right now and this\n[Cmaj7]place Has too many co-\n[Ebaug]lors, enough to drive\n[G]all of us insane\nAre you\n[Cmaj7]dead? Sometimes\n[Ebaug]I think I'm dead\n[G/D]Cause I can feel\n[G]ghosts and ghouls wrapping my\n[Cmaj7]head But I don't wanna\n[Ebaug]fall asleep just yet\n[G]\n\n[Chorus]\n[Em]\n[C]\n[G]My eyes\nwent dark\n[Em]\n[C]\n[G]I don't\nknow where\n[Em]\n[C]\n[G]My pu-\npils are But I'll\n[Em]figure out a way to get us\n[C]out of here\n[G]\n\n[Interlude]\n[Em]Get a load of this\nmonster\n[A]He doesn't know how\nto communicate\n[C]His mind is\nin a different place Will\n[G]everybody please give him a\nlittle bit of space\n[Em]Get a load of this\ntrainwreck\n[A]His hair's a mess and he\ndoesn't know who he is\n[C]yet But little do we\nknow, the stars Wel-\n[G]come him with o-\npen arms\n\n[Outro]\n[C]\n[Cm]Oh,\n[Em]\n[C]\n[G]\nTime is\n[Em]\n[C]\n[G]\nSlowly\n[Em]\n[C]\n[G]\nTracing his face\n[Em]But strangely he\n[C]feels at home in this\n[G]place",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x35453",
+        "x-3-2-0-0-0",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Ebaug": {
+      "catalog": [
+        "xx1003"
+      ],
+      "catalogCount": 1
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/D": {
+      "catalog": [
+        "xx0433"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "This Is Home",
+  "id": "11d60bd3b510d3b8ef7a2a0a2a1f5b1cf37cd08a931575abc8380e104c8b22c2",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 259,
+  "normalizedKey": "cavetown|this is home",
+  "playableChords": [
+    "Cmaj7",
+    "Cm",
+    "G",
+    "Em",
+    "C",
+    "Ebaug",
+    "G/D",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Break"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Interlude"
+    },
+    {
+      "measure": 105,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "11d60bd3b510d3b8ef7a2a0a2a1f5b1cf37cd08a931575abc8380e104c8b22c2",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "This Is Home",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

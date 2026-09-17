@@ -1,0 +1,104 @@
+{
+  "artist": "Bring Me The Horizon",
+  "artistNormalized": "bring me the horizon",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D5]\n[Eb5]\n[D5]\n[Gb5]\n[D5]\n[Eb5]\n[D5]\n[Eb5]\n[D5]\n\n[Verse 1]\nDear diary,\nI don't know what's\nGoing on but\nsomething's up\nThe dog won't\nstop barking And\nI think my T\nV is bust\nEvery\nchannel is the same\nit's sending\nme insane\nAnd earlier\nsomebody\nbit me what a\nfucking day\n\n[Chorus]\nThe sky is\n[Eb5]falling\n[Gb5]It's fucking\n[C5][G5]boring\n[D5]I'm going\n[Eb5]braindead\n[Gb5]Iso-\n[C5][G5]lated\n[D5]God is a\n[Eb5]shithead\n[Gb5]And we're his\n[C5][G5]rejects\n[D5]Traumatised for\n[Eb5]breakfast I can't\n[Gb5]stomach any-\nmore Survival\n\n[Solo]\n[D5]horror\n[Eb5]\n\n[Verse 2]\n[D5]Dear diary,\nI feel itchy\nLike there's bugs un-\n[Eb5]der my skin\n[D5]The dog's gone\nrabid Shut the\nfuck up! Doing my\n[Eb5]head in\n[D5]I keep fading\nin and out\nI don't know\nwhere I've been\nI feel so\nhungry\nWhat the hell is\n[Eb5]happening?\n\n[Chorus]\n[D5]The sky is\n[Eb5]falling\n[Gb5]It's fucking\n[C5][G5]boring\n[D5]I'm going\n[Eb5]brain-dead\n[Gb5]Iso-\n[C5][G5]lated\n[D5]God is a\n[Eb5]shithead\n[Gb5]And we're his\n[C5][G5]rejects\n[D5]Traumatised for\n[Eb5]breakfast I can't\n[Gb5]stomach any-\n[G5]more [C5]Survival\n\n[Interlude]\n[D5]horror\nDear diary,\ndog stopped barking\nProbably 'cause I\nate his face\nTasty,\nitchy T V\nsay there's no more\nhuman race\nKinda\nsad my whole entire\nexistence's\nbeen a waste\nAh, never\nmind It's not the\nend of the world,\noh, wait\n\n[Bridge]\n\n[Outro]",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "222xxx",
+        "22xxxx"
+      ],
+      "catalogCount": 2
+    },
+    "Eb5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gb5": {
+      "catalog": [
+        "666xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dear Diary,",
+  "id": "7469976b249030cdec0f9200ac2d3d7d5088cb33d611f54a429c8cd32811477c",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 255,
+  "normalizedKey": "bring me the horizon|dear diary",
+  "playableChords": [
+    "D5",
+    "Eb5",
+    "Gb5",
+    "G5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 81,
+      "name": "Chorus"
+    },
+    {
+      "measure": 97,
+      "name": "Interlude"
+    },
+    {
+      "measure": 129,
+      "name": "Bridge"
+    },
+    {
+      "measure": 145,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7469976b249030cdec0f9200ac2d3d7d5088cb33d611f54a429c8cd32811477c",
+    "version": "BCFZ"
+  },
+  "tempo": 236,
+  "title": "Dear Diary,",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

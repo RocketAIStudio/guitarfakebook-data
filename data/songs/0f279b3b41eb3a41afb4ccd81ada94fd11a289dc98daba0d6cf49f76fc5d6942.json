@@ -1,0 +1,110 @@
+{
+  "artist": "Coldplay",
+  "artistNormalized": "coldplay",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[Db]My song is lo-\n[Fm6]ve\n[Abadd11]\n[Db]Love to the\n[Fm6]loveless shown\n[Abadd11]\n[Db]And it goes\n[Fm6]on\n[Abadd11]\nYou don't ha-\n[Gbadd9]ve to\n[Fm6]be alone\n[Abadd11]\n[Db]Your heavy he-\n[Fm6]art\n[Abadd11]\n[Db]Is made of\n[Fm6]stone\n[Abadd11]\n[Db]And it's so ha\n[Fm6]rd to see\n[Abadd11]you, clear-\nly You don't\n[Gbadd9]have to be\n[Db]on your\n[Abadd11]own\nYou don't ha-\n[Gbadd9]ve to be\n[Db]on your own\n[Abadd11]\n\n[Chorus]\n[Ebsus4]And I'm\nnot gonna ta-\n[Db]ke it back\n[Abadd11]\n[Ebsus4]And I'm not\ngonna say I\n[Db]don't mean\n[Abadd11]that\n[Ebsus4]You're the tar-\nget that I'm\n[Db]aiming\n[Abadd11]at Can I get\n[Gbadd9]that mes-\n[Db]sage home?\n[Abadd11]\n\n[Verse 2]\n[Db]My song is lo-\n[Fm6]ve\n[Abadd11]\n[Db]My song is\n[Fm6]love unknown\n[Abadd11]\n[Db]But I'm on fi-\n[Fm6]re for you,\n[Abadd11]clear-\nly You don't ha-\n[Gbadd9]ve to\n[Db]be alone\n[Abadd11]\nYou don't ha-\n[Gbadd9]ve to be on\n[Db]your own\n[Abadd11]\n\n[Chorus]\n[Ebsus4]And I'm\nnot gonna ta-\n[Db]ke it back\n[Abadd11]\n[Ebsus4]And I'm not\ngonna say I\n[Db]don't mean that\n[Abadd11]\n[Ebsus4]You're the tar-\nget that I'm\n[Db]aiming at\n[Abadd11]And I'm no-\n[Gbadd9]thing\n[Db]on my own\n[Abadd11]\n[Gbadd9]Got to get\n[Db]that mes-\n[Abadd11]sage\n\n[Solo]\n[Ebsus4]\n[Db]\n[Abadd11]\n[Ebsus4]\n[Db]\n[Abadd11]\n\n[Chorus]\n[Ebsus4]home\nAnd I'm not gon-\n[Db]na stand\n[Abadd11]and\n[Ebsus4]wait I'm\nnot gonna leave\n[Db]it until it's much\n[Abadd11]too\n[Ebsus4]late\nOn a platform, I'm\n[Db]gonna stand\n[Abadd11]and say\n[Gbadd9]That I'm no-\n[Db]thing on\n[Abadd11]my\nown\n[Gbadd9]And I lo-\n[Db]ve you, please\n[Abadd11]co-\n\n[Outro]\n[Gbadd9]\n[Db]\n[Abadd11]\n[Bbm7]\n[Gbadd9]\n[Db]\n[Abadd11]\n[Bbm7]me ho-\n[Gbadd9]me My so-\n[Db]ng is lo-\n[Abadd11]ve, is lo-\n[Bbm7]ve unknown\n[Gbadd9]And I've got\n[Db]to\n[Abadd11]get that\n[Db]mes-\nsage",
+  "diagrams": {
+    "Abadd11": {
+      "catalog": [
+        "355400"
+      ],
+      "catalogCount": 1
+    },
+    "Bbm7": {
+      "catalog": [
+        "577444",
+        "x-1-3-1-2-1",
+        "6-8-6-6-6-6",
+        "x-x-8-10-9-9",
+        "x-13-15-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "8-10-10-9-7-7",
+        "332000",
+        "x35500",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4"
+      ],
+      "catalogCount": 5
+    },
+    "Ebsus4": {
+      "catalog": [
+        "x5774x"
+      ],
+      "catalogCount": 1
+    },
+    "Fm6": {
+      "catalog": [
+        "022000"
+      ],
+      "catalogCount": 1
+    },
+    "Gbadd9": {
+      "catalog": [
+        "133200"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "A Message",
+  "id": "0f279b3b41eb3a41afb4ccd81ada94fd11a289dc98daba0d6cf49f76fc5d6942",
+  "key": "D♭",
+  "keyIdentified": true,
+  "lyricEventCount": 258,
+  "normalizedKey": "coldplay|a message",
+  "playableChords": [
+    "Db",
+    "Fm6",
+    "Abadd11",
+    "Gbadd9",
+    "Ebsus4",
+    "Bbm7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 93,
+      "name": "Solo"
+    },
+    {
+      "measure": 101,
+      "name": "Chorus"
+    },
+    {
+      "measure": 121,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0f279b3b41eb3a41afb4ccd81ada94fd11a289dc98daba0d6cf49f76fc5d6942",
+    "version": "BCFZ"
+  },
+  "tempo": 117,
+  "title": "A Message",
+  "tuning": "F A# D# G# G# C#",
+  "variantRole": "primary"
+}

@@ -1,0 +1,80 @@
+{
+  "artist": "D.R.I.",
+  "artistNormalized": "d r i",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E5]Counter attack! Coun-\nter attack!\n\n[Verse 1]\n[C5]We've his underground [B5]long enough\n[C5]They've got power, [B5]not enough\n[C5]Time to start, [B5]time to act They've\n[C5]got our lives They've [B5]got us trapped\n[C5]Stab the system [B5]in the back\n\n[Bridge]\n[E5]  [A5]\n[E5]  [A5]\n\n[Verse 2]\n[C5]Face your fears, [B5]face the facts\n[C5]Time to start, [B5]time to act\n[C5]Time to show them [B5]that we care\n[C5]Time to show that [B5]we're not scared\n[C5]Time to show them [B5]how to share their\nmoney\n\n[Outro]\n[E5]Counter attack! Coun-\nter attack!",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Counter Attack",
+  "id": "8cc802f49cf5e78e9c7001204260d1168766751d296b54e02e0e03cd0c8aa0f3",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 86,
+  "normalizedKey": "d r i|counter attack",
+  "playableChords": [
+    "E5",
+    "C5",
+    "B5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 8,
+      "name": "Bridge"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8cc802f49cf5e78e9c7001204260d1168766751d296b54e02e0e03cd0c8aa0f3",
+    "version": "BCFZ"
+  },
+  "tempo": 240,
+  "title": "Counter Attack",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

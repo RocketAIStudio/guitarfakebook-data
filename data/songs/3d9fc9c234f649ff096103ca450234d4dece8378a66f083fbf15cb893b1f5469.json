@@ -1,0 +1,100 @@
+{
+  "artist": "Creedence Clearwater Revival",
+  "artistNormalized": "creedence clearwater revival",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E]\nWell\n\n[Verse 1]\n[E]take me back down where cool\nwater flows y'all\nAh\nlet me remember things\nI love now\nStoppin' at the log where cat-\nfish bit\n[C]Walkin' along the river\nroad at night\n[A]Barefoot girls danc-\nin' in the moonlight\n[E7]\n\n[Verse 2]\n[E]I can hear the bull-frog\ncallin' me how\nWonderin' if my rope's still\nhangin' to the tree\nLove to kick my feet way down\nthe shallow water, Ah\n[C]shoe-fly dragon fly get\nback t'your mother\n[A]Pick up a flat rock skip\nit across Green\n[E7]River\n\n[Solo 1]\n[E]\n[C]\n[A]\n[E7]\n\n[Verse 3]\n[E]Up at Cody's camp I spent\nmy days y'all,\nWith flat car riders and\ncross tie walkers\nOld\nCody Junior took\nme over\n[C]Said you're gonna find the world\nis smouldrin' And\n[A]if you get a lost\ncome on home to Green\n[E7]River\n\n[Solo 2]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020100",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Green River *alt",
+  "id": "3d9fc9c234f649ff096103ca450234d4dece8378a66f083fbf15cb893b1f5469",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 157,
+  "normalizedKey": "creedence clearwater revival|green river",
+  "playableChords": [
+    "E",
+    "C",
+    "A",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 71,
+      "name": "Solo 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3d9fc9c234f649ff096103ca450234d4dece8378a66f083fbf15cb893b1f5469",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "Green River",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

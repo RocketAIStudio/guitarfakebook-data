@@ -1,0 +1,127 @@
+{
+  "artist": "Caitlin Ciceri",
+  "artistNormalized": "caitlin ciceri",
+  "capo": "3",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am7]  [C7M]\n[G]\n[Am7]  [C7M]\n[G]\n\n[Verse 1]\n[C][Am7]Everything's in\n[G]black and white\n[Am7]Lock our [C]feelings up real\n[G]tight\n[Am7]It's getting [C]harder to\n[G]say \"We're okey\"\n[Am7]When the [C]sun goes down we\n[G]fight\n\n[Pre-Chorus]\n[Fmaj7]Cutting [C]words and\n[G]stone cold faces\n[Fmaj7]then Kissing [C]me un-\n[G]til I'm naked\n\n[Chorus]\n[Am7]I don't [C]want you any-\n[G]more\n[Am7]Boy you're [C]too messed up for\n[G]me\n[Am7]So sick [C]lying here...\n[G]on the floor\n[Am7]While your [C]kissing round on\n[G]me Oh..\n\n[Interlude]\n[Am7]  [C7M]\n[G]no, noh,\n[Am7]no, [C7M]oh, ah\n[G]\n\n[Verse 2]\n[Am7]Do you [C]remember that\n[G]night in the rain\n[Am7]All you [C]needed then was\n[G]me\n[Am7]But now [C]everything is\n[G]so messed up\n[Am7]And it will [C]never be the\n[G]same\n\n[Pre-Chorus]\n[Fmaj7]Tear me [C]touch and\n[G]do we and or\n[Fmaj7]not Turning [C]to a\n[G]hated run\n\n[Chorus]\n[Am7]I don't [C]want you any-\n[G]more\n[Am7]Boy you're [C]too messed up\n[G]for me\n[Am7]So sick [C]lying here...\n[G]on the floor\n[Am7]While your [C]kissing round on\n[G]me\n\n[Interlude]\n[Am7]No... [C7M]\n[G]no, noh,\n[Am7]no, [C7M]oh\n[G]\n\n[Chorus]\n[Am7]I don't [C]want you any-\n[G]more\n[Am7]Boy you're [C]too messed up\n[G]for me\n[Am7]So sick [C]lying here...\n[G]on the floor\n[Am7]While your [C]kissing round on\n[G]me\n[Am7]You've been [C]messing round on\n[G]me\n\n[Outro]\n[Am7]  [C7M]\n[G]\n[Am7]  [C]\n[G]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7M": {
+      "catalog": [
+        "x32000"
+      ],
+      "catalogCount": 1
+    },
+    "Fmaj7": {
+      "catalog": [
+        "xx3210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Don't Want You Anymore",
+  "id": "0c188be2bce2a95cba1ca614052b84120525d7c1629d04da227d72fb0a3d6df6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 204,
+  "normalizedKey": "caitlin ciceri|i don t want you anymore",
+  "playableChords": [
+    "Am7",
+    "C7M",
+    "G",
+    "C",
+    "Fmaj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Interlude"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Interlude"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0c188be2bce2a95cba1ca614052b84120525d7c1629d04da227d72fb0a3d6df6",
+    "version": "BCFZ"
+  },
+  "tempo": 75,
+  "title": "I Don't Want You Anymore",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

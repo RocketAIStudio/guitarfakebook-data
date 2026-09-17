@@ -1,0 +1,134 @@
+{
+  "artist": "Buddy Holly",
+  "artistNormalized": "buddy holly",
+  "capo": "5",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[A]\n[E7]Well,\n\n[Chorus]\n[D]that'll be the day when\nyou say goodbye Yes,\n[A]that'll be the day when\nyou make me cry You\n[D]say you gonna leave, you\nknow it's a lie 'Cause\n[A]that'll be the day\nwhen [E7]I die [A]Well, you\n\n[Verse 1]\n[D]give me all your lovin' and your\n[A]turtle dovin'\n[D]All your hugs and kisses and your\n[A]money, too Well,\n[D]you know you love me, baby\n[A]Still you tell me, maybe\n[B7]That some day, well,\n[E7]I'll be blue Well,\n\n[Chorus]\n[D]that'll be the day when\nyou say goodbye Yes,\n[A]that'll be the day when\nyou make me cry You\n[D]say you gonna leave, you\nknow it's a lie 'Cause\n[A]that'll be the day\nwhen [E7]I die [A]\n\n[Solo]\n[A]\n[A7]\n[D]\n[A]\n[E7]\n[D7]\n[A]\n[E7]Well,\n\n[Chorus]\n[D]that'll be the day when\nyou say goodbye Yes,\n[A]that'll be the day when\nyou make me cry You\n[D]say you gonna leave, you\nknow it's a lie 'Cause\n[A]that'll be the day\nwhen [E7]I die [A]Well,\n\n[Verse 2]\n[D]when Cupid shot his dart\n[A]He shot it at your heart\n[D]So if we ever part and\n[A]I leave you\n[D]You say you told me, an' you\n[A]told me boldly\n[B7]That someday, well,\n[E7]I'll be blue Well,\n\n[Chorus]\n[D]that'll be the day when\nyou say goodbye Yes,\n[A]that'll be the day when\nyou make me cry You\n[D]say you gonna leave, you\nknow it's a lie 'Cause\n[A]that'll be the day\nwhen [E7]I die [A]Well\n\n[Outro]\n[D]that'll be the day,\nooh hoo\n[A]That'll be the day,\nooh hoo\n[D]That'll be the day,\nooh hoo\n[A]That'll be the day",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "That'll Be the Day",
+  "id": "dfd120296e1b4fa3005ca6d673bc19d160bfb3508fc0a639377bf4da55f11b34",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 287,
+  "normalizedKey": "buddy holly|that ll be the day",
+  "playableChords": [
+    "A",
+    "E7",
+    "D",
+    "B7",
+    "A7",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Chorus"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Solo"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dfd120296e1b4fa3005ca6d673bc19d160bfb3508fc0a639377bf4da55f11b34",
+    "version": "BCFZ"
+  },
+  "tempo": 123,
+  "title": "That'll Be the Day",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

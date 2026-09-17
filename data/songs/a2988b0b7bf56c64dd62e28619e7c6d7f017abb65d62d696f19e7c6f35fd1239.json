@@ -1,0 +1,134 @@
+{
+  "artist": "Buddy Holly",
+  "artistNormalized": "buddy holly",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]There you go, and baby,\nhere am I Well, you\n[D7]left me here so I could\nsit and cry Well,\n[G]golly gee, what have you\ndone to me? Well, I\n[D7]guess it doesn't matter a ny-\n[G]more\n\n[Verse 2]\n[G]Do you remember, baby,\nlast September How you\n[D7]held me tight each and\nevery night? Well,\n[G]whoopsie daisy, how you\ndrove me crazy But I guess\n[D7]it doesn't matter any-\n[G]more\n\n[Bridge]\n[Em]There's no use in me a-\ncry in' I've\n[G]done everything and now I'm\nsick of try in' I've\n[A]thrown away my nights And\nwasted all my days over\n[D7]you\n\n[Verse 3]\n[G]Well, you go your way and\nI'll go mine\n[D7]Now and forever till the\nend of time I'll find\n[G]somebody new, and baby,\nwe'll say we're through And\n[D7]you won't matter any-\n[G]more\n\n[Interlude]\n[G]\n[D7]\n[G]  [C]  [G]\n[B7]\n\n[Bridge]\n[Em]There's no use in me a-\ncry in' I've\n[G]done everything and now I'm\nsick of try in' I've\n[A]thrown away my nights And\nwasted all my days over\n[D7]you\n\n[Verse 4]\n[G]Well, you go your way and\nI'll go mine\n[D7]Now and forever till the\nend of time I'll find\n[G]somebody new, and baby,\nwe'll say we're through And\n[D7]you won't matter a ny-\n[G]more\n\n[Outro]\n[D7]You won't matter any-\n[G]more\n[D7]\n[G]  [C]  [G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "It Doesn't Matter Anymore",
+  "id": "a2988b0b7bf56c64dd62e28619e7c6d7f017abb65d62d696f19e7c6f35fd1239",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 247,
+  "normalizedKey": "buddy holly|it doesn t matter anymore",
+  "playableChords": [
+    "G",
+    "D7",
+    "Em",
+    "A",
+    "C",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 35,
+      "name": "Interlude"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 55,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a2988b0b7bf56c64dd62e28619e7c6d7f017abb65d62d696f19e7c6f35fd1239",
+    "version": "BCFZ"
+  },
+  "tempo": 115,
+  "title": "It Doesn't Matter Anymore",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

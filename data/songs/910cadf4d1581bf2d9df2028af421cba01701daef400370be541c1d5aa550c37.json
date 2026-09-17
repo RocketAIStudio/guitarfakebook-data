@@ -1,0 +1,76 @@
+{
+  "artist": "Coheed And Cambria",
+  "artistNormalized": "coheed and cambria",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Dmadd11]\n[Csus2]\n[Gm/Bb]\n[Dmadd11]\n[Csus2]\n[Gm/Bb]\n\n[Verse 1]\n[Dmadd11]Hell must\nknow There have been worse\n[Csus2]things I've done\n[Gm/Bb]\n[Dmadd11]I hold out these hands\nreceive the\n[Csus2]sum\n[Gm/Bb]\n\n[Verse 2]\n[Dmadd11]Purge these\ndays Will we accept\n[Csus2]the things we must?\n[Gm/Bb]\n[Dmadd11]The world will now learn\nof change to\n[Csus2]come...\n[Gm/Bb]Or no\n[Dm]world",
+  "diagrams": {
+    "Csus2": {
+      "catalog": [
+        "10-10-12-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "003231",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dmadd11": {
+      "catalog": [
+        "0030xx"
+      ],
+      "catalogCount": 1
+    },
+    "Gm/Bb": {
+      "catalog": [
+        "8-10-12-x-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Reaping",
+  "id": "910cadf4d1581bf2d9df2028af421cba01701daef400370be541c1d5aa550c37",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 42,
+  "normalizedKey": "coheed and cambria|the reaping",
+  "playableChords": [
+    "Dmadd11",
+    "Csus2",
+    "Gm/Bb",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "910cadf4d1581bf2d9df2028af421cba01701daef400370be541c1d5aa550c37",
+    "version": "BCFZ"
+  },
+  "tempo": 64,
+  "title": "The Reaping",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

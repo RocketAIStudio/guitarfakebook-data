@@ -1,0 +1,112 @@
+{
+  "artist": "Coldplay",
+  "artistNormalized": "coldplay",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Db]\n\n[Verse 1]\n[Bbm]In the dark-\n[Ab]ness be-\nfore the [Gb]dawn\n[Bbm]In the swirl-\n[Ab]ing\nof the [Gb]storm\nWhen I'm [Bbm]rolling\nwith the punches,\n[Ab]and\nhope is [Gb]gone\n[Bbm]Leave a light,\n[Ab]a\nlight [Gb]on\n\n[Bridge]\n[Db]\n\n[Verse 2]\n[Bbm]Mil lions\n[Ab]of\nmiles from [Gb]home\n[Bbm]In the swirl-\n[Ab]ing, swim-\nming [Gb]on\nWhen I'm [Bbm]rolling\nwith the thunder\n[Ab]but\nbleed from [Gb]thorns\n[Bbm]Leave a light,\n[Ab]a\nlight [Gb]on\nLeave a light,\n[Ab]a\nlight [Gb]on\n\n[Bridge]\n[Db]\n\n[Interlude]\n[Bbm]\n[Db]\n[Gb]\n[Bbm]\n[Db]\n[Bbm]\n[Bbm]\n[Db]\n[Gb]\n[Bbm]\n[Db]\n[Gb]\nLeave a\n\n[Verse 3]\nlight, [Ab]\na light\n[Gb]on\n[Bbm]Leave a\n[Ab]light,\na light\n[Gb]on\n\n[Bridge]\n[Db]\n\n[Outro]\n[Bbm]In the dark-\n[Ab]ness be-\nfore the [Gb]dawn\n[Bbm]In the dark-\n[Ab]ness be-\nfore the [Gb]dawn\n[Bbm]Leave a light,\n[Ab]a\nlight [Gb]on\n[Bbm]Leave a light,\n[Ab]a\nlight [Gb]on",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "466544",
+        "4-3-1-1-1-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm": {
+      "catalog": [
+        "688666",
+        "x-1-3-3-2-1",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13",
+        "18-20-20-18-18-18"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Midnight",
+  "id": "be6d7484286eb69f90c99ffaaebc17d3a329e2d182701601a28ebe46c87d4353",
+  "key": "D♭",
+  "keyIdentified": true,
+  "lyricEventCount": 111,
+  "normalizedKey": "coldplay|midnight",
+  "playableChords": [
+    "Db",
+    "Bbm",
+    "Ab",
+    "Gb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 32,
+      "name": "Bridge"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 63,
+      "name": "Bridge"
+    },
+    {
+      "measure": 71,
+      "name": "Interlude"
+    },
+    {
+      "measure": 87,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 95,
+      "name": "Bridge"
+    },
+    {
+      "measure": 134,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "be6d7484286eb69f90c99ffaaebc17d3a329e2d182701601a28ebe46c87d4353",
+    "version": "BCFZ"
+  },
+  "tempo": 127,
+  "title": "Midnight",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,182 @@
+{
+  "artist": "Coldplay",
+  "artistNormalized": "coldplay",
+  "capo": "3",
+  "chordPositionCount": 34,
+  "chordSymbolCount": 14,
+  "content": "[Intro]\n[C]\n[Dsus2]  [D]\n[Dsus2]  [D]\n[Gmaj7/D]\n[Dsus2]  [D]\n[Dsus2]  [D]\n[Gmaj7/D]\n\n[Verse 1]\n[Dsus2]Tony [D]was a\n[Dsus2]friend of [D]mine We were together\n[Gmaj7/D]all the time\nAnd\n[Dsus2]he [D]had\n[Dsus2]my [D]back Once he really\n[Gmaj7/D]saved my life\n\n[Pre-Chorus]\n[Em7][Em7add13]Sometimes, I wanna\n[A7add13]call [A7]him Say hey then\n[Em7add13]stay [Em7]up 'til\n[A7]morning\n\n[Chorus]\n[Dsus2]And when I close [D]my eyes\n[Dsus2]When I close [D]my eyes I see\n[G]you,\nyou\n[Dsus2]When I close [D]my eyes\n[Dsus2]When I close [D]my eyes You come\n[G]through,\nyou\n\n[Post-Chorus]\n[Em7add13]Time [Em7]just\n[A7][A7add13]deepens,\n[Em7][Em7add13]sweetens And\n[A7]mends\nold\n\n[Re-Intro]\n[Dsus2]friends [D]\n[Dsus2]  [D]\n[Gmaj7/D]\n[Dsus2]  [D]\n[Dsus2]  [D]\n[Gmaj7/D]\nWe\n\n[Post-Chorus]\n[Em7add13]all [Em7]melt back into the\n[A7][A7add13]picture\n[Em7][Em7add13]Raindrops back into the\n[A7]water,\nold\n\n[Outro]\n[Dsus4]friends\n[Dsus4/C#]Hmm\n[C6]\n[Dadd11/B]  [Fsus4]\n[Dsus4]\n[Dsus4/C#]And there are no\n[C6]ends to old\n[Dadd11/B]friends [Fsus4]A-\n[D]men",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7add13": {
+      "catalog": [
+        "x04020"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C6": {
+      "catalog": [
+        "x35210"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "004232",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dadd11/B": {
+      "catalog": [
+        "x25232"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2": {
+      "catalog": [
+        "002230"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus4": {
+      "catalog": [
+        "x55233"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus4/C#": {
+      "catalog": [
+        "x45233"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "250000",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em7add13": {
+      "catalog": [
+        "240000"
+      ],
+      "catalogCount": 1
+    },
+    "Fsus4": {
+      "catalog": [
+        "333366"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "52000x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7/D": {
+      "catalog": [
+        "024032"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Old Friends",
+  "id": "1339d60a0cd8c12675df45b99c3a86ff5bf05fd7744d8b740634ba788df6ea16",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 111,
+  "normalizedKey": "coldplay|old friends",
+  "playableChords": [
+    "C",
+    "Dsus2",
+    "D",
+    "Gmaj7/D",
+    "Em7add13",
+    "Em7",
+    "A7add13",
+    "A7",
+    "G",
+    "Dsus4",
+    "Dsus4/C#",
+    "C6",
+    "Dadd11/B",
+    "Fsus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Re-Intro"
+    },
+    {
+      "measure": 45,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1339d60a0cd8c12675df45b99c3a86ff5bf05fd7744d8b740634ba788df6ea16",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Old Friends",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,111 @@
+{
+  "artist": "Coheed and Cambria",
+  "artistNormalized": "coheed and cambria",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Db]\n[Ab]\n[Gbadd9]\n[Db]\nIf\n\n[Verse 1]\n[Db]beauty sits the child's kiss Of laugh-\nter I amend Can\n[Ab]you catch her if she\nruns? With this\n[Gbadd9]I would share with you All of this\ncount to no end Behind your sealed\n\n[Bridge]\n[Db]eyes\nyou\n\n[Verse 2]\n[Db]miss All that I've done for\nyou Will you catch me when I run?\n[Ab]If timing play ev-\nident What\n[Gbadd9]will you say when you're late? Stay with\nme and fall asleep Pray to God for\n\n[Bridge]\n[Db]no bad dreams\n\n[Chorus]\n[Dbsus4]Stay with [Db]me and\n[Dbsus2]fall [Db]asleep\n[Dbsus4]Pray to [Db]God for\n[Dbsus2]no [Db]bad dreams\n[Dbsus4]Here... I [Db]I'm still\n[Db][Dbsus2]waiting here,\n[Dbsus4]my dear [Db]For one\n[Dbsus2]kiss [Db]from you\n\n[Interlude]\n[Gbadd9]So here... I\nI'm still waiting here, my\ndear To\nkill all of you To kill\n\n[Bridge]\n[Db]all\nof\n\n[Outro]\n[Gbadd9]you\n[Db]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x02220",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "004232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Dbsus2": {
+      "catalog": [
+        "8889xx"
+      ],
+      "catalogCount": 1
+    },
+    "Dbsus4": {
+      "catalog": [
+        "xx0233"
+      ],
+      "catalogCount": 1
+    },
+    "Gbadd9": {
+      "catalog": [
+        "5004xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Always and Never",
+  "id": "d541c9abf61d2c9b2d44082e2282fe51f3bcb8a66a3ac81cdf018d32258dcdb4",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 130,
+  "normalizedKey": "coheed and cambria|always and never",
+  "playableChords": [
+    "Db",
+    "Ab",
+    "Gbadd9",
+    "Dbsus4",
+    "Dbsus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Bridge"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 23,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Interlude"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d541c9abf61d2c9b2d44082e2282fe51f3bcb8a66a3ac81cdf018d32258dcdb4",
+    "version": "BCFZ"
+  },
+  "tempo": 69,
+  "title": "Always and Never",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "primary"
+}

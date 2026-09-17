@@ -1,0 +1,129 @@
+{
+  "artist": "Cream",
+  "artistNormalized": "cream",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Verse 1]\n[Em]Please\n[F#m]\n[G]\n[F#m]open your\n[Em]eyes.\n[F#m]\n[G]\n[F#m]\n[Em]Try\n[F#m]\n[G]\n[F#m]to rea-\n[Em]lize.\n[F#m]\n[G]\n[F#m]\n\n[Chorus]\n[Am]I\n[Bm]found out to-\n[C]day\n[D]we're going\n\n[Verse 2]\n[Em]wrong,\n[F#m]\n[G]\n[F#m]We're going\n[Em]wrong.\n[F#m]\n[G]\n[F#m]Please\n[Em]\n[F#m]\n[G]\n[F#m]open your\n\n[Chorus]\n[Am]mind.\n[Bm]\n[C]\n[D]\n\n[Solo]\n[Em]\n[F#m]\n[G]\n[F#m]\n[Em]\n[F#m]\n[G]\n[F#m]\n[Em]\n[F#m]\n[G]\n[F#m]\n[Em]\n[F#m]\n[G]\n[F#m]\n[Em]\n[F#m]\n[G]\n[F#m]\n[Em]\n[F#m]\n[G]\n[F#m]\n[Em]\n[F#m]\n[G]\n[F#m]\n[Em]\n[F#m]\n[G]\n[F#m]\n[Em]\n[G]\n[Em]\n[G]\n[Em]\n[F#m]\n[G]\n[F#m]\n[Em]\n[F#m]\n[G]\n[F#m]\n[Am]\n[Bm]\n[C]\n[D]\n[Em]\n[F#m]\n[G]\n[F#m]\n[Em]\n[F#m]\n[G]\n[F#m]\n[Em]\n[G]\n[Em]\n[G]\n[Em]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "We're Going Wrong",
+  "id": "637e93d7c60b3601c6bbdb44dd1b0c7061bd07f777773f764e8f3349922626f7",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 29,
+  "normalizedKey": "cream|we re going wrong",
+  "playableChords": [
+    "Em",
+    "F#m",
+    "G",
+    "Am",
+    "Bm",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "637e93d7c60b3601c6bbdb44dd1b0c7061bd07f777773f764e8f3349922626f7",
+    "version": "BCFZ"
+  },
+  "tempo": 79,
+  "title": "We're Going Wrong",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

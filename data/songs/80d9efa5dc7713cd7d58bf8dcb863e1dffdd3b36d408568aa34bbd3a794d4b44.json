@@ -1,0 +1,93 @@
+{
+  "artist": "Cat Stevens",
+  "artistNormalized": "cat stevens",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Em]\nMy Lady\nd'Arbanville,\n\n[Verse 1]\n[D]why\ndo you sleep so\nstill?\n[Em]I'll\nwake you to-\nmorrow\n[D]And\nyou will be my\n[Bm]fill, yes,\nyou will be my\n[Em]fill\nMy\nLady d'Ar-\nbanville,\n[D]why\ndoes it grieve me\nso?\n[Em]But your\nheart seems so\nsilent\n[D]Why\ndo you breathe so low,\n[Bm]why\ndo you breathe so\n[Em]low My\nLady d'Ar-\nbanville,\n[D]why\ndo you sleep so\nstill?\n[Em]I'll\nwake you to-\nmorrow\n[D]And\nyou will be my\n[Bm]fill, yes,\nyou will be my\n\n[Bridge]\n[Em]fill\n\n[Verse 2]\nMy Lady\nd'Arbanville,\n[D]you\nlook so cold to-\nnight\n[Em]Your\nlips feel like\nwinter\n[D]Your\nskin has turned to\n[Bm]white, your\nskin has turned to\n[Em]white\nMy\nLady d'Ar-\nbanville,\n[D]why\ndo you sleep so\nstill?\n[Em]I'll\nwake you to-\nmorrow\n[D]And\nyou will be my\n[Bm]fill, yes,\nyou will be my\n[Em]fill La\nla la la\nla\n[D]La\nla la la la\nla\n[Em]La\nla la la\nla\n[D]La\nla la la la\n[Bm]la, la\nla la la la\n\n[Bridge]\n[Em]la\nMy\nLady d'Ar-\nbanville,\n\n[Verse 3]\n[D]why\ndoes it grieve me\nso?\n[Em]But your\nheart seems so\nsilent\n[D]Why\ndo you breathe so\n[Bm]low, why\ndo you breathe so\n[Em]low I\nloved you my\nlady,\n[D]though\nin your grave you\nlie\n[Em]I'll\nalways be\nwith you\n[D]This\nrose will never\n[Bm]die, this\nrose will never\n[Em]die I\nloved you my\nlady,\n\n[Outro]\n[D]though\nin your grave you\nlie\n[Em]I'll\nalways be\nwith you\n[D]This\nrose will never\n[Bm]die, this\nrose will never\n[Em]die",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "022000",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lady d'Arbanville",
+  "id": "80d9efa5dc7713cd7d58bf8dcb863e1dffdd3b36d408568aa34bbd3a794d4b44",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 270,
+  "normalizedKey": "cat stevens|lady d arbanville",
+  "playableChords": [
+    "Em",
+    "D",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 58,
+      "name": "Bridge"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 116,
+      "name": "Bridge"
+    },
+    {
+      "measure": 123,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 155,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "80d9efa5dc7713cd7d58bf8dcb863e1dffdd3b36d408568aa34bbd3a794d4b44",
+    "version": "BCFZ"
+  },
+  "tempo": 185,
+  "title": "Lady d'Arbanville",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

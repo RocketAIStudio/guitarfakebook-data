@@ -1,0 +1,102 @@
+{
+  "artist": "Clutch",
+  "artistNormalized": "clutch",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[B5]\n\n[Riff 1]\n[B5]  [D5]  [A5]  [B5]  [E5]\n[D5]  [B5]\n[D5]\n[B5]  [A5]  [B5]  [E5]  [D5]  [B5]\n\n[Riff 2]\n[B5]  [A5]  [B5]  [D5]  [A5]  [B5]\n[E5]\n[B5]  [A5]  [B5]  [D5]  [A5]  [B5]\n[E5]\n[B5]  [A5]  [B5]  [D5]  [A5]  [B5]\n[E5]\n[B5]  [A5]  [B5]  [D5]  [A5]  [B5]\n[E5]\n\n[Riff 3]\n[B5]\n\n[Bridge]\n[B5]Daedalus, your child is fal-\nling and the La-\nbyrinth is calling\n\n[Verse]\n[D5]Renegade heaps,\nhumanity aban-\ndoned\nBower of the vowels,\nyou lit them and fanned\nthem\nMercury, the courier, ce-\nlestial messenger\nBed with Dawn, your bride\nArrowhead of Diane,\npierce the mind of a man\nTongueless muse of time\n\n[Outro]\n[B5]\n[C5]  [B5]  [D5]  [C#5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mercury",
+  "id": "2b3d176bf5817af61e91828d0724aa894fe93874af14430ea7eeaee8f8d55aa5",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 74,
+  "normalizedKey": "clutch|mercury",
+  "playableChords": [
+    "B5",
+    "D5",
+    "A5",
+    "E5",
+    "C5",
+    "C#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Riff 1"
+    },
+    {
+      "measure": 15,
+      "name": "Riff 2"
+    },
+    {
+      "measure": 23,
+      "name": "Riff 3"
+    },
+    {
+      "measure": 31,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Verse"
+    },
+    {
+      "measure": 51,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2b3d176bf5817af61e91828d0724aa894fe93874af14430ea7eeaee8f8d55aa5",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "Mercury",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

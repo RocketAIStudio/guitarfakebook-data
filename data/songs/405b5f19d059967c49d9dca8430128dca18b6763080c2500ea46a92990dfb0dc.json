@@ -1,0 +1,100 @@
+{
+  "artist": "Clairo",
+  "artistNormalized": "clairo",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Verse 1]\n[Dm7]Pola-\nroid of\n[Em7]you dancing\nin my room\n[Dm7]I want\nto remem-\n[Em7]ber I\nthink it was about noon\n[Dm7]It's getting\nharder to\n[Em7]understand, to un-\nderstand\n[Dm7]How you felt\nin my hands,\n[Em7]in my hands\n[F]\n\n[Chorus]\n[Dm7]I could be a pret-\n[Cmaj7]ty girl I'll wear\n[Em7]a skirt for you\n[Dm7]\n[Dm7]I could be a pret-\n[Cmaj7]ty girl Shut up\n[Em7]when you want me\n[Dm7]to\n[Dm7]I could be a pret-\n[Cmaj7]ty girl Won't e-\n[Em7]ver make you blue\n[Dm7]\n[Dm7]I could be a pret-\n[Cmaj7]ty girl I'll\n[Em7]lose myself in\n[Dm7]you\n\n[Verse 2]\n[Dm7]I was\nso blinded\n[Em7]by you,\nnow I\n[Dm7]cry Just thin-\nkin' 'bout the fool\n[Em7]that I was\nI was such a\n[Dm7]fool I'm alone\nnow but it's bet-\n[Em7]ter for me\nI don't\n[Dm7]need all\nyour negativity\n[Em7]\n[F]\n\n[Chorus]\n[Dm7]I could be a pret-\n[Cmaj7]ty girl I'll wear\n[Em7]a skirt for you\n[Dm7]\n[Dm7]I could be a pret-\n[Cmaj7]ty girl Shut up\n[Em7]when you want me\n[Dm7]to\n[Dm7]I could be a pret-\n[Cmaj7]ty girl Won't e-\n[Em7]ver make you blue\n[Dm7]\n[Dm7]I could be a pret-\n[Cmaj7]ty girl I'll\n[Em7]lose myself in\n\n[Outro]\n[Dm7]you\n[Cmaj7]\n[Em7]\n[Dm7]\n[Cmaj7]\n[Em7]\n[Dm7]\n[Cmaj7]\n[Em7]\n[Dm7]\n[Cmaj7]\n[Em7]\n[Dm7]\n\n[Outro (Fade Out)]",
+  "diagrams": {
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm7": {
+      "catalog": [
+        "xx0211",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "020000",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12",
+        "x-19-21-19-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pretty Girl",
+  "id": "405b5f19d059967c49d9dca8430128dca18b6763080c2500ea46a92990dfb0dc",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 194,
+  "normalizedKey": "clairo|pretty girl",
+  "playableChords": [
+    "Dm7",
+    "Em7",
+    "F",
+    "Cmaj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    },
+    {
+      "measure": 84,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "405b5f19d059967c49d9dca8430128dca18b6763080c2500ea46a92990dfb0dc",
+    "version": "BCFZ"
+  },
+  "tempo": 115,
+  "title": "Pretty Girl",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

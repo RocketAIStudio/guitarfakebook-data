@@ -1,0 +1,130 @@
+{
+  "artist": "Cat Stevens",
+  "artistNormalized": "cat stevens",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]  [G]\n[D]  [G]\n[D]  [G]\n[D]  [G]\n[Cadd9]  [G/B]\n[Cadd9]  [G/B]  [A]\n[D]  [G]\n[D][G]Well I\n\n[Verse 1]\n[D]think it's fine, [G]building\n[D]jumbo planes [G]Or\n[D]taking a ride [G]on a\n[D]cosmic train [G]\n[D]Switch on summer [G]from a\n[D]slot machine [G]Yes,\n[D]get what you want to if you [G]want, 'cause you can get any-\n[D]thing [G]\n\n[Chorus]\n[Em]I know we've come [A]a long way\n[Em]We're changing day [A]to day\n[Em]But tell me, [A]where do the children play?\n\n[Interlude]\n[D]  [G]\n[D]  [G]\n[D]  [G]\n[D][G]Well, you\n\n[Verse 2]\n[D]roll on roads [G]Over\n[D]fresh green grass [G]For your\n[D]lorry loads [G]Pumping\n[D]petrol gas [G]And you\n[D]make them long [G]And you\n[D]make them tough [G]But they\n[Cadd9]just go on and on [G/B]And it seems that you can't\n[Cadd9]get off [G/B]\n\n[Chorus]\n[Em]I know we've come [A]a long way\n[Em]We're changing day [A]to day\n[Em]But tell me, [A]where do the children play?\n\n[Interlude]\n[D]  [G]\n[D]  [G]\n[D]  [G]\n[D]  [G]\n[Cadd9]  [G/B]\n[Cadd9]  [G/B]  [A]\n[D]  [G]\n[D]  [G]\n[D]  [G]\n[D][G]Well you've\n\n[Verse 3]\n[D]cracked the sky [G]Scrapers\n[D]fill the air [G]But will you\n[D]keep on building [G]higher 'til there's no more room\n[D]up there? [G]Will you\n[Cadd9]make us laugh [G/B]Will you\n[Cadd9]make us cry? [G/B]Will you\n[Cadd9]tell us when to live [G/B]Will you tell us when\n[Cadd9]to die? [G/B]\n\n[Chorus]\n[Em]I know we've come [A]a long way\n[Em]We're changing day [A]to day\n[Em]But tell me, [A]where do the children play?\n\n[Outro]\n[D]  [G]\n[D]  [G]\n[D]  [G]\n[D]  [G]\n[D]  [G]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Where Do The Children Play",
+  "id": "2f770fabe2b2516b57d7df15d1503fd927b43113929eb719cc2ffafe83881ad8",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 209,
+  "normalizedKey": "cat stevens|where do the children play",
+  "playableChords": [
+    "D",
+    "G",
+    "Cadd9",
+    "G/B",
+    "A",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Interlude"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Interlude"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 54,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2f770fabe2b2516b57d7df15d1503fd927b43113929eb719cc2ffafe83881ad8",
+    "version": "BCFZ"
+  },
+  "tempo": 66,
+  "title": "Where Do The Children Play",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

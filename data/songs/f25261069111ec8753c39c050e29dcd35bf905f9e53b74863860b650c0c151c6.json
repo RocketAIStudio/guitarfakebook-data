@@ -1,0 +1,155 @@
+{
+  "artist": "Charlie Daniels",
+  "artistNormalized": "charlie daniels",
+  "capo": "No capo",
+  "chordPositionCount": 37,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[D]\n[Dsus4]\n[D]\n\n[Verse 1]\n[D]People say I'm\nno good And\ncrazy as a loon\n'Cause\nI get stoned in the\nmorning I get\ndrunk in the afternoon\nKinda like my old\nblue tick hound I like to\nlay around in the shade\nAnd\nI ain't got no\nmoney But I\ndamn sure got it made\n'Cause I ain't\n\n[Chorus]\n[G7]asking nobody for no-\nthing\nIf I can't\nget it on my\n[D]own\nIf you don't\n[A7]like the way I'm\nliving You just\n[C]leave this [Cadd9]long [Am7]haired\n[G]country [F]boy alone\n[D]\n[Dsus4]\n[D]\n\n[Verse 2]\n[D]Preacher man talking on\nTV\nPutting down the rock and roll\nWants me to send a do-\nnation 'Cause he's\nworried about my\nsoul He said,\n\"Jesus walked on the\nwater.\" And\nI know that it's true\nBut some-\ntimes I think that\npreacher man Would like to\ndo a little walking too\n'Cause I ain't\n\n[Chorus]\n[G7]asking nobody for no-\nthing\nIf I can't\nget it on my\n[D]own\nIf you don't\n[A7]like the way I'm\nliving You just\n[C]leave this [Cadd9]long [Am7]haired\n[G]country [F]boy alone\n[D]\n[Dsus4]\n\n[Solo]\n[D]\n[G]\n[D]\n[A7]\n[C]  [Cadd9]  [Am7]\n[G]  [F]\n[D]\n[D]\nA\n\n[Verse 3]\n[D]poor girl wants to mar-\nry And a\nrich girl wants to flirt\nA\nrich man goes to col-\nlege And a\npoor man goes to work\nA\ndrunkard wants another\ndrink of wine And a po-\nlitician wants your vote\nI don't want much of\nnothing at all But I\nwill take another toke\n'Cause I ain't\n\n[Chorus]\n[G7]asking nobody for no-\nthing\nIf I can't\nget it on my\n[D]own\nIf you don't\n[A7]like the way I'm\nliving You just\n[C]leave this [Cadd9]long [Am7]haired\n[G]country [F]boy alone\n[D]\n[Dsus4]\n[D]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x20010"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus4": {
+      "catalog": [
+        "xx0233"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "320001",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Long Haired Country Boy",
+  "id": "f25261069111ec8753c39c050e29dcd35bf905f9e53b74863860b650c0c151c6",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 305,
+  "normalizedKey": "charlie daniels|long haired country boy",
+  "playableChords": [
+    "D",
+    "Dsus4",
+    "G7",
+    "A7",
+    "C",
+    "Cadd9",
+    "Am7",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Solo"
+    },
+    {
+      "measure": 114,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 130,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f25261069111ec8753c39c050e29dcd35bf905f9e53b74863860b650c0c151c6",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Long Haired Country Boy",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

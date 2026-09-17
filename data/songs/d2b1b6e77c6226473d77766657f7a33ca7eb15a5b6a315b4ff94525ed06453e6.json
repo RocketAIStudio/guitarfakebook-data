@@ -1,0 +1,72 @@
+{
+  "artist": "Chixdiggit!",
+  "artistNormalized": "chixdiggit",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C5/G][F5][C5/G]You\n\n[Verse 1]\n[C5]quit your job They screwed you around They scre-\nwed you around Screwed\n[F5]you around [G5]\n[C5][F5]Screwed\nyou around [G5]\n[C5/G][F5][C5/G]Wha-\n\n[Verse 2]\n[C5]tever you do Don't start a band Don't\nstart a band Don't start\n[F5]a band [G5]\n[C5][F5]Don't start\na band [G5]\n[C5/G]  [F5]  [C5/G]",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5/G": {
+      "catalog": [
+        "335xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Quit Your Job",
+  "id": "d2b1b6e77c6226473d77766657f7a33ca7eb15a5b6a315b4ff94525ed06453e6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 42,
+  "normalizedKey": "chixdiggit|quit your job",
+  "playableChords": [
+    "C5/G",
+    "F5",
+    "C5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d2b1b6e77c6226473d77766657f7a33ca7eb15a5b6a315b4ff94525ed06453e6",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Quit Your Job",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

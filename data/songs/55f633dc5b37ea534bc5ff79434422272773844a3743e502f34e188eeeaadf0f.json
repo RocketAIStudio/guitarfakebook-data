@@ -1,0 +1,85 @@
+{
+  "artist": "Chixdiggit!",
+  "artistNormalized": "chixdiggit",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[A]  [E]\n[D]Get\n\n[Verse 1]\nhigh Get\n[A]Down It's a\n[E]rock show Not a head show here to-\n[D][A]night [A][D]Don't\n\n[Verse 2]\ncry You'll\n[A]drown You\n[E]can wear black hear But there's no cryin' to-\n\n[Chorus]\n[A]night [D][A][D][A]To-\n[A]night [D][A][D][A]To-\n[A]night [D][A][D][A]To-\n[A]night [E]\n\n[Outro]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Get Down",
+  "id": "55f633dc5b37ea534bc5ff79434422272773844a3743e502f34e188eeeaadf0f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 38,
+  "normalizedKey": "chixdiggit|get down",
+  "playableChords": [
+    "A",
+    "E",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 14,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "55f633dc5b37ea534bc5ff79434422272773844a3743e502f34e188eeeaadf0f",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Get Down",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,112 @@
+{
+  "artist": "Bruce Springsteen",
+  "artistNormalized": "bruce springsteen",
+  "capo": "2",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n[G]\n[Am]\n\n[Verse 1]\n[Am]Men walking along the railroad tracks\n[C]Going someplace, there's no going\n[G]back Highway patrol\nchoppers coming up over the ridge\nHot\n[Am]soup on a campfire under the\nbridge\nShelter line stretching around the corner\n[C]Welcome to the new world or-\n[G]der Families\nsleeping in the cars in the southwest\nNo\n[Am]home, no job, no peace, no\nrest Well the\n\n[Chorus]\n[F]high  way is alive tonight\nBut nobody's\n[C]kidding nobody about      where it\n[Am]goes I'm\n[G]sit ting    down here in the    campfire light\n[Am]Searching for the ghost of Tom\nJoad He pulls a\n\n[Verse 2]\n[Am]prayer book out of his sleeping bag\nPreacher    lights\n[C]up a butt and he takes a\n[G]drag Waiting for when the last\nshall be first and the first shall be last\nIn a\n[Am]cardboard box beneath the under-\npass You got a\noneway ticket to the pro    mised land\nYou got a\n[C]hole in your belly and a gun in your\n[G]hand\nSleeping on a pillow of solid rock\n[Am]Bathing in the city's aque-\nduct Well the\n\n[Chorus]\n[F]highway is alive tonight\n[C]Where it's headed, everybody\n[Am]knows I'm\n[G]sitting   down here in the campfire light\n[Am]Waiting on the ghost of Tom\nJoad\n\n[Solo Harmonica]\n[F]\n[C]\n[Am]\n[G]\n[Am]Now Tom\nsaid, \"Mom, whe-\n\n[Verse 3]\n[Am]rever     there's a cop beating a guy\nWherever a\n[C]hungry new  born baby\n[G]cries Where       there's     a\nfight against the blood and hatred in the air\n[Am]Look for me, Mom, I'll be\nthere Wherever\nsomebody's fighting for a place to stand\nOr a\n[C]decent job or a helping\n[G]hand Wherever\nsomebody's    struggling to be free\n[Am]Look in their eyes, Ma, and you'll see\nme\" Well the\n\n[Chorus]\n[F]high   way is alive tonight\nBut nobody's\n[C]kidding nobody about      where it\n[Am]goes I'm\n[G]sit ting    down here in the    campfire light\n[Am]With the ghost of old Tom\nJoad\n\n[Outro]\n[F]\n[C]\n[Am]\n[G]\n[Am]  [G]\n[Am]  [G]\n[F]\n[G]\n[C]\n[Am]\n[G]\n[Am]  [G]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x0221x",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Ghost Of Tom Joad",
+  "id": "c2724409724df6dd2b54d9e1d5a9d8757e9caa033c9254db0d27c1ad83becdc1",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 379,
+  "normalizedKey": "bruce springsteen|the ghost of tom joad",
+  "playableChords": [
+    "Am",
+    "G",
+    "C",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Solo Harmonica"
+    },
+    {
+      "measure": 62,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 78,
+      "name": "Chorus"
+    },
+    {
+      "measure": 86,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c2724409724df6dd2b54d9e1d5a9d8757e9caa033c9254db0d27c1ad83becdc1",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "The Ghost Of Tom Joad",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

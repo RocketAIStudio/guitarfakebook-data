@@ -1,0 +1,140 @@
+{
+  "artist": "Boxcar Racer",
+  "artistNormalized": "boxcar racer",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Em7]  [F#5]\n[G]\n[Em7]  [F#5]\n[G]\n\n[Verse 1]\n[Em7]Caught off guard\n[G]All worked up\n[Em7]The air is as\n[G]dark and cold as night\n[Em7]Let me go\n[G]I'm not done\n[Em7]I swear I'll take just\n[G]one lifetime And\n\n[Chorus]\n[Em7]I, I won't\n[C/G]lie I won't\n[G]sin\n[D/A]Maybe I don't wanna go\n[Em7]\n[C/G]Can't you wait\n[G]\n[D/A]Maybe I don't wanna go\n\n[Bridge]\n[Em7]  [F#5]\n[G]\n[Em7]  [F#5]\n[G]\n\n[Verse 2]\n[Em7]I should have asked\n[G]I could have helped\n[Em7]At least a fucking\n[G]thousand times before\n[Em7]Will this offer\n[G]get me in\n[Em7]Or does this prove that\n[G]they gave more And\n\n[Chorus]\n[Em7]I, I won't\n[C/G]lie I won't\n[G]sin\n[D/A]Maybe I don't wanna go\n[Em7]\n[C/G]Can't you wait\n[G]\n[D/A]Maybe I don't wanna go\n\n[Interlude]\n[G]\n[Am7]\n[G/B]\n[Am7]\n[G]\n[Am7]\n[G/B]\n[C]\n[G]\n[Am7]\n[G/B]\n[Am7]\n[G]\n[Am7]\n[G/B]\n[Am7]\n\n[Bridge]\n[Em7]  [F#5]\n[G]\n[Em7]  [F#5]\n[G]\n[Em7]  [F#5]\n[G]\n[Em7]  [F#5]\n[G]And\n\n[Chorus]\n[Em7]I, I won't\n[C/G]lie I won't\n[G]sin\n[D/A]Maybe I don't wanna go\n[Em7]\n[C/G]Can't you wait\n[G]\n[D/A]Maybe I don't wanna go And\n[Em7]I, I won't\n[C/G]lie I won't\n[G]sin\n[D/A]Maybe I don't wanna go\n[Em7]\n[C/G]Can't you wait\n[G]\n[D/A]Maybe I don't wanna go\n[Em7]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "5355xx",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "8-7-10-9-x-x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "D/A": {
+      "catalog": [
+        "x00232"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "7557xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Letters To God *alt",
+  "id": "5b24b1fa56e08052e720c3ad5c7daa5afd8f4ff937e7e08a7fec9255bf143a1f",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 162,
+  "normalizedKey": "boxcar racer|letters to god",
+  "playableChords": [
+    "Em7",
+    "F#5",
+    "G",
+    "C/G",
+    "D/A",
+    "Am7",
+    "G/B",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5b24b1fa56e08052e720c3ad5c7daa5afd8f4ff937e7e08a7fec9255bf143a1f",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "Letters To God",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

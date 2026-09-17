@@ -1,0 +1,123 @@
+{
+  "artist": "Buddy Holly",
+  "artistNormalized": "buddy holly",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]\n[F#m]\n[A]\n[F#m]\n[A]\n[D]  [E]\n[A]  [D]\n[A]  [E]\n\n[Verse 1]\n[A]Maybe baby, I'll\n[F#m]have you\n[A]Maybe baby, you'll\n[F#m]be true\n[A]Maybe baby, I'll\n[D]have you [E]for\n[A]me [D]\n[A]  [E]\n\n[Verse 2]\n[A]It's funny honey, you\n[F#m]don't care\n[A]You never listen, to\n[F#m]my prayer\n[A]Maybe baby, you\n[D]will love [E]me some\n[A]day [D]\n[A]Well\n\n[Bridge]\n[D]you are the one that,\nmakes me glad\n[A]Any other [D]one that,\n[A]makes me [A7]sad\n[D]When some day, you'll\nwant me Well,\n[E]I'll be there, wait\nand see\n\n[Verse 3]\n[A]Maybe baby, I'll\n[F#m]have you\n[A]Maybe baby, you'll\n[F#m]be true\n[A]Maybe baby, I'll\n[D]have you [E]for\n[A]me [D]\n[A]  [E]\n\n[Interlude]\n[A]\n[F#m]\n[A]\n[F#m]\n[A]\n[D]  [E]\n[A]  [D]\n[A][A7]Well\n\n[Bridge]\n[D]you are the one that,\nmakes me glad\n[A]Any other [D]one that,\n[A]makes me [A7]sad\n[D]When some day, you'll\nwant me Well,\n[E]I'll be there, wait\nand see\n\n[Verse 4]\n[A]Maybe baby, I'll\n[F#m]have you\n[A]for me\n[F#m]\n[A]\n[D]  [E]\n[A]  [D]\n[A]  [E]\n\n[Outro]\n[A]\n[D]  [E]\n[A]  [D]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Maybe Baby",
+  "id": "10fb6db2f8c94bf09cd62437eaf72c9bd87e2ba4f9abba286988ab0dd8d6bec5",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 143,
+  "normalizedKey": "buddy holly|maybe baby",
+  "playableChords": [
+    "A",
+    "F#m",
+    "D",
+    "E",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "10fb6db2f8c94bf09cd62437eaf72c9bd87e2ba4f9abba286988ab0dd8d6bec5",
+    "version": "BCFZ"
+  },
+  "tempo": 137,
+  "title": "Maybe Baby",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

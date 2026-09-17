@@ -1,0 +1,138 @@
+{
+  "artist": "Coldplay",
+  "artistNormalized": "coldplay",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[B]\n[Bsus4]\n[B]\n[Bsus4]\n[B]\n[F#6]\n[E]\n[B]\n\n[Verse 1]\n[B]Look at the stars\nLook how they shine f-\n[F#6]or you\nAnd everything you d-\n[E]o\nYeah, they were all yellow\n\n[Verse 2]\n[B]I came along\nI wrote a song f-\n[F#6]or you\nAnd all the things you d-\n[E]o\nAnd it was called yellow\n\n[Verse 3]\n[B]\nSo then I took m-\n[F#6]y turn\nOh what a thing to have do-\n[E]ne\nAnd it was all yellow\n\n[Pre-Chorus]\n[B]\n[Bsus4]  [B]\n\n[Chorus]\n[E]Your sk-\n[G#m]in Oh yeah, your [F#6]skin and bones\n[E]Turn i-\n[G#m]nto something [F#6]beautiful\n[E]You kno-\n[G#m]w, you know I [F#6]love you s-\n[E]o\nYou know I love you so\n\n[Interlude]\n[B]\n[F#6]\n[E]\n[B]\n\n[Verse 4]\n[B]I swam across\nI jumped across f-\n[F#6]or you\nOh what a thing to d-\n[E]o\n'Cause you were all yellow\n\n[Verse 5]\n[B]I drew a line\nI drew a line f-\n[F#6]or you\nOh what a thing to d-\n[E]o\nAnd it was all yellow\n\n[Pre-Chorus]\n[B]\n[Bsus4]  [B]\n\n[Chorus]\n[E]Your sk-\n[G#m]in Oh yeah, your [F#6]skin and bones\n[E]Turn i-\n[G#m]nto something [F#6]beautiful\n[E]You kno-\n[G#m]w, for you I'd [F#6]bleed myself\n[E]dry\nFor you I'd bleed myself\n\n[Interlude]\n[B]dry\n[F#6]\n[E]\n[B]\nI's\n\n[Bridge]\n[B]true\nLook how they shine for\n[F#6]you\nLook how they shine for\n[E]you\nLook how they shine f-\n[B]or\nLook how they shine for\n[F#6]you\nLook how they shine for\n[E]you\nLook how they shine\n\n[Outro]\n[B]Look at the stars\nLook how they shine f-\n[F#m7add11]or you\nAnd all the things that yo-\n[E]u do",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "7978xx",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bsus4": {
+      "catalog": [
+        "7979xx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "02010x",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#6": {
+      "catalog": [
+        "24432x"
+      ],
+      "catalogCount": 1
+    },
+    "F#m7add11": {
+      "catalog": [
+        "202201"
+      ],
+      "catalogCount": 1
+    },
+    "G#m": {
+      "catalog": [
+        "4244xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Yellow *alt 2",
+  "id": "341ac55e2da7dc4cc26ab9a3254c29679d7732bb16952c25286ff6e572700a5e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 268,
+  "normalizedKey": "coldplay|yellow",
+  "playableChords": [
+    "B",
+    "Bsus4",
+    "F#6",
+    "E",
+    "G#m",
+    "F#m7add11"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 31,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 61,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 63,
+      "name": "Chorus"
+    },
+    {
+      "measure": 71,
+      "name": "Interlude"
+    },
+    {
+      "measure": 79,
+      "name": "Bridge"
+    },
+    {
+      "measure": 91,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "341ac55e2da7dc4cc26ab9a3254c29679d7732bb16952c25286ff6e572700a5e",
+    "version": "BCFZ"
+  },
+  "tempo": 87,
+  "title": "Yellow",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,170 @@
+{
+  "artist": "Burzum",
+  "artistNormalized": "burzum",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[E5]\n[D#5]  [B5]\n[E5]\n[F#5]  [D#5]\n\n[Verse 1]\n[E5]\n[C]\n[E5]\n\n[Verse 2]\n[F#5]\n[E5]\n\n[Verse 3]\n[F#5]\n[E5]\n\n[Verse 4]\n[F#5]When\n[E5]night falls\nShe cloaks\nthe world\nIn im-\npenetrable\ndarkness\n\n[Verse 5]\n[F#5]\n[A5]\n[F#5]\n[E5]\n\n[Verse 6]\n[F#5]\n[E5]\n\n[Verse 7]\n[F#5]A chill\n[E5]rises\nFrom the\nsoil\nAnd con-\ntaminates the\nair\n\n[Verse 8]\n[F#5]\n[A5]\n[F#5]\n[E5]\n\n[Chorus]\n[F#5]Suddenly\n[F5]Life\nhas new\n\n[Verse 9]\n[E5]meaning\n[F#5]\n[E5]\n[A5]\n\n[Verse 10]\n[E5]\n[F#5]\n[E5]\n[F#5]\n\n[Verse 11]\n[E5]\n[F#5]\n[E5]\n[F#5]\n\n[Verse 12]\n[E5]\n[F#5]\n[E5]\n[F#5]\n\n[Bridge 1]\n[E5]\n\n[Interlude]\n[B5]\n[C5]\n\n[Bridge 2]\n[E5]\n[B5]\n[C5]\n\n[Verse 13]\n[F#5]\n[E5]\n\n[Outro]\n[F#5]\n[F5]\n[E5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x320xx",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "x-9-11-11-x-x",
+        "244xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dunkelheit *alt",
+  "id": "ecfa54a3e49467f98695bb86eadb324a75ffeff71aa141d8df8aa3e121bfbcd3",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 38,
+  "normalizedKey": "burzum|dunkelheit",
+  "playableChords": [
+    "E5",
+    "D#5",
+    "B5",
+    "F#5",
+    "C",
+    "A5",
+    "F5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Intro"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 6"
+    },
+    {
+      "measure": 69,
+      "name": "Verse 7"
+    },
+    {
+      "measure": 77,
+      "name": "Verse 8"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Verse 9"
+    },
+    {
+      "measure": 97,
+      "name": "Verse 10"
+    },
+    {
+      "measure": 105,
+      "name": "Verse 11"
+    },
+    {
+      "measure": 113,
+      "name": "Verse 12"
+    },
+    {
+      "measure": 121,
+      "name": "Bridge 1"
+    },
+    {
+      "measure": 129,
+      "name": "Interlude"
+    },
+    {
+      "measure": 137,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 153,
+      "name": "Verse 13"
+    },
+    {
+      "measure": 185,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ecfa54a3e49467f98695bb86eadb324a75ffeff71aa141d8df8aa3e121bfbcd3",
+    "version": "BCFZ"
+  },
+  "tempo": 109,
+  "title": "Dunkelheit",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

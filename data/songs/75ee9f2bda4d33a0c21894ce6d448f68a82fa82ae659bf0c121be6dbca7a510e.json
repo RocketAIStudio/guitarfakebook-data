@@ -1,0 +1,101 @@
+{
+  "artist": "Bruce Springsteen",
+  "artistNormalized": "bruce springsteen",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n\n[Verse 1]\n[A]I had a friend was a big base\n[D]ball player\n[A]Back in high school\n[D]\n[A]He could throw that speed\n[D]ball by you\n[A]Make you look like a fool\n[D]boy\n[E]Saw him the other night at this\nroadside bar I was walking in,\n[D]he was walking out\nWe went back\n[E]inside sat down had\na few drinks But all\n[D]he kept talking about\n[E]was Glory days,\n\n[Chorus]\n[A]well they'll\n[D]pass you by Glory days,\n[A]in the wink of a\n[D]young girl's eye Glory days,\n[A]glory days\n[E]\n[A]\n[D]Well there's\n\n[Verse 2]\n[A]a girl that lives up\n[D]the block Back in school\n[A]she could turn all the boy's heads\n[D]Sometimes\n[A]on a Friday I'll stop\n[D]by And have a few drinks\n[A]after she put her kids to\n[D]bed Her and her\n[E]husband Bobby well\nthey split up I guess it's\n[D]two years gone by now\nWe just sit a-\n[E]round talking 'bout the old times\nShe says when she feels like\n[D]crying She starts laughing think-\n[E]ing bout Glory days,\n\n[Chorus]\n[A]well they'll\n[D]pass you by Glory days,\n[A]in the wink of a\n[D]young girl's eye Glory days,\n[A]glory days\n[E]\n[A]\n[D]\n[E]\n[D]\n[E]\n\n[Verse 3]\n[A]In fact I'm going down to the\n[D]well tonight And I'm gonna\n[A]drink till I get my fill\n[D]And I hope\n[A]when I get old I don't sit around\n[D]thinking about it\n[A]But I probably will\n[D]Yeah, just\n[E]sitting back trying\nto recapture A little\n[D]of the glory yeah\nWell the time\n[E]slips away and\nleaves you with nothing, mister, but\n[D]Boring stories of\n[E]Glory days,\n\n[Chorus]\n[A]well they'll\n[D]pass you by Glory days,\n[A]in the wink of a\n[D]young girl's eye Glory days,\n[A]glory days\n[E]Glory days,\n[A]well they'll\n[D]pass you by Glory days,\n[A]in the wink of a\n[D]young girl's eye Glory days,\n[A]glory days\n[E]\n\n[Outro 1]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n[A]\n[D]\n\n[Outro 2]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Glory Days *alt",
+  "id": "75ee9f2bda4d33a0c21894ce6d448f68a82fa82ae659bf0c121be6dbca7a510e",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 336,
+  "normalizedKey": "bruce springsteen|glory days",
+  "playableChords": [
+    "A",
+    "D",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Outro 1"
+    },
+    {
+      "measure": 121,
+      "name": "Outro 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "75ee9f2bda4d33a0c21894ce6d448f68a82fa82ae659bf0c121be6dbca7a510e",
+    "version": "BCFZ"
+  },
+  "tempo": 118,
+  "title": "Glory Days",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

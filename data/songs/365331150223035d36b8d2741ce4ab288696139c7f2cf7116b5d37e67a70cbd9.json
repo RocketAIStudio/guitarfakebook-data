@@ -1,0 +1,96 @@
+{
+  "artist": "Cause For Alarm",
+  "artistNormalized": "cause for alarm",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G5]\n[G5]  [D5]  [C5]  [F5]\n[E5]\n[G5]  [D5]  [C5]  [F5]\n[E5]\n\n[Verse 1]\n[G5]Can [D5]finally see [C5]the [F5]light\n[E5]\n[D5][G5]Differences [C5]between their [F5]wrongs\n[E5]\n[G5]And rights [D5]society tells us [C5]what to [F5]do\n[E5]\n[D5][G5]Dictating to [C5]me and [F5]you\n[E5]No\n\n[Interlude]\n[G5]more [D5][C5][F5]\n[E5]\n[G5]  [D5]  [C5]  [F5]\n[E5]\n\n[Chorus]\n[A5]\n[G5]  [D5]\n[A5]\n[G5]  [D5]\n[A5]We can be the\n[G5]ones to [D5]succeed\n[A5]Youth of today\n[G5]planting the [D5]seeds\n[A5]Then tomorrow will\n[G5]be another [D5]day\n[A5]One step closer till\n[G5]we have the final [D5]say!!!\n\n[Verse 2]\n[G5]So [D5]don't be [C5]led [F5]astray\n[E5]\n[G5]Unity's [D5]the only [C5]way [F5]\n[E5]\n[G5]All the [D5]kids will [C5]stand as [F5]one\n[E5]\n[G5]All the [D5]barriers [C5]will be [F5]gone\n[E5]\n[G5]All the [D5]barriers [C5]will be [F5]gone\n[E5]\n[G5]  [D5]  [C5]  [F5]\n[E5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "10-12-12-x-x-x",
+        "x577xx"
+      ],
+      "catalogCount": 2
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x-10-12-12-x-x",
+        "355xxx"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Stand As One",
+  "id": "365331150223035d36b8d2741ce4ab288696139c7f2cf7116b5d37e67a70cbd9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 93,
+  "normalizedKey": "cause for alarm|stand as one",
+  "playableChords": [
+    "G5",
+    "D5",
+    "C5",
+    "F5",
+    "E5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Interlude"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "365331150223035d36b8d2741ce4ab288696139c7f2cf7116b5d37e67a70cbd9",
+    "version": "BCFZ"
+  },
+  "tempo": 228,
+  "title": "Stand As One",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

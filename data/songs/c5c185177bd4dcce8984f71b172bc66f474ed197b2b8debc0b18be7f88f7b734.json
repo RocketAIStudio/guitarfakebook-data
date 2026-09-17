@@ -1,0 +1,96 @@
+{
+  "artist": "Bring Me The Horizon",
+  "artistNormalized": "bring me the horizon",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Dm]\n[C]\n[Dm]\n[Dm]\n[C]\n[Dm]\nTu as tue mon bebe\n[Dm]\n[C]\n[Dm]\n[Dm]\n[C]\n[Dm]\n\n[Bridge]\n[C]\n[Bb]\n[C]\n[Dm]  [C]\n[Gm]\n[Bb]\n[C]\n[Bb]\n[C]\n[Dm]  [C]\n[Gm]\nI always [Bb]knew\n\n[Verse 1]\n[Dm]this is gonna end in tears\n[C]Didn't think your\n[Dm]wrists would keep a souvenir\nAnd I\n[Dm]thought that I had heard it all\n[C]Till I heard your\n[Dm]lover screaming down the phone\nI\n[Dm]know I said I was un\n[C]der your spell But this\n[Dm]hex is on another le-\nvel And I\n[Dm]know I said you could drag\n[C]me through Hell But I\n[Dm]hoped you wouldn't fuck the De-\nvil\n\n[Bridge]\n[C]\n[Bb]\n[C]\n[Dm]  [C]\n[Gm]\n[Bb]\n\n[Verse 2]\nThis was gonna end in tears\n[C]Didn't think your\n[Bb]wrists would keep a souvenir\n[C]And I\n[Dm]thought that I had heard it [C]all\nTill I heard your\n[Gm]lover screaming down the phone\n[Bb]I\nknow I said I was un\n[C]der your spell But this\n[Bb]hex is on another le-\nvel [C]And I\n[Dm]know I said you [C]could drag\nme through Hell But I\n[Gm]hoped you wouldn't fuck the De-\nvil",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ouch",
+  "id": "c5c185177bd4dcce8984f71b172bc66f474ed197b2b8debc0b18be7f88f7b734",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 169,
+  "normalizedKey": "bring me the horizon|ouch",
+  "playableChords": [
+    "Dm",
+    "C",
+    "Bb",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 50,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c5c185177bd4dcce8984f71b172bc66f474ed197b2b8debc0b18be7f88f7b734",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Ouch",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

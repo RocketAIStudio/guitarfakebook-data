@@ -1,0 +1,118 @@
+{
+  "artist": "City and Colour",
+  "artistNormalized": "city and colour",
+  "capo": "4",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D6add9/F#]\n[Asus4/G]\n[Em9]\n[G6add9]\n[D6add9/F#]\n[Asus4/G]\n[Em9]\n[G6add9]\n\n[Verse 1]\n[D6add9/F#]So\nthere goes my\n[Asus4/G]life\n[Em9]\nPassing by with\n[G6add9]every\nexit sign\n[D6add9/F#]\nIt's been so\n[Asus4/G]long\n[Em9]Sometimes I won-\nder how\n[G6add9]I will stay\nstrong\n[D6add9/F#]\nNo sleep tonight\n[Asus4/G]\n[Em9]I'll keep on\ndriving these\n[G6add9]dark highway\nlines\n[D6add9/F#]And\nas the moon\n[Asus4/G]fades\n[Em9]One more night\ngone only\n[G6add9]twenty more\ndays\n[Dadd11]\n[Em9]\n[G6add9]\nBut I will\n\n[Chorus]\n[Em11/D]see\nyou again\n[Emadd9]\nI will\n[G6add9]see\nyou again\na long\n[Em11/D]\n[Emadd9]time\nfrom now\n[G6add9]\n\n[Bridge]\n[D6add9/F#]\n[Asus4/G]\n[Em9]\n[G6add9]\n[D6add9/F#]\n[Asus4/G]\n[Em9]\n[G6add9]\n\n[Verse 2]\n[D6add9/F#]And\nthere goes my\n[Asus4/G]life\n[Em9]\nPassing by with\n[G6add9]every de-\nparting flight\n[D6add9/F#]And\nits been so\n[Asus4/G]hard\n[Em9]So much\ntime so\n[G6add9]far a-\npart\n[D6add9/F#]And\nshe walks the night\n[Asus4/G]\n[Em9]How many\nhearts\n[G6add9]will die to-\nnight\n[D6add9/F#]And\nwhen things have changed\n[Asus4/G]\n[Em9]I guess I'll\nfind out in\n[G6add9]seventeen\ndays\n[Dadd11]\n[Em9]\n[G6add9]\nBut I will\n\n[Chorus]\n[Em11/D]see\nyou again\n[Emadd9]\nI will\n[G6add9]see\nyou again\na long\n[Em11/D]\n[Emadd9]time\nfrom now\n[G6add9]\n\n[Interlude]\n[D6add9/F#]My\nbody aches\n[Asus4/G]And it\nhurts to say\n[Em9]And\nno one\n[G6add9]is\nmoving\n[D6add9/F#]And I\nwish that I\n[Asus4/G]were a\ntear tonight\n[Em9]\nThis is my\n[G6add9]life\nAnd I will\n\n[Chorus]\n[Em11/D]see\nyou again\n[Emadd9]\nI will\n[G6add9]see\nyou again\na long\n[Em11/D]\n[Emadd9]time\nfrom now\n[G6add9]\nAnd I will\n[Em11/D]see\nyou again\n[Emadd9]\nI will\n[G6add9]see\nyou again\na long\n[Em11/D]\n[Emadd9]time\nfrom now\n[G6add9]\n\n[Outro]\n[Em11/D]",
+  "diagrams": {
+    "Asus4/G": {
+      "catalog": [
+        "x00230"
+      ],
+      "catalogCount": 1
+    },
+    "D6add9/F#": {
+      "catalog": [
+        "440230"
+      ],
+      "catalogCount": 1
+    },
+    "Dadd11": {
+      "catalog": [
+        "024032"
+      ],
+      "catalogCount": 1
+    },
+    "Em11/D": {
+      "catalog": [
+        "024000"
+      ],
+      "catalogCount": 1
+    },
+    "Em9": {
+      "catalog": [
+        "244030",
+        "240032"
+      ],
+      "catalogCount": 2
+    },
+    "Emadd9": {
+      "catalog": [
+        "244000"
+      ],
+      "catalogCount": 1
+    },
+    "G6add9": {
+      "catalog": [
+        "577444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hello, I’m in Delaware",
+  "id": "bf4394bc87e2c2856d692af29fe0430a4d381e0f11903b8839c11a5b9bdf1140",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 213,
+  "normalizedKey": "city and colour|hello i m in delaware",
+  "playableChords": [
+    "D6add9/F#",
+    "Asus4/G",
+    "Em9",
+    "G6add9",
+    "Dadd11",
+    "Em11/D",
+    "Emadd9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge"
+    },
+    {
+      "measure": 89,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 129,
+      "name": "Chorus"
+    },
+    {
+      "measure": 145,
+      "name": "Interlude"
+    },
+    {
+      "measure": 161,
+      "name": "Chorus"
+    },
+    {
+      "measure": 193,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bf4394bc87e2c2856d692af29fe0430a4d381e0f11903b8839c11a5b9bdf1140",
+    "version": "BCFZ"
+  },
+  "tempo": 99,
+  "title": "Hello, I’m in Delaware",
+  "tuning": "D G D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,89 @@
+{
+  "artist": "Buddy Holly",
+  "artistNormalized": "buddy holly",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "Well, the\n\n[Verse 1]\n[G]little things you\nsay and do\nMake me want to\nbe with yououou\n[C]Rave on, it's a\ncrazy feelin' And\n[G]I know it's\ngot me reelin' When\n[D7]you say\nI love you\n[G]Rave on [C][G]\n[D7]The\n\n[Verse 2]\n[G]way you dance and\nhold me tight The\nway you kiss and\nsay good night\n[C]Rave on, it's a\ncrazy feelin' And\n[G]I know it's\ngot me reelin' When\n[D7]you say\nI love you\n[G]Rave on [C][G]\nWell,\n\n[Chorus]\n[C]rave on, it's a\ncrazy feelin' And\n[G]I know it's\ngot me reelin' I'm\n[D7]so glad that\nyou're revealin' your\n[G]love for\nme\n[C]Rave on,\nrave on and tell me\n[G]Tell me\nnot to be lonely\n[D7]Tell me you\nlove me only\n[G]Rave [C]on to [G]me\n\n[Solo Piano]\n[C]\n[G]\n[D7]\n[G]\nWell,\n\n[Chorus]\n[C]rave on, it's a\ncrazy feelin' And\n[G]I know it's\ngot me reelin' I'm\n[D7]so glad that\nyou're revealin' your\n[G]love [C]for\n[G]me\n[C]Rave on,\nrave on and tell me\n[G]Tell me\nnot to be lonely\n[D7]Tell me you\nlove me only\n[G]Rave [C]on to [G]me\n[D7]\n\n[Outro]\n[G]  [C]  [G]\n[D7]\n[G]  [C]  [G]\n[D7]\n[G]  [C]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "x57575",
+        "x-x-0-2-1-2",
+        "x-5-4-5-3-2",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rave On",
+  "id": "37a0c9423017a3884fe2fed8b1ed02bad9f99069f308ff2174530cf7956fb7e9",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 189,
+  "normalizedKey": "buddy holly|rave on",
+  "playableChords": [
+    "G",
+    "C",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Solo Piano"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "37a0c9423017a3884fe2fed8b1ed02bad9f99069f308ff2174530cf7956fb7e9",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Rave On",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

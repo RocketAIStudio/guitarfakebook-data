@@ -1,0 +1,97 @@
+{
+  "artist": "Chuck Berry",
+  "artistNormalized": "chuck berry",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\nIt was a\n\n[Verse 1]\n[C]teenage wedding, and the\nold folks wished them well\nYou could see\nthat Pierre did tru-\nly love the mademoiselle\n[G]\nAnd now the\nyoung monsieur and madame\nhave rung the chapel bell\n\"C'est la vie,\"\nsay the old folks, \"it\n[G7]goes to show you never can\n[C]tell\"\n[G7]They furni-\n\n[Verse 2]\n[C]shed off an apartment with a\n2room Roebuck sale\nThe coole-\nrator was crammed with T\nV dinners and gin-\n[G]ger ale,\nBut when Pierre\nfound work, the little mo-\nney comin' worked out well\n\"C'est la vie,\"\nsay the old folks, \"it\n[G7]goes to show you never can\n[C]tell\"\n[G7]They had a\n\n[Verse 3]\n[C]hifi phono, boy,\ndid they let it blast\nSeven\nhundredth little records, all\nrock, rhythm and jazz\n[G]\nBut when the\nsun went down, the rapid\ntempo of the music fell\n\"C'est la vie,\"\nsay the old folks, \"it\n[G7]goes to show you never can\n[C]tell\"\n[G7]They bought a\n\n[Verse 4]\n[C]soupedup jitney, was a\ncherry red fifty three\nAnd drove it\ndown to Orleans to cele-\nbrate their anniversary\n[G]\nIt was there\nwhere Pierre was wedded\nto the lovely mademoiselle\n\"C'est la vie,\"\nsay the old folks, \"it\n[G7]goes to show you never can\n[C]tell\"\n\n[Solo]\n[C]\n[G]\n[G7]\n[C]\n[G7]They had a\n\n[Verse 5]\n[C]teenage wedding, and the\nold folks wished them well\nYou could see\nthat Pierre did tru-\nly love the mademoiselle\n[G]\nAnd now\nthe young monsieur and madame\nhave rung the chapel bell\n\"C'est la vie,\"\nsay the old folks, \"it\n[G7]goes to show you never can\n[C]tell\"\n[G7]\n\n[Outro]\n[C]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "35343x",
+        "3-2-0-0-0-1",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You Never Can Tell",
+  "id": "3c44befb127333dfa5c01622c1be98bfd38cf0247d634d28d0229905a03478a9",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 310,
+  "normalizedKey": "chuck berry|you never can tell",
+  "playableChords": [
+    "C",
+    "G",
+    "G7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 67,
+      "name": "Solo"
+    },
+    {
+      "measure": 83,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 99,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3c44befb127333dfa5c01622c1be98bfd38cf0247d634d28d0229905a03478a9",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "You Never Can Tell",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

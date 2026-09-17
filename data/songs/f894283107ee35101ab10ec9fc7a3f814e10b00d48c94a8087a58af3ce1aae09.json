@@ -1,0 +1,94 @@
+{
+  "artist": "Bottlerocket Teenage",
+  "artistNormalized": "bottlerocket teenage",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "1 2 3 [D5]\n\n[Intro]\n[A5]\n[C5]  [A5]\n[A5]  [C5]\n[G5]  [D5]\n[A5]\n[C5]  [A5]\n[A5]  [C5]\n[G5]  [D5]\n[A5]\n[C5]  [A5]\n[A5]  [C5]\n[G5]  [D5]\n[A5]\n[C5]  [A5]\n[A5]  [C5]\n[G5]  [D5]  [E5]\n\n[Verse 1]\n[B5]Got an empty bot-\ntle in my [D5]pocket [E5]And\n[B5]things are about to explode\n[D5]  [E5]\n[B5]Light the fuse\nand run [D5]away [E5]\n[B5]Watch the bottlerocket go\n[D5]  [E5]\n\n[Interlude]\n[A5]\n[C5]  [A5]\n[A5]  [C5]\n[G5]  [D5]\n[A5]\n[C5]  [A5]\n[A5]  [C5]\n[G5]  [D5]  [E5]\n\n[Verse 2]\n[B5]Got an empty bot-\ntle in my [D5]pocket [E5]And\n[B5]things are about to explode\n[D5]  [E5]\n[B5]Light the fuse\nand run [D5]away [E5]\n[B5]Watch the bottlerocket go\n[D5]  [E5]\n\n[Chorus]\n[A5]\n[C5]  [G5]  [D5]\n[E5]\nBottlerocket!\n[A5]\n[C5]  [G5]  [D5]\n[E5]\nBottlerocket!\n[A5]\n[C5]  [G5]  [D5]\n[E5]\nBottlerocket!\n[A5]\n[C5]  [G5]  [D5]\n[E5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bottlerocket",
+  "id": "f894283107ee35101ab10ec9fc7a3f814e10b00d48c94a8087a58af3ce1aae09",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 79,
+  "normalizedKey": "bottlerocket teenage|bottlerocket",
+  "playableChords": [
+    "D5",
+    "A5",
+    "C5",
+    "G5",
+    "E5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Interlude"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f894283107ee35101ab10ec9fc7a3f814e10b00d48c94a8087a58af3ce1aae09",
+    "version": "BCFZ"
+  },
+  "tempo": 254,
+  "title": "Bottlerocket",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

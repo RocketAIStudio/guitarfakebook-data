@@ -1,0 +1,101 @@
+{
+  "artist": "D.R.I.",
+  "artistNormalized": "d r i",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Bb5]  [Gb5]\n[Eb5]  [F5]\n[Bb5]  [Gb5]\n[Eb5]  [F5]\n\n[Verse 1]\n[Bb5]I think of things that bring [D5]people down\n[G5]I'm the type of person no [Ab5]one wants around\n[Bb5]Everyone stares at me [D5]wherever I go\n[G5]They all suck, what [Ab5]do they know?\n\n[Chorus]\n[Bb5]They're living inside a [Gb5]designer world\n[Eb5]A fresh and clean [F5]pretty little world\n[Bb5]Reality to them is a [Gb5]new pair of shoes\n[Eb5]And trying ten pair [F5]before they choose\n\n[Verse 2]\n[Bb5]I think of things that bring [D5]people down\n[G5]Out of the clouds and [Ab5]back to the ground\n[Bb5]Where the fish lie belly up in [D5]black water\n[G5]Where the boy next door [Ab5]is fucking your dog\n\n[Chorus]\n[Bb5]Your living inside [Gb5]a plastique world\n[Eb5]Slick and modern [F5]pseudo world\n[Bb5]Where what you want is [Gb5]what you get\n[Eb5]Package after [F5]package of plastique shit",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bb5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "10-12-12-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Eb5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gb5": {
+      "catalog": [
+        "x-9-11-11-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Plastique",
+  "id": "94f979ca929441e3828e499917c98d397b25ac2ddfc11851162d8abeaef49ce8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 148,
+  "normalizedKey": "d r i|plastique",
+  "playableChords": [
+    "Bb5",
+    "Gb5",
+    "Eb5",
+    "F5",
+    "D5",
+    "G5",
+    "Ab5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "94f979ca929441e3828e499917c98d397b25ac2ddfc11851162d8abeaef49ce8",
+    "version": "BCFZ"
+  },
+  "tempo": 188,
+  "title": "Plastique",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

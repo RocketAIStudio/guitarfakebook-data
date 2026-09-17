@@ -1,0 +1,111 @@
+{
+  "artist": "current joys",
+  "artistNormalized": "current joys",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A]\n[Dmaj7]\n[A]\n[Dmaj7]\n[A]\n[Dmaj7]\n[A]\n[Dmaj7]\n\n[Verse 1]\n[A]I listened to The Cure\n[F#m]I listened to The Cure\n[D]I listened to The Cure\n[E]and then I cried\n[A]\n[Dmaj7]\n[A]\n[Dmaj7]\n[A]I watched Videodrome\n[F#m]I watched Videodrome\n[D]I watched Videodrome\n[E]and lost my mind\n[A]\n[Dmaj7]\n[A]\n[Dmaj7]\n[A]I tried to write a song\n[F#m]I tried to write a song\n[D]I tried to write a song\n[E]I think you'd like\n[A]\n[Dmaj7]\n[A]\n[Dmaj7]\n[A]But no one gives a shit\n[F#m]No one gives a shit\n[D]No one gives a shit\n[E]about my life\n\n[Chorus]\n[A]\n[E]\n[D]Till' I die\n[A]\n[E]\n[D]Till' I die\n[A]\n[E]\n[D]It's DIY\n[A]\n[E]\n[D]It's DIY\n\n[Break]\n[A]\n[Dmaj7]\n[A]\n[Dmaj7]\n[A]\n[Dmaj7]\n[A]\n[Dmaj7]\n\n[Verse 2]\n[A]I have nightmares\n[F#m]I have nightmares\n[D]I have nightmares\n[E]all the time\n[A]\n[Dmaj7]\n[A]\n[Dmaj7]\n[A]So I stay awake\n[F#m]So I stay awake\n[D]So I stay awake\n[E]all night\n[A]\n[Dmaj7]\n[A]\n[Dmaj7]\n[A]I say I'm gonna leave\n[F#m]I say I'm gonna leave\n[D]I say I'm gonna leave\n[E]But I think you're right\n[A]\n[Dmaj7]\n[A]\n[Dmaj7]\n[A]I'm gonna stay right here\n[F#m]I'm gonna stay right here\n[D]I'm gonna stay right here\n[E]until I die\n\n[Chorus]\n[A]\n[E]\n[D]Till' I die\n[A]\n[E]\n[D]Till' I die\n[A]\n[E]\n[D]It's DIY\n[A]\n[E]\n[D]It's DIY\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9",
+        "10-12-11-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "new flesh",
+  "id": "5cf1a5f01ac1f599c56454bc4db5f3bdafbffd777065a11be3a691dcb0e72a52",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 197,
+  "normalizedKey": "current joys|new flesh",
+  "playableChords": [
+    "A",
+    "Dmaj7",
+    "F#m",
+    "D",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Break"
+    },
+    {
+      "measure": 69,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 97,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5cf1a5f01ac1f599c56454bc4db5f3bdafbffd777065a11be3a691dcb0e72a52",
+    "version": "BCFZ"
+  },
+  "tempo": 166,
+  "title": "new flesh",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

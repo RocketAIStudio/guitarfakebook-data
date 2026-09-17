@@ -1,0 +1,103 @@
+{
+  "artist": "Bud Spencer Blues Explosion",
+  "artistNormalized": "bud spencer blues explosion",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D5]\n\n[Verse 1]\n[D5]Ti ho vista camminare\n[F5]\n[D5]Andavi verso il sole\n[F5]\n[D5]E la tua ombra era lunga e arrivava a me\n[F5]\n[D5]Che ero solo un riflesso nella polvere\n[F5]\n\n[Chorus]\n[Bb5]  [G5]\n[D5]\nCome il sole\n[Bb5]\n[G5]\n[D5]\nCome il sole\n\n[Break]\n[D5]\n\n[Verse 2]\n[D5]Ti ho vista nella luce\n[F5]\n[D5]Che mi sembravi il sole\n[F5]\n[D5]E ho chiuso gli occhi di lacrime e polvere\n[F5]\n[D5]E ti ho trovata nel buio che era dentro me\n[F5]\n\n[Chorus]\n[Bb5]  [G5]\n[D5]\nCome il sole\n[Bb5]\n[G5]\n[D5]\nCome il sole\n\n[Bridge 1]\n[D5]\n\n[Bridge 2]\n[D5]\n\n[Outro]\n[D5]\n[F#5]",
+  "diagrams": {
+    "Bb5": {
+      "catalog": [
+        "888xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "444xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Duel",
+  "id": "682cf1c49f0bea1dd992598d5ebfffdea63a6beec23b941b931ee5c3cea58d61",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 96,
+  "normalizedKey": "bud spencer blues explosion|duel",
+  "playableChords": [
+    "D5",
+    "F5",
+    "Bb5",
+    "G5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Break"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge 1"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "682cf1c49f0bea1dd992598d5ebfffdea63a6beec23b941b931ee5c3cea58d61",
+    "version": "BCFZ"
+  },
+  "tempo": 89,
+  "title": "Duel",
+  "tuning": "D A D F# A D",
+  "variantRole": "primary"
+}

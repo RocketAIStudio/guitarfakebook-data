@@ -1,0 +1,132 @@
+{
+  "artist": "Creedence Clearwater Revival",
+  "artistNormalized": "creedence clearwater revival",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E7]\nNow\n\n[Verse 1]\n[E7]when I was just a little\nboy I\nstand up to my daddy's knee\n[D][E7]My\npapa said son don't let\nthe man get you do\nwhat he done to me\n[D][E7]'Cause he'll get\nyou\n'cause he'll get\nyou now now\nAnd\n\n[Verse 2]\n[E7]I can remember the Fourth\nof July\nrunnin' through the back wood bare\n[D][E7]And\nI can still hear my old hound\ndog barkin' chas-\nin' down a hoodoo there\n[D][E7]Chas-\nin' down a hoodoo there\n[D]  [A]\n\n[Chorus]\n[E7]Born on the bay-\nou [D][A]\n[E7]Born on the bay-\n[D]ou [A]\n[E7]Born on the bay-\nou [D]Lord [A]Lord\n[E7]\n\n[Solo]\n[E7]\n[D]  [A]  [E]\n[E7]\n[D]  [A]  [E]\n[E7]\n[D]  [A]  [E]\n[E7]\n[D]  [A]  [E]\n[E7]\n\n[Interlude]\n[E7]\n\n[Pre-Verse]\n[E7]\n\n[Verse 3]\n[E7]Wish I was back on the bay-\nou\nrollin' with some Cajun\nQueen [D][E7]\nWishin' I were a fast\nfreight train oh just\nchooglin' on down to New\nOrleans\n\n[Chorus]\n[E7]Born on the bay-\nou\nBorn on the bay-\nou\nBorn on the bay-\nou\n\n[Interlude 2]\n[E7]\n[D]  [A]  [E]\n[E7]\n\n[Pre-Verse]\n[E7]\nAnd\n\n[Verse 4]\n[E7]I can remember the Fourth\nof July\nrunnin' through the back wood bare\n[D][E7]And\nI can still hear my old hound\ndog barkin' chas-\nin' down a hoodoo there\n[D][E7]Chas-\nin' down a hoodoo there\n[D]  [A]\n\n[Chorus]\n[E7]Born on the bay-\nou [D][A]\n[E7]Born on the bay-\n[D]ou [A]\n[E7]Born on the bay-\nou [D][A]\n[E7]\n\n[Outro]\n[E7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020130",
+        "02213x",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Born on the Bayou *alt 2",
+  "id": "f65c7130593442036309ef4ccab1d0677b83763ba1ad14895735cbdb948f853a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 210,
+  "normalizedKey": "creedence clearwater revival|born on the bayou",
+  "playableChords": [
+    "E7",
+    "D",
+    "A",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Solo"
+    },
+    {
+      "measure": 63,
+      "name": "Interlude"
+    },
+    {
+      "measure": 71,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 75,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 83,
+      "name": "Chorus"
+    },
+    {
+      "measure": 91,
+      "name": "Interlude 2"
+    },
+    {
+      "measure": 112,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 120,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 130,
+      "name": "Chorus"
+    },
+    {
+      "measure": 138,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f65c7130593442036309ef4ccab1d0677b83763ba1ad14895735cbdb948f853a",
+    "version": "BCFZ"
+  },
+  "tempo": 115,
+  "title": "Born on the Bayou",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

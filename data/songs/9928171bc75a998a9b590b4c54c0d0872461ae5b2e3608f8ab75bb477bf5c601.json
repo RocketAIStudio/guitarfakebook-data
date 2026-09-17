@@ -1,0 +1,136 @@
+{
+  "artist": "Chris Stapleton",
+  "artistNormalized": "chris stapleton",
+  "capo": "5",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 8,
+  "content": "[Verse 1]\n[D]Let me tell you [Bm]a story A-\n[G5]bout an old friend [D]of mine\n[D]Somebody [D/C#]left her in a [G/B]shopping cart [A7sus4]In a\n[G5]parking lot for us [A]to find\n[D]Just a fuzzy black [Bm]pup She was\n[G5]hungry and feeling [D]alone\n[D]We put her in the [Bm]back seat\n[G5]Told her we were taking [D]her home\n\n[Chorus]\n[D]Run Maggie run [D/F#]With the heart\n[G5]of a rebel [D]child Oh\n[D]run Maggie run [D/F#]Be just as\n[G5]free as you are [D]wild\n\n[Verse 2]\n[D]A few kids [Bm]later We\n[G5]moved out on [D]the farm\n[D]And she [D/C#]followed those [G/B]kids around [A7sus4]Yes, she\n[G5]kept them safe [A]from harm\n[D]And she loved to chase [Bm]squirrels And\n[G5]playing out in [D]the snow\n[D]She’d take off like a [Bm]bullet Man\n[G5]you should have seen her [D]go\n\n[Chorus]\n[D]Run Maggie run [D/F#]With the heart\n[G5]of a rebel [D]child Oh\n[D]run Maggie run [D/F#]Be just as\n[G5]free as you are [D]wild\n\n[Interlude]\n[D]  [D/F#]\n[G5]  [D]\n[D]  [D/F#]\n[G5]  [D]\n\n[Verse 3]\n[D]It was raining on [Bm]a Monday The\n[G5]day that Maggie [D]died\n[D]She woke up [D/C#]and couldn’t [G/B]use her legs [A7sus4]So I\n[G5]laid down by [A]her side\n[D]She put her head on my [Bm]hand Like she’d\n[G5]done so many [D]times\n[D]I told her she was a [Bm]good dog Then I told\n[G5]her [D]goodbye\n\n[Chorus]\n[D]Run Maggie run [D/F#]With the heart\n[G5]of a rebel [D]child Oh\n[D]run Maggie run [D/F#]Be just as\n[G5]free as you are [D]wild\n\n[Verse 4]\n[D]I had a [Bm]revelation as the\n[G5]tractor dug [D]a hole\n[D]I can [D/C#]tell you right [G/B]now [A7sus4]that a\n[G5]dog has [A]a soul\n[D]And I thought to [Bm]myself as we\n[G5]buried her on [D]the hill\n[D]I never knew me a [Bm]better dog and I\n[G5]guess I never [D]will\n\n[Chorus]\n[D]Run Maggie run [D/F#]With the heart\n[G5]of a rebel [D]child Oh\n[D]run Maggie run [D/F#]Be just as\n[G5]free as you are [D]wild\n[D]Run [D/C#]Maggie run [G/B][A7sus4]With the heart\n[G5]of a rebel [D]child Oh\n[D]run Maggie run [Bm]Be just as\n[G5]free as you are [D]wild",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7sus4": {
+      "catalog": [
+        "x0x03x"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x2443x",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "000232",
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/C#": {
+      "catalog": [
+        "x4x232"
+      ],
+      "catalogCount": 1
+    },
+    "D/F#": {
+      "catalog": [
+        "4x023x"
+      ],
+      "catalogCount": 1
+    },
+    "G/B": {
+      "catalog": [
+        "x2x03x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "5x003x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Maggie's Song",
+  "id": "9928171bc75a998a9b590b4c54c0d0872461ae5b2e3608f8ab75bb477bf5c601",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 353,
+  "normalizedKey": "chris stapleton|maggie s song",
+  "playableChords": [
+    "D",
+    "Bm",
+    "G5",
+    "D/C#",
+    "G/B",
+    "A7sus4",
+    "A",
+    "D/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Interlude"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9928171bc75a998a9b590b4c54c0d0872461ae5b2e3608f8ab75bb477bf5c601",
+    "version": "BCFZ"
+  },
+  "tempo": 67,
+  "title": "Maggie's Song",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,153 @@
+{
+  "artist": "Coldplay",
+  "artistNormalized": "coldplay",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G]  [Em7]\n[Bm]\n[G]  [Em7]\n[Bm]\n[G]  [Em7]\n[Bm]\n[G]  [Em7]\n[Bm]\n\n[Verse 1]\n[G]Oh [Em7]no, I\n[Bm]see, A\n[F]spider web is [Am]tangled up with me,\n[G]And I [Em7]lost my head,\n[Bm]The\n[F]thought of all the [Am]stupid things I'd\n[G]said.\n\n[Bridge]\n[G]  [Em7]\n[Bm]\n[G]  [Em7]\n[Bm]\n\n[Verse 2]\n[G]Oh [Em7]no, what's\n[Bm]this? A\n[F]spider web, and I'm [Am]caught in the middle,\n[G]So I [Em7]turn to run,\n[Bm]The\n[F]thought of all the [Am]stupid things I've\n[G]done, And\n\n[Chorus]\n[A]ah I never meant to cause you troub-\n[Em7]le, And\n[A]ah I never meant to do you wrong,\n[Em7]And\n[A]ah well if I ever caused you troub-\n[Em7]le, Then\n[A]oh no, I never meant to do you harm.\n[Em7]\n\n[Bridge]\n[G]  [Em7]\n[Bm]\n[G]  [Em7]\n[Bm]\n\n[Verse 3]\n[G]Oh [Em7]no, I\n[Bm]see, A\n[F]spider web and it's [Am]me in the middle,\n[G]So I [Em7]twist and turn,\n[Bm]But\n[F]here am I in my [Am]little bubble,\n[G]Singing ah\n\n[Chorus]\n\n[Bridge]\n[G]  [Em7]\n[Bm]\n[G]  [Em7]\n[Bm]\n[G]  [Em7]\n[Bm]\n[G]  [Em7]\n[Bm]\n\n[Interlude]\n[Em7]And they [F#m7]spun a web\n[G][F#m7]for me,\n[Em7]And they [F#m7]spun a web\n[G][F#m7]for me,\n[Em7]And they [F#m7]spun a web\n[G][F#m7]for me.\n[Em7]  [F#m7]\n[G]  [F#m7]\n\n[Outro]\n[G]  [Em7]\n[Bm]\n[G]  [Em7]\n[Bm]\n[G]  [Em7]\n[Bm]\n[G]  [Em7]\n[Bm]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02222",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02212",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x2443x",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "020000",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12",
+        "x-19-21-19-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "13321x",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "242222",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14",
+        "x-21-23-21-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320000",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Trouble *alt 2",
+  "id": "d5f3366d7d0fa8c72a4393f0291d72a1c9db22aa4231c98f0dc8ad0bb287314d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 156,
+  "normalizedKey": "coldplay|trouble",
+  "playableChords": [
+    "G",
+    "Em7",
+    "Bm",
+    "F",
+    "Am",
+    "A",
+    "F#m7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 36,
+      "name": "Bridge"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 55,
+      "name": "Bridge"
+    },
+    {
+      "measure": 63,
+      "name": "Interlude"
+    },
+    {
+      "measure": 71,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d5f3366d7d0fa8c72a4393f0291d72a1c9db22aa4231c98f0dc8ad0bb287314d",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "Trouble",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

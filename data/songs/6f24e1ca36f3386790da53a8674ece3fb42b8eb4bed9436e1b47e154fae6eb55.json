@@ -1,0 +1,102 @@
+{
+  "artist": "Crosby, Stills, Nash & Young",
+  "artistNormalized": "crosby stills nash young",
+  "capo": "1",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]  [Em7/D]\n[D]  [Bm/D]\n\n[Verse 1]\n[D]Four and Twenty [Em7/D]years ago I\n[D]come into this [Bm/D]life, A\n[D]Son of a [Em7/D]woman And a man\n[D]who lived in [Bm/D]strife He was tired\n[Dm/F][Gsus2]of being poor.\n[Amadd11/D]But he was-\n[Dm/F]n't into [Gsus2]sel=ling door to door\n[Amadd11/D]And he worked\n[Dm/F]like a [Gsus2]devil to be more.\n[Amadd11/D]\n\n[Bridge]\n[D]  [Em7/D]\n[D][Bm/D]A\n\n[Verse 2]\n[D]different kind of [Em7/D]poverty\n[D]now upsets me so [Bm/D]\n[D]Night after [Em7/D]sleepless night I\n[D]walk the floor and [Bm/D]want to know\n[Dm/F]Why [Gsus2]am I so\n[Amadd11/D]alone?\n[Dm/F]Where is my [Gsus2]woman, can I\n[Amadd11/D]bring her home? Have I\n[Dm/F]driven her away? [Gsus2]Is she go-\n[Amadd11/D]ne?\n\n[Bridge]\n[D]  [Em7/D]\n[D]  [Bm/D]\n\n[Verse 3]\n[D]Morning comes the [Em7/D]sunrise, And I'm\n[D]driven to my bed [Bm/D]\n[D]I see that it is [Em7/D]emp=ty And there's\n[D]devils in my head. [Bm/D]I\n[Dm/F]embrace [Gsus2]the many colored\n[Amadd11/D]beast. I grow\n[Dm/F]weary of the torment [Gsus2]Can there be no\n[Amadd11/D]peace?\n[Dm/F]And I find myself [Gsus2]just wishing that my life\n[Amadd11/D]would simply cease.",
+  "diagrams": {
+    "Amadd11/D": {
+      "catalog": [
+        "8-x-x-8-12-10"
+      ],
+      "catalogCount": 1
+    },
+    "Bm/D": {
+      "catalog": [
+        "0x0020"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "4x4497",
+        "0x0054",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5"
+      ],
+      "catalogCount": 5
+    },
+    "Dm/F": {
+      "catalog": [
+        "3x030x"
+      ],
+      "catalogCount": 1
+    },
+    "Em7/D": {
+      "catalog": [
+        "3x3375"
+      ],
+      "catalogCount": 1
+    },
+    "Gsus2": {
+      "catalog": [
+        "5x050x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "4 plus 20",
+  "id": "6f24e1ca36f3386790da53a8674ece3fb42b8eb4bed9436e1b47e154fae6eb55",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 175,
+  "normalizedKey": "crosby stills nash young|4 plus 20",
+  "playableChords": [
+    "D",
+    "Em7/D",
+    "Bm/D",
+    "Dm/F",
+    "Gsus2",
+    "Amadd11/D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Bridge"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6f24e1ca36f3386790da53a8674ece3fb42b8eb4bed9436e1b47e154fae6eb55",
+    "version": "BCFZ"
+  },
+  "tempo": 71,
+  "title": "4 plus 20",
+  "tuning": "D A D D A D",
+  "variantRole": "primary"
+}

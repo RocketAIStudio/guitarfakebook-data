@@ -1,0 +1,134 @@
+{
+  "artist": "Bon Iver",
+  "artistNormalized": "bon iver",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\n[Em]\n[Am]\n[Em]\n\n[Verse 1]\n[C]I am my\nmother's only one\n[Em]\nIt's enough\n[G]\n[C]I wear my\ngarment so it shows\n[Em]\nNow you know\n[G]\n\n[Chorus]\n[F]Only\nlove is all ma-\n[Am]roon\n[C]\n[F]Gluey\nfeathers on a\n[Am]flume\n[G]\n[F]Sky is\nwomb and she's the\n[Am]moon\n[C]\n\n[Bridge]\n[C]\n[G]\n[Em]\n[Am]\n[Em]\n\n[Verse 2]\n[C]I am my\nmother on the wall,\n[Em]\nwith us all\n[G]\n[C]I move in\nwater, shore to shore;\n[Em]\nNothing's mo\n[G]re\n\n[Chorus]\n[F]Only\nlove is all ma-\n[Am]roon\n[C]\n[F]Lapping\nlakes like leary\n[Am]loons\n[G]\n[F]Leaving\nrope burns Reddish\n[Am]rouge\n[C]\n\n[Interlude]\n[C]\n[G]\n[Em]\n[Am]\n[Em]\n[E]\n\n[Chorus]\n[F]Only\nlove is all ma-\n[Am]roon\n[C]\n[F]Gluey\nfeathers on a\n[Am]flume\n[G]\n[F]Sky is\nwomb and she's the\n[Am]moon\n[C]\n\n[Outro]\n[F]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Flume",
+  "id": "83283e995a936db4dd139f3edd9f29d0fcda7394980af032e44b4a671d963786",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 111,
+  "normalizedKey": "bon iver|flume",
+  "playableChords": [
+    "C",
+    "Em",
+    "Am",
+    "G",
+    "F",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Interlude"
+    },
+    {
+      "measure": 92,
+      "name": "Chorus"
+    },
+    {
+      "measure": 104,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "83283e995a936db4dd139f3edd9f29d0fcda7394980af032e44b4a671d963786",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "Flume",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

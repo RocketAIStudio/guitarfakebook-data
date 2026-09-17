@@ -1,0 +1,123 @@
+{
+  "artist": "Buddy Guy",
+  "artistNormalized": "buddy guy",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n[G]\n\n[Verse 1]\n[C]Down here the river\nMeets the\n[G]sea\nAnd\n[C]in the sticky heat I feel ya'\nOpen up to\n[G]me\n\n[Chorus]\n[B7]Love\ncomes out of nowhere baby,\n[Em]just like a [G/D]hurricane\n[C]And it feels like\n[G]rain\n[C]And it feels like\n[G]rain\n\n[Verse 2]\n[C]Lying here Under-\nneath the stars Right next to\n[G]you\n[C]And I'm wondering who you are\nAnd how do you do?\n[G]How do you do, baby?\n\n[Chorus]\n[B7]Clouds roll in\nAcross the moon\n[Em]And the wind howls [G/D]out your name\n[C]And it feels like\n[G]rain\n[C]And it feels like\n[G]rain\n\n[Solo]\n[C]\n[G]\n[C]\n[G]\n\n[Chorus]\n[B7]We never\nGoing to make that bridge tonight, baby\n[Em]Across [G/D]lake Ponchartrain\n[C]And it feels like\n[G]rain\n[C]And it feels like\n[G]rain\n\n[Verse 3]\n[C]So batten down the hatch, ba-\nby\n[G]And leave your heart up your sleeve\n[C]It looks like we are in for\nstormy weather\n[G]That ain't no cause for us to\nleave\n\n[Chorus]\n[B7]Just lay here\nIn my arms\n[Em]Let it [G/D]wash away the\n[C]pain And it feels like\n[G]rain\n[C]And it feels like\n[G]rain\n[C]Feels like a\n\n[Outro]\n[G]rain\n[C]And it feels like\n[G]rain\n[C]Like a\n[G]rain, yeah\n[C]Like\n[G]rain\n[C]\n[G]Rain\n[C]You know it feels\n[G]like rain\n[C]Sometimes, but it feels like\n[G]rain\n[C]",
+  "diagrams": {
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/D": {
+      "catalog": [
+        "xx0003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Feels Like Rain",
+  "id": "2d260a37240ac4fb19cfb620153ec154a88f7d9174cb6fdcc4ed55326ea95088",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 215,
+  "normalizedKey": "buddy guy|feels like rain",
+  "playableChords": [
+    "C",
+    "G",
+    "B7",
+    "Em",
+    "G/D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Solo"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2d260a37240ac4fb19cfb620153ec154a88f7d9174cb6fdcc4ed55326ea95088",
+    "version": "BCFZ"
+  },
+  "tempo": 71,
+  "title": "Feels Like Rain",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

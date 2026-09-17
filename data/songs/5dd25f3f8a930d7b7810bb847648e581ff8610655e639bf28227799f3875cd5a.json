@@ -1,0 +1,111 @@
+{
+  "artist": "Cocoon",
+  "artistNormalized": "cocoon",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Em]One, two three, four\n\n[Intro]\n[Em]\n[Asus2/C#]\n[C]\n[G]\n[Em]\n[Asus2/C#]\n[C]\n[G]\n\n[Verse 1]\n[Em]If you feel like a li\n[Asus2/C#]ar If you're about to leave\n[C]me If you can't sleep at night\n[G]\n[Em]If my bad songs upset\n[Asus2/C#]you And if my arms can't warm\n[C]you And you just have to try\n[G]\n\n[Chorus]\n[B7]I am suck a coward\n[C]I could win an award\n[G]You may not [B7]believe me\n[Em]\n[G]But it would [B7]be okay\n[C]Be okay\n[Asus2/C#]Be okay\n[C]Hmm\n\n[Solo]\n[Em]\n[Asus2/C#]\n[C]\n[G]\n\n[Verse 2]\n[Em]Did you know you're still cry\n[Asus2/C#]ing? Did you know that we all\n[C]did? Is it paradise?\n[G]\n[Em]I'm just waiting for the\n[Asus2/C#]day That I will find a let\n[C]ter On the bedroom door\n[G]\n\n[Chorus]\n[B7]I am suck a coward\n[C]I could win an award\n[G]You may not [B7]believe me\n[Em]\n[G]But it would [B7]be okay\n[C]Be okay\n[Asus2/C#]Be okay\n[C]Be okay\n\n[Outro]\n[Em]\n[Asus2/C#]\n[C]\n[G]\n[Em]\n[Asus2/C#]\n[C]\n[G]",
+  "diagrams": {
+    "Asus2/C#": {
+      "catalog": [
+        "x42200"
+      ],
+      "catalogCount": 1
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022003",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "On My Way",
+  "id": "5dd25f3f8a930d7b7810bb847648e581ff8610655e639bf28227799f3875cd5a",
+  "key": "A♯",
+  "keyIdentified": true,
+  "lyricEventCount": 149,
+  "normalizedKey": "cocoon|on my way",
+  "playableChords": [
+    "Em",
+    "Asus2/C#",
+    "C",
+    "G",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Solo"
+    },
+    {
+      "measure": 31,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5dd25f3f8a930d7b7810bb847648e581ff8610655e639bf28227799f3875cd5a",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "On My Way",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

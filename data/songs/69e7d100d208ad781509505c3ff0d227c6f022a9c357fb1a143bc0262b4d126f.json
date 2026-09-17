@@ -1,0 +1,103 @@
+{
+  "artist": "Cat Power",
+  "artistNormalized": "cat power",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Dm]\nStart spreadin' the news\n\n[Verse 1]\n[Dm]I'm leavin' to-\nday I want to\n[Gm]be a part of it\nNew York, New York\n[Dm]\nThese vagabond\nshoes Are longin' to\nstray\n[Gm]Right through the very heart of it New\nYork, New York\n[Dm]\nI want to\n\n[Chorus]\n[Gm]wake up in a [Bb]city that doesn't\n[Dm]sleep To find\n[Gm]I'm cream of the crop and top [Bb]of the he-\n[A7]ap\nThese little town\n\n[Verse 2]\n[Dm]blues Are meltin' a-\nway I'll make a bra-\n[Gm]nd new start of it\nOh, in New York\n[Dm]\nIf I can\n[Gm]make it there I'll make it\n[Bb]anywhere [C]New York\n[Dm]\nIt's up to\n[Gm]you New\n[Bb][C]Yo-\n[Dm]rk",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "57565x",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "688766",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "3553xx",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "New York",
+  "id": "69e7d100d208ad781509505c3ff0d227c6f022a9c357fb1a143bc0262b4d126f",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 120,
+  "normalizedKey": "cat power|new york",
+  "playableChords": [
+    "Dm",
+    "Gm",
+    "Bb",
+    "A7",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "69e7d100d208ad781509505c3ff0d227c6f022a9c357fb1a143bc0262b4d126f",
+    "version": "BCFZ"
+  },
+  "tempo": 77,
+  "title": "New York",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

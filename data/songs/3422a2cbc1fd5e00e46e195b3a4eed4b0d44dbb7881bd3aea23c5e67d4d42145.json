@@ -1,0 +1,84 @@
+{
+  "artist": "Coldplay",
+  "artistNormalized": "coldplay",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[B]\n[G#m]\n[B]\n[G#m]\n[F#m]\n[E]\n\n[Verse 1]\n[B]In a haze of\n[G#m]stormy haze,\n[B]I'll be round, I'll be\n[G#m]loving you always,\n[F#m]\nal-\n[E]ways\n\n[Verse 2]\n[B]Here I am and I\n[G#m]take my time,\n[B]Here I am and I'll\n[G#m]wait in line always,\n[F#m]\nal-\n[E]ways.",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Parachutes *alt",
+  "id": "3422a2cbc1fd5e00e46e195b3a4eed4b0d44dbb7881bd3aea23c5e67d4d42145",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 39,
+  "normalizedKey": "coldplay|parachutes",
+  "playableChords": [
+    "B",
+    "G#m",
+    "F#m",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3422a2cbc1fd5e00e46e195b3a4eed4b0d44dbb7881bd3aea23c5e67d4d42145",
+    "version": "BCFZ"
+  },
+  "tempo": 136,
+  "title": "Parachutes",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

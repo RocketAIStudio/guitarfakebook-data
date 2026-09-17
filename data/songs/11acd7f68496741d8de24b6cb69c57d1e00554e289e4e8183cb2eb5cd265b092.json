@@ -1,0 +1,110 @@
+{
+  "artist": "Breaking Benjamin",
+  "artistNormalized": "breaking benjamin",
+  "capo": "No capo",
+  "chordPositionCount": 6,
+  "chordSymbolCount": 6,
+  "content": "[A#5]  [F#5]\n[A#5]  [F#5]\n\n[Intro]\n[A#5]  [C#5]  [F#5]\n[A#5]  [C#5]  [F#5]\n[A#5]  [C#5]  [F#5]\n[A#5][C#5][F#5]Let's [C#5]\n[A#5]go\n\n[Verse 1]\n[A#5]The day has [F5]come to an end\n[F#5]  [D#5]\n[A#5]The sun is [F5]over my head\n[F#5]  [D#5]\n[A#5]My [F5]polyamorous friend\n[F#5][D#5]Got me in a\n[A#5]mess of [F5]trouble again\n[F#5][D#5]So\n\n[Chorus]\n[C#5]just [G#5]when you think [F#5]that you're all right\n[C#5]I'm [G#5]crawlin' out [F#5]from the inside\n[C#5]I [G#5]never hurt [F#5]anyone\n[C#5]I [F5]never [F#5]listen [C#5]at all\n\n[Break]\n[A#5]\n\n[Verse 2]\n[A#5]They've come to [F5]get me again\n[F#5]  [D#5]\n[A#5]The cloud is [F5]over my head\n[F#5]  [D#5]\n[A#5]My [F5]polyamorous friend\n[F#5][D#5]Got me in a\n[A#5]mess of [F5]trouble again\n[F#5][D#5]So\n\n[Chorus]\n[C#5]just [G#5]when you think [F#5]that you're all right\n[C#5]I'm [G#5]crawlin' out [F#5]from the inside\n[C#5]I [G#5]never hurt [F#5]anyone\n[C#5]I [F5]never [F#5]listen [C#5]at all\n[C#5]Just [G#5]stay away [F#5]from the white light\n[C#5]I'd [G#5]say your worst [F#5]side's your best side\n[C#5]I [G#5]never hurt [F#5]anyone\n[C#5]I [F5]never [F#5]listen [C#5]at all\n\n[Interlude]\n[A#5]\n[F5]\n[F#5]\n[D#5]Well how do you know?\n[A#5]\n[F5]\n[F#5]\n[D#5]Well how do you know?\n[A#5]\n[F5]\n[F#5]\n[D#5]Well how do you know?\n[A#5]\n[F5]\n[F#5]\n[D#5]Well how do you know?\n[C#5]\n\n[Chorus]\n[C#5]Just [G#5]when you think [F#5]that you're all right\n[C#5]I'm [G#5]crawlin' out [F#5]from the inside\n[C#5]I [G#5]never hurt [F#5]anyone\n[C#5]I [F5]never [F#5]listen [C#5]at all\n[C#5]Just [G#5]stay away [F#5]from the white light\n[C#5]I'd [G#5]say your worst [F#5]side's your best side\n[C#5]I [G#5]never hurt [F#5]anyone\n[C#5]I [F5]never [F#5]listen at all\n\n[Outro]\n[C#5]  [F5]  [F#5]\n[C#5]  [F5]  [F#5]\n[C#5]  [F5]  [F#5]\n[C#5][F5][F#5]Let's\n[A#5]go",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "999xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "444xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Polyamorous *alt",
+  "id": "11acd7f68496741d8de24b6cb69c57d1e00554e289e4e8183cb2eb5cd265b092",
+  "key": "A♯",
+  "keyIdentified": true,
+  "lyricEventCount": 238,
+  "normalizedKey": "breaking benjamin|polyamorous",
+  "playableChords": [
+    "A#5",
+    "F#5",
+    "C#5",
+    "F5",
+    "D#5",
+    "G#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Break"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Interlude"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "11acd7f68496741d8de24b6cb69c57d1e00554e289e4e8183cb2eb5cd265b092",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "Polyamorous",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "alt"
+}

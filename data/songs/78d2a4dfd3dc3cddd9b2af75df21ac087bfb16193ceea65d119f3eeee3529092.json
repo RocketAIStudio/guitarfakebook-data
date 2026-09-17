@@ -1,0 +1,111 @@
+{
+  "artist": "Chris Stapleton",
+  "artistNormalized": "chris stapleton",
+  "capo": "3",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D]\n[Bm7]\n[D]\n[Bm7]\n\n[Verse 1]\n[D]I see the sunrise\n[Bm7]creepin' in\n[D]Everything changes like the\n[Bm7]desert wind\n[Em9]Here she comes and then she's\n[A]gone again, and\n\n[Chorus]\n[D]I'm just a traveller\n[Bm7]on this earth\n[D]Sure as my heart's behind the poc-\n[Bm7]ket of my shirt\n[G]I'll just keep rollin' 'til I'm\n[Em9]in the dirt 'Cause I'm a tra-\n[D]veller, oh, I'm a tra-\n[Bm7]veller\n[D]I couldn't tell you, honey,\n[Bm7]I don't know\n[D]Where I'm goin', but I've\n[Bm7]got to go\n[G]'Cause every turn reveals some\n[Em9]other road And I'm a tra-\n[D]veller, oh, I'm a tra-\n[Bm7]veller\n[D]\n[Bm7]\n\n[Verse 2]\n[D]My heartbeat's rhythm is a\n[Bm7]lonesome sound\n[D]Just like the rubber turnin' on\n[Bm7]the ground\n[Em9]Always lost and\n[A]nowhere bound\n\n[Chorus]\n[D]I'm just a traveller\n[Bm7]on this earth\n[D]Sure as my heart's behind the poc-\n[Bm7]ket of my shirt\n[G]I'll just keep rollin' 'til I'm\n[Em9]in the dirt 'Cause I'm a tra-\n[D]veller, oh, I'm a tra-\n[Bm7]veller\n[D]I couldn't tell you, honey,\n[Bm7]I don't know\n[D]Where I'm goin', but I've\n[Bm7]got to go\n[G]'Cause every turn reveals some\n[Em9]other road And I'm a tra-\n[D]veller, oh, I'm a tra-\n[Bm7]veller\n[D]\n[Bm7]\n\n[Bridge]\n[G]When I'm gone\n[Em9]Somebody else will have to\n[G]feel this wrong\n[Em9]Somebody else will have to\n[G]sing this song\n[Em9]Somebody else will have to\n[A]sing along\nSing along\n\n[Chorus]\n[D]I'm just a traveller\n[Bm7]on this earth\n[D]Sure as my heart's behind the poc-\n[Bm7]ket of my shirt\n[G]I'll just keep rollin' 'til I'm\n[Em9]in the dirt 'Cause I'm a tra-\n[D]veller, oh, I'm a tra-\n[Bm7]veller\n[D]I couldn't tell you, honey,\n[Bm7]I don't know\n[D]Where I'm goin', but I've\n[Bm7]got to go\n[G]'Cause every turn reveals some\n[Em9]other road And I'm a tra-\n[D]veller, oh, I'm a tra-\n[Bm7]veller\n[D]\n[Bm7]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em9": {
+      "catalog": [
+        "024030"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Traveller",
+  "id": "78d2a4dfd3dc3cddd9b2af75df21ac087bfb16193ceea65d119f3eeee3529092",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 331,
+  "normalizedKey": "chris stapleton|traveller",
+  "playableChords": [
+    "D",
+    "Bm7",
+    "Em9",
+    "A",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "78d2a4dfd3dc3cddd9b2af75df21ac087bfb16193ceea65d119f3eeee3529092",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "Traveller",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,108 @@
+{
+  "artist": "Clairo",
+  "artistNormalized": "clairo",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Bm]  [E]\n[A]\n[Bm]  [E]\n[A]\n\n[Verse 1]\n[Bm]Sorry I [E]didn't kiss\n[A]you But it's\n[Bm]obvious I [E]wanted to\n[A]\n[Bm]Bubble gum [E]down my throat And\n[A]it's a curse But my\n[Bm]luck couldn't get [E]any worse\n[A]'Cause I\n\n[Chorus]\n[Bm]swallowed the [D7]bubble gum\n[A]Oh, and these\n[Bm]seven years Will be [D7]pretty dumb\n[A]\n[Bm]Pink [D7]flowers grow from\n[A]my skin\n[Bm]Pepto bismol [D7]veins and I\n[A]grin\n\n[Bridge]\n[Bm]  [D7]\n[A]\n[Bm]  [D7]\n[A]\n\n[Verse 2]\n[Bm]You look so [E]nice in your\n[A]shirt It's\n[Bm]sad because it [E]just hurts\n[A]\n[Bm]I'd do [E]any-\n[A]thing for you But would\n[Bm]you do that for [E]me, too?\n[A]'Cause I\n\n[Chorus]\n[Bm]swallowed the [D7]bubble gum\n[A]Oh, and these\n[Bm]seven years Will be [D7]pretty dumb\n[A]\n[Bm]Pink [D7]flowers grow from\n[A]my skin\n[Bm]Pepto bismol [D7]veins and I\n[A]grin\n\n[Bridge]\n[Bm]  [D7]\n[A]\n[Bm]  [D7]\n[A]\n\n[Outro]\n[Bm]  [D7]\n[A]\n[Bm]  [D7]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bubble gum",
+  "id": "8e9d55ef4b28779eb516ceb0f218d6e8428650502b6e591fe5b19872e11874b2",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 132,
+  "normalizedKey": "clairo|bubble gum",
+  "playableChords": [
+    "Bm",
+    "E",
+    "A",
+    "D7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8e9d55ef4b28779eb516ceb0f218d6e8428650502b6e591fe5b19872e11874b2",
+    "version": "BCFZ"
+  },
+  "tempo": 69,
+  "title": "Bubble gum",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

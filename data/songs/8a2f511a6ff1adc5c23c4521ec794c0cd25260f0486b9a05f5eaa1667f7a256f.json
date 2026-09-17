@@ -1,0 +1,181 @@
+{
+  "artist": "Crowded House",
+  "artistNormalized": "crowded house",
+  "capo": "No capo",
+  "chordPositionCount": 43,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[C]\n\n[Verse 1]\n[C]Somewhere deep inside\n[Am]Something's got a hold\n[Em7]on you\n[G]And it's\n[C]pushing me aside\n[Am]See it stretch on fore-\n[Em7]ver\n[G]And I know I'm right\n\n[Chorus]\n[C]\n[C7]For the first time in\n[F]my life\nThat's why I tell\n[G]you\nYou'd better be home\n[C]soon\n[G]\n\n[Verse 2]\n[C]Stripping back the coats\n[Am]Of lies and deceip-\n[Em7]tion\n[G]\n[C]Back to nothingness\n[Am]Like a week in the de-\n[Em7]sert\n[G]And I know I'm right\n\n[Chorus]\n[C]\n[C7]For the first time in\n[F]my life\nThat's why I tell\n[G]you\nYou'd better be home\n[C]soon\n[G]\n\n[Bridge]\n[Bb6]So don't say no,\n[D]don't say nothing's wrong\n[G]\n[Bb6]Cos when you get back home\n[A]maybe I'll be gone\n[D]\n\n[Break]\n[C]\n[Am]\n[Em7]\n[G]\n[C]\n[Am]\n[Em7]\n[Fsus2]\n[Bb9]\n\n[Verse 3]\n[C]It would cause me pain\n[Am]If we were to end\n[Em7]it\n[G]But\n[C]I could start again\n[Am]You can depend\n[Em7]on it\n[Fsus2]And I [G]know I'm right\n\n[Chorus]\n[C]\n[C7]For the first time in\n[F]my life\nThat's why I tell\n[G]you\nYou'd better be home\n\n[Outro]\n[Am]soon\n[D]That's why I tell\n[F]you\n[G]You'd better be home\n[C]soon",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb6": {
+      "catalog": [
+        "x13333"
+      ],
+      "catalogCount": 1
+    },
+    "Bb9": {
+      "catalog": [
+        "x10111"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fsus2": {
+      "catalog": [
+        "xx3011"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Better Be Home Soon",
+  "id": "8a2f511a6ff1adc5c23c4521ec794c0cd25260f0486b9a05f5eaa1667f7a256f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 172,
+  "normalizedKey": "crowded house|better be home soon",
+  "playableChords": [
+    "C",
+    "Am",
+    "Em7",
+    "G",
+    "C7",
+    "F",
+    "Bb6",
+    "D",
+    "A",
+    "Fsus2",
+    "Bb9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Break"
+    },
+    {
+      "measure": 52,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 66,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8a2f511a6ff1adc5c23c4521ec794c0cd25260f0486b9a05f5eaa1667f7a256f",
+    "version": "BCFZ"
+  },
+  "tempo": 92,
+  "title": "Better Be Home Soon",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

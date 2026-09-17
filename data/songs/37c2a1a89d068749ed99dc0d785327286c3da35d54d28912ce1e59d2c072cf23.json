@@ -1,0 +1,112 @@
+{
+  "artist": "Buddy Holly",
+  "artistNormalized": "buddy holly",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]  [D]\n[A]  [E]\n[A]  [D]\n[A]  [E]\n\n[Verse 1]\n[A]If you knew\n[D]Peggy Sue\n[A]Then you'd [D]know why\n[A]I feel blue Without\n[D]Peggy,\nmy Peggy Sue\n[A]  [D]\n[A]Oh well, I\n[E]love you, gal Yes, I\n[D]love you Peg gy Sue\n[A]  [D]\n[A]  [E]\n\n[Verse 2]\n[A]Peggy Sue,\n[D]Peggy Sue\n[A]Oh, how [D]my heart\n[A]yearns for you Oh, Peg\n[D]gy,\nmy Peggy Sue\n[A]  [D]\n[A]Oh well, I\n[E]love you, gal Yes, I\n[D]love you Peg gy Sue\n[A]  [D]\n[A]  [E]\n\n[Bridge]\n[A]Peggy Sue,\nPeggy Sue\n[F]Pretty, pretty, pretty, pretty,\n[A]Peggy Sue Oh,\n[D]Peggy,\nmy Peggy Sue\n[A]  [D]\n[A]Oh well, I\n[E]love you, gal And I\n[D]need you, Peg gy Sue\n[A]  [D]\n[A]  [E]\n\n[Verse 3]\n[A]I love you,\n[D]Peggy Sue\n[A]With a [D]love so\n[A]rare and true Oh, Peg\n[D]gy,\nmy Peggy Sue\n[A]  [D]\n[A]Well, I\n[E]love you, gal And I\n[D]want you, Peg gy Sue\n[A]  [D]\n[A]  [E]\n\n[Solo]\n[A]\n[D]\n[A]\n[D]\n[A]  [D]\n[A]\n[E]\n[D]\n[A]  [D]\n[A]  [E]\n\n[Bridge]\n[A]Peggy Sue,\nPeggy Sue\n[F]Pretty, pretty, pretty, pretty,\n[A]Peggy Sue Oh,\n[D]Peggy,\nmy Peggy Sue\n[A]  [D]\n[A]Oh well, I\n[E]love you, gal And I\n[D]need you, Peg gy Sue\n[A]  [D]\n[A]  [E]\n\n[Verse 4]\n[A]I love you,\n[D]Peggy Sue\n[A]With a [D]love so\n[A]rare and true Oh, Peg\n[D]gy,\nmy Peggy Sue\n[A]  [D]\n[A]Well, I\n[E]love you, gal And I\n[D]want you, Peg gy Sue\n[A]  [D]\n[A]Oh well, I\n\n[Outro]\n[E]love you gal And I\n[D]want you Peg gy Sue\n[A]  [D]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Peggy Sue",
+  "id": "37c2a1a89d068749ed99dc0d785327286c3da35d54d28912ce1e59d2c072cf23",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 228,
+  "normalizedKey": "buddy holly|peggy sue",
+  "playableChords": [
+    "A",
+    "D",
+    "E",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 53,
+      "name": "Solo"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 77,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "37c2a1a89d068749ed99dc0d785327286c3da35d54d28912ce1e59d2c072cf23",
+    "version": "BCFZ"
+  },
+  "tempo": 148,
+  "title": "Peggy Sue",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

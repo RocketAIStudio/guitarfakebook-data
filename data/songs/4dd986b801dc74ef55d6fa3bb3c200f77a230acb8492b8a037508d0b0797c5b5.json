@@ -1,0 +1,111 @@
+{
+  "artist": "Chord Overstreet",
+  "artistNormalized": "chord overstreet",
+  "capo": "2",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Am]\n[F]\n[C]\n[C/B]\n[Am]\n[F]\n[C]\n[C/B]\n\n[Verse 1]\n[Am]Loving and\n[F]fighting Accusing, u-\n[C]niting I can't i-\nmagine a [C/B]world with you\n[Am]gone Joy and the\n[F]chaos, demons we're\n[C]made of I'd be so\nlost if you [C/B]left me a-\n[Am]lone You locked your-\n[F]self in the bathroom\n[C]Lying on the\nfloor when I [C/B]break through\n[Am]I pull you in to\n[F]feel your heartbeat\n[C]Can you hear me screaming\n\"please don't leave [C/B]me\"\n\n[Chorus]\n[Am]Hold on,\n[F]I still want you\n[C]\n[Am]Come back,\n[F]I still need you\n[C]\nLet me\n[Am]take your hand, I'll\n[F]make it right\n[C]I swear to love you\nall my [C/B]life\n[Am]Hold on,\n[F]I still need you\n[C]\n[C/B]\n\n[Verse 2]\n[Am]Long endless\n[F]highway, you're silent be-\n[C]side me Drivin' a\nnightmare I [C/B]can't escape\n[Am]from Helplessly\n[F]praying, the light isn't\n[C]fadin' Hiding in the\nshock and the [C/B]chill in my\n[Am]bones They took you\n[F]away on a table\n[C]I pace back and\nforth as you [C/B]lay still\n[Am]I pull you in to\n[F]feel your heartbeat\n[C]Can you hear me screaming,\n\"please don't [C/B]leave me\"\n\n[Chorus]\n[Am]Hold on,\n[F]I still want you\n[C]\n[Am]Come back,\n[F]I still need you\n[C]\nLet me\n[Am]take your hand, I'll\n[F]make it right\n[C]I swear to love you\nall my [C/B]life\n[Am]Hold on,\n[F]I still need you\n[C]\n[C/B]\n\n[Bridge]\n[F]\nI don't wanna let go\n[Am]I know\n[G]I'm not that strong\n[F]\nI just wanna hear you\n[Am]Saying ba-\n[G]by, let's go home\n[F]\nLet's go home\n[Am]Yeah, I\n[G]just wanna take you home\n[F]\n\n[Outro]\n[Am]Hold on,\n[F]I still want you\n[C]\n[Am]Come back,\n[F]I still need you\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/B": {
+      "catalog": [
+        "x22010"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hold On",
+  "id": "4dd986b801dc74ef55d6fa3bb3c200f77a230acb8492b8a037508d0b0797c5b5",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 273,
+  "normalizedKey": "chord overstreet|hold on",
+  "playableChords": [
+    "Am",
+    "F",
+    "C",
+    "C/B",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge"
+    },
+    {
+      "measure": 89,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4dd986b801dc74ef55d6fa3bb3c200f77a230acb8492b8a037508d0b0797c5b5",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Hold On",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

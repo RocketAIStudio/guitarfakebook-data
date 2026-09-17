@@ -1,0 +1,122 @@
+{
+  "artist": "Cream",
+  "artistNormalized": "cream",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am]\n[D]\n[Am]\n[D]\n\n[Verse 1]\n[Am]Thinkin' 'bout the\n[D]times you drove in my car.\n[Em]\n[Am]Thinkin' that I\n[D]might have drove you too far.\n[Em]\n[C]And I'm thinkin' 'bout the\n[Am]love that you laid on my tab-\n[Bm]le. [Am]\n\n[Verse 2]\n[Am]I told you not to\n[D]wander 'round in the dark.\n[Em]\n[Am]I told you 'bout the\n[D]swans, that they live in the park.\n[Em]\n[C]Then I told you 'bout our\n[Am]kid: now he's married to Ma-\n[Em]bel.\n\n[Interlude]\n[D]\n[G]\n[D]\n[G]\n[D]Yes, I told\n[G]you that the light goes\n[D]up and down. Don't you no-\n[G]tice how the wheel goes\n[D]'round? And you be-\n[G]tter pick yourself up\n[D]from the ground Before\n[G]they bring the curtain down.\n[D]Yes, before\n[G]they bring the curtain down.\n[D]Ah Ah\n\n[Solo]\n[G]\n[D]\n[G]\n[D]\n[G]\n[D]\n[G]\n[D]\n[G]\n[D]\n[G]\n[D]\n[G]\n[D]\n\n[Verse 3]\n[Am]Talkin' 'bout a\n[D]girl that looks quite like\n[Em]you.\n[Am]She didn't have the\n[D]time to wait in the queue.\n[Em]\n[C]She cried away her\n[Am]life since she fell off the cra-\n[Em]dle.\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Badge",
+  "id": "ce5785c5088ee40e5925452b4582730216b0c5f2df2e2fc8225727d2c44b9e88",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 162,
+  "normalizedKey": "cream|badge",
+  "playableChords": [
+    "Am",
+    "D",
+    "Em",
+    "C",
+    "Bm",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Solo"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ce5785c5088ee40e5925452b4582730216b0c5f2df2e2fc8225727d2c44b9e88",
+    "version": "BCFZ"
+  },
+  "tempo": 106,
+  "title": "Badge",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

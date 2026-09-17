@@ -1,0 +1,103 @@
+{
+  "artist": "Citizen",
+  "artistNormalized": "citizen",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[Gmaj7]I ran awa-\ny from you,\n[Bm7]Now\n[F#m/C#]look how far I've go-\n[Gmaj7]t I shared some se-\ncrets that I ho-\n[Bm7]pe you'd keep. They're wo-\n[F#m/C#]rds that don't come o-\n[Gmaj7]ut And I\nshould've crashed the ca-\n[Bm7]r\n[F#m/C#]The night I dro-\n[Gmaj7]ve alone\nEscape from Au-\n[Bm7]gust co-\n[F#m/C#]ld\n\n[Interlude]\n[Gmaj7]\n[Bm7]\n[F#m/C#]\n[Gmaj7]\n[Bm7]\n[A]\n[Bm7]And you ta-\n[F#m/C#]lk like someone e-\n[Gmaj7]lse\n[Bm7]\n[F#m/C#]\n[Gmaj7]\n[A]\n\n[Verse 2]\n[Gmaj7]I ran awa-\ny from you,\n[Bm7]And now\n[F#m/C#]something's killing me\n[Gmaj7]. You hang me u-\np as a sou-\n[Bm7]venir of wha-\n[F#m/C#]t I couldn't be\n[Gmaj7]And I\nshould've crashed the ca-\n[Bm7]r\n[F#m/C#]When I was a-\n[Gmaj7]ll alone.\nEscape from a-\n[Bm7]ll I kno-\n[A]w.\n\n[Bridge]\n[Gmaj7]\n[Bm7]\n[F#m/C#]\n[Gmaj7]\n[Bm7]\n[F#m/C#]  [Dmaj7]\n[Gmaj7]\n[Bm7]\n[F#m/C#]\n[Gmaj7]\n[Bm7]\n[A]\n\n[Outro]\n[Bm7]And you ta-\n[F#m/C#]lk like someone e-\n[Gmaj7]lse.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Dmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9",
+        "10-12-11-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#m/C#": {
+      "catalog": [
+        "x44222"
+      ],
+      "catalogCount": 1
+    },
+    "Gmaj7": {
+      "catalog": [
+        "320002",
+        "3-5-4-4-3-3",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7",
+        "x-10-12-11-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Night I Drove Alone",
+  "id": "74a0baf945c2d3fdc031c086c746f84e2936af4600022d6b575b8ea22d09307d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 129,
+  "normalizedKey": "citizen|the night i drove alone",
+  "playableChords": [
+    "Gmaj7",
+    "Bm7",
+    "F#m/C#",
+    "A",
+    "Dmaj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Interlude"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "74a0baf945c2d3fdc031c086c746f84e2936af4600022d6b575b8ea22d09307d",
+    "version": "BCFZ"
+  },
+  "tempo": 126,
+  "title": "The Night I Drove Alone",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,135 @@
+{
+  "artist": "Buffalo Springfield",
+  "artistNormalized": "buffalo springfield",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]  [A]\n[E]\n[A]\n\n[Verse 1]\n[E]There's something happening [A]he-\nre What it\n[E]is ain't exactly [A]cle-\nar There's a\n[E]man with a gun over [A]the-\nre Telling\n[E]me I got to bewa-\nre [A]I think it's time we\n\n[Chorus]\n[E]stop, children, [D]what's that sound\n[A]Everybody look [A7]what's going dow-\n\n[Pre-Verse]\n[E]n [A]\n[E]\n[A]\n\n[Verse 2]\n[E]There's battle lines [A]being\ndrawn Nobody's\n[E]right if [A]everybody's\nwrong [A7]\n[E]Young people speaking their [A]min-\nds [A7]Getting\n[E]so much resistance [A]\nfrom [A7]behind It's time we\n\n[Chorus]\n[E]stop, hey, [D]what's that sound\n[A]Everybody look [A7]what's going dow-\n\n[Pre-Verse]\n[E]n [A]\n[E]\n[A]\n\n[Verse 3]\n[E]What a field-day for [A]the\nheat [A7]A\n[E]thousand people in [A]the\nstreet [A7]Singing\n[E]songs and carrying [A]sig-\nns [A7]Mostly\n[E]say, hooray for our [A]si-\nde [A7]It's time we\n\n[Chorus]\n[E]stop, hey, [D]what's that sound\n[A]Everybody look [A7]what's going dow-\n\n[Pre-Verse]\n[E]n [A]\n[E]\n[A]\n\n[Verse 4]\n[E]Paranoia strikes [A]de-\nep\n[E]Into your life it will [A]cre-\nep [A13]It\n[E]starts when you're always [A]afra-\nid [A13]You step out of\n[E]line, the man come [A]and\ntake you [A13]away We better\n\n[Chorus]\n[E]stop, hey, [D]what's that sound\n[A]Everybody look [A7]what's going down\n[E]Stop, hey, [D]what's that sound\n[A]Everybody look [A7]what's going down\n[E]Stop, now, [D]what's that sound\n[A]Everybody look [A7]what's going down\n\n[Fade Out]\n[E]  [D]\n[A]  [A7]\n[E]  [D]\n[A]  [A7]\n[E]  [D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A13": {
+      "catalog": [
+        "x02022"
+      ],
+      "catalogCount": 1
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "x0202x",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "02210x",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "For What It's Worth *alt",
+  "id": "c6f7e9574793a09439bba4148b8e5ef2cb678899772235f15f225d7047835129",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 261,
+  "normalizedKey": "buffalo springfield|for what it s worth",
+  "playableChords": [
+    "E",
+    "A",
+    "D",
+    "A7",
+    "A13"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c6f7e9574793a09439bba4148b8e5ef2cb678899772235f15f225d7047835129",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "For What It's Worth",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

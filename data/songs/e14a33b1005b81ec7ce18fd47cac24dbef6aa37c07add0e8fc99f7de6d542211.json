@@ -1,0 +1,104 @@
+{
+  "artist": "Buddy Holly",
+  "artistNormalized": "buddy holly",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[B]\n[G#m]\n[E]\n[F#]Last\n\n[Verse 1]\n[B]night as I\n[G#m]watched the\n[E]stars from my\n[F#]window I\n[B]prayed Lord a-\n[G#m]bove to\n[E]guide and pro-\n[F#]tect you Tho'\n\n[Chorus]\n[B]I'm not wanted\n[G#m]now, I still\n[E]love you some-\n[F#]how That\n[B]is my only\n[G#m]pra yer,\n[E]\n[F#]for\n[B]you\n[G#m]\n[E]\n[F#]Last\n\n[Verse 2]\n[B]night, as I\n[G#m]gazed thru the\n[E]mist in my\n[F#]eyes I\n[B]wanted you\n[G#m]here to\n[E]hold you so\n[F#]near But\n\n[Chorus]\n[B]silence tells\n[G#m]me,\n[E]You didn't\n[F#]hear my\n[B]plea\n[G#m]\n[E]\n[F#]I\n\n[Bridge]\n[F#]missed you so\nmuch since you\n[B]left me\nMy\n[G#m]heart ached a-\n[E]part since you\n[F#]left me\nTho'\n\n[Chorus]\n[B]I'm not wanted\n[G#m]now, I still\n[E]love you some-\n[F#]how That\n[B]is my only\n[G#m]pra yer,\n[E]\n[F#]for\n\n[Outro]\n[B]you\n[G#m]\n[E]\n[F#]\n[B]\n[G#m]\n[E]\n[F#]\n[B]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Last Night",
+  "id": "e14a33b1005b81ec7ce18fd47cac24dbef6aa37c07add0e8fc99f7de6d542211",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 116,
+  "normalizedKey": "buddy holly|last night",
+  "playableChords": [
+    "B",
+    "G#m",
+    "E",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Bridge"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e14a33b1005b81ec7ce18fd47cac24dbef6aa37c07add0e8fc99f7de6d542211",
+    "version": "BCFZ"
+  },
+  "tempo": 111,
+  "title": "Last Night",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

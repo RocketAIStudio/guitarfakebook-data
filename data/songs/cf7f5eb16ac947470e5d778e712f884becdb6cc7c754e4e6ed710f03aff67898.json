@@ -1,0 +1,130 @@
+{
+  "artist": "Bruce Springsteen",
+  "artistNormalized": "bruce springsteen",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]  [Gsus4]\n[C]\n\n[Verse 1]\n[C]Came into town with [Gsus4]a pocketful of\n[C]songs I made\nthe rounds But [Fsus2]I didn't last long\n[C]Now I'm\n\n[Chorus]\n[Am]out on this [Gsus4]highway With a [Fsus2]bonecold\n[C]chill\n[Gsus4][Am]Somewhere [Fsus2]north [C]of [Fsus2]Nashville\n[C]\n\n[Verse 2]\n[C]I lie awake in the [Gsus4]middle of the night\n[C]Makin' a list of\nthings that I [Fsus2]didn't do right\n[C]With you\n\n[Chorus]\n[Am]at the top [Gsus4]of a long [Fsus2]page filled\n[C]Here,\n[Gsus4][Am]somewhere [Fsus2]north [C]of [Fsus2]Nashville\n[C]\n\n[Interlude]\n[Am]  [Gsus4]  [Fsus2]\n[C]\n\n[Bridge]\n[Fsus2]For the deal I made, the price\n[G]was strong\n[F]I traded you for [C]this song\n[G]\n\n[Verse 3]\n[C]We woke each morning with hearts [Gsus4]filled\n[C]Bluebird of\nlove on the [Fsus2]windowsill\n[C]Now the heart's\n\n[Chorus]\n[Am]unsteady, [Gsus4]and the night [Fsus2]is still\n[C]All I've got's\n[Am]this [Gsus4]melody, and time [Fsus2]to kill\n[C]Here,\n[Gsus4][Am]somewhere [Fsus2]north [C]of [Fsus2]Nashville\n[C]Here,\n[Gsus4][Am]somewhere [Fsus2]north [C]of [Fsus2]Nashville\n[C]Here,\n\n[Outro]\n[Gsus4][Am]somewhere [Fsus2]north [C]of [Fsus2]Nashville\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fsus2": {
+      "catalog": [
+        "133011"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus4": {
+      "catalog": [
+        "330013"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Somewhere North Of Nashville",
+  "id": "cf7f5eb16ac947470e5d778e712f884becdb6cc7c754e4e6ed710f03aff67898",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 155,
+  "normalizedKey": "bruce springsteen|somewhere north of nashville",
+  "playableChords": [
+    "C",
+    "Gsus4",
+    "Fsus2",
+    "Am",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 7,
+      "name": "Chorus"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 19,
+      "name": "Interlude"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cf7f5eb16ac947470e5d778e712f884becdb6cc7c754e4e6ed710f03aff67898",
+    "version": "BCFZ"
+  },
+  "tempo": 50,
+  "title": "Somewhere North Of Nashville",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

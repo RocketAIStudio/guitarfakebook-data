@@ -1,0 +1,128 @@
+{
+  "artist": "Chase Coy",
+  "artistNormalized": "chase coy",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[G]\n[Dsus4/F#]\n[Em7]\n[Csus2]\n[G/B]\n[Am7]\n\n[Verse 1]\n[G]If you\nhear [Dsus4/F#]this\n[Em7]wherever you are\nJust\n[Csus2]know I need you he-\n[G/B]re I need you nea-\n[Am7]r me now\nYou were\n[G]brighter than the pa-\nle white [Dsus4/F#]moon Re-\n[Em7]flected in your eye-\ns So I\n[Csus2]guess it's no surpri-\n[G/B]se I can't forge-\n[Am7]t you\nNo\n[A7]matter what I do\n\n[Chorus]\n[Csus2]I will\n[G]always carry you\n[Em7]\n[D/F#]in my hea-\n[Csus2]rt You'll always be\n[G]my shooting sta-\n[Em7]r\n[D/F#]\n[Csus2]Autumn days will fa-\n[G]de away But\n[Em7]memories will a-\n[D/F#]lways stay the sa-\n[Csus2]me I'm hoping you\n[G]will never cha-\n[Em7]nge Don't\n[D/F#]ever cha-\n\n[Interlude]\n[G]nge\n[Dsus4/F#]\n[Em7]\n[Csus2]\n[G/B]\n[Am7]\n\n[Verse 2]\n[G]I just\nneed [Dsus4/F#]to\n[Em7]slow down for a while\nI'm\n[Csus2]missing your warm smi-\n[G/B]le And the wa-\n[Am7]y you used to sa-\ny\n[G]\"Stay with me un-\ntil the [Dsus4/F#]daylight brea-\n[Em7]ks No\nmatter what it ta-\n[Csus2]kes Just say you'll sta-\n[G/B]y, just say you'll sta-\n[Am7]y\"\n[A7]\n\n[Chorus]\n[Csus2]I will\n[G]always carry you\n[Em7]\n[D/F#]in my hea-\n[Csus2]rt You'll always be\n[G]my shooting sta-\n[Em7]r\n[D/F#]\n[Csus2]Autumn days will fa-\n[G]de away But\n[Em7]memories will a-\n[D/F#]lways stay the sa-\n[Csus2]me I'm hoping you\n[G]will never cha-\n[Em7]nge Don't\n[D/F#]ever cha-\n[G]nge",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Csus2": {
+      "catalog": [
+        "x30033"
+      ],
+      "catalogCount": 1
+    },
+    "D/F#": {
+      "catalog": [
+        "200232"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus4/F#": {
+      "catalog": [
+        "200033"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "020033",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Never Change",
+  "id": "12ab929a1163a6096cfa7d879ef3a9a55ded6d194a55e0d4445252a57173cb9e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 228,
+  "normalizedKey": "chase coy|never change",
+  "playableChords": [
+    "G",
+    "Dsus4/F#",
+    "Em7",
+    "Csus2",
+    "G/B",
+    "Am7",
+    "A7",
+    "D/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Interlude"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "12ab929a1163a6096cfa7d879ef3a9a55ded6d194a55e0d4445252a57173cb9e",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "Never Change",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

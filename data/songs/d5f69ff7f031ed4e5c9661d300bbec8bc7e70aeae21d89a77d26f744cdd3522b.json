@@ -1,0 +1,110 @@
+{
+  "artist": "Croosh",
+  "artistNormalized": "croosh",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Dmaj7]  [E7]\n[Aadd9]  [F#7]\n[C#dim/E]\n[Dmaj7]  [E7]\n[Aadd9]  [F#7]\n[C#m]Do you\n\n[Pre-Chorus]\n[Dmaj7]ever feel [E7]incapable of\nfeeling\n[Aadd9]Wake up in the morning [F#7]I just\nstare up at the [C#dim/E]ceiling Do you\n[Dmaj7]ever feel so [E7]motherfucking\nnumb\n[Aadd9]Tell me do you too [F#7]or am\nI the only [C#m]one?\n\n[Chorus]\n[Dmaj7]Vodka lemon twist, [E7]\nput my mind at ease\n[Aadd9]Sometimes I forget [F#7]\njust to feel the [C#dim/E]breeze See\n[Dmaj7]sometimes I just feel so [E7]fucking\nnumb But I\n[Aadd9]know yes I know [F#7]that I'm\nnot the only [C#m]one\n\n[Bridge]\n[Dmaj7]  [E7]\n[Aadd9]  [F#7]\n[C#dim/E]\n[Dmaj7]  [E7]\n[Aadd9]  [F#7]\n[C#m]\n\n[Verse]\n[Dmaj7]Some days I feel wavey [E7]like the\nocean\n[Aadd9]Others I can't seem to [F#7]feel e-\nmotion [C#dim/E]\n[Dmaj7]Is there something wrong [E7]with my\nhead? Or\n[Aadd9]is it cause you ain't [F#7]in my\nbed [C#m]\n[Dmaj7]Come and put that body [E7]on\nme\n[Aadd9]Baby you can be my [F#7]thera-\npy [C#dim/E]\n[Dmaj7]Only thing I can [E7]really\nfeel\n[Aadd9]Tell me is you ahh [F#7]\nTell me [C#m]Do you\n\n[Pre-Chorus]\n[Dmaj7]ever feel [E7]incapable of\nfeeling\n[Aadd9]Wake up in the morning [F#7]I just\nstare up at the [C#dim/E]ceiling Do you\n[Dmaj7]ever feel so [E7]motherfucking\nnumb\n[Aadd9]Tell me do you too [F#7]or am\nI the only [C#m]one?\n\n[Chorus]\n[Dmaj7]Vodka lemon twist, [E7]\nput my mind at ease\n[Aadd9]Sometimes I forget [F#7]\njust to feel the [C#dim/E]breeze See\n[Dmaj7]sometimes I just feel so [E7]fucking\nnumb But I\n[Aadd9]know yes I know [F#7]that I'm\nnot the only [C#m]one\n\n[Outro]\n[Dmaj7]  [E7]\n[Aadd9]  [F#7]\n[C#dim/E]\n[Dmaj7]  [E7]\n[Aadd9]  [F#7]\n[C#m]",
+  "diagrams": {
+    "C#m": {
+      "catalog": [
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "Dmaj7": {
+      "catalog": [
+        "x-x-0-2-2-2",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9",
+        "10-12-11-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#7": {
+      "catalog": [
+        "2-4-2-3-2-2",
+        "x-x-4-6-5-6",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "Numb",
+  "id": "d5f69ff7f031ed4e5c9661d300bbec8bc7e70aeae21d89a77d26f744cdd3522b",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 254,
+  "normalizedKey": "croosh|numb",
+  "playableChords": [
+    "Dmaj7",
+    "E7",
+    "Aadd9",
+    "F#7",
+    "C#dim/E",
+    "C#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 33,
+      "name": "Verse"
+    },
+    {
+      "measure": 49,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d5f69ff7f031ed4e5c9661d300bbec8bc7e70aeae21d89a77d26f744cdd3522b",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Numb",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

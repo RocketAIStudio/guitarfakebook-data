@@ -1,0 +1,101 @@
+{
+  "artist": "Creedance Clearwater Revival",
+  "artistNormalized": "creedance clearwater revival",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[D]\n[A]  [G]\n[D]\n\n[Verse 1]\n[D]I see a\n[A]bad [G]moon ris-\n[D]ing\n[D]I see\n[A]trouble [G]on the way\n[D]\n[D]I see\n[A]earthquakes [G]and light-\n[D]nin'\n[D]I see\n[A]bad times [G]today\n[D]\n\n[Chorus]\n[G]Don't go around tonight\nWell It's\n[D]bound to take your life\n[A]There's a bad\n[G]moon on the rise\n[D]\n\n[Verse 2]\n[D]I hear\n[A]hurricanes [G]blowi-\n[D]ng\n[D]I know the end\n[A]is [G]coming soon\n[D]\n[D]I fear\n[A]rivers [G]over flow-\n[D]ing\n[D]I hear the voice\n[A]of rage [G]and ruin\n[D]\n\n[Chorus]\n[G]Don't go around tonight\nWell It's\n[D]bound to take your life\n[A]There's a bad\n[G]moon on the rise\n[D]\n\n[Solo]\n[D]\n[A]  [G]\n[D]\n[D]\n[A]  [G]\n[D]\n[G]\n[D]\n[A]\n[G]\n[D]\n\n[Verse 3]\n[D]Hope you\n[A]got your [G]things togeth-\n[D]er\n[D]Hope you are\n[A]quite prepared [G]to die\n[D]\n[D]Look's like we're\n[A]in for [G]nasty weath-\n[D]er\n[D]One eye is\n[A]taken [G]for an eye\n[D]\nWell\n\n[Chorus]\n[G]don't go around tonight\nWell It's\n[D]bound to take your life\n[A]There's a bad\n[G]moon on the rise\n[D]\n\n[Outro]\n[G]Don't go around tonight\n[D]It's bound to take your\nlife\n[A]There's a\n[G]bad moon on the\n[D]rise",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "xx0232",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bad Moon Rising *alt",
+  "id": "333796bd77c02f3636c1b29d90f0d3effcab051b0d4bad429177e780845970d1",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 171,
+  "normalizedKey": "creedance clearwater revival|bad moon rising",
+  "playableChords": [
+    "D",
+    "A",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Solo"
+    },
+    {
+      "measure": 69,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    },
+    {
+      "measure": 93,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "333796bd77c02f3636c1b29d90f0d3effcab051b0d4bad429177e780845970d1",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Bad Moon Rising",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

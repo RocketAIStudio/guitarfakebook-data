@@ -1,0 +1,115 @@
+{
+  "artist": "Creedence Clearwater Revival",
+  "artistNormalized": "creedence clearwater revival",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[B]  [E]\n[B]  [E]\n[B]  [E]\n[B]\n\n[Verse 1]\n[B]Put a [F#]candle in the win-\n[B]dow, [E]\n[B]'cause I feel [G#m]I've got to mo-\n[B]ve. [F#]\n[B]Though I'm going, [F#]going,\n[E7]I'll be coming home soon,\n[B]Long as I [F#]can see the li-\n[B]ght. [E][F#]\n\n[Verse 2]\n[B]Pack my bag [F#]and let's get mov-\n[B]in',\n'cause I'm bound [G#m]to drift a whi-\n[B]le. [F#]\n[B]When I'm gone, [F#]gone,\n[E7]you don't have to worry long,\n[B]Long as I [F#]can see the li-\n[B]ght. [E][F#]\n\n[Sax Solo]\n[B]  [F#]\n[B]\n[G#m]\n[B]  [F#]\n[B]  [F#]\n[E7]\n[B]  [F#]\n[B]  [E]  [F#]\n\n[Verse 3]\n[B]Guess I've got [F#]that old trav'lin' bone,\n[B]\n'cause this [G#m]feelin' won't leave me alo-\n[B]ne. [F#]\n[B]But I [F#]won't, won-\n[E7]'t be losin' my way, no, no\n[B]Long as I [F#]can see the li-\n[B]ght. [E]\n\n[Interlude]\n[B]Yeah! [E]\n[B]Yeah! [E]\n[B]Yeah! [E]\n[B]Oh, Yeah! [E][F#]\n\n[Verse 4]\n[B]Put a [F#]candle in the win-\n[B]dow,\n'cause I feel [G#m]I've got to mo-\n[B]ve. [F#]\n[B]Though I'm going, [F#]going,\n[E7]I'll be coming home soon,\n[B]Long as I [F#]can see the li-\n[B]ght. [E][F#]\n\n[Outro]\n[B]Long as I [F#]can see the li-\n[B]ght. [E][F#]\n[B]Long as I [F#]can see the li-\n[B]ght. [E][F#]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "466444"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Long As I Can See The Light",
+  "id": "34194c5e56e0f01332d6bce9af0f0369776105e49b4889004e9223d41e990127",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 164,
+  "normalizedKey": "creedence clearwater revival|long as i can see the light",
+  "playableChords": [
+    "B",
+    "E",
+    "F#",
+    "G#m",
+    "E7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Sax Solo"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "34194c5e56e0f01332d6bce9af0f0369776105e49b4889004e9223d41e990127",
+    "version": "BCFZ"
+  },
+  "tempo": 64,
+  "title": "Long As I Can See The Light",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

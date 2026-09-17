@@ -1,0 +1,134 @@
+{
+  "artist": "Circle Jerks",
+  "artistNormalized": "circle jerks",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]Go\n[B]  [C]  [A]  [D]  [A]  [D]\n[B]  [C]  [A]  [D]  [A]  [D]\n\n[Verse 1]\n[B]I don't want to live [C][A][D][A][D]To be\n[B]thirtyfour [C][A][D][A][D]\n[B]I don't want to die [C][A][D][A][D]In a\n[B]nuclear war [C][A][D][A][D]\n\n[Chorus]\n[E]Go on out [D]\n[B]Get some more [A][B]\n[E]Go on out [D]To\n[B]the bar, the [A]market [B]or the liquor store\n\n[Verse 2]\n[B]I don't want to live [C][A][D][A][D]To be\n[B]fortythree [C][A][D][A][D]\n[B]I don't like [C][A][D][A][D]What\n[B]I see going on [C]around [A]me [D][A][D]\n\n[Chorus]\n[E]Go on out [D]\n[B]Get some more [A][B]\n[E]Go on out [D]Get\n[B]fucked up and [A]pass [B]out on the floor\n\n[Solo]\n[B]  [C]  [A]\n[B]  [C]  [A]\n[B]  [C]  [A]\n[B]  [C]  [A]\n\n[Chorus]\n[E]Go on out [D]\n[B]Get some more [A][B]\n[E]Go on out [D]To\n[B]your favorite [B][A]liquor store\n[E]Go on out [D]\n[B]Don't worry [A]about [B]it any more\n[E]Go on out [D]\n[B]Get fucked up [A]I don't [B]know what for\n\n[Verse 3]\n[B]I don't want to live [C][A][D][A][D]To be\n[B]fiftyseven [C][A][D][A][D]\n[B]I'm living in hell [C][A][D][A][D]Is\n[B]there a [A][C]heaven? [D][A][D]\n\n[Outro]\n[B]Live [C]fast, [A][D][A][D]\n[B]die [C]young [A][D][A][D]\n[B]Live fast, [C][A][D][A][D]\n[B]die young [C][A][D][A][D]\n[B]Live fast, die young",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "3554xx",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Live Fast, Die Young",
+  "id": "7be0388a94c3d97550b9c93187ca4e79f0a1acdd03a93dfec6ed2a248402a506",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 156,
+  "normalizedKey": "circle jerks|live fast die young",
+  "playableChords": [
+    "G",
+    "B",
+    "C",
+    "A",
+    "D",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Solo"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 38,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7be0388a94c3d97550b9c93187ca4e79f0a1acdd03a93dfec6ed2a248402a506",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Live Fast, Die Young",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,122 @@
+{
+  "artist": "cavetown",
+  "artistNormalized": "cavetown",
+  "capo": "1",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]  [E7]\n[Amadd9]  [Fmaj7]\n[G7]Oh, the last\n\n[Verse 1]\n[C]time I saw Paul [E7]I was hor-\n[Amadd9]rible and [Fmaj7]almost let him in\n[G7]But I stopped\n[C]and caught the wall [E7]And my mouth\n[Amadd9]got dry So all [Fmaj7]I did was\n[G7]take him for a spin [C]Yeah, we hopped\n\n[Verse 2]\n[C]inside my car [E7]And I drove\n[Amadd9]in circles 'round [Fmaj7]the freight train yard\n[G7]And he turned\n[C]the headlights off [E7]Then he pulled\n[Amadd9]the bottle out [Fmaj7]And then he\n[G7]showed me what is love [C]\nI'll be your\n\n[Chorus]\n[D7sus2]morning bright goodnight shadow machine I'll be your\n[C]record player, baby, if you know what I mean I'll be your\n[D7sus2]real tough cookie with the whiskey breath I'll be a\n[C]killеr and a thriller and the cause of our dеath In the blos-\n\n[Verse 3]\n[C]som of the months [E7]I was sure\n[Amadd9]that I'd get [Fmaj7]driven off with thought\n[G7]So I swal-\n[C]lowed all of it [E7]As I rea-\n[Amadd9]lized there was [Fmaj7]no one who could\n[G7]kiss away my shit [C]\nI'll be your\n\n[Chorus]\n[D7sus2]morning bright goodnight shadow machine I'll be your\n[C]record player, baby, if you know what I mean I'll be your\n[D7sus2]real tough cookie with the whiskey breath I'll be a\n[C]killеr and a thriller and the cause of our dеath\n\n[Verse 4]\n[C]Paul, I know you said [E7]that you'd take\n[Amadd9]me any [Fmaj7]way I came or went\n[G7]But I'll push\n[C]you from my brain [E7]See, you're gen-\n[Amadd9]tle, baby I [Fmaj7]couldn't stay, I'd\n[G7]only bring you [C]pain\nI was your\n\n[Chorus]\n[D7sus2]starry-eyed lover and the one that you saw I was your\n[C]hurricane rider and the woman you'd call We were just\n[D7sus2]two moonshiners on the cusp of a breath And I've been\n[C]burning for you baby since the minute I left",
+  "diagrams": {
+    "Amadd9": {
+      "catalog": [
+        "577557"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7sus2": {
+      "catalog": [
+        "x5755x"
+      ],
+      "catalogCount": 1
+    },
+    "E7": {
+      "catalog": [
+        "022130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "xx3210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "paul",
+  "id": "420aa48875af6dd00ced95c0056b92ac4cb4da02239e40adb48261c7847a3818",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 322,
+  "normalizedKey": "cavetown|paul",
+  "playableChords": [
+    "C",
+    "E7",
+    "Amadd9",
+    "Fmaj7",
+    "G7",
+    "D7sus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 28,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "420aa48875af6dd00ced95c0056b92ac4cb4da02239e40adb48261c7847a3818",
+    "version": "BCFZ"
+  },
+  "tempo": 60,
+  "title": "paul",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

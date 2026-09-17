@@ -1,0 +1,146 @@
+{
+  "artist": "Breakdown Of Sanity",
+  "artistNormalized": "breakdown of sanity",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 10,
+  "content": "We\nhave to es-\n\n[Intro]\n[B5]cape\n[C5]\n[B5]\n[C5]\n[B5]\n[C5]\n[B5]\n[C5]\n\n[Verse 1]\n[B5]Another\nday\ngoes without a-\n[F#5]ny change\n[B5]The feeling we\nlive with,\nlive with\n[D5]still remains\n[B5]We're stuck in a\nhole\nand we're search-\n[F#5]ing for\n[B5]For anything\nto\nhold on-\n[D5]to\n[B5]\nThere has to\nbe\nsomewhere That\n[Gsus2]we can be\n[A5]safe from the\n[B5]Lives\nwe live each\nday\nThere has to\nbe\nsomewhere That\n[Gsus2]we can be so\n[A5]far, so far a-\n[B5]way\n\n[Pre-Break]\n[B5]\nFar a-\nway\nFar a-\n\n[Breakdown]\n[B5]way\nFar a-\nway\n\n[Verse 2]\n[B5]\nWe've to es-\ncape\nAnd I will\n[Gsus2]go any-\n[A5]where If you just\n[B5]lead\nshow me the\n[B5]way\nEscape to\nplace\nWhere we'll\n[Gsus2]be toge-\n[A5]ther every-\n[B5]day\nEvery-\n\n[Fill]\n[F#5]day\n[Asus2]\n[G]\n[Asus2]Every-\n[F#5]day\n[Asus2]\n[G]We\n[Asus2]have to es-\n\n[Pre-Break]\n[B5]cape\n\n[Breakdown]\n[B5]\n[Cdim]Escape to a\nplace Where we'll be\ntoge-\nther\nEscape to a\nplace Where we'll be\ntogether\nevery-\n[B5]day\nEvery-\nday\n\n[Verse 3]\n[B5]Another day\ngoes without a-\n[F#5]ny change\n[B5]The feeling we\nlive with,\nlive with\n[D5]still remains\n[B5]We're stuck in a\nhole\nand we're search-\n[F#5]ing for\n[B5]For anything\nto\n[D5]hold on-\n\n[Breakdown]\n[B5]to\n[B5]There has to\nbe\nsome place\n[G/B][B5]That\n[B5]nobody knows\nWe\nhave\n[G/B]to [B5]escape",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "10-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Asus2": {
+      "catalog": [
+        "10-10-12-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "111xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Cdim": {
+      "catalog": [
+        "10xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "x13331",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "01xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "Gsus2": {
+      "catalog": [
+        "8-8-10-x-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "We Have To Escape",
+  "id": "91c3deb6bc3bb801b97b60805c1516fc4dccbf8e8bee0033471fbc9406f0048d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 211,
+  "normalizedKey": "breakdown of sanity|we have to escape",
+  "playableChords": [
+    "B5",
+    "C5",
+    "F#5",
+    "D5",
+    "Gsus2",
+    "A5",
+    "Asus2",
+    "G",
+    "Cdim",
+    "G/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 44,
+      "name": "Pre-Break"
+    },
+    {
+      "measure": 52,
+      "name": "Breakdown"
+    },
+    {
+      "measure": 68,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 84,
+      "name": "Fill"
+    },
+    {
+      "measure": 92,
+      "name": "Pre-Break"
+    },
+    {
+      "measure": 100,
+      "name": "Breakdown"
+    },
+    {
+      "measure": 132,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 148,
+      "name": "Breakdown"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "91c3deb6bc3bb801b97b60805c1516fc4dccbf8e8bee0033471fbc9406f0048d",
+    "version": "BCFZ"
+  },
+  "tempo": 190,
+  "title": "We Have To Escape",
+  "tuning": "B F# B E G# C#",
+  "variantRole": "primary"
+}

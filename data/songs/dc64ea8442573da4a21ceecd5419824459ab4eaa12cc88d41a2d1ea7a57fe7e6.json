@@ -1,0 +1,127 @@
+{
+  "artist": "Coldplay",
+  "artistNormalized": "coldplay",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[F]  [Bb/D]\n[F]  [Bb/D]\n[F]  [Bb/D]\n[F]  [Csus4]\n[F]  [Bb/D]\n[F]  [Bb/D]\n[F]  [Bb/D]\n[F]Lord, when I'm broken\n\n[Verse 1]\n[F]  [Bb/D]\n[F][Bb/D]I'm in need\n[F]  [Bb/D]\n[F][Bb/D]Feel that o-\n[F]cean [Bb/D]\n[F][Bb/D]Swallowing me\n[F]  [Bb/D]\n[F][Bb/D]Head is hang-\n[F]ing [Bb/D]\n[F]So [F/A]sorry for me\n[Bb]\n[Bdim7]Oh Lord,\n[F/C]come shine your\n[C7]light on me\n[F]  [Bb/D]\n[F]On that morn-\n\n[Verse 2]\n[F]ing [Bb/D]\n[F][Bb/D]Scared and blue\n[F]  [Bb/D]\n[F][F/A]When I'm hung-\n[Bb]ry\n[Bb/D]And thirsty too\n[F]  [Bb/D]\n[F][Bb/D]Send this rain-\n[F]drop [Bb/D]\n[F]Down [F/A]to the sea\n[Bb]\n[Bdim7]Oh Lord,\n[F/C]come shine your\n[C7]light on me\n[F]  [Bb/D]\n[F]Oh, shine your light\n\n[Chorus]\n[F]  [Bb/D]\n[F]Oh, [Bb/D]shine a light\n[F]  [Bb/D]\n[F]Then I know\n[F]that [Bb/D]in the dark-\n[F]ness [C/G]I'm alright\n[C7]\nSee there's no\n[F]sun ris\n[F/A]ing, but in-\n[Bb/D]side I'm free\n[Bdim7]'Cause the Lord\n[F]will shine a\n[C7]light for me\n[F]  [Bb/D]\n[F]Oh, the Lord\n[Bb/D]will shine a\n[Csus4]light on me\n[F]  [Bb/D]\n[F][Bb/D]Sing it now\n\n[Outro]\n[F]  [Bb/D]\n[F]  [Bb/D]\n[F]  [Bb/D]\n[F]  [Csus4]\n[F]  [Bb/D]\n[F]  [Bb/D]\n[F]  [Bb/D]\n[F]  [Csus4]\n[F]  [Bb/D]\n[F]  [Bb/D]\n[F]  [Bb/D]\n[F]  [Csus4]\n[F]  [Bb/D]\n[F]  [Bb/D]\n[F]  [Bb/D]\n[F]  [Csus4]\n[F]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bb/D": {
+      "catalog": [
+        "xx0331"
+      ],
+      "catalogCount": 1
+    },
+    "Bdim7": {
+      "catalog": [
+        "x20131"
+      ],
+      "catalogCount": 1
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "Csus4": {
+      "catalog": [
+        "x33011"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F/A": {
+      "catalog": [
+        "x03211"
+      ],
+      "catalogCount": 1
+    },
+    "F/C": {
+      "catalog": [
+        "x33211"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "BrokEn",
+  "id": "dc64ea8442573da4a21ceecd5419824459ab4eaa12cc88d41a2d1ea7a57fe7e6",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 116,
+  "normalizedKey": "coldplay|broken",
+  "playableChords": [
+    "F",
+    "Bb/D",
+    "Csus4",
+    "F/A",
+    "Bb",
+    "Bdim7",
+    "F/C",
+    "C7",
+    "C/G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dc64ea8442573da4a21ceecd5419824459ab4eaa12cc88d41a2d1ea7a57fe7e6",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "BrokEn",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

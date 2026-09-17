@@ -1,0 +1,161 @@
+{
+  "artist": "CHON",
+  "artistNormalized": "chon",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[Am9]\n[Am/D]\n[Gmaj7]\n[Am9]  [C7]\n[Gmaj7]\n[Em7]\n\n[Verse 1]\n[Am9]Trying\n[Am/D]to find\n[Gmaj7]You\nleft me lost\n[Am9]  [C7]\nI just want you\n[Gmaj7]home now\n[Em7]\n[Am9]And though I'll\n[Am/D]see you again,\n[Gmaj7]but\n[Am9]I can't [C7]\nwait forever\n[Gmaj7]\n[Em7]\n\n[Chorus]\n[Am9][Am/D]I can't\n[Bm7]wait [Em7]I can't\n[A7sus2]wait [D]I can't\n[Bm7]wait [Em]anymore,\n[Am9]baby [Am/D]I can't\n[Bm7]wait [Em7]Can't\n[A7sus2]wait [D]I can't\n[Bm7]wait [Em]anymore\n\n[Guitar Solo]\n[Am/D]  [Bm7]\n[Em7]  [A7sus2]\n[D]  [Bm7]\n[Em]  [Am9]\n[Am/D]  [Bm7]\n[Em7]  [A7sus2]\n[D]  [Bm7]\n[Em]\n\n[Verse 2]\n[Am9]Wish\n[Am/D]you\n[Gmaj7]were\nstill here\n[Am9]  [C7]\nNot just on my\n[Gmaj7]mind\n[Em7]And\n[Am9]though I'll\n[Am/D]see you again,\n[Gmaj7]but\n[Am9]I can't [C7]\nwait forever\n[Gmaj7]\n[Em7]\n\n[Interlude]\n[Bm7/A]\n[Cmaj7sus2/A]\n[Bm7/A]\n[Cmaj7sus2/A]\n[Bm7/A]\n[Cmaj7sus2/A]\n[Bm7/A]\n[Cmaj7sus2/A]\n[Bm7/A]\n[Cmaj7sus2/A]\n[Bm7/A]\n[Cmaj7sus2/A]\n[Bm7/A]\n[Cmaj7sus2/A]\n[Bm7/A]\n[Cmaj7sus2/A]\n\n[Outro]\n[Am9]Trying\n[Am/D]to find\n[Gmaj7]You\nleft me lost\n[Am9]  [C7]\nI just want you\n[Gmaj7]home now\n[Em7]",
+  "diagrams": {
+    "A7sus2": {
+      "catalog": [
+        "5x540x"
+      ],
+      "catalogCount": 1
+    },
+    "Am/D": {
+      "catalog": [
+        "x5x555"
+      ],
+      "catalogCount": 1
+    },
+    "Am9": {
+      "catalog": [
+        "5x55x7"
+      ],
+      "catalogCount": 1
+    },
+    "Bm7": {
+      "catalog": [
+        "7x777x",
+        "7x77xx",
+        "x-2-4-2-3-2",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bm7/A": {
+      "catalog": [
+        "76776x"
+      ],
+      "catalogCount": 1
+    },
+    "C7": {
+      "catalog": [
+        "xxx556",
+        "x-3-2-3-1-0",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7sus2/A": {
+      "catalog": [
+        "86976x"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "x542xx",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "475xxx",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em7": {
+      "catalog": [
+        "0xx033",
+        "x7x78x",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7": {
+      "catalog": [
+        "3xx432",
+        "3-2-0-0-0-2",
+        "3-5-4-4-3-3",
+        "x-x-5-7-7-7",
+        "x-10-9-7-7-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Can't Wait",
+  "id": "b55c51cec3a24d5e804e5b92943053210bfb1ecc4eb2767af39b163624430f63",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 93,
+  "normalizedKey": "chon|can t wait",
+  "playableChords": [
+    "Am9",
+    "Am/D",
+    "Gmaj7",
+    "C7",
+    "Em7",
+    "Bm7",
+    "A7sus2",
+    "D",
+    "Em",
+    "Bm7/A",
+    "Cmaj7sus2/A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 58,
+      "name": "Interlude"
+    },
+    {
+      "measure": 74,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b55c51cec3a24d5e804e5b92943053210bfb1ecc4eb2767af39b163624430f63",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "Can't Wait",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

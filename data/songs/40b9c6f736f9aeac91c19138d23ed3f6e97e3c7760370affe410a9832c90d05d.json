@@ -1,0 +1,134 @@
+{
+  "artist": "Charlie Parker",
+  "artistNormalized": "charlie parker",
+  "capo": "No capo",
+  "chordPositionCount": 34,
+  "chordSymbolCount": 10,
+  "content": "[Section 1]\n5\n[F7]#4 5 [F7]1 b3 [F7]3 1 [F7]6 1\n\n[Section 2]\n[Bb7]6 1 [Bb7]1 [Bdim]6 [Bdim]1\n[F7]1 [F7]6 [F7]1 6 [F7]b3 3\n[F7]1 2 [F7]1 6 1 2 [F7]1 1 [F7]3 4\n[Bb7][Bb7]1 [Bb7]b3 4 [Bb7]b7\n[Bb7]5 1 [Bb7]b7 [Bb7]1 5 [Bb7]1 2\n[F7]7 [F7]b9 [F7][F7]b7\n[Am7]5 [Am7]#5 5 [D7]2 b9 [D7]2 1\n[Gm7]6 [Gm7]4 [Gm7M]b9 1 1 7 [Gm7M]7 6\n[C7sus4]6 [C7sus4]5 [C7]1 6 [C7]1 1\n[F7]6 [F7]1 [D79+]5 [D79+]\n[Gm7]  [Gm7]  [C7sus4]  [C7sus4]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb7": {
+      "catalog": [
+        "x13131",
+        "6-5-3-3-3-4",
+        "6-8-6-7-6-6",
+        "x-x-8-10-9-10",
+        "x-13-12-13-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bdim": {
+      "catalog": [
+        "x20101"
+      ],
+      "catalogCount": 1
+    },
+    "C7": {
+      "catalog": [
+        "x35353",
+        "x-3-2-3-1-0",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7sus4": {
+      "catalog": [
+        "x35363"
+      ],
+      "catalogCount": 1
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D79+": {
+      "catalog": [
+        "x54565"
+      ],
+      "catalogCount": 1
+    },
+    "F7": {
+      "catalog": [
+        "131211",
+        "x01211",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "Gm7": {
+      "catalog": [
+        "310031",
+        "353363",
+        "3-5-3-3-3-3",
+        "x-x-5-7-6-6",
+        "x-10-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gm7M": {
+      "catalog": [
+        "354333"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Billie's Bounce",
+  "id": "40b9c6f736f9aeac91c19138d23ed3f6e97e3c7760370affe410a9832c90d05d",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 68,
+  "normalizedKey": "charlie parker|billie s bounce",
+  "playableChords": [
+    "F7",
+    "Bb7",
+    "Bdim",
+    "Am7",
+    "D7",
+    "Gm7",
+    "Gm7M",
+    "C7sus4",
+    "C7",
+    "D79+"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Section 1"
+    },
+    {
+      "measure": 3,
+      "name": "Section 2"
+    }
+  ],
+  "source": {
+    "format": "gp4",
+    "sha256": "40b9c6f736f9aeac91c19138d23ed3f6e97e3c7760370affe410a9832c90d05d",
+    "version": "FICHIER GUITAR PRO v4.06"
+  },
+  "tempo": 120,
+  "title": "Billie's Bounce",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

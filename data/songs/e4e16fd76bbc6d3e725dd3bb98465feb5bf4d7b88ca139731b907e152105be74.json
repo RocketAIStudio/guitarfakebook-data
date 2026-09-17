@@ -1,0 +1,127 @@
+{
+  "artist": "Burzum",
+  "artistNormalized": "burzum",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\nThis is War,\nwow, huh\n[F#m]  [G]\n\n[Verse 1]\n[Em]I Lie\nWounded\non Wintery\nGround\nWith Hundred of Cor-\npses\nall around\n[F#m]  [G]\n[Em]Many\nWounded\nCrawl Helpless around\nOn the\nBlood\nRed Snowy Ground\n[F#m]  [G]\n\n[Chorus]\n[Em]War\n[C]\n[Em]War\n[Bm]\n[Em]War\n[C]\n[Em]War\n[Bm]\n\n[Main Riff]\n[Em]\n[F#m]  [G]\n\n[Verse 2]\n[Em]Cries of\nthe ha\nSuffering Sound\nCries for\nHelp\nto All Their Moms\n[F#m]  [G]\n\n[Chorus]\n[Em]War\n[C]\n[Em]War\n[Bm]\n[Em]War\n[C]\n[Em]War\n[Bm]\n[Em]eh\n\n[Break]\n[Em]huh\n[F#m]  [G]\n\n[Verse 3]\n[Em]Many\nHours\nof the\nMusic\nMany\nDrops\nof Blood\n[F#m]  [G]\n[Em]Many\nShiverings\nand Now I'm\nDead\nAnd\nStill\nWe Must\nNever Give [F#m]up [G]\n\n[Chorus]\n[Em]War\n[C]\n[Em]War\n[Bm]\n[Em]War\n[C]\n[Em]War\n[Bm]\n\n[Solo]\n[Em]  [G]  [F#m]\n[Em]  [G]  [F#m]\n[Em]  [G]  [F#m]\n[Em]  [G]  [F#m]\n[Em]  [G]  [F#m]\n[Em]  [G]  [F#m]\n[Em]  [G]  [F#m]\n[Em]  [G]  [F#m]\n[Em]  [G]  [F#m]\n[Em]  [G]  [F#m]\n[Em]  [G]  [F#m]\n[Em]  [G]  [F#m]\n[Em]  [G]  [F#m]\n[Em]  [G]  [F#m]\n[Em]  [G]  [F#m]\n[Em]  [G]  [F#m]\n[Em]",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "War *alt",
+  "id": "e4e16fd76bbc6d3e725dd3bb98465feb5bf4d7b88ca139731b907e152105be74",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 98,
+  "normalizedKey": "burzum|war",
+  "playableChords": [
+    "Em",
+    "F#m",
+    "G",
+    "C",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Main Riff"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Break"
+    },
+    {
+      "measure": 67,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 83,
+      "name": "Chorus"
+    },
+    {
+      "measure": 91,
+      "name": "Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e4e16fd76bbc6d3e725dd3bb98465feb5bf4d7b88ca139731b907e152105be74",
+    "version": "BCFZ"
+  },
+  "tempo": 175,
+  "title": "War",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

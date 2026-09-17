@@ -1,0 +1,104 @@
+{
+  "artist": "City and Colour",
+  "artistNormalized": "city and colour",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Emaj7]\n[G#m]\n[Emaj7]\n[G#m]\n[Emaj7]\nWith\n\n[Verse 1]\n[G#m]you on\nmy mind And\n[Emaj7]my heart held\nin your hands\n[G#m]\nScreaming\n[Emaj7]\nBreak\n\n[Chorus]\n[G#m]me\nOooh,\n[Emaj7]\nBreak\n[G#m]me\nOooh, oh\n[Emaj7]\n\n[Bridge]\n[G#m]\n[Emaj7]\n[G#m]\n[Emaj7]\n[G#m]\n[Emaj7]\n[G#m]\n[Emaj7]\nWith\n\n[Verse 2]\n[G#m]you on\nmy mind And\n[Emaj7]my heart held\nin your hands\n[G#m]\nScreaming\n[Emaj7]\nBreak\n\n[Bridge]\n[G#m]me\nBreak\nme\n\n[Chorus]\n[G#m]Oooh,\n[Emaj7]\nOooh,\n[G#m]\n[Emaj7]\n[G#m]Oooh,\n[Emaj7]\n[G#m]Oooh.\n[Emaj7]\n\n[Outro]\n[G#madd9]\n[B6/F#]\n[Emaj7]\n[B6add9]\n[G#madd9]\n[B6/F#]\n[Emaj7]\n[B6add9]\n[G#m]\n[Emaj7]\n[B6add9]\n[G#m]\n[Emaj7]\n[B6add9]\n[G#m]\n[Emaj7]\n[Emaj7]",
+  "diagrams": {
+    "B6/F#": {
+      "catalog": [
+        "224000"
+      ],
+      "catalogCount": 1
+    },
+    "B6add9": {
+      "catalog": [
+        "779666"
+      ],
+      "catalogCount": 1
+    },
+    "Emaj7": {
+      "catalog": [
+        "12-12-12-12-12-12",
+        "667666",
+        "457444",
+        "0-2-1-1-0-0",
+        "x-x-2-4-4-4"
+      ],
+      "catalogCount": 5
+    },
+    "G#m": {
+      "catalog": [
+        "447333",
+        "444000"
+      ],
+      "catalogCount": 2
+    },
+    "G#madd9": {
+      "catalog": [
+        "446333"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Casey's Song",
+  "id": "1dbefb12fdb42d07c3ff4f24b5fd53cc76ec7907a18e9b0c52cca556ead24d0e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 43,
+  "normalizedKey": "city and colour|casey s song",
+  "playableChords": [
+    "Emaj7",
+    "G#m",
+    "G#madd9",
+    "B6/F#",
+    "B6add9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 50,
+      "name": "Bridge"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 74,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1dbefb12fdb42d07c3ff4f24b5fd53cc76ec7907a18e9b0c52cca556ead24d0e",
+    "version": "BCFZ"
+  },
+  "tempo": 56,
+  "title": "Casey's Song",
+  "tuning": "E B E G# B D#",
+  "variantRole": "primary"
+}

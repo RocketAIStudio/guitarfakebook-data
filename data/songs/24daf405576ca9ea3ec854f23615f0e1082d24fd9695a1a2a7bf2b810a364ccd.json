@@ -1,0 +1,155 @@
+{
+  "artist": "Coldplay",
+  "artistNormalized": "coldplay",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\nWas a\n\n[Verse 1]\n[C#m]long and dark December From the\nrooftops I remember There was\n[A]snow White\n[F#m]snow\n[C#m]Clearly I remember From    the\nwindows they were watching While we\n[A]froze down\n[F#m]below When the\n\n[Pre-Chorus]\n[A]future's architecture By a\n[B]carnival of idiots on\n[C#m]show You'd better lie\n[B]low If you\n\n[Chorus]\n[A5]love [Ab5]me [E5]Won't you\n[C#m]let [B]me know? [C#m]\nWas a\n\n[Verse 2]\n[C#m]long and dark December When the\n[C#m]banks became cathedrals And the\n[A]fog Became\n[F#m]God [F#5][F5][F5][E5]\n[C#m]Priests clutched onto bibles Hollow-\n[C#m]ed out to fit their rifles And the\n[A]cross was held\n[F#m]aloft [F#5][F5][F5][E5]\n\n[Pre-Chorus]\n[A]Bury me in armor When     I'm\n[B]dead and hit the ground My\n[C#m]nerves are poles\n[B]that unfroze [Ab5]If\n\n[Chorus]\n[A5]you [Ab5]love [E5]me Won't\n[C#m]you let [B]me know? [C#m]\n\n[Solo]\n[C#m]\n[C#m]\n[A]\n[F#m]  [F#5]  [F5]  [F5]  [E5]\n[C#m]\n[C#m]\n[A]\n[F#m][F#5][F5][F5][E5]I don't\n\n[Pre-Chorus]\n[A]want to be a soldier Who the\n[B]captain of some sinking ship Would\n[C#m]stow Far\n[B]below So [Ab5]if you\n\n[Chorus]\n[A5]love [Ab5]me [E5]Why'd you\n[C#m]let [B]me go? [C#m]\n\n[Outro]\nI took my love down to\nviolet hill\nThere we sat in\nsnow All the\ntime she was silent and still\nSo if you love me\nWon't you let me know?\nIf you love me\nWon't you let me know?",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Ab5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x2444x",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x4665x",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Violet Hill",
+  "id": "24daf405576ca9ea3ec854f23615f0e1082d24fd9695a1a2a7bf2b810a364ccd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 246,
+  "normalizedKey": "coldplay|violet hill",
+  "playableChords": [
+    "C#m",
+    "A",
+    "F#m",
+    "B",
+    "A5",
+    "Ab5",
+    "E5",
+    "F#5",
+    "F5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Solo"
+    },
+    {
+      "measure": 54,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 62,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "24daf405576ca9ea3ec854f23615f0e1082d24fd9695a1a2a7bf2b810a364ccd",
+    "version": "BCFZ"
+  },
+  "tempo": 76,
+  "title": "Violet Hill",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

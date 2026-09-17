@@ -1,0 +1,140 @@
+{
+  "artist": "Cream",
+  "artistNormalized": "cream",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[E7#9]\n[B]  [D]  [E]\n\n[Verse 1]\n[E]Feel\n[D]when I\n[E]dance with you.\n[D]\n[E]We\n[D]move like the\n[E]sea.\n[D]\n[E]You,\n[D]you're all I\n[E]want to know.\n\n[Chorus]\n[D]I\nfeel\n[E]free.\n[D]I\nfeel\n[E]free.\n[D]I\nfeel\n[E]free.\nI can\n\n[Bridge]\nwalk down the street, there's no\none there. Though the\npavements are one huge crowd.\nI can\ndrive down the road, my eyes\ndon't see, Though my\nmind wants to cry out loud.\n\n[Guitar Solo]\n[E]Ah,\n[D]ah,\n[E]ah.\n[D]\n[E]Ah,\n[D]ah,\n[E]ah.\n[D]\n[E]Ah,\n[D]ah,\n[E]ah.\n[D]I\nfeel\n[E]free.\n[D]I\nfeel\n[E]free.\n[D]I\nfeel\n[E]free.\nI can\n\n[Bridge]\n[C]walk down the street, there's no\none there, Though the\n[Bb/D]pavements are one huge crowd\nI can\n[A/C#]drive down the road, my eyes\ndon't see, though my\n[Fmaj7/C]mind wants to cry out loud,\nThough my\n[D]mind wants to cry out loud\n\n[Verse 2]\n[E]Dance\n[D]floor is\n[E]like the sea.\n[D]\n[E]Ceil-\n[D]ing is the\n[E]sky.\n[D]You're the\n[E]sun\n[D]and as you\n[E]shine on me.\n\n[Chorus]\n[D]I\nfeel\n[E]free.\n[D]I\nfeel\n[E]free.\n[D]I\nfeel\n[E]free.\n\n[Outro]\n[E]Ah,\n[D]ah,\n[E]ah.\n[D]\n[E]Ah,\n[D]ah,\n[E]ah.\n[D]\n[E]Ah,\n[D]ah,\n[E]ah.\n[D]",
+  "diagrams": {
+    "A/C#": {
+      "catalog": [
+        "x4222x"
+      ],
+      "catalogCount": 1
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bb/D": {
+      "catalog": [
+        "x5333x"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x3555x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x5777x",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x7999x",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "E7#9": {
+      "catalog": [
+        "x7678x"
+      ],
+      "catalogCount": 1
+    },
+    "Fmaj7/C": {
+      "catalog": [
+        "x33210"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Feel Free *alt",
+  "id": "597c685b9e379685319f48b7e7d782a74f4470d7bbec3fc089deaf70ec36e707",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 163,
+  "normalizedKey": "cream|i feel free",
+  "playableChords": [
+    "E7#9",
+    "B",
+    "D",
+    "E",
+    "C",
+    "Bb/D",
+    "A/C#",
+    "Fmaj7/C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 36,
+      "name": "Chorus"
+    },
+    {
+      "measure": 48,
+      "name": "Bridge"
+    },
+    {
+      "measure": 56,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 80,
+      "name": "Bridge"
+    },
+    {
+      "measure": 90,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 102,
+      "name": "Chorus"
+    },
+    {
+      "measure": 114,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "597c685b9e379685319f48b7e7d782a74f4470d7bbec3fc089deaf70ec36e707",
+    "version": "BCFZ"
+  },
+  "tempo": 182,
+  "title": "I Feel Free",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,107 @@
+{
+  "artist": "Catherine O'Hara",
+  "artistNormalized": "catherine o hara",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]I sense there's\n\n[Verse 1]\n[Em]something in the [F]wind That feels like\n[B]tragedy's at [Em]hand And though I'd\n[G]like to stand by [F]him Can't shake this\n[B]feeling that I [Em]have The worst is\n[G]just around the [F]bend And does he\n\n[Chorus]\n[Em]notice [B]my feelings\n[C]for him? [F]And will he\n[Em]see how [B]much he means to\n[C]me? I [B]think it's not to\n[Em]be What will be-\n\n[Verse 2]\n[Em]come of my dear [F]friend? Where will his\n[B]actions lead us [Em]then? Although I'd\n[G]like to join the [F]crowd In their en-\n[B]thusiastic [Em]cloud Try as I\n[G]may, it doesn't [F]last And will we\n\n[Chorus]\n[Em]ever [B]end up to-\n[C]gether? [F]No, I think\n[Em]not, it's [B]never to be-\n[C]come For [B]I am not the\n[Em]one",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sally's Song",
+  "id": "4b2ce5afb171c56ff897facab6b3d18aaeadb9755f544fa3d34bf84137b07215",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 132,
+  "normalizedKey": "catherine o hara|sally s song",
+  "playableChords": [
+    "Em",
+    "F",
+    "B",
+    "G",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 8,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4b2ce5afb171c56ff897facab6b3d18aaeadb9755f544fa3d34bf84137b07215",
+    "version": "BCFZ"
+  },
+  "tempo": 55,
+  "title": "Sally's Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}
