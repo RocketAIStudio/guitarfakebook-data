@@ -1,0 +1,103 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n[Am]  [F]\n[C]\n[G]\n[G7]\n[C]  [F]\n[C]\n\n[Verse]\n[C]All alone, or in\ntwo's, The\n[Am]ones who [F]really love\n[C]you\n[G]Walk up and down\noutside [G7]the wall.\n[C]  [F]\n[C]\n[C]Some hand in hand\nAnd some gathered to-\n[Am]gether in bands. [F]\n[C]The\n[G]bleeding hearts and the\nartists [G7]Make\n[C]their stand. [F]\n[C]\n\n[Chorus]\n[C]And when they've given you their\nall Some stagger and\n[Am]fall, after [F]all it's not\n[C]easy\n[G]Banging your heart against\nsome mad [G7]bugger's wall.\n[C]  [F]\n[C]\n\n[Outro]\n[C]\n[Am]  [F]\n[C]\n[G]\n[G7]\n[C][F]\"Isn't this where....\"",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "3-2-0-0-0-1",
+        "3-5-3-4-3-3",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "Outside The Wall",
+  "id": "facd36c669e095508ce32c0173eb581dc02a1401440c552279300894667a86a6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 80,
+  "normalizedKey": "pink floyd|outside the wall",
+  "playableChords": [
+    "C",
+    "Am",
+    "F",
+    "G",
+    "G7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "facd36c669e095508ce32c0173eb581dc02a1401440c552279300894667a86a6",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "Outside The Wall",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

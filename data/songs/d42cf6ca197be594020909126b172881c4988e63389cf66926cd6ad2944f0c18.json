@@ -1,0 +1,155 @@
+{
+  "artist": "Paramore",
+  "artistNormalized": "paramore",
+  "capo": "No capo",
+  "chordPositionCount": 37,
+  "chordSymbolCount": 9,
+  "content": "[Verse 1]\n[Am7]And\n[C]we get home\n[C/F]I know we\n[C]won't be [C/B]home at all\n[Am7]This place we\n[C]live\n[C/F]it is not\n[C]where [C/B]we belong\n[Am7]I miss what\n[C]we were\n[C/F]in the town that\n[C]we could [C/B]call our\n[Am7]own Going back\n[C]to get away\n[C/F]after\n[C/B][C]everything has\n\n[Chorus]\n[F]changed\n[Am]\nEverything [G]has\n[F]changed\n[Am]\n[C]Everything [G]has\n[F]changed\n[Am]\nEverything [G]has\n[F]changed\n[Am]\n[C]\n\n[Bridge]\n[F]\n\n[Verse 2]\n[Am7]So we\n[C]stand here now\n[C/F]and noone\n[C]knows us [C/B]at all\n[Am7]I won't get used\n[C]to this\n[C/F]I won't get used\n[C]to [C/B]being gone\n[Am7]And going back\n[C]won't feel the same\n[C/F]if\n[C]we aren't [C/B]staying\n[Am7]And going back\n[C]to get away\n[C/F]after\n[C/B][C]everything has\n\n[Chorus]\n[F]changed\n[Am]\n[C]Everything [G]has\n[F]changed\n[Am]\n[C]Everything [G]has\n[F]changed\n[Am]\n[C]Everything [G]has\n[F]changed\n[Am]\n[C]  [G]\n\n[Interlude]\n[F]\n[Dm7]\n[F]Is taking up\nour time\n[Dm7]\n[F]Taking up\nour time\n[Dm7]\n[F]Taking up\nour time\n[Dm7]\n\n[Chorus]\n[F]Taking up\nour time I can't\n[Am]go back again\ngo back at all\n[F]Taking up\nour time I can't\n[Dm]go back again\ngo back at all\n[F]Taking up\nour time I can't\n[Am]go back again\ngo back at all\n[F]Taking up\nour time\n[Dm]is taking\nup our time\n\n[Outro]\n[C/F]\n[Am7]When we were\n[C/B]so [G][C]alive\n[C/F]do you remem\nber that?\n[Am7]Do you remem\n[C/B]ber [G]that?\n[C/F]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02213",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32013",
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C/B": {
+      "catalog": [
+        "x22010"
+      ],
+      "catalogCount": 1
+    },
+    "C/F": {
+      "catalog": [
+        "133010"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Dm7": {
+      "catalog": [
+        "xx0211",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Franklin",
+  "id": "d42cf6ca197be594020909126b172881c4988e63389cf66926cd6ad2944f0c18",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 224,
+  "normalizedKey": "paramore|franklin",
+  "playableChords": [
+    "Am7",
+    "C",
+    "C/F",
+    "C/B",
+    "F",
+    "Am",
+    "G",
+    "Dm7",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Interlude"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    },
+    {
+      "measure": 101,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d42cf6ca197be594020909126b172881c4988e63389cf66926cd6ad2944f0c18",
+    "version": "BCFZ"
+  },
+  "tempo": 137,
+  "title": "Franklin",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

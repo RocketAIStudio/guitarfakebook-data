@@ -1,0 +1,108 @@
+{
+  "artist": "Peter, Paul and Mary",
+  "artistNormalized": "peter paul and mary",
+  "capo": "3",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[A]\n[D]\n[Bm]\n[G]\n[A]\n[D]\n\n[Verse 1]\n[D]How many\n[G]roads must a\n[D]man walk\ndown Be-\nfore they\n[G]call him a\n[A]man?\n[D]How many\n[G]seas must a\n[D]white dove\n[Bm]sail Be-\n[D]fore she\n[G]sleeps in the\n[A]sand?\n[D]How many times\n[G]must the\n[D]cannonballs\nfly Be-\nfore they're for-\n[G]ever\n[A]banned?\nThe\n\n[Refrain]\n[G]answer, my\n[A]friend, is\n[D]blowin' in the wind\n[Bm]The\n[G]answer is\n[A]blowin' in the wind\n[D]\n\n[Verse 2]\n[D]How many\n[G]years must a\n[D]mountain ex-\nist Be-\nfore it is\n[G]washed to the\n[A]sea?\n[D]How many\n[G]years can some\n[D]people ex-\n[Bm]ist Be-\n[D]fore they're al-\n[G]lowed to be\n[A]free?\n[D]How many times\n[G]can a man\n[D]turn his\nhead And pre-\ntend that he just\n[G]doesn't\n[A]see?\nThe\n\n[Refrain]\n[G]answer, my\n[A]friend, is\n[D]blowin' in the wind\n[Bm]The\n[G]answer is\n[A]blowin' in the wind\n[D]\n\n[Verse 3]\n[D]How many times\n[G]must a\n[D]man look up\nBe-\nfore he can\n[G]see the\n[A]sky?\n[D]How many\n[G]ears must\n[D]one man\n[Bm]have Be-\n[D]fore he can\n[G]hear people\n[A]cry?\n[D]How many deaths\n[G]will it take\n[D]'til he\nknows That\ntoo many peo-\n[G]ple have\n[A]died?\nThe\n\n[Refrain]\n[G]answer, my\n[A]friend, is\n[D]blowin' in the wind\n[Bm]The\n[G]answer is\n[A]blowin' in the wind\n[D]\n\n[Outro]\n[G]\n[A]\n[D]\n[Bm]The\n[G]answer is\n[A]blowin' in the\n[D]wind",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Blowin' in the Wind",
+  "id": "6d8d82378b055fdc4416262e271b5b3318724dc0f869e96af74845bf40ab0394",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 223,
+  "normalizedKey": "peter paul and mary|blowin in the wind",
+  "playableChords": [
+    "G",
+    "A",
+    "D",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Refrain"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 65,
+      "name": "Refrain"
+    },
+    {
+      "measure": 73,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 97,
+      "name": "Refrain"
+    },
+    {
+      "measure": 105,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6d8d82378b055fdc4416262e271b5b3318724dc0f869e96af74845bf40ab0394",
+    "version": "BCFZ"
+  },
+  "tempo": 155,
+  "title": "Blowin' in the Wind",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,162 @@
+{
+  "artist": "Paul Simon",
+  "artistNormalized": "paul simon",
+  "capo": "3",
+  "chordPositionCount": 42,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[Am]\n[Am/G]\n[Fmaj7]\n[Em]\n\n[Verse 1]\n[Am]\nOn the\nside of a hill, [G]In a\nland called \"somewhere,\"\nA little boy\n[C]lies\nasleep in the\n[G]earth.\nWhile\n[Em]down in the [D]valley, A cruel\n[C]war ra-\n[G]ges, [Bm]\nAnd\n[Am]people forget [G]what a\n[C]child's life\n[D]is worth.\n[Em]\n\n[Bridge]\n[G]\n\n[Verse 2]\n[Am]\nOn the\nside of a hill, [G]A\n[C]little cloud [G]weeps,\nAnd\nwaters the grave\n[C]\nwith it's [D]silent\n[G]tears.\nWhile a\n[Em]soldier cleans, [D]And\n[C]polishes a gun,\n[G]  [Bm]\nThat en-\n[Am]ded a life [G]at the\n[C]age of se-\n[D]ven years.\n[Em]\n\n[Bridge]\n[G]\n\n[Verse 3]\n[Am]\nAnd the\nwar rages on, [G]In a land\ncalled \"somewhere,\"\nAnd generals\n[C]order\ntheir men to kill,\n[G]\nAnd to fight\n[Em]for a cause [D]they've long\n[C]ago for-\n[G]gotten, [Bm]\nWhile a\n[Am]little cloud weeps, [G]\nOn the\n[C]side\n[D]of a\n\n[Outro]\n[G]hill.\n[C]\n[Cmaj7]\n[G/B]  [D]\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am/G": {
+      "catalog": [
+        "302210"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x3200x",
+        "x-3-2-0-0-0",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "102210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Side of a Hill",
+  "id": "ba444217f066881ce20d08a6cfb65f65cfaf51b376226490c10b62bc28f7419d",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 132,
+  "normalizedKey": "paul simon|the side of a hill",
+  "playableChords": [
+    "Am",
+    "Am/G",
+    "Fmaj7",
+    "Em",
+    "G",
+    "C",
+    "D",
+    "Bm",
+    "Cmaj7",
+    "G/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 63,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ba444217f066881ce20d08a6cfb65f65cfaf51b376226490c10b62bc28f7419d",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "The Side of a Hill",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

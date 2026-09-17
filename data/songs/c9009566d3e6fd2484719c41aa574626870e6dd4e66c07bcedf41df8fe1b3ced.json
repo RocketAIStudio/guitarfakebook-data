@@ -1,0 +1,73 @@
+{
+  "artist": "Paul McCartney",
+  "artistNormalized": "paul mccartney",
+  "capo": "1",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[A]\n\n[Verse 1]\n[E]La La La La La\nLa, Love ly Lin\n[A]da, [Dadd9/A]\n[A]  [Dadd9/A]\n[E]With the love ly flo\nwers in her hair.\n[A]  [Dadd9/A]\n[A]  [Dadd9/A]\n\n[Verse 2]\n[E]La La La La La\nLa, Love ly Lin\n[A]da, [Dadd9/A]\n[A]  [Dadd9/A]\n[E]With the love ly flo\nwers in her hair.\n[A]  [Dadd9/A]\n[A]  [Dadd9/A]\n\n[Outro]\n[E]\n[A]  [Dadd9/A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Dadd9/A": {
+      "catalog": [
+        "x04230"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Lovely Linda",
+  "id": "c9009566d3e6fd2484719c41aa574626870e6dd4e66c07bcedf41df8fe1b3ced",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 46,
+  "normalizedKey": "paul mccartney|the lovely linda",
+  "playableChords": [
+    "A",
+    "E",
+    "Dadd9/A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 19,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c9009566d3e6fd2484719c41aa574626870e6dd4e66c07bcedf41df8fe1b3ced",
+    "version": "BCFZ"
+  },
+  "tempo": 119,
+  "title": "The Lovely Linda",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

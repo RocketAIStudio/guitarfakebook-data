@@ -1,0 +1,125 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[G5]\n[Bb5]\n[G5]\n[G5]\n[Bb5]\n[G5]\n[Bb5]\n[G5]\n[Bb5]\n[G5]\n\n[Verse 1]\n[G5]Can't you see my\nsoul\n[Eb5]on the record sleeve\n[Bb5]It's\n[G5]goin up for sale\nas\n[C5]soon as it [Bb5]gets saved\n[F5]In-\n[G5]terrogation blues,\n[Eb5]once again I lose\n[Bb5]\n[C5]You don't get to\n[Bb5]magnify my\n[F5]insecurities\n[C5]\n[Eb5]You don't get to\n[Bb5]site and sing my\n[Aaug]unhip-oracies\n[C5]\n[Eb5]\n\n[Chorus]\n[Bb5]Take two placebos\n[Aaug]then\n[C5]you can call me lame\n[Eb5]\n[Bb5]Walk some in my shoes\n[Aaug]then\n[C5]tell me to fuck off\n[Eb5]\n[Bb5]My oversized hat\n[Aaug]won't fit\n[Ab5]on your humongous head\n[Eb5]\nI'd trade a hundred\ndays for\none inside of\nyou\n\n[Instrumental]\n[Eb5]\n[Gm]\n[Eb5]\n[Gm]\n[Eb5]\n[G5]\n[Bb5]\n[G5]\n[Bb5]\n[G5]\n[Bb5]\n[G5]\n\n[Verse 2]\n[G5]Take me to a cave,\n[Eb5]where I can't be seen\n[Bb5]\n[G5]Solace makes the heart,\n[C5]pump [Bb5]adrenaline\n[F5]I'm\n[G5]sick of being used,\ntime\n[Eb5]and again betrayed\n[Bb5]\n[C5]Give a man a\n[Bb5]key, he cannot\n[F5]not open the door\n[C5]\n[Eb5]Give him something\n[Bb5]free and he'll re-\n[Aaug]sell it to the poor\n[C5]\n[Eb5]\n\n[Chorus]\n[Bb5]Take two placebos\n[Aaug]then\n[C5]you can call me lame\n[Eb5]\n[Bb5]Walk some in my shoes\n[Aaug]then\n[C5]tell me that I'm fucked\n[Eb5]\n[Bb5]My humungous hat\n[Aaug]won't fit\n[Ab5]on your gigantic head\n[Eb5]\n\n[Outro]",
+  "diagrams": {
+    "Aaug": {
+      "catalog": [
+        "x-12-15-14-14-x",
+        "5876xx"
+      ],
+      "catalogCount": 2
+    },
+    "Ab5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bb5": {
+      "catalog": [
+        "688xxx",
+        "x133xx"
+      ],
+      "catalogCount": 2
+    },
+    "C5": {
+      "catalog": [
+        "x355xx",
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "Eb5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx",
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "355xxx",
+        "xx578x"
+      ],
+      "catalogCount": 2
+    },
+    "Gm": {
+      "catalog": [
+        "35533x",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Take Two Placebos and Call Me Lame",
+  "id": "0096f8876f720e914786127c57ee1a0c59a52da03f451679715f3ec99dd13bf6",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 199,
+  "normalizedKey": "nofx|take two placebos and call me lame",
+  "playableChords": [
+    "G5",
+    "Bb5",
+    "Eb5",
+    "C5",
+    "F5",
+    "Aaug",
+    "Ab5",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Instrumental"
+    },
+    {
+      "measure": 73,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 95,
+      "name": "Chorus"
+    },
+    {
+      "measure": 108,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0096f8876f720e914786127c57ee1a0c59a52da03f451679715f3ec99dd13bf6",
+    "version": "BCFZ"
+  },
+  "tempo": 220,
+  "title": "Take Two Placebos and Call Me Lame",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

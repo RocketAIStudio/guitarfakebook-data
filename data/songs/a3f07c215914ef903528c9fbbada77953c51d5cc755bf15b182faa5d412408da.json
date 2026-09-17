@@ -1,0 +1,103 @@
+{
+  "artist": "Panic At the Disco",
+  "artistNormalized": "panic at the disco",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[A#]Heaven knows that I'm born too\n[A]late For these ghosts that I\n[Dm]chase With these dreams, I in-\n[F]flate, painted skies in my\n[A#]brain Every day, I'm Carl\n[A]Sagan in space To es-\n[Dm]cape this old world, this old\n[F]world\n[A#]Some days I lie wide a-\n[A]wake 'til the sun hits my\n[Dm]face And I fade, ele-\n[F]vate from the Earth Far a-\n[A#]way to a place where I'm\n[A]free from the weight This whole\n[Dm]world, this whole\n[F]world\n[A#]I don't trust\n[A]anything Or\n[Dm]anyone, be-\n[F7]low the sun\n[A#]I don't feel\n[A]anything At\n[Dm]all\n[F7]I'm king of the\n\n[Chorus]\n[A#]clouds, of the\n[A]clouds I get\n[Dm]lifted, I get\n[F]lifted King of the\n[A#]clouds, of the\n[A]clouds I get\n[Dm]lifted, I get\n[F7]lifted\n[A#]\n[A]\n[Dm]\n[F7]\n\n[Verse 2]\n[A#]Some only live to die, I'm a-\n[A]live to fly higher Than\n[Dm]angels in outfields in-\n[F]side of my mind I'm\n[A#]ascendin' these ladders, I'm\n[A]climbin', say goodbye This old\n[Dm]world, this old world\n[F]And when\n[A#]I fall to rise with star-\n[A]dust in my eyes In the\n[Dm]backbone of night, I'm com-\n[F]bustible Dust in the\n[A#]fire when I can't sleep, a-\n[A]wake, I'm too tired This whole\n[Dm]world, this whole\n[F]world\n[A#]I don't trust\n[A]anything Or\n[Dm]anyone, be-\n[F7]low the sun\n[A#]I don't feel\n[A]anything At\n[Dm]all\n[F7]I'm king of the\n\n[Chorus]\n[A#]clouds, of the\n[A]clouds I get\n[Dm]lifted, I get\n[F]lifted King of the\n[A#]clouds, of the\n[A]clouds I get\n[Dm]lifted, I get\n[F7]lifted Imagi-\n[A#]nation, take me somewhere\n[A]I don't know I'm\n[Dm]lost but I better find\n[F7]it alone King of the\n[A#]clouds, of the\n[A]clouds I get\n[Dm]lifted, I get\n[F7]lifted\n\n[Outro]\n[A#]I keep\n[A]searching\n[Dm]Oh, I keep\n[F7]searching\n[A#]I keep\n[A]searching\n[Dm]\n[F7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02225",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A#": {
+      "catalog": [
+        "x13331"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "xx3545",
+        "1-3-1-2-1-1",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "King Of The Clouds",
+  "id": "a3f07c215914ef903528c9fbbada77953c51d5cc755bf15b182faa5d412408da",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 324,
+  "normalizedKey": "panic at the disco|king of the clouds",
+  "playableChords": [
+    "A#",
+    "A",
+    "Dm",
+    "F",
+    "F7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a3f07c215914ef903528c9fbbada77953c51d5cc755bf15b182faa5d412408da",
+    "version": "BCFZ"
+  },
+  "tempo": 99,
+  "title": "King Of The Clouds",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

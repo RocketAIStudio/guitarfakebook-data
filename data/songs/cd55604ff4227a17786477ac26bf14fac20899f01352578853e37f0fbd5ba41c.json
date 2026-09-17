@@ -1,0 +1,119 @@
+{
+  "artist": "P!nk",
+  "artistNormalized": "p nk",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]My attic is\n[G/F#]full of pages, full of crazy\n[Em]Cluttered spaces that you could not\n[C]cross [D]\n[G]My attic is\n[G/F#]full of bones and full of hopeless\n[Em]Young emotions that just won't grow\n[C]up [D]\n\n[Chorus]\n[G]I keep hiding the keys\n[G/F#]in all these\n[Em]Places even I can't find\n[C]  [D]\n[G]Hoping, one day, you'll find\n[G/F#]them all And\n[Em]I wanna let you see inside\n[C]my [D]attic\n[G]\n\n[Verse 2]\n[G]Inside this\n[G/F#]olive skin are paper thin Il-\n[Em]lusions that I'm tougher than I am\n[C]  [D]\n[G]And I'm guarded,\n[G/F#]castle walls from all the falls And\n[Em]break up calls and never should've beens\n[C][D]But\n\n[Chorus]\n[G]don't go pushing too hard\n[G/F#]I'm not so\n[Em]easy to manipulate\n[C]  [D]\n[Em]I will give you all of\n[G/F#]my secrets\n[G]If you promise you can brave\n[C]my [D]attic\n\n[Bridge]\n[Em]And I swear,\n[G/F#]not tryna be vindictive\n[C]I'm just terrified\n[D]that you might see me different\n[Em]You'll change your mind,\n[G/F#]tell me that I'm crazy\n[C]Tell me that I'm okay,\n[D]tell me that you'll stay\n[C]  [D]\n[C]  [D]\n\n[Verse 3]\n[G]'Cause my attic is\n[G/F#]silver plans and one night stands That\n[Em]numbers can't begin to calculate\n[C]  [D]\n[G]My attic is\n[G/F#]up the stairs and waiting there Are\n[Em]lonely nights, they keep me wide awake\n[C]  [D]\n\n[Chorus]\n[G]I keep hiding the keys\n[G/F#]in all these\n[Em]Places even I can't\n[C]find [D]\n[G]Hoping, one day, you'll find\n[G/F#]them all 'Cause I\n[Em]wanna let you see inside\n[C]my [D]attic\n\n[Outro]\n[Em]\n[G/F#]\n[C]\n[D]\n[Em]\n[G/F#]My attic,\n[C]my attic,\n[D]my at-\n[G]tic\nMy at-\ntic,\nmy attic",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/F#": {
+      "catalog": [
+        "220033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "My Attic",
+  "id": "cd55604ff4227a17786477ac26bf14fac20899f01352578853e37f0fbd5ba41c",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 291,
+  "normalizedKey": "p nk|my attic",
+  "playableChords": [
+    "G",
+    "G/F#",
+    "Em",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cd55604ff4227a17786477ac26bf14fac20899f01352578853e37f0fbd5ba41c",
+    "version": "BCFZ"
+  },
+  "tempo": 104,
+  "title": "My Attic",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

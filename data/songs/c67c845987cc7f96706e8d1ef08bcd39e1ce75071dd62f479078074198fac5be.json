@@ -1,0 +1,87 @@
+{
+  "artist": "Orchid",
+  "artistNormalized": "orchid",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n\n[Verse]\n[D#5]This [E5]is [F#5]our [E5][D#5]party, [F#5]\n[D#5]we [E5]pick [D#5]the [E5]record\n[D#5]We [E5]set [F#5]the [E5][D#5]dresscode [F#5]\n[D#5]We [E5]set [D#5]the [E5]dresscode\n\n[Bridge]\n[D#5]And [E5]make [D#5]love [E5]on the\n[D#5]dance floor\n\n[Chorus]\n[D#5]Like it or not, we're the\n[B5]only [C#5]game in\n[D#5]town Like it or not, we're the\n[B5]only [C#5]game\n[D#5]Like it or not, we're the\n[B5]only [C#5]game in\n[D#5]town Like it or not, we're the\n[B5]only [C#5]game\n[D#5]in town We're the\n[B5]only [C#5]game in\n[D#5]town We're the\n[B5]only [C#5]game\n\n[Outro]\n[D#5]in town",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Destination: Blood!",
+  "id": "c67c845987cc7f96706e8d1ef08bcd39e1ce75071dd62f479078074198fac5be",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 73,
+  "normalizedKey": "orchid|destination blood",
+  "playableChords": [
+    "D#5",
+    "E5",
+    "F#5",
+    "B5",
+    "C#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c67c845987cc7f96706e8d1ef08bcd39e1ce75071dd62f479078074198fac5be",
+    "version": "BCFZ"
+  },
+  "tempo": 100,
+  "title": "Destination: Blood!",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

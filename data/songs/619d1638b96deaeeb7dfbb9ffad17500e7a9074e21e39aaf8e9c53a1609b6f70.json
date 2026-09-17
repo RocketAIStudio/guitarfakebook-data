@@ -1,0 +1,118 @@
+{
+  "artist": "Peter, Paul and Mary",
+  "artistNormalized": "peter paul and mary",
+  "capo": "3",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]  [G]\n[Am]\n[F]\n[G]\n[C]  [G]\n[Am]\n[D7/F#]\n[G]\n[C]\n[C7]\n[F]\n[D7/F#]\n[C]  [G]\n[Am]  [F]\n[C]  [G]\n[C][G]It\n\n[Verse 1]\n[C]ain't no use to [G]sit and wonder\n[Am]why, babe\n[F]It don't matter, anyhow\n[G]An' it\n[C]ain't no use to [G]sit and wonder\n[Am]why, babe\n[D7/F#]If you don't know by\n[G]now When your\n[C]rooster crows at the\n[C7]break of dawn\n[F]Look out your window a-\n[D7/F#]nd I'll be gone\n[C]You're the [G]reason I-\n[Am]'m travelin' [F]on\n[C]But don't think [G]twice, it's all\n[C]right [G]It\n\n[Verse 2]\n[C]ain't no use in [G]turnin' on your\n[Am]light, babe\n[F]That light I never know-\n[G]ed It\n[C]ain't no use in [G]turnin' on your\n[Am]light, babe\n[D7/F#]I'm on the dark side of the roa-\n[G]d Still I\n[C]wish there was somethin' you would\n[C7]do or say\n[F]To try and make me change my\n[D7/F#]mind and stay\n[C]We never [G]did too much\n[Am]talkin' [F]anyway\n[C]So don't think [G]twice, it's all\n[C]right [G]It\n\n[Verse 3]\n[C]ain't no use in [G]callin' out my\n[Am]name, gal\n[F]Like you never did befo-\n[G]re It\n[C]ain't no use in [G]callin' out my\n[Am]name, gal\n[D7/F#]I can't hear you any mo-\n[G]re I'm a-\n[C]thinkin' and awond'rin' all the\n[C7]way down the road I\n[F]once loved a woman,\n[D7/F#]a child I'm told I\n[C]give her my [G]heart but she\n[Am]wanted my [F]soul\n[C]But don't think [G]twice, it's all\n[C]right. [G]I'm\n\n[Verse 4]\n[C]walkin' down that [G]long, lonesome\n[Am]road, babe Where I'm\n[F]bound, I can't\n[G]tell But\n[C]goodbye's [G]too good a\n[Am]word, gal So\n[D7/F#]I'll just say fare thee\n[G]well\n[C]I ain't sayin' you treated\n[C7]me unkind You\n[F]could have done better\n[D7/F#]but I don't mi-\n[C]nd You just [G]sorta wasted\n[Am]my precious [F]time\n[C]But don't think [G]twice, it's all\n[C]right [G]\n\n[Outro]\n[C]  [G]\n[Am]  [F]\n[C]  [G]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x32310",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7/F#": {
+      "catalog": [
+        "200212"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Don't Think Twice, It's Alright",
+  "id": "619d1638b96deaeeb7dfbb9ffad17500e7a9074e21e39aaf8e9c53a1609b6f70",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 312,
+  "normalizedKey": "peter paul and mary|don t think twice it s alright",
+  "playableChords": [
+    "C",
+    "G",
+    "Am",
+    "F",
+    "D7/F#",
+    "C7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "619d1638b96deaeeb7dfbb9ffad17500e7a9074e21e39aaf8e9c53a1609b6f70",
+    "version": "BCFZ"
+  },
+  "tempo": 106,
+  "title": "Don't Think Twice, It's Alright",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

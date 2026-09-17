@@ -1,0 +1,77 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D5]\n[G5]We never like to sing\n\n[Chorus]\n[D5]who a's.\n[A5]We love\n[G5]who a's.\n[A5]We're against\n[D5]who a's.\n[E5]We hate\n[D5]whoa's.\n[G5]We prefer\n\n[Verse]\n[D5]a h's\n[A5]And\n[E5]na na na\n[G5]nana na's. Of course\n[E5]yeah, yeah,\n[A5]yeah's are al-\n[D5]right.\nBetween\n[G5]AFI and The\n[A5]Off spring\n[D5]I don't think we need\nanyone else to sing\n[G5]\n[A5]Anymore\n\n[Chorus]\n[D5]who a's.\n[A5]We hate\n[G5]who a's.\n[A5]We're against\n[D5]who a's.\n[E5]We hate\n[D5]whoa's.",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Woah on the Woahs *alt",
+  "id": "43e281ac7468860a57dd4471578db160ebbe9ef9be1ab6805efc11f01b888968",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 84,
+  "normalizedKey": "nofx|woah on the woahs",
+  "playableChords": [
+    "D5",
+    "G5",
+    "A5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Chorus"
+    },
+    {
+      "measure": 11,
+      "name": "Verse"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "43e281ac7468860a57dd4471578db160ebbe9ef9be1ab6805efc11f01b888968",
+    "version": "BCFZ"
+  },
+  "tempo": 215,
+  "title": "Woah on the Woahs",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,119 @@
+{
+  "artist": "Pink",
+  "artistNormalized": "pink",
+  "capo": "1",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]  [F]  [C]\n[C][F][C]There's\n\n[Verse 1]\n[C]something in the way you [F]roll your [C]eyes\n[C]Takes me back to a [F]better [C]time When I saw\n[C][Dm]everything is [G]good But now you're the\n[Dm]only [C]thing that's [G]good\n[C]Tryna stand up on my own [F]two [C]feet This\n[C]conversation ain't comin' [C][F]easily And darling, I\n[Dm]know it's [C]getting [G]late So what do you\n[Dm]say we lea [C]ve this [G]place?\n\n[Chorus]\n[Am]Walk me home in the [F]dead of [C]night\n[Am]I can't be [F]alone with [C]all that's\n[G]on my mind, mhm So\n[Am]say you'll stay with me [C][F]tonight 'Cause there is\n[G]so much wrong [F]going on out-\n[C]side There's\n\n[Verse 2]\n[C]something in the way I wan [F]na [C]cry That\n[C]makes me think we'll [F]make it [C]out alive So come on and\n[Dm]show me [C]how we're [G]good I think that\n[Dm]we could do [C]some good, [G]mhm\n\n[Chorus]\n[Am]Walk me home in the [F]dead of [C]night\n[Am]I can't be [F]alone with [C]all that's\n[G]on my mind So\n[Am]say you'll stay with me [C][F]tonight 'Cause there is\n[G]so much wrong [F]going on out-\n\n[Bridge]\n[Am]side [F][C]\n[Am]  [F]  [C]\n[Dm]  [C]  [G]\n[Dm]  [C]  [G]\n\n[Interlude]\n[C]Walk me home in the [F]dead of [C]night\n[Am]I can't be [F]alone with [C]all that's\n[G]on my mind\n[C]So say you'll stay with [F]me [C]tonight 'Cause there is\n[G]so much wrong [C]going on\n\n[Chorus]\n[Am]Walk me home in the [F]dead of [C]night\n[Am]I can't be [F]alone with [C]all that's\n[G]on my mind So\n[Am]say you'll stay with me [F]tonight [C]'Cause there is\n[G]so much wrong There is\nso much wrong There is\nso much wrong\n[F]going on out-\n[C]side",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Walk Me Home",
+  "id": "7f9bea27e4fb93b5c8f3911d186706bca81ca44b1f4e1b816c50630abda24b62",
+  "key": "D♭",
+  "keyIdentified": true,
+  "lyricEventCount": 275,
+  "normalizedKey": "pink|walk me home",
+  "playableChords": [
+    "C",
+    "F",
+    "Dm",
+    "G",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Bridge"
+    },
+    {
+      "measure": 30,
+      "name": "Interlude"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7f9bea27e4fb93b5c8f3911d186706bca81ca44b1f4e1b816c50630abda24b62",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "Walk Me Home",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

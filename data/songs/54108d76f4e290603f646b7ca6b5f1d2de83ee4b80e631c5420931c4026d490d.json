@@ -1,0 +1,124 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[Cm]\n\n[Verse 1]\n[Cm]On the day the wall\n[Ab/C]came down They\n[Cm]threw the locks on-\n[Ab/C]to the ground And with\n[Fm6]glasses as high we\nraised a cry for\n[Gsus4]freedom had arrived\n[G]\n[Cm]On the day the wall\n[Ab/C]came down The\n[Cm]Ship of Fools had\n[Ab/C]finally run aground\n[Fm6]Promises lit\nup the night like\n[Gsus4]paper doves in\n[G]flight I\n\n[Chorus]\n[F]dreamed you [G]had\nleft [F]my side\nNo warmth [G]not\n[F]even pride re-\nmained [C]\n[F]  [C]\nAnd\n[F]even though [G]you\n[F]needed me It was\nclear that [G]I\ncould [F]not do a\nthing for [C]you\n[C9]\nNow\n\n[Verse 2]\n[Cm]life devalues day\n[Ab/C]by day As\n[Cm]friends and neighbours\n[Ab/C]turn away And there's a\n[Fm6]change that, even\nwith regret,\n[Gsus4]cannot be un-\n[G]done Now\n[Cm]frontiers shift like de-\n[Ab/C]sert sands While\n[Cm]nations wash their\n[Ab/C]blooded hands Of\n[Fm6]loyalty, of\nhistory, in\n[Gsus4]shades of gray\n[G]I\n\n[Chorus]\n[F]woke to [G]the\nsound [F]of drums The\nmusic played, [G]the\n[F]morning sun streamed\nin [C]\n[F]  [C]\nI\n[F]turned and [G]I\nlooked [F]at you And all\nbut the [G]bitted\n[F]residue\nslipped [C]away\nslipped a-\n[C9]way\n\n[Solo]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]\n[C]\n[F]",
+  "diagrams": {
+    "Ab/C": {
+      "catalog": [
+        "x-x-10-8-9-8"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C9": {
+      "catalog": [
+        "8-10-8-9-8-10"
+      ],
+      "catalogCount": 1
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Fm6": {
+      "catalog": [
+        "133131"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus4": {
+      "catalog": [
+        "355533"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "A Great Day For Freedom",
+  "id": "54108d76f4e290603f646b7ca6b5f1d2de83ee4b80e631c5420931c4026d490d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 193,
+  "normalizedKey": "pink floyd|a great day for freedom",
+  "playableChords": [
+    "Cm",
+    "Ab/C",
+    "Fm6",
+    "Gsus4",
+    "G",
+    "F",
+    "C",
+    "C9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "54108d76f4e290603f646b7ca6b5f1d2de83ee4b80e631c5420931c4026d490d",
+    "version": "BCFZ"
+  },
+  "tempo": 84,
+  "title": "A Great Day For Freedom",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

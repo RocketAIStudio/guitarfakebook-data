@@ -1,0 +1,138 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\n[Em]\n[G]\n[Em]\n\n[Verse 1]\n[G]Into the distance\na ribbon of black\n[Em]Stretched to the point of no\nturning back\n[G]A flight of fancy on a\nwindswept field\n[Em]Standing alone my\nsenses reeled\n[G]A fatal attraction is\nholding me fast How can\n[Em]I escape this irre-\nsistible grasp?\n\n[Chorus]\n[C]Can't keep my eyes from the cir-\n[Am]cling skies\n[F]Tongue tied and twisted just an\n[C]earth bound [D]misfit, I\n\n[Solo 1]\n[G]\n[Em]\n\n[Verse 2]\n[G]Ice is forming on the\ntips of my wings\n[Em]Unheeded warnings I\nthought I thought of everything\n[G]No navigator to find\nmy way home\n[Em]Unladened, empty and turned\nto stone\n\n[Chorus]\n[C]A soul in tension that's\n[Am]learning to fly\n[F]Condition grounded but deter-\n[C]mined to try\nCan't keep my eyes from the cir-\n[Am]cling skies\n[F]Tongue tied and twisted just an\n[C]earth bound [D]misfit, I\n\n[Bridge]\n[F]\n[Am]\n[D]\n\n[Verse 3]\n[G]Above the planet on a\nwing and a prayer,\n[Em]My grubby halo, a va-\npor trail in the empty air,\n[G]Across the clouds I see my\nshadow fly\n[Em]Out of the corner of my\nwatering eye\n[G]A dream unthreatened by the\nmorning light\n[Em]Could blow this soul right through the roof\nof the night\n\n[Chorus]\n[C]There's no sensation to com-\n[Am]pare with this Suspend-\n[F]ed animation, a\n[C]state of bliss\nCan't keep my mind from the cir-\n[Am]cling skies\n[F]Tongue tied and twisted just an\n[C]earth bound [D]misfit, I\n\n[Solo 2]\n[G]\n[Em]\n[G]\n[Em]\n[G]\n[Em]\n[G]\n[Em]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Learning To Fly",
+  "id": "f1efc6f9231a5b46f1f982035c7471a27034be28aa02d72f96078c7b8c1d9840",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 277,
+  "normalizedKey": "pink floyd|learning to fly",
+  "playableChords": [
+    "G",
+    "Em",
+    "C",
+    "Am",
+    "F",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 77,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Solo 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f1efc6f9231a5b46f1f982035c7471a27034be28aa02d72f96078c7b8c1d9840",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "Learning To Fly",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

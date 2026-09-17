@@ -1,0 +1,118 @@
+{
+  "artist": "Paul McCartney",
+  "artistNormalized": "paul mccartney",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Db]  [Ab]  [Gb]\n[Db]  [Gb]  [Db]\n[Db]  [Ab]  [Gb]\n[Db]  [Gb]  [Db]\n\n[Verse 1]\n[Db]It was [Gb]written that I\n[Db]would [Ab]love you\n[Db]From the [Gb]moment I\n[Db]opened [Ab]my [Db]eyes\n[Db]And the [Gb]morning when I\n[Db]first [Ab]saw you\n[Db]Gave me life [Gb]under\n[Ab][Db]calico [Db]skies\n\n[Chorus]\n[Db/F]I will\n[Gb6]hold you\n[Ab]for as long as you\n[Bbm]like [Ab]I'll\n[Gb6]hold you\n[Ab]for the rest of my\n[Db]life\n[Db]  [Ab]  [Gb]\n[Db]  [Gb]  [Db]\n[Db]  [Ab]  [Gb]\n[Db]  [Gb]  [Db]\n\n[Verse 2]\n[Db]Always [Gb]looking for ways\n[Db]to [Ab]love you\n[Db]Never [Gb]failing to\n[Db]fight at [Ab]your [Db]side\n[Db]While the [Gb]angels of\n[Db]love protect [Ab]us\n[Db]From the [Gb]innermost\n[Db]secrets [Ab]we [Db]hide\n\n[Chorus]\n[Db/F]I'll [Gb6]hold you\n[Ab]for as long as you\n[Bbm]like [Ab]I'll\n[Gb6]hold you\n[Ab]for the rest of my\n[Db]life [Ab][Gb]\n[Db]  [Gb]  [Db]\n[Db]  [Ab]  [Gb]\n[Db]  [Gb]  [Db]\n[Db]  [Ab]  [Gb]\n[Db]  [Gb]  [Db]\n[Db]  [Ab]  [Gb]\n[Db]  [Gb]  [Db]\n\n[Verse 3]\n[Db]Long live all [Gb]of us\n[Db]crazy [Ab]soldiers\n[Db]Who were born [Gb]under ca\n[Ab][Db]lico [Db]skies\n[Db]May we [Gb]never be called\n[Db]to [Ab]handle\n[Db]All the [Gb]weapons of\n[Db]war we [Db][Ab]despise\n\n[Chorus]\n[Db/F]I'll [Gb6]hold you\n[Ab]for as long as you\n[Bbm]like [Ab]I'll\n[Gb6]hold you\n[Ab]for the rest of my\n[Bbm]life [Ab]I'll\n[Gb6]hold you\n[Ab]for as long as you\n[Bbm]li ke [Ab]I'll\n[Gb6]love you\n[Ab]for the rest of my...\nFor the rest of my\n[Db]life [Ab][Gb]\n[Db]  [Gb]  [Db]\n[Db]  [Ab]  [Gb]\n[Db]  [Ab]  [Db]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x02220",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm": {
+      "catalog": [
+        "x24432",
+        "x-1-3-3-2-1",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Db/F": {
+      "catalog": [
+        "2x0232"
+      ],
+      "catalogCount": 1
+    },
+    "Gb": {
+      "catalog": [
+        "320003",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    },
+    "Gb6": {
+      "catalog": [
+        "320030"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Calico Skies",
+  "id": "6301e4e98a66f7e78c070ff030f0d4b8cbc140c0ff7200877c554d98f8816455",
+  "key": "D♭",
+  "keyIdentified": true,
+  "lyricEventCount": 189,
+  "normalizedKey": "paul mccartney|calico skies",
+  "playableChords": [
+    "Db",
+    "Ab",
+    "Gb",
+    "Db/F",
+    "Gb6",
+    "Bbm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6301e4e98a66f7e78c070ff030f0d4b8cbc140c0ff7200877c554d98f8816455",
+    "version": "BCFZ"
+  },
+  "tempo": 88,
+  "title": "Calico Skies",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

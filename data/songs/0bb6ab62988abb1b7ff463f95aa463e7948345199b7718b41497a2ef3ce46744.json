@@ -1,0 +1,120 @@
+{
+  "artist": "Pearl Jam",
+  "artistNormalized": "pearl jam",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n\n[Verse 1]\n[A]I\ntook a\ndrive today\nTime\nto e-\nmancipate\n[Bm]\nI guess it was the beat-\nings\nMade me\n[A]wise\nBut\n[Bm]I'm not\nabout to give\nthanks\nOr apolo-\n[A]\ngize\n\n[Chorus]\n[Bm]I couldn't breathe\n[G]Holding me down\n[D/F#]Hand on my face\n[G]Pushed to the ground\n[Bm]Enmity gauged\n[G]United by fear\n[D/F#]Forced to endure\n[G]What I could not\nfor-\n\n[Bridge]\n[A]give\n\n[Pre-Verse]\n[A]\n\n[Verse 2]\n[A]I\nseem to\nlook away\nThe wounds\nin the\nmirror waved\n[Bm]\nIt wasn't my surface\nMost de-\n[A]filed\n\n[Chorus]\n[Bm]Head at your feet\n[G]Fool to your crown\n[D/F#]Fist on my plate\n[G]Swallowed it down\n[Bm]Enmity gauged\n[G]United by fear\n[D/F#]Forced to endure\n[G]What I could not\nfor-\n\n[Interlude]\n[A]give,\nyeah\n\n[Bridge]\n[Bm]Saw things,\nsaw things\n[A]Saw things,\nsaw things\n[Bm]Clearer,\nclearer\n[A]Once you\nwere\nin my\nrearview\n\n[Chorus]\n[Bm]mirror\n[G]\n[D/F#]I gathered speed\nfrom you\n[G]fucking with me\n[Bm]Once and for all\n[G]I'm far away\n[D/F#]Hard to believe\n[G]Finally the shades\nare raised\n\n[Post-Chorus]\n[Bm]\n[G]\n[Bm]Hey,\nyeah\n[G]\n[Bm]\n[G]\nRearview\n[Bm]mirror\n[G]\nRearview\n[Bm]mirror\n[G]\nRearview\n[Bm]mirror\n[G]\n\n[Outro]\n[Bm]\n[G]\n[Bm]\n[G]\n[Bm]\n[G]\n[Bm]\n[G]\n[Bm]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "2xx232"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Rearviewmirror",
+  "id": "0bb6ab62988abb1b7ff463f95aa463e7948345199b7718b41497a2ef3ce46744",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 189,
+  "normalizedKey": "pearl jam|rearviewmirror",
+  "playableChords": [
+    "A",
+    "Bm",
+    "G",
+    "D/F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 53,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 74,
+      "name": "Chorus"
+    },
+    {
+      "measure": 90,
+      "name": "Interlude"
+    },
+    {
+      "measure": 110,
+      "name": "Bridge"
+    },
+    {
+      "measure": 126,
+      "name": "Chorus"
+    },
+    {
+      "measure": 142,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 166,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0bb6ab62988abb1b7ff463f95aa463e7948345199b7718b41497a2ef3ce46744",
+    "version": "BCFZ"
+  },
+  "tempo": 159,
+  "title": "Rearviewmirror",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

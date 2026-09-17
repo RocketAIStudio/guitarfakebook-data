@@ -1,0 +1,69 @@
+{
+  "artist": "Orchid",
+  "artistNormalized": "orchid",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 3,
+  "content": "[Verse]\n[D#5]This is\nletter to you:\n\"Hey friend,\nyou don't know me\n[Edim/Bb]But you think you\ndo\nAnd I want you\nto I'm\neverybody's\nfriend\nAnd I'm personally con-\nnected to you\n\n[Chorus]\n[E]This song's\non the house\nAnd this one's\nfor you\nI don't like the way you're\ntreating me\nI wanna fight.\n\n[Outro]\n[Edim/Bb]Settle it right I for-\n[D#5]got your name but\nI'd be hap-\npy to\n[Edim/Bb]Beat you to death with a pool cue.\"",
+  "diagrams": {
+    "D#5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "133211",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "Edim/Bb": {
+      "catalog": [
+        "x231xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Wanna Fight",
+  "id": "a00af9d41528fed074aab584b4261909d3b699715c7ab1aaceb0d6baa84041b0",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 82,
+  "normalizedKey": "orchid|i wanna fight",
+  "playableChords": [
+    "D#5",
+    "Edim/Bb",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a00af9d41528fed074aab584b4261909d3b699715c7ab1aaceb0d6baa84041b0",
+    "version": "BCFZ"
+  },
+  "tempo": 193,
+  "title": "I Wanna Fight",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

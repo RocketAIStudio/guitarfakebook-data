@@ -1,0 +1,126 @@
+{
+  "artist": "Oliver Tree",
+  "artistNormalized": "oliver tree",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am]My day [C]will come,\n[F]I gave [E]too much\n[Am]I sold [C]my soul,\n[F]I'm [E/G#]waiting for\n[Am]my pay [C]in full\n[F]I [E]only want,\n[Am]your [C]dying love,\n[F]I've seen [E/G#]enough\n\n[Chorus]\n[Am]I [C]tried but,\n[F]I don't [E]think so,\n[C][Am]Maybe it was\n[F]me who was [E/G#]fucking up\n[Am]I [C]gave all\n[F]I could [E]give but,\n[Am]It [C]seems like it\n[F]never really [E/G#]was enough\n\n[Verse 1]\n[Am]I feel left out, [C]I don't see how\n[F]My whole life can [E]change in one week\n[Am]I don't mind my [C]own reflection\n[F]I don't see how, [E]you've been let down\n[Am]Don't speak unless you [C]have to\n[F]Why you always seem in a [E]bad mood?\n[Am]Your whole life you had an [C]attitude\n[F]One day, is it so [E]bad for you?\n\n[Pre-Chorus]\n[Am]I'm sorry if [C]I hurt you,\n[G]I'm sorry if it [F]got that bad\n[Am]I'm sorry I can't [C]help you,\n[G]Somebody should've had your back\n\n[Chorus]\n[Am]I [C]tried but,\n[F]I don't [E]think so,\n[C][Am]Maybe it was\n[F]me who was [E/G#]fucking up\n[Am]I [C]gave all\n[F]I could [E]give but,\n[Am]It [C]seems like it\n[F]never really [E/G#]was enough\n\n[Verse 2]\n[Am]I changed my, [C]whole life when\n[F]I learned to, [E]ignore them\n[Am]I changed my, [C]whole life up\n[F]Maybe it [E]was not enough\n[Am]I don't think I'm [C]allowed to\n[F]Make a deal with your [E]selfish ways\n[Am]They're acting [C]vicious out there\n[F]There's lots of [E]demons out here\n\n[Pre-Chorus]\n[Am]I'm sorry if [C]I hurt you,\n[G]I'm sorry if it [F]got that bad\n[Am]I'm sorry I can't [C]help you,\n[G]Somebody should've had your back\n\n[Chorus]\n[Am]I [C]tried but,\n[F]I don't [E]think so,\n[C][Am]Maybe it was\n[F]me who was [E/G#]fucking up\n[Am]I [C]gave all\n[F]I could [E]give but,\n[Am]It [C]seems like it\n[F]never really [E/G#]was enough",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E/G#": {
+      "catalog": [
+        "476454"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hurt",
+  "id": "64615a54d61bd36bd88dc6754374eb90112baf5915227d96ed4f8d4c11c344da",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 320,
+  "normalizedKey": "oliver tree|hurt",
+  "playableChords": [
+    "Am",
+    "C",
+    "F",
+    "E",
+    "E/G#",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "64615a54d61bd36bd88dc6754374eb90112baf5915227d96ed4f8d4c11c344da",
+    "version": "BCFZ"
+  },
+  "tempo": 94,
+  "title": "Hurt",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

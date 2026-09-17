@@ -1,0 +1,152 @@
+{
+  "artist": "Parkway Drive",
+  "artistNormalized": "parkway drive",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[A5]\n\n[Verse 1]\n[A5]\n[A5]  [B5]  [C5]\n[B5]  [A5]  [G5]\n[A5]I've walked streets\na thousand times\nStill this world\nnever seemed [G5]colder\n[A5]Compromised\na thousand times\n[A5][B5][C5]To the\nwill [B5]of [A5]malicious [G5]minds\n\n[Bridge]\n[A5]Reality\nnever hit\nso fucking hard\nCrushed by\nendless despera-\ntion [C][A5]End-\nless [A5][G]surrender [G5]\n\n[Verse 2]\n[A5]Retrace the steps,\nretrace the\nsteps\nIs this what\nI have become?\n[A5]  [B5]  [C5]\n[B5]  [A5]  [G5]\n[A5]Retrace the steps,\nretrace the\nsteps\n\n[Bridge]\n[A5]What the fuck [F5]\n[G5]have [D5]I be-\n[A5]come?\nSecurity, [C5]il-\n[G]lusion for [G5/D]the\n[A5]weak\nRefuge, [C5]\n[G]sought in [G5/D]rou-\n[A5]tine\nAnother gear [C5]in their\n[G]fucking machine [G5/D]\n\n[Verse 3]\n[A5]See, you can win the rat\nrace But you're still\nNothing but a fucking rat\nSo seek that crown\nCause in this\nkingdom of fools True\nignorance reigns sup-\n\n[Bridge]\n[A5]reme\n\n[Verse 4]\n[A5]I see this ci-\nty for\n[A5]what [B5]it [C5]is\n[B5]  [A5]  [F5]\n\n[Bridge]\n[A5]Retrace the steps,\nretrace the\nsteps\n\n[Verse 5]\n[A5]A monument\nto the\ndepths of [A5][C]human\n[G]misery [A5][G5]\n[A5]Retrace the steps,\nretrace the\nsteps\n\n[Bridge]\n[A5]Retrace the steps\nRetrace the steps\nRetrace the steps\nRetrace the\n\n[Outro]\n[A5]steps\n[F5]  [G5]\n[A5]\nWhat\n[F5]have we [G5]be-\n[A5]come?\n[F5]  [G5]\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x875xx",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C5": {
+      "catalog": [
+        "x-8-10-10-x-x",
+        "333xxx"
+      ],
+      "catalogCount": 2
+    },
+    "D5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "888xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "x755xx",
+        "x320xx",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "10-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5/D": {
+      "catalog": [
+        "535xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Unrest",
+  "id": "32237c731e6aa3190cbfd07e25659c7eeef05e61b5663e0b3a123157898d995c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 206,
+  "normalizedKey": "parkway drive|unrest",
+  "playableChords": [
+    "A5",
+    "B5",
+    "C5",
+    "G5",
+    "C",
+    "G",
+    "F5",
+    "D5",
+    "G5/D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 59,
+      "name": "Bridge"
+    },
+    {
+      "measure": 63,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 67,
+      "name": "Bridge"
+    },
+    {
+      "measure": 71,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 79,
+      "name": "Bridge"
+    },
+    {
+      "measure": 86,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "32237c731e6aa3190cbfd07e25659c7eeef05e61b5663e0b3a123157898d995c",
+    "version": "BCFZ"
+  },
+  "tempo": 222,
+  "title": "Unrest",
+  "tuning": "A E A D F# B",
+  "variantRole": "primary"
+}

@@ -1,0 +1,104 @@
+{
+  "artist": "Patsy Cline",
+  "artistNormalized": "patsy cline",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C]\n[F7]  [G7]\n[C]\n[G7]I go out\n\n[Verse 1]\n[C]walking after\n[C7]midnight Out in the\n[F7]moonlight just\nlike we used to do I'm always\n[C]walking after\n[F7]midnight, [G7]searching for\n[C]you\n[G7]I walk for\n[C]miles along the\n[C7]highway Well, that's just\n[F7]my way of\nsaying, I love you I'm always\n[C]walking after\n[F7]midnight, [G7]searching for\n[C]you\n[C7]I stopped to\n\n[Chorus]\n[F7]see a weeping willow\nCrying on his pillow\n[C]Maybe he's crying for\nme And\n[F7]as the skies turn gloomy\nNight winds whisper to me I'm\n[C]lonesome as I can\n[G7]be I go out\n\n[Verse 2]\n[C]walking after\n[C7]midnight Out in the\n[F7]starlight Just\nhoping you may be somewhere\n[C]walking After\n[F7]midnight [G7]searching for\n[C]me\n\n[Break]\n[C]\n[F7]  [G7]\n[C]\n\n[Chorus]\n[C7]I stopped to\n[F7]see a weeping willow\nCrying on his pillow\n[C]Maybe he's crying for\nme And\n[F7]as the skies turn gloomy\nNight winds whisper to me I'm\n[C]lonesome as I can\n[G7]be I go out\n\n[Outro]\n[C]walking after\n[C7]midnight, out in the\n[F7]starlight Just\nhoping maybe you're somewhere\n[C]Walking after\n[F7]midnight, [G7]searching for\n[C]me [F7]\n[G7]  [C]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x35353",
+        "x-3-2-3-1-0",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "131211",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "G7": {
+      "catalog": [
+        "353433",
+        "3-2-0-0-0-1",
+        "x-x-5-7-6-7",
+        "x-10-9-10-8-7",
+        "x-10-12-10-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Walking After Midnight",
+  "id": "1a01e9a1400a11f19d008f0b2186968f416c9e819fec65174b4d9b3e45fc849c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 217,
+  "normalizedKey": "patsy cline|walking after midnight",
+  "playableChords": [
+    "C",
+    "F7",
+    "G7",
+    "C7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Chorus"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Break"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 50,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1a01e9a1400a11f19d008f0b2186968f416c9e819fec65174b4d9b3e45fc849c",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Walking After Midnight",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

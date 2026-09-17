@@ -1,0 +1,131 @@
+{
+  "artist": "Papa Roach",
+  "artistNormalized": "papa roach",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[E5]  [C5]\n[B5]  [A#5]  [A5]\n[E5]  [C5]\n[B5]I [A#5]suffer well [A5]\n\n[Chorus]\n[E5]  [C5]\n[B5]I [A#5]suffer well [A5]\n[E5]  [C5]\n[B5]I [A#5]suffer [A5]\n\n[Verse]\n[E5]I've killed my fears [A5]a thousand\n[D5]times, I've been oppressed [A#5][G5]\n[E5]I'm digging in [A5]and found an-\n[D5]other reason to [A#5]confess [G5]\n[E5]I set a fire [A5]inside my\n[D5]house so I can see [A#5]the mess [G5]\n[E5]Just take it all [A5]and burn it all,\n[D5]until there's [A#5]nothing [G5]\n\n[Chorus]\n[E5]left [C5]\n[B5]I [A#5]suffer well [A5]\n[E5]  [C5]\n[B5]I [A#5]suffer well [A5]\n[E5]  [C5]\n[B5]I [A#5]suffer well [A5]\n[E5]  [C5]\n[B5]I [A#5]suffer [A5]\n\n[Bridge]\n[Dmadd9]Got amnesia, more than ever,\n'cause I feel [A5]possessed [G5][A#5]\n[Dmadd9]Razor blades can never heal this\nheart that's such a [A5][G5]mess [A#5]\n\n[Outro]\n[E5]\n[A5][G5][A#5]A\n[E5]mess\n[C5]  [C#5]  [D5]\n[E5]I suffer well\n[E5][A5]I [G5]suffer [A#5]\n[E5]well I suffer well\n[C5]I [C#5]suffer [D5][C5][C#5][D5]\n[C5]well [C#5][D5][Ddim]\n\n[Outro 2]\n[E5]Well?",
+  "diagrams": {
+    "A#5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "A5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "C#5": {
+      "catalog": [
+        "x688xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "222xxx",
+        "x799xx"
+      ],
+      "catalogCount": 2
+    },
+    "Ddim": {
+      "catalog": [
+        "x7898x"
+      ],
+      "catalogCount": 1
+    },
+    "Dmadd9": {
+      "catalog": [
+        "x-7-9-11-8-6"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "444xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "I Suffer Well",
+  "id": "868b2e87089f21da3cd532b38b37af3e4dc2a0a2f1084e07910a71724697fccf",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 125,
+  "normalizedKey": "papa roach|i suffer well",
+  "playableChords": [
+    "E5",
+    "C5",
+    "B5",
+    "A#5",
+    "A5",
+    "D5",
+    "G5",
+    "Dmadd9",
+    "C#5",
+    "Ddim"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Bridge"
+    },
+    {
+      "measure": 29,
+      "name": "Outro"
+    },
+    {
+      "measure": 38,
+      "name": "Outro 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "868b2e87089f21da3cd532b38b37af3e4dc2a0a2f1084e07910a71724697fccf",
+    "version": "BCFZ"
+  },
+  "tempo": 152,
+  "title": "I Suffer Well",
+  "tuning": "C G C F A D",
+  "variantRole": "primary"
+}

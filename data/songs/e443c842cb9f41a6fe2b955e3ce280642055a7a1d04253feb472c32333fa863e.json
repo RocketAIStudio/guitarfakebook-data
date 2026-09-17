@@ -1,0 +1,103 @@
+{
+  "artist": "Radiohead",
+  "artistNormalized": "radiohead",
+  "capo": "3",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D]\n[Gm]\n[D]\n[Gm]\n[D]\n[Gm]\n[D]\n[Gm]A\n\n[Verse 1]\n[D]heart that's\nfull up like a\n[Gmaj7/B]landfill A\njob that slowly\n[Em]kills you\n[A]Bruises that won't he-\n[D]al\n[Gm]\n[D]You look so\ntired, unhappy\n[Gmaj7/B]Bring down the\ngovernment\n[Em]They don't,\n[A]they don't speak for u-\n[D]s\n[Gm]\n\n[Chorus]\n[D]I'll take a\nquiet life A\n[Gmaj7/B]handshake of\ncarbon monoxide With\n[Em]no alarms and [A]n-\no surprises\n[Em]No alarms and [A]n-\no surprises\n[Em]No alarms and [A]n-\no surprises\n[D]Si-\nlent, [Gm]\n[D]si-\nlent [Gm]\n[D]This is my\nfinal fit My fin-\n[Gmaj7/B]al\nbellyache\n[Em]No alarms and [A]n-\no surprises\n[Em]No alarms and [A]n-\no surprises\n[Em]No alarms and [A]n-\no surprises, plea-\n[D]se\n[Gm]\n\n[Interlude]\n[A]\n[Gm]\n[A]\n[Gm]\n[Em]\n[Gm]\n\n[Chorus]\n[D]Such a\npretty house And su-\n[Gmaj7/B]ch a\npretty garden\n[Em]No alarms and [A]n-\no surprises\n[Em]No alarms and [A]n-\no surprises\n[Em]No alarms and [A]n-\no surprises, plea-\n[D]se",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "310033",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    },
+    "Gmaj7/B": {
+      "catalog": [
+        "x20032"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "No surprises *alt 3",
+  "id": "e443c842cb9f41a6fe2b955e3ce280642055a7a1d04253feb472c32333fa863e",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 173,
+  "normalizedKey": "radiohead|no surprises",
+  "playableChords": [
+    "D",
+    "Gm",
+    "Gmaj7/B",
+    "Em",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Interlude"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e443c842cb9f41a6fe2b955e3ce280642055a7a1d04253feb472c32333fa863e",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "No surprises",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

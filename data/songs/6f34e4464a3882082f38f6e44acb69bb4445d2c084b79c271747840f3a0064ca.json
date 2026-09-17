@@ -1,0 +1,122 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\n[G]\n[Cadd9]\n[G]\n[Cadd9]\n[G]\n[Cadd9]\n[G]\n[Cadd9]\n[D]\n[G]\n\n[Verse 1]\n[G]Her love rains\ndown on me ea-\nsy as the breeze\nI\nlisten to her breath-\ning, it sounds\nlike the waves on the\nsea I was\n[C]thinking all about\nher burn-\ning with rage and de-\nsire We were\n[G]spinning into dark-\nness, and the earth\nwas on fire\nShe could\n\n[Chorus]\n[Fadd9]take it\nback, she might\n[C/E]take it\nback someday\n[G]\nSo I\n\n[Verse 2]\n[G]spy on her, I\nlied to her, I made\npromises I cannot keep\nThen I\nhear her laughter ris-\ning, ris-\ning from the deep\nAnd I\n[C]make her prove her love\nfor me, I take all\nthat I can take\nAnd I\n[G]push her to the limit\nto see\nif she will break\nShe might\n\n[Chorus]\n[Fadd9]take it\nback, she could\n[C/E]take it\nback someday\n[G]\n\n[Interlude]\n[C]\n[G]\n[C]\n[G]\n[C]\n[G]\n[C]\n[G]\n[C]\n[G]\n[C]\n[G]\n[C]\n[G]\n[C]\n[G]\nNow\n\n[Verse 3]\n[G]I have seen the warn-\nings, scream-\ning from all sides\nIt's\neasy to ignore\nthem, God\nknows I've tried\nAll\n[C]of this tempta-\ntion, you know it\nturned my faith to lies\nUntil I\n[G]couldn't see the dan-\nger or hear\nthe rising tide\nShe can\n\n[Chorus]\n[Fadd9]take it\nback, she will\n[C/E]take it\nback someday\n[G]\nShe can\n[Fadd9]take it\nback, she will\n[C/E]take it\nback someday\n[G]\n[C]\n[G]\nShe will\n[Fadd9]take it\nback, she will\n[C]take\nit back someday\n\n[Outro]\n[Cadd9]\n[G]\n[C]\n[G]\n[C]\n[G]\n[C]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/E": {
+      "catalog": [
+        "032010"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9": {
+      "catalog": [
+        "x30010"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Fadd9": {
+      "catalog": [
+        "xx3213"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Take It Back *alt",
+  "id": "6f34e4464a3882082f38f6e44acb69bb4445d2c084b79c271747840f3a0064ca",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 229,
+  "normalizedKey": "pink floyd|take it back",
+  "playableChords": [
+    "G",
+    "Cadd9",
+    "D",
+    "C",
+    "Fadd9",
+    "C/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Interlude"
+    },
+    {
+      "measure": 115,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 131,
+      "name": "Chorus"
+    },
+    {
+      "measure": 151,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6f34e4464a3882082f38f6e44acb69bb4445d2c084b79c271747840f3a0064ca",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "Take It Back",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

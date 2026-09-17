@@ -1,0 +1,138 @@
+{
+  "artist": "Radiohead",
+  "artistNormalized": "radiohead",
+  "capo": "No capo",
+  "chordPositionCount": 34,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\n[Dm]  [Dm/C]\n[G7/B]  [Dmadd11]\n[C]  [C/B]\n[Am]\n[F]  [G]\n[E]  [Am]\n[C]  [G]\n[C]I\n\n[Verse 1]\n[Dm]must get out [Dm/C]once in a while\n[G7/B]  [Dmadd11]\n[C]Everything is [C/B]starting to die\n[Am]\n[F]Thedust [G]settles,\n[E]the worms dig [Am]\n[C]Spiders crawl [G]over the bed\n[C]I\n\n[Verse 2]\n[Dm]must get out [Dm/C]once in a while\n[G7/B][Dmadd11]I\n[C]eat all day and [C/B]now I'm fat\n[Am]\n[F]Yesterday's [G]meal is\n[E]hugging the plate [Am]You\n[C]never wash up [G]after yourself\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/B": {
+      "catalog": [
+        "x2x010"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Dm/C": {
+      "catalog": [
+        "x3x231"
+      ],
+      "catalogCount": 1
+    },
+    "Dmadd11": {
+      "catalog": [
+        "3xx031"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G7/B": {
+      "catalog": [
+        "x2x031"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You Never Wash Up After Yourself *alt",
+  "id": "de947686279c71fe31687b95a4fcb3e6c22ae2d76fc159e62411b1933db01f86",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 64,
+  "normalizedKey": "radiohead|you never wash up after yourself",
+  "playableChords": [
+    "Dm",
+    "Dm/C",
+    "G7/B",
+    "Dmadd11",
+    "C",
+    "C/B",
+    "Am",
+    "F",
+    "G",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "de947686279c71fe31687b95a4fcb3e6c22ae2d76fc159e62411b1933db01f86",
+    "version": "BCFZ"
+  },
+  "tempo": 58,
+  "title": "You Never Wash Up After Yourself",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

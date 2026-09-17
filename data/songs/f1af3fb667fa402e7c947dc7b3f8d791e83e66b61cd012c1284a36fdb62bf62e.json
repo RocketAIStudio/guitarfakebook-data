@@ -1,0 +1,101 @@
+{
+  "artist": "Paramore",
+  "artistNormalized": "paramore",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[A]\n[C#m]\n[A]\n[C#m]\n\n[Verse 1]\n[A]And here we go again\n[C#m]With all the things you\n[A]said And not a minute spent\n[C#m]To think that we'd re-\n[A]gret So we just take it back,\n[C#m]These words and hold our\n[A]breath Forget the\n[C#m]things we swore we\n\n[Chorus]\n[A]meant\n[C#m]I'll write you\n[D#m]just to let you know\n[A]\nthat I'm alright\n[C#m]Can't say I'm\n[D#m]sad to see you\n[A]go\nCause I'm not.\n[C#m]\n[D#m]Well, I'm not.\n[A]\n[C#m]\n[D#m]\n\n[Pre-Verse]\n[A]\n[C#m]\n[A]\n[C#m]\n\n[Verse 2]\n[A]And here we go again\n[C#m]With all the things we\n[A]did And now I'm wondering\n[C#m]Just who would I have\n[A]been To be the one attached\n[C#m]At all time to your\n[A]hip? Forget the\n[C#m]things we swore we\n\n[Chorus]\n[A]meant.\n[C#m]I'll write you\n[D#m]just to let you know\n[A]\nthat I'm alright\n[C#m]Can't say I'm\n[D#m]sad to see you\n[A]go\nCause I'm not,\n[C#m]\n[D#m]Well, I'm not.\n[A]\n[C#m]\n[D#m]\n\n[Bridge]\n[A]\n[C#m]\n[A]\n[C#m]\n\n[Guitar Solo]\n[A]\n[C#m]\n[A]\n[C#m]\n\n[Chorus]\n[A]\n[C#m]I'll write you\n[D#m]just to let you know\n[A]\nthat I'm al right\n[C#m]Can't say I'm\n[D#m]sad to see you\n[A]go\nCause I'm\n[C#m]not,\n[D#m]Well, I'm not.\n[A]\nI'm not,\n[C#m]\n[D#m]I'm\n\n[Outro]\n[A]not.\n[C#m]\n[A]\n[C#m]\n[A]\n[C#m]\n[A]\n[C#m]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x13331",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x57765",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "x79987"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Here We Go Again",
+  "id": "f1af3fb667fa402e7c947dc7b3f8d791e83e66b61cd012c1284a36fdb62bf62e",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 170,
+  "normalizedKey": "paramore|here we go again",
+  "playableChords": [
+    "A",
+    "C#m",
+    "D#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Bridge"
+    },
+    {
+      "measure": 67,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 75,
+      "name": "Chorus"
+    },
+    {
+      "measure": 91,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f1af3fb667fa402e7c947dc7b3f8d791e83e66b61cd012c1284a36fdb62bf62e",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Here We Go Again",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "primary"
+}

@@ -1,0 +1,120 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[Eaug]\n[C#maj7]\n[Bb11]\n[G]\n[Gaug]Ooooh,\n\n[Verse]\n[Eaug]babe Don't leave me now.\n[C#maj7]\nDon't say it's the end of the road.\n[Bb11]Re-\nmember the flowers I sent. I need\n[G]you, babe To\n[Gaug]put to the shredder In front of my friends Ooooh\n[Eaug]Babe. Dont leave me now.\n[C#maj7]How could you go?\n[Bb11]When you\nknow how I need you Need you, need you,\n[G]need you, need you, need you, need you To\nbeat to a pulp on a [Gaug]Saturday night Ooooh\n[Eaug]Babe. Don't leave me now\n[C#maj7]\nHow could you treat me this way?\n[Bb11]Running away.\n[G]Oooooh Babe!\n[Gaug]Why are you running away?\n\n[Chorus]\n[Dsus2]Oooooh\n[Am]Babe!\n[Dsus2]Oooooh\n[Am]Babe!\n[Dsus2]Oooooh\n[Am]Babe!\n[Dsus2]Oooh,\n[F]oooh, [G]oooh\n\n[Outro]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb11": {
+      "catalog": [
+        "666768"
+      ],
+      "catalogCount": 1
+    },
+    "C#maj7": {
+      "catalog": [
+        "x46564",
+        "x-4-3-1-1-1",
+        "9-8-6-6-6-8",
+        "9-11-10-10-9-9",
+        "x-x-11-13-13-13"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "Eaug": {
+      "catalog": [
+        "032110"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "320033",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gaug": {
+      "catalog": [
+        "321003"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Don't leave me now *alt",
+  "id": "70a786d018658dbb370773fdb216107a5e5bd80d3ce53bd37acd57aaf568253c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 112,
+  "normalizedKey": "pink floyd|don t leave me now",
+  "playableChords": [
+    "Eaug",
+    "C#maj7",
+    "Bb11",
+    "G",
+    "Gaug",
+    "Dsus2",
+    "Am",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "70a786d018658dbb370773fdb216107a5e5bd80d3ce53bd37acd57aaf568253c",
+    "version": "BCFZ"
+  },
+  "tempo": 61,
+  "title": "Don't leave me now",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

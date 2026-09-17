@@ -1,0 +1,90 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 4,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n\n[Verse 1]\n[E5]Timmy the Turtle Ya\nknow he was Tim\nTimmy the Turtle He\nsang for The Grim\nTimmy the Turtle Ya\nknow he was Tim\nTimmy the Turtle\n\n[Verse 2]\n[E5]Timmy the Turtle Ya\nknow he was Tim\nTimmy the Turtle He\nsang for The Grim\nTimmy the Turtle Ya\nknow he was Tim\nTimmy the Turtle\nToo\n\n[Chorus]\n[G5]slow He\nsat in turtle [A5]goo\n\n[Break]\n[E5]\n\n[Verse 3]\n[E5]Timmy the Turtle He's\ngivin' 'em hell\nTimmy the Turtle He's\nout of his shell\nTimmy the Turtle He's\ngivin' 'em hell He's\nTimmy the Turtle\n\n[Verse 4]\n[E5]Timmy the Turtle He's\ngivin' 'em hell\nTimmy the Turtle He's\nout of his shell\nTimmy the Turtle He's\ngivin' 'em hell\nTimmy the Turtle\nToo\n\n[Chorus]\n[G5]slow He\nsat in turtle [A5]goo\n\n[Outro]\n[E5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "02xxxx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Timmy the Turtle",
+  "id": "f46a4d427d9af01a42e6b7269de7e4d59f2ced85b9c642203b5789e540d5a478",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 157,
+  "normalizedKey": "nofx|timmy the turtle",
+  "playableChords": [
+    "E5",
+    "G5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Break"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 48,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f46a4d427d9af01a42e6b7269de7e4d59f2ced85b9c642203b5789e540d5a478",
+    "version": "BCFZ"
+  },
+  "tempo": 154,
+  "title": "Timmy the Turtle",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

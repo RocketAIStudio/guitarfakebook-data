@@ -1,0 +1,120 @@
+{
+  "artist": "Paramore",
+  "artistNormalized": "paramore",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[A]\n[A]\n[F#m]\n[D]\n[E]\n\n[Verse 1]\n[F#m]So this is\n[E]how it goes\n[D]\nWell I,\n[F#m]I would have\n[E]never known\n[D]\n[F#m]And if it\n[E]ends today\n[D]Well,\nI'll still say that\n[F#m]you shine\n[E]brighter than\n[D]anyone\n\n[Chorus]\n[A]Now I think we're\ntaking this too far\n[F#m]Don't you know\nthat\n[D]it's not this hard?\nWell it's\n[E]not this hard\n[A]But if you take what's\nyours and I take mine\n[F#m]Must we go\nthere?\n[D]Please not this time.\nNo,\n[E]not this time.\n\n[Verse 2]\n[F#m]Well this is\n[E]not your fault\n[D]But\nif I'm without\n[F#m]you Then I will\n[E]feel so\n[D]small\n[F#m]And if you\n[E]have to go\n[D]Well\nalways know that\n[F#m]you shine\n[E]brighter than\n[D]anyone does.\n\n[Chorus]\n[A]Now I think we're\ntaking this too far\n[F#m]Don't you know\nthat\n[D]it's not this hard?\nWell it's\n[E]not this hard\n[A]But if you take what's\nyours and I take mine\n[F#m]Must we go\nthere?\n[D]Please not this time.\nNo,\n[E]not this time.\n\n[Bridge]\n[F#m]\n[E]\n[D]\n[E]\n[F#m]\n[E]\n[D]\n[E]If\n\n[Interlude]\n[F#m]you run\n[E]a-\n[D]way now,\n[E]Will\n[F#m]you come\n[E]back [D]around?\n\n[Verse 3]\n[F#m]And if you\n[E]ran away,\n[D]\nI'd still wave good-\n[F#m]bye Watching you\n[E]shine bright.\n[D]\n\n[Chorus]\n[A]Now I think we're\ntaking this too far\n[F#m]Don't you know\nthat\n[D]it's not this hard?\nWell it's\n[E]not this hard\n[A]But if you take what's\nyours and I take mine\n[F#m]Must we go\nthere?\n[D]Please not this time.\nNo,\n[E]not this time.\n\n[Bridge]\n[F#m]\n[E]\n[D]\n[E]\n[F#m]\n[E]\n[D]\n[E]\n\n[Outro]\n[F#m]And I'll wave good-\n[E]bye Watching you\n[D]shine bright\n[E]\n[F#m]And I'll wave good-\n[E]bye [D]tonight.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x-x-7-9-10-9",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "x-9-11-11-10-9",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Brighter",
+  "id": "7174eb98291e83f215eb9728940ead52a310822e23d52e9759505ff0978a1a32",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 248,
+  "normalizedKey": "paramore|brighter",
+  "playableChords": [
+    "A",
+    "F#m",
+    "D",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Bridge"
+    },
+    {
+      "measure": 85,
+      "name": "Interlude"
+    },
+    {
+      "measure": 93,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 101,
+      "name": "Chorus"
+    },
+    {
+      "measure": 117,
+      "name": "Bridge"
+    },
+    {
+      "measure": 125,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7174eb98291e83f215eb9728940ead52a310822e23d52e9759505ff0978a1a32",
+    "version": "BCFZ"
+  },
+  "tempo": 147,
+  "title": "Brighter",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

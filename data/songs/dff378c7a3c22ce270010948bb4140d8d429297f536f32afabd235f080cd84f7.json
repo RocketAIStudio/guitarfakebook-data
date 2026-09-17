@@ -1,0 +1,123 @@
+{
+  "artist": "Racoon",
+  "artistNormalized": "racoon",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Bbm7]\n[Ab]\n[Bbm7]\n[Ab]\n\n[Verse 1]\n[Bbm7]Clouds above go sailing\n[Ab]by\n[Bbm7]I found my meaning in this\n[Ab]life\n[Bbm7]Clear white is flying in my eye-\n[Ab]s Underneath a blue, blue sky\n[Bbm7]The waves come rolling i-\n[Ab]n with the tide\n\n[Chorus]\n[Ebm]I've been [Db]away too\n[Ab]long\n[Ebm]And every day [Db]I missed you\n[Ab]more\n[Ebm]You look [Db]like you did befo-\n[Ab]re, only prettier\n[Gb]Every day [Db]I love you mo-\n[Ab]re\n\n[Verse 2]\n[Bbm7]All the people rushing\n[Ab]by, by, by\n[Bbm7]Looking for meaning in this\n[Ab]life\n[Bbm7]So used up, and blinded by lies They're\n[Ab]underneath the blue, blue sky\n[Bbm7]The way they seldom seem to smi-\n[Ab]le I don't know why\n\n[Chorus]\n[Ebm]'Cause I've been [Db]away too\n[Ab]long\n[Ebm]And every day [Db]I missed you\n[Ab]more\n[Ebm]You look [Db]like you did befo-\n[Ab]re, only prettier\n[Gb]Every day [Db]I love you mo-\n[Ab]re I love you\n\n[Post-Chorus]\n[Bbm7]mo-\n[Ab]re Every day\n[Bbm7]I love you more, and\n[Ab]more\n\n[Solo]\n[Bbm7]\n[Ab]\n[Bbm7]\n[Ab]\n[Bbm7]\n[Ab]\n[Bbm7]\n[Ab]\n\n[Chorus]\n[Ebm]'Cause I've been [Db]away too\n[Ab]long\n[Ebm]And every day [Db]I missed you\n[Ab]more\n[Ebm]You look [Db]like you did befo-\n[Ab]re, only prettier\n[Ebm]And every [Db]day I missed you\n[Ab]more And more and more and more and mo-\n[Ebm]re I've been [Db]away too lo-\n[Ab]ng\n[Ebm]And every day [Db]I missed you\n[Ab]more\n[Ebm]Oh you [Db]look like you did be-\n[Ab]fore, only prettie-\n[Gb]r Every day [Db]I love you mo-\n[Ab]re I love you\n\n[Outro]\n[Bbm7]mo-\n[Ab]re Every day\n[Bbm7]I love you mo-\n[Ab]re.",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x02220",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm7": {
+      "catalog": [
+        "x24232",
+        "x-1-3-1-2-1",
+        "6-8-6-6-6-6",
+        "x-x-8-10-9-9",
+        "x-13-15-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "xx0232",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Ebm": {
+      "catalog": [
+        "022000",
+        "x-x-1-3-4-2",
+        "x-6-8-8-7-6",
+        "11-13-13-11-11-11",
+        "x-x-13-15-16-14"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "320003",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Love you more",
+  "id": "dff378c7a3c22ce270010948bb4140d8d429297f536f32afabd235f080cd84f7",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 275,
+  "normalizedKey": "racoon|love you more",
+  "playableChords": [
+    "Bbm7",
+    "Ab",
+    "Ebm",
+    "Db",
+    "Gb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Solo"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "dff378c7a3c22ce270010948bb4140d8d429297f536f32afabd235f080cd84f7",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Love you more",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

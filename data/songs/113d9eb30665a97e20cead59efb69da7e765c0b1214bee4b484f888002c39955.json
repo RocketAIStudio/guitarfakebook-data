@@ -1,0 +1,134 @@
+{
+  "artist": "Placebo",
+  "artistNormalized": "placebo",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[C5]\n[G5]\n[C5]\n[G5]\n\n[Verse 1]\n[C5]Cast your\nmind back to the days,\n[F5]When I pre-\ntend' I was OK.\n[A5]I had so\nvery much to s-\n[G]ay, About my\ncrazy livin'.\n[C5]Now that I've\nstared into the void,\n[F5]So many\npeople, I've annoy-\n[A5]ed. I have to\nfind a middle w-\n[G]ay, A better\n[C5]way of [Baug]givin'.\n\n[Bridge]\n[C5]\n[G5]\n[C5]\n[G5]\n\n[Verse 2]\n[C5]So I\nhaven't given up,\n[F5]But all my\nchoices, my good luck...\n[A5]Appear to\ngo and get me\n[G]stuck, In an\nopen prison.\n[C5]Now I am\ntryin' to break free,\n[F5]Be in a\nstate of empathy.\n[A5]Find the\ntrue and inner me,\n[G]Eradi-\n[C5]cate this [Baug]schism.\n\n[Bridge]\n[C5]\nNoone can take it a-\n[G5]way from me,\n[C5]And\nnoone can tear it apart.\n[G5]\n\n[Chorus]\n[D5]'Cause a\nheart that hurts,\n[F5]Is a\nheart that works.\n[D5]A\nheart that hurts,\n[F5]Is a\n[Ab5]heart [G5]that works.\n\n[Break]\n[C5]\n\n[Chorus]\n[D5]A\nheart that hurts,\n[F5]Is a\nheart that works.\n\n[Bridge]\n[C5]\nNoone can take it a-\n[G5]way from me,\n[C5]\nNoone can tear it apart.\n[G5]\n[C5]It\nmay be elaborate fan-\n[G5]tasy,\n[C5]But it's the\nperfect place to start.\n[G5]\n\n[Chorus]\n[D5]'Cause a\nheart that hurts,\n[F5]Is a\nheart that works.\n[D5]A\nheart that hurts,\n[F5]Is a\n[Ab5]heart [G5]that\n[C5]works.",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "Ab5": {
+      "catalog": [
+        "x-11-13-13-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Baug": {
+      "catalog": [
+        "x2544x"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx",
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "G": {
+      "catalog": [
+        "3200xx",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "355xxx",
+        "x-10-12-12-x-x"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bright Lights",
+  "id": "113d9eb30665a97e20cead59efb69da7e765c0b1214bee4b484f888002c39955",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 223,
+  "normalizedKey": "placebo|bright lights",
+  "playableChords": [
+    "C5",
+    "G5",
+    "F5",
+    "A5",
+    "G",
+    "Baug",
+    "D5",
+    "Ab5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 51,
+      "name": "Bridge"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Break"
+    },
+    {
+      "measure": 71,
+      "name": "Chorus"
+    },
+    {
+      "measure": 75,
+      "name": "Bridge"
+    },
+    {
+      "measure": 91,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "113d9eb30665a97e20cead59efb69da7e765c0b1214bee4b484f888002c39955",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "Bright Lights",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

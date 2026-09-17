@@ -1,0 +1,112 @@
+{
+  "artist": "Oliver Tree",
+  "artistNormalized": "oliver tree",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Chorus]\n[Bm]Please, don't [D]let me down\n[F#]  [G]\n[Bm]Please, don't [D]let me down\n[F#]You better [G]come around\n\n[Verse 1]\n[D]You save [Bm]yourself\n[F#]I'll save [G]myself this time around\n[D]You save [Bm]yourself\n[F#]I'll save you [G]too next time around\n\n[Pre-Chorus]\n[D][Bm]I'm not around,\n[F#]I haven't [G]been here for a whi-\n[D]le [Bm]You know\n[F#]I'll never be back now [G]\n\n[Chorus]\n[D]Please, don't [Bm]let me down\n[F#]  [G]\n[D]Please, don't [Bm]let me down\n[F#]You better [G]come around\n\n[Bridge]\n[D]ah ah ah [Bm]ah ah\n[F#]ah ah ah [G]ah\n[D]ah ah ah [Bm]ah ah\n[F#]ah ah ah [G]ah I' ll come around\n\n[Verse 2]\n[D]It's the [Bm]same old shit\n[F#]I'm getting [G]sick of it\n[D]It's still the [Bm]same old shit\n[F#]Stop putting [G]up with it\n\n[Pre-Chorus]\n[D]Somehow [Bm]I've seen\n[F#]You [G]someone else\n[D]Somehow [Bm]I've seen\n[F#]You turned into [G]someone else\n\n[Chorus]\n[D]Please, don't [Bm]let me down\n[F#]  [G]\n[D]Please, don't [Bm]let me down\n[F#]You better [G]come around\n\n[Outro]\n[D]ah ah ah [Bm]ah ah\n[F#]ah ah ah [G]ah\n[D]ah ah ah [Bm]ah ah\n[F#]ah ah ah [G]ah I' ll come around",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Let Me Down",
+  "id": "433073fb672a98b8f9e00c0fecdce82af363d80fba45528985da3f70a66c7c80",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 180,
+  "normalizedKey": "oliver tree|let me down",
+  "playableChords": [
+    "Bm",
+    "D",
+    "F#",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Chorus"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "433073fb672a98b8f9e00c0fecdce82af363d80fba45528985da3f70a66c7c80",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Let Me Down",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

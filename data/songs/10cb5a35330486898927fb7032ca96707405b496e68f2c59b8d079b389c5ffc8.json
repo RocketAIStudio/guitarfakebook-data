@@ -1,0 +1,108 @@
+{
+  "artist": "Olivia Rodrigo",
+  "artistNormalized": "olivia rodrigo",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[F]  [C]\n[Dm]  [C]\n\n[Verse 1]\n[F]All my life, [C]I've seen my-\n[Dm]self through your eyes [C]\n[F]Wonderin' [C]if I am good\n[Dm]enough for your time [C]You\n[Bb]love me but for all the wrong\n[C]reasons\n\n[Verse 2]\n[F]Am I [C]somethin' to you\n[Dm]and not someone? [C]\n[F]'Cause I feel trapped [C]on this pe-\n[Dm]destal you put me on [C]You\n[Bb]tell me that I'm beautiful but I think that's an under-\n[C]statement 'Cause\n\n[Chorus]\n[F]I am more than\n[C]what I am to you\n[Dm]You say I'm perfect but\n[Bb]I've got thorns with my petals, too And\n[F]I won't be con-\n[C]fined to your point of view\n[Dm]I'm breakin' through the glass you\n[Bb]put me in 'Cause my beauty's from within\n\n[Bridge]\n[F]Oh [C]oh,\n[Dm]My [Bb]beauty's from within\n[F]Oh [C]oh\n[Bb]\n\n[Verse 3]\n[F]So, I am done [C]livin' my\n[Dm]lifе just for you [C]\n[F]You watched me [C]wither and now\n[Dm]you'll watch mе bloom [C]You're\n[Bb]hidin' in the dark but I'm reachin' for the\n[C]sun, oh 'Cause\n\n[Chorus]\n[F]I am more than\n[C]what I am to you\n[Dm]You say I'm pretty but\n[Bb]I've got magic that you never knew And\n[F]I won't be con-\n[C]fined to your point of view\n[Dm]I'm breakin' through the glass you\n[Bb]put me in 'Cause\n\n[Outro]\n[F]I am more than\n[C]what I am to you\n[Dm]You say I'm perfect but\n[Bb]I've got thorns with my petals, too And\n[F]I won't be con-\n[C]fined to your point of view\n[Dm]I'm breakin' through the glass you\n[Bb]put me in\n'Cause my beauty's from within",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Rose Song",
+  "id": "10cb5a35330486898927fb7032ca96707405b496e68f2c59b8d079b389c5ffc8",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 268,
+  "normalizedKey": "olivia rodrigo|the rose song",
+  "playableChords": [
+    "F",
+    "C",
+    "Dm",
+    "Bb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "10cb5a35330486898927fb7032ca96707405b496e68f2c59b8d079b389c5ffc8",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "The Rose Song",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,109 @@
+{
+  "artist": "Prefers",
+  "artistNormalized": "prefers",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n\n[Intro au chant]\n\n[Couplet]\nComme tous les soirs\nJe suis vautré\nDevant mon poste de télé-é\nJ'passe mon temps à zapper\nQue des célébrités\n\n[Refrain]\n[B]J'préfère me dire que c'est pas du ciné [F#]\n[E]  [B]\n[B]Tout c'que je vois et entends à la télé [F#]\n[E]  [B]\n[E]  [B]\n\n[Couplet]\nPas de débat politique\nça sert à rien j'ai pas l'sens\ncritique\nJe m'ennuie fermement\nCe s'ra plus comme avant\n\n[Refrain]\n[B]J'préfère me dire que c'est pas du ciné [F#]\n[E]  [B]\n[B]Tout c'que je vois et entends à la télé [F#]\n[E]  [B]\n[E]  [B]\n\n[Solo basse]\n\n[Couplet]\nY'a C'est mon choix qui me passionne\nJulien Lepers lui il cartonne\nCe soir je r'garde Corinne Touzet\nOu Rocky 4 en DVD\n\n[Refrain]\n[B]J'préfère me dire que c'est pas du ciné [F#]\n[E]  [B]\n[B]Tout c'que je vois et entends à la télé [F#]\n[E]  [B]\n[E]  [B]\n\n[Solo Guitare]\n[B]  [F#]\n[E]  [B]\n[B]  [F#]\n[E]  [B]\n[B]  [F#]\n[E]  [B]\n[B]  [F#]\n[E]  [B]\n\n[Refrain]\n[B]  [F#]\n[E]  [B]\n[B]  [F#]\n[E]  [B]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "A la télé",
+  "id": "8cf37a0c74eecd8b3a7e2e3ccc115e1ad0300c272854c83667047defd088c7fc",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 20,
+  "normalizedKey": "prefers|a la t l",
+  "playableChords": [
+    "B",
+    "F#",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Intro au chant"
+    },
+    {
+      "measure": 9,
+      "name": "Couplet"
+    },
+    {
+      "measure": 17,
+      "name": "Refrain"
+    },
+    {
+      "measure": 22,
+      "name": "Couplet"
+    },
+    {
+      "measure": 30,
+      "name": "Refrain"
+    },
+    {
+      "measure": 35,
+      "name": "Solo basse"
+    },
+    {
+      "measure": 39,
+      "name": "Couplet"
+    },
+    {
+      "measure": 43,
+      "name": "Refrain"
+    },
+    {
+      "measure": 48,
+      "name": "Solo Guitare"
+    },
+    {
+      "measure": 56,
+      "name": "Refrain"
+    }
+  ],
+  "source": {
+    "format": "gp4",
+    "sha256": "8cf37a0c74eecd8b3a7e2e3ccc115e1ad0300c272854c83667047defd088c7fc",
+    "version": "FICHIER GUITAR PRO v4.00"
+  },
+  "tempo": 98,
+  "title": "A la télé",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

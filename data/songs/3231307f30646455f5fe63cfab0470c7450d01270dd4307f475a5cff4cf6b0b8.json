@@ -1,0 +1,138 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 34,
+  "chordSymbolCount": 10,
+  "content": "[Verse 1]\n[C]Mama loves her ba-\n[Am]by\n[F]And daddy loves you\n[G]too\n[C]And the sea may look\n[Am]warm to you, babe\n[F]And the sky may look\n[G]blue\n[C]Ooh, [G]\n[F]  [C/G]\n[Am]Babe\n[C]Ooh, [G]\n[F][C/G]baby blue\n[Am]\n[C]Ooh, [G]\n[F]  [C/E]\n[Am/E]ooh, [D/F#]\n[G]babe\n\n[Verse 2]\n[C]If you should go\n[Am]skating On the\n[F]thin ice of modern life\n[G]\n[C]Dragging on behind you the\n[Am]silent reproach Of a\n[F]million tearstained\n[G]eyes\n[C]Don't be surprised when a\n[Am]crack in the ice Ap-\n[F]pears under your\n[G]feet You slip\n[C]out of your depth and\n[Am]out of your mind With your\n[F]fear flowing out behind\n[G]you As you claw the thin ice\n\n[Outro]\n[E]  [Dm]\n[F]  [E]\n[Am]\n[E]  [Dm]\n[F]  [E]\n[Am]\n[E]  [Dm]\n[F]  [E]\n[E]  [D/F#]\n[G]\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am/E": {
+      "catalog": [
+        "002210"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/E": {
+      "catalog": [
+        "032010"
+      ],
+      "catalogCount": 1
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "D/F#": {
+      "catalog": [
+        "xx4232"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Thin Ice *alt",
+  "id": "3231307f30646455f5fe63cfab0470c7450d01270dd4307f475a5cff4cf6b0b8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 111,
+  "normalizedKey": "pink floyd|the thin ice",
+  "playableChords": [
+    "C",
+    "Am",
+    "F",
+    "G",
+    "C/G",
+    "C/E",
+    "Am/E",
+    "D/F#",
+    "E",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3231307f30646455f5fe63cfab0470c7450d01270dd4307f475a5cff4cf6b0b8",
+    "version": "BCFZ"
+  },
+  "tempo": 66,
+  "title": "The Thin Ice",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,128 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[F5]\n[E5]\n[F5]\n[E5]\n[F5]\n[E5]\n[F5]\n[E5]\n[D5]\n[C5]\n[A5]\n\n[Verse 1]\n[E5]Be a winner not a [Bm/D]problem admitter un\n[D5/C#]quit [C5][F5]\n[E5]Better to be a hepper than [Bm/D]a healthy 12 stepper, for-\n[D5/C#]feit [C5][F5]You\n\n[Chorus]\n[E5]wanna keep it goin’ but you [G5]don’t know how\n[D5]Everyone at meetings gets [A5]Lowenbrau You\n[E5]quit You’re [D5]shit You’re a\n[A5]quitter And [C5]no one [F5]likes you\n\n[Pre-Verse]\n[E5]\n[F5]\n[E5]  [D5]\n[D5/C#]  [C5]  [F5]\n[E5]\n[D5]\n[C5]\n[A5]\n\n[Verse 2]\n[E5]Start a pattern of [Bm/D]behavior I see no reason to\n[D5/C#]stop [C5][F5]\n[E5]You got a habit, got to [Bm/D]have it ’til it’s finished don’t\n[D5/C#]drop [C5][F5]The\n\n[Chorus]\n[E5]Charlie Chan’s chopped, Pabst [G5]pitcher been poured You\n[D5]got a spare kidney and your [A5]liver looks bored So\n[E5]stop [D5]fucking a-\n[A5]round You’re [C5]buying [F5]the next\n\n[Bridge]\n[E5]round\nYou\n\n[Chorus]\n[E5]wanna be a Thompson, [G5]Hemingway, Bukowski\n[D5]Banging Bill Burroughs lived [A5]to 83 You’re\n[E5]fa mous [D5]and you’re\n[A5]rich quit [C5]acting [F5]like a\n\n[Outro]\n[E5]bitch\n[D5]\n[D5/C#]\n[C5]And no one [F5]likes you!\n[E5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx",
+        "577xxx"
+      ],
+      "catalogCount": 2
+    },
+    "Bm/D": {
+      "catalog": [
+        "x597xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5/C#": {
+      "catalog": [
+        "x477xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx",
+        "x799xx"
+      ],
+      "catalogCount": 2
+    },
+    "F5": {
+      "catalog": [
+        "133xxx",
+        "xx356x",
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 3
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Quitter",
+  "id": "9fff3cae14b01cb0ab34ae227e67f1fc6d6278d0231c3961bab4e6f8fad31c13",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 159,
+  "normalizedKey": "nofx|the quitter",
+  "playableChords": [
+    "F5",
+    "E5",
+    "D5",
+    "C5",
+    "A5",
+    "Bm/D",
+    "D5/C#",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9fff3cae14b01cb0ab34ae227e67f1fc6d6278d0231c3961bab4e6f8fad31c13",
+    "version": "BCFZ"
+  },
+  "tempo": 125,
+  "title": "The Quitter",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

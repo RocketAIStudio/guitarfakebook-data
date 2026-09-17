@@ -1,0 +1,120 @@
+{
+  "artist": "Pixies",
+  "artistNormalized": "pixies",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 16,
+  "content": "[Intro]\n[F5]  [F5/F#]  [F#5]\n[A#5]  [A#5/B]  [B5]\n[B5]\n[F5]  [F5/F#]  [F#5]\n[A#5]  [A#5/B]  [B5]\n[F5]  [F#5]\n[A#5]\n[B5]\n[F5]  [F#5]\n[A#5]\n[B5]\n[F5]\n\n[Verse 1]\n[A#5]Hold my head\nWe'll trampoline\nFinally through the roof\nOn to somewhere near\nAnd far in time\n[A#m]VELOURIA\n[Eb]her covering\n[F#/C#]Travelling ca-reer\n[A#m/F]\n[F#/C#]She can really move\n[Eb]\n[B]oh VELVETEEN!\n[F#]\n\n[Chorus 1]\n[F5]my VELOURIA [F#5]\n[A#5]my VELOURIA\n[B5]\nEven I'll adore you\n[F5]  [F#5]\n[A#5]my VELOURIA\n[B5]\nEven I'll adore you\n[F5]  [F#5]\n[A#5]my VELOURIA\n[B5]a-a-a-a\n[F5]\n\n[Verse 2]\n[A#m]Say to me\nWe have you been\n[F#/C#]Finally through the roof\n[A#m/F]\n[F#/C#](almost spoken) And how does lemur skin? \n[Eb]\n[B]reflect the sea?\n[F#]\n\n[Interlude]\n[B5]we will wade in the shine\nof the ever\nwe will wade in the shine\nof the ever\nwe will wade in the tides\nof the summer\n[B5]every summer [D5]\nEvery\n[F5]my VELOURIA [F5/F#][F#5]\n[A#5]my VELOURIA [A#5/B][B5]\n[F5]  [F#5]\n[A#5]\n[B5]\n[F5]\n\n[Verse 3]\n[A#m]forevergreen\ni know she's here\n[F#/C#]in California\n[A#m/F]\n[F#/C#]i can see the tears\n[Eb]\n[B]of shastasheen\n[F#]\n\n[End choruses]\n[F5]my VELOURIA [F#5]\n[A#5]my VELOURIA\n[B5]\nEven I'll adore you\n[F5]  [F#5]\n[A#5]my VELOURIA\n[B5]\nEven I'll adore you\n[B5]\n[F5]  [F#5]\n[A#5]\n[B5]\n[F5]  [F#5]\n[A#5]\n[B5]\n\n[Outro]\n[F5]  [F#5]",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "Velouria",
+  "id": "832640b22713a2d10cfbe10035f8602951cc332ee773dc59c98adcd99d33da31",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 45,
+  "normalizedKey": "pixies|velouria",
+  "playableChords": [
+    "F5",
+    "F5/F#",
+    "F#5",
+    "A#5",
+    "A#5/B",
+    "B5",
+    "A#m",
+    "Eb",
+    "F#/C#",
+    "A#m/F",
+    "B",
+    "F#",
+    "D5",
+    "B5/A#",
+    "F",
+    "A#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus 1"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Interlude"
+    },
+    {
+      "measure": 72,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 82,
+      "name": "End choruses"
+    },
+    {
+      "measure": 100,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gp3",
+    "sha256": "832640b22713a2d10cfbe10035f8602951cc332ee773dc59c98adcd99d33da31",
+    "version": "FICHIER GUITAR PRO v3.00"
+  },
+  "tempo": 122,
+  "title": "Velouria",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,148 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 40,
+  "chordSymbolCount": 8,
+  "content": "[Verse 1]\n[G]\nWhen the fat\nold sun in the sky\n[D]is falling\n[F]Summer evening birds\n[C]are calling\n[G]\nSummer Sunday and\n[D]a year The sound\n[F]of music in\n[C]my ears\n[G]\n\n[Verse 2]\n[G]Distant bells,\n[D]new mown grass smells Song\n[F]sweet\n[C]\n[G]By the river\n[D]holding hands Roll\n[F]me up and lay\n[C]me down\n[G]\nAnd if you\n\n[Chorus]\n[C]see, don't\n[Bm]make a sound\n[Am]Pick your feet up off\n[G]the ground And if you\n[C]hear as the warm\n[Bm]night falls\n[Am]The silver sound from a\n[Dm]tongue so strange\n[Gm]Sing to me,\n[Dm]sing to me\n\n[Verse 3]\n[F]\n[D]When that fat\n[G]old sun in the sky\n[D]is falling\n[F]Summer evening birds\n[C]are calling\n[G]\nChildren's laughter\n[D]in my ears The last\n[F]sunlight di-\n[C]sappears\n[G]\nAnd if you\n\n[Chorus]\n[C]see, don't\n[Bm]make a sound\n[Am]Pick your feet up off\n[G]the ground And if you\n[C]hear as the warm\n[Bm]night falls\n[Am]The silver sound from a tongue\n[Dm]so strange\n[Gm]Sing to me,\n[Dm]sing to me\n[F]\n[D]When that fat\n\n[Solo]\n[G]old sun in the sky\n[D]is falling\n[F]\n[C]\n[G]\n[D]\n[F]\n[C]\n[G]\n[D]\n[F]\n[C]\n[G]\n[D]\n[F]\n[C]\n[G]\n[D]\n[F]\n[C]\n[G]\n[D]\n[F]\n[C]\n[G]\n[D]\n[F]\n[C]\n[G]\n[D]\n[F]\n[C]\n\n[Outro (Fade Out)]\n[G]\n[D]\n[F]\n[C]\n[G]\n[D]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Fat Old Sun *alt",
+  "id": "b17e7088a6f362a1c9dc4814ad0011ac4dadbf05fcd04d955fefc5bf00a814ee",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 179,
+  "normalizedKey": "pink floyd|fat old sun",
+  "playableChords": [
+    "G",
+    "D",
+    "F",
+    "C",
+    "Bm",
+    "Am",
+    "Dm",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 24,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Solo"
+    },
+    {
+      "measure": 91,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b17e7088a6f362a1c9dc4814ad0011ac4dadbf05fcd04d955fefc5bf00a814ee",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "Fat Old Sun",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

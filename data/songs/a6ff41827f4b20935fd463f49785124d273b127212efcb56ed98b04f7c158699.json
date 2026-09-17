@@ -1,0 +1,117 @@
+{
+  "artist": "Olivia Rodrigo",
+  "artistNormalized": "olivia rodrigo",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "Sing\n\n[Verse 1]\n[C]out, ye Honored [F]classmates [C]With\n[Am]might and spirit [G]true Lift\n[E]up your hearts and [Am]voices And be-\n[D7]hold the role for [G]you Speak\n[Dm]boldly [G]when You [C]play your part As\n[D7]we pursue the [G]highest art\nPortraits hang In these [C]hallowed\n[F]halls The\n[G]finest of them\n[C]all To\n\n[Verse 2]\n[C]thee, to thee, the\n[C][F]YAC\n[F]Captains of our [C]noble craft, Dis-\n[D7]tinction we [G]achieve\n[F]Set the bar and [C]raise our star\n[F]Shining through and\n[Am]through Ever\n[Dm]loyal to our\n[F]banner Long\n[G]wave the black and\n[C]blue",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7": {
+      "catalog": [
+        "xx0212",
+        "x-5-4-5-3-2",
+        "x-5-7-5-7-5",
+        "10-9-7-7-7-8",
+        "10-12-10-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "YAC Alma Mater",
+  "id": "a6ff41827f4b20935fd463f49785124d273b127212efcb56ed98b04f7c158699",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 104,
+  "normalizedKey": "olivia rodrigo|yac alma mater",
+  "playableChords": [
+    "C",
+    "F",
+    "Am",
+    "G",
+    "E",
+    "D7",
+    "Dm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a6ff41827f4b20935fd463f49785124d273b127212efcb56ed98b04f7c158699",
+    "version": "BCFZ"
+  },
+  "tempo": 70,
+  "title": "YAC Alma Mater",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

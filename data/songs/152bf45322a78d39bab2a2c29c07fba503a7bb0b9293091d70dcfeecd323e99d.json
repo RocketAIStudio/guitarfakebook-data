@@ -1,0 +1,114 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 14,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n\n[Chorus]\n[Fmaj7]\n[D9]\n[Db7b9]\n[Gm7]\n[C9]\n[C7b9]\n\n[Verse 1]\n[Fmaj7]I'm a per-\nson just like you\n[D9]\n[Db7b9]\n[Gm7]But I've got\nbetter things to do\n[C9]\n[C7b9]\n[Fmaj7]Than sit around\nand fuck my head\n[D9]\n[Db7b9]\n[Gm7]Or hang out with\nthe living dead\n[C9]\n[C7b9]\n\n[Verse 2]\n[Fmaj7]Snort white\nshit up my nose\n[D9]\n[Db7b9]\n[Gm7]Passin' out\nat all the shows\n[C9]\n[C7b9]'Cause I've got Straight Edge\n\n[Solo]\n[Fmaj7]\n[D9]\n[Db7b9]\n[Gm7]\n[C9]\n[C7b9]\n[Fmaj7]\n[D9]\n[Db7b9]\n[Gm7]\n[C9]\n[C7b9]\n\n[Verse 3]\n[Fmaj7]I laugh at the thought\nof dropping ludes\n[D9]\n[Db7b9]\n[Gm7]I laugh at the throught\nof sniffing glue\n[C9]\n[C7b9]'Cause I've got Straight Edge\n\n[Chorus]\n[Fmaj7]\n[D9]\n[Db7b9]\n[Gm7]\n[C9]\n[C7b9]\n[Fmaj7]\n[D9]\n[Db7b9]\n[Gm7]\n\n[Outro]\n[C9]I've got Straight\n[C7b9]Edge\n[Fmaj7]",
+  "diagrams": {
+    "C7b9": {
+      "catalog": [
+        "x3232x"
+      ],
+      "catalogCount": 1
+    },
+    "C9": {
+      "catalog": [
+        "x32333"
+      ],
+      "catalogCount": 1
+    },
+    "D9": {
+      "catalog": [
+        "x54555"
+      ],
+      "catalogCount": 1
+    },
+    "Db7b9": {
+      "catalog": [
+        "x43434"
+      ],
+      "catalogCount": 1
+    },
+    "Fmaj7": {
+      "catalog": [
+        "x-8-10-9-10-x",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "Gm7": {
+      "catalog": [
+        "3x3333",
+        "3-5-3-3-3-3",
+        "x-x-5-7-6-6",
+        "x-10-12-10-11-10",
+        "15-17-15-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Straight Edge",
+  "id": "152bf45322a78d39bab2a2c29c07fba503a7bb0b9293091d70dcfeecd323e99d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 76,
+  "normalizedKey": "nofx|straight edge",
+  "playableChords": [
+    "Fmaj7",
+    "D9",
+    "Db7b9",
+    "Gm7",
+    "C9",
+    "C7b9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Solo"
+    },
+    {
+      "measure": 58,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    },
+    {
+      "measure": 80,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "152bf45322a78d39bab2a2c29c07fba503a7bb0b9293091d70dcfeecd323e99d",
+    "version": "BCFZ"
+  },
+  "tempo": 159,
+  "title": "Straight Edge",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

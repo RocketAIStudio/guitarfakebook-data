@@ -1,0 +1,108 @@
+{
+  "artist": "Pulley",
+  "artistNormalized": "pulley",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G5]  [F#5]\n[E5]  [D5]\n[B5]  [A5]\n[D5]\n[G5]  [F#5]\n[E5]  [D5]\n[B5]  [A5]\n[D5]\n\n[Verse 1]\n[G5]Hey you [D5]asshole!\n[A5]Standing [D5]over there\n[G5]In the [D5]corner bringing\n[D5]all you cheer to me\n[G5]So [D5]what, you\n[A5]try hard to [D5]make your friends\n[A5][G5]Insecurities, it\n[D5]keeps you goring on\n\n[Bridge]\n[G5]  [F#5]\n[E5]  [D5]\n[B5]  [A5]\n[D5]\n[G5]  [F#5]\n[E5]  [D5]\n[B5]  [A5]\n[D5]\n\n[Verse 2]\n[G5]Now [D5]you're\n[A5]in a class [D5]all alone\n[G5]You're the [D5]lea0der, and they\n[D5]fol0low like sheep, they are\n[G5]And [D5]what, yeah,\n[A5]keep on [D5]believing you\n[G5]Make a [A5]difference a\n[D5]superman you're not\n\n[Chorus]\n[E5]Scared inside [G5]\n[D5][A5]I\n[E5]see you [G5]shaking\n[C5]  [A5]\n[D5]\n[E5]Scared inside [G5]\n[D5]There's\n[E5]no [G5]escaping\n[C5]  [A5]\n[D5]\n[C5]  [A5]\n[D5]\n\n[Outro]\n[G5]  [F#5]\n[E5]  [D5]\n[B5]  [A5]\n[D5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "777xxx",
+        "x022xx"
+      ],
+      "catalogCount": 2
+    },
+    "B5": {
+      "catalog": [
+        "999xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx",
+        "000xxx"
+      ],
+      "catalogCount": 2
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "x-9-11-11-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x-10-12-12-x-x",
+        "555xxx"
+      ],
+      "catalogCount": 2
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "What",
+  "id": "1c504151c44666f184a5490e1e8f043cfba577fdc378e31d277f7aa72e0395bd",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 90,
+  "normalizedKey": "pulley|what",
+  "playableChords": [
+    "G5",
+    "F#5",
+    "E5",
+    "D5",
+    "B5",
+    "A5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "1c504151c44666f184a5490e1e8f043cfba577fdc378e31d277f7aa72e0395bd",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "What",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

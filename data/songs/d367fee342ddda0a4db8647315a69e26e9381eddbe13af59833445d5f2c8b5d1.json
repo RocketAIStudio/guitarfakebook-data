@@ -1,0 +1,156 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 12,
+  "content": "[Intro]\n[G]\n[C]\n[G]\n[C]\n[G]\n[C]\n[G]\nYou know that I care\n\n[Verse]\n[C]\n[F/C]\n[C]\nwhat happens to you,\n[G]\n[Cadd9]\n[G]\nAnd I know that you care\n[C]\n[F/C]\n[C]\nfor me, too.\n[G]\n[Cadd9]\n[G]\nSo I\n[A7]don't feel alone,\nOr the\nweight of the stone,\n[G]Now that I've found\n[C]somewhere safe To\n[D/A]bury my bone.\n[G]\nAnd\n\n[Chorus]\n[Am]any fool\n[F]knows a\n[Am]dog needs a home,\n[F]\n[C/G]\n[G/B]\n[Am]\nA\n[D]shelter\n[Dsus4/A]\n[D/A]from\npigs on the wing.\n\n[Outro]\n[G]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02223",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "332010"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x00232"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus4/A": {
+      "catalog": [
+        "x00233"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "1332x1",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "F/C": {
+      "catalog": [
+        "x33211"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pigs On The Wing (Part 2)",
+  "id": "d367fee342ddda0a4db8647315a69e26e9381eddbe13af59833445d5f2c8b5d1",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 60,
+  "normalizedKey": "pink floyd|pigs on the wing part 2",
+  "playableChords": [
+    "G",
+    "C",
+    "F/C",
+    "Cadd9",
+    "A7",
+    "D/A",
+    "Am",
+    "F",
+    "C/G",
+    "G/B",
+    "D",
+    "Dsus4/A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 46,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d367fee342ddda0a4db8647315a69e26e9381eddbe13af59833445d5f2c8b5d1",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "Pigs On The Wing (Part 2)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

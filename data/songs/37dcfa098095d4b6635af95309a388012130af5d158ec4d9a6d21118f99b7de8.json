@@ -1,0 +1,127 @@
+{
+  "artist": "Paramore",
+  "artistNormalized": "paramore",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\n[A]\n[E]\n[A]\n\n[Verse 1]\n[E]Give me attention\n[A]I\n[E]need it now\n[A]\n[C#m]Too much distance\n[E]To\n[C#m]measure it out,\nout [B]loud\n\n[Verse 2]\n[E]Chasing patterns\n[A]across a\n[E]personal map\n[A]And\n[C#m]making pictures\n[E]where\n[C#m]the line\n[B]overlap\n[A]Where the lines\noverlap\n\n[Chorus]\n[E]No one\nis as lucky\n[A]as us\nWe're not at the\n[E]End yet\nbut we already\n[A]won\nNo, no\n[C#m]No one\n[A]\n[E]\n[B]is as lucky as\n[C#m]us\n[A]Is as lucky as\n[E]us\n[B]\n\n[Verse 3]\n[E]Call me over,\n[A]and\n[E]tell me how\n[A]Well\n[C#m]you got so far\n[E]And\n[C#m]never making a\nsingle [B]sound I'm\n\n[Verse 4]\n[E]not used to it\n[A]But\n[E]I can learn\n[A]There's\n[C#m]nothing to it\n[E]I've\n[C#m]never been\n[B]happier I've\n[A]never been\n[B]happier\n\n[Chorus]\n[E]No one\nis as lucky as\n[A]us\nWe're not at the\n[E]End yet\nbut we already\n[A]won\nNo, no\n[C#m]No one\n[A]\n[E]\n[B]is as lucky as\n[C#m]us\n[A]Is as lucky as\n[E]us\n[B]And now\n\n[Interlude]\n[C#m]I've got a feeling If I\n[B/D#]sing this loud enough\n[E]You would\n[A]sing it back to me\n[C#m]Now I've got a feeling If\n[B/D#]I sing this loud e-\n[E]nough You would\n[A]sing it back to me\n[E]I've got a feeling I've\n[B/D#]got a feeling\n[E]For you would\n[A]sing it back to me\n[E]For you would\n[B/D#]sing it back to me\n[E]No one\nis as lucky as\n\n[Chorus]\n[A]us\nWe're not at the\n[E]End yet\nbut we alrea-\n[A]dy won\nNo, no\n[C#m]No one,\n[A]no one\n[E]\n[B]Is as lucky as\n[C#m]us\n[A]Is as lucky as\n[E]us\n[B]Is as lucky as\n\n[Interlude]\n[E]us\n[A]\n[E]\n[A]\n[E]\n[A]\n[E]\n[A]\n\n[Outro]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "57765x",
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x2444x",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B/D#": {
+      "catalog": [
+        "x6987x"
+      ],
+      "catalogCount": 1
+    },
+    "C#m": {
+      "catalog": [
+        "x4665x",
+        "x-4-6-6-5-4",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "02210x",
+        "x7999x",
+        "0221xx",
+        "022100",
+        "x-x-2-4-5-4"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Where the Lines Overlap",
+  "id": "37dcfa098095d4b6635af95309a388012130af5d158ec4d9a6d21118f99b7de8",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 281,
+  "normalizedKey": "paramore|where the lines overlap",
+  "playableChords": [
+    "E",
+    "A",
+    "C#m",
+    "B",
+    "B/D#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Interlude"
+    },
+    {
+      "measure": 90,
+      "name": "Chorus"
+    },
+    {
+      "measure": 104,
+      "name": "Interlude"
+    },
+    {
+      "measure": 120,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "37dcfa098095d4b6635af95309a388012130af5d158ec4d9a6d21118f99b7de8",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "Where the Lines Overlap",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

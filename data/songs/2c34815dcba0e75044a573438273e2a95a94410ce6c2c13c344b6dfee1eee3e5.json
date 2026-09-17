@@ -1,0 +1,141 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[D]\n\n[Verse 1]\n[D]Gigin alone at the\nbottom of the hi-\n[F#]ll Our pro-\ntagonist named Bi-\n[Bm]ll Sets his\nsights on an\n[G]anchor\nsteam pint\n[D]All he,\n[F#]needs is\nthirteen\n[Bm]quarters\n[G]Congrega-\nted in his ha-\n\n[Bridge]\n[D]t\n[E7]\n[A7sus4]\n[A7]A\n\n[Verse 2]\n[D]crow, a\nscavenger type\n[F#]Cali-\nfornia re-\n[Bm]demption,\nPro-\n[G]vides him\nwith his\n[D]rent\n[F#]Room and\nboard in-\n[Bm]side of,\na\n[G]fifth,\nof\n\n[Bridge]\n[D]comfort\n[E7]\n[A7sus4]\n[A7]As the wi-\n\n[Verse 3]\n[D]nd\npenetrates hi-\n[F#]s bones His\nmind keep\n[Bm]focused\n[G]\n[D]Tidal\nwaves of\n[F#]sound\ncata-\n[Bm]pulted\nFrom his\n[G]horn,\nwail like\n\n[Bridge]\n[D]lovers\n[E7]\n[A7sus4]\n[A7]The\n\n[Verse 4]\n[D]coins don't\ndrop con-\n[F#]sistent as\ndoes the mer-\n[Bm]cury\nHis\n[G]meter\nslows rea-\n[D]lizing\na\n[F#]zenith He's\nreached per-\n[Bm]fection\nNo\n[G]one did\nsee him\n\n[Outro]\n[D]die\n[E7]\n[A7sus4]\n[A7]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02223",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7sus4": {
+      "catalog": [
+        "x02030"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E7": {
+      "catalog": [
+        "020130",
+        "0-2-0-1-0-0",
+        "x-x-2-4-3-4",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Scavenger Type",
+  "id": "2c34815dcba0e75044a573438273e2a95a94410ce6c2c13c344b6dfee1eee3e5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 156,
+  "normalizedKey": "nofx|scavenger type",
+  "playableChords": [
+    "D",
+    "F#",
+    "Bm",
+    "G",
+    "E7",
+    "A7sus4",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 43,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 71,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 87,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2c34815dcba0e75044a573438273e2a95a94410ce6c2c13c344b6dfee1eee3e5",
+    "version": "BCFZ"
+  },
+  "tempo": 144,
+  "title": "Scavenger Type",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

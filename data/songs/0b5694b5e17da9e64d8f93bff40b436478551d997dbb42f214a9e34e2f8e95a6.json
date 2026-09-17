@@ -1,0 +1,108 @@
+{
+  "artist": "OneRepublic",
+  "artistNormalized": "onerepublic",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Cm]\n[Ab]\n[Eb]\n[Bb/D]\n[Cm]\n[Ab]\n[Eb]\n[Bb/D]\n[Cm]\n[Ab]\n[Eb]\n[Bb/D]\n[Cm]\n[Ab]\n[Eb]\n[Bb/D]I'm\n\n[Verse 1]\n[Cm]holdin' on a rope Got me\n[Ab]ten feet off the gro-\n[Eb]und\n[Bb/D]I'm\n[Cm]hearing what you say But I\n[Ab]just can't make a so-\n[Eb]und\n[Bb/D]They\n[Cm]tell me that you mean it\n[Ab]Then you go and cut me down\n[Eb]But\n[Bb/D]wait You\n[Cm]tell me that your sorry\n[Ab]Didn't think I'd turn around\n[Eb]And\n[Bb/D]say That it's\n\n[Chorus]\n[Cm]too late to apologi-\n[Ab]ze It's\n[Eb]too late\n[Bb/D]Said it's\n[Cm]too late to apologi-\n[Ab]ze It's\n[Eb]too late\n[Bb/D]\n\n[Break]\n[Cm]\n[Ab]\n[Eb]\n[Bb/D]I\n\n[Verse 2]\n[Cm]take another chance, take a\n[Ab]fall, take a shot from yo-\n[Eb]u\n[Bb/D]I\n[Cm]need you like a heart needs a\n[Ab]beat It's not from yo-\n[Eb]u\n[Bb/D]I\n[Cm]loved you with a fire\n[Ab]red and I was turnin' blue\n[Eb]And to\n[Bb/D]say\n[Cm]Sorry like the angel\n[Ab]Heaven let me think was you\n[Eb]But I'm\n[Bb/D]afraid It's\n\n[Chorus]\n[Cm]too late to apologi-\n[Ab]ze It's\n[Eb]too late\n[Bb/D]Said it's\n[Cm]too late to apologi-\n[Ab]ze It's\n[Eb]too late\n[Bb/D]\n\n[Solo]\n[Cm]\n[Ab]\n[Eb]\n[Bb/D]\n[Cm]\n[Ab]\n[Eb]\n[Bb/D]\nIt's\n\n[Chorus]\n[Cm]too late to apologi-\n[Ab]ze It's\n[Eb]too late\n[Bb/D]Said it's\n[Cm]too late to apologi-\n[Ab]ze It's\n[Eb]too late\n[Bb/D]Said it's\n[Cm]too late to apologi-\n[Ab]ze It's\n[Eb]too late\n[Bb/D]Said it's\n[Cm]too late to apologi-\n[Ab]ze It's\n[Eb]too late\n[Bb/D]I'm\n\n[Outro]\n[Cm]holdin' on the rope Got me\n[Ab]ten feet off the\n[Eb]ground",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "466544",
+        "4-3-1-1-1-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bb/D": {
+      "catalog": [
+        "x5876x"
+      ],
+      "catalogCount": 1
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "x68886",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Apologize",
+  "id": "0b5694b5e17da9e64d8f93bff40b436478551d997dbb42f214a9e34e2f8e95a6",
+  "key": "E♭",
+  "keyIdentified": true,
+  "lyricEventCount": 230,
+  "normalizedKey": "onerepublic|apologize",
+  "playableChords": [
+    "Cm",
+    "Ab",
+    "Eb",
+    "Bb/D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Break"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Solo"
+    },
+    {
+      "measure": 78,
+      "name": "Chorus"
+    },
+    {
+      "measure": 94,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "0b5694b5e17da9e64d8f93bff40b436478551d997dbb42f214a9e34e2f8e95a6",
+    "version": "BCFZ"
+  },
+  "tempo": 118,
+  "title": "Apologize",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

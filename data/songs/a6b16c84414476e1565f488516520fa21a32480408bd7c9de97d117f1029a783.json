@@ -1,0 +1,133 @@
+{
+  "artist": "RadioHead",
+  "artistNormalized": "radiohead",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Emadd9]\n[G]  [A5]\n[G]  [A5]\n[Emadd9]\n[G]  [A5]\n[G]  [A5]\nIn my\n\n[Verse 1]\n[Emadd9]mind,\nand\nnailed in to my\n[G]heels. [A5]\n[G]  [A5]\nAll the\n[Emadd9]time,\nkilling What I\n[G]feel. [A5]\n[G][A5]And\nev erything I touch,\n\n[Chorus]\n[Emadd9]all wrapped up in\ncotton wool\nAll wrapped up and\nsugar coated turns to\n[G]stone. [A5]\n[G]  [A5]\nEverything I touch,\n[Emadd9]all wrapped up in\ncotton wool\nAll wrapped up and\nsugar coated turns\n[G]stone. [A5]\n[G]  [A5]\n\n[Bridge]\n[Amaj9]\n[C7]\n[Amaj9]\n[C7]\n[Amaj9]\n[C7]\n[Amaj9]\n[C7]\nI am\n\n[Verse 2]\n[Emadd9]fused,\njust in case I\n[G]blow [A5]out.\n[G]  [A5]\nI am\n[Emadd9]glued,\njust because I\n[G]crack [A5]out.\n[G][A5]And\neverything I touch,\n\n[Chorus]\n[Emadd9]all wrapped up in\ncotton wool\nAll wrapped up and\nsugar coated turns to\n[A]stone.\nEvery thing I touch,\n[Emadd9]\nturns\n[A]stone.\n\n[Bridge]\n[Emadd9]\n[A]\n[Emadd9]\n[A]\n\n[Bridge]\n[Em]\n[A]\n[Emadd9]\n[A]\n[Emadd9]\n[A]\n[Emadd9]\n[A]\n[Emadd9]\n[A]\n[Emadd9]\n\n[The End]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "Amaj9": {
+      "catalog": [
+        "x5x697"
+      ],
+      "catalogCount": 1
+    },
+    "C7": {
+      "catalog": [
+        "xxx586",
+        "x-3-2-3-1-0",
+        "x-3-5-3-5-3",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Emadd9": {
+      "catalog": [
+        "022002"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Blow Out *alt",
+  "id": "a6b16c84414476e1565f488516520fa21a32480408bd7c9de97d117f1029a783",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 111,
+  "normalizedKey": "radiohead|blow out",
+  "playableChords": [
+    "Emadd9",
+    "G",
+    "A5",
+    "Amaj9",
+    "C7",
+    "A",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Bridge"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 81,
+      "name": "Chorus"
+    },
+    {
+      "measure": 97,
+      "name": "Bridge"
+    },
+    {
+      "measure": 113,
+      "name": "Bridge"
+    },
+    {
+      "measure": 157,
+      "name": "The End"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a6b16c84414476e1565f488516520fa21a32480408bd7c9de97d117f1029a783",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Blow Out",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

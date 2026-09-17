@@ -1,0 +1,110 @@
+{
+  "artist": "Parkway Drive",
+  "artistNormalized": "parkway drive",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n\n[Verse 1]\n[A#5]This is life\nThis is life as\n[D#5]  [F5]\n[A#5]As a con-\nsequence This\napathy is\n[F5][D#5]murderous\n[A#5]Hope is dead\nBuried by regret\n[D#5][F5]I\n[A#5]love for no-\nthing And\ndie here for\n[D#5]even [F5]less\n[F#5]  [Ab5]\n[D#5]This [F5]is the path\n[F#5]we've [Ab5]chosen\n\n[Bridge]\n[D#5]  [F5]\n[F#5][G#5]Our\n[D#5]mind [F5]and our\n[F#5]future [G#5]left to\n\n[Verse 2]\n[A#5]rot\nThese\n[F5]lives are worth [D#5]nothing\n[A#5]\nOur\n[F5]lives worth [D#5]nothing\n[A#5]Fuck!\n[F5]  [D#5]\n[A#5]\nAs we watch our dreams\n[F5]turn [D#5]into\n\n[Bridge]\n[A#5]dust\nInto dust\n\n[Verse 3]\n[A#5]On these cold\nstreets be-\nneath this hollow corpse\nof a life\nThey walk in\nshadows and they are\nfeeding us our lives\nWe are the\nwalking dead\nHaunted by the ghost\nof unanswered dreams\nWe are the\nflesh and blood of a\nlost generation\n\n[Intro Riff]\n[A#5]They're de-\nceased and forgotten\nThe\nvoiceless and cons-\numed We are\nburied and broken\nAnd we are\nrising again\n\n[Verse 4]\n[A#5]\n[D#5]  [F5]\n[A#5]\n[D#5][F5]So\n[A#5]this is life\nAnd words rising worthl-\n[D#5]ess [F5]\n[A#5]We've clawed\nour way back\nYou can't destroy this\n[D#5]Cause we've got [F5]nothing\n[F#5]left to [Ab5]lose\n\n[Bridge]\n[D#5]These [F5]hate filled\n[F#5]hearts keep [G#5]burning\n[D#5]We [F5]push\n[Ab5][F#5]against\n[D#5]the [F5]grain\n[F#5]And we [G#5]won't turn\n\n[Outro]\n[A#5]back\n[F5]  [D#5]\n[A#5]On to the teeth\nBorn from the sha-\ndows\n[D#5][F5]Burning for re-\n[A#5]venge\n[F5][D#5]Re-\n[A#5]venge\nWe are\n[F5]burning [D#5]for re-\n[A#5]venge",
+  "diagrams": {
+    "Ab5": {
+      "catalog": [
+        "10-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "888xxx",
+        "x133xx"
+      ],
+      "catalogCount": 2
+    },
+    "F5": {
+      "catalog": [
+        "777xxx",
+        "x022xx"
+      ],
+      "catalogCount": 2
+    },
+    "G#5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Feed them to the Pigs",
+  "id": "20d5694b3973aaba35d2543545c97fbf7d9f6c58e571163296202884c39773e5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 231,
+  "normalizedKey": "parkway drive|feed them to the pigs",
+  "playableChords": [
+    "A#5",
+    "D#5",
+    "F5",
+    "F#5",
+    "Ab5",
+    "G#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 22,
+      "name": "Bridge"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Bridge"
+    },
+    {
+      "measure": 46,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 62,
+      "name": "Intro Riff"
+    },
+    {
+      "measure": 71,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 88,
+      "name": "Bridge"
+    },
+    {
+      "measure": 94,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "20d5694b3973aaba35d2543545c97fbf7d9f6c58e571163296202884c39773e5",
+    "version": "BCFZ"
+  },
+  "tempo": 205,
+  "title": "Feed them to the Pigs",
+  "tuning": "A# F A# D# G C",
+  "variantRole": "primary"
+}

@@ -1,0 +1,96 @@
+{
+  "artist": "Parker McCollum",
+  "artistNormalized": "parker mccollum",
+  "capo": "3",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Cadd9]\n[G/B]\n[A7sus4]\n[G]\n[Cadd9]\n[G/B]\n[A7sus4]\n[G]It's been a hell of a year\n\n[Verse 1]\n[Cadd9]How did you see\n[G/B]Who I was\n[A7sus4]ain't who I was gonna\n[G]be I could've been right\n[Cadd9]Was probably wrong\n[G/B]So many nights\n[A7sus4]wishin' I could go home\n[G]It's been a hell of a year\n[Cadd9]\n[G/B]\n[A7sus4]\n[G]It's been a hell of a year\n[Cadd9]\n[G/B]\n[A7sus4]\n[G]Now my heart's out of love\n\n[Verse 2]\n[Cadd9]I fell out of line\n[G/B]I swore that I'd ne-\n[A7sus4]ver leave again and I lied\n[G]It was the weight of the world\n[Cadd9]You settin' me free\n[G/B]You can't sleep alone\n[A7sus4]and you ain't sleepin' with me\n[G]Its been a hell of a year\n[Cadd9]\n[G/B]\n[A7sus4]\n[G]Its been a hell of a year\n[Cadd9]\n[G/B]\n[A7sus4]\n[G]\n\n[Solo 1]\n[Cadd9]\n[G/B]\n[A7sus4]\n[G]\n[Cadd9]\n[G/B]\n[A7sus4]\n[G]You hate how I live\n\n[Verse 3]\n[Cadd9]Go up to come down\n[G/B]I smoke you away\n[A7sus4]and then you drink ‘til you drown\n[G]I wasn't meant to be then\n[Cadd9]It ain't meant to be now\n[G/B]I love this home\n[A7sus4]but now I hate this house\n[G]It's been a hell of a year\n[Cadd9]\n[G/B]\n[A7sus4]\n[G]It's been a hell of a year\n[Cadd9]\n[G/B]Mmm,\n[A7sus4]mmm, mmm\n[G]\n\n[Solo 2]\n[Cadd9]\n[G/B]\n[A7sus4]\n[G]\n[Cadd9]\n[G/B]\n[A7sus4]\n[G]It's been a hell of a year\n\n[Verse 4]\n[Cadd9]How did you see\n[G/B]That who I was\n[A7sus4]ain't who I was gonna\n[G]be I could've been right\n[Cadd9]Was probably wrong\n[G/B]So many nights\n[A7sus4]wishin' I could go home\n[G]It's been a hell of a year\n\n[Outro]\n[Cadd9]\n[G/B]\n[A7sus4]\n[G]It's been a hell of a year\n[Cadd9]\n[G/B]Mmm,\n[A7sus4]mmm, mmm\n[G]",
+  "diagrams": {
+    "A7sus4": {
+      "catalog": [
+        "x02033"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hell of a Year",
+  "id": "9e3c3204e07e8a50060c9ee89e694422bb65bacfd443560edba6682c36f8cc7e",
+  "key": "B♭",
+  "keyIdentified": true,
+  "lyricEventCount": 236,
+  "normalizedKey": "parker mccollum|hell of a year",
+  "playableChords": [
+    "Cadd9",
+    "G/B",
+    "A7sus4",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 65,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 73,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9e3c3204e07e8a50060c9ee89e694422bb65bacfd443560edba6682c36f8cc7e",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "Hell of a Year",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,149 @@
+{
+  "artist": "Ram Jam",
+  "artistNormalized": "ram jam",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[B]\n[D]\n[B]\n[B]  [E]\n[B]  [D]\n[B]  [E]\n[B]  [D]\n[B]\nWhoa\n\n[Verse 1]\n[B5], Black Betty, bambalam Whoa\n, Black Betty, bambalam Black\nBetty had a child, bambalam The damn\nthing gone wild, bambalam She said \"I'm\nworryin' outta mind\", bambalam The damn\nthing gone blind, bambalam I said oh\n, Black Betty, bambalam Whoa\n, Black Betty, bambalam\n\n[Bridge 1]\n[B]\n[D]\n[B]\n[B]  [E]\n[B]  [D]\n[B]  [E]\n[B]  [D]\n[B]Whoa\n\n[Verse 2]\n[B5], Black Betty, bambalam Whoa\n, Black Betty, bambalam She really\ngets me high, bambalam You know\nthat's no lie, bambalam She's\nso rock steady, bambalam And she's\nalways ready, bambalam Whoa\n, Black Betty, bambalam Whoa\n, Black Betty, bambala-\n\n[Break]\n[B5]m [D5]\n[B5]\n[D5]\n[B5]Get it!\n[D5]\n[B5]\n[D5]\n[B5]\n\n[Interlude]\n[B5]\n[D]\n\n[Solo]\n[G]\n[D]\n[B]\n[D]\n[G]\n[D]\n[B]\n[D]\n[B]\n[D]\n[B]\n[D]\n[B]\n\n[Bridge 2]\n[B]\n[A]\n[B]\n[A]\n\n[Break]\n[B5]\n[D5]\n[B5]\n[D5]\n[B5]\n\n[Interlude]\n[B5]\nWhoa\n\n[Verse 3]\n[B5], Black Betty, bambalam Whoa\n, Black Betty, bambalam She's\nfrom Birmingham, bambalam Way dow-\nn in Alabam', bambalam Well, she's\nshakin' that thing, bambalam Boy, she\nmakes me sing, bambalam Whoa\n, Black Betty, bambalam Whoa\n, Black Betty, bamba-\n\n[Outro]\n[B5]la-\nm Yeah\n, yeah.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "xx023x"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Black Betty *alt",
+  "id": "a32b9152a64f37a8cb9244c8cbd94df5befedbae2e768fd01d2b0118b30c30bd",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 212,
+  "normalizedKey": "ram jam|black betty",
+  "playableChords": [
+    "B",
+    "D",
+    "E",
+    "B5",
+    "D5",
+    "G",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Bridge 1"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 46,
+      "name": "Break"
+    },
+    {
+      "measure": 58,
+      "name": "Interlude"
+    },
+    {
+      "measure": 63,
+      "name": "Solo"
+    },
+    {
+      "measure": 85,
+      "name": "Bridge 2"
+    },
+    {
+      "measure": 93,
+      "name": "Break"
+    },
+    {
+      "measure": 101,
+      "name": "Interlude"
+    },
+    {
+      "measure": 105,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 113,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a32b9152a64f37a8cb9244c8cbd94df5befedbae2e768fd01d2b0118b30c30bd",
+    "version": "BCFZ"
+  },
+  "tempo": 114,
+  "title": "Black Betty",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

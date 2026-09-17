@@ -1,0 +1,91 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[A5]  [F5]\n[C5]  [E5]\n[A5]  [F5]\n[C5]  [E5]\n[A5]  [F5]\n[C5]  [E5]\n[A5]  [F5]\n[C5]  [E5]\n\n[Verse 1]\n[A5]They're always [F5]doin' fry\n[C5]They try to [E5]get me high\n[A5]I felt the [F5]pressure, but\n[C5]I never [G5]did\n[A5]They used to [F5]call me dude\n[C5]They put it [E5]in my food\n[A5]I never [F5]wanted to\n[C5]when I was [G5]a kid\n\n[Bridge]\n[A5]  [F5]\n[C5]  [E5]\n[A5]  [F5]\n[C5]  [E5]\n\n[Verse 2]\n[A5]I've got no [F5]septicals\n[C5]From eating [E5]egg rolls\n[A5]They took my [F5]squirt gun and\n[C5]made it a [G5]bong\n[A5]My teacher [F5]smelled my clothes\n[C5]They think I'm [E5]one of those\n[A5]My mom's from [F5]Utopia, my\n[C5]dad's Tommy [G5]Chong My\n\n[Chorus]\n[A5]sis\nter's\n[F5]name\nIs\n[C5]Ma\nry--\n[G5]Jane\nAnd mine's\n\n[Outro]\n[A5]Bud, [F5]\n[C5][E5]mine's\n[A5]Bud [F5]\n[C5]  [E5]\n[A5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "x-10-12-12-x-x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "my name's bud",
+  "id": "f4aa3873b66befa226b0be56e85ad5c34dcdcb7b9640fa6e89a8bb573844e1e1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 101,
+  "normalizedKey": "nofx|my name s bud",
+  "playableChords": [
+    "A5",
+    "F5",
+    "C5",
+    "E5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Bridge"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f4aa3873b66befa226b0be56e85ad5c34dcdcb7b9640fa6e89a8bb573844e1e1",
+    "version": "BCFZ"
+  },
+  "tempo": 200,
+  "title": "my name's bud",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

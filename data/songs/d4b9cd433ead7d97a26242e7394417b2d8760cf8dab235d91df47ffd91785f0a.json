@@ -1,0 +1,201 @@
+{
+  "artist": "Queen",
+  "artistNormalized": "queen",
+  "capo": "No capo",
+  "chordPositionCount": 39,
+  "chordSymbolCount": 15,
+  "content": "[Intro]\n[A5]\n\n[Theme 1]\n[Am]Flash! [G/A]Aah!\n[F/A]Savior of the\n[D]Universe [A/C#][D][G/B]\n[Am]\n[Am]Flash! [G/A]Aah!\n[F/A]He'll save every\n[D]one of us [A/C#][D][G/B]\n\n[Intrelude]\n[Am]\n\n[Theme 1]\n[Am]Flash! [G/A]Aah!\n[F/A]He's a\n[D]miracle [A/C#][D][G/B]\n[Am]\n[Am]Flash! [G/A]Aah!\n[F/A]King of the im-\n[D]possible [A/C#][D][A/C#]\n[D]  [G/B]\n\n[Theme 2]\n[C]He's for every [G/B]one of us\n[Dm]Stand for every [A/C#]one of us\n[F]He save with a [C/E]mighty hand Every\n[F]man, every [D/F#]woman Every [G]child, with a [E/G#]mighty\n\n[Intrelude]\n[Am]Flash!\n\n[Theme 1]\n[Am]Flash! [G/A]Aah!\n[F/A]\n[D]  [A/C#]  [D]  [G/B]\n[Am]\n[Am]Flash! [G/A]Aah!\n[F/A]He'll save every\n[D]one of us [A/C#][D][A/C#]\n[D]  [G/B]\n\n[Theme 3]\n[C]Just a man [G/B]With a\n[C]man's courage [G/B]You know he's\n[Dm]Nothing but a [A/C#]man And he can\n[Dm]never fail [A/C#]\n[F]No one but the [C/E]pure at heart May\n[F]find the [D/F#]Golden Grail [G][E/G#]\n[Am]  [Cadd9/G]\n[F]\n\n[Outro]\n[A5]\n[Am]Flash!\n\n[Fade Out]",
+  "diagrams": {
+    "A/C#": {
+      "catalog": [
+        "x4222x"
+      ],
+      "catalogCount": 1
+    },
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "577555",
+        "x-0-2-2-1-0",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/E": {
+      "catalog": [
+        "032010"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9/G": {
+      "catalog": [
+        "332030"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/F#": {
+      "catalog": [
+        "254232"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E/G#": {
+      "catalog": [
+        "476454"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F/A": {
+      "catalog": [
+        "x4756x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/A": {
+      "catalog": [
+        "x05433"
+      ],
+      "catalogCount": 1
+    },
+    "G/B": {
+      "catalog": [
+        "x2003x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Flash's Theme",
+  "id": "d4b9cd433ead7d97a26242e7394417b2d8760cf8dab235d91df47ffd91785f0a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 124,
+  "normalizedKey": "queen|flash s theme",
+  "playableChords": [
+    "A5",
+    "Am",
+    "G/A",
+    "F/A",
+    "D",
+    "A/C#",
+    "G/B",
+    "C",
+    "Dm",
+    "F",
+    "C/E",
+    "D/F#",
+    "G",
+    "E/G#",
+    "Cadd9/G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Theme 1"
+    },
+    {
+      "measure": 14,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 20,
+      "name": "Theme 1"
+    },
+    {
+      "measure": 29,
+      "name": "Theme 2"
+    },
+    {
+      "measure": 33,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 42,
+      "name": "Theme 1"
+    },
+    {
+      "measure": 51,
+      "name": "Theme 3"
+    },
+    {
+      "measure": 60,
+      "name": "Outro"
+    },
+    {
+      "measure": 67,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d4b9cd433ead7d97a26242e7394417b2d8760cf8dab235d91df47ffd91785f0a",
+    "version": "BCFZ"
+  },
+  "tempo": 107,
+  "title": "Flash's Theme",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

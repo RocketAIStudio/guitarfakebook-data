@@ -1,0 +1,130 @@
+{
+  "artist": "R.E.M.",
+  "artistNormalized": "r e m",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Dm]\n\n[Verse 1]\n[Dm]Smack, crack, bushwhacked\n[G]Tie another one to your racks, ba-\n[Dm]by\nHey kids, rock and roll\n[G]Nobody tells you where to go, ba-\n[Dm]by\n\n[Chorus]\n[F]What if I ride, what if you walk?\n[Am]What if you rock around the clock?\n[G]Ticktock,\nticktock\n[Em]What if you did, what if you walk?\nWhat if you tried to get off, ba-\n[Dm]by? oh\n\n[Verse 2]\nHey, kids, where are you?\n[G]Nobody tells you what to do, ba-\n[Dm]by Oh\nHey kids, shake a leg\n[G]Maybe you're crazy in the head, ba-\nby Oh\n\n[Chorus]\n[F]Maybe you did, maybe you walked\n[Am]Maybe you rocked around the clock\n[G]Ticktock,\nticktock\n[Em]Maybe I ride, maybe you walk\nMaybe I drive to get off, ba-\n[Dm]by Oh\n[C]Hey kids, shake a leg\nMaybe you're crazy in the head, ba-\n[Dm]by\n[C]Ollie, ollie, ollie ollie ollie\nOllie ollie in come free, ba-\n[Dm]by\n[C]Hey, kids, where are you?\n[G]Nobody tells you what to do, ba-\n[Dm]by\n\n[Verse 3]\nSmack, crack, shackalack\n[G]Tie another one to your backs, ba-\n[Dm]by Oh\nHey kids, rock and roll\n[G]Nobody tells you where to go, ba-\n[Dm]by\n\n[Chorus]\n[F]Maybe you did, maybe you walk\n[Am]Maybe you rock around the clock\n[G]Ticktock,\nticktock\n[Em]Maybe I ride, maybe you walk\nMaybe I drive to get off, ba-\n[Dm]by\n[Em]Hey kids, where are you?\nNobody tells you what to do, ba-\n[Dm]by\n[Em]Hey kids, rock and roll\nNobody tells you where to go, ba-\n\n[Outro]\n[Dm]by, ba-\nby, ba-\nby",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Drive *alt 2",
+  "id": "4f09fbb3b9cf3b19643a055963858deebee2581c1193b5597f715e20ce911e3c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 288,
+  "normalizedKey": "r e m|drive",
+  "playableChords": [
+    "Dm",
+    "G",
+    "F",
+    "Am",
+    "Em",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4f09fbb3b9cf3b19643a055963858deebee2581c1193b5597f715e20ce911e3c",
+    "version": "BCFZ"
+  },
+  "tempo": 72,
+  "title": "Drive",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

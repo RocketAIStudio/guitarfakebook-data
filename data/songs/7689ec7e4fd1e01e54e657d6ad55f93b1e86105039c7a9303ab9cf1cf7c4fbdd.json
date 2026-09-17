@@ -1,0 +1,137 @@
+{
+  "artist": "Norah Jones",
+  "artistNormalized": "norah jones",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[C]\n[C7M]  [Am7]\n[C/G]  [Fsus2]\n[Em/5+]  [Fsus2]\n\n[Verse]\nThe summer days are gone [C]too soon. You shoot\n[C7M]the moon and miss [Am7]completely. And now\n[C/G]you're left to face [F]the gloom, the empty\n[C]room that once smelled [F]sweetly. Of all the\n[G]flowers you plucked if [C]only you knew the\n[C7M]reason why you [Am7]had to each be\n[C/G]lonely. Was it just [F]the season? sea-\n[C]son. [F]\n[G]  [Am]\n[C/G]  [F#/5-]\n[Fsus2]  [C]\n[G]  [C]\n[G]  [Am]\n[C/G]  [F#/5-]\n[Fsus2]  [C]\n[G]  [C]\n[G]\n(Instrumental Outro to End) [C]\n[C7M]  [Am7]\n[C/G]  [F]\n[C]  [F]\n[G]  [C]\n[C7M]  [Am7]\n[C/G]  [F]\n[C]  [F]\n[C]  [G6]  [C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "032010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C/G": {
+      "catalog": [
+        "3x201x"
+      ],
+      "catalogCount": 1
+    },
+    "C7M": {
+      "catalog": [
+        "x22x1x"
+      ],
+      "catalogCount": 1
+    },
+    "Em/5+": {
+      "catalog": [
+        "0xx01x"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#/5-": {
+      "catalog": [
+        "2xxx1x"
+      ],
+      "catalogCount": 1
+    },
+    "Fsus2": {
+      "catalog": [
+        "1xx01x"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G6": {
+      "catalog": [
+        "320030"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Shoot the Moon",
+  "id": "7689ec7e4fd1e01e54e657d6ad55f93b1e86105039c7a9303ab9cf1cf7c4fbdd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 62,
+  "normalizedKey": "norah jones|shoot the moon",
+  "playableChords": [
+    "C",
+    "C7M",
+    "Am7",
+    "C/G",
+    "Fsus2",
+    "Em/5+",
+    "F",
+    "G",
+    "Am",
+    "F#/5-",
+    "G6"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse"
+    }
+  ],
+  "source": {
+    "format": "gp4",
+    "sha256": "7689ec7e4fd1e01e54e657d6ad55f93b1e86105039c7a9303ab9cf1cf7c4fbdd",
+    "version": "FICHIER GUITAR PRO v4.00"
+  },
+  "tempo": 80,
+  "title": "Shoot the Moon",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

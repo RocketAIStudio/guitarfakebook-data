@@ -1,0 +1,96 @@
+{
+  "artist": "Radiohead",
+  "artistNormalized": "radiohead",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C#m]\n[E]\n[A]\n[C#m]\n[E]\n[A]When\n\n[Verse 1]\n[C#m]I'm at the\n[E]pearly gates This\n[A]will be on my\n[C#m]videotape, my\n[E]videotape\n[A]Me-\n[C#m]phistopheles is\n[E]just beneath And he's\n[A]reaching up to\n[C#m]grab me\n[E]\n[A]This is one for the\n[C#m]good days And\n[E]I have it all here In\n[A]red, blue, green In\n[C#m]red, blue, green\n[E]\n[A]You are my center When I\n[C#m]spin away\n[E]Out of control on\n[C#m]videotape On\n[E]videotape On\n\n[Bridge]\n[A]videotape On\n[C#m]videotape On\n[E]videotape On\n[A]videotape\n[C#m]\n[E]\n[A]\n[C#m]\n[E]\n[A]\n[C#m]\n[E]\n[A]\n[C#m]\n[E]\n[A]\n[C#m]\n[E]\n\n[Verse 2]\n[A]This is my way of\n[C#m]saying goodbye\n[E]Because\n[A]I can't do it\n[C#m]face to face I'm\n[E]talking to you before No\n[A]matter what\n[C#m]happens now\n[E]You shouldn't be afraid\n[C#m]Cause I know to-\n[E]day has been the most\n[A]perfect day I've\n[C#m]ever seen\n[E]\n\n[Outro]\n[F#m]\n[C#m]\n[E]\n[F#m]\n[C#m]\n[E]\n[F#m]\n[C#m]\n[E]\n[F#m]\n[C#m]\n[E]\n[F#m]\n[C#m]\n[E]\n[F#m]\n[C#m]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Videotape",
+  "id": "f23cefc81388f952ac8c1cee8830c34215c4102dd725e159497e8ef0334140ed",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 156,
+  "normalizedKey": "radiohead|videotape",
+  "playableChords": [
+    "C#m",
+    "E",
+    "A",
+    "F#m"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 62,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f23cefc81388f952ac8c1cee8830c34215c4102dd725e159497e8ef0334140ed",
+    "version": "BCFZ"
+  },
+  "tempo": 77,
+  "title": "Videotape",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

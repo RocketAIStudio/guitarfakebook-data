@@ -1,0 +1,100 @@
+{
+  "artist": "Porter Robinson",
+  "artistNormalized": "porter robinson",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Dmaj7]\n[Aadd9]\n[Bm7]\n[F#m7]\n[Dmaj7]\n[Aadd9]\n[Bm7]\n[F#m7]\n[Dmaj7]\n[Aadd9]\n[Bm7]\n[F#m7]\n[Dmaj7]\n[Aadd9]\n[Bm7]\n[F#m7]\n[Dmaj7]\n[Aadd9]\n[Bm7]\n[F#m7]\n[Dmaj7]\n[Aadd9]\n[Bm7]\n[F#m7]\n[Dmaj7]\n[Aadd9]\n[Bm7]\n[F#m7]\n\n[Verse 1]\n[Dmaj7]Thank you,\nI'll say good-\n[Aadd9]bye soon\nThough its the\n[Bm7]end of the world,\nDon't blame your-\n[F#m7]self\nnow And if\n[Dmaj7]its true,\nI will surround\n[Aadd9]you\nand give life to a\n[Bm7]world\nThat's our\n[F#m7]own\n[Dmaj7]Thank you,\nI'll say good-\n[Aadd9]bye now\nThough its the end\n[Bm7]of the world,\nDon't blame yourself\n[F#m7]now\nAnd if\n[Dmaj7]its true,\nI will sur-\n[Aadd9]round you\nand give life to a\n[Bm7]world\nThat's our\n[F#m7]own\n\n[Interlude]\n[Dmaj7]\n[Aadd9]\n[F#m7]\n[Bm7]\n[F#m7]\n[Dmaj7]\n[Aadd9]\n[F#m7]\n[Bm7]\n[F#m7]\n\n[Verse 2]\n[Dmaj7]Thank you,\nI'll say good-\n[Aadd9]bye soon\nThough its the\n[Bm7]end of the world,\nDon't blame your-\n[F#m7]self\nnow And if\n[Dmaj7]its true,\nI will surround\n[Aadd9]you\nand give life to a\n[Bm7]world\n[F#m7]\n\n[Interlude]\n[Dmaj7]\n[Aadd9]\n[F#m7]\n[Bm7]\n[F#m7]\n[Dmaj7]\n[Aadd9]\n[F#m7]\n[Bm7]\n[F#m7]\n\n[Verse 3]\n[Dmaj7]\n[Aadd9]\n[Bm7]\n[F#m7]\n[Dmaj7]Thank you,\nI'll say good-\n[Aadd9]bye now\nThough its the\n[Bm7]end of the world,\nDon't blame your-\n[F#m7]self\nnow And if\n\n[Outro]\n[Dmaj7]its true,\nI will sur-\n[Aadd9]round you\nand give life to a\n[Bm7]world\nThat's our\n[F#m7]own\n[Dmaj7]Thank you,\nI'll say good-\n[Aadd9]bye soon\nThough its the\n[Bm7]end of the world,\nDon't blame your-\n[F#m7]self\nnow And if\n[Dmaj7]its true,\nI will sur-\n[Aadd9]round you\n[Bm7]\n[F#m7]",
+  "diagrams": {
+    "Aadd9": {
+      "catalog": [
+        "x02420"
+      ],
+      "catalogCount": 1
+    },
+    "Bm7": {
+      "catalog": [
+        "x24232",
+        "7-9-7-7-7-7",
+        "x-x-9-11-10-10",
+        "x-14-16-14-15-14",
+        "19-21-19-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Dmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9",
+        "10-12-11-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "242222",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14",
+        "x-21-23-21-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Goodbye To A World",
+  "id": "7fbaf6f0cbcef46c4c00b319fa64a2f3c0a6004479420bfe04b6c3497977aede",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 173,
+  "normalizedKey": "porter robinson|goodbye to a world",
+  "playableChords": [
+    "Dmaj7",
+    "Aadd9",
+    "Bm7",
+    "F#m7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 89,
+      "name": "Interlude"
+    },
+    {
+      "measure": 105,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 121,
+      "name": "Interlude"
+    },
+    {
+      "measure": 137,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 153,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7fbaf6f0cbcef46c4c00b319fa64a2f3c0a6004479420bfe04b6c3497977aede",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Goodbye To A World",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

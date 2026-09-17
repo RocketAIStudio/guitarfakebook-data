@@ -1,0 +1,93 @@
+{
+  "artist": "Pentangle",
+  "artistNormalized": "pentangle",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[Dm]\n[Am]\n[C]\n[Dm]\n\n[Verse 1]\n[Dm]Just like the songbird,\n[Am]deep in the forest\n[C]I sing praises but\nyou never [Dm]hear\nAnd deep in my body\n[Am]my song is silent\n[C]Yet contented at\ntimes when you're [Dm]near\n\n[Verse 2]\n[Dm]Please listen to me\n[Am]and I will tell thee\n[C]All those words that have\nnever been [Dm]said\nThey shout inside me\n[Am]but then they cower\n[C]Behind weakness that's\nruling my [Dm]head\n\n[Solo]\n[Dm]\n[Am]\n[C]\n[Dm]\n[Am]\n[C]\n[Dm]\n\n[Verse 3]\n[Dm]I dearly love thee\n[Am]and not one other\n[C]With a sweetness that\nlies in my [Dm]breast\n'Tis you that made me\n[Am]but God forbade me\n[C]To uncover my\nheart to love's [Dm]test\n\n[Verse 4]\n[Dm]No love is sorrow\n[Am]and now I'm happy\n[C]To have thee in this\nworld for my [Dm]love\nAnd now you must know\n[Am]my soul is for thee\n[C]That's why this life is\nmy soaring [Dm]dove\n\n[Outro]\n[C]That's why this life is\nmy soaring [Dm]dove",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "No Love is Sorrow",
+  "id": "d77ac796ee4f4cb861c8ce3ebc6b83403440c2644fb1df73dd1b9a130c3272d4",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 162,
+  "normalizedKey": "pentangle|no love is sorrow",
+  "playableChords": [
+    "Dm",
+    "Am",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 25,
+      "name": "Solo"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d77ac796ee4f4cb861c8ce3ebc6b83403440c2644fb1df73dd1b9a130c3272d4",
+    "version": "BCFZ"
+  },
+  "tempo": 76,
+  "title": "No Love is Sorrow",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

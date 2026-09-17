@@ -1,0 +1,119 @@
+{
+  "artist": "Passenger",
+  "artistNormalized": "passenger",
+  "capo": "7",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]\n[C]\n[D]  [G]\n[Em]  [C]\n[D]\n[Em]  [C]\n[D]  [G]\n[C]  [D]\n[G]Do you re-\n\n[Verse 1]\n[Em]member when we [C]were two beau-\n[D]tiful birds? [G]We would\n[Em]light up the sky [C]when we'd\n[D]fly You were\n[Em]orange and red [C]like the\n[D]sun when it sets [G]I was\n[Am]green as an apple's eye\n[D]\n\n[Verse 2]\n[Em]You said you loved [C]all the songs\n[D]that I'd sing [G]Like\n[Em]nothing that you'd [C]ever heard\n[D]And\n[Em]I said I loved [C]you with\n[D]all of my heart [G]when\n[C]We were two [D]beautiful birds\n[G]\n\n[Interlude]\n[Em]  [C]\n[D]  [G]\n[Em]  [C]\n[D]\n[Em]  [C]\n[D]  [G]\n[C]  [D]\n[G]Do you re-\n\n[Verse 3]\n[Em]member when we [C]were two\n[D]beautiful birds? [G]We would\n[Em]sing when the [C]morning would\n[D]come You were\n[Em]silver and blue [C]like the\n[D]moon when it's new [G]I was\n[Am]gold as a summer sun\n[D]\n\n[Verse 4]\n[Em]But one day you asked [C]for a\n[D]different song [G]\n[Em]One that I just [C]couldn't sing\n[D]I got the\n[Em]melody sharp and [C]the\n[D]words all wrong [G]\n[Am]Those were the last days of spring\n[D]\n\n[Verse 5]\n[Am]To build a nest we pecked\n[Em]feathers from our chests Like a\n[G]book tearing out every page\n[D]\n[Am]We weren't to know that these\n[Em]feathers would grow\n[G]Into a beautiful cage\n[D]\n\n[Outro]\n[Em]  [C]\n[D]  [G]\n[Em]  [C]\n[D]\n[Em]  [C]\n[D]  [G]\n[C]  [D]\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Beautiful Birds",
+  "id": "193a764ead175beddc50e4b2005ac044cd4f82479c2ca61ee76400bb75145cc5",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 195,
+  "normalizedKey": "passenger|beautiful birds",
+  "playableChords": [
+    "Em",
+    "C",
+    "D",
+    "G",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Interlude"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 50,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 58,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "193a764ead175beddc50e4b2005ac044cd4f82479c2ca61ee76400bb75145cc5",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "Beautiful Birds",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

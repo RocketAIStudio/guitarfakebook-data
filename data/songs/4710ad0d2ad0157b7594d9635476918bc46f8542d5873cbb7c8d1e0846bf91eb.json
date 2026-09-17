@@ -1,0 +1,145 @@
+{
+  "artist": "Queen",
+  "artistNormalized": "queen",
+  "capo": "No capo",
+  "chordPositionCount": 39,
+  "chordSymbolCount": 11,
+  "content": "[Verse 1]\n[D]So dear friends your\n[G]love [Asus4/E]has [D]gone\nOnly tears to\n[A]dwell [E7]upon [A]I\n[D]dare [A]not [G]say [D]as the\n[G]wind [F#m]must [Em]blow So a\n[Dsus2]love is [D]lost,\n[Dsus2/A]a love [D/A]is [A7]won\n\n[Verse 2]\n[D]Go to sleep and\n[G]dream [Asus4/E]again [D]\nSoon your hopes will\n[A]rise [E7]and [A]then From\n[D]all [A]this [G]gloom [D]life can\n[G]start [F#m]anew [Em]And there'll\n[A]be no crying\n[G]soon [D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "575655",
+        "x-0-2-0-2-0",
+        "5-4-2-2-2-3",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4/E": {
+      "catalog": [
+        "x7775x"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "557775"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2": {
+      "catalog": [
+        "x5775x"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2/A": {
+      "catalog": [
+        "557755"
+      ],
+      "catalogCount": 1
+    },
+    "E7": {
+      "catalog": [
+        "xx2434",
+        "0-2-0-1-0-0",
+        "x-7-6-7-5-4",
+        "x-7-9-7-9-7",
+        "12-11-9-9-9-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dear friends",
+  "id": "4710ad0d2ad0157b7594d9635476918bc46f8542d5873cbb7c8d1e0846bf91eb",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 66,
+  "normalizedKey": "queen|dear friends",
+  "playableChords": [
+    "D",
+    "G",
+    "Asus4/E",
+    "A",
+    "E7",
+    "F#m",
+    "Em",
+    "Dsus2",
+    "Dsus2/A",
+    "D/A",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4710ad0d2ad0157b7594d9635476918bc46f8542d5873cbb7c8d1e0846bf91eb",
+    "version": "BCFZ"
+  },
+  "tempo": 60,
+  "title": "Dear friends",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

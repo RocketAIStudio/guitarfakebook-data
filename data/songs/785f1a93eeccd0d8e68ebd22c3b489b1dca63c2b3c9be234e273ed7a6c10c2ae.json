@@ -1,0 +1,111 @@
+{
+  "artist": "Placebo",
+  "artistNormalized": "placebo",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Verse 1]\n[Gm]My comp-\nuter thinks I’m gay\n[F]I threw that\npiece of junk away\n[Eb]On the\nChamps Élysées\nAs I was\nwalking home.\n[Gm]This is my\nlast communiqué\n[F]Down the\nsuper highway\n[Eb]All that\nI have left to say\nIn a\nsingle tome. I got\n\n[Chorus]\n[Bb]too many friends\nToo many people That\n[F]I’ll never meet and\nI’ll never be there for\n[Gm]\nI’ll never be there for\n[Eb]\nCause I’ll never be there.\n\n[Verse 2]\n[Gm]If I could\ngive it all away\n[F]Would it come\nback to me someday\n[Eb]Like a\nneedle in the hay\nor An ex-\npensive stone.\n[Gm]But I got\na reason to declaim\n[F]The appli-\ncations are to blame\n[Eb]For all my\nsorrow and my pain\nOf feeling\nso alone. I got\n\n[Chorus]\n[Bb]too many friends\nToo many people That\n[F]I’ll never meet\nand I’ll never be there\n[Gm]for\nI’ll never be there\n[Eb]for\nCause I’ll never be there.\n[Bb]Too many friends\nToo many people That\n[F]I’ll never meet\nand I’ll never be there\n[Gm]for\nI’ll never be there\n[Eb]for\nCause I’ll never be there.\n[D]\n\n[Verse 3]\n[Gm]My comp-\nuter thinks I’m gay\n[F]What’s the\ndifference anyway\n[Eb]When all\nthat people do all day\nIs stare into\na phone I got\n\n[Chorus]\n[Bb]too many friends\nToo many people That\n[F]I’ll never meet\nand I’ll never be there\n[Gm]for\nI’ll never be there\n[Eb]for\nCause I’ll never be there.\n[Bb]Too many friends\nToo many people That I’ll never\n[F]meet and I’ll never\nbe there for I’ll never be\n[Gm]there\nfor Cause I’ll never be there\n[Eb]I’ll\nnever be there\n[Bb]\n[F]\n[Gm]\n[Eb]\n[Gm]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x32010",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "022100",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "133211",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "355433",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "577555",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Too Many Friends",
+  "id": "785f1a93eeccd0d8e68ebd22c3b489b1dca63c2b3c9be234e273ed7a6c10c2ae",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 287,
+  "normalizedKey": "placebo|too many friends",
+  "playableChords": [
+    "Gm",
+    "F",
+    "Eb",
+    "Bb",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "785f1a93eeccd0d8e68ebd22c3b489b1dca63c2b3c9be234e273ed7a6c10c2ae",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "Too Many Friends",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

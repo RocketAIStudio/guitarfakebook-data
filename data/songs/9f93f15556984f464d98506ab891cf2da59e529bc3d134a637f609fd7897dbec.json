@@ -1,0 +1,131 @@
+{
+  "artist": "Placebo",
+  "artistNormalized": "placebo",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F]  [Dm]\n[A]  [Bb]\n[F]  [Dm]\n[A]  [Bb]\n[F]  [Dm]\n[A]  [Bb]\n[F]  [Dm]\n[A][Bb]With your\n\n[Verse 1]\n[F]feet in the air and your [Dm]head on the ground\n[A]  [Bb]\n[F]Try this [Dm]trick and spin\n[A]it! [Bb]Yeahh!\n[F]Your head will collapse, [Dm]but there's\n[A]nothing in it And you'll [Bb]ask yourself?\n\n[Chorus]\n[F]Where is my mind? [Dm]\n[A]Where is my mind? [Bb]Where\n[F]is my [Dm]mind?\n[A]Where is my mind? [Bb]\n[F]  [Dm]\n[A][Bb]Way\n[F]out, [A]in the\n[Bb]water see it swimmin'\n\n[Bridge]\n[Dm]\n[C]\n\n[Verse 2]\n[F]I was swimmin' [Dm]in the Carribean\n[A]  [Bb]\n[F]Animals would [Dm]hide behind the rocks.\n[A][Bb]Yeahh!\n[F]Except the little fish [Dm]But he\n[A]told me east was west [Bb]Tryin' to talk\n\n[Chorus]\n[F]Where is my mind? [Dm]\n[A]Where is my mind? [Bb]Where\n[F]is my [Dm]mind?\n[A]Where is my mind? [Bb]\n[F]  [Dm]\n[A][Bb]Way\n[F]out, [A]in the\n[Bb]water see it swimmin'\n\n[Bridge]\n[Dm]\n[C]\nWith your\n\n[Verse 3]\n[F]feet in the air and your head [Dm]on the ground\n[A]  [Bb]\n[F]Try this [Dm]trick and\n[A]spin it! [Bb]Yeahh!\n[F]Your head will collapse, [Dm]but there's\n[A]nothing in it And you'll [Bb]ask yourself?\n\n[Chorus]\n[F]Where is my mind? [Dm]\n[A]Where is my mind? [Bb]Where\n[F]is my [Dm]mind?\n[A]Where is my mind? [Bb]\n[F]  [Dm]\n[A][Bb]Way\n[F]out, [A]in the\n[Bb]water see it swimmin'\n\n[Bridge]\n[Dm]\n[C]\n\n[Outro]\n[F]  [Dm]\n[A]  [Bb]\n[F]  [Dm]\n[A]  [Bb]\n[F]  [Dm]\n[A]  [Bb]\n[F]  [Dm]\n[A]  [Bb]\n[F]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "466544",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "577655",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x24442",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "x46654",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "022100",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Where Is My Mind",
+  "id": "9f93f15556984f464d98506ab891cf2da59e529bc3d134a637f609fd7897dbec",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 183,
+  "normalizedKey": "placebo|where is my mind",
+  "playableChords": [
+    "F",
+    "Dm",
+    "A",
+    "Bb",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Bridge"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 44,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 50,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Bridge"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9f93f15556984f464d98506ab891cf2da59e529bc3d134a637f609fd7897dbec",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Where Is My Mind",
+  "tuning": "F A# D# G# C F",
+  "variantRole": "primary"
+}

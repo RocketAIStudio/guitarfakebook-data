@@ -1,0 +1,113 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 13,
+  "chordSymbolCount": 8,
+  "content": "[Verse 1]\nWhen they\n[G5]tightly strap me in, give me\n[C5]lethal [G5]injection, Just a\n[B5]few moments to [E5]live, no re-\n[C5]morse for what I [D5]did, It was for\n[G5]the betterment of man, I\n[C5]gave the utmost [G5]sacrifice, Before more\n[B5]damage could be done [C5]I took his\n[G5]life. There was a\n\n[Chorus]\n[E5/B]split second of silence when the dart\n[C5]punctured the skin, Beady\n[G5]eyes rolled back in head, body\n[D/F#]dropped from the poison, They could\n[E5/B]incapacitate me, but could\n[C5]not erase my sneer, I heard a\n[G5]thousand people screaming, while three\n[D/F#]billion others cheered, He was\n[E5]gone, and\n[C5]I would soon b-\n[D5]e...\nExecut-\n\n[Verse 2]\n[G5]ed by the state, all ap-\n[C5]peals would be in [G5]vain, I was not\n[B5]criminally insane, in fact, [C5]I was\n[G5]found to be, An otherwise\n[G5]caring and respectable member\n[C5]of [G5]society, A minor\n[B5]threat, except for that [C5]one man I\n[G5]killed. As the\n\n[Chorus]\n[E5/B]sedatives take effect, I just\n[C5]smile and close my eyes, There's a\n[G5]priest kneeling next to me, he asks\n[D/F#]me if I realize, I was\n[E5/B]going straight to hell, and he\n[C5]thought that I should know, That the\n[G5]man I killed's replacement plan-\n[D/F#]ned this whole scenario, And what\n[E5]I did\n[C5]had no sig-\n[D5]nificance at\n\n[Outro]\n[G]all.\n[C5]  [G5]\n[B5]  [C5]\n[G]",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D/F#": {
+      "catalog": [
+        "254232"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx",
+        "02xxxx"
+      ],
+      "catalogCount": 2
+    },
+    "E5/B": {
+      "catalog": [
+        "779xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "3554xx",
+        "35543x",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Man I Killed",
+  "id": "8f559c312aa3bc3a45908d10acf41cd205f8ad1af9df61be615ec9444fd8104a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 237,
+  "normalizedKey": "nofx|the man i killed",
+  "playableChords": [
+    "G5",
+    "C5",
+    "B5",
+    "E5",
+    "D5",
+    "E5/B",
+    "D/F#",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 10,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8f559c312aa3bc3a45908d10acf41cd205f8ad1af9df61be615ec9444fd8104a",
+    "version": "BCFZ"
+  },
+  "tempo": 136,
+  "title": "The Man I Killed",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,118 @@
+{
+  "artist": "Phillip Phillis",
+  "artistNormalized": "phillip phillis",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\n[Cadd11]\n[C]\n[Cadd11]\n\n[Verse]\n[C]Hold o-\n[Cadd11]n to me as we go\n[C]\n[Cadd11]As we\n[C]roll dow-\n[Cadd11]n this unfamiliar roa-\n[C]d\n[Cadd11]And although this\n[Am]wa-\n[Cadd11]ve is stringing us alo-\n[C]ng\n[Cadd11]Just\n[C]know [Csus2/B]you're [Am]not [G]alo-\n[Am]ne\n'Cause I'm gonna\n[Cadd11]make [C]this [G]place you-\n[C]r home\n\n[Chorus]\n[C]Settle dow-\n[Cadd11]n, it 'll all be\n[C]clear\n[Cadd11]\n[C]Don't pay no mind to the\n[Cadd11]demons They fill you with\n[C]fear\n[Cadd11]The\n[Am]trouble it might drag you\n[F]down If you get\n[C]lost, you can always be\n[G]found Just\n[C]know [Csus2/B]you're [Am]not [G]alo-\n[Am]ne\n'Cause I'm gonna\n[F]make [C]this [G]place you-\n[C]r home\n\n[Post-Chorus]\n[F]\n[C]\n[Am]\n[G]\n[F]\n[C]\n[G]\n[F]\n[C]\n[Am]\n[G]\n[F]\n[C]\n[G]\n[F]\n[C]\n[Am]\n[G]\n[F]\n[C]\n[G]\n\n[Chorus]\n[C]Settle dow-\n[Cadd11]n, it 'll all be\n[C]clear\n[Cadd11]\n[C]Don't pay no mind to the\n[Cadd11]demons They fill you with\n[C]fear\n[Cadd11]The\n[Am]trouble it might drag you\n[F]down If you get\n[C]lost, you can always be\n[G]found Just\n[C]know [Csus2/B]you're [Am]not [G]alon-\n[Am]e\n'Cause I'm gonna\n[F]make [C]this [G]place you-\n[C]r home\n\n[Post-Chorus]\n[F]\n[C]\n[Am]\n[G]\n[F]\n[C]\n[G]\n[F]\n[C]\n[Am]\n[G]\n[F]\n[C]\n[G]\n\n[Outro]\n[F]\n[C]\n[Am]\n[G]\n[F]\n[C]\n[G]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd11": {
+      "catalog": [
+        "x33010"
+      ],
+      "catalogCount": 1
+    },
+    "Csus2/B": {
+      "catalog": [
+        "x2001x"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Home",
+  "id": "5f58e89f23af66e459268f05db03bc086efff68fc7d346ea6a55e0a0447b52e5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 164,
+  "normalizedKey": "phillip phillis|home",
+  "playableChords": [
+    "C",
+    "Cadd11",
+    "Am",
+    "Csus2/B",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Post-Chorus"
+    },
+    {
+      "measure": 99,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "5f58e89f23af66e459268f05db03bc086efff68fc7d346ea6a55e0a0447b52e5",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Home",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

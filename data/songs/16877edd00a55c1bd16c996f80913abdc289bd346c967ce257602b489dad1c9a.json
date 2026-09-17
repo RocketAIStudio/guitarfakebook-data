@@ -1,0 +1,103 @@
+{
+  "artist": "Queens Of The Stone Age",
+  "artistNormalized": "queens of the stone age",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Am]\n\n[Verse 1]\n[Am]Where, oh, where have you\n[E]been my love?\nWhere, oh, where can you\n[Am]be? It's\nbeen so long, since the\n[E]moon has gone and\noh what a wreck you've made\n[Am]me Are you\n\n[Chorus]\n[C]there, over the\n[G]ocean? Are you\n[F]there, up in the\n[E]sky? Un-\n[Am]til the return of my\n[E]love This lulla-\n[Am]by\nMy\n\n[Verse 2]\n[Am]Hope is on the ho-\n[E]rizon Every\nface, it's your eyes I can\n[Am]see I\nplead, I pray through each\n[E]night and day Our em-\nbrace is only a\n[Am]dream. And as\n\n[Chorus]\n[C]sure as days come from\n[G]moments Each\n[F]hour becomes a life's\n[E]time When she'd\n[Am]left, I'd only be-\n[E]gun this lulla-\n[Am]by",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "This Lullaby",
+  "id": "16877edd00a55c1bd16c996f80913abdc289bd346c967ce257602b489dad1c9a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 119,
+  "normalizedKey": "queens of the stone age|this lullaby",
+  "playableChords": [
+    "Am",
+    "E",
+    "C",
+    "G",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "16877edd00a55c1bd16c996f80913abdc289bd346c967ce257602b489dad1c9a",
+    "version": "BCFZ"
+  },
+  "tempo": 79,
+  "title": "This Lullaby",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

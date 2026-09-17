@@ -1,0 +1,100 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Dm]\n\n[Verse 1]\n[Dm]Daddy's flown\n'cross the ocean\nLeaving just a\nmemory\nA\nsnapshot in the\nfamily album\nDaddy what else\ndid you leave for me?\n\n[Pre-Chorus]\n[G]\nDaddy, what you leave behind for\n[Dm]me?!?\n\n[Chorus]\n[F]All in all it was\n[C]just a brick in the\n[Dm]wall.\n[F]\n[C]All in all it was\n[Dm]all just bricks in the\nwall.\n\n[Interlude]\n[Dm]\nAah, ouh, hey,\nhey\n[C]\n\n[Outro]\n[Dm]\n[C]\n[Dm]\n[C]\n[Dm]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Another Brick in the Wall (Part I) *alt",
+  "id": "e8bf01bb6c4712625c7f854efb09f356a2935afb1952fbc748a0196e4d94f2f0",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 67,
+  "normalizedKey": "pink floyd|another brick in the wall part i",
+  "playableChords": [
+    "Dm",
+    "G",
+    "F",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Interlude"
+    },
+    {
+      "measure": 67,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e8bf01bb6c4712625c7f854efb09f356a2935afb1952fbc748a0196e4d94f2f0",
+    "version": "BCFZ"
+  },
+  "tempo": 98,
+  "title": "Another Brick in the Wall (Part I)",
+  "tuning": "C A D G B E",
+  "variantRole": "alt"
+}

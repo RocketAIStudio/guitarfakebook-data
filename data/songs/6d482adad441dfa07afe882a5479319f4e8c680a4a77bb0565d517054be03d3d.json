@@ -1,0 +1,153 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 43,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[Bm]\n[F/A]\n[Bb]\n[F]\n[Gm7]\n[C7]\n[Gm7]\n[C7]\n[F/A]I am not\n[Bb]frightened of dying Any time will do, I don't mind\n[Ebmaj7]Why should I be\n[Cm]frightened of dying? There's no reason for it, you've gotta go\n[F/A]sometime\n[Bb]  [Ebmaj7]\n[Bb]\n\n[Interlude]\n[Gm7]\n[C9]\n[Gm7]\n[C9]\n[Gm7]\n[C9]\n[Gm7]\n[C9]\n[Gm7]\n[C9]\n[Gm7]\n[C9]\n[Gm7]\n[C9]\n[Gm7]\n[C9]\n[Gm7]\n[C9]\n[Gm7]  [Bbmmaj7]\n[Gb7]  [Bm]\n\n[Outro]\n[Bm]\n[F/A]\n[Bb]\n[F]\n[Gm7]\n[C7]\n[Gm7]\n[C7]\n[F/A]\n[Bb]\n[Ebmaj7]\n[Cm]\n[F/A]\n[Bb]  [Ebmaj7]\n[Bb]\nI never said I was frightened of dying\n[Gm7]\n[C7]\n[Gm7]\n[C7]\n[Gm7]\n[C7]\n[Gm7]\n[C7]\n[Gm7]\n[C7]\n[Gm7]\n[C7]\n[Gm7]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bbmmaj7": {
+      "catalog": [
+        "x13221"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C7": {
+      "catalog": [
+        "x35353",
+        "x-3-2-3-1-0",
+        "8-7-5-5-5-6",
+        "8-10-8-9-8-8",
+        "x-x-10-12-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "C9": {
+      "catalog": [
+        "x32333"
+      ],
+      "catalogCount": 1
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Ebmaj7": {
+      "catalog": [
+        "xx1333",
+        "x-6-5-3-3-3",
+        "x-6-8-7-8-6",
+        "11-10-8-8-8-10",
+        "11-13-12-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F/A": {
+      "catalog": [
+        "x03211"
+      ],
+      "catalogCount": 1
+    },
+    "Gb7": {
+      "catalog": [
+        "xx4656",
+        "2-4-2-3-2-2",
+        "x-9-8-9-7-6",
+        "x-9-11-9-11-9",
+        "14-13-11-11-11-12"
+      ],
+      "catalogCount": 5
+    },
+    "Gm7": {
+      "catalog": [
+        "353333",
+        "x-x-5-7-6-6",
+        "x-10-12-10-11-10",
+        "15-17-15-15-15-15",
+        "x-22-24-22-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Great Gig In The Sky",
+  "id": "6d482adad441dfa07afe882a5479319f4e8c680a4a77bb0565d517054be03d3d",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 48,
+  "normalizedKey": "pink floyd|the great gig in the sky",
+  "playableChords": [
+    "Bm",
+    "F/A",
+    "Bb",
+    "F",
+    "Gm7",
+    "C7",
+    "Ebmaj7",
+    "Cm",
+    "C9",
+    "Bbmmaj7",
+    "Gb7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Interlude"
+    },
+    {
+      "measure": 39,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6d482adad441dfa07afe882a5479319f4e8c680a4a77bb0565d517054be03d3d",
+    "version": "BCFZ"
+  },
+  "tempo": 53,
+  "title": "The Great Gig In The Sky",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

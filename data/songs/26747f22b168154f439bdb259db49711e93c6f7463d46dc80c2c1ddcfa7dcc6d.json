@@ -1,0 +1,108 @@
+{
+  "artist": "RadioHead",
+  "artistNormalized": "radiohead",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[G]\n[B]\n[C]\n[Cm]\nWhen you were here before\n\n[Verse 1]\n[G]\nCouldn't look you in the eye\n[B]\nYou're just like an an-\n[C]gel\nSkin makes me cry\n[Cm]\nYou float like a fea-\n[G]ther\nIn a beautiful world\n[B]\nAnd I wish I was spe-\n[C]cial\nYou're so fuckin' spe-\n[Cm]cial\nBut I'm a creep,\n\n[Chorus]\n[G]\nI'm a weir-\n[B]do.\nWhat the hell am I doing here?\n[C]\nI don't belong\n[Cm]here.\nI don't care if it hurts\n\n[Verse 2]\n[G]\nI want to have control\n[B]\nI want a perfect bo-\n[C]dy\nI want a perfect soul\n[Cm]\nI want you to no-\n[G]tice\nWhen I'm not around\n[B]\nYou're so fuckin' spe-\n[C]cial\nI wish I was spe-\n[Cm]cial\nBut I'm a creep,\n\n[Chorus]\n[G]\nI'm a weir-\n[B]do.\nWhat the hell am I doing here?\n[C]\nI don't belong\n[Cm]here.\n\n[Bridge]\n[G]She's\nrunning out the door,\n[B]\n[C]She's\nrunning out She's\n[Cm]run run\nrun run\n[G]\n[B]\n[C]run\n[Cm]\nWhatever makes you hap-\n\n[Verse 3]\n[G]py\nWhatever you want\n[B]\nYou're so fuckin' spe-\n[C]cial\nI wish I was spe-\n[Cm]cial\nBut I'm a creep,\n\n[Chorus]\n[G]\nI'm a weir-\n[B]do,\nWhat the hell am I doing here?\n[C]\nI don't belong\n[Cm]here.\nI don't belong\n[G]here.",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Creep *alt 3",
+  "id": "26747f22b168154f439bdb259db49711e93c6f7463d46dc80c2c1ddcfa7dcc6d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 194,
+  "normalizedKey": "radiohead|creep",
+  "playableChords": [
+    "G",
+    "B",
+    "C",
+    "Cm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 81,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "26747f22b168154f439bdb259db49711e93c6f7463d46dc80c2c1ddcfa7dcc6d",
+    "version": "BCFZ"
+  },
+  "tempo": 93,
+  "title": "Creep",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

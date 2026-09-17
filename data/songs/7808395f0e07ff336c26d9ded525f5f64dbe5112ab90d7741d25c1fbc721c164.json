@@ -1,0 +1,75 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E5]\n[F#5]\n[G5]\n[F#5]\n[E5]\n[F#5]\n[G5]\n[F#5]\n[E5]\n[F#5]\n[G5]\n[F#5]\n[E5]\n[F#5]\n[G5]\n[F#5]\n[E5]\n[F#5]\n[G5]\n[F#5]\n[B5]\n[F#5]\n[B5]\n[F#5]\n[E5]\n[F#5]\n[G5]\n[A5]\n[B5]\nWhat\n\n[Verse]\n[E5]shall we\n[F#5]use To\n[G5]fill the\n[F#5]empty\n[E5]spaces\n[F#5]Where we\n[G5]used to talk?\n[F#5]\n[E5]How shall I\n[F#5]fill The\n[G5]final\n[F#5]places?\n[E5]How should I\n[F#5]com-\n[G5]plete the wall\n[F#5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "x022xx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Empty Spaces *alt",
+  "id": "7808395f0e07ff336c26d9ded525f5f64dbe5112ab90d7741d25c1fbc721c164",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 32,
+  "normalizedKey": "pink floyd|empty spaces",
+  "playableChords": [
+    "E5",
+    "F#5",
+    "G5",
+    "B5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 37,
+      "name": "Verse"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7808395f0e07ff336c26d9ded525f5f64dbe5112ab90d7741d25c1fbc721c164",
+    "version": "BCFZ"
+  },
+  "tempo": 96,
+  "title": "Empty Spaces",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

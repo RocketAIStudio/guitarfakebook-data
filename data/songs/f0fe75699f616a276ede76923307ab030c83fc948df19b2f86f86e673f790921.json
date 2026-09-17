@@ -1,0 +1,112 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Em]\n[G]\n[D]\n[G]\n[D]\n[D]\n[G]\n[D]\n\n[Verse 1]\n[D]Never fell in love\nUntil I\n[G]fell in love with you\n[D]Never\n[D]knew what a good time\nwas Until I\n[G]had a good time with\n[A]you If you\n[D]wanna get the feeling and you\nwanna get it right Then the\n[G]music's gotta be\n[D]loud For\n[D]when the music\nhit's me I\n[G]feel no pain at all\n[D]\n\n[Pre-Chorus]\n[A]Here it is\nHere I am\nTurn it up fuckin' loud\nRadi-\n\n[Chorus]\n[D]o, Radio, Radi-\no Radi-\n[G]o, Radio, Radi-\n[D]o\n[D]When I got the mu\nsic,\n[G]I got a place to go\n[D]Radi-\n[D]o, Radio, Radi-\no Radi-\n[G]o, Radio, Radi-\n[D]o When I\n[D]got the music in\n[Em]me,\n[G]I got a place I can\n[D]go\n[Em]\nI got a place I can\n[G]go\n\n[Verse 2]\n[D]Warm summer night\nI was\n[G]drinking with my dad\n[D]\n[D]He tried to give me\nlove\n[G]that I\n[D]never had\n[D]But he\ngave more love\n[G]to his bottle of\n[D]wine So I\n[D]had to go out and\nfind\n[G]Love of another\n[D]kind\n\n[Pre-Chorus]\n[A]Here it is\nHere I am Turn it\nup fuckin' loud\nRadi-\n\n[Chorus]\n[D]o, Radio, Radi-\no Radi-\n[G]o, Radio, Radi-\n[D]o\n[D]When I got the mu\nsic,\n[G]I got a place to go\n[D]Radi-\n[D]o, Radio, Radi-\no Radi-\n[G]o, Radio, Radi-\n[D]o When I\n[D]got the music in\nme,\n[G]I got a place I can\n[D]go\n\n[Bridge]\n[D]Radio clash\n[G]Magnificent\n[D]seven\n[D]I was a\nchoir boy\n[G]You showed me no heaven.\n[D]\n\n[Outro]\n[D]Two tools su-\nrely lost (Radi-\n[G]o, Radio, Radi-\n[D]o)\n[D]No remorse igno\nring the cost. (Radi-\n[G]o, Radio, Radi-\n[D]o) Everybody! Radi-\n[D]o, Radio, Radi-\no Radi-\n[G]o, Radio, Radi-\n[D]o\n[D]When I got the mu\nsic,\n[G]I got a place to go\n[D]Radi-\n[D]o, Radio, Radi-\no Radi-\n[G]o, Radio, Radi-\n[D]o When I\n[D]got the music in\nme,\n[G]I got a place to go\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Radio",
+  "id": "f0fe75699f616a276ede76923307ab030c83fc948df19b2f86f86e673f790921",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 390,
+  "normalizedKey": "nofx|radio",
+  "playableChords": [
+    "Em",
+    "G",
+    "D",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 69,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 89,
+      "name": "Bridge"
+    },
+    {
+      "measure": 97,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f0fe75699f616a276ede76923307ab030c83fc948df19b2f86f86e673f790921",
+    "version": "BCFZ"
+  },
+  "tempo": 174,
+  "title": "Radio",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

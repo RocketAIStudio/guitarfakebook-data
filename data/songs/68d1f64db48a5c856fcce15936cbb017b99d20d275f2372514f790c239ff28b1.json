@@ -1,0 +1,103 @@
+{
+  "artist": "Placebo",
+  "artistNormalized": "placebo",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E5]\n[G6]\n[Cmaj7]\n[E5/B]\n[E5]\n[G6]\n[Cmaj7]\n[E5/B]\n\n[Verse 1]\n[E5]I was alone,\n[G6]falling free,\n[Cmaj7]Trying my\n[E5/B]best not to forget,\n[E5]What happened to us,\n[G6]what happened to me,\n[Cmaj7]What happened as\n[E5/B]i let it slip.\n[E5]I was confused\n[G6]by the powers that be,\n[Cmaj7]Forgetting names\n[E5/B]and fa ces,\n[E5]Passers by,\n[G6]were looking at me,\n[Cmaj7]As if they could\n[E5/B]erase it.\n\n[Chorus]\n[E5]Ba-\n[G6]by...\n[Cmaj7]did you forget\n[E5/B]to take your meds?\n[E5]Ba-\n[G6]by.. .\n[Cmaj7]did you forget\n[E5/B]to take your meds?\n\n[Verse 2]\n[E5]I was alone,\n[G6]staring over the ledge,\n[Cmaj7]Trying my\n[E5/B]best not to forget,\n[E5]All manner of joy,\n[G6]all manner of glee,\n[Cmaj7]And our one\n[E5/B]heroic pledge.\n[E5]How it mattered to us,\n[G6]How it mattered to me,\n[Cmaj7]And the con-\n[E5/B]sequences.\n[E5]I was confused,\n[G6]by the birds and the bees,\n[Cmaj7]Forgetting if\n[E5/B]i meant it.\n\n[Chorus]\n[E5]Ba-\n[G6]by...\n[Cmaj7]did you forget\n[E5/B]to take your meds?\n[E5]Ba-\n[G6]by...\n[Cmaj7]did you forget\n[E5/B]to take your meds?\n[E5]Ba-\n[G6]by..\n[Cmaj7]did you forget\n[E5/B]to take your meds?\n[E5]Ba-\n[G6]by..\n[Cmaj7]did you forget\n[E5/B]to take your meds?\n\n[Bridge]\n[D5]And the sex\nand the drugs,\nAnd the com-\nplications.\n[E5]And the sex\nand the drugs,\nAnd the com-\nplications.\n[D5]And the sex\nand the drugs,\nAnd the com-\nplications.\n[E5]And the sex\nand the drugs,\nAnd the com-\nplications.\n\n[Chorus]\n[E5]Ba-\n[G6]by..\n[Cmaj7]did you forget\n[E5/B]to take you meds?\n[E5]Ba-\n[G6]by..\n[Cmaj7]did you forget\n[E5/B]to take you\n[E5]meds? Ba-\n[G6]by..\n[Cmaj7]did you forget\n[E5/B]to take you meds?\n[E5]Ba-\n[G6]by..\n[Cmaj7]did you forget\n[E5/B]to take you\n[E5]meds? Ba-\n[G6]by..\n[Cmaj7]did you forget\n[E5/B]to take you\n[E5]meds? Ba-\n[G6]by..\n[Cmaj7]did you forget\n[E5/B]to take you meds?\n\n[Outro]\n[E5]I was alone,\n[G6]falling free,\n[Cmaj7]Trying my\n[E5/B]best not to forget.",
+  "diagrams": {
+    "Cmaj7": {
+      "catalog": [
+        "8799xx",
+        "x-3-2-0-0-0",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "xx245x"
+      ],
+      "catalogCount": 1
+    },
+    "E5/B": {
+      "catalog": [
+        "779966"
+      ],
+      "catalogCount": 1
+    },
+    "G6": {
+      "catalog": [
+        "32203x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Meds",
+  "id": "68d1f64db48a5c856fcce15936cbb017b99d20d275f2372514f790c239ff28b1",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 315,
+  "normalizedKey": "placebo|meds",
+  "playableChords": [
+    "E5",
+    "G6",
+    "Cmaj7",
+    "E5/B",
+    "D5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Bridge"
+    },
+    {
+      "measure": 81,
+      "name": "Chorus"
+    },
+    {
+      "measure": 105,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "68d1f64db48a5c856fcce15936cbb017b99d20d275f2372514f790c239ff28b1",
+    "version": "BCFZ"
+  },
+  "tempo": 155,
+  "title": "Meds",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,101 @@
+{
+  "artist": "Radiohead",
+  "artistNormalized": "radiohead",
+  "capo": "3",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[D]\n\n[Pre-Verse]\n[D]\n[Em]\n[D]\n[Em]\n\n[Pre-Verse]\n[D]\n\n[Verse 1]\n[D]I don't want to be your friend\n[Gsus4]I just want to be your lover\n[D]\nNo\n[D]matter how it ends\nNo\n[Gsus4]matter how it\n[D]starts\nForget\n[D]about your house of cards\nAnd I'll\n[Gsus4]do mine\n[D]\nForget\n[D]about your house of cards\nAnd I'll\n[Gsus4]do mine\n[D]\nYou fall\n\n[Chorus]\n[Gsus4]off the table\nGet\nswept under\n[D]\n\n[Interlude]\n[Em]\n[D]\n[Em]Denial,\ndenial\n[D]\n\n[Verse 2]\n[D]Infrastructure will collapse\n[Gsus4]Voltage spikes\n[D]\nThrow your keys in the bowl\n[D]Kiss your husband goodnight\nForget\n[D]about your house of cards\nAnd I'll\n[Gsus4]do mine\n[D]\nForget\nabout your house of cards\nAnd I'll\n[Gsus4]do mine\n[D]\nYou fall\n\n[Chorus]\n[Gsus4]off the table\nGet\nswept under\n[D]\n\n[Interlude]\n[Em]Denial,\ndenial\n[D]\n[Em]Denial,\ndenial\nYour\n[D]ears\nshould\nbe\nburning\n[Em]Denial,\ndenial\nYour\n\n[Outro]\n[D]ears\nshould\nbe\nburning\n[Em]\n[D]\n[Em]\n[D]",
+  "diagrams": {
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Gsus4": {
+      "catalog": [
+        "355533"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "House of Cards",
+  "id": "8d65fddfdd7fa78d3c371d26d8e29d39bd2ccc4b3dc8f4dc1ca85c349ec552d9",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 113,
+  "normalizedKey": "radiohead|house of cards",
+  "playableChords": [
+    "D",
+    "Em",
+    "Gsus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 21,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Interlude"
+    },
+    {
+      "measure": 76,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 100,
+      "name": "Chorus"
+    },
+    {
+      "measure": 107,
+      "name": "Interlude"
+    },
+    {
+      "measure": 127,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8d65fddfdd7fa78d3c371d26d8e29d39bd2ccc4b3dc8f4dc1ca85c349ec552d9",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "House of Cards",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

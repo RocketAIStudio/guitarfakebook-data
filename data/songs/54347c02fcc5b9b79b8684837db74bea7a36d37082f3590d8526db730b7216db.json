@@ -1,0 +1,130 @@
+{
+  "artist": "Passenger",
+  "artistNormalized": "passenger",
+  "capo": "5",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[C]\n[C]\n[G]\n[Am]\n[F]\n[C]\n[G]\n[F]\nShe's a\n\n[Verse 1]\n[C]whistle on the wind A\n[G]feather on breeze A\n[Am]ripple on the stream She is\n[F]sunlight on the sea She's a\n[C]soft summer rain\n[G]Falling gently through the trees And\n[F]I love her\n[C][G]She's\n\n[Verse 2]\n[C]cunning as a fox\n[G]Clever as a crow\n[Am]Solid as a rock She is\n[F]stubborn as a stone She's a\n[C]hardheaded woman And the\n[G]best one that I know\n[F]And I love her Yeah,\nwell I love\n\n[Bridge]\n[C]\n[G]\n[Am]\n[F]\n[C]\n[G]\n[F]\n[C][G]her She's\n\n[Verse 3]\n[C]as new as the springtime\n[G]Strong as autumn\n[Am]blows Warm as the summer\n[F]And soft as the snow She's a\n[C]thousand miles from here But she's\n[G]everywhere I go 'Cause\n[F]I love her\nShe\n\n[Interlude]\n[G]loves me like a woman She\n[E]looks like a lady She\n[Am]laughs like a child And\n[D]cries like a baby\n[F]I think that maybe she's the\n[G]one that's gonna save me\n\n[Outro]\n[C]\n[G]\n\n[Bridge]\n[Am]\n[F]\n[C]\n[G]\n[F]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "And I Love Her",
+  "id": "54347c02fcc5b9b79b8684837db74bea7a36d37082f3590d8526db730b7216db",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 165,
+  "normalizedKey": "passenger|and i love her",
+  "playableChords": [
+    "C",
+    "G",
+    "Am",
+    "F",
+    "E",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Bridge"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 42,
+      "name": "Interlude"
+    },
+    {
+      "measure": 48,
+      "name": "Outro"
+    },
+    {
+      "measure": 50,
+      "name": "Bridge"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "54347c02fcc5b9b79b8684837db74bea7a36d37082f3590d8526db730b7216db",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "And I Love Her",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

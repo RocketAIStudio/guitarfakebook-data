@@ -1,0 +1,112 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E]\n\n[Verse 1]\n[E]I sit in my easy chair\nI've got so much time to spare Because I\nknow in my future days\nI'll have my lion's share\n\n[Verse 2]\n[E]There's nothing that I like better\nThan getting something for nothing\nSome will tell you there's nothing for free\nObviously they've not met me...\n\n[Chorus]\n[E]Live the lifestyle they [A]speak of so [G]highly\n[E]I live the life... the [G]life of [D]riley\n[E]  [D]  [A]\n\n[Pre-Verse]\n[E]\n\n[Verse 3]\n[E]You can have your cake and eat it too\nAnd there's lots of free lunch for you If you\nthink you're get cheated you don't have a clue\nYou don't know where you are, or what to do\n\n[Verse 4]\nI sit in my easy chair\nI've got so much time to spare Because I\nknow in my future days\nI'll have my lion's share\n\n[Chorus]\nI Live the lifestyle they speak of so highly\nI live the life... the life of riley\n\n[Outro]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Life O'Riley",
+  "id": "ce17c04e19eb79c3739fb8ced1bddec68827270b3c5cc6cc041a70d5178d9a43",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 170,
+  "normalizedKey": "nofx|life o riley",
+  "playableChords": [
+    "E",
+    "A",
+    "G",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 20,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ce17c04e19eb79c3739fb8ced1bddec68827270b3c5cc6cc041a70d5178d9a43",
+    "version": "BCFZ"
+  },
+  "tempo": 93,
+  "title": "Life O'Riley",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,123 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\nThere's no\n[G]fun fun [C]fun\n[D][C]There's no\n[G]fun fun [C]fun\n[D][C]There's no\n\n[Chorus]\n[G]fun fun [C]fun\n[D][C]There's no\n[G]fun fun [C]fun\n[D][C]There's no\n\n[Verse 1]\n[G]fun in Bible [Am]study class\n[C][D]No\n[G]fun getting fucked [Em]in the ass\n[C]by a [D]priest\n[G]Unless your old [Am]and into that,\n[C][D]It's\n[G]no fun for a [Em]kid who is\n[C]scared as [D]shit There's no\n\n[Chorus]\n[G]fun fun [C]fun\n[D][C]There's no\n[G]fun fun [C]fun\n[D][C]There's no\n\n[Verse 2]\n[G]fun when praying [Am]on a mat\n[C][D]No\n[G]fun being [Em]covered in black\n[C]clothes in the [D]desert\n[G]Unless you're Goth [Am]and into that,\n[C][D]But\n[G]not if you're a [Em]woman who's\n[C]treated [D]like dog\n[G]shit\nThere's no\n\n[Bridge]\n[G]fun for funda-\n[C]mentalist There's no\n[G]fun for the poor\n[C]capitalist There's no\n[G]fun for Regan in\n[C]Exorcist There's no\n[G]fun (NO FUN!) There's no\n[C]fun (NO FUN!) There's no\n[G]fun in a [Am]theocracy\n[C][D]There's no\n[G]fun unless you [Em]have a cho-\n[C]sen people [D]I. D. Still\n[G]then you got that [Am]God decree\n[C][D]And\n[G]that's no [Em]fun\n[C]for [D]anyone\n\n[Interlude]\n[G]  [C]\n[D]  [C]\n[G]  [C]\n[D][C]There's no\n[G]fun fun [C]fun\n[D][C]There's no\n[G]fun fun [C]fun\n[D][C]There's no\n[G]fun fun [C]fun\n[D][C]There's no\n[G]fun fun [C]fun\n[D][C]There's no\n\n[Chorus]\n[G]fun fun [C]fun\n[D][C]There's no\n[G]fun fun [C]fun\n[D][C]There's no\n\n[Outro]\n[G]fun",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "There's No Fun in Fundamentalism",
+  "id": "26129d151e43e7f6f282e3f7c6d9b8ce0ff941996d6cff7d7cb9da707e6a27ad",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 219,
+  "normalizedKey": "nofx|there s no fun in fundamentalism",
+  "playableChords": [
+    "G",
+    "C",
+    "D",
+    "Am",
+    "Em"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Chorus"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Bridge"
+    },
+    {
+      "measure": 48,
+      "name": "Interlude"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "26129d151e43e7f6f282e3f7c6d9b8ce0ff941996d6cff7d7cb9da707e6a27ad",
+    "version": "BCFZ"
+  },
+  "tempo": 165,
+  "title": "There's No Fun in Fundamentalism",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

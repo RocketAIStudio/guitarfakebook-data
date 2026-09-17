@@ -1,0 +1,169 @@
+{
+  "artist": "Rabbitt",
+  "artistNormalized": "rabbitt",
+  "capo": "No capo",
+  "chordPositionCount": 51,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[Dm]  [C]  [Bb]\n[Am]  [C]  [A7]\n[Dm]  [F]\n[Bb]  [A7sus4]  [A7]\n[Gm]  [A7sus4]  [A7]\n[Dm]  [C]\n[Bb]  [E]\n[Am]  [C]\n[F]\n\n[Solo]\n[Dm]\n[A]\n[D]\n[Gm]\n[D]\n[A]\n[A7]\n[E]\n[Am]\n[C]\n[F]\n\n[Verse 1]\n[Dm]You talk of love,\nYou talk of\ntrust, But\nI can't see,\n[A]I sleep alone to mine,\nAnd where you\n[D]go, what you do\nBaby\n[Gm]I can't find,\nIt's not\n[D]easy to forget,\nThough\n[A]yesterday is far a-\n[A7]way\n[E]But still I can\n[Am]feel\n[C]You close as brea-\n[F]thing\n\n[Verse 2]\n[Dm]You say you care\nYou want to\nknow But\nI don't know\n[A]Sleep alone tonight\nAnd in my\n[D]heart I feel you care\nMore than\n[Gm]you believe\nI'll\n[D]wait for you today\n[A]Hope tomorrow takes a-\n[A7]way\n[E]This yearning for\n[Am]a change\n[C]Look up at the new\n[F]life\n[C]I must find,\nI must find,\nI must find\n\n[Fade Out]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A7sus4": {
+      "catalog": [
+        "x02030"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "TC Rabin in D Minor / I Sleep Alone",
+  "id": "18204f39f54e65f661d02cac74ea81e2a09b693e6f35833f3c6c5a5c2ca7ddee",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 119,
+  "normalizedKey": "rabbitt|tc rabin in d minor i sleep alone",
+  "playableChords": [
+    "Dm",
+    "C",
+    "Bb",
+    "Am",
+    "A7",
+    "F",
+    "A7sus4",
+    "Gm",
+    "E",
+    "A",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Solo"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 69,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "18204f39f54e65f661d02cac74ea81e2a09b693e6f35833f3c6c5a5c2ca7ddee",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "TC Rabin in D Minor / I Sleep Alone",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

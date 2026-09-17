@@ -1,0 +1,96 @@
+{
+  "artist": "PRL",
+  "artistNormalized": "prl",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n[E]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n[E]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n[E]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n[E]Nie obchodzi nas\n\n[Verse 1]\n[E]film [D]\n[E]Nie obchodzi nas\n[E]mecz [D]\n[E]Nie chce wzruszyć\n[A]nas [G]\n[G][A]Wzruszający\n[E]tekst [D]\n[E]Nie [D]obchodzą nas\n[G]gry Nie obchodzą nas\n[A]sny Nie obchodzi nas\n\n[Verse 2]\n[E]nic [D]\n[E]Dla kretynów\n[E]film [D]\n[E]Dla debili\n[E]mecz [D]\n[E]Joł, joł, joł,\n[A]jot [G]\n[A]Je, [G]je, je,\n[E]je [D]\n[E]Joł, joł, [D]joł, joł\n[G]Je, je, je, je, je je,\n[A]\n[E]Brrr [D]\n[E]\n\n[Solo]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n[E]  [D]\n\n[Verse 3]\n[E]Nie obchodzi nas rock\n[E]  [D]\n[E]Nie obchodzi nas\n[E]jazz [D]\n[E]Mym, bum, bum, bum,\n[A]bum, [G]\n[A]Jea, [G]Jea, Jea,\n[E]Jea, [D]\n[E]  [D]\n[G]\n[A]\n[E]  [D]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Nie Obchodzi Nas Nic",
+  "id": "76f8c7d65521c61dcd1bdd20e2d184dd2114cba6c1c713b21a9cec6042297f4e",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 90,
+  "normalizedKey": "prl|nie obchodzi nas nic",
+  "playableChords": [
+    "E",
+    "D",
+    "A",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Solo"
+    },
+    {
+      "measure": 56,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "76f8c7d65521c61dcd1bdd20e2d184dd2114cba6c1c713b21a9cec6042297f4e",
+    "version": "BCFZ"
+  },
+  "tempo": 133,
+  "title": "Nie Obchodzi Nas Nic",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

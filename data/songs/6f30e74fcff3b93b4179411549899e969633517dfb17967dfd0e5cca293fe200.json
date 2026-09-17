@@ -1,0 +1,127 @@
+{
+  "artist": "NRBQ",
+  "artistNormalized": "nrbq",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F]\n[C]\nI'm like a\n\n[Verse 1]\n[Gm7]magnet\nYou're like a\npiece of\n[F]wood\nCan't get to-\n[Gm7]gether\nDon't make me\nfeel so\n[F]good\nI'm like a\n[Gm7]convict\nYou're like the\nFB-\n[F]I\nI ask for\n[Gm7]breakfast\nYou bring a\npiece of\n[F]pie\n\n[Pre-Chorus]\n[C]I\nknow it's\nuseless to say\n[Dm]How it used\nto be\n[F]\n[C]Why\ndo you\ntreat me this way?\n[Dm]If you could\nonly see\n[C]\nYou're like a\n\n[Chorus]\n[Gm7]magnet\n[Bb]\n[C]I'm like a\npiece of\n[Gm7]steel\n[Bb]\n[C]The way you\nbreak my\n[F]will\n\n[Solo 1]\n[Gm7]\n[F]\n[Gm7]\n[F]\n[Gm7]\n[Bb]\n[C]\n[Gm7]\n[Bb]\n[C]\n[F]\n[C]\nI'm like a\n\n[Verse 2]\n[Gm7]rowboat\nYou're like the\nQueen Ma-\n[F]ry\nI play a\n[Gm7]tango\nYou play a\nsympho-\n[F]ny\n\n[Pre-Chorus]\n[C]When we\nhave a\nproblem or two\n[Dm]Can't you see\nI'm tryin'\n[F]\n[C]When I\nsee you\nsmilin' like that\n[Dm]Makes me\nchange my mind\n[C]\nYou're like a\n\n[Chorus]\n[Gm7]magnet\n[Bb]\n[C]I'm like a\npiece of\n[Gm7]steel\n[Bb]\n[C]The way you\nbreak my\n[F]will\n[C]\n\n[Solo 2]\n[Gm7]\n[F]\n[Gm7]\n[F]\n[Gm7]\n[F]\n\n[Fade Out]\n[Gm7]\n[F]",
+  "diagrams": {
+    "Bb": {
+      "catalog": [
+        "x32010",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x57775",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "022000",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "355433",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "Gm7": {
+      "catalog": [
+        "575555",
+        "3-5-3-3-3-3",
+        "x-x-5-7-6-6",
+        "x-10-12-10-11-10",
+        "15-17-15-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Magnet",
+  "id": "6f30e74fcff3b93b4179411549899e969633517dfb17967dfd0e5cca293fe200",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 150,
+  "normalizedKey": "nrbq|magnet",
+  "playableChords": [
+    "F",
+    "C",
+    "Gm7",
+    "Dm",
+    "Bb"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 32,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 48,
+      "name": "Chorus"
+    },
+    {
+      "measure": 60,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 84,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 96,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 112,
+      "name": "Chorus"
+    },
+    {
+      "measure": 124,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 142,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6f30e74fcff3b93b4179411549899e969633517dfb17967dfd0e5cca293fe200",
+    "version": "BCFZ"
+  },
+  "tempo": 169,
+  "title": "Magnet",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

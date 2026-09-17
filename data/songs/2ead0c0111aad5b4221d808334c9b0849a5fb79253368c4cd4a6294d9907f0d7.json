@@ -1,0 +1,95 @@
+{
+  "artist": "Poison Idea",
+  "artistNormalized": "poison idea",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[B5]  [D5]\n[B5]  [D5]\n\n[Verse 1]\n[B5]Smilling with a broken [D5]bottle as you\n[B5]try to prove [D5]a point\n[B5]  [D5]\n[B5]  [D5]\n\n[Chorus]\n[A5]Give it up, [F5]give it up,\n[A5]your life's a bunch of [C5]fuckin shit\n[A5]Give it up, [F5]give it up,\n[A5]fuck your mom and [C5]spread the word\n\n[Interlude]\n[B5]  [D5]\n[B5]  [D5]\n\n[Verse 2]\n[B5]Youre a loser with a headache, you [D5]wonder\n[B5]what went wrong [D5]\n[B5]  [D5]\n[B5]  [D5]\n\n[Chorus]\n[A5]Give it up, [F5]give it up,\n[A5]laugh at life, a [C5]joke you are\n[A5]Give it up, [F5]give it up,\n[A5]Burn in hell [C5]or rot in-\n\n[Outro]\n[B5]sane [D5]\n[B5]  [D5]\n[B5]  [D5]\n[B5]  [D5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "799xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Give it up",
+  "id": "2ead0c0111aad5b4221d808334c9b0849a5fb79253368c4cd4a6294d9907f0d7",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 60,
+  "normalizedKey": "poison idea|give it up",
+  "playableChords": [
+    "B5",
+    "D5",
+    "A5",
+    "F5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 7,
+      "name": "Chorus"
+    },
+    {
+      "measure": 11,
+      "name": "Interlude"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "2ead0c0111aad5b4221d808334c9b0849a5fb79253368c4cd4a6294d9907f0d7",
+    "version": "BCFZ"
+  },
+  "tempo": 205,
+  "title": "Give it up",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

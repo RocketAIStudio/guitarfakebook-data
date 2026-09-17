@@ -1,0 +1,77 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]\n[C]\n[D]\n[G]\n\n[Verse]\n[G]Brezhnev took Afghanistan. And\n[C]Begin took Beirut.\n[D]Galtieri took the Union\n[G]Jack. And\nMaggie, over lunch one day, Took a\n[C]cruiser with all hands. Ap-\n[D]parently, to make him give it\n[G]back. Mm.\n\n[Outro]\n[C]\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Get Your Filthy Hands Off My Desert",
+  "id": "098b3ed762bc67630d4fcddc9d777e6d821f7492c748a1d385ff06ad5c224a8d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 48,
+  "normalizedKey": "pink floyd|get your filthy hands off my desert",
+  "playableChords": [
+    "G",
+    "C",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse"
+    },
+    {
+      "measure": 14,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "098b3ed762bc67630d4fcddc9d777e6d821f7492c748a1d385ff06ad5c224a8d",
+    "version": "BCFZ"
+  },
+  "tempo": 66,
+  "title": "Get Your Filthy Hands Off My Desert",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

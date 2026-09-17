@@ -1,0 +1,83 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[D5]\n[Bb/D]\n[D5]\n[G5/D]\n[Dm]\n[Csus2/D]\n[Bb/D]\n[G5/D]\n[Dm]When you're\n\n[Verse]\n[Bb/D]one of the few, To\n[D5]land on your feet.\n[G5/D]What do you do to make\n[Dm]ends meet? Teach\n[Csus2/D]Make 'em mad\n[Bb/D]Make 'em sad\n[G5/D]Make 'em add two and\n[Dm]two\n\n[Chorus]\n[Bb/D]Or make 'em me Or\n[D5]make 'em you\n[G5/D]Make 'em do what you\n[Dm]want them to\n[Csus2/D]Make 'em laugh\n[Bb/D]Make 'em cry\n[G5/D]Make 'em lay down and\n[Dm]die",
+  "diagrams": {
+    "Bb/D": {
+      "catalog": [
+        "xx2766"
+      ],
+      "catalogCount": 1
+    },
+    "Csus2/D": {
+      "catalog": [
+        "xx4788"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "xx023x"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "G5/D": {
+      "catalog": [
+        "x-x-6-7-8-10"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "One of the Few *alt",
+  "id": "f5c67137983d84e2905813ab53c26648a687728ae7f4a3b6775c1a07868fe717",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 60,
+  "normalizedKey": "pink floyd|one of the few",
+  "playableChords": [
+    "D5",
+    "Bb/D",
+    "G5/D",
+    "Dm",
+    "Csus2/D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f5c67137983d84e2905813ab53c26648a687728ae7f4a3b6775c1a07868fe717",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "One of the Few",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

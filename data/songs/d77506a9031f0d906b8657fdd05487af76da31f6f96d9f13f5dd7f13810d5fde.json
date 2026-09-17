@@ -1,0 +1,116 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 8,
+  "content": "[Verse 1]\n[B]I want to see the\nconstitution burn\n[G#]Want to watch the white\nhouse overturn\n[E]Want to witness\nsome blue blood bleed\n[F#]red\n\n[Verse 2]\n[B5]I want to tar and lynch the KK-\n[G#5]K I want to pull and shoot the NR-\n[E5]A Yeah Yeah\n[F#5]Yeah\n\n[Chorus]\n[B5]Murder the government\n[G#5]Murder the government\n[E5]Murder the government And\n[F#5]then do it again yeah\n[B5]Murder the government\n[G#5]Murder the government\n[E5]Murder the government and\n[F#5]then Mur-\nder the govern-\n\n[Outro]\n[B]ment",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    },
+    "G#5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Murder the Government *alt",
+  "id": "d77506a9031f0d906b8657fdd05487af76da31f6f96d9f13f5dd7f13810d5fde",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 100,
+  "normalizedKey": "nofx|murder the government",
+  "playableChords": [
+    "B",
+    "G#",
+    "E",
+    "F#",
+    "B5",
+    "G#5",
+    "E5",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 8,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 12,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d77506a9031f0d906b8657fdd05487af76da31f6f96d9f13f5dd7f13810d5fde",
+    "version": "BCFZ"
+  },
+  "tempo": 120,
+  "title": "Murder the Government",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,122 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 10,
+  "content": "[Intro]\nIs there anybody\nout there\nIs there anybody\nout there\nIs there anybody\nout there\nIs there anybody\nout there\n[Am/E]\n[Fmaj7]\n[Am/F#]\n[Fmaj7]\n[Am/E]  [D7sus2]\n[Am/C]  [Am/B]\n[Am]\n[Am/E]\n[Fmaj7]\n[Am/F#]\n[Fmaj7]\n[Am/E]  [D7sus2]\n[Am/C]  [Am/B]\n[Am]\n[C]\n[Em7]\n[Asus2]\n[C]\n[Em7]\n[Asus2]\n[Am/E]\n[Fmaj7]\n[Am/F#]\n[Fmaj7]\n[Am/E]  [D7sus2]\n[Am/C]  [Am/B]\n[Am]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am/B": {
+      "catalog": [
+        "x22210"
+      ],
+      "catalogCount": 1
+    },
+    "Am/C": {
+      "catalog": [
+        "x32210"
+      ],
+      "catalogCount": 1
+    },
+    "Am/E": {
+      "catalog": [
+        "xx2210"
+      ],
+      "catalogCount": 1
+    },
+    "Am/F#": {
+      "catalog": [
+        "xx4210"
+      ],
+      "catalogCount": 1
+    },
+    "Asus2": {
+      "catalog": [
+        "x02200"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D7sus2": {
+      "catalog": [
+        "xx0210"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "02003x",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Fmaj7": {
+      "catalog": [
+        "xx3210",
+        "1-3-2-2-1-1",
+        "x-x-3-5-5-5",
+        "x-8-7-5-5-5",
+        "x-8-10-9-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Is There Anybody Out There? *alt 2",
+  "id": "3a92a67dcbb9036930c6c6ba584a05cc8262931a9da7b25f608942d0f3c2e47b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 32,
+  "normalizedKey": "pink floyd|is there anybody out there",
+  "playableChords": [
+    "Am/E",
+    "Fmaj7",
+    "Am/F#",
+    "D7sus2",
+    "Am/C",
+    "Am/B",
+    "Am",
+    "C",
+    "Em7",
+    "Asus2"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3a92a67dcbb9036930c6c6ba584a05cc8262931a9da7b25f608942d0f3c2e47b",
+    "version": "BCFZ"
+  },
+  "tempo": 119,
+  "title": "Is There Anybody Out There?",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

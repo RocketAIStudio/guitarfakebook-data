@@ -1,0 +1,130 @@
+{
+  "artist": "Queens Of The Stone Age",
+  "artistNormalized": "queens of the stone age",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Ab5]\n[Bb5]\n\n[Verse 1]\n[Bb5]Medication\nfor us all,\nit is a new\nway And we're gonna [Gb5]take\n\n[Chorus]\nit [Db5]cause wa [Ab5]love\nit [E5]Don't you [Ab]\n[Bb5]know?\n\n[Verse 2]\n[Bb5]Is this the dose you've\nbeen dreamin' of?\nA revelation\nfrom a gun\nDoesn't matter\n[Gb5]Overta-\n\n[Chorus]\nken, [Db5]mine was [Ab5]yours,\nnow [Ab][E5]over-\n[Bb5]thrown\n\n[Interlude]\n[Bb5]\n[Gb5]\n\n[Chorus]\n[Db5]  [Ab5]\n[E5]  [Ab5]\n[Bb5]\n[Bb5]\n\n[Verse 3]\n[Bb5]Just copulation\nin a song\nI'm so contagious,\ncan I cum?\nIn the new way\nAll of us [Gb5]cast\n\n[Chorus]\n[Db5]asides [Ab5]became\nwhat [E5]has [Ab5]become\n[Bb5]\n\n[Interlude]\n[Bb5]\n[Gb5]\n\n[Solo]\n[Db5]  [Ab5]\n[E5]  [Ab5]\n[Bb5]\n\n[Verse 4]\n[Bb5]Medication\nfor us all\nYou think you know me,\nwell you're wrong\nDoesn't matter\nAll of us [Gb5]cast\n\n[Chorus]\n[Db5]asides [Ab5]became\nwhat [E5]has [Ab5]become\n[Bb5]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "8-10-10-9-x-x",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Ab5": {
+      "catalog": [
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Bb5": {
+      "catalog": [
+        "10-12-12-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Db5": {
+      "catalog": [
+        "x-8-10-10-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x-11-13-13-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "Gb5": {
+      "catalog": [
+        "688xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Medication",
+  "id": "150fcec753e434dd8a9f415f7b570bf80f33e56a90eecd8fab42f8d5e9100eaa",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 120,
+  "normalizedKey": "queens of the stone age|medication",
+  "playableChords": [
+    "Ab5",
+    "Bb5",
+    "Gb5",
+    "Db5",
+    "E5",
+    "Ab"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 31,
+      "name": "Interlude"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 48,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Interlude"
+    },
+    {
+      "measure": 65,
+      "name": "Solo"
+    },
+    {
+      "measure": 70,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 76,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "150fcec753e434dd8a9f415f7b570bf80f33e56a90eecd8fab42f8d5e9100eaa",
+    "version": "BCFZ"
+  },
+  "tempo": 157,
+  "title": "Medication",
+  "tuning": "C F A# D# G C",
+  "variantRole": "primary"
+}

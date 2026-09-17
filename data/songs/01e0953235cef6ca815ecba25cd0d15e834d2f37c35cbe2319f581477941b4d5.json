@@ -1,0 +1,140 @@
+{
+  "artist": "Pink",
+  "artistNormalized": "pink",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[A5]\n\n[Verse 1]\nYou took my hand\nYou showed me how\nYou promised me\nyou'd be around\n[B5]Uh huh\n[F#5]That's right\n[E5]\n[A5]I took your words\nAnd I believed\nIn everything\nYou said to me\n[B5]Yeah huh\n[F#5]That's right\n[E5]\nIf\n\n[Chorus]\n[D]someone said\n[E]three years from now\n[F#m]You'd be long\n[A]gone I'd\n[D]stand up and\n[E]punch them out\n[F#m]Cause they're all\n[A]wrong\n[D]I know\n[E]better\n[F#m]Cause you said\n[A]forever\n[D]And ever\n[E]Who knew\n\n[Intelude]\n[A5]\n\n[Verse 2]\n[A5]Remember whe\nn we were such fools\nAnd so convinced\nand just too cool\n[B5]Oh no\n[F#5]No no\n[E5]\n[A5]I wish I could\ntouch you again\nI wish I could\nstill call you friend\n[B5]I'd give\n[F#5]any-\n[E5]thing\nWhen\n\n[Chorus]\n[D]someone said\n[E]count your blessings now\n[F#m]For they're long\n[A]gone I\n[D]guess I just\n[E]didn't know how\n[F#m]I was all\n[A]wrong\n[D]They knew\n[E]better\n[F#m]Still you said\n[A]forever\n[D]And ever\n[E]Who knew\n\n[Bridge]\n[A5]\n[B5]I'll keep you locked\n[F#5]in my head\n[E5]Until we meet\nagain\n[A5]\nUntil we\nUntil we meet\nagain\n[B5]And I won't forget\n[F#5]you my friend\n[E5]What happened\nIf\n\n[Chorus]\n[D]someone said\n[E]three years from now\n[F#m]You'd be long\n[A]gone I'd\n[D]stand up and\n[E]punch them out\n[F#m]Cause they're all\n[A]wrong\n[D]That last kiss\n[E]I'll cherish\n[F#m]Until we meet\n[A]again\n[D]And time makes\n[E]It harder\n[F#m]I wish I could\n[A]remember\n[D]But I keep\n[E]Your memory\n[F#m]You visit me\n[A]in my sleep\n[D]My darling\n[E]Who knew\n\n[Outro]\n[A5]\nMy darling\nMy darling\nWho knew\nMy darling\nI miss you\nMy darling\nWho knew\nWho knew",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "24xxxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Who Knew",
+  "id": "01e0953235cef6ca815ecba25cd0d15e834d2f37c35cbe2319f581477941b4d5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 275,
+  "normalizedKey": "pink|who knew",
+  "playableChords": [
+    "A5",
+    "B5",
+    "F#5",
+    "E5",
+    "D",
+    "E",
+    "F#m",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Intelude"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 55,
+      "name": "Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Bridge"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    },
+    {
+      "measure": 107,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "01e0953235cef6ca815ecba25cd0d15e834d2f37c35cbe2319f581477941b4d5",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "Who Knew",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

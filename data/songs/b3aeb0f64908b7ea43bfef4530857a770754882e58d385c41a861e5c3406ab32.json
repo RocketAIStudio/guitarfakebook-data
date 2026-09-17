@@ -1,0 +1,132 @@
+{
+  "artist": "Opeth",
+  "artistNormalized": "opeth",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Ddim]\n[Cdim]\n[Ddim]\n[Cdim]\n\n[Bridge]\n[A5]\n[D5]\n[A5]\n[D5]\n[A5]Im a\n\n[Verse 1]\nsinner\nand I\nworship [D5]e-\n[A5]vil Blood is\nthinner\nbut\nyou will [D5]never\n[A5]know Can you\nconfess\nthat you\nthrive in [D5]chaos?\n[A5]You're a\nsorceress\nand your\neye is [D5]on the\n[A5]lost But you're\ndying\n\n[Chorus]\nIt's in your\neyes\n\n[Bridge]\n[D5]\n[A5]\n[D5]\n[A5]You're a\n\n[Verse 2]\ncharlatan\nYou get\n[D5]everything you\n[A5]wish You're a\nharlot\nCarry\npoison [D5]in your\n[A5]kiss Beg for-\ngiveness\nWith a\ndagger [D5]in your\n[A5]hand Sow your\ndeath seed\nAnd\nreap the [D5]dying\n[A5]lands But you're\ncrying\n\n[Chorus]\nIt's only\nvice\n\n[Interlude]\n[A5]\n\n[Verse 3]\n[A5]Empty ves-\nsel Drained of\nhope\nAnd none the lesser\nat end of\nA rope\nHave you e\nver hated\nlike I?\nKnow I still awai\nted the absence\nof lies\n\n[Bridge]\n[D5]Watch your\neager\n[A5]tongue\nAt-\n[D5]tack me\nfrom be-\n[A5]hind\n\n[Solo]\n[A5]\n[D5]\n[A5]\n[D5]\n[A5]Riddle\n\n[Verse 4]\nwhispers\nBleak\nfutile [D5]cont-\n[A5]rol Like a twin\nsister\nA-\ndapting [D5]to a\n[A5]role You're a\nmurderer\nBloodlust [D5]inc-\n[A5]rease You're a\nharvester\nCome\nclose to [D5]spread di-\n[A5]sease And you're\nhiding\n\n[Chorus]\nI hear you\ncry\n\n[Interlude]\n\n[Outro]\n[C]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "0022xx"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "33555x",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Cdim": {
+      "catalog": [
+        "x3454x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx",
+        "xx023x"
+      ],
+      "catalogCount": 2
+    },
+    "Ddim": {
+      "catalog": [
+        "x5676x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sorceress",
+  "id": "b3aeb0f64908b7ea43bfef4530857a770754882e58d385c41a861e5c3406ab32",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 196,
+  "normalizedKey": "opeth|sorceress",
+  "playableChords": [
+    "Ddim",
+    "Cdim",
+    "A5",
+    "D5",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Intro"
+    },
+    {
+      "measure": 43,
+      "name": "Bridge"
+    },
+    {
+      "measure": 59,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 76,
+      "name": "Chorus"
+    },
+    {
+      "measure": 83,
+      "name": "Bridge"
+    },
+    {
+      "measure": 91,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 108,
+      "name": "Chorus"
+    },
+    {
+      "measure": 115,
+      "name": "Interlude"
+    },
+    {
+      "measure": 131,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 147,
+      "name": "Bridge"
+    },
+    {
+      "measure": 155,
+      "name": "Solo"
+    },
+    {
+      "measure": 163,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 180,
+      "name": "Chorus"
+    },
+    {
+      "measure": 187,
+      "name": "Interlude"
+    },
+    {
+      "measure": 211,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b3aeb0f64908b7ea43bfef4530857a770754882e58d385c41a861e5c3406ab32",
+    "version": "BCFZ"
+  },
+  "tempo": 158,
+  "title": "Sorceress",
+  "tuning": "A A D G B E",
+  "variantRole": "primary"
+}

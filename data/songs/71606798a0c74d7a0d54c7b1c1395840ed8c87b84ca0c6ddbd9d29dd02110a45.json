@@ -1,0 +1,135 @@
+{
+  "artist": "Radiohead",
+  "artistNormalized": "radiohead",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Am]\n[D/F#]\n[F]\n[D/F#]\n[Am]\n[D/F#]\n[F]\n[D/F#]\n[Am]\n[D/F#]\n[F]\n[D/F#]\n\n[Verse 1]\n[Am]Drift all you like\n[D/F#]from ocean to o-\n[F]cean\n[D/F#]Search the whole world\n[Am]But drunken confes-\n[D/F#]sions And hijacked affa-\n[F]irs Just\n[D/F#]make you more alone\n\n[Pre-Verse]\n[Am]\n[D/F#]\n[F]\n[D/F#]\n\n[Verse 2]\n[Am]When you come home\n[D/F#]I'll bake you a cake\n[F]\n[D/F#]Made of all their eyes\n[Am]I wish you could\n[D/F#]see Dressed for the kill\n[F]\n[D/F#]You’re my man of war\n\n[Chorus]\n[Am]\n[D/F#]\n[F]\n[D/F#]You’re my man of war\n[Am]\n[D/F#]\n[F]\n[D/F#]Yeah, the\n\n[Bridge]\n[C]worms [Cadd9/B]will\n[Am]come [G]for you\n[D/F#]\n[F]Will come\n[D/F#]\n[F]Yeah, yeah, yeah\n\n[Guitar Solo]\n[Am]\n[D/F#]\n[F]\n[D/F#]\n\n[Verse 3]\n[Am]So unplug the phones,\n[D/F#]stop all the taps\n[F]It\n[D/F#]all comes flooding back\n[Am]To poison clouds\n[D/F#]And poisoned dwar-\n[F]ves\n[D/F#]You're my man of war\n\n[Chorus]\n[Am]\n[D/F#]\n[F]\n[D/F#]You're my man of war\n[Am]\n[D/F#]\n[F]\n[D/F#]Yeah, the\n\n[Bridge]\n[C]worms [Cadd9/B]will\n[Am]come [G]for you,\n[D/F#]\n[F]big boots\n[D/F#]\n[F]Yeah, the\n\n[Outro]\n[C]worms [Cadd9/B]will\n[Am]come [G]for you,\n[D/F#]\n[F]big boots\n[D/F#]\n[F]For you\n[D/F#]\n[F]big boots\n[D/F#]\n[F]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9/B": {
+      "catalog": [
+        "x20010"
+      ],
+      "catalogCount": 1
+    },
+    "D/F#": {
+      "catalog": [
+        "2xx232",
+        "2x0232"
+      ],
+      "catalogCount": 2
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Man Of War",
+  "id": "71606798a0c74d7a0d54c7b1c1395840ed8c87b84ca0c6ddbd9d29dd02110a45",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 134,
+  "normalizedKey": "radiohead|man of war",
+  "playableChords": [
+    "Am",
+    "D/F#",
+    "F",
+    "C",
+    "Cadd9/B",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Bridge"
+    },
+    {
+      "measure": 47,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Bridge"
+    },
+    {
+      "measure": 73,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "71606798a0c74d7a0d54c7b1c1395840ed8c87b84ca0c6ddbd9d29dd02110a45",
+    "version": "BCFZ"
+  },
+  "tempo": 76,
+  "title": "Man Of War",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,111 @@
+{
+  "artist": "Pixies",
+  "artistNormalized": "pixies",
+  "capo": "No capo",
+  "chordPositionCount": 17,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n\n[Pre-Chorus]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n\n[Chorus]\n[F#]I've got\n[E]something against you\n[B]  [D#m]  [G#]\n[D#m]\n[F#]I've got\n[E]something against you\n[B]  [D#m]  [G#]\n[D#m]\n\n[Pre-Chorus]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n[B]  [D#m]  [G#]\n[D#m]\n\n[Chorus]\n[F#]I've got\n[E]something against you\n[B]  [D#m]  [G#]\n[D#m]\n[F#]I've got\n[E]something against you\n[B]  [D#m]  [G#]\n[D#m]\n\n[Break]\n[B]  [D#m]\n[G#]  [D#m]\n[B]  [D#m]\n[G#]  [D#m]\n[B]  [D#m]\n[G#]  [D#m]\n\n[Chorus]\n[F#]I've got\n[E]something against you\n[B]  [D#m]  [G#]\n[D#m]\n[F#]I've got\n[E]something against you\n[B][D#m]And I'm [G#]go-\ning to use [D#m]it\n\n[Outro]\nI am one happy\nprick",
+  "diagrams": {
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "D#m": {
+      "catalog": [
+        "x68876"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Something Against You",
+  "id": "f647151db256f8280474624455fd4f52bad657b5ff182f18e342032cd3fe5b29",
+  "key": "B",
+  "keyIdentified": true,
+  "lyricEventCount": 55,
+  "normalizedKey": "pixies|something against you",
+  "playableChords": [
+    "B",
+    "D#m",
+    "G#",
+    "F#",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 41,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Break"
+    },
+    {
+      "measure": 71,
+      "name": "Chorus"
+    },
+    {
+      "measure": 79,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f647151db256f8280474624455fd4f52bad657b5ff182f18e342032cd3fe5b29",
+    "version": "BCFZ"
+  },
+  "tempo": 190,
+  "title": "Something Against You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

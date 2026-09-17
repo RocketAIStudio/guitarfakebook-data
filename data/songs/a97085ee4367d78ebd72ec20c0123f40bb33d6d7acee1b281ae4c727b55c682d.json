@@ -1,0 +1,79 @@
+{
+  "artist": "Primus",
+  "artistNormalized": "primus",
+  "capo": "No capo",
+  "chordPositionCount": 9,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[F#m]\nI'm\n\n[Verse]\n[F#dim]goin' down to South Park, gonna\nhave myself a time.\n[F#dim7]Friendly faces [Adim7]everywhere,\n[F#dim7]humble folks [Adim7]without temptation! I'm\n[F#dim]goin' down to South Park, gonna\nleave my woes behind.\n[F#dim7]Ample parking [Adim7]day or night,\n[F#dim7]people spouting: [Adim7]\"HOWDY, NEIGHBOR\"! I'm\n[F#m]headin' down to South Park, gonna\nsee if I can't unwind.\n[Adim7]I like girls with [Cdim7]big fat titties,\n[Adim7]I like girls with [Cdim7]deep vaginas! So\n[F#m]come on down to South Park, and\nmeet some friends of mine.",
+  "diagrams": {
+    "Adim7": {
+      "catalog": [
+        "xx7878"
+      ],
+      "catalogCount": 1
+    },
+    "Cdim7": {
+      "catalog": [
+        "x-x-10-11-10-11"
+      ],
+      "catalogCount": 1
+    },
+    "F#dim": {
+      "catalog": [
+        "xx4575"
+      ],
+      "catalogCount": 1
+    },
+    "F#dim7": {
+      "catalog": [
+        "xx4545"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "South Park Theme *alt",
+  "id": "a97085ee4367d78ebd72ec20c0123f40bb33d6d7acee1b281ae4c727b55c682d",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 102,
+  "normalizedKey": "primus|south park theme",
+  "playableChords": [
+    "F#m",
+    "F#dim",
+    "F#dim7",
+    "Adim7",
+    "Cdim7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a97085ee4367d78ebd72ec20c0123f40bb33d6d7acee1b281ae4c727b55c682d",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "South Park Theme",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

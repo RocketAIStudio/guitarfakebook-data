@@ -1,0 +1,115 @@
+{
+  "artist": "Panic! At the Disco",
+  "artistNormalized": "panic at the disco",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Fm]\n[Ab]\n[Cm]\n[Eb]\n[Fm]\n[Ab]\n[Cm]\n[Eb]\n[Fm]\n[Ab]\n[Cm]\n[Eb]\n[Fm]\n[Ab]\n[Cm]\n[Eb]\n\n[Verse 1]\n[Fm]Cross my hea-\n[Ab]rt and hope to die\n[Cm]Burn my\n[Eb]lungs and curse my eye-\n[Fm]s I've lost contro-\n[Ab]l and I don't want it ba-\n[Cm]ck I'm going nu-\n[Eb]mb, I've been hi-\n[Fm]jacked\nIt's a fucking\n[Cm]drag\n[Eb]I taste you\n\n[Chorus]\n[Fm]on my lips and I\n[Ab]can't get rid of you\n[Cm]\n[Eb]So I say\n[Fm]damn your kiss and the\n[Ab]awful things you do\n[Cm]Yeah, you're\n[Eb]worse than nicoti-\n[Fm]\n[Ab]ne, nicoti-\n[Cm]ne Yeah, you're\n[Eb]worse than nicoti-\n[Fm]\n[Ab]ne, nicoti-\n[Cm]ne Yeah\n[Eb]\n\n[Verse 2]\n[Fm]It's better to bu-\n[Ab]rn than to fade awa-\n[Cm]y It's better to lea-\n[Eb]ve than to be repla-\n[Fm]ced I'm losing to you\n[Ab], baby, I'm no ma-\n[Cm]tch I'm going nu-\n[Eb]mb, I've been hi-\n[Fm]jacked\nIt's a fucking\n[Cm]drag\n[Eb]I taste you\n\n[Chorus]\n[Fm]on my lips and I\n[Ab]can't get rid of you\n[Cm]\n[Eb]So I say\n[Fm]damn your kiss and the\n[Ab]awful things you do\n[Cm]Yeah, you're\n[Eb]worse than nicoti-\n[Fm]\n[Ab]ne, nicoti-\n[Cm]ne Yeah, you're\n[Eb]worse than nicoti-\n[Fm]\n[Ab]ne, nicoti-\n[Cm]ne Yeah\n[Eb]\n\n[Bridge]\n[Db]Just one more\n[Fm]hit and then we're through\n[Eb]'Cause you could\nnever love me back\n[Db]Cut every\n[Fm]tie I have to you\n[Eb]'Cause your\nlove's a fucking dra-\n[Db]g\n[Fm]But I need it so ba-\n[Eb]d Your\nlove's a fucking dra-\n[Db]\n[Fm]g But I need it so ba-\n[Eb]d Yeah, you're\nworse than nicoti-\n\n[Chorus]\n[Fm]\n[Ab]ne, nicoti-\n[Cm]ne Yeah, you're\n[Eb]worse than nicoti-\n[Fm]\n[Ab]ne, nicoti-\n[Cm]ne Yeah\n[Eb].",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "466544",
+        "4-3-1-1-1-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8",
+        "x-11-13-13-13-11"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "x46664",
+        "x-4-3-1-2-1",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "Eb": {
+      "catalog": [
+        "xx1343",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11",
+        "11-13-13-12-11-11"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Nicotine",
+  "id": "beb12061651c8d65e33246df97f1316d6f7290d7c947a213b795bab5b561c7b2",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 275,
+  "normalizedKey": "panic at the disco|nicotine",
+  "playableChords": [
+    "Fm",
+    "Ab",
+    "Cm",
+    "Eb",
+    "Db"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge"
+    },
+    {
+      "measure": 89,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "beb12061651c8d65e33246df97f1316d6f7290d7c947a213b795bab5b561c7b2",
+    "version": "BCFZ"
+  },
+  "tempo": 128,
+  "title": "Nicotine",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

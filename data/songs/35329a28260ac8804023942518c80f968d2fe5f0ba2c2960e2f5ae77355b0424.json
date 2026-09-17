@@ -1,0 +1,115 @@
+{
+  "artist": "Norah Jones",
+  "artistNormalized": "norah jones",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]\n[Am]\n[C]\n[Am]\n[C]\n[Am]\n[C]\n[Am]\n\n[Verse 1]\n[C]Come away\n[Am]with me in the night\n[C]\n[Am]\n[C]Come away\n[Am]with me And I will\n[Em]write\n[Fsus2]you a song\n[C]\n[G]\n\n[Verse 2]\n[C]Come away\n[Am]with me on a bus\n[C]\n[Am]\n[C]Come away\n[Am]where they can't\n[Em]tempt\n[Fsus2]us With their\n[C]lies\n\n[Chorus]\n[G]And I want to\n[Fsus2]walk with you\n[C]On a clou-\ndy day\n[G]In fields where the\n[Fsus2]yellow grass grows knee-\n[C]high So won't you\n[G]try to\n\n[Verse 3]\n[C]come Come away\n[Am]with me and we'll\n[C]kiss On a\n[Am]mountaintop\n[C]Come away\n[Am]with me And I'll\n[Em]never\n[Fsus2]stop loving\n[C]you\n[G]\n\n[Solo]\n[C]\n[Am]\n[C]\n[Am]\n[C]\n[Am]\n[Em]\n[Fsus2]\n[C]\n[G]\n[C]\n[Am]\n[C]\n[Am]\n[C]\n[Am]\n[Em]\n[Fsus2]\n[C]\n\n[Chorus]\n[G]And I want to\n[Fsus2]wake up with the\n[C]rain Falling\non a tin roof\n[G]While I'm\n[Fsus2]safe there in your arms\n[C]So all I\n[G]ask is for\n\n[Outro]\n[C]you To come away\n[Am]with me in the night\n[C]\n[Am]\n[C]Come away\n[G]with me\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "Fsus2": {
+      "catalog": [
+        "xx3011"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Come Away With Me",
+  "id": "35329a28260ac8804023942518c80f968d2fe5f0ba2c2960e2f5ae77355b0424",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 135,
+  "normalizedKey": "norah jones|come away with me",
+  "playableChords": [
+    "C",
+    "Am",
+    "Em",
+    "Fsus2",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 48,
+      "name": "Solo"
+    },
+    {
+      "measure": 68,
+      "name": "Chorus"
+    },
+    {
+      "measure": 76,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "35329a28260ac8804023942518c80f968d2fe5f0ba2c2960e2f5ae77355b0424",
+    "version": "BCFZ"
+  },
+  "tempo": 80,
+  "title": "Come Away With Me",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

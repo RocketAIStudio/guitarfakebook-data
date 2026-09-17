@@ -1,0 +1,100 @@
+{
+  "artist": "Omar Apollo",
+  "artistNormalized": "omar apollo",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Cmaj7]\n[Dm7]\n[Cmaj7]\n[Dm7]\n\n[Verse 1]\n[Cmaj7]'Cause baby there's something you\nknow But clearly you\n[Dm7]say, I'm not good for\nyou I think that I'm barely in\n[Cmaj7]love You said you don't smoke, you\ndo Here's something I wrote for\n[Dm7]you One time I had love for\nyou 'Cause honestly, you\n\n[Chorus]\n[Cmaj7]got me gone From every-\n[Dm7]one, for every-\n[G]one [Fm]\n\n[Break]\n[Cmaj7]Times you take my\nbreath away I'm so in\n[Dm7]love with you\nNow just\n\n[Verse 3]\n[Cmaj7]passing the time Waiting longer for\nyou Oh baby\n[Dm7]\n[Cmaj7]And baby you know, that\nI Never put it on, it was\n[Dm7]you, you\n'Cause\n\n[Outro]\n[Cmaj7]honestly, you got me\n[Dm7]gone From every-\n[G]one [Fm]\n[Cmaj7]",
+  "diagrams": {
+    "Cmaj7": {
+      "catalog": [
+        "x35453",
+        "x-3-2-0-0-0",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm7": {
+      "catalog": [
+        "x57565",
+        "x-x-0-2-1-1",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Fm": {
+      "catalog": [
+        "133111",
+        "x-x-3-5-6-4",
+        "x-8-10-10-9-8",
+        "13-15-15-13-13-13",
+        "x-20-22-22-21-20"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Ugotme",
+  "id": "a1497c4a05de7dbdd7b4e9f48c668e98a1331ba1a01be242aa53aded326b6576",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 117,
+  "normalizedKey": "omar apollo|ugotme",
+  "playableChords": [
+    "Cmaj7",
+    "Dm7",
+    "G",
+    "Fm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Break"
+    },
+    {
+      "measure": 24,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 32,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a1497c4a05de7dbdd7b4e9f48c668e98a1331ba1a01be242aa53aded326b6576",
+    "version": "BCFZ"
+  },
+  "tempo": 65,
+  "title": "Ugotme",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

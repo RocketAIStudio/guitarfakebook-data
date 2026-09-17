@@ -1,0 +1,141 @@
+{
+  "artist": "Otis Redding",
+  "artistNormalized": "otis redding",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[C]\n\n[Verse 1]\n[C]Your\nprecious love\n[Am]Means\nmore to me\n[F]\n[G]Than any love, than any\n[C]love could ever be\nFor when\n\n[Verse 2]\n[C]I wanted\nyou\n[Am]I was so\nlonely, and so blue\n[F]That's what love,\n[G]that's what love really\n[C]made me do\nAnd dar-\n\n[Verse 3]\n[C]ling, oh\nthey keep saying That\n[Am]our love won't grow now\nBut honey\n[F]I wanna tell them And I\n[G]just wanna show them How in the\n[C]world do they know that?\nIf only\n\n[Verse 4]\n[C]all, all night long\nFor as long as\n[Am]you've been in love with me now\nI know our\n[F]love will grow wider And so\n[G]deeper Than any,\n[C]any other seen\n[A]\n\n[Verse 5]\n[D]Of all the\nthings I want now\n[Bm]In this whole wide\nworld is just For you\n[G]to say, for you to say\n[A]That you will\n[D]be my, my girl now\nAnd I promise I won't\n\n[Verse 6]\n[D]leave you\nI just keep wanting\n[Bm]you all night, all night\nI'm wanting\n[G]you, nobody but you now,\n[A]nobody but you\n[D]now Ooh, I wanna tell\nyou just one more time For your\n\n[Verse 7]\n[D]precious love, now Oh my\nIt means everything in the world\n[Bm]to me Everything in the world to me\nAnd I'm just so wilding\n[G]Just to have you\n[A]right home with\n[D]me",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "For Your Precious Love",
+  "id": "d5136e251e6205eaa4f055309b96929e080f4f0e6415a06c4a23ffe631bb7d1a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 234,
+  "normalizedKey": "otis redding|for your precious love",
+  "playableChords": [
+    "C",
+    "Am",
+    "F",
+    "G",
+    "A",
+    "D",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 19,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 35,
+      "name": "Verse 5"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 6"
+    },
+    {
+      "measure": 51,
+      "name": "Verse 7"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d5136e251e6205eaa4f055309b96929e080f4f0e6415a06c4a23ffe631bb7d1a",
+    "version": "BCFZ"
+  },
+  "tempo": 62,
+  "title": "For Your Precious Love",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

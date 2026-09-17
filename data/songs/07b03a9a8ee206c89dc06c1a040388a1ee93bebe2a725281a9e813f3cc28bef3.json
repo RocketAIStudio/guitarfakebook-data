@@ -1,0 +1,121 @@
+{
+  "artist": "Paul McCartney",
+  "artistNormalized": "paul mccartney",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Cadd9]  [G/B]  [D/A]  [D]\n[Cadd9]  [G/B]  [D/A]  [D]\n[Cadd9]  [G/B]  [D/A]  [D]\n[Cadd9]  [G/B]  [D]\n[D]\n\n[Verse 1]\n[G]Give me your hand,\n[D]I'd like to shake it,\n[G]I want to show you I'm your\n[D]friend.\n[G]You'll understand,\n[D]If I can make it cle ar,\n[G]It's all that mat ters in the end.\n[D]Put it there,\n\n[Chorus]\n[Bm][A]If it weights a ton,\n[G]That's what a\n[D]father says [A]to his\n[G]young son. I don't care,\n[Bm][A]If it weights a ton,\n[G]As long as\n[D]you and I are here, [A]put it there.\n[Bm][G]Long as\n[D]you and I are here, [A]put it there\n[D]\n\n[Interlude]\n[Cadd9]  [G/B]  [D/A]  [D]\n[Cadd9]  [G/B]  [D/A]  [D]\n[Cadd9]  [G/B]  [D/A]  [D]\n[Cadd9]  [G/B]  [D]\n\n[Verse 2]\n[G]If there's a fight,\n[D]I'd like to fix it,\n[G]I hate to see things go so\n[D]wrong.\n[G]The darkest night,\n[D]And all it's mixed emo tions,\n[G]Are getting ligh ter sing along.\n[D]Put it there,\n\n[Chorus]\n[Bm][A]If it weights a ton,\n[G]That's what a\n[D]father says [A]to his\n[G]young son. I don't care,\n[Bm][A]If it weights a ton,\n[G]As long as\n[D]you and I are here, [A]put it there.\n[Bm][G]Long as\n[D]you and I are here, [A]put it there\n[G]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32033"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x00232"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x20033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Put It There",
+  "id": "07b03a9a8ee206c89dc06c1a040388a1ee93bebe2a725281a9e813f3cc28bef3",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 172,
+  "normalizedKey": "paul mccartney|put it there",
+  "playableChords": [
+    "Cadd9",
+    "G/B",
+    "D/A",
+    "D",
+    "G",
+    "Bm",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 24,
+      "name": "Interlude"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "07b03a9a8ee206c89dc06c1a040388a1ee93bebe2a725281a9e813f3cc28bef3",
+    "version": "BCFZ"
+  },
+  "tempo": 91,
+  "title": "Put It There",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

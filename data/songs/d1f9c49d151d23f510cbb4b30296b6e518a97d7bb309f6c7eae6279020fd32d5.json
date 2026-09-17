@@ -1,0 +1,130 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Bm]\n\n[Verse 1]\n[Bm]Hello? Is there anybody\n[A]in there? Just nod if you can\n[G]hear me [Em]Is there\n[Bm]anyone at home?\nCome on now I hear you're\n[A]feeling down Well\n[G]I can ease your pain [Em]Get you\n[Bm]on your feet again\nRelax I'll need some infor-\n[A]mation first\n[G]Just the basic facts [Em]Can you\n[Bm]show me where it hurts?\n\n[Chorus]\n[D]There is no pain you are rece-\n[A]ding\n[D]A distant ship smoke on the ho-\n[A]rizon\n[C]You are only coming through in waves-\n[G]Your\n[C]lips move but I can't hear what you're say-\n[G]ing When I\n[D]was a child I had a fe-\n[A]ver My\n[D]hands felt just like two balloons\n[A]\n[C]Now I've got that feeling once again\n[G]I can't explain you would not un-\n[C]derstand This is not how I am\n[G]\n[A]I\n[C]have become [G]comfortably\n[D]numb\n\n[Solo 1]\n[D]\n[A]\n[D]\n[A]\n[C]\n[G]\n[C]\n[G]\n\n[Pre-Verse]\n[A]I\n[C]have become [G]comfortably\n[D]numb\n\n[Verse 2]\n[Bm]Okay, Just a little\n[A]pinprick There'll be no more,\n[G][Em]But you may\n[Bm]feel a little sick Can you\nstand up? I do believe it's\n[A]working, good That'll keep you\n[G]going through the show [Em]Come\n[Bm]on it's time to go\n\n[Chorus]\n[D]There is no pain you are reced-\n[A]ing\n[D]A distant ship, smoke on the ho-\n[A]rizon\n[C]You are only coming through in waves\n[G]Your\n[C]lips move but I can't hear what you're say-\n[G]ing When I\n[D]was a child I caught a\n[A]fleeting glimpse\n[D]Out of the corner of my eye\n[A]\n[C]I turned to look but it was gone\n[G]I cannot put my finger on\n[C]it now The child is grown, The\n[G]dream is gone\n[A]I\n[C]have become [G]comfortably\n[D]numb\n\n[Solo 2]\n[Bm]\n[A]\n[G]  [Em]\n[Bm]\n[A]\n[G]  [Em]\n[Bm]\n[A]\n[G]  [Em]\n[Bm]\n[A]\n[G]  [Em]\n[Bm]\n[A]\n[G]  [Em]\n[Bm]\n[A]\n[G]  [Em]\n[Bm]\n[A]\n[G]  [Em]\n[Bm]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "x0222x",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Comfortably Numb *alt 5",
+  "id": "d1f9c49d151d23f510cbb4b30296b6e518a97d7bb309f6c7eae6279020fd32d5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 305,
+  "normalizedKey": "pink floyd|comfortably numb",
+  "playableChords": [
+    "Bm",
+    "A",
+    "G",
+    "Em",
+    "D",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 15,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 42,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Solo 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "d1f9c49d151d23f510cbb4b30296b6e518a97d7bb309f6c7eae6279020fd32d5",
+    "version": "BCFZ"
+  },
+  "tempo": 63,
+  "title": "Comfortably Numb",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

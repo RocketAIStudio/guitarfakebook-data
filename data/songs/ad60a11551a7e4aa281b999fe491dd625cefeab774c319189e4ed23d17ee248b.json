@@ -1,0 +1,80 @@
+{
+  "artist": "Parkway Drive",
+  "artistNormalized": "parkway drive",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[B5]\n\n[Verse]\n[B5]There is\nnothing\nThere is\nnothing\nI\nwould not\ngive\nThese are the days\nof Calm\nThese are the days\nof Calm\nPlease understand\nThese\nare the days\nof\n\n[Chorus]\n[D]Calm\n[F#5]\n[E5]\n[D]\n[F#5]\n[E5]We don't for-\n[D]get\n[F#5]\n[E5]We don't for-\n[D]get\nWe don't for-\n[F#5]get\n[E5]\n\n[Outro]\n[D]\n[F#5]\n[E5]\n[D]\n[F#5]\n[E5]\n[D]\n[F#5]\n[E5]\n[D]\n[F#5]\n[E5]\n[D]",
+  "diagrams": {
+    "B5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "337xxx",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "E5": {
+      "catalog": [
+        "5557xx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "7779xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Moments in Oblivion",
+  "id": "ad60a11551a7e4aa281b999fe491dd625cefeab774c319189e4ed23d17ee248b",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 46,
+  "normalizedKey": "parkway drive|moments in oblivion",
+  "playableChords": [
+    "B5",
+    "D",
+    "F#5",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ad60a11551a7e4aa281b999fe491dd625cefeab774c319189e4ed23d17ee248b",
+    "version": "BCFZ"
+  },
+  "tempo": 168,
+  "title": "Moments in Oblivion",
+  "tuning": "B F# B E G# C#",
+  "variantRole": "primary"
+}

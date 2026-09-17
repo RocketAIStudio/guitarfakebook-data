@@ -1,0 +1,132 @@
+{
+  "artist": "Parkway Drive",
+  "artistNormalized": "parkway drive",
+  "capo": "No capo",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[D5]  [B5]\n[F#5]  [E5]\n[D5]  [B5]\n[F#5][E5]Carrion\n\n[Chorus]\n[D5]In [B5]a moment I'm lost\n[F#5][E5]Dying from the inside\n[D5]Her eyes take [B5]me away\n[F#5]Tear me apart from [E5]the inside out\n\n[Verse 1]\n[B5]Dead eyes speaking vo-\nlumes But our lips refuse to move\nCould this ever be the last time? The fi-\nnal time that we see this through?\nGive me the strength to return,\nReturn the breath you've stolen\nGive me the means to resist (re-\nsist) Her heart I've broken again\nReflection\nbuilt upon sorrow\nWe're walking the darkest roads Within\nchests carved with regret\n\n[Chorus]\n[D5]In [B5]a moment I'm lost\n[F#5][E5]Dying from the inside\n[D5]Her eyes take [B5]me away\n[F#5]Tear me apart from [E5]the inside out\n\n[Riff]\n[B5]\nFrom the inside out\nThe inside out\n\n[Bridge]\n[Bsus4][Bm]We've been [Bsus2]running blind [B5]\n[Bsus4][Bm]Now we're [Bsus2]falling [B5]through the\n[D5]cracks [B5]\n[F#5]  [E5]\n[D5]  [B5]\n[F#5]  [E5]\n\n[Chorus]\n[D5]We're left [B5]running\n[F#5]We are [E5]running blind\n[D5]Now we're [B5]falling\n[F#5]Falling through the [E5]cracks Back to the world of the\n\n[Bridge]\n[B5]dead\n[A5]\nHer shining eyes (her shining eyes)\nHer shining eyes mark out return\nBack to the world\nof the dead\n[A5]\n\n[Chorus]\n[D5]In [B5]a moment I'm lost\n[F#5][E5]Dying from the inside\n[D5]Her eyes take [B5]me away\n[F#5]Tear me apart from [E5]the inside out\n\n[Outro (Fade Out)]\n[D5]My [E5]love I left\n[F#5]My [E5]heart I left\n[D5][E5]With my promise\n[B5]to [D5]return\n[E5]A\n[F#5]promise [E5]to return\n[D5][E5]A\n[B5]promise [D5]to re-\nturn",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "10-10-10-x-x-x"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "000xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "003xxx",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "Bsus2": {
+      "catalog": [
+        "002xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bsus4": {
+      "catalog": [
+        "005xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "333xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "555xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Carrion",
+  "id": "a42f3a8bd3d45a32ef1250902935e6d2a1aaacde5ad7d8d87b42221b0ee014e1",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 262,
+  "normalizedKey": "parkway drive|carrion",
+  "playableChords": [
+    "D5",
+    "B5",
+    "F#5",
+    "E5",
+    "Bsus4",
+    "Bm",
+    "Bsus2",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Chorus"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Riff"
+    },
+    {
+      "measure": 29,
+      "name": "Bridge"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Bridge"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Outro (Fade Out)"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a42f3a8bd3d45a32ef1250902935e6d2a1aaacde5ad7d8d87b42221b0ee014e1",
+    "version": "BCFZ"
+  },
+  "tempo": 77,
+  "title": "Carrion",
+  "tuning": "B F# B E G# C#",
+  "variantRole": "primary"
+}

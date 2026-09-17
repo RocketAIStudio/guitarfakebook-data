@@ -1,0 +1,114 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]\n\n[Verse 1]\n[D]Jesus, Jesus,\nwhat's it all about?\nTrying to clout these\nlittle ingrates\ninto shape.\nWhen\nI was their age\nall the lights went out.\nUuh!\nThere\nwas no time to whine\nand mope about.\n\n[Chorus]\n[Cmaj7]And even now\npart of me flies [D]over\n[Cmaj7]Dresden at angels one\nfive. [D]And though\n[Cmaj7]they'll never fathom it\nbehind my Sarcasm\ndesperate memories\n[D]lie.\n\n[Verse 2]\n[D]Sweetheart sweetheart\nare you fast asleep?\nGood.\nThat's the only\ntime that I can\nreally speak to you.\nAnd\nthere is something\nthat I've locked away\nA memo-\nry that is too pain-\nful To with-\nstand the light of day.\n\n[Chorus]\n[Cmaj7]When we came\nback from the war [D]the\n[Cmaj7]banners and Flags hung on\neveryone's door. [D]We\n[Cmaj7]danced and we sang in the\nstreet and The church bells\n\n[Outro]\n[D]rang.\nBut the\n[G]burning\n[G/F#]in my\n[C]heart\nThe\n[G]mem'ry\n[G/F#]smoulders\n[C]on\nOf the\n[G]gunners\n[G/F#]dying\n[C]words\non the\n[Emadd9]intercom.",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Emadd9": {
+      "catalog": [
+        "022002"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G/F#": {
+      "catalog": [
+        "2x0002"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hero's Return",
+  "id": "c4929a37da0d718cc1386e0bf4fa214f6a8c41658b67cb699692ec61d4e7ffe4",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 185,
+  "normalizedKey": "pink floyd|hero s return",
+  "playableChords": [
+    "D",
+    "Cmaj7",
+    "G",
+    "G/F#",
+    "C",
+    "Emadd9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 59,
+      "name": "Chorus"
+    },
+    {
+      "measure": 65,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c4929a37da0d718cc1386e0bf4fa214f6a8c41658b67cb699692ec61d4e7ffe4",
+    "version": "BCFZ"
+  },
+  "tempo": 118,
+  "title": "Hero's Return",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

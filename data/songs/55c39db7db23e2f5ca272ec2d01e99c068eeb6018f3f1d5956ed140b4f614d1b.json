@@ -1,0 +1,115 @@
+{
+  "artist": "Peach Pit",
+  "artistNormalized": "peach pit",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\n[B]\n[A]\n[E]\n[B]\n[A]\n\n[Verse 1]\n[E]Sweet FA\n[B]I'll take you any day, don't\n[A]take me out\nJust let me hear the growl from those\n[E]per fect lips\n[B]Your sweet caressing kiss can\n[A]lay me out\nJust don't go lead me south As you\n\n[Chorus]\n[B]\nseep on in and\n[E]keep [B]me [A]down\nYeah you\n[B]\nseep on in and\n[E]keep [B]me [F#m]ly-\ning' round\n[A]\n\n[Verse 2]\n[E]Morning blues\n[B]You're such a sweet perfume, just\n[A]shut your eyes\nAnd don't go leave my side I'll\n[E]couch my days,\n[B]I'm gone in such a blaze of\n[A]lazy love\nAnd it's turning me to scum As you\n\n[Chorus]\n[B]\nseep on in and\n[E]keep [B]me [A]down\nYeah, you\n[B]\nseep on in and\n[E]keep [B]me [F#m]ly-\ning' round\n[A]\n\n[Solo]\n[E]\n[B]\n[A]\n[E]\n[B]\n[A]\n[E]\n[B]\n[A]\nYeah, you\n\n[Outro]\n[B]\nseep on in and\n[E]keep [B]me [A]down\nYeah, you\n[B]\nseep on in and\n[E]keep [B]me [A]down\nYeah, you\n[B]\nseep on in and\n[E]keep [B]me [A]down\n[B7]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "x24442",
+        "7-6-4-4-4-7",
+        "7-9-9-8-7-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Sweet FA",
+  "id": "55c39db7db23e2f5ca272ec2d01e99c068eeb6018f3f1d5956ed140b4f614d1b",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 147,
+  "normalizedKey": "peach pit|sweet fa",
+  "playableChords": [
+    "E",
+    "B",
+    "A",
+    "F#m",
+    "B7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 26,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Solo"
+    },
+    {
+      "measure": 55,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "55c39db7db23e2f5ca272ec2d01e99c068eeb6018f3f1d5956ed140b4f614d1b",
+    "version": "BCFZ"
+  },
+  "tempo": 73,
+  "title": "Sweet FA",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

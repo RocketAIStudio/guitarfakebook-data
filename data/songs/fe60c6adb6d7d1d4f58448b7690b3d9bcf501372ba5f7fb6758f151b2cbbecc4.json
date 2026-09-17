@@ -1,0 +1,114 @@
+{
+  "artist": "Paramore",
+  "artistNormalized": "paramore",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[Em]I'm not [C]angry anymore\n[G]Well, [B7]sometimes I am\n[Em]I don't [C]think badly of\n[G]you Well, [B7]sometimes I do\n[C]\n[Cm]It de-\n\n[Chorus]\n[C]pends on the day [B7]The ex-\n[Em]tent of all My [C]worthless rage\nI'm not [D]angry any-\n[G]more\n\n[Verse 2]\n[Em]I'm not [C]bitter anymore\n[G]I'm [B7]syrupy sweet\n[Em]I rot your [C]teeth Down to their core\n[G]If I'm [B7]really happy\n[C]\n[Cm]De-\n\n[Chorus]\n[C]pends on the day [B7]If I\n[Em]wake up In a [C]giddy haze\nWell, I'm not [D]angry\n[C]I'm not totally [D]angry\n[C]I'm not all that [D]Angry anymore\n[G]",
+  "diagrams": {
+    "B7": {
+      "catalog": [
+        "x21202",
+        "x-2-4-2-4-2",
+        "7-6-4-4-4-5",
+        "7-9-7-8-7-7",
+        "x-x-9-11-10-11"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Cm": {
+      "catalog": [
+        "x35543",
+        "8-10-10-8-8-8",
+        "x-x-10-12-13-11",
+        "x-15-17-17-16-15",
+        "20-22-22-20-20-20"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Interlude Im Not Angry Anymore",
+  "id": "fe60c6adb6d7d1d4f58448b7690b3d9bcf501372ba5f7fb6758f151b2cbbecc4",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 107,
+  "normalizedKey": "paramore|interlude im not angry anymore",
+  "playableChords": [
+    "Em",
+    "C",
+    "G",
+    "B7",
+    "Cm",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 8,
+      "name": "Chorus"
+    },
+    {
+      "measure": 12,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 18,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fe60c6adb6d7d1d4f58448b7690b3d9bcf501372ba5f7fb6758f151b2cbbecc4",
+    "version": "BCFZ"
+  },
+  "tempo": 112,
+  "title": "Interlude Im Not Angry Anymore",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,100 @@
+{
+  "artist": "Placebo",
+  "artistNormalized": "placebo",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[C#]\n[C#]\n[F]\n[C#]\n[F]\n[A#m]\n[F]\n[F#]\n[C#]\n\n[Verse 1]\n[C#]Fare-\nwell the ashtray girl\n[F]For-\nbidden snowflake\n[C#]Be-\nware this troubled world\n[F]Watch out\nfor earthquakes\n[A#m]Good-\nbye to open sores\n[F]To bro-\nken center floor\n[F#]We\nknow we miss her\n[C#]We\nmiss her picture\n\n[Chorus]\n[F#]Some-\ntimes it's faded\n[C#]Disin-\ntegrated\n[F#]For\nfear of grow-\n[C#]ing old\n[F#]Some-\ntimes it's faded\n[C#]Assass-\ninated\n[F#]For\nfear of grow-\n[C#]ing old\n\n[Verse 2]\n[C#]Fare-\nwell the ashtray girl\n[F]An-\ngelic fruitcake\n[C#]Be-\nware this troubled world\n[F]Control\nyour intake\n[A#m]Good-\nbye to open sores\n[F]Goodbye\nand furthermore\n[F#]We\nknow we miss her\n[C#]We\nmiss her picture\n\n[Chorus]\n[F#]Some-\ntimes it's faded\n[C#]Disin-\ntegrated\n[F#]For\nfear of grow-\n[C#]ing old\n[F#]Some-\ntimes it's faded\n[C#]Assass-\ninated\n[F#]For fear\nof growing\n[C#]old\n[F]\nHang on\n[A#m]\nThough we try\n[F]\nIt's\n[A#m]gone\n[F]\nHang on\n[A#m]\nThough we try\n[F]\nIt's\n[A#m]gone\n\n[Chorus]\n[F#]Some-\ntimes it's faded\n[C#]Disin-\ntegrated\n[F#]For\nfear of grow-\n[C#]ing old\n[F#]Some-\ntimes it's faded\n[C#]Assass-\ninated\n[F#]For\nfear of grow-\n[C#]ing old\n\n[Outro]\n[F#]You can't\nstop growing\n[C#]old\n[F#]You can't\nstop growing\n[C#]old\n[F#]You can't\nstop growing\n[C#]old\n[F#]You can't\nstop growing\n[C#]old\n[F#]You can't\nstop growing\nold",
+  "diagrams": {
+    "A#m": {
+      "catalog": [
+        "x02210"
+      ],
+      "catalogCount": 1
+    },
+    "C#": {
+      "catalog": [
+        "x32010",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "022100",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "133211",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "This Picture *alt",
+  "id": "389815fb57b012eb585bf45cb4b8a7d5999f6ef1d74d9e76245fb1bf72cf011a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 227,
+  "normalizedKey": "placebo|this picture",
+  "playableChords": [
+    "C#",
+    "F",
+    "A#m",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 101,
+      "name": "Chorus"
+    },
+    {
+      "measure": 117,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "389815fb57b012eb585bf45cb4b8a7d5999f6ef1d74d9e76245fb1bf72cf011a",
+    "version": "BCFZ"
+  },
+  "tempo": 160,
+  "title": "This Picture",
+  "tuning": "F A# D# G# C F",
+  "variantRole": "alt"
+}

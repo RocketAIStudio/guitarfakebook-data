@@ -1,0 +1,127 @@
+{
+  "artist": "Queen",
+  "artistNormalized": "queen",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\nUh yeah!\nCome on!\n[G]  [D]\n[C]  [G]\n[E]\n[G]  [D]\n[C]  [G]\n\n[Verse 1]\n[E]Buddy, you're a boy, make a\nbig noise Playing in the\nstreet, gonna be a big\n[C]man someday [G]You got\nmud on your face ah You\nbig disgrace\n[D]Kicking your kind all\n[E]over the place Singing!\n\n[Chorus]\n[G]We [D]will,\n[C]we [G]will\n[E]rock you\n[G]We [D]will,\n[C]we [G]will\n\n[Verse 2]\n[E]Buddy you're an old man\npoor man Pleading with your\neyes gonna make you some\n[C]peace some day [G]You got\n[E]mud on your face ah\nBig disgrace\n[D]Wavin' your banner all\n[E]over the place Singing\n\n[Chorus]\n[G]We [D]will,\n[C]we [G]will\n[E]rock you to-\nnight\nWe will,\nwe will\n\n[Bridge]\n[C]Rock!\n\n[Interlude]\n[E]\n[C]  [G]\n[E]\n[C]  [G]\n[E]\n[C]  [G]\n[E]\n[C]  [G]\n[E]\n[C]  [G]\n[E]\n[C]  [G]\n[E]\n[C]  [G]\n[C]  [G]\n[E]\n[C]  [G]\n[E]\n[C]  [G]\n[E]\n[C]  [G]\n\n[Pre-Chorus]\n[E]\nOh!\n\n[Chorus]\n[G]We [D]will,\n[C]we [G]will\n[E]rock you to-\nnight\n[C]We [G]will,\n[D]we [G]will\n[E]rock you rock you\nrock you rock\n[G]We [D]will,\n[C]we [G]will\n\n[Outro]\n[A]\n[C]\n[E]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "0221xx",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "We Will Rock You (Fast) - Live in Montreal",
+  "id": "7bbe21f60e5cb97a5b1d76a01de904f9092d6e9528469c7a00284c19917ffccb",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 138,
+  "normalizedKey": "queen|we will rock you fast live in montreal",
+  "playableChords": [
+    "E",
+    "G",
+    "D",
+    "C",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 31,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 45,
+      "name": "Chorus"
+    },
+    {
+      "measure": 51,
+      "name": "Bridge"
+    },
+    {
+      "measure": 55,
+      "name": "Interlude"
+    },
+    {
+      "measure": 99,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 103,
+      "name": "Chorus"
+    },
+    {
+      "measure": 113,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "7bbe21f60e5cb97a5b1d76a01de904f9092d6e9528469c7a00284c19917ffccb",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "We Will Rock You (Fast) - Live in Montreal",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

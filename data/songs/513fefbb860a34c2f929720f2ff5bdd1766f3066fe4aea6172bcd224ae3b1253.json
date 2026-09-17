@@ -1,0 +1,130 @@
+{
+  "artist": "Paramore",
+  "artistNormalized": "paramore",
+  "capo": "No capo",
+  "chordPositionCount": 22,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[F#m]\n[A]\n[Bsus2]\n[F#m]\n[A]\n[Bsus2]\n[F#m]\n[A]\n[D]\n[Bsus2]\n\n[Verse 1]\n[F#m]What a shame\nwe all became\n[A]Such\nfragile, broken things.\n[D]A\nmemory remains\n[Bsus2]just a\ntiny spark.\n[F#m]I give it all\nmy oxygen\n[A]to\nlet the flames begin.\n[D]So\nlet the flames begin.\n[Bsus2]Oh,\nglory.\n\n[Pre-Chorus]\n[D]\n[Bm]\n[Esus4]Oh,\nglory.\n\n[Chorus]\n[F#m]This is\nhow we'll\n[A]dance when,\nWhen they\n[D]try to take us down.\n[Bsus2]This is what will be,\noh glo-\n\n[Verse 2]\n[F#m]ry. Somewhere\nweakness is our strength,\n[A]And I'll\ndie searching for it.\n[D]I can't\nlet myself regret\n[Bsus2]such\nselfishness.\n[F#m]My pain and all\nthe trouble caused,\n[A]No\nmatter how long,\n[D]I be-\nlieve that there's hope.\n[Bsus2]Buried beneath\nit all and...\n\n[Pre-Chorus]\n[D]\n[Bm]\n[Esus4]\n[D]\n[Bm]\n[Esus4]Growing beneath\nit all, and...\n\n[Chorus]\n[F#m]This is\nhow we'll\n[A]dance when,\nWhen they\n[D]try to take us down.\n[Bsus2]This is how we'll sing\noh.\n[F#m]This is\nhow we'll\n[A]stand when,\nWhen they\n[D]burn our houses down.\n[Bsus2]This is what will be,\noh glo...\n\n[Bridge]\n[F#m]Reaching\nas I\n[A]sink down\ninto\n[D]light.\n[Bsus2]\n[F#m]Reaching\nas I\n[A]sink down\ninto\n[D]light.\n[Bsus2]\n\n[Chorus]\n[F#m]This is\nhow we'll\n[A]dance when,\nWhen they\n[D]try to take us down.\n[Bsus2]This is how we'll sing\noh.\n[F#m]This is\nhow we'll\n[A]stand when,\nWhen they\n[D]burn our houses down.\n[Bsus2]This is what will be,\noh glo-\n\n[Outro]\n[F#m]ry.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x13331",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x35543",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "Bsus2": {
+      "catalog": [
+        "x30033"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "x68886",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    },
+    "Esus4": {
+      "catalog": [
+        "133311"
+      ],
+      "catalogCount": 1
+    },
+    "F#m": {
+      "catalog": [
+        "355333",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Let The Flames Begin",
+  "id": "513fefbb860a34c2f929720f2ff5bdd1766f3066fe4aea6172bcd224ae3b1253",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 226,
+  "normalizedKey": "paramore|let the flames begin",
+  "playableChords": [
+    "F#m",
+    "A",
+    "Bsus2",
+    "D",
+    "Bm",
+    "Esus4"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 61,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Bridge"
+    },
+    {
+      "measure": 101,
+      "name": "Chorus"
+    },
+    {
+      "measure": 117,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "513fefbb860a34c2f929720f2ff5bdd1766f3066fe4aea6172bcd224ae3b1253",
+    "version": "BCFZ"
+  },
+  "tempo": 161,
+  "title": "Let The Flames Begin",
+  "tuning": "C# G# C# F# A# D#",
+  "variantRole": "primary"
+}

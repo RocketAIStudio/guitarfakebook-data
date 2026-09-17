@@ -1,0 +1,141 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 27,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Am]\n[F]\n[G]  [C]\n\n[Verse 1]\n[Am]You can't believe\n[C]things you see and read\n[G]The Soviet threat\n[Am]Our pseudo ene-\n[F]my What's scaring me?\n[C]Our foreign policy To\n[D]make the world safe for\n[F]business Call it de-\n[G]mocracy\n\n[Bridge]\n[C]\n[D]\n[F]\n\n[Verse 2]\n[Am]Our human na ture,\n[G]it's all the same\nWe spend our lives in\n[F]the pursuit of happiness\n[Am]So stop the hate,\n[G]open the iron gate\n[D]It's our destiny\n[F]to make the cold war\n[G]history\n\n[Bridge]\n[C]\n[D]\n[F]\n\n[Verse 3]\n[Am]You think I give a shit\n[C]If you're a socialist\n[G]If you're a capitalist\n[D]We've all got to exist\n[F]On this planet with\n[C]nowhere to run\n[D]Millions of brainwashed must\n[F]open their eyes\n[G]We are\n\n[Interlude]\n[C]one\n[D]\n[F]\n[C]\n[D]\n[F]With\n\n[Verse 4]\n[C]us over here and\nthem over there\n[D]Barbed wire borders are\n[F]going nowhere\n\n[Interlude]\n[C]\n\n[Outro]\n[C]\n[G#]\n[A#]\n[C]\n[G#]\n[A#]\n[C]",
+  "diagrams": {
+    "A#": {
+      "catalog": [
+        "x13331"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Nowhere",
+  "id": "eb18d2541b06caa76608467e9983e87bc79c64d70554b1bce34bdf71d58f85bd",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 154,
+  "normalizedKey": "nofx|nowhere",
+  "playableChords": [
+    "Am",
+    "F",
+    "G",
+    "C",
+    "D",
+    "G#",
+    "A#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 19,
+      "name": "Bridge"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Bridge"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 45,
+      "name": "Interlude"
+    },
+    {
+      "measure": 53,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 57,
+      "name": "Interlude"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "eb18d2541b06caa76608467e9983e87bc79c64d70554b1bce34bdf71d58f85bd",
+    "version": "BCFZ"
+  },
+  "tempo": 176,
+  "title": "Nowhere",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

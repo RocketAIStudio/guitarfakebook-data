@@ -1,0 +1,130 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\nOn the turning a-\n\n[Verse 1]\nway\nFrom the\npale and downtrodden\nAnd the\nwords they say Which we\nwon’t understand\n\"Don’t accepting that what’s\nhappening\nIs just a case of others’\nsuffering\nOr you’ll find that you’re\njoining in The\nturning a-\nway\"\n[G]It’s a [D]sin that some-\n\n[Verse 2]\n[G]how\nLight is [C]changing to\n[Em]shadow\nAnd [D]casting its\n[G]shroud Over [C]all we have\nknown\n[Em]Unaware how the\n[C]ranks have [G]grown\n[Em]Driven on by a\n[G]heart of [C]stone\n[G]We could find that we’re\n[C]all [Em]alone In the\n[D]dream of the\n[G]proud\n[Em]On the [D]wings of the\n\n[Verse 3]\n[G]night\nAs the [C]daytime is\n[Em]stirring\nWhere the [D]speechless u-\n[G]nite In a [C]silent ac-\ncord\n[Em]Using words you will\n[C]find are [G]strange\n[Em]Mesmerized as they\n[G]light the [C]flame\n[G]Feel the new wind of\n[C]change [Em]On the\n[D]wings of the\n[G]night\n[D]\n\n[Solo 1]\n[Em]  [D]\n[C]  [D]\n[Em]  [D]\n[Am]  [Bm]\n[C]  [D]\n[Am]  [Bm]\n[C]  [D]\n[Em]\nNo more [D]turning a-\n\n[Verse 4]\n[G]way\nFrom the [C]weak and the\n[Em]weary\nNo more [D]turning a-\n[G]way From the [C]coldness in-\nside\n[Em]Just a world that we\n[C]all must [G]share\n[Em]It’s not enough just to\n[G]stand and [C]stare\n[G]Is it only a\n[C]dream that there’ll [Em]be No more\n[D]turning a-\n[G]way?\n[D]\n\n[Solo 2]\n[Em]\n[C]\n[Em]\n[D]\n[G]\n[D]\n[Em]\n[C]\n[Em]\n[D]\n[G]\n[D]\n[Em]\n[C]\n[Em]\n[D]\n[G]\n[D]\n[Em]\n[C]\n[Em]\n[D]\n[G]\n[D]\n[Em]\n[C]\n[Em]\n[D]\n[G]\n[D]\n\n[Fade Out]\n[Em]\n[C]\n[Em]\n[D]\n[G]\n[D]\n[Em]\n[C]\n[Em]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "On The Turning Away",
+  "id": "60faff0db3256fd21277cce6ec1f8fab32610e44f9be8d49a90661850192559d",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 219,
+  "normalizedKey": "pink floyd|on the turning away",
+  "playableChords": [
+    "G",
+    "D",
+    "C",
+    "Em",
+    "Am",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 53,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 68,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 85,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 125,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "60faff0db3256fd21277cce6ec1f8fab32610e44f9be8d49a90661850192559d",
+    "version": "BCFZ"
+  },
+  "tempo": 50,
+  "title": "On The Turning Away",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

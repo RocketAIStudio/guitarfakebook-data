@@ -1,0 +1,126 @@
+{
+  "artist": "Orville Peck",
+  "artistNormalized": "orville peck",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[D]\n[Em]\n[Bm]\n[A]\n\n[Verse 1]\n[D]The sun goes down,\n[Em]another dreamless night\n[Bm]\n[A]You're right by my side\n[D]You wake me up,\n[Em]you say it's time to ride\n[Bm]\n[A]In the dead of night\n[D]Strange canyon road,\n[Em]strange look in your eyes\n[Bm]\n[A]You shut them as we\n[G]fly\nAs we\n[A]fly\n\n[Verse 2]\n[D]Stark, hollow town,\n[Em]Carson City lights\n[Bm]\n[A]Baby, let's get high\n[D]Spend a Johnny's cash,\n[Em]hitch another ride\n[Bm]\n[A]We laugh until we cry\n[D]You say, \"Go fast,\"\n[Em]I say, \"Hold on tight\"\n[Bm]\n[A]In the dead of\n[G]night\nDead of\n[A]night\n\n[Chorus]\n[D]See\n[Em]\n[G]See the boys as they\n[A6]walk on by\n[D]See\n[Em]\n[G]See the boys as they\n[A6]walk on by\n[Em](By)\n[A]As they walk on\n[Em]by\n[A]As they walk on\n[Em]by\n[A]As they walk on\n[Em]by It's enough to make a\n[A]young man\n\n[Bridge]\n[D]\n[Em]\n[G]\n[A6]\n\n[Verse 3]\n[D]Six summers down,\n[Em]another dreamless night\n[Bm]\n[A]You're not by my side\n[D]Scratch on the moon\n[Em]like a familiar smile\n[Bm]\n[A]Stained on my mind\n[D]Some other town,\n[Em]someone else's life\n[Bm]\n[A]Dead in the\n[G]night\nIn the\n[A]night\n\n[Chorus]\n[D]See\n[Em]\n[G]See the boys as they\n[A6]walk on by\n[D]See\n[Em]\n[G]See the boys as they\n[A6]walk on by\n[D]See\n[Em]\n[G]See the boys as they\n[A6]walk on by\n[Em](By)\n[A]As they walk on\n[Em]by\n[A]As they walk on\n[Em]by\n[A]As they walk on\n[Em]by It's enough to make a\n[A]young man\n\n[Outro]\n[D]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A6": {
+      "catalog": [
+        "x04220"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "x79987",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Dead of Night",
+  "id": "f745a09e7d6bdd6a75f7eb2561d3edacfa88161fee8698135f6dab334ced06ef",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 233,
+  "normalizedKey": "orville peck|dead of night",
+  "playableChords": [
+    "D",
+    "Em",
+    "Bm",
+    "A",
+    "G",
+    "A6"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    },
+    {
+      "measure": 53,
+      "name": "Bridge"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 73,
+      "name": "Chorus"
+    },
+    {
+      "measure": 93,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f745a09e7d6bdd6a75f7eb2561d3edacfa88161fee8698135f6dab334ced06ef",
+    "version": "BCFZ"
+  },
+  "tempo": 101,
+  "title": "Dead of Night",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

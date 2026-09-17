@@ -1,0 +1,127 @@
+{
+  "artist": "P.O.D.",
+  "artistNormalized": "p o d",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Dm]\n[Bb]\n[Gm]\n\n[Verse 1]\n[Dm]In the game when the bones are stacked\nDrawin' a blank with a mental collapse Just\n[Bb]wait, things don't always go my\n[Gm]way\n[Dm]Who take the blame when no one reacts\nThat might explain why we're headed off track Look\n[Bb]straight, things are gonna go my\n[Gm]way\n\n[Pre-Chorus]\n[Dm]Push me down once and it's not okay\nFall and drop it down, well it's my choice to make If I\n[Am]stood my ground then maybe you all might\n[Gm]Hang with me awhile and watch the whole world fall like\n\n[Chorus]\n[Dm]Domino,\n[Am]domino [Gm]Falling like a domino\n[Dm]Domino,\n[Am]domino [Gm]Drop it down like a domi-\n[Dm]no Domino,\n[Am]domino [Gm]Falling like a domino\n[Dm]Domino,\n[Am]domino [Gm]Drop it down like a domi-\n[Dm]no\nIt's,\n\n[Verse 2]\n[Dm]never too late, free the weight off your back\nRetaliate when you're under attack Take\n[Bb]claim, when things don't seem to go your\n[Gm]way\n[Dm]Anticipate, don't ever fall for the trap\nStand alone and you'll see who's got your back Well\n[Bb]played, things are gonna fall you-\n[Gm]r way\n\n[Pre-Chorus]\n[Dm]Push me down once and it's not okay\nFall and drop it down, well it's my choice to make If I\n[Am]stood my ground then maybe you all might\n[Gm]Hang with me awhile and watch the whole world fall like\n\n[Chorus]\n[Dm]Domino,\n[Am]domino [Gm]Falling like a domino\n[Dm]Domino,\n[Am]domino [Gm]Drop it down like a domi-\n[Dm]no Domino,\n[Am]domino [Gm]Falling like a domino\n[Dm]Domino,\n[Am]domino [Gm]Drop it down like a domi-\n\n[Bridge]\n[Dm]no\n[C]\n[Dm]\n[C]\n[Dm]\n\n[Chorus]\n[Dm]Domino,\n[Am]domino [Gm]Falling like a domino\n[Dm]Domino,\n[Am]domino [Gm]Drop it down like a domi-\n[Dm]no Domino,\n[Am]domino [Gm]Falling like a domino\n[Dm]Domino,\n[Am]domino [Gm]Drop it down like a domi-\n\n[Outro]\n[Dm]no.",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x24432",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x32010",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "xx0232",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "022000",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "x02210",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Domino",
+  "id": "f297e2a45816cecb394aa9a6976b2b5f600134da02a3356ed7634d66deb639ce",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 365,
+  "normalizedKey": "p o d|domino",
+  "playableChords": [
+    "Dm",
+    "Bb",
+    "Gm",
+    "Am",
+    "C"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 47,
+      "name": "Bridge"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    },
+    {
+      "measure": 64,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f297e2a45816cecb394aa9a6976b2b5f600134da02a3356ed7634d66deb639ce",
+    "version": "BCFZ"
+  },
+  "tempo": 75,
+  "title": "Domino",
+  "tuning": "D G C F A D",
+  "variantRole": "primary"
+}

@@ -1,0 +1,122 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[G]Mother do you think they'll drop the\n[C]bomb?\n[G]\nMother do you think they'll like the\n[C]song?\n[G]\n[C]Mother do you think they'll try to break my\n[G]balls?\n[D]Ooh,\n[C]ah. Mother should I build the wall?\n[G]\n\n[Verse 2]\n[G]Mother should I run for presi dent?\n[C]\n[G]\nMother should I trust the government?\n[C]\n[G]\n[C]Mother will they put me in the firing\n[G]line?\n[D]Ooh,\n[C]ah. Is it just a waste of time?\n[G]\n\n[Chorus]\n[G]Hush now baby, baby, don't you cry.\n[C]\n[F]Mama's gonna make all of your\n[C]nightmares come true.\n[F]Mama's gonna put all of her\n[C]fears into you.\n[F]Mama's gonna keep you right here\n[C]under her wing. She\n[F]won't let you fly, but she\n[C]might let you sing.\n[F]Mama's gonna keep baby\n[C/B][C]cosy [Am7]and\n[G]warm.\n[D]Ooh\n[C]babe.\n[D]Ooh\n[C]babe.\n[D]Ooh babe. Of\n[C]course mama's gonna help build the wall.\n\n[Guitar Solo]\n[G]\n[C]\n[G]\n[C]\n[G]\n[C]\n[D]\n[C]\n[G]\n\n[Verse 3]\n[G]Mother do you think she's good enough\n[C]\nfor\n[G]me?\nMother do you think she's dange-\n[C]rous\n[G]to\nme?\n[C]Mother will she tear you little boy a-\n[G]part?\n[D]Ooh,\n[C]ah. Mother will she break my heart?\n[G]\n\n[Chorus]\n[G]Hush now baby, baby, don't you\n[C]cry.\n[F]Mama's gonna check out all your\n[C]girlfriends for you.\n[F]Mama wont let anyone\n[C]dirty get through.\n[F]Mama's gonna wait up un-\n[C]til you get in.\n[F]Mama will always find\n[C]out where you've been.\n[F]Mama's gonna keep baby\n[C/B][C]healthy [Am7]and\n[G]clean.\n[D]Ooh\n[C]babe.\n[D]Ooh\n[C]babe.\n[D]Ooh babe. You'll\n[C]always be baby to me.\n\n[Outro]\n[G]\nMother did it need to be so\n[C]high?",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x02010",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12",
+        "17-19-17-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C/B": {
+      "catalog": [
+        "x22010"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Mother *alt",
+  "id": "93228f728bce36fc4253f089fc14b0e207aefea021a3accef68b30c03b471f1e",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 288,
+  "normalizedKey": "pink floyd|mother",
+  "playableChords": [
+    "G",
+    "C",
+    "D",
+    "F",
+    "C/B",
+    "Am7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 18,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 56,
+      "name": "Guitar Solo"
+    },
+    {
+      "measure": 65,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 82,
+      "name": "Chorus"
+    },
+    {
+      "measure": 103,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "93228f728bce36fc4253f089fc14b0e207aefea021a3accef68b30c03b471f1e",
+    "version": "BCFZ"
+  },
+  "tempo": 67,
+  "title": "Mother",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

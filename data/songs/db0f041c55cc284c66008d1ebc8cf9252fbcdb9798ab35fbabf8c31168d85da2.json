@@ -1,0 +1,117 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 31,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[G]\n[C]\n[G]\n[C]\n[G]\n[C]\n[G]\nIf\n\n[Interlude]\n[G]you didn't\n[C]care\nwhat\nhappened to me,\n[G]\nAnd\nI didn't care\n[C]\nfor you,\n[G]\nWe would\n[A]zig zag our\nway\nthrough the\nboredom and pain\nOc-\n[G]casionally\n[C]glancing\n[D/A]up through the rain.\n[G]\n[Am]Wondering\n[F]which of the\n[Am]buggars to blame\n[F]\n[C]\n[Am]\nAnd\n[D]watching\nfor\npigs on the wing.\n\n[Outro]\n[G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32013",
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x00232"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Pigs on the Wing *alt",
+  "id": "db0f041c55cc284c66008d1ebc8cf9252fbcdb9798ab35fbabf8c31168d85da2",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 58,
+  "normalizedKey": "pink floyd|pigs on the wing",
+  "playableChords": [
+    "G",
+    "C",
+    "A",
+    "D/A",
+    "Am",
+    "F",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 12,
+      "name": "Interlude"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "db0f041c55cc284c66008d1ebc8cf9252fbcdb9798ab35fbabf8c31168d85da2",
+    "version": "BCFZ"
+  },
+  "tempo": 130,
+  "title": "Pigs on the Wing",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

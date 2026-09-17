@@ -1,0 +1,114 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 7,
+  "content": "[Bass Intro]\n[A5]\n[C5]\n[G5]\n[E5]\n\n[Drums Intro]\n[A5]\n[C5]\n[G5]\n[E5]\n\n[Guitar Intro]\n[A5]\n[C5]\n[G5]\n[E5]\n[A5]\n[C5]\n[G5]\n[E5]\n[A5]\n[C5]\n[G5]\n[E5]\n\n[Verse 1]\n[A5]Trip down the\nstairs into\n[C5]hell Cathay de\nI miss your smell\n[G5]A\nmixture of puke, beer,\n[D5]stale piss\nFuck, sweat, and\n[F5]fear Ad-\nrenaline addic-\n[C5]ted, the\n[F5]blood leak From my head\n[G5]kin-\n[C5]da [G/B]concerned my\n[A5]friends But\n[C5]at the time it felt\nso right The\nmusic blaring\non,\n\n[Chorus]\n[C5]\nThat despera-\n[F5]tion's gone\n(the song's the same)\n[C5]\nThat despera-\n[F5]tion's gone\n\n[Verse 2]\n[A5]Turn, tune the\nknob KG-\n[C5]O Some alter-\nna radio\n[G5]Strategic\nmarketing hype,\n[D5]media,\nstereo-\n[F5]type Has\nour music been\n[C5]castrated?\nTo\n[F5]you it may sound good\n[G5]To\n[C5]me it sounds [G/B]so wrong\n[A5]The\n[C5]notes and chords sound si-\nmilar The\nsame forbidden\nbeat,\n\n[Chorus]\n[C5]\nThe despera-\n[F5]tion's gone\n(the song's the same)\n[C5]\nThe despera-\n[F5]tion's gone\n(the song's the same)\n\n[Outro]\n[C5]\nThe despera-\n[F5]tion's gone\n(the song's the same)\n[C5]\nThe despera-\n[F5]tion's gone\nDespera-\n[G5]tion",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx",
+        "8-10-10-x-x-x"
+      ],
+      "catalogCount": 2
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "022xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G/B": {
+      "catalog": [
+        "7-10-9-7-8-7"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Desperation's Gone *alt",
+  "id": "9fc31729cc27a8c0446762f053e9998221540fc9cd02fd7ca0ce6486087654a4",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 177,
+  "normalizedKey": "nofx|the desperation s gone",
+  "playableChords": [
+    "A5",
+    "C5",
+    "G5",
+    "E5",
+    "D5",
+    "F5",
+    "G/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Bass Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Drums Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Guitar Intro"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 62,
+      "name": "Chorus"
+    },
+    {
+      "measure": 70,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 91,
+      "name": "Chorus"
+    },
+    {
+      "measure": 99,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9fc31729cc27a8c0446762f053e9998221540fc9cd02fd7ca0ce6486087654a4",
+    "version": "BCFZ"
+  },
+  "tempo": 181,
+  "title": "The Desperation's Gone",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,135 @@
+{
+  "artist": "Radiohead",
+  "artistNormalized": "radiohead",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[Am7]\n[Cmaj7]\n[Gmaj7/B]\n[Dsus2]  [Csus2]  [G/B]\n[Am7]\n[Cmaj7]\n[Gmaj7/B]\n[Dsus2]\n\n[Verse]\n[Am7]Limb by limb and tooth\n[Cmaj7]by tooth\n[Gmaj7/B]Stirring up inside\n[Dsus2]of me\n[Am7]Every day,\n[Cmaj7]every hour\n[Gmaj7/B]Wish that I\n[Dsus2]\nWas bulletproof\n\n[Pre-Verse]\n[Am7]\n[Cmaj7]\n[Gmaj7/B]\n[Dsus2]  [Csus2]  [G/B]\n\n[Verse 2]\n[Am7]Wax me,\n[Cmaj7]mould me\n[Gmaj7/B]Heat the pins and stab\n[Dsus2]them in\n[Am7]You have turned me in-\n[Cmaj7]to this Just\n[Gmaj7/B]wish that it\n[Dsus2]\nWas bulletpro-\n\n[Chorus]\n[G]\n[Gmaj7/B]\n[Cadd9]of\nWas bullet-\n[G]pro-\n[Gmaj7/B]\n[Cadd9]of\n[Bb6]So,\n\n[Verse 3]\n[Am7]pay me money and take a\n[Cmaj7]shot\n[Gmaj7/B]Lead, fill the hole\n[Dsus2]in me\n[Am7]I could burst a mil-\n[Cmaj7]lion bubbles All\n[Gmaj7/B]surrogate\n[Dsus2]\nWas bullet-\n\n[Chorus]\n[G]pro-\n[Gmaj7/B]\n[Cadd9]of\nWas bullet-\n[G]pro-\n[Gmaj7/B]\n[Cadd9]of\nAnd bullet-\n[G]pro-\n[Gmaj7/B]\n[Cadd9]of\nBullet-\n[G]proof\n[Gmaj7/B]\n[Cadd9]\n[Bb6]",
+  "diagrams": {
+    "Am7": {
+      "catalog": [
+        "x0201x",
+        "x-0-2-0-1-0",
+        "5-7-5-5-5-5",
+        "x-x-7-9-8-8",
+        "x-12-14-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Bb6": {
+      "catalog": [
+        "x1303x"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32030"
+      ],
+      "catalogCount": 1
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000",
+        "x-3-5-4-5-3",
+        "8-7-5-5-5-7",
+        "8-10-9-9-8-8",
+        "x-x-10-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "Csus2": {
+      "catalog": [
+        "x3003x"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G/B": {
+      "catalog": [
+        "x2003x"
+      ],
+      "catalogCount": 1
+    },
+    "Gmaj7/B": {
+      "catalog": [
+        "x20032"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Bulletproof *alt",
+  "id": "49ad37476fcfd92eecb4653ed576b6048f8cbf5bdd82aefed852251e5d3eb5f2",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 104,
+  "normalizedKey": "radiohead|bulletproof",
+  "playableChords": [
+    "Am7",
+    "Cmaj7",
+    "Gmaj7/B",
+    "Dsus2",
+    "Csus2",
+    "G/B",
+    "G",
+    "Cadd9",
+    "Bb6"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 10,
+      "name": "Verse"
+    },
+    {
+      "measure": 19,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 23,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 40,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 49,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "49ad37476fcfd92eecb4653ed576b6048f8cbf5bdd82aefed852251e5d3eb5f2",
+    "version": "BCFZ"
+  },
+  "tempo": 81,
+  "title": "Bulletproof",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,136 @@
+{
+  "artist": "Pixies",
+  "artistNormalized": "pixies",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[C5]\n[F5]\n[A]\n[Bb5]\n[G5]\n[F5]  [A5]  [Bb5]\n[F5]  [A5]  [Bb5]\n[F5]  [A5]\n[Bb5]\n\n[Verse 1]\n[F]Cease to resist,\ngiving my good-\nbye\nDrive my car\ninto the\nocean\n[F]You'll think I'm dead,\n[A]but I sail away\n[Bb]\n[G]On a\n\n[Chorus]\n[F5]wave of [Bb5][A5]mutilation\n[F5]Wave of [Bb5][A5]mutilation\n[F5]Wave of [Bb5][A5]mutilation\n[F]Wave\n[Bb]\n[F]Wave\n\n[Bridge]\n[Bb]\n\n[Verse 2]\n[F]I've kissed mermaids,\n[A]rode the El Ni-\n[Bb]no\n[G]\n[F]Walked the sand\n[A]with the crust-\n[Bb]aceans\n[G]\n[F]Could find my way\n[A]to Mariana\n[Bb]\n[G]On a\n\n[Chorus]\n[F5]wave of [Bb5][A5]mutilation\n[F5]Wave of [Bb5][A5]mutilation\n[F5]Wave of [Bb5][A5]mutilation\n[F]Wave\n[Bb]\n[F]Wave\n[Bb]\n[F5]Wave of [Bb5][A5]mutilation\n[F5]Wave of [Bb5][A5]mutilation\n[F5]Wave of [Bb5][A5]mutilation\n[F]Wave\n[Bb]\n[F]Wave\n[Bb]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "577655",
+        "5776xx",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Bb": {
+      "catalog": [
+        "688766",
+        "6887xx",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "x-x-8-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bb5": {
+      "catalog": [
+        "x133xx",
+        "688xxx"
+      ],
+      "catalogCount": 2
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "1332xx",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3554xx",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wave of mutilation",
+  "id": "a7ba305147adca0178414fef1e600fa8bfbed5d2d31707fe97e8fe381dd79a32",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 116,
+  "normalizedKey": "pixies|wave of mutilation",
+  "playableChords": [
+    "C5",
+    "F5",
+    "A",
+    "Bb5",
+    "G5",
+    "A5",
+    "F",
+    "Bb",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Bridge"
+    },
+    {
+      "measure": 36,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 48,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "a7ba305147adca0178414fef1e600fa8bfbed5d2d31707fe97e8fe381dd79a32",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "Wave of mutilation",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

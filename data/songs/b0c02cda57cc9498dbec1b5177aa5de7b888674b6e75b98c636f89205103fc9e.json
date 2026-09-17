@@ -1,0 +1,111 @@
+{
+  "artist": "Portishead",
+  "artistNormalized": "portishead",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 9,
+  "content": "[Intro]\n[F]\n\n[Verse 1]\n[F]I'm drifting\n[F7]in deep wa-\n[Bb]ter\n[Dbdim]A-\n[F]lone with my self-\n[C6]doubting, again\n[F]\n[Bbadd9]  [A]\n\n[Verse 2]\n[F]Try not to strug\n[F7]gle this\n[Bb]time\n[Dbdim]For\n[F]I will\n[C6]weather the\n[F]storm\n[F7]\n\n[Chorus]\n[Bbm]Gotta remember\nDon't fight it\nEven if I\nDon't like it\n[F]Somehow,\n[F7]turn me a-\n[Bb7M]round\n\n[Verse 3]\n[F]No matter\n[F7]how far I\n[Bb]drift\n[Dbdim]Deep\n[F]waters\n[C6]Won't scare me to-\n[F]night",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm": {
+      "catalog": [
+        "x-1-3-3-2-1",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13",
+        "18-20-20-18-18-18"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F7": {
+      "catalog": [
+        "1-3-1-2-1-1",
+        "x-x-3-5-4-5",
+        "x-8-7-8-6-5",
+        "x-8-10-8-10-8",
+        "13-12-10-10-10-11"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": false,
+  "difficulty": "",
+  "displayTitle": "Deep Water",
+  "id": "b0c02cda57cc9498dbec1b5177aa5de7b888674b6e75b98c636f89205103fc9e",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 67,
+  "normalizedKey": "portishead|deep water",
+  "playableChords": [
+    "F",
+    "F7",
+    "Bb",
+    "Dbdim",
+    "C6",
+    "Bbadd9",
+    "A",
+    "Bbm",
+    "Bb7M"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 3,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 11,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 19,
+      "name": "Chorus"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b0c02cda57cc9498dbec1b5177aa5de7b888674b6e75b98c636f89205103fc9e",
+    "version": "BCFZ"
+  },
+  "tempo": 91,
+  "title": "Deep Water",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

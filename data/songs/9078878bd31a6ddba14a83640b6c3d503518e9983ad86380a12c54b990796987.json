@@ -1,0 +1,125 @@
+{
+  "artist": "Paul McCartney",
+  "artistNormalized": "paul mccartney",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Verse 1]\n[F#m]Motor cars,\n[Dbaddb13/F]handle bars,\n[A6/E]bicycles for two,\n[Dmaj7]\nBroken hearted\nju bi lee.\n[A]\n\n[Verse 2]\n[F#m]Parachutes,\n[Dbaddb13/F]army boots,\n[A6/E]sleeping bags for two,\n[Dmaj7]\nSentimental\njambore-\n[A]e.\n\n[Chorus]\n[D7sus4]\"Buy,\n[A]buy\", says the sign\n[E]in the\n[A]shop window\n[D7sus4]Why,\n[A]why? says the junk\n[E]in the yard\n[A]\n\n[Break]\n[F#m]Da da da da da da\n[Dbaddb13/F]Da da da\n[A6/E]Da da da da\n[Dmaj7]Da\nDa da da da\nDa da\n[A]Da\n\n[Verse 3]\n[F#m]Candlesticks,\n[Dbaddb13/F]building bricks,\n[A6/E]something old and new,\n[Dmaj7]\nMemories for\nyou and\n[A]me.\n\n[Chorus]\n[D7sus4]\"Buy,\n[A]buy\", says the sign\n[E]in the\n[A]shop window\n[D7sus4]Why,\n[A]why? says the junk\n[E]in the yard\n\n[Outro]\n[F#m]Da\n[Dbaddb13/F]Da da da da da da\n[A6/E]Da da da da\n[Dmaj7]da\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A6/E": {
+      "catalog": [
+        "xx2222"
+      ],
+      "catalogCount": 1
+    },
+    "D7sus4": {
+      "catalog": [
+        "xx0213"
+      ],
+      "catalogCount": 1
+    },
+    "Dbaddb13/F": {
+      "catalog": [
+        "xx3224"
+      ],
+      "catalogCount": 1
+    },
+    "Dmaj7": {
+      "catalog": [
+        "xx0222",
+        "x-5-4-2-2-2",
+        "x-5-7-6-7-5",
+        "10-9-7-7-7-9",
+        "10-12-11-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "xx4225",
+        "2-4-4-2-2-2",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Junk",
+  "id": "9078878bd31a6ddba14a83640b6c3d503518e9983ad86380a12c54b990796987",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 126,
+  "normalizedKey": "paul mccartney|junk",
+  "playableChords": [
+    "F#m",
+    "Dbaddb13/F",
+    "A6/E",
+    "Dmaj7",
+    "A",
+    "D7sus4",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Break"
+    },
+    {
+      "measure": 33,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 48,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9078878bd31a6ddba14a83640b6c3d503518e9983ad86380a12c54b990796987",
+    "version": "BCFZ"
+  },
+  "tempo": 90,
+  "title": "Junk",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

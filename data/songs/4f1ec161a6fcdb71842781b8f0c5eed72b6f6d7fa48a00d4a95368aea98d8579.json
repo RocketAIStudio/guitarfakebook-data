@@ -1,0 +1,110 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[A5]\n[D#dim]\n[D5]\n[A5]\n[D#dim]\n[D5]\n[A5]\n[F#5]\n[D5]\n[A5]\nMy\n\n[Verse]\n[A5]father had dem-\nentia He\n[C#5]lied in bed for mo-\nnths Once\n[F#5]in a while he'd c-\nall me, and\n[D5]ask me to fly\ndown I\n[B5]told him that I'd l-\nove to But\n[D5]I had things to d-\no And so he di-\n[A5]ed with-\n[G#aug]out his\n[F#5]son\nI\n[B5]heard about it\ndrunk after a sh-\n[D5]ow\nMy\n[A5]mother battled c-\nancer For\n[C#5]over seven ye-\nars I\n[F#5]nursed her and I h-\neld her When\n[D5]time was running o-\nut The\n[B5]night before she l-\neft me I\n[D5]drank scotch all ni-\nght And thanked h-\n[A5]er for e-\n[G#aug]verything she'd\n[F#5]done\n[B5]Raising me al-\none wasn't much f-\n[D5]un\nSo\n\n[Chorus]\n[A5]dad I can forgi-\nve you, but\n[E5]I'll never forg-\net,\n[B5]Months I wouldn't se-\ne you and\n[D5]when I did You'd be o-\nut\n[A5]with your friends all n-\night A-\n[E5]lone and only ni-\nne I\n[B5]watched the outer l-\nimits\n[D5]Scared out of my m-\nind I\n[A5]wonder if you f-\nelt the same The\ndays before you di-\ned [G#aug]I\n[F#5]wonder if you e-\nven knew Why I\nwouldn't come aro-\nund [E5]I\n[B5]bet if you had be-\nen there, There\nwouldn't be this s-\nong\n\n[Bridge]\n[A5]\nTwo thousand s-\nix\n[G#aug]\n[F#5]\ngoodbye par-\nents For\nonce, [E5]I'm\n[D5]sincere\nTwo thousand s-\nix\nMy orphan ye-\n\n[Outro]\n[A5]ar\n[D#dim]\n[D5]\n[F#5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx",
+        "799xxx"
+      ],
+      "catalogCount": 2
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#dim": {
+      "catalog": [
+        "x6787x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G#aug": {
+      "catalog": [
+        "4765xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "My Orphan Year",
+  "id": "4f1ec161a6fcdb71842781b8f0c5eed72b6f6d7fa48a00d4a95368aea98d8579",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 261,
+  "normalizedKey": "nofx|my orphan year",
+  "playableChords": [
+    "A5",
+    "D#dim",
+    "D5",
+    "F#5",
+    "C#5",
+    "B5",
+    "G#aug",
+    "E5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 45,
+      "name": "Verse"
+    },
+    {
+      "measure": 85,
+      "name": "Chorus"
+    },
+    {
+      "measure": 113,
+      "name": "Bridge"
+    },
+    {
+      "measure": 131,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4f1ec161a6fcdb71842781b8f0c5eed72b6f6d7fa48a00d4a95368aea98d8579",
+    "version": "BCFZ"
+  },
+  "tempo": 212,
+  "title": "My Orphan Year",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

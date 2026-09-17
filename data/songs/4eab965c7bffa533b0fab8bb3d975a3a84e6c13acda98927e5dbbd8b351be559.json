@@ -1,0 +1,156 @@
+{
+  "artist": "Otis Redding",
+  "artistNormalized": "otis redding",
+  "capo": "No capo",
+  "chordPositionCount": 40,
+  "chordSymbolCount": 8,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]Sittin' in the mornin' [B]sun\nI'll be\n[C]sittin' when the [Bb][B]evenin' [A]comes\n[G]Watchin' the ships roll [B]in\nThen I\n[C]watch 'em roll away [A][B][Bb]again\nI'm\n\n[Chorus]\n[G]sittin' on the dock of [E]bay\nWatchin' the tide\n[G], roll [E]away\n[G]Sittin' on the dock of the [A]bay\nWastin' [G]time\n[E]\nI\n\n[Verse 2]\n[G]left my home in [B]Geor-\ngia Hea-\n[C]ded for the [B]Frisco [Bb][A]Bay\n'Cause\n[G]I have nothin' to [B]live\nfor And looks like\n[C]nothin's gonna come [B]my [Bb][A]way,\nso I'm just come\n\n[Chorus]\n[G]sittin' on the dock of [E]bay\nWatchin' the tide\n[G]roll [E]away\nI'm\n[G]sittin' on the dock of [A]bay,\nwastin' [G]time\n[E]\n\n[Bridge]\n[G]Looks [D]like\n[C]nothin's gonna change\n[D][G]Everything still\n[C]remain the same\n[G]I [D]can't do what\n[C]ten people tell [G]me to do\n[F]So I guess I'll remain\n[D]the same\n\n[Verse 3]\n[G]Sittin' here restin' my [B]bones\nAnd this lone-\n[C]liness won't leave [B]me [A][Bb]alone\nThis\n[G]two thousand miles I [B]roa-\nmed Just to\n[C]make this dock [B]my [Bb][A]home\nNow I'm just a\n\n[Chorus]\n[G]sit at the dock of [E]bay\nWatchin' the tide\n[G]roll [E]away\n[G]Sittin' on the dock of [A]bay\nWastin' [G]time\n[E]\n\n[Outro]\n[G]\n[E]\n[G]\n[E]\n[G]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "B": {
+      "catalog": [
+        "799877",
+        "x-2-4-4-4-2",
+        "7-6-4-4-4-7",
+        "x-x-9-11-12-11",
+        "x-14-13-11-12-11"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "688766",
+        "x-1-3-3-3-1",
+        "6-5-3-3-3-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "8-10-10-9-8-8",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "(Sittin on) The dock of the bay",
+  "id": "4eab965c7bffa533b0fab8bb3d975a3a84e6c13acda98927e5dbbd8b351be559",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 212,
+  "normalizedKey": "otis redding|sittin on the dock of the bay",
+  "playableChords": [
+    "G",
+    "B",
+    "C",
+    "Bb",
+    "A",
+    "E",
+    "D",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Bridge"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "4eab965c7bffa533b0fab8bb3d975a3a84e6c13acda98927e5dbbd8b351be559",
+    "version": "BCFZ"
+  },
+  "tempo": 52,
+  "title": "(Sittin on) The dock of the bay",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

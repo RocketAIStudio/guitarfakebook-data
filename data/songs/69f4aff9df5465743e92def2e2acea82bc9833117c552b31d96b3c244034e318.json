@@ -1,0 +1,153 @@
+{
+  "artist": "Radiohead",
+  "artistNormalized": "radiohead",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro 1]\n\n[Intro 2]\n[E]\n[Em]\n[Cadd9]\n[G]  [D/F#]\n[E]\n[Em]\n[Cadd9]\n[G]  [D/F#]\n\n[Verse 1]\n[E]You\n[Em]are the\n[Cadd9]sun and moon and\n[G]stars, [D/F#]are\n[E]you And\n[Em]I could\n[Cadd9]never run a-\n[G]way [D/F#]from\n\n[Break]\n[C#m7]you\n[C7M]\n[E]\n[C#m7]\n[C7M]\n\n[Solo]\n[E]\n[Em]\n[Cadd9]\n[G]  [D/F#]\n[E]\n[Em]\n[Cadd9]\n[G]  [D/F#]\n\n[Verse 2]\n[E]You\n[Em]try at\n[Cadd9]working out cha-\n[G]o - [D/F#]tic\n[E]things And\n[Em]why should\n[Cadd9]I believe my-\n[G]self, [D/F#]not\n\n[Intrelude]\n[E]you?\n[Em]\n[Cadd9]\n[G]  [D/F#]\n[E]\n[Em]\n[Cadd9]\n[G]  [D/F#]\n\n[Verse 3]\n[E]It's\n[Em]like the\n[Cadd9]world is going to\n[G]end [D/F#]so\n[E]soon And\n[Em]why should\n[Cadd9]I believe my-\n[G]self? [D/F#]\n\n[Break]\n[C#m7]\n[C7M]\n[E]\n[C#m7]\n[C7M]\n\n[Chorus]\n[E]Oh!\n[Em]\n[Cadd9]\n[G]  [D/F#]\n[E]\n[Em]\n[Cadd9]\n[G]  [D/F#]\n\n[Solo]\n[E]\n[Em]\n[Cadd9]\n[G]  [D/F#]\n[E]\n[Em]\n[Cadd9]\n[G]  [D/F#]\n\n[Bridge]\n[E]\n[Em]\n[Cadd9]\n[G]  [D/F#]\n[E]\n[Em]\n[Cadd9]\n[G]  [D/F#]\n\n[Outro 1]\n[E]You,\n[Em]me and\n[Cadd9]e very-\n[G]thing [D/F#]\n[E]caught\n[Em]in the\n[Cadd9]fire\n[G]  [D/F#]\n[E]I can\n[Em]see me\n[Cadd9]drown-\n[G]ing, [D/F#]\n[E]caught\n[Em]in the\n[Cadd9]fire\n[G]  [D/F#]\n\n[Outro 2]\n[E]You,\n[Em]me and\n[Cadd9]e very-\n[G]thing [D/F#]\n[E]caught\n[Em]in the\n[Cadd9]fire\n[G]  [D/F#]\n[E]I can\n[Em]see me\n[Cadd9]drown-\n[G]ing, [D/F#]\n[E]caught\n[Em]in the\n[Cadd9]fire\n[G]  [D/F#]\n[E]",
+  "diagrams": {
+    "C#m7": {
+      "catalog": [
+        "x46633",
+        "x-4-6-4-5-4",
+        "9-11-9-9-9-9",
+        "x-x-11-13-12-12",
+        "x-16-18-16-17-16"
+      ],
+      "catalogCount": 5
+    },
+    "C7M": {
+      "catalog": [
+        "x35500"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32030"
+      ],
+      "catalogCount": 1
+    },
+    "D/F#": {
+      "catalog": [
+        "200232"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "You",
+  "id": "69f4aff9df5465743e92def2e2acea82bc9833117c552b31d96b3c244034e318",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 102,
+  "normalizedKey": "radiohead|you",
+  "playableChords": [
+    "E",
+    "Em",
+    "Cadd9",
+    "G",
+    "D/F#",
+    "C#m7",
+    "C7M"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro 1"
+    },
+    {
+      "measure": 9,
+      "name": "Intro 2"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Break"
+    },
+    {
+      "measure": 31,
+      "name": "Solo"
+    },
+    {
+      "measure": 39,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 47,
+      "name": "Intrelude"
+    },
+    {
+      "measure": 55,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 63,
+      "name": "Break"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 77,
+      "name": "Solo"
+    },
+    {
+      "measure": 85,
+      "name": "Bridge"
+    },
+    {
+      "measure": 93,
+      "name": "Outro 1"
+    },
+    {
+      "measure": 109,
+      "name": "Outro 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "69f4aff9df5465743e92def2e2acea82bc9833117c552b31d96b3c244034e318",
+    "version": "BCFZ"
+  },
+  "tempo": 110,
+  "title": "You",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

@@ -1,0 +1,196 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 40,
+  "chordSymbolCount": 16,
+  "content": "[Intro]\n[D]\n[Am]\n\n[Interlude]\n[Dadd11]\n[D]  [C#dim]  [Bm]\n[Am]  [Bm]\n[G7M/B]\n[D]  [C#dim]  [Bm]\n[Am]  [Bm]\n[G7M/B]\n[D]  [C#dim]  [Bm]\n[Am]  [Bm]\n[G7M/B]\n\n[Verse 1]\n[Am]Did, did, did, did you see the\n[B/A]frightened ones?\n[Am]Did, did, did, did you hear the\n[B/A]falling bombs?\n[Am]Did, did, did, did you ever\n[B/A]wonder why we [Am]had to run for\n[G/A][A7]shelter when the [D/A]Promise of a brave\n[Em/A]new world unfurled [D/A]beneath [C/A]a\n[G7M/B]clear blue sky?\n\n[Interlude]\n[Dadd11]\n[D]  [C#dim]  [Bm]\n[Am]  [Bm]\n[G7M/B]\n[D]  [C#dim]  [Bm]\n[Am]  [Bm]\n[G7M/B]\n\n[Verse 2]\n[Am]Did, did, did, did you see the\n[B/A]frightened ones?\n[Am]Did, did, did, did you hear the\n[B/A]falling bombs?\n[Am]The flames are all long gone,\n[B/A]but the pain [C#][C]lingers [D]on\n\n[Chorus]\n[Aadd11][D]Goodbye,\n[A7]blue [D]sky\n[Aadd11]Goodbye,\n[A7]blue [D]sky [Cadd9]Goodbye\n[Cadd9][D]Goodbye\n\n[Outro]\n[D]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Aadd11": {
+      "catalog": [
+        "x00220"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "B/A": {
+      "catalog": [
+        "x04442"
+      ],
+      "catalogCount": 1
+    },
+    "Bm": {
+      "catalog": [
+        "xxx432",
+        "x-2-4-4-3-2",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "x4312x",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#dim": {
+      "catalog": [
+        "xxx653"
+      ],
+      "catalogCount": 1
+    },
+    "C/A": {
+      "catalog": [
+        "x02013"
+      ],
+      "catalogCount": 1
+    },
+    "Cadd9": {
+      "catalog": [
+        "x32030"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x00232"
+      ],
+      "catalogCount": 1
+    },
+    "Dadd11": {
+      "catalog": [
+        "xx4475"
+      ],
+      "catalogCount": 1
+    },
+    "Em/A": {
+      "catalog": [
+        "x02003"
+      ],
+      "catalogCount": 1
+    },
+    "G/A": {
+      "catalog": [
+        "x00003"
+      ],
+      "catalogCount": 1
+    },
+    "G7M/B": {
+      "catalog": [
+        "x2403x"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Goodbye Blue Sky *alt 2",
+  "id": "fb505774a142520081f3ae0c2bbaede0054c043aaefbbef9e80fc6d36675e29d",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 98,
+  "normalizedKey": "pink floyd|goodbye blue sky",
+  "playableChords": [
+    "D",
+    "Am",
+    "Dadd11",
+    "C#dim",
+    "Bm",
+    "G7M/B",
+    "B/A",
+    "A7",
+    "G/A",
+    "D/A",
+    "Em/A",
+    "C/A",
+    "C",
+    "C#",
+    "Aadd11",
+    "Cadd9"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 11,
+      "name": "Interlude"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 35,
+      "name": "Interlude"
+    },
+    {
+      "measure": 45,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 53,
+      "name": "Chorus"
+    },
+    {
+      "measure": 61,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fb505774a142520081f3ae0c2bbaede0054c043aaefbbef9e80fc6d36675e29d",
+    "version": "BCFZ"
+  },
+  "tempo": 109,
+  "title": "Goodbye Blue Sky",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

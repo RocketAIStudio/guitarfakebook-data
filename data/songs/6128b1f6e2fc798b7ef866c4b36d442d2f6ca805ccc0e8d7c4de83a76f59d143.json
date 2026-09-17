@@ -1,0 +1,77 @@
+{
+  "artist": "Oasis",
+  "artistNormalized": "oasis",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[G]\n\n[Verse 1]\n[G]Talking to the\nsongbird yesterday\nFlew me to a\n[G]place not [Dsus4/F#]far a-\n[Em7]way She's a little\npilot in my\nmind Singing songs of\n[Em7]love to [Dsus4/F#]paass the time\n[G]Gonna write a\nsong so she can\nsee Give her all the\n[G]love she [Dsus4/F#]gives to\n[Em7]me Talk of better\ndays that have yet to\ncome Never felt this\n[Em7]love from [Dsus4/F#]anyo-\n[G]ne\nShe's not anyo-\nne\n[G]She's [Dsus4/F#]not anyo-\n[Em7]ne\nShe's not anyone\n[Em7]  [Dsus4/F#]\n\n[Verse 2]\n[G]A man can never\ndream these kind of things\nEspecially when she\n[G]came and [Dsus4/F#]spread her\n[Em7]wings Whispered in my\near the things I'd\nlike Then she flew a-\n[Em7]way [Dsus4/F#]into the ni-\n[G]ght Gonna write a\nsong so she can\nsee Give her all the\n[G]love she [Dsus4/F#]gives to\n[Em7]me Talk of better\ndays that have yet to\ncome Never felt this\n[Em7]love from [Dsus4/F#]anyo-\n[G]ne\nShe's not anyo-\nne\n[G]She's [Dsus4/F#]not anyo-\n[Em7]ne\nShe's not anyone\n[Em7]  [Dsus4/F#]\n\n[Outro]\n[G]\n[G]  [Dsus4/F#]\n[Em7]\n[Em7]  [Dsus4/F#]\n[G]\n[G]  [Dsus4/F#]\n[Em7]\n[Em7]  [Dsus4/F#]\n[G]",
+  "diagrams": {
+    "Dsus4/F#": {
+      "catalog": [
+        "200233"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "022033",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Songbird",
+  "id": "6128b1f6e2fc798b7ef866c4b36d442d2f6ca805ccc0e8d7c4de83a76f59d143",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 188,
+  "normalizedKey": "oasis|songbird",
+  "playableChords": [
+    "G",
+    "Dsus4/F#",
+    "Em7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 4,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 28,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 52,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6128b1f6e2fc798b7ef866c4b36d442d2f6ca805ccc0e8d7c4de83a76f59d143",
+    "version": "BCFZ"
+  },
+  "tempo": 135,
+  "title": "Songbird",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

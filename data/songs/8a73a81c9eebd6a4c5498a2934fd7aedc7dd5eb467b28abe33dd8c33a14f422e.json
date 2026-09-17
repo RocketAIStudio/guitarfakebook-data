@@ -1,0 +1,118 @@
+{
+  "artist": "Pearl Jam",
+  "artistNormalized": "pearl jam",
+  "capo": "No capo",
+  "chordPositionCount": 18,
+  "chordSymbolCount": 6,
+  "content": "[Verse 1]\n[D]Hold on to the thre-\n[C#sus4]ad [C#]The cur-\n[D]rents will shift\n[C#sus4]Guide me [C#]towards yo-\n[D]u Know something's l-\n[C#sus4]eft [C#]And we're\n[D]all allowed\n[C#sus4]to dream [C#]Of the [D]next\n\n[Chorus]\n[C]\nOf\nOf the\nnext time we to-\n\n[Interlude]\n[D]\n[Amaj7sus2/D]\n[Bm7/D]  [D]\n[C]\n[D]\n[Amaj7sus2/D]\n[Bm7/D]  [D]\nuch [C]\n\n[Chorus]\n[C]\n\n[Verse 2]\n[D]You don't have to str-\n[C#sus4]ay [C#]The o-\n[D]ceans away\n[C#sus4]Waves roll [C#]in my tho-\n[D]ughts Hold tight the r-\n[C#sus4]ing [C#]The\n[D]sea will rise\n[C#sus4]Please stand [C#]by the [D]shore\n\n[Chorus]\n[C]\nI will be\nI will be There once\n\n[Interlude]\n[D]mo-\n[Amaj7sus2/D]re\n[D][Bm7/D]O-\nh [C]\n[D]\n[Amaj7sus2/D]\n[Bm7/D]  [D]\n[C]\n[D]\n[Amaj7sus2/D]\n[Bm7/D]  [D]\n[C]\n[D]\n[Amaj7sus2/D]\n[Bm7/D]  [D]\n\n[Outro]\n[D]\n[C#sus4]  [C#]\n[D]\n[C#sus4]  [C#]\n[D]",
+  "diagrams": {
+    "Amaj7sus2/D": {
+      "catalog": [
+        "x-14-13-14-13-13"
+      ],
+      "catalogCount": 1
+    },
+    "Bm7/D": {
+      "catalog": [
+        "16-17-16-17-16-16"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "10-10-10-10-10-10",
+        "x-3-2-0-1-0",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8"
+      ],
+      "catalogCount": 5
+    },
+    "C#": {
+      "catalog": [
+        "11-11-11-11-11-11",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "9-11-11-10-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "C#sus4": {
+      "catalog": [
+        "11-11-11-12-11-11"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "11-12-11-12-11-11",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Oceans *alt",
+  "id": "8a73a81c9eebd6a4c5498a2934fd7aedc7dd5eb467b28abe33dd8c33a14f422e",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 89,
+  "normalizedKey": "pearl jam|oceans",
+  "playableChords": [
+    "D",
+    "C#sus4",
+    "C#",
+    "C",
+    "Amaj7sus2/D",
+    "Bm7/D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Interlude"
+    },
+    {
+      "measure": 21,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 37,
+      "name": "Interlude"
+    },
+    {
+      "measure": 52,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8a73a81c9eebd6a4c5498a2934fd7aedc7dd5eb467b28abe33dd8c33a14f422e",
+    "version": "BCFZ"
+  },
+  "tempo": 84,
+  "title": "Oceans",
+  "tuning": "D A D F# A D",
+  "variantRole": "alt"
+}

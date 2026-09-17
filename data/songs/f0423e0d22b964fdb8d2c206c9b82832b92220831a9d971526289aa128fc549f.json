@@ -1,0 +1,86 @@
+{
+  "artist": "Queen",
+  "artistNormalized": "queen",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 2,
+  "content": "[Intro]\n[Em]\n\n[Verse 1]\n[Em]Buddy you're a boy make a big noise Playin' in the\nstreet gonna be a big man some day You got\nmud on yo' face You big disgrace\nKickin' your can all over the place Singin'\n\n[Chorus]\n[Em]We will we will\nrock you\nWe will we will\nrock you\n\n[Verse 2]\n[Em]Buddy you're a young man hard man Shouting in the\nstreet gonna take on the world some day You got\nblood on yo' face You big disgrace\nWavin' your banner all over the place\n\n[Chorus]\n[Em]We will we will\nrock you Sing it\nWe will we will\nrock you\n\n[Verse 3]\n[Em]Buddy you're an old man poor man Pleadin' with your\neyes gonna make You some peace some day You got\nmud on your face Big disgrace Some-\nbody betta put you back into your place\n\n[Chorus]\n[Em]We will we will\nrock you Sing it\nWe will we will\nrock you Everybody\nWe will we will\nrock you\nWe will we will\n\n[Solo]\n[A]rock you Alright",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "0220xx",
+        "0-2-2-0-0-0",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "We Will Rock You *alt 3",
+  "id": "f0423e0d22b964fdb8d2c206c9b82832b92220831a9d971526289aa128fc549f",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 183,
+  "normalizedKey": "queen|we will rock you",
+  "playableChords": [
+    "Em",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Chorus"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 25,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Solo"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f0423e0d22b964fdb8d2c206c9b82832b92220831a9d971526289aa128fc549f",
+    "version": "BCFZ"
+  },
+  "tempo": 81,
+  "title": "We Will Rock You",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

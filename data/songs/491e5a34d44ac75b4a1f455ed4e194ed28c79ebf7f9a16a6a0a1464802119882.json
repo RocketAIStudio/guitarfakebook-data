@@ -1,0 +1,125 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[F]\n[Bb]\n[C]\n[F]\n[Bb]\n[C]\n[F]Tell me true\n\n[Verse]\n[F]tell me why was\n[Bb]Jesus crucified\n[C]Is it for this that daddy\n[F]died? Was it\nyou? was it me? Did I\n[Bb]watch too much T.V.? Is that a\n[C]hint of accusation in your eyes?\n[F]If it\nwasn't for the nips Being so\n[Bb]good at building ships The\n[C]yards would still be open on the clyde\n[F]And\nit can't be much fun for them Be-\n[Bb]neath the rising sun With\n[C]all their kids committing suicide\n[F]What have we done ?\n\n[Pre-Chorus]\n[Bb]Maggie. what have we done\n[F]? What have we done\n[Bb]to England?\n[C]Should we\n\n[Chorus]\n[F]shout should we scream\n[A]\"What\n[Bb]happened [Bbm]to the post war\n[F]dream?\" [Dm]\n[Gm]Oh Maggie, [C]Maggie what have we\n\n[Outro]\n[F]do?\n[C]\n[Bb]\n[F]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bb": {
+      "catalog": [
+        "x13331",
+        "6-5-3-3-3-6",
+        "6-8-8-7-6-6",
+        "x-x-8-10-11-10",
+        "x-13-12-10-11-10"
+      ],
+      "catalogCount": 5
+    },
+    "Bbm": {
+      "catalog": [
+        "x13321",
+        "6-8-8-6-6-6",
+        "x-x-8-10-11-9",
+        "x-13-15-15-14-13",
+        "18-20-20-18-18-18"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Post War Dream",
+  "id": "491e5a34d44ac75b4a1f455ed4e194ed28c79ebf7f9a16a6a0a1464802119882",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 135,
+  "normalizedKey": "pink floyd|the post war dream",
+  "playableChords": [
+    "F",
+    "Bb",
+    "C",
+    "A",
+    "Bbm",
+    "Dm",
+    "Gm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 9,
+      "name": "Verse"
+    },
+    {
+      "measure": 25,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 29,
+      "name": "Chorus"
+    },
+    {
+      "measure": 34,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "491e5a34d44ac75b4a1f455ed4e194ed28c79ebf7f9a16a6a0a1464802119882",
+    "version": "BCFZ"
+  },
+  "tempo": 58,
+  "title": "The Post War Dream",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

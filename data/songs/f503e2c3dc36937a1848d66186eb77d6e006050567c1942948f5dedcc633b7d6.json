@@ -1,0 +1,137 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 35,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[Em]\n[Dm]\n[Em]\n[Dm]\n[Em]\n[Dm]\n[Em]\n[Dm]\nHey\n\n[Verse 1]\n[Em]you!\nOut there in the cold, Getting lone-\nly, getting old, Can you\n[Bm]feel me?\nHey\n[Em]\nStanding in the aisles, With itchy feet\nand fading smiles, Can you\n[Bm]feel me?\n[D]Hey you! Don't\nhelp them to bury the\n[G]light. [D]\n[C]\n[Bm]Don't give in\n[Am]without a\n[Em]fight.\n[Dm]\nHey\n\n[Verse 2]\n[Em]you!\nOut there on your own, Sitting na-\nked by the phone, Would you\n[Bm]touch me?\nHey\n[Em]you! With your ear\nagainst the wall, Waiting for\nsomeone to call out, Would you\n[Bm]touch me?\n[D]Hey you! Would you\nhelp me to carry the\n[G]stone? [D]\n[C]\n[Bm]Open your heart,\n[Am]I'm coming\n[Em]home.\n\n[Solo]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n[Am]\n[Em]\n\n[Bridge]\n[C]But it was [D]only\n[D][G]fantasy.\n[C]\nThe\nwall was too [D]high, as\n[G]you [D]can\n[C]see.\nNo\nmatter how he [D]tried he could\n[G]not [D]break\n[C]free.\nAnd the\nworms ate [D]into his\n\n[Interlude]\n[Em]brain.\n[Dm]\n[Em]\n[Dm]\n[Em]\n[Dm]\n[Em]\n[Dm]\nHey\n\n[Verse 3]\n[Em]you!\nOut there on the road, Always\ndoing what you're told, Can you\n[Bm]help me?\nHey\n[Em]you! Out\nthere beyond the wall, Breaking\nbottles in the hall, Can you\n[Bm]help me?\n[D]Hey you! Don't\ntell me there's no hope at\n[G]all. [D]\n[C]\nTo-\n[Bm]gether we stand,\n[Am]Divided we\n[Em]fall.",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hey You *alt 2",
+  "id": "f503e2c3dc36937a1848d66186eb77d6e006050567c1942948f5dedcc633b7d6",
+  "key": "E",
+  "keyIdentified": true,
+  "lyricEventCount": 204,
+  "normalizedKey": "pink floyd|hey you",
+  "playableChords": [
+    "Em",
+    "Dm",
+    "Bm",
+    "D",
+    "G",
+    "C",
+    "Am"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 38,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 57,
+      "name": "Solo"
+    },
+    {
+      "measure": 83,
+      "name": "Bridge"
+    },
+    {
+      "measure": 96,
+      "name": "Interlude"
+    },
+    {
+      "measure": 112,
+      "name": "Verse 3"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "f503e2c3dc36937a1848d66186eb77d6e006050567c1942948f5dedcc633b7d6",
+    "version": "BCFZ"
+  },
+  "tempo": 115,
+  "title": "Hey You",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

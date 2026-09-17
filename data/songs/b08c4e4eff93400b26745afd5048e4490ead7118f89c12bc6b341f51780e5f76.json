@@ -1,0 +1,89 @@
+{
+  "artist": "Pixies",
+  "artistNormalized": "pixies",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[Verse 1]\n[D]Got\n[C]hips like Cinderella\n[F]\n[D]\n[C]Must be having a\n[F]good shame\n[D]\n[C]Talking sweet about\n[F]nothing\n[D]\n[C]\n[F]Cookie I think you're\n\n[Chorus]\n[D]Tame\n[C]\n[F]Tame,\n[D]tame\n[C]\n[F]Tame\n\n[Verse 2]\n[D]I'm\n[C]making good friends with you\n[F]\n[D]\n[C]When you're shaking your\n[F]good frame\n[D]\n[C]Fall on your face in those\n[F]bad shoes\n[D]\n[C]\n[F]Lying there like you're\n\n[Chorus]\n[D]Tame\n[C]\n[F]Tame,\n[D]tame\n[C]\n[F]Tame\n[D]Tame\n[C]\n[F]Tame,\n[D]tame\n[C]\n[F]Tame\n\n[Bridge]\n[D]\n[C]\n[F]\n[D]\n[C]\n[F]\n[D]\n[C]\n[F]\n[D]\n[C]\n[F]\n\n[Chorus]\n[D]Tame\n[C]\n[F]Tame,\n[D]tame\n[C]Tame\n[F]\n[D]Tame\n[C]\n[F]Tame\n[D]\n[C]Tame\n[F]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "xx321x",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Tame",
+  "id": "b08c4e4eff93400b26745afd5048e4490ead7118f89c12bc6b341f51780e5f76",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 72,
+  "normalizedKey": "pixies|tame",
+  "playableChords": [
+    "D",
+    "C",
+    "F"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 32,
+      "name": "Chorus"
+    },
+    {
+      "measure": 44,
+      "name": "Bridge"
+    },
+    {
+      "measure": 56,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b08c4e4eff93400b26745afd5048e4490ead7118f89c12bc6b341f51780e5f76",
+    "version": "BCFZ"
+  },
+  "tempo": 136,
+  "title": "Tame",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

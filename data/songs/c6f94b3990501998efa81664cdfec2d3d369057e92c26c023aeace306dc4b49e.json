@@ -1,0 +1,111 @@
+{
+  "artist": "Peter McPoland",
+  "artistNormalized": "peter mcpoland",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[C]  [E]\n[F]  [C]\n[Am]  [C]\n[F]\n\n[Verse 1]\n[C]Some day down the road, [E]I hope to be\n[F]your Romeo [C]I'll climb the\n[Am]wires to your [C]landline While you're\n[F]crying on the telephone And you're\n[C]sitting, feet [E]dangling Cheeks so\n[F]rosy red and [C]saying \"Baby, I\n[Am]was so [C]upset, I thought you'd\n[F]never set me free\"\nHello?\"\n\n[Chorus]\n[C]I'd say, \"Oh, I [E]love you\" to my\n[F]Juliet \"If you [C]only knew, [G7/B]I'd\n[Am]kill for you I [C]am for you I\n[F]am just who you need me to be\n[C]Let's get down and let's [E]grow old This\n[F]fire escape is [C]getting cold [G7/B]I\n[Am]love that dress, I [C]love the rest\n[F]Of all that you've got going on\"\n\n[Solo]\n[C]  [E]\n[F]  [C]  [G7/B]\n[Am]  [C]\n[F]\n[C]  [E]\n[F]  [C]  [G7/B]\n[Am]  [C]\n[F]\n\n[Verse 2]\n[C]One day when the lines [E]have all been\n[F]read and memorized [C]I [G7/B]hope you mean\n[Am]it when you say [C]that I am yours\n[F]and you are mine\n[C]See me down here, [E]on my knees I'm\n[F]begging, won't you [C]marry me? [G7/B]I\n[Am]love that dress, I [C]love the rest So\n[F]Julie let the show go\n\n[Bridge]\n[C]on [E]\n[F]  [C]  [G7/B]\n[Am]But how do you [C]know? Is it just\n[F]something hitting you? Do you remember a bit of \"Wherefore\n\n[Outro]\n[C]art thou, Romeo?\" now? [E]Yes\n[F]Look, just do a bit [C]for me [G7/B]No Why not? I\n[Am]don't, I don't mean, I don't mean an acting [C]bit I mean, just the words\n[F]\n[C]Um Look, my babe, it's done [E]so many times Oh, for good-\n[F]ness sake Alright, do [C]another bit, any bit [G7/B]\n[Am]  [C]\n[F]\nOh, God, I have an illdivining soul",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "G7/B": {
+      "catalog": [
+        "x23033"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Romeo & Juliet",
+  "id": "c6f94b3990501998efa81664cdfec2d3d369057e92c26c023aeace306dc4b49e",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 268,
+  "normalizedKey": "peter mcpoland|romeo juliet",
+  "playableChords": [
+    "C",
+    "E",
+    "F",
+    "Am",
+    "G7/B"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Solo"
+    },
+    {
+      "measure": 30,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Bridge"
+    },
+    {
+      "measure": 42,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "c6f94b3990501998efa81664cdfec2d3d369057e92c26c023aeace306dc4b49e",
+    "version": "BCFZ"
+  },
+  "tempo": 63,
+  "title": "Romeo & Juliet",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

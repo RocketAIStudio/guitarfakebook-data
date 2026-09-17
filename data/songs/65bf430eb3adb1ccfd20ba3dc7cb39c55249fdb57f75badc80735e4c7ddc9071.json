@@ -1,0 +1,73 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 3,
+  "content": "[D]\n\n[Verse 1]\n[D]Goodbye cruel world I'm\n[G]leaving you today Good-\n[D]bye [A]Goodbye Good-\n[D]bye\n\n[Verse 2]\n[D]Goodbye, all you people There's\n[G]nothing you can say To make me\n[D]change my [A]mind Good-\n[D]bye",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Goodbye Cruel World *alt",
+  "id": "65bf430eb3adb1ccfd20ba3dc7cb39c55249fdb57f75badc80735e4c7ddc9071",
+  "key": "D",
+  "keyIdentified": true,
+  "lyricEventCount": 36,
+  "normalizedKey": "pink floyd|goodbye cruel world",
+  "playableChords": [
+    "D",
+    "G",
+    "A"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "65bf430eb3adb1ccfd20ba3dc7cb39c55249fdb57f75badc80735e4c7ddc9071",
+    "version": "BCFZ"
+  },
+  "tempo": 51,
+  "title": "Goodbye Cruel World",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

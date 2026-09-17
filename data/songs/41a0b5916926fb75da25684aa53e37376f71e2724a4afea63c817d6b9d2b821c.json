@@ -1,0 +1,92 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 16,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[D]\n[Dsus2/C]\n[Bbmaj7]\n[A7]\n\n[Verse 1]\n[D]All that you touch\nAnd\n[Dsus2/C]all that you see\n[Bbmaj7]All that you taste\n[A7]All you feel\nAnd\n[D]all that you love\nAnd\n[Dsus2/C]all that you hate\n[Bbmaj7]All you distrust\n[A7]All you save\nAnd\n\n[Verse 2]\n[D]all that you give\nAnd\n[Dsus2/C]all that you deal\nAnd\n[Bbmaj7]all that you buy\nBeg,\n[A7]borrow or\nsteal And\n[D]all you create\nAnd\n[Dsus2/C]all you destroy\nAnd\n[Bbmaj7]all that you do\nAnd\n[A7]all that you say\nAnd\n\n[Verse 3]\n[D]all that you eat\nAnd\n[Dsus2/C]everyone you meet\nAnd\n[Bbmaj7]all that you\nslight And\n[A7]everyone you fight\nAnd\n[D]all that is\nnow And\n[Dsus2/C]all that is\ngone And\n[Bbmaj7]all that's to come\nAnd\n[A7]everything\nunder the\n\n[Outro]\n[D]sun is in\ntune But the\n[Dsus2/C]sun is ec-\nlipsed by the\n[Bbmaj7]moon\n[D]",
+  "diagrams": {
+    "A7": {
+      "catalog": [
+        "x02020",
+        "5-4-2-2-2-3",
+        "5-7-5-6-5-5",
+        "x-x-7-9-8-9",
+        "x-12-11-12-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bbmaj7": {
+      "catalog": [
+        "x13231",
+        "6-5-3-3-3-5",
+        "6-8-7-7-6-6",
+        "x-x-8-10-10-10",
+        "x-13-12-10-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus2/C": {
+      "catalog": [
+        "x3x230"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Eclipse *alt",
+  "id": "41a0b5916926fb75da25684aa53e37376f71e2724a4afea63c817d6b9d2b821c",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 130,
+  "normalizedKey": "pink floyd|eclipse",
+  "playableChords": [
+    "D",
+    "Dsus2/C",
+    "Bbmaj7",
+    "A7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 57,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "41a0b5916926fb75da25684aa53e37376f71e2724a4afea63c817d6b9d2b821c",
+    "version": "BCFZ"
+  },
+  "tempo": 132,
+  "title": "Eclipse",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

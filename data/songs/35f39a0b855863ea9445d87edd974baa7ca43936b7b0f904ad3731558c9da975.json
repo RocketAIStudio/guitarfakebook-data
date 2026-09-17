@@ -1,0 +1,132 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "3",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 8,
+  "content": "[Verse 1]\n[D]They disembarked in fourty five\n[G]And noone spoke and noone smiled\n[A]There were to many spaces in the line.\n[D]And\ngathered at the cenotaph\n[G]All agreed with hand on heart\n[A]To sheath the sacrificial Knifes.\n[D]But now She\n\n[Verse 2]\n[D]stands upon Southampton dock With her\n[G]handkerchief And her summer frock\n[A]clings To her wet body in the rain.\n[D]In\nquiet desperation knuckles\n[G]White upon the slippery reins She\n[A]bravely waves the boys Goodbye again.\n[D]Mmm.\n[G]  [Gm]\n[D]\n[D]  [Em7]  [D/A]\n\n[Verse 3]\n[G]And still the dark stain\nspreads between Their\n[D]shoulder blades.\n[G]A mute re-\nminder of the\n[D]poppy fields and graves.\n[G]When the fight was\n[A]over We\n[D]spent what [F#m7]they had\n[Bm]made. But\n\n[Outro]\n[Em7]in the bottom of our hearts We felt the final\n[D]cut.",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x00232"
+      ],
+      "catalogCount": 1
+    },
+    "Em7": {
+      "catalog": [
+        "022030",
+        "0-2-0-0-0-0",
+        "x-x-2-4-3-3",
+        "x-7-9-7-8-7",
+        "12-14-12-12-12-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#m7": {
+      "catalog": [
+        "242222",
+        "x-x-4-6-5-5",
+        "x-9-11-9-10-9",
+        "14-16-14-14-14-14",
+        "x-21-23-21-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "310033",
+        "3-5-5-3-3-3",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Southampton Dock",
+  "id": "35f39a0b855863ea9445d87edd974baa7ca43936b7b0f904ad3731558c9da975",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 155,
+  "normalizedKey": "pink floyd|southampton dock",
+  "playableChords": [
+    "D",
+    "G",
+    "A",
+    "Gm",
+    "Em7",
+    "D/A",
+    "F#m7",
+    "Bm"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 20,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 32,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "35f39a0b855863ea9445d87edd974baa7ca43936b7b0f904ad3731558c9da975",
+    "version": "BCFZ"
+  },
+  "tempo": 54,
+  "title": "Southampton Dock",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

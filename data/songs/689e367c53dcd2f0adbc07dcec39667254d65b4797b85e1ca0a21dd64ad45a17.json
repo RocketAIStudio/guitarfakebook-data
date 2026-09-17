@@ -1,0 +1,137 @@
+{
+  "artist": "Peaches",
+  "artistNormalized": "peaches",
+  "capo": "No capo",
+  "chordPositionCount": 23,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n\n[Verse 1]\n[G5]  [A5]\nLiving the dream\n[G5][A5]Wha-\ntever that means\n[G5][A5]It's\ntime to come clean\n[G5][A5]When your\nrocking this scene\n[A]I. [G]Am.\n[E]The. [D]One.\n[A]Who. [G]Will.\n[E]Take. [D]You\n\n[Verse 2]\n[G5][A5]Do you\nwant to go?\n[G5]  [A5]\nBe in my show\n[G5][A5]You can\nshake it a bit\n[G5][A5]Or scream\nand sweat\n[A]  [G]\n[E]Some [D]people get\n[A]so wet [G]They need\n[E]contact [D]right there\n\n[Chorus]\n[A]Do ya? [G]Do ya?\n[E]Do ya? [D]Do ya?\n[A]Do ya? [G]Do ya?\n[E]Do ya? [D]Do ya?\n\n[Bridge]\n\n[Verse 3]\n[G5]  [A5]\nSee that dream\n[G5]Up [A5]on the screen\n[G5][A5]It's\ntime to come clean\n[G5][A5]And\nmake your own scene\n[A]I. [G]Am.\n[E]  [D]\n[A]  [G]\n[E]  [D]\n\n[Chorus]\n[A]  [G]\n[E]Do ya? [D]Do ya?\n[A]  [G]\n[E]Do ya? [D]Do ya?\n[A]  [G]\n[E]Do ya? [D]Do ya?\n[A]  [G]\n[E]Do ya? [D]Do ya?\n\n[Bridge]\n[F#5]\n\n[Verse 4]\n[A]  [G]\n[E]Some [D]people get\n[A]so wet [G]They need\n[E]contact [D]right there\n[A]  [G]\n[E]  [D]\n[A]  [G]\n[E]  [D]\n\n[Chorus]\n[A]  [G]\n[E]  [D]\n[A]  [G]\n[E]Do ya? [D]Do ya?\n[A]  [G]\n[E]Do ya? [D]Do ya?\n[A]  [G]\n[E]Do ya? [D]Do ya?",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "577655",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D": {
+      "catalog": [
+        "x57775",
+        "x-x-0-2-3-2",
+        "x-5-4-2-3-2",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Do Ya",
+  "id": "689e367c53dcd2f0adbc07dcec39667254d65b4797b85e1ca0a21dd64ad45a17",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 134,
+  "normalizedKey": "peaches|do ya",
+  "playableChords": [
+    "G5",
+    "A5",
+    "A",
+    "G",
+    "E",
+    "D",
+    "F#5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Bridge"
+    },
+    {
+      "measure": 34,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 46,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Bridge"
+    },
+    {
+      "measure": 70,
+      "name": "Verse 4"
+    },
+    {
+      "measure": 78,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "689e367c53dcd2f0adbc07dcec39667254d65b4797b85e1ca0a21dd64ad45a17",
+    "version": "BCFZ"
+  },
+  "tempo": 138,
+  "title": "Do Ya",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

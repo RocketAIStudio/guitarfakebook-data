@@ -1,0 +1,111 @@
+{
+  "artist": "olivia ruby",
+  "artistNormalized": "olivia ruby",
+  "capo": "No capo",
+  "chordPositionCount": 21,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[G]  [C]\n[G]  [C]\n[G]  [C]\n[G]\n\n[Verse 1]\n[G]I've been [C]feeling\n[G]diz zy [C]Meeting\n[G]secretly, [C]with me\n[G]\n[G]Every night [C]I keep\n[G]wasting time [C]Inside of\n[Em]room of mine Prisoned with\n[G]my\n\n[Chorus]\n[G]Ups and downs [C][Em]High and [G]lows\n[C]I'm [G]talking to [Am]All my ghosts\nOh where did I\n[G]go?\n[G]Ups and [C]downs [Em]High and [G]lows [Em]I'm talking\n[Am]to All my, all\nmy ghosts\nOh where did i\n[G]go? [C]\n[G]Cause I'm\n\n[Bridge]\n[Am/E]talking To all my\n[G]ghosts And I\n[Am/E]don't know Where I\n[G]go\n\n[Verse 2]\n[G]Silence is [C]very\n[G]loud I've [C]learnt\n[G]now Cause I [C]pushed them a\n[G]way\nPlease, [C]under-\n[G]stand why I\n[G]do what I [C]do And its [Em]not to\n[G]hurt you But its [C]not to hurt\n[G]you Cause I [C]want you to\n[G]say But I can't even\nsay Cause I'm prisoned with\nmy\n\n[Chorus]\n[G]Ups and [Em]downs [C]High and [G]lows [Em]I'm talking [G]to\n[Am/E]All my ghosts Oh where did I\n[G]go?\n[G]Ups and [C]downs [Em]High and [G]lows\n[C]I'm talking to\n[Am/E]All my ghosts\n[C]Oh where did I go?\n[G]\nNow I'm\n\n[Outro]\n[Am/E]talking to your\n[G]ghosts [Em]Where did I\n[G]go [Em]Where did I\n[G]go [Em]Where did I\n[G]go",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Am/E": {
+      "catalog": [
+        "002210"
+      ],
+      "catalogCount": 1
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "talking to ghosts",
+  "id": "486612324b8ae90daf9612f61f26e4fd51ec2d3a68f8a60a41f01421009e74ac",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 188,
+  "normalizedKey": "olivia ruby|talking to ghosts",
+  "playableChords": [
+    "G",
+    "C",
+    "Em",
+    "Am",
+    "Am/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 23,
+      "name": "Bridge"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 39,
+      "name": "Chorus"
+    },
+    {
+      "measure": 48,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "486612324b8ae90daf9612f61f26e4fd51ec2d3a68f8a60a41f01421009e74ac",
+    "version": "BCFZ"
+  },
+  "tempo": 68,
+  "title": "talking to ghosts",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

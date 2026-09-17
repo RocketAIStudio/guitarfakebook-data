@@ -1,0 +1,105 @@
+{
+  "artist": "Paramore",
+  "artistNormalized": "paramore",
+  "capo": "No capo",
+  "chordPositionCount": 11,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[E]\n[A5]\n[C#5]\n[Ab5]\n[A5]\n[E]\n[A5]\n[C#5]\n[Ab5]\n[A5]\n\n[Verse 1]\n[C#5]I am\n[B5]finding out\n[A5]\nthat maybe\n[C#5]I was\n[B5]wrong\n[A5]\n[C#5]That I've\n[B5]fallen down\n[A5]and\nI can't do\n[C#5]this a-\n[B5]lone\n[A5]\n[C#5]Stay\n[B5]with\n[A5]me\nThis is what\n[C#5]I need\n[B5]please\n[A5]\n\n[Chorus]\n[E]Sing\nus a\n[A5]song\nAnd we'll\n[C#5]sing it\n[Ab5]back to you\n[A5]\n[E]We could\nsing our\n[A5]own But\nwhat would it\n[C#5]be without\n[Ab5]you\n[A5]\n\n[Verse 2]\n[C#5]I am\n[B5]nothing now\n[A5]\nAnd its\n[C#5]been so\n[B5]long\n[A5]\n[C#5]Since I've\n[B5]heard a sound\n[A5]The\nsound of my\n[C#5]only\n[B5]hope\n[A5]\n\n[Pre-Chorus]\n[C#5]This\n[B5]time\n[A5]\nI will be\n[C#5]listening\n[B5]\n[A5]\n\n[Chorus]\n[E]Sing\nus a\n[A5]song\nAnd we'll\n[C#5]sing it\n[Ab5]back to you\n[A5]\n[E]We could\nsing our\n[A5]own But\nwhat would it\n[C#5]be without\n[Ab5]you\n[A5]\n\n[Bridge]\n[C#5]\n[E]\n[A5]\n[B5]\n[C#5]This heart,\nit beats\n[E]Beats for\nonly you\n[A5]\n[B5]\n[C#5]This heart,\nit beats\n[E]Beats for\nonly you\n[A5]\n[A5]\n[B5]\n\n[Outro]\n[C#5]This heart,\nit beats\n[E]Beats for\nonly you\n[A5]My heart\nis yours\n[B5]\n[C#5]This heart,\nit beats\n[E]Beats for\nonly you\n[A5]My heart\nis yours\n[B5]\n[C#5]This heart,\nit beats\n[E]Beats for\nonly you\n[A5]My heart\nis yours\n[B5]\n[C#5]This heart,\nit beats\n[E]Beats for\nonly you\n[A5]My heart\nMy\n[B5]heart is\n[C#5]yours\n[E]My\nheart is\n[A5]yours\nMy\n[B5]heart is\n[C#5]\nyours\n[E]\n[A5]\nMy\n[B5]heart is\n[C#5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx",
+        "x022xx"
+      ],
+      "catalogCount": 2
+    },
+    "Ab5": {
+      "catalog": [
+        "466xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx",
+        "799xxx"
+      ],
+      "catalogCount": 2
+    },
+    "C#5": {
+      "catalog": [
+        "x466xx"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "0221xx",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "My Heart",
+  "id": "b090f993347559254876b9fedb8d57938c9d72813a0602f9a7edaa5012458d63",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 192,
+  "normalizedKey": "paramore|my heart",
+  "playableChords": [
+    "E",
+    "A5",
+    "C#5",
+    "Ab5",
+    "B5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 57,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 73,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 81,
+      "name": "Chorus"
+    },
+    {
+      "measure": 97,
+      "name": "Bridge"
+    },
+    {
+      "measure": 121,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b090f993347559254876b9fedb8d57938c9d72813a0602f9a7edaa5012458d63",
+    "version": "BCFZ"
+  },
+  "tempo": 140,
+  "title": "My Heart",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

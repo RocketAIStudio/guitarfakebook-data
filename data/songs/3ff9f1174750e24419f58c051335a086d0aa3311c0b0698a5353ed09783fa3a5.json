@@ -1,0 +1,73 @@
+{
+  "artist": "Pearl Jam",
+  "artistNormalized": "pearl jam",
+  "capo": "No capo",
+  "chordPositionCount": 3,
+  "chordSymbolCount": 3,
+  "content": "[Intro]\n[E5]  [D5]\n[E5]  [C5]\n[E5]  [D5]\n[E5]  [C5]\n[E5]  [D5]\n[E5]  [C5]\n[E5]  [D5]\n[E5]  [C5]\n\n[Verse 1]\n[E5]Drive down the street [D5]can't find my\n[E5]keys to my own [C5]fucking home\n[E5]I take a walk [D5]so I can\n[E5]curse my ass for [C5]being dumb\n[E5]I make a right [D5]after the\n[E5]arches, stinking grease [C5]and bone\n[E5]Stop at the [D5]supermarket,\n[E5]people stare like I'm [C5]a dog\n\n[Chorus]\n[E5]\nI'm goin' to lukin's.\n[D5]I\ngot a spot at lukin's.\n[C5]I\nknock the door at lukin's\nOpen the fridge,\n[D5]now I know life is worth\n\n[Pre-Verse]\n[E5]  [D5]\n[E5]  [C5]\n[E5]  [D5]\n[E5]  [C5]\n\n[Verse 2]\n[E5]I find the key, [D5]but I re-\n[E5]turn to find an [C5]open door\n[E5]Some fucking freak [D5]who claims I\n[E5]fathered, by rape, her [C5]own son\n[E5]I find my wife, [D5]I call the\n[E5]cops, this day's work's [C5]never done\n[E5]The last I heard [D5]the freak was\n[E5]purchasing a [C5]fucking gun\n[E5]",
+  "diagrams": {
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Lukin *alt",
+  "id": "3ff9f1174750e24419f58c051335a086d0aa3311c0b0698a5353ed09783fa3a5",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 141,
+  "normalizedKey": "pearl jam|lukin",
+  "playableChords": [
+    "E5",
+    "D5",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Pre-Verse"
+    },
+    {
+      "measure": 29,
+      "name": "Verse 2"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "3ff9f1174750e24419f58c051335a086d0aa3311c0b0698a5353ed09783fa3a5",
+    "version": "BCFZ"
+  },
+  "tempo": 150,
+  "title": "Lukin",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

@@ -1,0 +1,88 @@
+{
+  "artist": "Offspring",
+  "artistNormalized": "offspring",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Db]\n\n[Chorus]\n[Db]Let's make\nhand grenades From\n[Gb]common things aro-\n[Gb]und [Ab]the [Db]house\n[Db]\n[Gb]\n[Gb]  [Ab]  [Db]\n\n[Verse]\n[Db]take an old beer bottle (hey) Fill it\nup with gasoline (hey) Some\npaint thinner for good measure And\na sprinkle of maganese (hey hey hey)\n[E]Now stuff a sock into the top And\n[Gb]zippo, you'll be [Ab]king Yeah!\n\n[Chorus]\n[Db]Let's make\nhand grenades\n[Gb]Hours of fun in\n[Gb]a [Ab]little [Db]jar\n[Db]Let's make\nhand grenades\n[Gb]Just try one out on your\n[Ab][Gb]neighbor's [Db]car\n[Db]",
+  "diagrams": {
+    "Ab": {
+      "catalog": [
+        "x-11-13-13-13-11",
+        "4-3-1-1-1-4",
+        "4-6-6-5-4-4",
+        "x-x-6-8-9-8",
+        "x-11-10-8-9-8"
+      ],
+      "catalogCount": 5
+    },
+    "Db": {
+      "catalog": [
+        "9-11-11-10-9-9",
+        "x-4-3-1-2-1",
+        "x-4-6-6-6-4",
+        "9-8-6-6-6-9",
+        "x-x-11-13-14-13"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "x79997",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Gb": {
+      "catalog": [
+        "x-9-11-11-11-9",
+        "2-4-4-3-2-2",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hand Grenades *alt",
+  "id": "9ee3ef0f782961d3401b5da7aab59a402d8d0a395150feb63567c69f7505310a",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 91,
+  "normalizedKey": "offspring|hand grenades",
+  "playableChords": [
+    "Db",
+    "Gb",
+    "Ab",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 3,
+      "name": "Chorus"
+    },
+    {
+      "measure": 11,
+      "name": "Verse"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9ee3ef0f782961d3401b5da7aab59a402d8d0a395150feb63567c69f7505310a",
+    "version": "BCFZ"
+  },
+  "tempo": 180,
+  "title": "Hand Grenades",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

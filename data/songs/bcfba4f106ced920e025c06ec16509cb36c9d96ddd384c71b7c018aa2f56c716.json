@@ -1,0 +1,130 @@
+{
+  "artist": "Oasis",
+  "artistNormalized": "oasis",
+  "capo": "No capo",
+  "chordPositionCount": 30,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[G]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n[Am]  [G]\n\n[Verse1]\n[Am]I still don't know what I [G]was\n[Dm]waiting for\n[F]A big love to fall down from the [G]sky\n[Am]  [G]\n[Am]She took my hand and picked [G]me\n[Dm]up off the floor\n[F]She put an apple in my [G]eye\n[Am]I said I'm\n\n[Chorus]\n[C]tired [G]\n[Am][Dm]Come\n[F]get me off the [G]merrygoround\n[Am]I'm\n[C]wired [G]\n[Am][Dm]Come\n[F]feed me and then bring me [G]down\n[Am]  [G]\n\n[Verse 2]\n[Am]She come up to me [G]\n[Dm]I can't remember what she said\n[F]Because I was in a trance and I forgot it [G]all\n[Am]  [G]\n[Am]Banging on about all [G]that\n[Dm]Revolution in her head\n[F]She’d make a lover seem so [G]magical\n[Am]I said I'm\n\n[Chorus]\n[C]tired [G]\n[Am][Dm]Come\n[F]get me off the [G]merrygoround\n[Am]I'm\n[C]wired [G]\n[Am][Dm]Well\n[F]heaven must have sent you [Dm]To\n[E]save me from the rapture,\nyeah, Yeah\n\n[Solo]\n[C]  [Dm]  [Am]\n[G]  [F]\n[C]Oh\n[Dm]\n[Am]  [G]  [F]\n[C]Hey! [G]I'm\n\n[Chorus]\n[C]tired [Dm]\n[Am][G][F]Come\nget me off the merrygoround\n[C]I'm\nwired\n[Am][G][F]Come\nfeed me and then bring me down\n\n[Outro]\n[C]  [F]\n[C]You can tear my soul [F]on the ground\n[C][F]Hey!\n[C]Like a million more [F]that have me down\n[C]",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "7775xx",
+        "x-0-2-2-1-0",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x35553",
+        "x-3-2-0-1-0",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "000231",
+        "x57765",
+        "x-x-0-2-3-1",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "222100",
+        "0-2-2-1-0-0",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "3332xx",
+        "1-3-3-2-1-1",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "5554xx",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Waiting for the Rapture",
+  "id": "bcfba4f106ced920e025c06ec16509cb36c9d96ddd384c71b7c018aa2f56c716",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 184,
+  "normalizedKey": "oasis|waiting for the rapture",
+  "playableChords": [
+    "G",
+    "Am",
+    "Dm",
+    "F",
+    "C",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 30,
+      "name": "Chorus"
+    },
+    {
+      "measure": 39,
+      "name": "Solo"
+    },
+    {
+      "measure": 47,
+      "name": "Chorus"
+    },
+    {
+      "measure": 54,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "bcfba4f106ced920e025c06ec16509cb36c9d96ddd384c71b7c018aa2f56c716",
+    "version": "BCFZ"
+  },
+  "tempo": 85,
+  "title": "Waiting for the Rapture",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

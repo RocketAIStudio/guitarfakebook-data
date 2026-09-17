@@ -1,0 +1,88 @@
+{
+  "artist": "Pennywise",
+  "artistNormalized": "pennywise",
+  "capo": "No capo",
+  "chordPositionCount": 20,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Em]  [C]  [G]\n[D]  [C]\n[Em]  [C]  [G]\n[D]  [C]\n\n[Verse]\n[Em]Thirty [C]seconds till the [G]end of the world\n[D]We'll blow it all to bits [C]\n[Em]Thirty [C]seconds till the [G]end of the world\n[D]We'll call it quits [C]\n[Em]Thirty [C]seconds till the [G]end of the world\n[D]Blow it all away [C]\n[Em]Thirty [C]seconds till the [G]end of the world\n[D]We'll call it a day [C]\n\n[Outro]\n[Em]Ten seconds till the [C]end of the world\n[G]  [D]\n[Em]Five seconds till the [C]end of the world\n[G]",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "30 Seconds Till The End Of The World",
+  "id": "67ad5160e60f0dc158d135c7245e4e6cfb410d9410b30f88ca79af0486e04b68",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 70,
+  "normalizedKey": "pennywise|30 seconds till the end of the world",
+  "playableChords": [
+    "Em",
+    "C",
+    "G",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse"
+    },
+    {
+      "measure": 13,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "67ad5160e60f0dc158d135c7245e4e6cfb410d9410b30f88ca79af0486e04b68",
+    "version": "BCFZ"
+  },
+  "tempo": 146,
+  "title": "30 Seconds Till The End Of The World",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

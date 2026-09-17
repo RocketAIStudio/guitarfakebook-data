@@ -1,0 +1,91 @@
+{
+  "artist": "Orchid",
+  "artistNormalized": "orchid",
+  "capo": "No capo",
+  "chordPositionCount": 5,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\nHow quaint, you can\nspit farther than me?\nYour life\nstreaight from a movie scene\n\n[Verse 1]\n[A5/D#][D#sus2]Now on a\n[B/D#]movie [D#sus2]screen\n[A5/D#]Silver skies [D#sus2]and\n[B/D#]black [D#sus2]eyes\n[A5/D#]I want a [D#sus2]piece\n[B/D#]of the [D#sus2]cake\n[A5/D#]Get your [D#sus2]hands\n[B/D#]off my [D#sus2]presents\n\n[Chorus]\n[D#5]Kiss on the face\nSlap on the cheek\n[D5/D#]I'll be the one\nwho takes my chances\n[D#5]Sort of sad,\nisn't is?\n[D5/D#]It's hard to forget\nthe friend who\n\n[Verse 2]\n[A5/D#][D#sus2]Makes the scene\n[B/D#][D#sus2]on TV\n[A5/D#][D#sus2]My baby makes the\n[B/D#]scene [D#sus2]on TV\n[A5/D#]She [D#sus2]makes those scenes\n[B/D#][D#sus2]on TV\n[A5/D#][D#sus2]Oh\n[B/D#]yeah [D#sus2]\n\n[Bridge]\n[D#5]Who's\nlike\nthat\nanyway?\n\n[Chorus]\n[D#5]Anyway\nAnyway\n[D5/D#]Anyway\nWho's like that?\n[D#5]Anyway\nAnyway\n[D5/D#]Anyway\nWho's like that?\n[D#5]",
+  "diagrams": {
+    "A5/D#": {
+      "catalog": [
+        "0133xx"
+      ],
+      "catalogCount": 1
+    },
+    "B/D#": {
+      "catalog": [
+        "0355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "6799xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#sus2": {
+      "catalog": [
+        "0244xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5/D#": {
+      "catalog": [
+        "5688xx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Weekends In The Fire Academy",
+  "id": "ed4aa0e9815961d33d5f1109c28542807412270a6636123f698fb51f881813e7",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 124,
+  "normalizedKey": "orchid|weekends in the fire academy",
+  "playableChords": [
+    "A5/D#",
+    "D#sus2",
+    "B/D#",
+    "D#5",
+    "D5/D#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 33,
+      "name": "Bridge"
+    },
+    {
+      "measure": 37,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ed4aa0e9815961d33d5f1109c28542807412270a6636123f698fb51f881813e7",
+    "version": "BCFZ"
+  },
+  "tempo": 176,
+  "title": "Weekends In The Fire Academy",
+  "tuning": "D# G# C# F# A# D#",
+  "variantRole": "primary"
+}

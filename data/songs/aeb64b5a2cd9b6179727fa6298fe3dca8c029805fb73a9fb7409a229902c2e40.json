@@ -1,0 +1,146 @@
+{
+  "artist": "Queen",
+  "artistNormalized": "queen",
+  "capo": "No capo",
+  "chordPositionCount": 24,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n\n[A1]\nword in your ear,\nfrom father to son.\n[G][Bm/F#]Hear the words that I\n[Em]say. [D/A]\n[C]I fought with you,\n[D/A]fought on your side,\n[G]long [Bm/F#]before you were\n[E]born.\n\n[B1]\n[G]Joyful the sound, a\n[C]word goes around, [G]from\n[Am/E]father to son, [G]to son...\n[D/A]\n\n[A2]\nAnd the voice is so clear,\ntime after time it keeps call-\n[G]ing you, [Bm/F#]calling you on.\n[Em]  [D/A]\n[C]Don't destroy what you see,\n[D/A]your country to be. Just keep\n[G]building on the [Bm/F#]ground that's\n[E]been won.\n\n[B2]\n[G]Kings will be crowned and the\n[C]word goes around, [G]from\n[Am/E]father to son, [G]to son.\n\n[C]\nWon't you hear us sing\n\n[D]\nour family\nsong\nnow we hand it on\n\n[E]\n\n[F]\nbut I've heard it all before.\nTake this letter that I give\nyou,\ntake it sonny it\nhigh,\nyou won't understand a word that's\nin it, but you'll\nwrite it all again before you\ndie.\n\n[Solo]\n\n[G]\nword in your ear\nfrom fa-\nther to son. Funny you\ndon't hear a single word I\nsay,\nbut my letter to you\nwill stay by your side, through the\nyears till the loneliness is\nBut the\nair you breathe I\nlive to give you.\nFather to son.\n\n[Outro]",
+  "diagrams": {
+    "Am/E": {
+      "catalog": [
+        "002210"
+      ],
+      "catalogCount": 1
+    },
+    "Bm/F#": {
+      "catalog": [
+        "224432",
+        "22443x"
+      ],
+      "catalogCount": 2
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D/A": {
+      "catalog": [
+        "x00232"
+      ],
+      "catalogCount": 1
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320003",
+        "32000x",
+        "320033",
+        "32003x",
+        "3-5-5-4-3-3"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Father To Son",
+  "id": "aeb64b5a2cd9b6179727fa6298fe3dca8c029805fb73a9fb7409a229902c2e40",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 212,
+  "normalizedKey": "queen|father to son",
+  "playableChords": [
+    "G",
+    "Bm/F#",
+    "Em",
+    "D/A",
+    "C",
+    "E",
+    "Am/E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 7,
+      "name": "A1"
+    },
+    {
+      "measure": 15,
+      "name": "B1"
+    },
+    {
+      "measure": 19,
+      "name": "A2"
+    },
+    {
+      "measure": 27,
+      "name": "B2"
+    },
+    {
+      "measure": 31,
+      "name": "C"
+    },
+    {
+      "measure": 35,
+      "name": "D"
+    },
+    {
+      "measure": 41,
+      "name": "E"
+    },
+    {
+      "measure": 43,
+      "name": "F"
+    },
+    {
+      "measure": 53,
+      "name": "Solo"
+    },
+    {
+      "measure": 79,
+      "name": "G"
+    },
+    {
+      "measure": 95,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gp3",
+    "sha256": "aeb64b5a2cd9b6179727fa6298fe3dca8c029805fb73a9fb7409a229902c2e40",
+    "version": "FICHIER GUITAR PRO v3.00"
+  },
+  "tempo": 80,
+  "title": "Father To Son",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

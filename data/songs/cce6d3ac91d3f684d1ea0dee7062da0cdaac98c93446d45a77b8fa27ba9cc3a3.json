@@ -1,0 +1,112 @@
+{
+  "artist": "Paul Weller",
+  "artistNormalized": "paul weller",
+  "capo": "2",
+  "chordPositionCount": 12,
+  "chordSymbolCount": 4,
+  "content": "[Intro]\n[Am]\n[A7sus2]\n[Dm7]  [Dm7b5]\n[Am]\n\n[Chorus]\n[Am]High tide,\n[A7sus2]mid afternoon Peo-\n[Dm7]ple fly by, [Dm7b5]in the\n[Am]traffics boom\n[Am]Knowing, just where you're\n[A7sus2]blowing\n[Dm7]Getting to where [Dm7b5]you should be\n[Am]going\n\n[Verse 1]\n[Am]Don't let them\n[A7sus2]get you down Ma-\n[Dm7]king you feel [Dm7b5]\n[Am]guilty about\n[Am]Golden rain, will bring you\n[A7sus2]riches\n[Dm7]All the good things [Dm7b5]you\n[Am]deserve and now\n\n[Solo 1]\n[Am]\n[A7sus2]Uh,\n[Dm7]oh [Dm7b5]\n[Am]\n\n[Verse 2]\n[Am]Climbing, forever\n[A7sus2]trying\n[Dm7]Find your way out [Dm7b5]of the\n[Am]wild, wild wood\n\n[Pre-Chorus]\n[Am]Now there's no\n[A7sus2]justice\n[Dm7]Only yourself [Dm7b5]that you can\n[Am]trust in And I said\n\n[Chorus]\n[Am]high tide, mid\n[A7sus2]afternoon Oh, peo-\n[Dm7]ple fly by, [Dm7b5]in the\n[Am]traffics boom\n[Am]Knowing, just where you're\n[A7sus2]blowing Get-\n[Dm7]ting to where [Dm7b5]you should be\n[Am]going\n\n[Solo 2]\n[Am]\n[A7sus2]\n[Dm7]  [Dm7b5]\n[Am]\n\n[Verse 3]\n[Am]Day by day your world\n[A7sus2]fades away Wai-\n[Dm7]ting to feel [Dm7b5]all the\n[Am]dreams that say\n\n[Pre-Chorus]\n[Am]Golden rain will bring you\n[A7sus2]riches\n[Dm7]All the good things [Dm7b5]\n[Am]you deserve now And I say,\n[Am]climbing, forever\n[A7sus2]trying You're gonna\n[Dm7]find your way out [Dm7b5]of the\n[Am]wild, wild wood Said you're gonna\n\n[Outro]\n[Dm7]find you way out [Dm7b5]of the\n[Am]wild, wild wood",
+  "diagrams": {
+    "A7sus2": {
+      "catalog": [
+        "x02000"
+      ],
+      "catalogCount": 1
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "Dm7": {
+      "catalog": [
+        "xx0211",
+        "x-5-7-5-6-5",
+        "10-12-10-10-10-10",
+        "x-17-19-17-18-17",
+        "22-24-22-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "Dm7b5": {
+      "catalog": [
+        "xx0111"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Wild Wood",
+  "id": "cce6d3ac91d3f684d1ea0dee7062da0cdaac98c93446d45a77b8fa27ba9cc3a3",
+  "key": "F♯",
+  "keyIdentified": true,
+  "lyricEventCount": 197,
+  "normalizedKey": "paul weller|wild wood",
+  "playableChords": [
+    "Am",
+    "A7sus2",
+    "Dm7",
+    "Dm7b5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Chorus"
+    },
+    {
+      "measure": 15,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 23,
+      "name": "Solo 1"
+    },
+    {
+      "measure": 27,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 31,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 35,
+      "name": "Chorus"
+    },
+    {
+      "measure": 43,
+      "name": "Solo 2"
+    },
+    {
+      "measure": 47,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 51,
+      "name": "Pre-Chorus"
+    },
+    {
+      "measure": 59,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "cce6d3ac91d3f684d1ea0dee7062da0cdaac98c93446d45a77b8fa27ba9cc3a3",
+    "version": "BCFZ"
+  },
+  "tempo": 78,
+  "title": "Wild Wood",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

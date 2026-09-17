@@ -1,0 +1,126 @@
+{
+  "artist": "Pulp Fiction",
+  "artistNormalized": "pulp fiction",
+  "capo": "No capo",
+  "chordPositionCount": 26,
+  "chordSymbolCount": 6,
+  "content": "[Intro]\n[Gm]Girl,\n[C]you'll be a\n[F]woman soon\n[Gm]\nI\n\n[Verse 1]\n[Gm]love you so much, can't count all the ways I've died\nfor you girl and all they can say is\n[F]\"He's not your kind\"\nThey\n[Gm]never get tired of putting me down And I'll\nnever know when I come around\n[F]What I'm gonna find\nDon't let them\n[Eb]make up your mind\nDon't you know,\n\n[Chorus]\n[Gm]girl,\n[C]you'll be a\n[F]woman soon\n[Gm]\nPlease,\n[C]come take my\n[F]hand\n[Gm]Girl,\n[C]you'll be a\n[F]woman soon\n[Gm]\nSoon,\n[C]you'll need a\n[F]man\nI've been\n\n[Verse 2]\n[Gm]misunderstood for all of my life But what\nthey're saying girl it cuts like a knife\n[F]\"The boy's no good\"\nWell, I've\n[Gm]finally found what I'm alooking for But if\nthey get their chance they'll end it for sure\n[F]Surely would\nBaby, I've\n[Eb]done all I could\nNow it's up to you\n\n[Chorus]\n[Gm]girl,\n[C]you'll be a\n[F]woman\n[Gm]soon\nPlease,\n[C]come take my\n[F]hand\n[Gm]Girl,\n[C]you'll be a\n[F]woman\n[Gm]soon\nSoon,\n[C]you'll need\n[F]a man\n\n[Interlude]\n[Eb]\n[Gm]\n[Eb]\n[Dsus4]\n[D]\n\n[Chorus]\n[Gm]Girl,\n[C]you'll be a\n[F]woman\n[Gm]soon\nPlease,\n[C]come take my\n[F]hand\n[Gm]Girl,\n[C]you'll be a\n[F]woman\n[Gm]soon\nSoon but\n[C]soon, you'll need a\n[F]man\n\n[Fade Out]\n[Gm]Girl,\n[C]you'll be a\n[F]woman\n[Gm]soon\nPlease,\n[C]come take my\n[F]hand",
+  "diagrams": {
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dsus4": {
+      "catalog": [
+        "xx0233"
+      ],
+      "catalogCount": 1
+    },
+    "Eb": {
+      "catalog": [
+        "x6888x",
+        "x-x-1-3-4-3",
+        "x-6-5-3-4-3",
+        "x-6-8-8-8-6",
+        "11-10-8-8-8-11"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "Gm": {
+      "catalog": [
+        "355333",
+        "x-x-5-7-8-6",
+        "x-10-12-12-11-10",
+        "15-17-17-15-15-15",
+        "x-22-24-24-23-22"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Girl, you'll be a woman soon",
+  "id": "b25f5de74ec977e95e5247020da57f6567ed199b5e1a4ed9140d078dc2280410",
+  "key": "G",
+  "keyIdentified": true,
+  "lyricEventCount": 216,
+  "normalizedKey": "pulp fiction|girl you ll be a woman soon",
+  "playableChords": [
+    "Gm",
+    "C",
+    "F",
+    "Eb",
+    "Dsus4",
+    "D"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 6,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 16,
+      "name": "Chorus"
+    },
+    {
+      "measure": 32,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 42,
+      "name": "Chorus"
+    },
+    {
+      "measure": 58,
+      "name": "Interlude"
+    },
+    {
+      "measure": 66,
+      "name": "Chorus"
+    },
+    {
+      "measure": 82,
+      "name": "Fade Out"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "b25f5de74ec977e95e5247020da57f6567ed199b5e1a4ed9140d078dc2280410",
+    "version": "BCFZ"
+  },
+  "tempo": 83,
+  "title": "Girl, you'll be a woman soon",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

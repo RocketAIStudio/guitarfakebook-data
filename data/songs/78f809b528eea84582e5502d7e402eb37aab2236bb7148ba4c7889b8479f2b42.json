@@ -1,0 +1,113 @@
+{
+  "artist": "Paramore",
+  "artistNormalized": "paramore",
+  "capo": "No capo",
+  "chordPositionCount": 7,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[B5]\n[Ab5]  [E5]\n[B5]\n[Ab5]  [E5]\n\n[Verse 1]\n[B5]Somehow,\neverything's gonna fall\n[Ab5]right in-\nto [A#aug]place\n[B5]If we only had a\nway to make it\nall [Ab5]fall\n[A#aug]faster every day\n[B5]If only\ntime flew like\na [Ab5]dove\n[A#aug]\n[B5]We gotta\nmake it fly\n[Ab5]faster than I'm\n[A#aug]falling in love\n[B5]\n\n[Chorus]\n[B5]This time\n[B5]we're not giving up\n[Ab5]  [E5]\n[B5]Let's make it\n[B5]last forever\n[Ab5]  [E5]\nScreaming,\n[B5]\"Halle-\nlujah!\"\n[Ab5]  [E5]\n[B5]We'll make it\nlast forever\n[Ab5]  [E5]\n\n[Verse 2]\n[B5]Holding onto pa-\ntience, wearing thin\n[Ab5]\n[A#aug]\n[B5]I can't force these\neyes to see the end\n[Ab5]\n[A#aug]\n[B5]If only\ntime flew like a\n[Ab5]dove\n[A#aug]\n[B5]Well, we could\nwatch it fly\n[Ab5]and just\nkeep [A#aug]looking up\n[B5]\n\n[Chorus]\n[B5]This time\n[B5]we're not giving up\n[Ab5]  [E5]\n[B5]Let's make it\n[B5]last forever\n[Ab5]  [E5]\nScreaming,\n[B5]\"Halle-\nlujah!\"\n[Ab5]  [E5]\n[B5]We'll make it\nlast forever\n[Ab5]  [E5]\n\n[Bridge]\n[D#5]  [E5]  [Ab5]\n[B5]\n[D#5]  [E5]  [Ab5]\n[F#5]And we've got\n[D#5]time [E5][Ab5]\n[B5]on our\n[D#5]hands [E5][F#5]\n[F#5]And we've\n[D#5]got [E5]time [Ab5]on\nour [B5]hands\n[D#5]Got [E5]nothing [F#5]but,\n[F#5]got nothing but\n[D#5]Got [E5]nothing [Ab5]but\ntime [B5]on our hands\n[D#5]  [E5]  [F#5]\n[F#5]\n\n[Solo]\n[D#5]  [E5]  [Ab5]\n[B5]\n[D#5]  [E5]  [A5]\n\n[Outro - Chorus]\n[B5]This time\n[B5]we're not giving up\n[Ab5]  [E5]\n[B5]Let's make\n[B5]it last forever\n[Ab5]  [E5]\nScreaming,\n[B5]\"Halle-\nlujah!\"\n[Ab5]  [E5]\n[B5]\"Halle-\nlujah!\n[Ab5]  [E5]\n[B5]",
+  "diagrams": {
+    "A#aug": {
+      "catalog": [
+        "8987xx"
+      ],
+      "catalogCount": 1
+    },
+    "A5": {
+      "catalog": [
+        "777xxx"
+      ],
+      "catalogCount": 1
+    },
+    "Ab5": {
+      "catalog": [
+        "666xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "999xxx"
+      ],
+      "catalogCount": 1
+    },
+    "D#5": {
+      "catalog": [
+        "111xxx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "222xxx"
+      ],
+      "catalogCount": 1
+    },
+    "F#5": {
+      "catalog": [
+        "444xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hallelujah",
+  "id": "78f809b528eea84582e5502d7e402eb37aab2236bb7148ba4c7889b8479f2b42",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 203,
+  "normalizedKey": "paramore|hallelujah",
+  "playableChords": [
+    "B5",
+    "Ab5",
+    "E5",
+    "A#aug",
+    "D#5",
+    "F#5",
+    "A5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 13,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 33,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 69,
+      "name": "Chorus"
+    },
+    {
+      "measure": 85,
+      "name": "Bridge"
+    },
+    {
+      "measure": 101,
+      "name": "Solo"
+    },
+    {
+      "measure": 106,
+      "name": "Outro - Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "78f809b528eea84582e5502d7e402eb37aab2236bb7148ba4c7889b8479f2b42",
+    "version": "BCFZ"
+  },
+  "tempo": 158,
+  "title": "Hallelujah",
+  "tuning": "D A D G B E",
+  "variantRole": "primary"
+}

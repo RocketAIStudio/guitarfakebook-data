@@ -1,0 +1,90 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 10,
+  "chordSymbolCount": 6,
+  "content": "[Verse]\n[Dm]I don't need no\narms around me.\nAnd\nI don't need no\ndrugs to calm me.\nI have seen the\nwriting on the wall.\nDon't think I need\nanything at [F5]all.\n\n[Bridge]\n[G5]\nNo,\ndon't think I need anything at all.\n[D5]\n[Asus4]\n\n[Chorus]\n[F5]All in all it was\n[C5]all just bricks in the\n[D5]wall.\n[F5]All in all you were\n[C5]all just bricks in the\n[D5]wall.",
+  "diagrams": {
+    "Asus4": {
+      "catalog": [
+        "x-x-x-9-10-10"
+      ],
+      "catalogCount": 1
+    },
+    "C5": {
+      "catalog": [
+        "x355xx"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "Dm": {
+      "catalog": [
+        "x5776x",
+        "x-x-0-2-3-1",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17"
+      ],
+      "catalogCount": 5
+    },
+    "F5": {
+      "catalog": [
+        "133xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Another Brick in the Wall (Part 3)",
+  "id": "8030a33b295f8eada416c82fb32398bfc6b319715fe9303ea8e16533d96256bb",
+  "key": "F",
+  "keyIdentified": true,
+  "lyricEventCount": 67,
+  "normalizedKey": "pink floyd|another brick in the wall part 3",
+  "playableChords": [
+    "Dm",
+    "F5",
+    "G5",
+    "D5",
+    "Asus4",
+    "C5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse"
+    },
+    {
+      "measure": 15,
+      "name": "Bridge"
+    },
+    {
+      "measure": 23,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "8030a33b295f8eada416c82fb32398bfc6b319715fe9303ea8e16533d96256bb",
+    "version": "BCFZ"
+  },
+  "tempo": 105,
+  "title": "Another Brick in the Wall (Part 3)",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

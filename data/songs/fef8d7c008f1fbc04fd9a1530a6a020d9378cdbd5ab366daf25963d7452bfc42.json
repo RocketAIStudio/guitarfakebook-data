@@ -1,0 +1,121 @@
+{
+  "artist": "Radiohead",
+  "artistNormalized": "radiohead",
+  "capo": "No capo",
+  "chordPositionCount": 15,
+  "chordSymbolCount": 7,
+  "content": "[Verse 1]\n[A]Her\ngreen plastic watering [Asus4]can\n[Dmaj9/F#]For her\nfake Chinese [E6]rubber plant\n[Dsus2]In the fake pla-\n[A]stic\n[Dsus2]earth\n[A]That she\nbought from a rubber [Asus4]man\n[Dmaj9/F#]In a\ntown full of [E6]rubber plans\n[Dsus2]To get rid\n[A]of it-\n[Dsus2]self\nIt wears her out,\n\n[Chorus]\n[Bm11]\nit wears her out\n[A]\nIt wears her\n[Bm11]out,\nit wears her out\n[A]\n\n[Verse 2]\n[A]She\nlives with a broken [Asus4]man\n[Dmaj9/F#]A\ncracked [E6]polystyrene man\n[Dsus2]Who just cru-\n[A]mbles and\n[Dsus2]burns\n[A]He\nused to do [Asus4]surgery\n[Dmaj9/F#]For\ngirls in the [E6]eighties\n[Dsus2]But gravity al-\n[A]ways\n[Dsus2]wins\nIt wears him out,\n\n[Chorus]\n[Bm11]\nit wears him out\n[A]\nIt wears him\n[Bm11]out,\nit wears\n[A]\nhim o-\n\n[Verse 3]\n[A]ut She\nlooks like the real [Asus4]thing\n[Dmaj9/F#]She\ntastes like the [E6]real thing\n[Dsus2]My fake pla-\n[A]stic\n[Dsus2]love\n[A]But I\ncan't help the feeling [Asus4]\n[Dmaj9/F#]I could\nblow through the [E6]ceiling\n[Dsus2]If I just\n[A]turn and\n[Dsus2]run\nIt wears me out,\n\n[Chorus]\n[Bm11]\nit wears me out\n[A]\nIt wears me\n[Bm11]out,\nit wears\n[A]me out\n[Amaj7]If I could be\n\n[Bridge]\n[Bm11]who you wan-\nted If I could be\n[A]who you wan-\nted all\n[Bm11]the time\nAll\n[A]the time... A-\nll the time...\n\n[Outro]\n[Bm11]\n[A]\n[Bm11]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Amaj7": {
+      "catalog": [
+        "x0212x",
+        "x-0-2-1-2-0",
+        "5-4-2-2-2-4",
+        "5-7-6-6-5-5",
+        "x-x-7-9-9-9"
+      ],
+      "catalogCount": 5
+    },
+    "Asus4": {
+      "catalog": [
+        "x02230"
+      ],
+      "catalogCount": 1
+    },
+    "Bm11": {
+      "catalog": [
+        "x20230"
+      ],
+      "catalogCount": 1
+    },
+    "Dmaj9/F#": {
+      "catalog": [
+        "2x0220"
+      ],
+      "catalogCount": 1
+    },
+    "Dsus2": {
+      "catalog": [
+        "xx0230"
+      ],
+      "catalogCount": 1
+    },
+    "E6": {
+      "catalog": [
+        "022120"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Fake Plastic Trees *alt",
+  "id": "fef8d7c008f1fbc04fd9a1530a6a020d9378cdbd5ab366daf25963d7452bfc42",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 204,
+  "normalizedKey": "radiohead|fake plastic trees",
+  "playableChords": [
+    "A",
+    "Asus4",
+    "Dmaj9/F#",
+    "E6",
+    "Dsus2",
+    "Bm11",
+    "Amaj7"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 17,
+      "name": "Chorus"
+    },
+    {
+      "measure": 25,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 41,
+      "name": "Chorus"
+    },
+    {
+      "measure": 49,
+      "name": "Verse 3"
+    },
+    {
+      "measure": 65,
+      "name": "Chorus"
+    },
+    {
+      "measure": 73,
+      "name": "Bridge"
+    },
+    {
+      "measure": 81,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "fef8d7c008f1fbc04fd9a1530a6a020d9378cdbd5ab366daf25963d7452bfc42",
+    "version": "BCFZ"
+  },
+  "tempo": 73,
+  "title": "Fake Plastic Trees",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

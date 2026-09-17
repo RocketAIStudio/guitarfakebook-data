@@ -1,0 +1,144 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 36,
+  "chordSymbolCount": 8,
+  "content": "[Verse 1]\n[Em]I am just a new b oy\n[A]\n[Em]Stranger in this to wn\n[Em]Where are all the good times?\n[Em]Who's gonna show this stranger aro\nund?\n[G]\n[Em]\n\n[Chorus]\n[Am]Ooh,\nI need a dirty wo\n[G]man\n[G#]\n[Am]Ooh,\nI need a dirty girl\n[Em]\n\n[Verse 2]\n[Em]Will some woman in this desert land\n[D]  [A]\n[Em]Make me feel like a real man?\nTake this\n[Em]rock and roll refugee\n[A]\n[Em]Ooh, baby set me free\n[G]\n[Em]\n\n[Chorus]\n[Am]Ooh,\nI need a dirty wo\n[G]man\n[G]  [G#]\n[Am]Ooh,\nI need a dirty girl\n[Em]\n\n[Guitar solo]\n[Em]\n[Em]\n[Em]\n[Em]  [F]\n[F#]  [G]\n[G]\n[Am]\n[G]\n[G#]\n[Am]\n[Em]\n\n[Chorus]\n[Am]Ooh,\nI need a dirty wo\n[G]man\n[G#]\n[Am]Ooh,\nI need a dirty girl\n[Em]\n\n[Outro]\n[Em]\n[Am]\n[Em]\n[D]  [A]\n[Em]\n[Em]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x0222x",
+        "x-0-2-2-2-0",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#": {
+      "catalog": [
+        "244322",
+        "x-x-4-6-7-6",
+        "x-9-8-6-7-6",
+        "x-9-11-11-11-9",
+        "14-13-11-11-11-14"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    },
+    "G#": {
+      "catalog": [
+        "466544"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Young Lust *alt",
+  "id": "e09f7af65a7e7d0bd30d077e53c791a914ac959d12aa2d92b8587f68eff5673d",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 117,
+  "normalizedKey": "pink floyd|young lust",
+  "playableChords": [
+    "Em",
+    "A",
+    "G",
+    "Am",
+    "G#",
+    "D",
+    "F",
+    "F#"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 2,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 14,
+      "name": "Chorus"
+    },
+    {
+      "measure": 22,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 34,
+      "name": "Chorus"
+    },
+    {
+      "measure": 42,
+      "name": "Guitar solo"
+    },
+    {
+      "measure": 60,
+      "name": "Chorus"
+    },
+    {
+      "measure": 68,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "e09f7af65a7e7d0bd30d077e53c791a914ac959d12aa2d92b8587f68eff5673d",
+    "version": "BCFZ"
+  },
+  "tempo": 95,
+  "title": "Young Lust",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

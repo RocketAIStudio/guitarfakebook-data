@@ -1,0 +1,118 @@
+{
+  "artist": "NOFX",
+  "artistNormalized": "nofx",
+  "capo": "No capo",
+  "chordPositionCount": 8,
+  "chordSymbolCount": 7,
+  "content": "[Intro]\n[B5]\n[F#5]\n[E5]\n[D#aug]\n[F#5]\n\n[Verse 1]\n[B5]\nFriday night we'll\n[F#5]be drinking\nManischewitz\n[E5]Going out to\n[E5]terrorize Goy-\n[F#5]im\n[B5]\nStomping shagitz,\n[F#5]\nscrewing shiksas As\n[E5]long as we're home by\n[D#aug]Saturday morning\n[F#5]\n'Cause\n[B5]hey,\n\n[Chorus]\n[E5]we're the Brews\nSporting anti--\n[F#5]swastika tattoos\n[B5]Oi Oi\n[E5]we're the boys\nOrthodox, hasi-\n[F#5]dic, OG Ois\n\n[Break]\n[B5]\n[F#5]\n[E5]\n[D#aug]\n[F#5]\n\n[Verse 2]\n[B5]\nOrthopedic,\n[F#5]Doctor\nMartens good for\n[E5]Waffle making,\n[E5]kicking through the shin\n[F#5]\n[B5]\nReputation,\n[F#5]gained through in-\ntimidation\n[E5]Pacifism no\n[D#aug]longer tradition\n[F#5]\n'Cause\n[B5]hey,\n\n[Chorus]\n[E5]we're the Brews\nSporting anti--\n[F#5]swastika tattoos\nOi Oi\n[E5]we're the Brews The\nfairfax ghetto boys\n[F#5]skinhead Hebrews\n[B5]\n\n[Bridge]\n[D5]We\n[A5]got the might,\n[E5]psy-\n[G5]cho mashuganas\n[D5]We can't\n[A5]lose a fight,\n[E5]as we\n[G5]are the chosen ones\n[D5]\n[A5]Chutzpah driven,\n[E5]we\n[G5]battle then we feast\n[D5]We\n[A5]celebrate, we'll\n[E5]separate our milk-\n[G5]plates from our meat\n[D5]Oi Oi\n\n[Chorus]\n[G5]We're the Brews\nSporting anti--\n[A5]swastika tattoos\n[D5]Oi Oi\n[G5]we're the boys\nOrthodox, ha-\n[A5]sidic, OG Ois\n\n[Outro]\n[D5]\n[G5]We're the Brews\nSporting anti--\n[A5]swastika tattoos\n[D5]Oi Oi\n[G5]we're the boys\nOrthodox, ha-\n[A5]sidic, OG Ois\n[D5]\n[G5]We're the Brews\nSporting anti--\n[A5]swastika tattoos\n[D5]Oi Oi\n[G5]we're the boys\nOrthodox, hasi-\n[A5]dic, OG Ois\n[D5]",
+  "diagrams": {
+    "A5": {
+      "catalog": [
+        "577xxx"
+      ],
+      "catalogCount": 1
+    },
+    "B5": {
+      "catalog": [
+        "x244xx"
+      ],
+      "catalogCount": 1
+    },
+    "D#aug": {
+      "catalog": [
+        "x6988x"
+      ],
+      "catalogCount": 1
+    },
+    "D5": {
+      "catalog": [
+        "x577xx"
+      ],
+      "catalogCount": 1
+    },
+    "E5": {
+      "catalog": [
+        "x799xx",
+        "022xxx"
+      ],
+      "catalogCount": 2
+    },
+    "F#5": {
+      "catalog": [
+        "244xxx"
+      ],
+      "catalogCount": 1
+    },
+    "G5": {
+      "catalog": [
+        "355xxx"
+      ],
+      "catalogCount": 1
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "The Brews *alt 2",
+  "id": "6061372a4f30e408362d3fca3e29c0150d73db659eb52fe6e24949c704d027db",
+  "key": "C",
+  "keyIdentified": true,
+  "lyricEventCount": 262,
+  "normalizedKey": "nofx|the brews",
+  "playableChords": [
+    "B5",
+    "F#5",
+    "E5",
+    "D#aug",
+    "D5",
+    "A5",
+    "G5"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 9,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 26,
+      "name": "Chorus"
+    },
+    {
+      "measure": 33,
+      "name": "Break"
+    },
+    {
+      "measure": 41,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 58,
+      "name": "Chorus"
+    },
+    {
+      "measure": 67,
+      "name": "Bridge"
+    },
+    {
+      "measure": 84,
+      "name": "Chorus"
+    },
+    {
+      "measure": 91,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "6061372a4f30e408362d3fca3e29c0150d73db659eb52fe6e24949c704d027db",
+    "version": "BCFZ"
+  },
+  "tempo": 186,
+  "title": "The Brews",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}

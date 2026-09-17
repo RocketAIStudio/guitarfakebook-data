@@ -1,0 +1,107 @@
+{
+  "artist": "Post Malone",
+  "artistNormalized": "post malone",
+  "capo": "No capo",
+  "chordPositionCount": 25,
+  "chordSymbolCount": 5,
+  "content": "[Intro]\n[Em]  [D]\n[C]  [Am]\n[Em]  [D]\n[C]  [Am]\n\n[Verse 1]\n[Em]Hollywood's bleeding, [D]vampires feedin'\n[C]Darkness turns to [Am]dust\n[Em]Everyone's gone, but [D]no one's leavin'\n[C]Nobody left but [Am]us\n[Em]Tryna chase a feelin', [D]but we'll never feel it\n[C]Ridin' on the last train [Am]home\n[Em]Dyin' in our sleep, we're [D]livin' out a dream We\n[C]only make it out [Am]alone\n\n[Chorus]\n[C]I just keep on hopin' that you [D]call me You\n[Em]say you wanna see me, but you [G]can't right now You\n[C]never took the time to get to [D]know me Was\n[Em]scared of losin' somethin' that we never found We're\n[C]running out of reasons, [D]but we can't let\n[Em]go [G]Yeah,\n[C]Hollywood is bleeding, [D]but we call it\n[Em]home\n\n[Verse 2]\n[Em]Outside, [D]the winter sky turnin'\n[C]grey City up in [Am]smoke, it's only ash when it\n[Em]rains Howl at the [D]moon and go to sleep in the\n[C]day Love for [Am]everybody 'til the drugs fade a-\n[Em]way In the mornin', [D]blocking out the sun with the\n[C]shades She gotta check her [Am]pulse and tell herself that she o-\n[Em]kay It seem like dying [D]young is an honor\n[C]But who'd be at my [Am]funeral? I wonder\n[Em]I go out, and all they [D]eyes on me\n[C]I show out, do you like [Am]what you see?\n[Em]And now they closin' [D]in on me\n[C]Let 'em sharpen all they [Am]teeth This is more than I can\n[C]handle Blood in my [D]Lambo' Wish I could\n[Em]go, oh, I'm losin' [G]hoope I light a\n[C]candle, some Palo [D]Santo For all these\n[Em]demons, wish I could just go on\n\n[Chorus]\n[C]I just keep on hopin' that you [D]call me You\n[Em]say you wanna see me, but you [G]can't right now You\n[C]never took the time to get to [D]know me Was\n[Em]scared of losin' somethin' that we never found We're\n[C]running out of reasons, [D]but we can't let\n[Em]go [G]Yeah,\n[C]Hollywood is bleeding, [D]but we call it\n[Em]home",
+  "diagrams": {
+    "Am": {
+      "catalog": [
+        "x02210",
+        "5-7-7-5-5-5",
+        "x-x-7-9-10-8",
+        "x-12-14-14-13-12",
+        "17-19-19-17-17-17"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "320033",
+        "3-2-0-0-0-3",
+        "3-5-5-4-3-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "Hollywood's Bleeding",
+  "id": "9e0ed74ec56d1bd552d95aacccb8581c9090ab99fbdd1af6cdfb27e6e66fb4f9",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 374,
+  "normalizedKey": "post malone|hollywood s bleeding",
+  "playableChords": [
+    "Em",
+    "D",
+    "C",
+    "Am",
+    "G"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 5,
+      "name": "Verse 1"
+    },
+    {
+      "measure": 13,
+      "name": "Chorus"
+    },
+    {
+      "measure": 21,
+      "name": "Verse 2"
+    },
+    {
+      "measure": 38,
+      "name": "Chorus"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "9e0ed74ec56d1bd552d95aacccb8581c9090ab99fbdd1af6cdfb27e6e66fb4f9",
+    "version": "BCFZ"
+  },
+  "tempo": 67,
+  "title": "Hollywood's Bleeding",
+  "tuning": "E A D G B E",
+  "variantRole": "primary"
+}

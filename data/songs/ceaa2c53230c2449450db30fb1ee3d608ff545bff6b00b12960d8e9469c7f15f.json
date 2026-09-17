@@ -1,0 +1,165 @@
+{
+  "artist": "Pink Floyd",
+  "artistNormalized": "pink floyd",
+  "capo": "No capo",
+  "chordPositionCount": 55,
+  "chordSymbolCount": 11,
+  "content": "[Intro]\n[Em]  [F#m]\n[G]  [C]\n[G]  [D]\n[Em]\n[Dm]  [Em]\n[F]  [Em]\n[Dm]  [Em]\n[F]  [G]\n[A]\n[D]\n[A]\n[D]\n[A]\n[Bm]\n[C#m]\n[E]\n\n[Verse]\n[A]So ya Thought ya\nMight like to\n[D]go to the show.\n[A]To feel the warm\nthrill of confusion That\n[D]space cadet glow.\n[A]Tell me is something elud-\ning you, sunshine?\n[Bm]Is this not what you ex-\npected to see? If you\n[C#m]wanna find out what's behind\nthese cold eyes You'll\n[E]just have to claw your way\nthrough this disguise.\n\n[Outro]\n[A]\n[D]Lights! Turn on\n[A]the sound effects!\n[D]\n[A]Action!\n[Bm]Drop it, drop it on 'em!\n[C#m]Drop it on them!!\n[E]\n[A]",
+  "diagrams": {
+    "A": {
+      "catalog": [
+        "x02220",
+        "5-4-2-2-2-5",
+        "5-7-7-6-5-5",
+        "x-x-7-9-10-9",
+        "x-12-11-9-10-9"
+      ],
+      "catalogCount": 5
+    },
+    "Bm": {
+      "catalog": [
+        "x24432",
+        "7-9-9-7-7-7",
+        "x-x-9-11-12-10",
+        "x-14-16-16-15-14",
+        "19-21-21-19-19-19"
+      ],
+      "catalogCount": 5
+    },
+    "C": {
+      "catalog": [
+        "x32010",
+        "x-3-5-5-5-3",
+        "8-7-5-5-5-8",
+        "8-10-10-9-8-8",
+        "x-x-10-12-13-12"
+      ],
+      "catalogCount": 5
+    },
+    "C#m": {
+      "catalog": [
+        "x46654",
+        "9-11-11-9-9-9",
+        "x-x-11-13-14-12",
+        "x-16-18-18-17-16",
+        "21-23-23-21-21-21"
+      ],
+      "catalogCount": 5
+    },
+    "D": {
+      "catalog": [
+        "xx0232",
+        "x-5-4-2-3-2",
+        "x-5-7-7-7-5",
+        "10-9-7-7-7-10",
+        "10-12-12-11-10-10"
+      ],
+      "catalogCount": 5
+    },
+    "Dm": {
+      "catalog": [
+        "xx0231",
+        "x-5-7-7-6-5",
+        "10-12-12-10-10-10",
+        "x-17-19-19-18-17",
+        "22-24-24-22-22-22"
+      ],
+      "catalogCount": 5
+    },
+    "E": {
+      "catalog": [
+        "022100",
+        "x-x-2-4-5-4",
+        "x-7-6-4-5-4",
+        "x-7-9-9-9-7",
+        "12-11-9-9-9-12"
+      ],
+      "catalogCount": 5
+    },
+    "Em": {
+      "catalog": [
+        "022000",
+        "x-x-2-4-5-3",
+        "x-7-9-9-8-7",
+        "12-14-14-12-12-12",
+        "x-19-21-21-20-19"
+      ],
+      "catalogCount": 5
+    },
+    "F": {
+      "catalog": [
+        "133211",
+        "x-x-3-5-6-5",
+        "x-8-7-5-6-5",
+        "x-8-10-10-10-8",
+        "13-12-10-10-10-13"
+      ],
+      "catalogCount": 5
+    },
+    "F#m": {
+      "catalog": [
+        "244222",
+        "x-x-4-6-7-5",
+        "x-9-11-11-10-9",
+        "14-16-16-14-14-14",
+        "x-21-23-23-22-21"
+      ],
+      "catalogCount": 5
+    },
+    "G": {
+      "catalog": [
+        "355433",
+        "3-2-0-0-0-3",
+        "x-x-5-7-8-7",
+        "x-10-9-7-8-7",
+        "x-10-12-12-12-10"
+      ],
+      "catalogCount": 5
+    }
+  },
+  "diagramsAvailable": true,
+  "difficulty": "",
+  "displayTitle": "In The Flesh? *alt",
+  "id": "ceaa2c53230c2449450db30fb1ee3d608ff545bff6b00b12960d8e9469c7f15f",
+  "key": "A",
+  "keyIdentified": true,
+  "lyricEventCount": 86,
+  "normalizedKey": "pink floyd|in the flesh",
+  "playableChords": [
+    "Em",
+    "F#m",
+    "G",
+    "C",
+    "D",
+    "Dm",
+    "F",
+    "A",
+    "Bm",
+    "C#m",
+    "E"
+  ],
+  "schema": "guitarfakebook.library-song.v1",
+  "sections": [
+    {
+      "measure": 1,
+      "name": "Intro"
+    },
+    {
+      "measure": 17,
+      "name": "Verse"
+    },
+    {
+      "measure": 33,
+      "name": "Outro"
+    }
+  ],
+  "source": {
+    "format": "gpx",
+    "sha256": "ceaa2c53230c2449450db30fb1ee3d608ff545bff6b00b12960d8e9469c7f15f",
+    "version": "BCFZ"
+  },
+  "tempo": 76,
+  "title": "In The Flesh?",
+  "tuning": "E A D G B E",
+  "variantRole": "alt"
+}
