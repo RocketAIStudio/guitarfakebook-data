@@ -1,0 +1,57 @@
+{
+  "candidateSha256": "ddb586f52fb4bfd41ffb45ee73b54bd96361caaf898d5f51a72692bd47de786d",
+  "testedAt": "2026-09-21T21:57:17.264Z",
+  "environment": {
+    "node": "v24.19.0",
+    "jsdom": "30.1.0"
+  },
+  "testType": "Automated DOM/runtime tests, not a real browser or visual layout certification",
+  "renderedSongTransposeViewportCases": 276,
+  "passed": 10,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Locked input hash, four untouched modules, CSS and bounded application change",
+      "status": "PASS"
+    },
+    {
+      "name": "All reviewable files are real parsed sources and absent from locked IDs/title aliases",
+      "status": "PASS"
+    },
+    {
+      "name": "Same harness boots locked baseline and review copy with search and member controls",
+      "status": "PASS"
+    },
+    {
+      "name": "390px DOM: all admitted lead sheets render offline in all 23 transpose positions",
+      "status": "PASS"
+    },
+    {
+      "name": "1440px DOM: all admitted lead sheets render offline in all 23 transpose positions",
+      "status": "PASS"
+    },
+    {
+      "name": "Approval, note, portable export, reload and wrong-package rejection",
+      "status": "PASS"
+    },
+    {
+      "name": "Quota failure is visible and does not prevent decision export",
+      "status": "PASS"
+    },
+    {
+      "name": "Simulated desktop file origin loads actual sheet and exports without local storage",
+      "status": "PASS"
+    },
+    {
+      "name": "Native app search selection resets a previously transposed song and records correct identity",
+      "status": "PASS"
+    },
+    {
+      "name": "Source payloads survive review transposition without mutation; unknown songs fail closed",
+      "status": "PASS"
+    }
+  ],
+  "ownerVisualAcceptance": "PENDING",
+  "independentReview": "PENDING",
+  "production": "NOT_TOUCHED"
+}
