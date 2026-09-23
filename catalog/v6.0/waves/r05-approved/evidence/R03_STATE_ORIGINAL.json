@@ -1,0 +1,321 @@
+{
+  "product": "GuitarFakeBook",
+  "version": "V6.0",
+  "artifactRevision": "R03",
+  "updatedAt": "2026-09-22T00:46:13.087224+00:00",
+  "CURRENT_STAGE": "V6.0 R03 catalog sustainability module and six-song inactive Git checkpoint; full selected-artist parsing and active release remain open.",
+  "BUILD_STATE_CLASS": "OWNER_SCOPE_LOCKED_CATALOG_STAGED_NOT_RELEASED",
+  "BUILD_PATH": "LIGHT_BUILD",
+  "EXECUTION_CADENCE": "Bounded cloud waves; owner UAT and checkpoint review before promotion.",
+  "EXECUTION_LOCATION": "Cloud; desktop artifact is for owner review, not a local-only build dependency.",
+  "framework": "VPL V4.0 FINAL / Bootstrap REV 004",
+  "frameworkReadiness": "Control and evidence preparation ready; product integration and release readiness not established.",
+  "ownerAuthority": "Current owner instruction locks the V6.0 direction and requires a playable approval shell for every single/bulk song addition; no approval of unseen payloads inferred.",
+  "supersedes": [
+    "Prior paid/Stripe registration requirement",
+    "Old guest access to actual catalog songs",
+    "Prior go-forward V6.01/V6.02 product labels",
+    "R01 print/export clarification is resolved: wording only."
+  ],
+  "lockedRules": {
+    "freeForever": true,
+    "stripeRequired": false,
+    "amemberIdentity": true,
+    "getresponseEnrollment": true,
+    "guestSong": "My Song generic preview; actual matches in search only",
+    "memberDownloadLimit": 5,
+    "downloadWindowProposal": "rolling 24 hours per user; idempotent retry not charged twice",
+    "existingSongsUnchanged": true,
+    "productionArtistNamesPrevail": true,
+    "netNewOnly": true,
+    "newAdmissionEnglishOnly": true,
+    "skipComplexOrFailingTranspose": true
+  },
+  "historicalArtifactsImmutable": true,
+  "sourceInventory": "GuitarFakeBook_V6.0_SOURCE_INVENTORY_R01.json",
+  "productionBranch": "deploy/gfb-v4.1-hf2",
+  "productionCommit": "0bf10064a8597ab1ea29bc0515815956fea50e0b",
+  "productionTree": "73218aadcf2b582d8c17051830ea18e5d4df1807",
+  "rollback": "0bf10064a8597ab1ea29bc0515815956fea50e0b",
+  "currentApplicationCandidate": [
+    {
+      "file": "index.html",
+      "bytes": 3961048,
+      "sha256": "a0b8455e97da874f6cd5f6b2b77e3dba3f3268cc521e51f756488b5671146ffe",
+      "embedded": 0,
+      "role": "GUEST_METADATA_AND_GENERIC_TEMPLATE_ONLY"
+    },
+    {
+      "file": "member-review.html",
+      "bytes": 3986112,
+      "sha256": "52c46e37da9546d976024fea2210924d7ace280dcceb2a080f2817344bd075a9",
+      "embedded": 8,
+      "role": "OFFLINE_OWNER_MEMBER_REVIEW_NOT_AUTHENTICATION"
+    }
+  ],
+  "previousAcceptedApplicationSHA256": "7e79b921905b1e7c77fa6bdb2316290fa0d966c4b06806971f0de388d5c3d723",
+  "w2Status": "HOLD_SOURCE_BUILD_MISMATCH",
+  "oldPublicAccessCandidate": "Preserved; cannot satisfy guest rule unchanged because it permits song JSON.",
+  "batchCounts": {
+    "total": 2002,
+    "existing": 124,
+    "unavailable": 36,
+    "unparsed": 1831,
+    "held": 5,
+    "reviewable": 6
+  },
+  "moduleConsideration": {
+    "M01": "ACTIVE: Bootstrap, owner requirements and recap.",
+    "M02": "NOT ACTIVATED: no scheduled worker in this revision; support worker remains later scope.",
+    "M03": "NOT APPLICABLE: no case study publication.",
+    "M04": "CANDIDATE PRESERVED: preservation principles followed; no certification claimed.",
+    "M05": "CANDIDATE PRESERVED: precise future UX boundary; no certification claimed.",
+    "M06": "ACTIVE: exact-source evidence and durable banking.",
+    "M07": "ACTIVE: readiness; provider auth/runtime gates remain unverified.",
+    "M08": "ACTIVE: Light Build selected; auth/quota component reassessment required.",
+    "M09": "ACTIVE: six-song candidate staging committed with full existing-blob preservation; active index and deployment unchanged.",
+    "M10": "CONDITIONAL: future deployment health checks; no fresh live claim here.",
+    "M11": "CONDITIONAL BEFORE ACTIVATION: Hostinger VPL API and Git routes retained; exact operation proof and live verification required.",
+    "M12": "NOT APPLICABLE: no unfamiliar native UI instructions.",
+    "M13": "NOT APPLICABLE: no phone control operation; mobile UX remains required QA.",
+    "M14": "NOT ACTIVATED: recap only; no external notification.",
+    "M15": "ACTIVE: project continuation and requirement supersession.",
+    "M16": "NOT APPLICABLE: cloud-only work; no remote desktop.",
+    "M17": "ACTIVE: immutable old artifacts, rollback and pointer preservation.",
+    "M18": "ACTIVE: secret locators only; secret values excluded.",
+    "M19": "ACTIVE: separate desktop review artifacts, source/asset verification and evidence banking; production publication remains gated.",
+    "M20": "NOT APPLICABLE: no Telegram work.",
+    "M21": "NOT TRIGGERED: no current escalation requiring recalibration.",
+    "M22": "ACTIVE PLANNING / IMPLEMENTATION GATED: free aMember identity and sessions.",
+    "M23": "RETIRED FROM GO-FORWARD FLOW BY OWNER: no Stripe checkout; existing records untouched.",
+    "M24": "ACTIVE PLANNING / IMPLEMENTATION GATED: GetResponse enrollment and consent.",
+    "M25": "PROPOSED / LATER SCOPE: support automation remains pending; no worker activated.",
+    "GFB-CAT-01": "ACTIVE / REQUIRED: recurring source discovery, qualification, parsing, playable owner shell, exact decisions, CSV accounting, controlled Git update and rollback."
+  },
+  "independentReview": "Pending non-GPT design/source review plus independent auth/security context; no callable reviewer assigned.",
+  "newAppQARun": true,
+  "newDeployment": false,
+  "liveFetchedThisRevision": false,
+  "blockers": [
+    "W2 source/build mismatch",
+    "Hostinger operation/target root proof",
+    "aMember installation and real session integration",
+    "GetResponse account/list/sender binding",
+    "Independent design/source/security reviews",
+    "Provider spending limits and downstream service inputs"
+  ],
+  "nextPermittedAction": "Obtain browser UAT and independent source/diff review of exact R02; prepare real aMember/content/quota integration after its readiness and security-design gates. Continue independent net-new song parsing from preserved results.",
+  "workRows": [
+    {
+      "item": "Preserved app, icons and rollback",
+      "status": "VERIFIED",
+      "nextStep": "Exact baseline/R02/package hashes match. All 15 packaged icon/metadata blobs match the current production tree. Reuse existing QA only within its original scope."
+    },
+    {
+      "item": "V4 Bootstrap and V6.0 requirements",
+      "status": "RECORDED",
+      "nextStep": "V4.0 FINAL / REV 004 refreshed. Free V6.0 requirements and wording-only decision are locked."
+    },
+    {
+      "item": "Lead-sheet wording decision",
+      "status": "COMPLETE",
+      "nextStep": "Printing, export and existing song text remain. No repeat confirmation required."
+    },
+    {
+      "item": "V6.0 R02 UI / guest preview",
+      "status": "OWNER LOCK RECORDED",
+      "nextStep": "Current owner instruction accepts and locks the direction/candidate. Preserve both exact guest/member hashes and 14/0 affected evidence. Independent source review and real service integration remain open."
+    },
+    {
+      "item": "W2 \u2014 saved-work migration",
+      "status": "HOLD",
+      "nextStep": "Resolve preserved source/build mismatch. Prove repeat-safe imports, notes, order, sets, chord choices, quota failure/rollback and non-overlapping cohort B."
+    },
+    {
+      "item": "Selected-artist song batch",
+      "status": "PARTIAL \u2014 R03 STAGED",
+      "nextStep": "Six verified payloads and both CSVs are committed to the inactive data branch. Finish 1,831 pending sources; hold five, exclude 124 existing and 36 unavailable. Preserve the 335-artist scope."
+    },
+    {
+      "item": "GFB-CAT-01 catalog update module",
+      "status": "REQUIRED / SPECIFIED",
+      "nextStep": "Module and source registry recorded in V6. Implement reusable adapters, the owner shell, exact decisions and idempotent add/remove/restore with atomic Git update and rollback."
+    },
+    {
+      "item": "W3 \u2014 free aMember accounts",
+      "status": "PENDING",
+      "nextStep": "Verify isolated Hostinger target and install/configure aMember. Prove registration, returning login, sessions, free access, logout and negative cases. No Stripe dependency."
+    },
+    {
+      "item": "W5 \u2014 GetResponse enrollment",
+      "status": "PENDING",
+      "nextStep": "Inspect supplied form destination. Resolve account/list, consent, sender and welcome workflow; test duplicates, suppression, outage and retries."
+    },
+    {
+      "item": "W4 \u2014 sync and offline",
+      "status": "PENDING",
+      "nextStep": "Test two-device conflicts, deletion, account isolation, personal-work migration and offline relaunch under the new guest/member boundary."
+    },
+    {
+      "item": "W6 \u2014 support mailbox/worker",
+      "status": "PENDING",
+      "nextStep": "Keep the five-minute support workflow in the plan. Resolve sender/escalation, retention and spending limits; test threading, deduplication, human takeover and outages."
+    },
+    {
+      "item": "W7 \u2014 Discover, Apify and feeds",
+      "status": "PENDING",
+      "nextStep": "Reuse located tokens and prior selected Actors. Prove real activity/images/Reverb/releases/charts and stale/empty/error states; do not claim Actor execution from token availability."
+    },
+    {
+      "item": "W8 \u2014 AI backing tracks and quota",
+      "status": "PENDING",
+      "nextStep": "Prove source \u2192 actual processing \u2192 playable MP3 under GF-BTC-01/02/03. Add server-side five-per-user rolling-24-hour quota, concurrency/retry and two-device tests."
+    },
+    {
+      "item": "W9 \u2014 integrated V6.0 final artifact",
+      "status": "PENDING",
+      "nextStep": "Run affected and cumulative regression on the exact candidate. Complete owner UAT and independent source/security reviews; clean package and rollback."
+    },
+    {
+      "item": "W10 \u2014 Hostinger production completion",
+      "status": "BLOCKED BEFORE RELEASE",
+      "nextStep": "Verify existing API/Git route, branch/root and rollback. Deploy accepted exact candidate by fast-forward; capture ordinary/cache-busted HTTPS and member journeys. No live success claimed here."
+    }
+  ],
+  "ownerDecision": "Remove only wording; preserve printing/export functions and existing member song content.",
+  "affectedQA": {
+    "passed": 14,
+    "failed": 0,
+    "guestSelectionCases": 52,
+    "memberSheetCases": 64,
+    "realBrowser": "NOT_RUN",
+    "independentReview": "PENDING"
+  },
+  "currentCatalogModule": {
+    "id": "GFB-CAT-01",
+    "file": "GuitarFakeBook_V6.0_CATALOG_UPDATE_MODULE_R03.html",
+    "considerAtEveryBootstrap": true,
+    "activateFor": [
+      "new_file",
+      "new_archive",
+      "new_repository",
+      "url_list",
+      "single_add",
+      "bulk_add",
+      "new_artist",
+      "remove",
+      "restore",
+      "parser_change"
+    ],
+    "status": "PROCESS_SPECIFIED_AUTOMATION_PARTIAL"
+  },
+  "catalogGit": {
+    "repo": "RocketAIStudio/guitarfakebook-data",
+    "branch": "build/gfb-v6.0-catalog-r03-2026-09-22",
+    "sha": "44a480761c519733df65d8cf075e15e2f6cd524a",
+    "status": "SIX_SONGS_STAGED_NOT_RELEASED",
+    "unchangedExistingFiles": 13028
+  },
+  "ownerApplicationLock": "Recorded from current user message; independent and integration evidence remain separate.",
+  "releaseStatus": "NO_ACTIVE_CATALOG_CHANGE_NO_PRODUCTION_DEPLOYMENT",
+  "sourceRegistry": "GuitarFakeBook_V6.0_SOURCE_REGISTRY_R03.json",
+  "r03Workstreams": [
+    {
+      "item": "Preserved app, icons and rollback",
+      "status": "VERIFIED",
+      "nextStep": "Exact baseline/R02/package hashes match. All 15 packaged icon/metadata blobs match the current production tree. Reuse existing QA only within its original scope."
+    },
+    {
+      "item": "V4 Bootstrap and V6.0 requirements",
+      "status": "RECORDED",
+      "nextStep": "V4.0 FINAL / REV 004 refreshed. Free V6.0 requirements and wording-only decision are locked."
+    },
+    {
+      "item": "Lead-sheet wording decision",
+      "status": "COMPLETE",
+      "nextStep": "Printing, export and existing song text remain. No repeat confirmation required."
+    },
+    {
+      "item": "V6.0 R02 UI / guest preview",
+      "status": "OWNER LOCK RECORDED",
+      "nextStep": "Current owner instruction accepts and locks the direction/candidate. Preserve both exact guest/member hashes and 14/0 affected evidence. Independent source review and real service integration remain open."
+    },
+    {
+      "item": "W2 \u2014 saved-work migration",
+      "status": "HOLD",
+      "nextStep": "Resolve preserved source/build mismatch. Prove repeat-safe imports, notes, order, sets, chord choices, quota failure/rollback and non-overlapping cohort B."
+    },
+    {
+      "item": "Selected-artist song batch",
+      "status": "PARTIAL \u2014 R03 STAGED",
+      "nextStep": "Six verified payloads and both CSVs are committed to the inactive data branch. Finish 1,831 pending sources; hold five, exclude 124 existing and 36 unavailable. Preserve the 335-artist scope."
+    },
+    {
+      "item": "GFB-CAT-01 catalog update module",
+      "status": "REQUIRED / SPECIFIED",
+      "nextStep": "Module and source registry recorded in V6. Implement reusable adapters, the owner shell, exact decisions and idempotent add/remove/restore with atomic Git update and rollback."
+    },
+    {
+      "item": "W3 \u2014 free aMember accounts",
+      "status": "PENDING",
+      "nextStep": "Verify isolated Hostinger target and install/configure aMember. Prove registration, returning login, sessions, free access, logout and negative cases. No Stripe dependency."
+    },
+    {
+      "item": "W5 \u2014 GetResponse enrollment",
+      "status": "PENDING",
+      "nextStep": "Inspect supplied form destination. Resolve account/list, consent, sender and welcome workflow; test duplicates, suppression, outage and retries."
+    },
+    {
+      "item": "W4 \u2014 sync and offline",
+      "status": "PENDING",
+      "nextStep": "Test two-device conflicts, deletion, account isolation, personal-work migration and offline relaunch under the new guest/member boundary."
+    },
+    {
+      "item": "W6 \u2014 support mailbox/worker",
+      "status": "PENDING",
+      "nextStep": "Keep the five-minute support workflow in the plan. Resolve sender/escalation, retention and spending limits; test threading, deduplication, human takeover and outages."
+    },
+    {
+      "item": "W7 \u2014 Discover, Apify and feeds",
+      "status": "PENDING",
+      "nextStep": "Reuse located tokens and prior selected Actors. Prove real activity/images/Reverb/releases/charts and stale/empty/error states; do not claim Actor execution from token availability."
+    },
+    {
+      "item": "W8 \u2014 AI backing tracks and quota",
+      "status": "PENDING",
+      "nextStep": "Prove source \u2192 actual processing \u2192 playable MP3 under GF-BTC-01/02/03. Add server-side five-per-user rolling-24-hour quota, concurrency/retry and two-device tests."
+    },
+    {
+      "item": "W9 \u2014 integrated V6.0 final artifact",
+      "status": "PENDING",
+      "nextStep": "Run affected and cumulative regression on the exact candidate. Complete owner UAT and independent source/security reviews; clean package and rollback."
+    },
+    {
+      "item": "W10 \u2014 Hostinger production completion",
+      "status": "BLOCKED BEFORE RELEASE",
+      "nextStep": "Verify existing API/Git route, branch/root and rollback. Deploy accepted exact candidate by fast-forward; capture ordinary/cache-busted HTTPS and member journeys. No live success claimed here."
+    }
+  ],
+  "r03Counts": {
+    "selectedArtists": 335,
+    "currentArtistsPresent": 266,
+    "currentSongs": 2237,
+    "qualifiedStagedSongs": 6,
+    "projectedSongsIfReleased": 2243,
+    "activeGain": 0,
+    "pendingParse": 1831,
+    "existingDuplicate": 124,
+    "unavailable": 36,
+    "held": 5
+  },
+  "ownerApprovedUICandidateHashes": [
+    "a0b8455e97da874f6cd5f6b2b77e3dba3f3268cc521e51f756488b5671146ffe",
+    "52c46e37da9546d976024fea2210924d7ace280dcceb2a080f2817344bd075a9"
+  ],
+  "r03DocumentationChecks": {
+    "internalAnchors": "PASS",
+    "countsAndDispositionReconciliation": "PASS",
+    "existingWorkstreamsPreserved": 15,
+    "browserVisualReview": "NOT_RUN: cloud browser rejected local file protocol; no workaround attempted"
+  }
+}

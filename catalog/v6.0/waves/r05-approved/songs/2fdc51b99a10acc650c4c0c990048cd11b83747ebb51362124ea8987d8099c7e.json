@@ -1,0 +1,66 @@
+{
+  "schema": "guitarfakebook.library-song.v1",
+  "id": "2fdc51b99a10acc650c4c0c990048cd11b83747ebb51362124ea8987d8099c7e",
+  "source": {
+    "relativePath": "Ultimate Guitar com PRO Tabs Site Rip GPX/m/marianne_faithfull_10264/marianne-faithfull_this-little-bird-official-1991557.gpx",
+    "sha256": "2fdc51b99a10acc650c4c0c990048cd11b83747ebb51362124ea8987d8099c7e",
+    "bytes": 87816,
+    "format": "gpx",
+    "version": "BCFZ",
+    "extension": "gpx"
+  },
+  "artist": "Marianne Faithfull",
+  "artistNormalized": "mariannefaithfull",
+  "title": "This Little Bird",
+  "displayTitle": "This Little Bird",
+  "key": "C",
+  "tuning": "E A D G B E",
+  "capo": "No capo",
+  "tempo": 120,
+  "content": "[Bm]\n[A]\n\n[Verse 1]\n[Bm]There's a little bird\nthat\n[F#]somebody sends\n[Bm]\nDown to the earth\nto\nlive on the\n[F#7]wind.\n[Bm]Borne on the wind\nand he\n[Em]sleeps on the\nwind\n[Bm]This little bird\nthat\n[F#7]somebody sends.\n\n[Verse 2]\n[Bm]He's light and\nfragile and\n[F#7]feathered sky\n[Bm]blue,\nSo thin and\ngraceful the\nsun shines\n[F#7]through.\n[Bm]This little bird\nwho\n[Em]lives on the\n[F#7]wind,\n[Bm]This little bird\nthat\n[F#7]somebody sends.\n[Bm]\n\n[Verse 3]\n[Bm]He flies so\n[Em]high up in\n[A]the sky\n[G]Out of re-\nach of\n[F#]human eye.\n[Bm]And the only time\nthat he\n[Em]touches the\nground\n[Bm]Is when that\n[F#]little bird\n[Bm]Is when\n[F#]that little\n\n[Outro]\n[Bm]bird Is when that\n[F#]little bird\n[Bm]dies",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432"
+      ]
+    },
+    "A": {
+      "catalog": [
+        "x02220"
+      ]
+    },
+    "F#": {
+      "catalog": [
+        "244322"
+      ]
+    },
+    "F#7": {
+      "catalog": [
+        "242322"
+      ]
+    },
+    "Em": {
+      "catalog": [
+        "022000"
+      ]
+    },
+    "G": {
+      "catalog": [
+        "355433"
+      ]
+    }
+  },
+  "playableChords": [
+    "Bm",
+    "A",
+    "F#",
+    "F#7",
+    "Em",
+    "G"
+  ],
+  "lyricEventCount": 123,
+  "preparation": {
+    "identitySource": "Verified source path and selected-artist manifest",
+    "unmodifiedParsedRecord": "work/full_parse/gpx/2fdc51b99a10acc650c4c0c990048cd11b83747ebb51362124ea8987d8099c7e.json"
+  }
+}

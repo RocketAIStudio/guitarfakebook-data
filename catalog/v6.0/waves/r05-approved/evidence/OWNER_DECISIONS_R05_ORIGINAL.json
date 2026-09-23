@@ -1,0 +1,2863 @@
+{
+  "schema": "gfb-desktop-review-decisions/v2",
+  "buildId": "GFB-V6.0-DESKTOP-REVIEW-R05",
+  "datasetId": "b17e68f11119ca7544a55ae51d2079482ee7ae6c65602281e5fe60fd4b7f6756",
+  "baselineSha256": "7e79b921905b1e7c77fa6bdb2316290fa0d966c4b06806971f0de388d5c3d723",
+  "deploymentAuthorized": false,
+  "decisionScope": "Owner approved all 317 reviewed songs; metadata capitalization and production V4 artist-name alignment authorized. Release gates remain separate.",
+  "decisions": [
+    {
+      "id": "1da3e1d549107def6d4f8e6abf3bc35528c2d1a236a61896ef55b3ccd0266fd7",
+      "artist": "AC|DC",
+      "title": "rock n roll singer",
+      "payloadSha256": "258a3b7b91ec0c6270ab2eed00c1d2aa8a7bd742ba53addeab795494accf9d30",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "aa25816fbb7dc3d81945b154b98d6fa0d151b95441ffe1857a58ce2112f815f5",
+      "artist": "AC|DC",
+      "title": "rock the blues away",
+      "payloadSha256": "f70efc1d8d922ade4a11b17f4964caca9e21fdf5251a7341ff302cdb352d59dc",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "22572e6825c207c15734c1c7ee94065499b437629bc9d1fff8364c35e98d1368",
+      "artist": "AC|DC",
+      "title": "shot in the dark",
+      "payloadSha256": "ca85ccd7313de222be0b4a4e4cacab8f71e760bfee33d3abb1ab936503329af0",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "e61cc2910349771868e7cfa5beffc5e3d77217a4d6429ee69485aa9359c0a034",
+      "artist": "AC|DC",
+      "title": "through the mists of time",
+      "payloadSha256": "4e581942e4559c399711d15e78cf34d46973446dd1f17f7e08415eabcde7998a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "e67c5444278c4a1aa2e809e9d77f964fc0134f76202c429858fc8d7fb2573502",
+      "artist": "Alanis Morissette",
+      "title": "you oughta know",
+      "payloadSha256": "35fee09bc5a4a5f18906dd55d2471e1f2c848fbb8de4aab06f86ff319af08c31",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "6cb6ec27fcb0b78bf5aaf3e15fbe3e6b308eae700d4c85a7b209199fc1883b74",
+      "artist": "Arctic Monkeys",
+      "title": "dont forget whose legs youre on",
+      "payloadSha256": "b7139e34693c3c81fcc07e85017540dd0168fb90e3a641df5ee9d2ba6666aa31",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "badaf92b95ff8a25294b3822237bfbcc027e8551442052675b192329bbea9122",
+      "artist": "Arctic Monkeys",
+      "title": "library pictures",
+      "payloadSha256": "e6b982c6a44633f1cdfc61fa442d2ae3564d3aed5e8f30a7669aa86470a9e596",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "da28bbd5f964cf9481b7b03107315ba2c8525e72df53806ac22394787bda9846",
+      "artist": "Arctic Monkeys",
+      "title": "star treatment",
+      "payloadSha256": "9ee22211a46592fdf71faf7d82fc5cad0cdd1a39301be5a916f701148d72cea4",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "f17f0e7c1c44e0335a8366fe9d66cde68be3be72995d93f04e8f8df35fff3436",
+      "artist": "Arctic Monkeys",
+      "title": "the ultracheese",
+      "payloadSha256": "aa5ae62c45f0f7355638a59aae279de885c8965bceb995b0db7b0b93fcf96b4c",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "1f6a469236656d0e776689d83563b33e8c0463567fdefada12d270f4c3fd7a05",
+      "artist": "Arctic Monkeys",
+      "title": "the worlds first ever monster truck front flip",
+      "payloadSha256": "e9e5aac4f31d9be65230c0a1f4a018f244382be0627be2b62b7a133414367f4a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "f598cf44fa95aced82143220e05840fc1d2f3739eba659c4aa7c6f48d3a7b91b",
+      "artist": "Arctic Monkeys",
+      "title": "too much to ask",
+      "payloadSha256": "b9ceb9e80419bace3ecc2966fb37d55cecd8b1f440f1f22bcf74254a69c3149d",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "4538b50950e41548a17e31968f9f343b972229fa5811014fce3bca8820a2cfa7",
+      "artist": "Ariana Grande",
+      "title": "dangerous woman",
+      "payloadSha256": "19d49601f5b40b5e37f26ef65d5f83b84fd4d4c4b7116caf95877ff0b772913a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "70d1c09cc71d1c184d43f1261e2befafaf8ccaf0754b6124d5ffade73b8b89a3",
+      "artist": "Ariana Grande",
+      "title": "demi lovato met him last night",
+      "payloadSha256": "1b8e3a434a55c21cd2d92352fc21d3edd987f8b0ba203af0d1d95ad42efc5e82",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "29eda4f4d694b30944def7c0345c4f59c269a71a8fdfe330102211246d65a69f",
+      "artist": "Ariana Grande",
+      "title": "everytime",
+      "payloadSha256": "97d2a4930f8257c1cafdd99e795f6178a025f30976465ead6d11c0ccb3699967",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "ac420594cf3873fa080f3e45391c914b6f4506393d36291ae35fa6c53671a4b9",
+      "artist": "Ariana Grande",
+      "title": "no tears left to cry",
+      "payloadSha256": "8e9096210689d734f8547a57ec7b2b3491f412cd1a5e2c9f56e69cf836be27b7",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "2c194e54912337b2b4cf1e06861d8d8d22870609205820799349af90d9eabebf",
+      "artist": "Ariana Grande",
+      "title": "obvious",
+      "payloadSha256": "55690d887a706d5f9df2eca4524d4b2b57b0f056bbba31f36753dfd87ea44430",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "1fb62f578c9fc7bcb5ce3c52e1c21ead63545ed0b038dd22fb601adb54d25e1f",
+      "artist": "Ariana Grande",
+      "title": "positions",
+      "payloadSha256": "ec65077ba88efc5f83add481fe467b346ad3051fbcab0a7dd1bbb1b4ba99182d",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "c37564ebd962c4ad3afc12133d50551bff5e6a4211144a355391e06a10e65929",
+      "artist": "Audioslave",
+      "title": "be yourself",
+      "payloadSha256": "8cdc286c87b75e497231d347ae8621cf65f57e76ccedf6236af51be3584dd813",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "c3a26b04625bda0a04173973653ffe2097ea734c499926ff205e189164d886dc",
+      "artist": "Avril Lavigne",
+      "title": "when youre gone",
+      "payloadSha256": "7f39d70407429da36030b230f61ab4befe701727fd180c37c8085cf7c915ac99",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "6cdd7a67039d4ee7eb5fcddca7dbbf318e2726a993e4217c24ed001214078540",
+      "artist": "Backstreet Boys",
+      "title": "everybody",
+      "payloadSha256": "66581b22f70c80ab9d0383965518661dbaa9c0ad1277d791127273e9515200e8",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "278a3508b0001179683387d217f2f8b8cde8f4ca6514a7b4b65dc04b97e08852",
+      "artist": "Bad Company",
+      "title": "feel like makin love",
+      "payloadSha256": "4f8e4f98b1cdc2db08aede8f8245f1e9b7eb4f9336e4d4ae2c48dc6befd4231d",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "39d7b090c2e2f7b32dc6c0ff05dbed532474fb0486d9f4f31c3ad3b345ba5054",
+      "artist": "Barenaked Ladies",
+      "title": "if i had a million dollars",
+      "payloadSha256": "8517219328b743817dc020da1331553379849ae6c8313870f23015bbf482331f",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "d81d357664f531503ba232d0bb05b134ee2f75d2ad62909d7faff77d8dd4115a",
+      "artist": "Barenaked Ladies",
+      "title": "the old apartment",
+      "payloadSha256": "63e8d7bf22e60876005545efb4e566c96451bfd44080a624de747617e8255293",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "3a94fa9084227b8015c3ef2e943c5eb9c3877aa80867939d92888e8789d19131",
+      "artist": "Bill Withers",
+      "title": "grandmas hands",
+      "payloadSha256": "4f6333ba3c8ccefc61e95faaa4875a4eff830f003274180789fb6e3e0dae279f",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "35d6385e2bfbaadf07969258d632852be5daa5d1608c9eb0406708b5ed12e941",
+      "artist": "Billy Idol",
+      "title": "mony mony",
+      "payloadSha256": "a46eb074b0abe3bb97e5d7f2d289c80ad0123b5d1cf5deb54b3ba6c501ff595c",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "d46f221915613be3b7c39ca5a76f6518dd7eee7da8197e06f2e7cb5f73416827",
+      "artist": "Billy Squier",
+      "title": "lonely is the night",
+      "payloadSha256": "b86437a7eadd49989e24665683bdff7eb3f820643dc429ddf5b16ccc64342304",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "87f6345db96cc943c40af2c5ff3f95afd0ff0bea16ca8b0ebc4824d831553e0c",
+      "artist": "Bob Dylan",
+      "title": "just like a woman",
+      "payloadSha256": "e42ef4ffbf5019b17a7f5752df9b8f82cca30e7a8981f04c819987c93401921d",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "ee36937619d0b9c0f5795642160d45a6159e712cb17ee8f17d826378d5a8d4aa",
+      "artist": "Bob Dylan",
+      "title": "subterranean homesick blues",
+      "payloadSha256": "0bf22e1e9b074eb3ee61af038c772b8f23f2eba7329d9468a6a380dae80fce70",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "ee164afa285178d396857a03a17da0d0e3bc331aeeafc52cbde2e772ecbb199a",
+      "artist": "Bob Marley",
+      "title": "i shot the sheriff",
+      "payloadSha256": "2fd83bd3b50db71b6a6e6cd75719387c090469e3812c7149468f61c092ea6305",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "07dc6e5fa8c0aa36b2eab68eb42d14b3ca260c11d5db9cd99620cffaf872533b",
+      "artist": "Bob Marley",
+      "title": "natural mystic",
+      "payloadSha256": "f40d4b75633698cb127c96b39981c81fb580814c123fed867eda04efb912ad85",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "728e0e69623c9a2ce39ab9f5f1299d8c834c86b47c7e806fb4952b91235d001d",
+      "artist": "Bob Marley",
+      "title": "stir it up",
+      "payloadSha256": "e41a2a1c1bf56524687b4a7ac44b6613d7286d8e76054b4c42b2154640997201",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "102d38668bf4756984bd7d84afd07208930748c2d9b47953545ad5a1dd8d482e",
+      "artist": "Bob Marley",
+      "title": "waiting in vain",
+      "payloadSha256": "6097dfeeef562607951ca3248c3be817bdc5048feb6ee2f90d26caf29414883a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "3a6109e784834b02f1709f304d8e0f902c934b2b03c22b1eaa37f1392341b518",
+      "artist": "Bon Jovi",
+      "title": "keep the faith",
+      "payloadSha256": "2cbf4c2c9a6f28156c11d97726539a4df325941725729991ca1f0d8ad6e36ceb",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "76c93961a5f4ea24e9eb737469bdd11763fe965cf167fff6a1a93b0983879a0c",
+      "artist": "Bruce Springsteen",
+      "title": "over the rise",
+      "payloadSha256": "6a717a98c760b6a6f97db9b5748de1ddb291329cd9cae86f90536e26d4b173a1",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "5a8b0d14ad0aaa888719c0a37a2f227b7135db6c6f69a64d1db04efa4c822222",
+      "artist": "Bryan Adams",
+      "title": "have you ever really loved a woman",
+      "payloadSha256": "e535e04188f9cfd2522227138747047e1f3e43cb35fa05975e528556216d7c43",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "96b683b0d94e50b6ce84350dabd2d605efac00fc67f847d59d3bff935a3217ba",
+      "artist": "Bryan Adams",
+      "title": "please forgive me",
+      "payloadSha256": "e2eea06980cde177ed182b3f505e7ef0ffc1dc776fcb5dd1b758eb5be98d0bf7",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "754bfe356c0e0140c669504a04013835b4d33e5199688c879690bf5590a572dd",
+      "artist": "Buck Owens",
+      "title": "act naturally",
+      "payloadSha256": "3f31fa15ecacf408098b8e77c11b7b019d2c2c6fab7119b1281d6d4fbd5dd1c1",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b5a2c0a0c5d5a944656016157aae85a0b0d604f11bb8b0591dd92a6db66029b8",
+      "artist": "Buddy Guy",
+      "title": "damn right ive got the blues",
+      "payloadSha256": "1269082d2c4e934dca6b8d5b04b43fe499621256f00e6ea1a38cf369fafaf257",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "da754e244ba4a0c2f48edb706bc71e972ae31584d71d294cb2830ffc95b14a81",
+      "artist": "Butthole Surfers",
+      "title": "who was in my room last night",
+      "payloadSha256": "d26f219d9dea5cea3cb68565c8a66722075fd5d74eed3926a1a54d7c5e7f9231",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "d04b4a390da189b5151608bce58b084669936cca3d6c34c7268a1f5feb460fc0",
+      "artist": "Cage The Elephant",
+      "title": "flow",
+      "payloadSha256": "295b5d516921f726f3029bf238e1e580d1dfb83234ecdac1855b08f567e21169",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "f0c4f35f78f23e8f38a024f06f9f391407ec374ba597555a217c76154a0c2471",
+      "artist": "Cage The Elephant",
+      "title": "right before my eyes",
+      "payloadSha256": "38ca572263925d5d6af324e58e75e743d17f0a35a9d701f2993dd5c0f016f045",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "ceab83c1e6272f7c083deecef792404e4a51c081b5ddd4ea13bec9ef370e5de5",
+      "artist": "Cage The Elephant",
+      "title": "take it or leave it",
+      "payloadSha256": "dc6cd238f754ca9f5fe57f415d3c7bfe02b99e56d0b2a3f5bd74f5f85d2a61dc",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "4d512c2bc44827cd07b20f05eae29c98312cf47fffa180e30cbf25e0313ddcf9",
+      "artist": "Cake",
+      "title": "frank sinatra",
+      "payloadSha256": "49786067694667cffc35f0a39589e967eb293d174cacd7a5cfdeb3e1282091fd",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "efd0478726e7a91c5551f0c6c2d763bc7d3b6417b63dcc334abe324f20f7a7f3",
+      "artist": "Champs",
+      "title": "blue moon baby",
+      "payloadSha256": "82699ca2d2476e714f02f3f44b23480cfbc729962cd8bd10ed3b3252b19e6137",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "9e538862943785a05a33de651e51860c0948729387014b2c0853d22ec86bfd04",
+      "artist": "Champs",
+      "title": "chicken",
+      "payloadSha256": "f9f5b2de7aa5915eb05e70ef648536617544283e6c0779802df1fcdbed5b1d0f",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "50adf125f7c7c4f4a341917b89c092351026f004a53496e79f3ee671de1d91a6",
+      "artist": "Champs",
+      "title": "domino",
+      "payloadSha256": "430b17f32cfc39d3a999a1ffbb94323097441f3c60b0cd90fcb6fe50c89fd2c2",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "9a5aa7a729108726c61496784fa4bfc387c5a8f8465aa46810730465edf1a7f9",
+      "artist": "Champs",
+      "title": "drug train",
+      "payloadSha256": "2c0bb973640a3f65ca7f03fe99d3812a51422bf46383037fa51e21a281ce0c4f",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b28f39728ba30a8b335403903261e66b244c6ec36ad9346d346d06e9df9b4916",
+      "artist": "Champs",
+      "title": "greenfuz",
+      "payloadSha256": "c6d5d13275b168eedde0602696317fa3fa5ab0356343c12d8f7b95f0be1dac32",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "ca8b1b209cba326fa524f4ea61cd2806d059b1cf0ed71dbd6f96703e33ba1df0",
+      "artist": "Champs",
+      "title": "human fly",
+      "payloadSha256": "213d169e83b9d59e31c0c5d52f6417e461405b1bd0c5f2447f671b919a1a03ff",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "0865dbf1c2a65128604822a4a144102aed3b79bd5b2a4a26ff87212a4148e64a",
+      "artist": "Champs",
+      "title": "the way i walk",
+      "payloadSha256": "2fb730b865e5eda5ad5d48cdacbf61be78554adbe83f89b77b1ea251343f1d4a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b6203a36a060f7827caf7399f6b7dbed09e4dc923dff7f04e70a7b41ac6c9493",
+      "artist": "Champs",
+      "title": "whats behind the mask",
+      "payloadSha256": "c83c0d6e676ad7d3a4bcb10af2ba764437408ce37b00c03ca5bc04d20012d211",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "c2e767021a5e7a5549a43d486bf45ea759998954cc55a5c1d25f925e1fa3d1c4",
+      "artist": "Champs",
+      "title": "zombie dance",
+      "payloadSha256": "2e3ec1830bb56e196f1cc2b3df634e4017f15b23da441b89759281e0c97b4b59",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "6f21424845152235bfc81d21d9474e5db646fe9e4ecd7a8f80d959fdc10ca7ae",
+      "artist": "Cheap Trick",
+      "title": "oh caroline",
+      "payloadSha256": "ad12daa057f07ed0dfa39c325d7e9479a0a291f92be8b801d2f936f67c02fe95",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "e9ec1a5132ab5f9fe885b0edac6a068cedef26ddae3ebbae0c80ba64913b342b",
+      "artist": "Chic",
+      "title": "le freak",
+      "payloadSha256": "7797d54bc5817c10cefa2f0c496c0f64977313f33f42f6dd86e99d53531aa3ac",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "f3c6ce9b175b39a5a7209965644664a1d74c6f0dfbc7da21bc03d0cc146963b7",
+      "artist": "Chris Isaak",
+      "title": "baby did a bad bad thing",
+      "payloadSha256": "fd4515dad5738a1b88dd9d093370b9e6baedf681c56ffdd6c4277f7831172f3c",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "18927e05ee3217dd50541ff2ef3f135df23aa4e131e462b2f5b04442d48ee464",
+      "artist": "Chris Isaak",
+      "title": "wicked game",
+      "payloadSha256": "ec8efd3a4d8a9ee0a8dc906ac28322205d8836a5fadf2ca90869997740b241b2",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "f62d8d41c33551bba5986d934ecedb265516126b1a981cefa404b19c611bcc71",
+      "artist": "Chris Stapleton",
+      "title": "devil always made me think twice",
+      "payloadSha256": "6669777ea8c9f8926fff9d1524be7f013f2b0b5db85cb462be86fca348de1235",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b18bccd7a868fc7063b4c62fd10184e3aa1a51e3ea7779dcda6e2776730dde4b",
+      "artist": "Chris Stapleton",
+      "title": "more of you",
+      "payloadSha256": "ae88f5d99bbc2d705895a41285af00271096b6319f92bac4d1d195552c2556ca",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "c2fc0b163f87e5ad1f19000d54c9849d54bf1ad2a0edf35f4c8367e5a9df845f",
+      "artist": "Chris Stapleton",
+      "title": "what are you listening to",
+      "payloadSha256": "fd1a13173ffdbf56632c8f3f32d594cf44d5f078438e0d0c493a017436d6e283",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "0cb2fa8406653402b39cee04c725913800dfef127f1712a649a25c5ae3892ea7",
+      "artist": "Christy Moore",
+      "title": "ride on",
+      "payloadSha256": "bd0afaa62cf887e2e6be8c1ebcb02cfeb72166f80460423a918ab01456aba6dd",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b2d9ad0992178e4dc332977b962bf0e26d9ef259fe2c738705c4b72c1132d0ba",
+      "artist": "Chuck Berry",
+      "title": "memphis tennessee",
+      "payloadSha256": "de0e425e007cd511924d76f6e3d1e3ef97a7b5a1fe93e7643af724c4ea3890dc",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "66c7f868c2c5c600e9e4d4a6f92688f99974a0317fb969a273b970f642e7665d",
+      "artist": "Coldplay",
+      "title": "a sky full of stars",
+      "payloadSha256": "86d5cb98e3f4e5cfc619ea4b00e1be360a8779bea5fc4c71c920f97261a47039",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "149b8d372504760a7cfd20ddbe56ccfe5d35632d2bd2f9da564e41443c638dfd",
+      "artist": "Coldplay",
+      "title": "cry cry cry",
+      "payloadSha256": "12f847f2b007a99124a0b99447cb78a5d290be6bf39a3afb723ce97ec76d011f",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "a03bf349d16ccaddbc22bae816b1e348e43b2daba7c10fa75e1a66722c3506e7",
+      "artist": "Coldplay",
+      "title": "paradise",
+      "payloadSha256": "ca801ab293eea295ce148a5c1b6e54de7902b7e644b60c31160820537e658659",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "ef273ca30d74277dd9b309aa5bbe0eada6fa28248134d63a5c4317b5cb3343a1",
+      "artist": "Coldplay",
+      "title": "the scientist",
+      "payloadSha256": "8d184723d8b54a792bfd9f9370fb2ac2163965ab390fe1f15ace2e73d05cbb34",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "2bff17bff154457619348ca33cebb393ac20114d764af6736bdd1399df05af54",
+      "artist": "Creedance Clearwater Revival",
+      "title": "i heard it through the grapevine",
+      "payloadSha256": "3a978efb2b902c294821658eef11df0178ab4630db10b9573330d537d030abec",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "c1b2ac33c5ca9a6f0f6e189b35882dc6c66a49539520db838d838966dc70fdbe",
+      "artist": "Crosby Stills Nash Young",
+      "title": "woodstock",
+      "payloadSha256": "d44656616bc4346a7f356b801ef56968ba4a9df1797a495f6535a32349fede7a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "48a4e39e2023f6ddf7e2695e1cb193db1ab683e7cb20077024af252fb8d98472",
+      "artist": "Crowded House",
+      "title": "weather with you",
+      "payloadSha256": "3bfb332f6809d0e0ee83a4627e808a7cc759d835daf84e9233679a32a7709588",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "61b5ccfe393786cdc30c34895425fdea49165c11edc2138c8a31ea12e9b93a32",
+      "artist": "Deep Purple",
+      "title": "lazy",
+      "payloadSha256": "a0803b92ee34803dee0c7fec5feade1b6f4109b6ac6fa8c1082f995461c55a92",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "1f7681ff00a4935ae4117da9767f28451dc07f72ab4f1cb114cd76786963e36a",
+      "artist": "Def Leppard",
+      "title": "rock of ages",
+      "payloadSha256": "723c5a59ef6c1703d9ec7474cb12246ea7842d31e5fea6a78dd600f379b4d554",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "3cc243c8e6c9a0920fe4ec63ad96d4ce9b98731f95c2f8a95d187ec058dfccd6",
+      "artist": "Depeche Mode",
+      "title": "never let me down again",
+      "payloadSha256": "a12b7bdd74cfea843a45cb8887b20fa86f92313e500b0cbbba261e251495da3b",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "6cd93106b9b2957644dcd60c5878ee2eff35f3047ee66bef45861927116b4119",
+      "artist": "Depeche Mode",
+      "title": "policy of truth",
+      "payloadSha256": "eccdd1f5b068c69dac08c4e7d9c808c076eca017218698864a6adcb1662a9fde",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "aa171d8448cc8b3b1b8e8c9574f552f34eaa2c57b0348b34526241bf157782c7",
+      "artist": "Diana Ross",
+      "title": "im coming out",
+      "payloadSha256": "a119ee76c2b43fdac92732fbf0d4c517761cccf4553dcf8b67cc07adfaa14329",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b507e89561babbbdca2a68f68eba3b481e8d5f950ca12bb37c9080c89f0dd17f",
+      "artist": "Dolly Parton",
+      "title": "jolene",
+      "payloadSha256": "c740a38f20a69f354166f286d6724562c9eba6008ebc4d602ca186787cd66a5b",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "4b5fed96c58053fe34d99a97835b855a21d8cee146446f7264cd1daf0166606f",
+      "artist": "Dolly Parton",
+      "title": "kenny rogers islands in the stream",
+      "payloadSha256": "0b0d72633e6b32c84db180815e7d4199b45463f6879f8aed842eaa7b05fb0a47",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "27938e8a4e346ec6a5905e9ac18654b0f72cbe9ab685c6cd6814c1aac663d15d",
+      "artist": "Earth Wind Fire",
+      "title": "boogie wonderland",
+      "payloadSha256": "556b90d55705dcd3e9266057fe706614ceffee3f23d2e3fd0068d1aa3b2c173a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "a3a7db6998a3e9a4f474457e3a27c7b12d4be194da09e1c141c66b16670de8c9",
+      "artist": "Eddie Money",
+      "title": "shakin",
+      "payloadSha256": "a5adb429c3abff7f95c239203d13e367167b6f4161bdcfbbd96105e265b9da82",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "9ed1496645a6d4f37dec170ac9537a44afd2651a85e7f314e7b7fe1628790c7c",
+      "artist": "Eddie Money",
+      "title": "two tickets to paradise",
+      "payloadSha256": "c292dacba177132e5b7374f550b168bf130352caea2ad08207504c649f77118c",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "622be5ee1a204359294e379ff84c53e5daa751b52e31369454c0cc5f1f151729",
+      "artist": "Elton John",
+      "title": "dont go breaking my heart",
+      "payloadSha256": "751af6cf043fb027e1186d65cb0e48074c0a1f40e60a90b2eb2e7a20b2bb30f7",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "4c27d9b0f85860669a36c7aa5acf38f745fc9529e7322d06c220153edf7996a7",
+      "artist": "Elvis Presley",
+      "title": "all shook up",
+      "payloadSha256": "c59f2a2f6993aace1f127d0d906488da979293a9476256e88c147d69e1fd263a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "f70bd7fe87a195071a7ee9c93e5be24650c84d0882dfa886e0845cdf2debccc9",
+      "artist": "Elvis Presley",
+      "title": "burning love",
+      "payloadSha256": "4248ad31e51486b32f63405f11c44d0f1b1099272d54a70b8a96d50de71179f5",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "bb792e282acadb5b9cc6133fd6fea3b445a9f7c2421edd46bb2421bf1da99e19",
+      "artist": "Elvis Presley",
+      "title": "dont be cruel",
+      "payloadSha256": "f5d503284048c6e4b7c0c8bd61ed6c41bef1798ff206ce46ea6337c6288eb195",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "319f00fbd3f02ed329d25b7be8a99ee1908b0630d3856e0b5786212689f8bd20",
+      "artist": "Elvis Presley",
+      "title": "let me be your teddy bear",
+      "payloadSha256": "9928565a8859c65c1fa9b6062e1270ba8f20faed79ee5157d38792783eea4082",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "d12b5b7427552557b6f210183ebc7f0c5f6cea7c9ccc1ab1222d38ea356d40e9",
+      "artist": "Eminem",
+      "title": "farewell",
+      "payloadSha256": "81dcb0942d015b319fca698b47e20ad626a642f25eea1674fd22a9156228ad08",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "3026eb9dc0c4d4cdaaa5d494d8519962fb11e9ccf9e143118c85542fdb4b7100",
+      "artist": "Eric Clapton",
+      "title": "alberta",
+      "payloadSha256": "82b4dae43d0a0e485b6f72db85d107eeeead2636c9e9b6827d5ea5ea0988ec49",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "2eb8c91e6d2969bb64b2831ec380ece6fb8052261711e5c6355203e3bab9c44b",
+      "artist": "Eric Clapton",
+      "title": "bad love",
+      "payloadSha256": "0ca6a193a7f591403785974eb2a5abed9d374f2976f08359184de3a8611f439b",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "5153b8bd59dfbbbd8711fb0f3980bfef9bd7eee46f8801cb9941e97844064dd8",
+      "artist": "Eric Clapton",
+      "title": "cocaine",
+      "payloadSha256": "e2c9a7744250fd360876308020309d59f9af94723c00003bf6343a5030a3cc43",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b7f772aa015d3426763d5e9f9d1a0d9129966088ecfd5e4feabf4809a49e1d22",
+      "artist": "Eric Clapton",
+      "title": "howlin wolf killing floor",
+      "payloadSha256": "8784ef690b0af263bc859e68fe6951e82c38a48632e6ea4942515bfff6632ccd",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "1db0b7c2d6d2f9b6035726e17aa685423558868d3d586e62237be48e19ec413b",
+      "artist": "Eric Clapton",
+      "title": "tulsa time",
+      "payloadSha256": "e1642c374ed2695d2046e52075e9facfd1f44e72b84674cea168e8447519a9c7",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "7ad2a94df3ed634e1dd5344f73f76e6336f5b27aca441eec47f2196194de07d0",
+      "artist": "Fitz And The Tantrum",
+      "title": "out of my league",
+      "payloadSha256": "0ab02028b3a1004c3418e217ff82bb08947e81c9a20b606706ceb5d3cfbca0e2",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "76d0eb17ad662980b8c34daf28cae5b1bd97948e7c477d772097af3ff1368e97",
+      "artist": "Fleetwood Mac",
+      "title": "black magic woman",
+      "payloadSha256": "f1d9462211ca9c8f37b5e0e99afbaa071283ea75416d6d211069d7f7e52f3903",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "6eb4abe6fa6d80510b3d96e2d97006ff8d9527da7773f43efb9e27e7a9d4ff91",
+      "artist": "Fleetwood Mac",
+      "title": "dont stop",
+      "payloadSha256": "4be363c87aa98fcaa553fee621316fb052e221524aa8b66fa42483dcf9ab6a32",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "70e27edbc42e0ed6ce36946b319d58da1dbe178b4ddeb084cfa07b94c3522d81",
+      "artist": "Fleetwood Mac",
+      "title": "i dont want to know",
+      "payloadSha256": "17ed6d59fbcfe33d173904cea833f019c886b3e427868cddcdf9c7c658d0a7ea",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "0425f5d6ecb9b9b03073c5a03eb2ba7eb31756fa30f1c24a7bddf344e575300c",
+      "artist": "Fleetwood Mac",
+      "title": "im so afraid",
+      "payloadSha256": "5562f6e3ae594bfdf4c98ae200b973e1d2fb4ab2cc91c1a1f9e057ce40bf59ed",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "9262421b9f9972c4fac87174c2fed1c7b7310a6b59f8c46bd3617625451459d1",
+      "artist": "Fleetwood Mac",
+      "title": "little lies",
+      "payloadSha256": "b6d418f5a2990fb76e4b76dc032695c4e7c64d7795d5e1b1545bb857308663ee",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "358088fa3bf1f58c94adc35c4d7aa8872871f67ea260331d8d19abb0406e4630",
+      "artist": "Frank Sinatra",
+      "title": "something stupid",
+      "payloadSha256": "8277dfcefe5bc88ba25bff7d26e27c10f5a7ec390bd66672b91d5763fe5a97c6",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "8d8854775cf9ae24228a33a066d2ce50c551ad95deb846d24ed61a9dc6ec15fd",
+      "artist": "Frank Zappa",
+      "title": "my guitar wants to kill your mama",
+      "payloadSha256": "787446aef0fbd7bb87f70c293bdc4d2721ac01c7db021e993b17f13c6d9f253f",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "fc4d8bdba3b5720d3aff5b4bbb73047988cc7445795c4f4fa3a075aa98defb36",
+      "artist": "Guns N'Roses",
+      "title": "aint it fun",
+      "payloadSha256": "8d82a38bbeafead74598c53085ab3fc6fd53747907fd89cdf82ca6d353a37286",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b0ade9d65bcb3d711bdf020a29e155824fcb52b4b684ceab13e39a7381c094c9",
+      "artist": "Guns N'Roses",
+      "title": "shadow of your love",
+      "payloadSha256": "1669ad6be66f97f44a485a6436d6ab4fed3b8d4910e5da7083d0d175aad76b55",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "82d685715075d58eb418d75ec8d14ce153e3b4b399a7c7c788f023398a105cf0",
+      "artist": "Guns N'Roses",
+      "title": "youre crazy",
+      "payloadSha256": "4797841a473fba2eaf6107b6f502ade8e2c09697fb9e7ffe2e5ceb5313b5dffc",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "40fb8ba570139fec679060615f2791e923984188680a83e1904e56859c6b38fd",
+      "artist": "Hall and Oates",
+      "title": "i cant go for that no can do",
+      "payloadSha256": "23f4fd17d9a68e78f683916dcca9447221edcd6aea1e19c26ad986e505e1bde2",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "805db2bd759799556af04bd1289bd6ca612bc1faa19b2b70ee87ac79e00d732f",
+      "artist": "Heart",
+      "title": "magic man",
+      "payloadSha256": "91a34b70bdcfe96a8767dc7085c70c1fa0c91e8fea450e678f736d0150829396",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "ac4f5c45c2c25aadb7e187193a09e805b61a15251ef0136c04e951f17655d026",
+      "artist": "Hootie The Blowfish",
+      "title": "only wanna be with you",
+      "payloadSha256": "1ee2c6c3fe0c9d3701cbd96e7b8895d181658ad0bca5a34719269e91c0821a79",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "545ec7b7aec027cf72b09702b9d478fa2b75583df9b04711ebba951e06dfc527",
+      "artist": "Jason Mraz",
+      "title": "making it up",
+      "payloadSha256": "8e9be20d8036855f6ecb7405146a74d3d72c2de62d70071f898bc7cd3c000fd3",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "056c7bf38746cf7ee0d5c3c2512b55cb7f2b9d85221af24dd57d90b1cfef69b7",
+      "artist": "Joan Jett & The Blackhearts",
+      "title": "real wild child",
+      "payloadSha256": "cd413d834ebfc02ee828006ebbefd7f60371df23cbbcce3d5cb1535008e61880",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "91a739f38368dd74faf7fad181bff88033685374d3432fc1dbc3f8a704eaa638",
+      "artist": "Joe Jackson",
+      "title": "nineteen forever",
+      "payloadSha256": "82b27c86f0ca1a7fff42507815351a2c7e84d3a12d62bebd57bfa86f602313de",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "1ed24096395e32b246be1178872777581e7fcfa540be1dab8e01695d581b8701",
+      "artist": "John Lennon",
+      "title": "oh my love",
+      "payloadSha256": "e0354695e5899e9b91821aa4f67cad8222cc337c2a9960d6192b479efe049d53",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "40244a2ae420a85a0e54d074c8e4a51a3d101f42f5974be5644c980bda1b4c00",
+      "artist": "Johnny Cash",
+      "title": "a boy named sue",
+      "payloadSha256": "2f83058672976b88abf04404025424168c0e2f54d1f23e0ae2908f412c478f8f",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "fcaddd565ebcbee638f3ccbb1314ee907a66151691aa42cf58bfefdb952dc0b5",
+      "artist": "Johnny Cash",
+      "title": "big iron",
+      "payloadSha256": "c68df1b70f32d5a1a9b9b479a84e3b949b3afe7798781c5ef15c4282d0c25205",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "c2d0addfc7d80cfcd351a467418dd669bd805805dc3d35109b552962a6544100",
+      "artist": "Johnny Cash",
+      "title": "cry cry cry",
+      "payloadSha256": "ba3bfa05fd4fcc11360e2e887559c3c6fdfc6a5d6643372d951a52592fbec58f",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "377ceaff63892317419d7d5539d2524529f41e66d025d5918b72600b9bec7be1",
+      "artist": "Johnny Cash",
+      "title": "danny boy",
+      "payloadSha256": "a0d3e8deb2b30de7c116f991fc175920f7ae832e4a470eab1cb634d11ec5a625",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "ce20d45f8cb9c1a8c24770857c0ab6ca9fac5bf4d8c0f2da54a7850f84de957a",
+      "artist": "Johnny Cash",
+      "title": "dont take your guns to town",
+      "payloadSha256": "c497f592babaebddfa3b26f9e453e4e6741e532f8fe74493723af009eb31be6d",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "387790633cb8467aa65d5bab043dfe36b0c38b409122ff5d4baa3b116da8081a",
+      "artist": "Johnny Cash",
+      "title": "the man comes around",
+      "payloadSha256": "acffe97621b82b0d33d92559498352c2c7d16296c9baf395a2591ef01b200fd0",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "0d2da4b0ebe87d87445a951d000c5e909bc227895ece64590fdd03b5a2a7e48f",
+      "artist": "Journey",
+      "title": "do you recall",
+      "payloadSha256": "78744960becd48be95486032aac2a6fd6529d10e781d104d717a8e3e5fb0cfc1",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "52eb71b7b3444264d87b84300b78f98db6eee7d936a283fae84ce33f841a16ab",
+      "artist": "Juice Newton",
+      "title": "queen of hearts",
+      "payloadSha256": "0eb10e83a6150c611e8a124fad03e66a1c03ea2a72fd5c2949728841596ad647",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "c20b8e542a1e9d1e697b7a4ff789d0288d79b06b18c8fea96abcdcdeff89719a",
+      "artist": "Katrina And The Waves",
+      "title": "walking on sunshine",
+      "payloadSha256": "15f4fca888134c631b4ee4f3a2fdd9ed3d3d6a740d6587ed9fa848212c8da900",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "096e62935e9116a18042d13cdf834ded0206065102d0772b34941f7b08bbdfa1",
+      "artist": "Lady Gaga",
+      "title": "enigma",
+      "payloadSha256": "961a287973b16903260ef1bb66cbc7aaa20356f2966acec8ca192224876b2cf3",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "1af837d105bdf28dd50361388b2a7573b7f2fa9fbe3ac44870fab58a2c7c44e3",
+      "artist": "Lady Gaga",
+      "title": "free woman",
+      "payloadSha256": "daf76b9b2ad27582b1ae981d27c3d3390a87f12e52f10fe48d16c5a5534ee85e",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "ce4cad6718d3906d119032b8ac9b5d4024af8b328f792a002de43d88b5d1fed3",
+      "artist": "Lady Gaga",
+      "title": "just dance",
+      "payloadSha256": "acdb26644f589616b2e32c9288ad2c8d58979da2a11e7676376d2e8ca6600474",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "dc3a4c05ad27c35f3c31e5d5e2a20dc2a8a56b2e4b99435b0b76cbf1351685cc",
+      "artist": "Lady Gaga",
+      "title": "paparazzi",
+      "payloadSha256": "5680772a9a93e4614e340f6cd67e588f1940a7cc5a19737602ae4b0f29d477c8",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "a20de73e1830efeb8169e56280eef1b313663865f0c88509e3f8302cf28b183a",
+      "artist": "Lady Gaga",
+      "title": "sine from above",
+      "payloadSha256": "582fb2b4c8d0658ac8d64f3dbd2db239daae9fc99ac78746904e947b97956042",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "f6d25984afc010a11b26475f3fa2229825468523c80a576e59e07dbe9fa078ab",
+      "artist": "Lady Gaga",
+      "title": "you and i",
+      "payloadSha256": "9eb3437b4d44217b47f9f878a1a589f04c3e42fd88551b632053c0b4a5a8dba7",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "45af4e67832e48d8b1c3dce3efd0c530a425110925acaf3be4e6054b291e305b",
+      "artist": "Led Zeppelin",
+      "title": "how many more times",
+      "payloadSha256": "fd473cb1dec95e2c79cfb8760eefc149f7aeb4d008311822e282b305e3f9a723",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "ddd6d0638f343bc55079f5369e9cc0e4dee914d4037dfa737a3f0aafcf1e20ab",
+      "artist": "Led Zeppelin",
+      "title": "in my time of dying",
+      "payloadSha256": "da2f005a0131465d4da9b8be714d44126f6008b4ca71c966336164d68f243f04",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "99265f30f52d0e38f73deb42ee06a15d28f8e6df71a00f210dc472a76dc1ade0",
+      "artist": "Led Zeppelin",
+      "title": "out on the tiles",
+      "payloadSha256": "f3a773bf55fcaada204780737f495206de01c007f8214733a5d77f7932b8a575",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "0e8eecf3701e385ac32a2bc48a9548fab72196794688c482947940817cadc9ec",
+      "artist": "Led Zeppelin",
+      "title": "rock and roll",
+      "payloadSha256": "5777e7184156cbcbf44ed1e1dce91572d3742fcecf2c1b3bcde7db2ad89ed12c",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "9cad9051b2752204a35c9ff8d31e3d1978c6cb56d1f6caa34c2546926f8b6f1f",
+      "artist": "Led Zeppelin",
+      "title": "the battle of evermore",
+      "payloadSha256": "31fcca10fa74f613ae5691ed40f68a801a14e11ddfcff0ff58582bf340219e75",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "70c4e3883f67abe8c1f6e568ae62f9a7576215627c8cbb5adc1a846df9ec4a2b",
+      "artist": "Led Zeppelin",
+      "title": "the wanton song",
+      "payloadSha256": "ecc121d50270983bc472ccdffe299cb6b4e0e9e2f4b9519a457f9242cadf2bca",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "ee4426028eed5330d408eb99ef85847e395df79dd689656fe1a5270c60fe0b51",
+      "artist": "Linda Ronstadt",
+      "title": "youre no good",
+      "payloadSha256": "b5671faae29c790e58f90176032f4caaaf62b34a64ebaf07d3a1bc8653b2a059",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "1addd86b8f3186b8806de3d6528ee1b9379396af254e5e7f1e3fc8cd0c18aaaf",
+      "artist": "Linkin Park",
+      "title": "waiting for the end",
+      "payloadSha256": "8985a1f43d9ddbe9152eb3f79e4f9157fd7e798327fdf40b4744fa3347bde371",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "ca51458a2edb42793590ace273261aaef606b614474760bd57f2e516876e2182",
+      "artist": "Madness",
+      "title": "our house",
+      "payloadSha256": "cc375f78dea4579e6b7213dea2992806b56a88360b9c7169da20c3028289258c",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "2fdc51b99a10acc650c4c0c990048cd11b83747ebb51362124ea8987d8099c7e",
+      "artist": "Marianne Faithfull",
+      "title": "this little bird",
+      "payloadSha256": "10ae5a0c0fa21ef7e3e25aaa4689d43dcb47d389fe1bdef9533e0e72ec171f29",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "33561403d314ca6926fbe7f774e2fa0e544c4ec27bd73573f6520edc3eacb3b8",
+      "artist": "Maroon 5",
+      "title": "lost",
+      "payloadSha256": "219fccba68df71903aca398cef529682924fb9c36f378b8333d853a4dfe4ff1c",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "bd39ce71756385ad242dcd0ac5f0ac4d7ffddc37b57f88c568b4942c5bb64627",
+      "artist": "Maroon 5",
+      "title": "lovesick",
+      "payloadSha256": "098743d719ea1390e19bf12404e4e3ee1a36a9f23bd0e24c1e0e5d619de9b7c4",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "bd8542c2cc9dca6f13add448866efa87af24f107b40b94210c67eec31b9aec14",
+      "artist": "Maroon 5",
+      "title": "makes me wonder",
+      "payloadSha256": "6c711756c5e531b610ce6d94202ba53e9b2bb2baf5cccf2e2c26d43a4ba258a2",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "1d676832f1b867457b951d7d22bda6ffc30f837a0ab502167a519b25b0fe3637",
+      "artist": "Maroon 5",
+      "title": "remedy",
+      "payloadSha256": "441f9c125e8cbf1fa97f52cdcd42920b482b9c09fb41b28715fd1c9af5d360c6",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "4aaeed4ef016343d3b4cc266ff50ed455b4693604715446ba8c86aa466255342",
+      "artist": "Maroon 5",
+      "title": "she will be loved",
+      "payloadSha256": "28d8c98e4682bb8092e53271819717ea340906277b3cd86236665a4ff0a26c4a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b23ae18f935cfb216d4cfbba594d6f5a2f7e158ba73f5018fa017e6cecc2ae36",
+      "artist": "Marvin Gaye",
+      "title": "i heard it through the grapevine",
+      "payloadSha256": "5cb20bcbd1aa02c449f93a88709bc12fabb4a82807e6e339ba0241751bd2d3fe",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "59ff12afa1466672e1ee6953dc96ca187c784c6695c9c95c7bc05d7a7d22621a",
+      "artist": "Metallica",
+      "title": "low mans lyric",
+      "payloadSha256": "ed74c9f24ac1bb6f45daaf1980196463e0c444b9b12c119321c785197d2e8f23",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "65375a4511221ef9c7529c0c7bfa3064d2cf97dd95e7e06a8918d66b317e999e",
+      "artist": "Metallica",
+      "title": "some kind of monster",
+      "payloadSha256": "b7813b72be5a282480ac143df7cc5b6ef044d9e00ebbe78b02d0e7553f174bd5",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "83188315efdd48ce2792a6ab9eeb329131d26db41ecbd235cee81d0f051be1ff",
+      "artist": "Michael Jackson",
+      "title": "smooth criminal",
+      "payloadSha256": "2b738c6d2c662e6b28311734cb83da04984b84fdaecbb5ee97e702aea09a68d7",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "26ec1826bb99e8185e9ad18f6991bab242b58e37ff82c0e94eb48f0184a24a93",
+      "artist": "Mississippi John Hurt",
+      "title": "pay day",
+      "payloadSha256": "458320f38b52b13307e79db2fd09c4e41b8dfdeb95bf7253be486b222dfb8b50",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "a43dc3317eebb41823a6cbeb7f1afed4446eec6f6ea283de8c5d6ea54c746bba",
+      "artist": "Mudhoney",
+      "title": "paranoid core",
+      "payloadSha256": "dcc02a0859f2c9aa85e20a5b0b77e9754c5a22987f516b41cac37425d605c922",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "caef6019f116062f6d45a1412478ea87b98ab166c0d80fa0548787cc5e4e17eb",
+      "artist": "Neil Young",
+      "title": "only love can break your heart",
+      "payloadSha256": "7a0455e9e8708cd6f6364ae084994ef85fbcc52f6911c64959f2d8613396b5d8",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "3bb7f8277bc11ea84bbbdb42959bf1365c5169ba9ab0c6180d144b48974bec99",
+      "artist": "New Order",
+      "title": "age of consent",
+      "payloadSha256": "623b9f4cde81ab0842a921a895b668f3d6f91618bdb88cf481d2691b951feab2",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "3e3b44cc4733917aa6afdc5b6655cedc952acfb3eccc0888025cb82a60a852fc",
+      "artist": "Nick Lowe",
+      "title": "cruel to be kind",
+      "payloadSha256": "905e9ea39cbbffad99e8ad98627f505be80c7274b55858599482ace790e679b2",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "f62913ac3726ab59aeb1d80900b2e79cb925035fcb3b901fcff2089870d72750",
+      "artist": "Nirvana",
+      "title": "frances farmer will have her revenge on seattle",
+      "payloadSha256": "0094e55b2594997cfcec6d9265263ebaa7f0cfb3008e1e6d676e77d30fd98d97",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "c20f03a8c7f1e0e37134def4e0ceaff820f4b8206f3e9fba53c7d79cb8323151",
+      "artist": "Nirvana",
+      "title": "very ape",
+      "payloadSha256": "e82c518f88cd416ea74b1a1e30c91ad9b2cdb20d1fddea2937872fb482f85998",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "c3c6496a0c9ccbdb16a6f876cc4c0000d40704c8939a4f7913275a70a39f9c82",
+      "artist": "No Doubt",
+      "title": "hella good",
+      "payloadSha256": "308303e32e79a2385fcb2b393cd6715615bd23e4a01ce5deda8710fa71f8afa8",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "da4a6a4d11a736cea1d6d2fbc6fa39873ce8686411300dd6aac8c3f022ec11db",
+      "artist": "No Doubt",
+      "title": "sunday morning",
+      "payloadSha256": "f1d9a9712bd1c6948a32b9e5f8f4053ca794c9676aff8d105558cad67c3e6592",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "d2511d7a8c193c5f52d8fdc4eb2fbb0f8c3d8a3db0b757044e0d93938589ab5b",
+      "artist": "Noah Cyrus",
+      "title": "lonely",
+      "payloadSha256": "5db6bf6475695bdbbc9032aa8de67d1e13a0780b83956efc7b11d3a64db65fc3",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "fdb0a247f9b263f0fd98bbc315048037b84c711e1371bfc4dd97737d166b6386",
+      "artist": "Oasis",
+      "title": "bring it on down",
+      "payloadSha256": "1129316a8fb8630c71e240c68609a67a12a0d066c6b6a16d0f961e72c9888144",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "72b397d8ca2ead07f38fc2666d00c822f453d2aab2f3141584d51c82ca4b74ba",
+      "artist": "Oasis",
+      "title": "stop crying your heart out",
+      "payloadSha256": "44c7f14aed5a5c48eae2c27ded849c06b563d0e380cb0ad590299312a7193034",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "e4d49386a3c6156d4435742af878627db2432d4df7410bc758591ddfe8dd8d8d",
+      "artist": "Oasis",
+      "title": "the shock of the lightning",
+      "payloadSha256": "4793c831067ace2ed770f2080302d62c186588b7000282cb1cf5530a4f10ac8f",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "d863b0dd362adcaa3c4ab323ead106bed3e491d8490992a664d350da519f13fd",
+      "artist": "Olivia Rodrigo",
+      "title": "drivers license",
+      "payloadSha256": "db7883b9f75a3f15091633754188b07f9857635a94a4f8ab9d6e5163f2f99bc2",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "d50d0bdd1bca3cb0a2fe90e3299c0a084e0107eac43b47f0f31ec12cfad7a395",
+      "artist": "Otis Redding",
+      "title": "hard to handle",
+      "payloadSha256": "cfde969578c34878545fa01b9c0c82416cf29b39b26730226b1153d7efa1660a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "952dba506df7a14a3a10fe09b577f916ac9a661b1563796244db5847f1366676",
+      "artist": "Ozzy Osbourne",
+      "title": "crazy train",
+      "payloadSha256": "ff9fa5632ee107d9f1a5ba48b25c78d1b49a41db1f4e6cc619c37af4ed366821",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "8351dd24d78cdc628a0434ea1a852a07184b3217eebd2c66b815ba3213c237a0",
+      "artist": "Pearl Jam",
+      "title": "elderly woman behind the counter in a small town",
+      "payloadSha256": "b764f9458a98ad8dc8c82c9d1e304de0da82ef10349c29d0ab4a319d4eeb69da",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "4b3c0c61c34071627873de1b3e5f4d41ae84683cbee38b47ad8b38bd6eababed",
+      "artist": "Pearl Jam",
+      "title": "sirens",
+      "payloadSha256": "d25b71be2982ab85035914e68f2097e8b13d0167c853391a8c4831813b73631b",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "a1a219141bc71e866d8e38ff66558eb0c74609ea25d6cc40f96fe7c0d1f50474",
+      "artist": "Pearl Jam",
+      "title": "wishlist",
+      "payloadSha256": "e9fa3145eed925d86a1f9c64c6d5745bd41e1afb3e3519d95166aba01d608c19",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b66d44f195f9fffd3ef5ff288d99e635ae68f17860642691b672b3b6ca674bad",
+      "artist": "Pearl Jam",
+      "title": "yellow ledbetter",
+      "payloadSha256": "37b5b02f08715ad47e30854f188fc1d1a14b35378d293f788618f9ca7f2983b7",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "ec73b36798b4a94710d7fdbe83275c6b93a8118f3144fa78237c2bbfb52965cd",
+      "artist": "Pink Floyd",
+      "title": "if",
+      "payloadSha256": "11d1aea74961093e4a1f8676baf3ebb99e4b19bcb82509c2b90167c201cc5e32",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "cde8dcb0f1d3c2cc67d85e0a7c16832756212ced789c3f1cf7c5ce2206829012",
+      "artist": "Pink Floyd",
+      "title": "san tropez",
+      "payloadSha256": "07d96e03f765d6a22c1efbb65858ed806e67acd18c6417587f8dc7563e025342",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "10966cc0a67fccc83a72ff580395a74c25212d30f1682e321db5787b4f97a287",
+      "artist": "Pink Floyd",
+      "title": "sheep",
+      "payloadSha256": "ff5cf365ef548f70966eccbbf7b5689edc8e6d008f815e7652a7079f8d867857",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "136276b7ed3163d806b28352f71f4a74384e61c5f781d8cf10774d027c3c8b9c",
+      "artist": "Pink Floyd",
+      "title": "the happiest days of our lives",
+      "payloadSha256": "c5a003e228d5798e3cb29707572f1711596176e7df34c69e7144ace484079b39",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "c04f38e005b8dc9658feceedf2d8b2f0f2257b20361cceda6036f260edb44641",
+      "artist": "Pink Floyd",
+      "title": "welcome to the machine",
+      "payloadSha256": "49683d0282def55199081d3ad468d8490ca223adf5984137dfb45246caea02e2",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "61c9697b49dfa5bb6c61b29ba46c64cecb08b4c48614d91c44fd11b54881cc6a",
+      "artist": "Rage Against The Machine",
+      "title": "freedom",
+      "payloadSha256": "eaadf8341e2ea45d532fd14224aed54738eeb45bff2928f92daa2eba2e967fdb",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "ececce48356a437820ccf41c6c81ed519122769151de264efa4670ebb799ecd3",
+      "artist": "Rage Against The Machine",
+      "title": "take the power back",
+      "payloadSha256": "322eddb59f14ac3809aae99ae6448a808c23649299acf13535b6a84683690ecf",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "13954020d3d6e8e7db5025477e6e5c014f37d60eb35baca3f69d511d4268f2f8",
+      "artist": "Ritchie Valens",
+      "title": "donna",
+      "payloadSha256": "2e2fac6f9ecae9a395c77a46eeb06be5b56849750eb348f0a6d2fd6e2dfe97df",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "0b68d34083ef135d98e0f0233f48079363bf27b6ab9b01e6dd38948b2f691d01",
+      "artist": "Roy Orbison",
+      "title": "lana",
+      "payloadSha256": "515e271cfd804e71a80ff98baf47bb9d24b1e9b013d07c772a7155cb8d62b874",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "0c1f1b7f6fd9a4529974fcb8fc027fe29344cccc8fae3c9806ad2ad033ffb601",
+      "artist": "Rush",
+      "title": "anthem",
+      "payloadSha256": "790b363707321e1f646be8178ce2df1ec84ca36db209daf814ebc89992267096",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "03cbe4c697f51167389b88aeba50e2863c6d3daa828cd56ecda05f86ac17db70",
+      "artist": "Social Distortion",
+      "title": "california hustle and flow",
+      "payloadSha256": "3feb86919b2dbe7dd1efc345e0471a73bc77381a22e44d8351f8bfcff63dbe81",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "336a7fe3ca62bba4f67d30b813a0ede48b5e9a6a6859b7b08044441044fb7111",
+      "artist": "Sonic Youth",
+      "title": "kool thing",
+      "payloadSha256": "b5f84619b207a6e1e1c27e220e351599894ae7e66206f82bb5fa47a355909c4f",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "5660eb8e62d8aaefa74751502deb54ce4ef6ce4b2bc1792d918f891a67616b21",
+      "artist": "Steve Winwood",
+      "title": "higher love",
+      "payloadSha256": "3d63869bbe1ad7cc11eed99976a3e6a1eb7791189e284565a7b6009034567e7e",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "7c0f0ac7c4223f82f4a913a58f1c4de88344df32d19c505723aa17b06e397a4d",
+      "artist": "Stevie Ray Vaughan and Double Trouble",
+      "title": "tightrope",
+      "payloadSha256": "cc9daa0d23f7ae6b77f0ca2d75ba87ca34264e803a34448d3d3dd39ebc564c0b",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "2e4d3ac29b98a01a081e39b8a81384a706973d2b6443c350da5108aa86e78ad6",
+      "artist": "Stevie Wonder",
+      "title": "i just called to say i love you",
+      "payloadSha256": "4f7c4bf8bf0d20847a5b2f3538f070f1ce4e2b45f5a6bc3d5a7a726252793076",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "7d0d63cf51537aa2056765db1a203657401da75d626c3e938cd16626197d022d",
+      "artist": "Stevie Wonder",
+      "title": "signed sealed delivered im yours",
+      "payloadSha256": "06abd8073a53fd5d52a23704b6802675e6dffe11f71797348ba8c59cb3971bbf",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "df394f12a0066b6859c4de5e1830a3ca47d861f47fd412b44a795fe2bf219847",
+      "artist": "Stevie Wonder",
+      "title": "superstition",
+      "payloadSha256": "6fe4e64db3cc2dd221409d2512212ec747d1d4da1c38b974833f1207270b09ba",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "6e00e2118634233a74e01525a3e8409803baf4d2fc0f35529a8322687b81f10f",
+      "artist": "Sublime",
+      "title": "wrong way",
+      "payloadSha256": "acd8599131d870523613c1dac782d6da40a237b8db8f0e97c392c71427a0d601",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "06cbc3e04395fbe81f611cdc2228e2efb45930459bd243d18cf551c0189b1295",
+      "artist": "Suzanne Vega",
+      "title": "toms diner",
+      "payloadSha256": "bb84542282f60b17aad2759be761e9c241fdc1ec6e0885c1f2b2c92787ea59e1",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "042ac24cd973f3e53d4f72304ad39006a9109bdff269fd35393d2b349c148a26",
+      "artist": "The Allman Brothers Band",
+      "title": "blue sky",
+      "payloadSha256": "73475f9fa3077e5d453a4df447813e9d632e05f2d3f2a4c95df5b91cd794a477",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "9d9e85d88ddecd519bb971f5223863adb96db2086a587554e5d4648f6fc7eee5",
+      "artist": "The Band",
+      "title": "ophelia",
+      "payloadSha256": "bf44ec13db6c769a57fb2e8a96033c49d76993d88d9c53b9ffdcc109d7f0893d",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "262c991a134acac4b41ca3292e9722c7f32d4c3d78d92e60637e5f4d9cd61582",
+      "artist": "The Band",
+      "title": "up on cripple creek",
+      "payloadSha256": "10af69e53b46ca86721be24f24332e151ebdcccd325b6853f31f3bdf98f53924",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "304cab0104753302b50cc42604001823bbdfbacfe0c9bbb169e2fe0dc36d3f23",
+      "artist": "The Bangles",
+      "title": "hazy shade of winter",
+      "payloadSha256": "d9a9971c4fe1e34efa6b6dee8861378b2f59cd2abcab84732c5cc474158cacfb",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "95d2c879d87a22bb85e573fc2dd717f3df27380caf1d7a6493d36e96f35003dc",
+      "artist": "The Bangles",
+      "title": "walk like an egyptian",
+      "payloadSha256": "d89614408fc9156c02c2269d19f98ab9115d1887a0efeefda083215ae5e67b08",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "8ea5851a11c69a37e13e6eaa25817ed383d4be4f2e26eb6accd9c7f6e59b1908",
+      "artist": "The Beatles",
+      "title": "act naturally",
+      "payloadSha256": "7fb68cee0bada724c85af3431d81983f122402fe81701b01a1838d875246441f",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "aedc21b42c07e45bdaf813e27998d98d9294e79c2823680482f00134290d58b1",
+      "artist": "The Beatles",
+      "title": "come together",
+      "payloadSha256": "ae39db8cd65c9d9b67a3f85a368997e01176d1f44860f4457bc920a131ac107e",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "d4d7f030eeae78294bea7942d2b15e82bd19112683faa4d1a68b485b7fd33061",
+      "artist": "The Beatles",
+      "title": "dig a pony",
+      "payloadSha256": "3a716c94d9526388e4f70832a800d69d06666f3958733d73f0251873bdb1857e",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "fa4bab96ed9a384584bb9abfb3277b06dd77138e386d03d76d309ff601d2a889",
+      "artist": "The Beatles",
+      "title": "sexy sadie",
+      "payloadSha256": "9c9320c4ee598cffcb5adcf60205d24569138e42ed00b46d645a465372d81dfa",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "225ac94e8c4790c61912af89ed4e16db2606b4f1f92604b0992ec5707d601d9a",
+      "artist": "The Beatles",
+      "title": "ticket to ride",
+      "payloadSha256": "0428dc0ad74ccc047b0596e0603beacfb7596a4283b86545adf9858b2702611a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "322803f71b282121b71083e68bb7ec70ea06f63cf6ad650b73210857342b2a81",
+      "artist": "The Black Eyed Peas",
+      "title": "pump it",
+      "payloadSha256": "9c86ae3049552f2d26295714ba29fbafd71bc4e30b96d98b061a46204b1219bc",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "c03462e5582982b3d0555d3ba2dfc345ee087d089516425f5494ff51272bfb5b",
+      "artist": "The Black Eyed Peas",
+      "title": "where is the love",
+      "payloadSha256": "3cbcdbb0772ad1449b9b90eb33b1900861ac79ee29bcd7ed1b2f20a9e6678d52",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "19e4066be987f2ca117be4e274947209540b73f900510ec134e4d4d19f9d23b9",
+      "artist": "The Blues Brothers",
+      "title": "everybody needs somebody to love",
+      "payloadSha256": "b3b180349da2acceb330c5b9a50544c201f803157381f803dad4b639465d7aa2",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "5ec60d5e96d56fe0e81daee535b848333e5807cf9eb11c5abb93d0594b3a6953",
+      "artist": "The Blues Brothers",
+      "title": "gimme some lovin",
+      "payloadSha256": "90149af3d182fc6abeff85dcc27309830808e82c9300c3c267be64585670209e",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "3ac3e6f916bf5623b175181d438e803cef3f4a3dabb4531a6a664c536b69cba3",
+      "artist": "The Blues Brothers",
+      "title": "sweet home chicago",
+      "payloadSha256": "0442763c5d647fc753bf653b972fe10dcbfe12f5202630360604764851d59be7",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "5bd1165d8048d867debe7c264cb94a54b6cfea5c3997cdbe6acc22b3746159a0",
+      "artist": "The Buzzcocks",
+      "title": "ever fallen in love",
+      "payloadSha256": "2378354483322edccdc0fe8fa598e10bd40cfe1a6443b6b585089cfbe9433ec0",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "fe3c7b1a6b20e30981f37013f295254e9fe32008b609e9f5e7531f9186942369",
+      "artist": "The Buzzcocks",
+      "title": "jerk",
+      "payloadSha256": "3425f41370b9ab2b2b1cf4fd2594b0fcbb21207ada60202cf8c0136ddb19bc76",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "64e73ca9419ab7e4a71f59208b0f6e6ccf5848c92820004069fe2d37b3d4a256",
+      "artist": "The Buzzcocks",
+      "title": "oh shit",
+      "payloadSha256": "94db22716a9d44863f1e5bf2dc57e7b420a9b894c50a45e1556d166e85daa854",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "654e44263ad3362d32a6bb9ef856cfa9191b15978e8001097d56b3f7b78dda1f",
+      "artist": "The Cure",
+      "title": "boys dont cry",
+      "payloadSha256": "378e09b33588a2f43b224875b5f1e63c468560860ff553343d879508a88ac4bc",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "55a0b5842d439c33b3c96914d9494b1961e4c0ed6822472b8f63b58ca65cbab7",
+      "artist": "The Cure",
+      "title": "fire in cairo",
+      "payloadSha256": "bf0a452f1edc3fa854cd35d0b7ab85283d1f077b7facf9233a375e9dda93414f",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "aebd02019e733f1ff27dc69ce26ea3f236a0e2b54eb01044cbedd12efc2adac9",
+      "artist": "The Cure",
+      "title": "lovesong",
+      "payloadSha256": "15450d071e6c3afdd075b47969e125db8da432ef34d84d41ddf3a6fddfae9cfb",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "430d11b744ff56805ab8f955845c8b9459b54798d3849b56b515fe1579c14116",
+      "artist": "The Cure",
+      "title": "the lovecats",
+      "payloadSha256": "1b09d78f3aa8466d12c36a647d5f3545740e582a16e51d377a92cac75354d0d9",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "e1dc00aa6354e5213bd2ae5e0103d94afc4549112b28f9d3732aba22a37569cb",
+      "artist": "The Eagles",
+      "title": "heartache tonight",
+      "payloadSha256": "ce5fc57bec61b2c244a302d4350015a1d75c557ebef08d2aa1d7b11cf634440a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "0dbcfeb7c62db98bc7a805d5aa7336de3e42936a4741f2e534241aaaea3d0ad3",
+      "artist": "The Grateful Dead",
+      "title": "deal",
+      "payloadSha256": "5730691a45a6a60fb68e0c8fa3be522e148b223bf40612eedc5ebfbcb967a72a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "3abf0412896152cf37b47c4de81b585d6ab3bb18785a36b077ad1308b2fd59e9",
+      "artist": "The Grateful Dead",
+      "title": "scarlet begonias",
+      "payloadSha256": "f9f99a582092299ed38ac478227e879052f9da30d5d271e47ef91c7f38833dcb",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "7d3b29e7239d450f4635089c254d61d2aec4b5bc6d8536a0497d55b6d38be472",
+      "artist": "The Grateful Dead",
+      "title": "sugaree",
+      "payloadSha256": "5b692d3b07b17b3967ce6bba5e006701e4acc95cb7a49efc2b6d41489cbe5c9b",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "55d4b91e172dfb3b17d515f1e9fa48eae90a083d6edf48f5bcb0959af74d6daa",
+      "artist": "The Guess Who",
+      "title": "these eyes",
+      "payloadSha256": "3cd9bd5d48f0bc952e961086640660b9139a0b939d1cc82d3dcd3615b17b6e73",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "6065fa153c4a97de4f2bb089f693adc080e0549f3ed63ab11bf3d9f027258fa5",
+      "artist": "The J Geils Band",
+      "title": "centerfold",
+      "payloadSha256": "c1e8ee8e5fd81f521cdc0944f669b8e2bc2348ee3c845829ec52fe8b0de5d85c",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "176400da3f886febc72e6ee6db005603bea76d521553334150a4f64c060eb365",
+      "artist": "The Kinks",
+      "title": "a well respected man",
+      "payloadSha256": "da4310028dbc4583a5481c7ef7f4eb17161b860a8b0b27be9ab7027cfba26327",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "01c94cb868333c42968d1c52afc5f5f9cad8adb696994526a392f5de4f0f08fa",
+      "artist": "The Monkees",
+      "title": "daydream believer",
+      "payloadSha256": "7ceb80f8a5679a56b51232dd007c90081cd55cb9dd23ab04fe007b360cf07477",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "7f01f446dfdda635962094104a014b71e06bea42999e24bbaf8520f085653bf3",
+      "artist": "The Police",
+      "title": "so lonely",
+      "payloadSha256": "562ee1ff05fdbb360fd4c80f23a8ecba82e3731aa01e8e74bbe4a1cdbb657c60",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "32fc543a4cf91e447e00b510a9ee594be0e28769f4df898938eef03fe02b6143",
+      "artist": "The Raconteurs",
+      "title": "bored and razed",
+      "payloadSha256": "4dc47e2df99cc04e9883ae207e10e37050ffaee16605b587572eae378565a84f",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "177dc154ce7bae75089576eee48462e894947fc1986a38808f0a705365862105",
+      "artist": "The Raconteurs",
+      "title": "only child",
+      "payloadSha256": "73a1b84ee3ecc12494931a338226f2944db6b15944c3b62c88071bb2d493ec0a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b0dab0d2a55f7185e8de7a533a3337f5c32da1ba87d1fa5ed76f80624df7694c",
+      "artist": "The Ramones",
+      "title": "53rd and 3rd",
+      "payloadSha256": "67f877e206a1f2cb7daeaeeebd0ab12882a1e3a4deff948add702ef6ffa2e0cc",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "2b24175412e5b523bbdf59a77fd66cd2abde9b04c3ec8c39f0a93480c6a5629b",
+      "artist": "The Ramones",
+      "title": "a real cool time",
+      "payloadSha256": "69b887bc1d7f22f32a5ff576df138955ac64345b8d5774ea31063235648d2a4a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "9bf739dc8c693d13f41923e02538c1b4aec173bb8999ec8a691cce484bf3bdb4",
+      "artist": "The Ramones",
+      "title": "animal boy",
+      "payloadSha256": "960a6c559f98d905a4d523b049837aea38b360e17864813b33a122723d44def5",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "1bd9ae0f44623d79bde5daec0687221c4b5dbcf97139e902843cd353769138a4",
+      "artist": "The Ramones",
+      "title": "anxiety",
+      "payloadSha256": "6b50976df3e61b3adde6e60cc7b5fa738c6f6778d4f9570fb3d8fec1e4642cb6",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "50a232eab00a8654d3240fbb097f97658c5f510774a5c08deb1ed0ffd5490787",
+      "artist": "The Ramones",
+      "title": "beat on the brat",
+      "payloadSha256": "e2f10d43be02304c075f89696c3f020afd955184181166db4e80589c83cf6567",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "46ded7ba302cfd54a74b3c277304d4e5c4824974292dd8282436001fcfaeba4a",
+      "artist": "The Ramones",
+      "title": "bop til you drop",
+      "payloadSha256": "91abb75fe3624f8fc62c095d38da5d4164ab4380ecdcba307fab2517fe693c6a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "bd21c0074c745f076ab997d94ddf83bc1f671c9495fc5ff44564f529b1836d4c",
+      "artist": "The Ramones",
+      "title": "california sun",
+      "payloadSha256": "4de176ec65b3bb87799b00a0b40c283c480fd40dc12775b70cec3fd34fd6e836",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "891b014c70b4fce4d48c1d6ca4c0f739e724e065a4491e28298642f0c97c6aa3",
+      "artist": "The Ramones",
+      "title": "carbona not glue",
+      "payloadSha256": "3c4d00874740ed8cdff781d064472683180534972ac6a951cfa75aa15c06468e",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "e196f11edfb181b403062f92b67668d08763ac0add4fcf563e297508a8ca0a6f",
+      "artist": "The Ramones",
+      "title": "censorshit",
+      "payloadSha256": "d5d4de3d62f56c416fb725ac00f3c781672f1f0efa2f583a2cd88fdb80722d3d",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "636faf415deb5087d51cfcf6dc040cba85e8771b2e3ac6be7a9303c3e0fedcd0",
+      "artist": "The Ramones",
+      "title": "chain saw",
+      "payloadSha256": "c7f392960da94ee48aef7e754e97164b50a21c3e41552c49f8fc346a9949357a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "4c0b40e0bb44b909430fe770829bcadfec395dbc75f6cac6d0318d39bd132723",
+      "artist": "The Ramones",
+      "title": "commando",
+      "payloadSha256": "f352a74b17605dd4d973c3f57623516a583131f686cdabc980ad329a6c69de73",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "f8635c7d4a8a8bd8fa164d108d84ddb91be7142f8ac816fb329465b4b0cac23f",
+      "artist": "The Ramones",
+      "title": "cretin hop",
+      "payloadSha256": "461ea292eb483440bf80602315a071e5b0e3e8c7a027b0fc927ec11e6279bc5f",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "e433d4efdd3c622b86fd64e8b69f2673a10bd7c9751a46cd8af0ee3e5fcf264f",
+      "artist": "The Ramones",
+      "title": "danger zone",
+      "payloadSha256": "be19421d13dc26d42d2515cd6b083bdf22548fb312cb4e23064749ba13f30292",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "612ad4f0e4e490936d34f340663335b16e07a6c310ce11e06b59125b3907cc9f",
+      "artist": "The Ramones",
+      "title": "death of me",
+      "payloadSha256": "4046a360312e1104e78a516e7cf64f48d67321172925bd162bc7aa667a7cc454",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "1c05f79e17f20421807cb7e26cd64be8931af45e6bd2f9a4721c5870435e9ce4",
+      "artist": "The Ramones",
+      "title": "do you wanna dance",
+      "payloadSha256": "ae7ee04a9811720e365a8c118101ff9800e297b355d2960ba4cb40895ac95582",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "91550c528f8f4c75b30152a5b66807d79930afd65c7f218042081bd269e3468b",
+      "artist": "The Ramones",
+      "title": "dont bust my chops",
+      "payloadSha256": "6c999329cd7e882f1c63c07bbc59638df2e09d42833888e0fc0816c8c0334e66",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "2e575446fabf9c387844cfbad407750787490d18524a7670cf648c7f13ed871f",
+      "artist": "The Ramones",
+      "title": "garden of serenity",
+      "payloadSha256": "1f1845f896e0296b224b23395f04b17b048f3f6159c9ca97c089cf976eec91f2",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "5dc5be7957e233569b31b73b9942bfadb7e217279896fee38f422fa939148d72",
+      "artist": "The Ramones",
+      "title": "gimme gimme shock treatment",
+      "payloadSha256": "785cfe013595318b5d2516cf226076916556166244bb17b9106b1a5e156d20de",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "901dac895426ff02d9ba74716044e1a46b8073d2a31c26c03608969ed33558e4",
+      "artist": "The Ramones",
+      "title": "glad to see you go",
+      "payloadSha256": "06238e49a8b0e86f29620faea7aa53740be406e29a3bbf979d6ae0784b21f774",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "2bff7bc052f60b23c645fa3ae4e4937c0521686643074cb4f86d76ff9323d638",
+      "artist": "The Ramones",
+      "title": "here today gone tomorrow",
+      "payloadSha256": "c1943bd0e9f0d66918a8ccea96a04beb42f15fa9aa40f8feef8206636a3cc61d",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "214d4030c1af79e86e21cb10934f5e3c899b787acf7e0bad9722d5731428bf88",
+      "artist": "The Ramones",
+      "title": "humankind",
+      "payloadSha256": "78414b1113aaf2d7036c5250052ea746e32b9f3e9c3eb7dc0d288b685ab2e1f5",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "a121992d1451995a2c3501da89d062938d5f5e761cab48b3f84ba234d31dd1a3",
+      "artist": "The Ramones",
+      "title": "i believe in miracles",
+      "payloadSha256": "4f22eff91a67991696bc674b80f51b4f6dd860940088899e537b48be270fd366",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "bc26c349c6f63b81f906d8f20b3d663409ee12f4ccc017bf4c6d1e41e1e8e5de",
+      "artist": "The Ramones",
+      "title": "i cant give you anything",
+      "payloadSha256": "6490d11b25663fbd839a7a77aaf298b5a24376b5f9347ef9b5713d7a27682182",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "a163e6cec402048427476b219441abf1339de9840760541f51d58302989832e1",
+      "artist": "The Ramones",
+      "title": "i dont wanna grow up",
+      "payloadSha256": "c3776c27f62138a92277f22cd45fddc85116b4800cc16731fc348c585746ec43",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "bf710ae94c43aa2bb131f76bc666106ced16f30867737ec74719170ce1096e18",
+      "artist": "The Ramones",
+      "title": "i dont wanna walk around with you",
+      "payloadSha256": "3f42314d17f882eced37c28b3ceb8962b2b5a9a134f76ea3449f81ff432b5da1",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "31cd9c9399149045c409196c022934b8bc70933ae6766476f8e1a794a47ff18b",
+      "artist": "The Ramones",
+      "title": "i dont want you",
+      "payloadSha256": "44ed96ad9c04ef4c7b353efa2104be32bc0ce460b0507abe4acf3ca486bf510e",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "6b4ede5305c1bc4029386ab058f0ba6ffce542392e8072bb1275fb9f989e603f",
+      "artist": "The Ramones",
+      "title": "i just want to have something to do",
+      "payloadSha256": "d21667674956c16c6c46763d7f37b7d7048da1dfce6b79f07f925ad4a0cd2c85",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "a7d04372836134405ba5b39d441b60f4b795902aeb92bf52bd770cdbeb3b330e",
+      "artist": "The Ramones",
+      "title": "i love you",
+      "payloadSha256": "d82f3ebac61eeacac8f887663a46aad99e3abd1ce2d5b9a74c5854d310f0a0fa",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "1efb4d76a76951bf2634c032d4c631b0b2b53af18cb151131c8adeeec63b1689",
+      "artist": "The Ramones",
+      "title": "i remember you",
+      "payloadSha256": "a90a75549ba5e5020be0c90484468923e16dd9e9de7579b7a2cdb0f8cecaad38",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "d6f80ad4a3aec494313a0e659d0ff298e80fe64bcb184957dee11bbd2c844492",
+      "artist": "The Ramones",
+      "title": "i wanna be your boyfriend",
+      "payloadSha256": "c23786ec264ed4782068f860bd4736f877f89cd2d584aaecad2fdb82b02748b0",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "8efc9a06c2dcddecd19343b10f20e4a06c7ad3a77d76566808900852d1a9c907",
+      "artist": "The Ramones",
+      "title": "im against it",
+      "payloadSha256": "7d59f006a426a1225df202e34481aaeda7a73b501b1b04813c8b4d89df1b82b7",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "53fe05e60ee5554d56783262e48d5feeadbc282af403cbffb495e9ce3f1d1cef",
+      "artist": "The Ramones",
+      "title": "learn to listen",
+      "payloadSha256": "ed17a7907cd8646c73eac9a4f45baa43f8108092bd44c85aa7e7ac16815f6705",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "7fecf1d83459ab04964acf725640d59f463be1a2b7fa0d44b59980fc6403d072",
+      "artist": "The Ramones",
+      "title": "lets dance",
+      "payloadSha256": "95c861d65aacb8f329846d1b8553e32d861b33602303caccaad87e9ca3913526",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "aef9fee3644901d06165df2c7103a2d8a7df5d82183fc9c44909435854236df3",
+      "artist": "The Ramones",
+      "title": "listen to my heart",
+      "payloadSha256": "a7f1f4e63e1048f43501480a90b7df121955ee5a973dfb593abcf4e96e2444cb",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "6028fd062c9e1471055f2b14be841f30279271604db47849d050dc5f3e9a4c7d",
+      "artist": "The Ramones",
+      "title": "locket love",
+      "payloadSha256": "32aa7a4a4bd2d6f386ecff69386fd78e46d25e1fe45c5f83af4f8f1b4b0f969e",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "6f4967f88d0fc02a54d9dd8bc9dedaf736a23b1cdde448976e4d28617c794e10",
+      "artist": "The Ramones",
+      "title": "makin monsters for my friends",
+      "payloadSha256": "06caaab0fe7e7733c53d01b8db78b7276938ff5f5ffe7554ba792134739e6574",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b83f51f82af2e376a2d3551b4c65c768f65f2ef3e9f3ca8619121d1c441515aa",
+      "artist": "The Ramones",
+      "title": "mamas boy",
+      "payloadSha256": "7c7ae3c507e505ce8062e23ba8a35a8b83a4fa806b038fbbe7c8640ea0683866",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "39086aae55d828c4f79ec4fdc63c1c842f58d52132a845eb7731d5aa8744d16e",
+      "artist": "The Ramones",
+      "title": "no go",
+      "payloadSha256": "57e46a502a9f322994cf8fdee93ef3c40c1082f453a5011b2cab91feee4ec6b4",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "5c7458547909ee14546a5531f171a1ebf7568b2dd53f876b75be09d797c08d37",
+      "artist": "The Ramones",
+      "title": "now i wanna be a good boy",
+      "payloadSha256": "0c4f2bdf0b3e11886f7ebbfcd9bc13374bf5a8205bad3515a1835997fe13e271",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b43e08e56422927878204e8883e0246cb2792ab6e3c9eac09137ab7bbe59ad88",
+      "artist": "The Ramones",
+      "title": "oh oh i love her so",
+      "payloadSha256": "0b7387178d207fe786751217f65e0621955e376bcc7f4038e2d4f1de49647bfd",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "9573d40cd88328f107bf9d1e9be1908e428973d0d2d70c87ab856c0f28a6131a",
+      "artist": "The Ramones",
+      "title": "palisades park",
+      "payloadSha256": "d9f2030925f1018b8605256618001ce15ca5ce1d182c0a2be12ed2bd78ea3d96",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "8c909e58edf0474e52f8c2b7f49fb24c822eeb07c649b7f090eb2368d533aac1",
+      "artist": "The Ramones",
+      "title": "pinhead",
+      "payloadSha256": "eed0b13bac4861009b9a215ad868854a55b0c3bf2bcf187b560d02d1240cd0e0",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "ad630963bb64d310a1e529839a9518a3d09bee264e0fb0ff062e7b28e5fd15df",
+      "artist": "The Ramones",
+      "title": "planet earth 1988",
+      "payloadSha256": "7ee1cb7205a15bd9dfb38b9abfa9d89912855c04ab9e8a83cf4e3ce2710b254e",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "c6ca73d7a0e8739c1871e34adf28232e7847f3addee17ded8608b1c323af373d",
+      "artist": "The Ramones",
+      "title": "punishment fits the crime",
+      "payloadSha256": "608df5ff7abf7552c4f354e262057e7b7ad5df5dd8a0e86191035e470f36d0c2",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "0d6b16ad7363de9e56ad2be9f140106dab9c42a4563ed1dce8168e8c9a040eef",
+      "artist": "The Ramones",
+      "title": "ramona",
+      "payloadSha256": "cf7dec4207b153557d2853b3f56d5633ffdb4b0898c18476bf9c1f5496de981f",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b0706c107e0428676808548053ac4c99cc465632e47d1777c5fff1e10b076729",
+      "artist": "The Ramones",
+      "title": "rockaway beach",
+      "payloadSha256": "8f7d466e664248fea17366080827eb760a3e897a6453dc62a04ace2acc4e753c",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "0b50c4f218a11a59cc7f3f6d694855b3f0071efa1874592d6a164f7f0e5220b5",
+      "artist": "The Ramones",
+      "title": "shes the one",
+      "payloadSha256": "ac3afa5ecc7508d66e27901c55857d8ef6101ea1e07e49e3669c0b1414df6e6d",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "1b9790a6ea7cec4169b5d5387df0b70f1796e2db8072d6814ae69fb8c8ad876b",
+      "artist": "The Ramones",
+      "title": "smash you",
+      "payloadSha256": "46ada9042f66a6eb1b3c45369c9c8cc278199e70ffd5d3fec143751606d7edf9",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b9c932bd2f1fbaebe14ce3fe3b9b5dc6f7ca100d534b336be65a837200fa7b75",
+      "artist": "The Ramones",
+      "title": "suzy is a headbanger",
+      "payloadSha256": "333602767805738f77f265a989987e967ddc0761a13df47241954bb8fbf27f2d",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b2a1fe07514d476d3b378fb3a6ef99c63e5fde4dab9675c484e65b626fdf9d44",
+      "artist": "The Ramones",
+      "title": "teenage lobotomy",
+      "payloadSha256": "50fe6bab2dfc94bdd9699440d01790a33267a8bd374c2ff1826cec7c02027354",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "fa4a2bd2e360e9434798f9b2677bb00feff580b952bd93e0a9298e7f19563bd1",
+      "artist": "The Ramones",
+      "title": "today your love tomorrow the world",
+      "payloadSha256": "7c8348f2f951556de3c8ea6c8bd89e8dbdda16f037ecaa1026b8266c14a3323a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "993ae6581bfe4994e445646871edba5980775fc2db2bcb6c405fe7aad488c476",
+      "artist": "The Ramones",
+      "title": "tomorrow she goes away",
+      "payloadSha256": "e4db3508f7f76ebb786b0379f6891a32447d5e3559020b4e5ddd27effda6ae7b",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "504151a0fd4e061d76e6c8c4290b104414f07a3ed2cd617c198a80d366e21416",
+      "artist": "The Ramones",
+      "title": "too tough to die",
+      "payloadSha256": "94ce3fe7cfc5d655675aacbf471783df26761f3109f241c41b1a61a78613fa00",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "6ed02d9d01c2e851dab7582a159f148023d0873a86a0b3f8691d504fc506c1c3",
+      "artist": "The Ramones",
+      "title": "were a happy family",
+      "payloadSha256": "aa3220faefc124e68eb4d1746d055062df15518cc924a571bc0b4793a864df0a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "f6a5e1b145ad59f20f7d68e2f3db4a1c936edc56538804829254be3ac6bc204e",
+      "artist": "The Ramones",
+      "title": "whats your game",
+      "payloadSha256": "51bbbcbede26127fc2cd6b117f7b70938cd5e11c8ce362f9c2a161b358bb749a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "c5c407d0d5d6c421c3f929a6498d6d38efccce4f0e40e74ddb03c0bc4873edf1",
+      "artist": "The Ramones",
+      "title": "worm man",
+      "payloadSha256": "f6997cbc545240d2ef94fbfac7013f023f95ce241feb9f5a03c703435ac61341",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "c155f107804809aae6ddb616fe2fc561d37139098993118c4b6da46cd34c5765",
+      "artist": "The Ramones",
+      "title": "you should have never opened that door",
+      "payloadSha256": "02bb47127548287032eb34e0cfde785e0b98d257247cc129ff43959fc2fbdae6",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "812ef04988b4519de96420599fd7cff38e2c05dc9ef1cdb5799ed0c45c93dbe5",
+      "artist": "The Ramones",
+      "title": "youre gonna kill that girl",
+      "payloadSha256": "52f046ff833ebe415ef85bb3f8774e7d9a7552150c99e9d1f9c262c8b8d45ae3",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "34e0c85b6d3e802a53d12179400a7910246eebbaa9c7da809259b42ee1285643",
+      "artist": "The Ramones",
+      "title": "zero zero ufo",
+      "payloadSha256": "cd8ba3c2ce117ba14a2d107648dbaaf979645fa7092d32eeac2d3e8ae77a7026",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "462c7220b26a96dd36ed4b8e91f32aee5362d1a84f2b542e156e664ad5b3176b",
+      "artist": "The Red Hot Chili Peppers",
+      "title": "havana affair",
+      "payloadSha256": "5358f82a98399c35ff35dbb5bf74f0fb6bcbe48864552c8345c60ee5ef66d464",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "55baf906b859058530d962eaec949d7d60ae1708ff8a7dd8a07b6a1ff2c5b448",
+      "artist": "The Red Hot Chili Peppers",
+      "title": "hey",
+      "payloadSha256": "fd045979a1e9c6967baeaeb6bebf1b5db48d5df59eedd325c1f31333a327bb55",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "04c1b5fd95527f8009c5bd4cab02f35ed667f52ad02574521c1528e7ea791507",
+      "artist": "The Red Hot Chili Peppers",
+      "title": "look around",
+      "payloadSha256": "7ac9a0a90e90735c587bdb6bee59d42fa0d0236ea59f726cb019f67e3a3a1499",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "78e2eb07e144c2859941f787de360fe0f404e21c3600a872fe22ad1c403bb91f",
+      "artist": "The Red Hot Chili Peppers",
+      "title": "minor thing",
+      "payloadSha256": "dcda93537e8f4c3ebbec743d9effbfc4f9b48e669f2453ed5b9da3e172fb09dc",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "d3074555339f56687d36b9772bc19efff58cd5b984f5cef9b53597d41fd6be78",
+      "artist": "The Red Hot Chili Peppers",
+      "title": "porcelain",
+      "payloadSha256": "3aa6c4abfcc0ef61cb99e357aeea9772db6d649bd113f5698ff67a6f496c0096",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "750c397de5b894c21f95629e7df2605fbf57be29666860c102b10e594ad622d1",
+      "artist": "The Red Hot Chili Peppers",
+      "title": "shes only 18",
+      "payloadSha256": "b894e2a796fe65dae82b84cdc12e84d9bc16270efbebbf1408290979e66ddffe",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "9d3b398d42ae15aa9efc0b96e96650ce0387f0191bd492cf1cb0a95f8ba0ddbc",
+      "artist": "The Red Hot Chili Peppers",
+      "title": "sick love",
+      "payloadSha256": "a5a39288b90b7928fc04c562fd7cd7f8bb44aa3e7f4967a7627242407e925fb0",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "fb374b1ec7412c6abedec548742350b594d59f8c283a72df53496a2e65911f7d",
+      "artist": "The Red Hot Chili Peppers",
+      "title": "this velvet glove",
+      "payloadSha256": "82c571086c730a6121ef037740980508e7fba52a5a5f896bb7e51eee544f04fa",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "db3f13b43a4f3172b4302ad631669acc5a66d6e42cb399be55a4cf18cb39fb6c",
+      "artist": "The Rolling Stones",
+      "title": "19th nervous breakdown",
+      "payloadSha256": "125971952bfc35f7207d74c286cdeabd246c2821af1d4bf7fcec22ebea0f17b7",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "dfbed8d848b8812e005f6c2cc1a56dd080f29b6326baa9e6176b17301c509ee5",
+      "artist": "The Rolling Stones",
+      "title": "let it bleed",
+      "payloadSha256": "5a5ca48871e09ae23210035acd4fcbe0506d93323816db634528234919e5116c",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "2ab7210f1a894c7a70dda713c96bc7e0901cc7a9833d0076eb362f8cbe4899ce",
+      "artist": "The Rolling Stones",
+      "title": "shes a rainbow",
+      "payloadSha256": "dba988b52dd2903d1f485002908bc658257426610c673a5d1eac579479923ee8",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "6c65fd76f8d618441685ce90cdd3a3e360ef8183c2e8e1a2857d2d4e56028bb6",
+      "artist": "The Rolling Stones",
+      "title": "sympathy for the devil",
+      "payloadSha256": "f961cf1516365fea0c7803b6e125bef523f503e7e2e127d08aa4cde603ebb224",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "3b373b69745510f7bc44171b29593efe815d718f9304551b59fa3a619cade85d",
+      "artist": "The Rolling Stones",
+      "title": "time is on my side",
+      "payloadSha256": "fa5a23d08842ce96478b1fcb0ae505f24bb2be8e2389692921cb247d6adeb22d",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "99cc1731a7dce8837e6ca79244a92a03eb79976d050857864d2c5023923b9209",
+      "artist": "The Smashing Pumpkins",
+      "title": "here is no why",
+      "payloadSha256": "7c35d0f0a9ff56e911f3294a027eacc429181a518521eba0adee44a8381b2733",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "d84aa03a6319a89fec576feb6d0c0e5877f84fd93f780db48e5e270e2536784b",
+      "artist": "The Smashing Pumpkins",
+      "title": "solara",
+      "payloadSha256": "aa0d2649c19e914afe22de23d10989d87b5d4fb415b3b336b6ab2b744a24d701",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "c933d4579e9c7172e918f9900a03f97ed7d0660d951cf5010babd78a6ab5f7b0",
+      "artist": "The Stooges",
+      "title": "tv eye",
+      "payloadSha256": "28fc4135b00295e079c1be1abfe1a26ec33161f2fefa96b2a41617275dcd8c28",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "00253649bda5e94cf17e4ddfd527dfd96f55a70e7fea40bce44dca1a60d8c082",
+      "artist": "The Strokes",
+      "title": "at the door",
+      "payloadSha256": "32533b5c345f3b44cf71617fefe9d0b9f9e2036269f7082ac9b02a2b432b1cec",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "a9f180b7b4ee447f126df16a3de6e3e2a0bda31073278607a44be9a6d9ec396a",
+      "artist": "The Strokes",
+      "title": "call it fate call it karma",
+      "payloadSha256": "90304842c02c1299414961afcd75d2c68ea82fa3bd3d72ca79b5ae11f6a533af",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "e528e7d8bbd660fffa1e91d94ddc56c8f104dc6fd8d9cbed3a99782c5843047e",
+      "artist": "The Strokes",
+      "title": "the adults are talking",
+      "payloadSha256": "5302c5abcde3134dc9de34547589fc5697d79b6a062b2f183b5fe3015a83bdea",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "fc264c2cc2bb913a3b97ca1e87054090126bb5b028dcee70e4b8c86d1e4288b5",
+      "artist": "The Strokes",
+      "title": "vision of division",
+      "payloadSha256": "a748ee9f508ac1d359928cd6632bf23785becd0d14b1e7f0bf2684ad3f668104",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "5a1c99863e719c751529ee9bb4dbbbb156467eef716fb04eaef77a412590b614",
+      "artist": "The Supremes",
+      "title": "you cant hurry love",
+      "payloadSha256": "2e965f48ad0abb1adcc4a9737aec09d64234ecb8a57d9b6af1d27728d00624a9",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "c2b851204d10176ed3b55779a70923120dad34c4d987804b58cbd2f92ed1aa6b",
+      "artist": "The Temptations",
+      "title": "papa was a rollin stone",
+      "payloadSha256": "6f90c96df58283bc40a3a54ab161bd0a173b1cec3273fcdee64e19905f771c2d",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "9260e82c77fa39c613b47acde53eba4ce7a20acb786bab65d4e2597e0fd2652d",
+      "artist": "The Undertones",
+      "title": "boys will be boys",
+      "payloadSha256": "d050b15b2c168c67e9aeb37ef248bec4e2ed547049f16da8d0a4c3c719eb1ad9",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "56ac528f416bdbd9d8406e719842203761165d5974af24ea06c74c5d2f11a9f6",
+      "artist": "The Undertones",
+      "title": "casbah rock",
+      "payloadSha256": "5dbea6d84716676fde26af93d996ab83c4737c87eaab59eef087b22a5853b5bc",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "28a39f486cdc75c0a1d5ea594bddee6024ae2dff812b9b2fe72f1fec40fc65fb",
+      "artist": "The Undertones",
+      "title": "true confessions",
+      "payloadSha256": "d07619c6c7a9a2ee0f76796e83be448cd6ef3ca22729de0c9bc8d003aac70ba9",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "29a474f7bbb53afa91e16727d6e8d0e9e1cdf628e0f203d631e09c3b78ec676e",
+      "artist": "The Undertones",
+      "title": "wrong way",
+      "payloadSha256": "a194b6824764894943006a0ea00b0435373e1a26d9f502ded463c1a95c03ec54",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "5ca71a0a0f6973e0c762d1347c35339da3fe10d00e8905c29f654cf9cc4e1e5d",
+      "artist": "The Who",
+      "title": "baba oriley",
+      "payloadSha256": "c8f462eae69cfd7904044c4845c192606651670ae51fa1fa384c2afc00bd9b8d",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "22288d30a284f6e49577a3315a8882af83bd7b4b345760a25e789914260d11be",
+      "artist": "The Who",
+      "title": "eminence front",
+      "payloadSha256": "df6cb82913587f3ab6569d2adc045672732123a6f5e50652792206a3ce033248",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "0bf0d8e58c4213e759ff59674719b27126655cb3f38cf74f2a6b35999245659d",
+      "artist": "The Zombies",
+      "title": "this will be our year",
+      "payloadSha256": "5c4e6f09b2daee635ec87d695351805dda5001f3385062c75d8c128b09aa4edb",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b73675719f1af53f7b080043dd6d9e122181789a1df949ea72a4585ecafc341f",
+      "artist": "Tragically Hip",
+      "title": "ahead by a century",
+      "payloadSha256": "40c28ccfb52dd31d7a6962cfa6384b5f5ddd896a7c03b88df1d5f238d2bd834a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "efb857d17f5710a6088fcd2d4029b34eb897cdd0e6e1001568a0e1fd15af3367",
+      "artist": "Tragically Hip",
+      "title": "blow at high dough",
+      "payloadSha256": "f8f540d2bc01eddc52d3347a1375a74cfef73de33ab327f28691e1a340b782d3",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "78fccbd9ae7e85e9c145f818f3d8802f06a5eef3cdbfd25e6e4096a53d2693e0",
+      "artist": "Tragically Hip",
+      "title": "fiddlers green",
+      "payloadSha256": "bc231267e9aa6ebfa076b69e3890232511177b2fcefd3eefde4f2ea91cc165ed",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "0d20c3ea9f2b15196f73ebcca0956e344f9d4081c084677836f9cddc01d8e800",
+      "artist": "Van Halen",
+      "title": "feel your love tonight",
+      "payloadSha256": "bc86e35061dc8d7ac78cc74fc4a8c0e974f51cae708e3329d0bdfe90437de7ca",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "b899a8fc90b17f912ee97a49dd89292c69fafb392ab2fbbb61a146c8b7c066d3",
+      "artist": "Van Halen",
+      "title": "finish what ya started",
+      "payloadSha256": "60f53d0267ba40d110c29344d90c43c5fdc71b853d627c9a22a91f83314ce325",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "15ec5b264f30bf3fc4448ca0be7588158159e5b6919f7ddf871aee2a719b4c78",
+      "artist": "Van Halen",
+      "title": "poundcake",
+      "payloadSha256": "21ad5519ad9676aa28aa620c9f8984200723e1b5f9b462d15ef5d2139edc1d40",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "52798b67319ec3c30797e00b33d29bff3fdfacfab54ee4511ed86d2e7af02a8f",
+      "artist": "Van Morrison",
+      "title": "into the mystic",
+      "payloadSha256": "2bda63370c9ca4f73a38ab9d5726ddc07451b3c47e7f5c2cef978cf690af943b",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "366dfca5a21c92a4dc80eb8ed97e3736053fa234fa978799bde6953271ab08d1",
+      "artist": "Velvet Underground",
+      "title": "after hours",
+      "payloadSha256": "a2d9f997ffc9f57b6ca4777eb131211532119321b89dc275bdab2c34e1144021",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "844812ec772e57cd4d1a83b046b04b5e8ac6a21c96c68db0fefab9fcaafe1b7c",
+      "artist": "Velvet Underground",
+      "title": "candy says",
+      "payloadSha256": "8481137b4f254f005b588705c859f9d831a6227606d7030d9306f47258576822",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "bcda29ce677dc8f37a168f95e54fcd2583cab35c2d737a202364e4547f82081d",
+      "artist": "Velvet Underground",
+      "title": "femme fatale",
+      "payloadSha256": "923ce15ceaf90a05fedeb899da01dd8f0fc51582e627286c638c1a68e1c0859a",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "305143647173d5ad95459f1d622a68f4738456053517bac69955b5af27049b9d",
+      "artist": "Velvet Underground",
+      "title": "heroin",
+      "payloadSha256": "723284782213233a4e83690fcbf78d3693a28d2e8d3a2daaa5b0c5c3b3cec90f",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "db36a7a719938ed67547f4b1524d4e4f307343762c90201019acb6a1162128c0",
+      "artist": "Velvet Underground",
+      "title": "ill be your mirror",
+      "payloadSha256": "198bb3add0fab2f6b6346b86bc9c3b0181d3658607dbafb02cc216d056d23d40",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "26395de1d5e31e2b1d7212406386104e4ee3a1ebae07648522aba926815edb4c",
+      "artist": "Velvet Underground",
+      "title": "im sticking with you",
+      "payloadSha256": "6f371e0b2e484c544272691adadd2436564d7b9b2ea17e567a0946eecf9f51ad",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "115fd0d0afc592d0cb312a0a06ae01adb2b22456db1e8d7c0e5c45469750b5c2",
+      "artist": "Velvet Underground",
+      "title": "pale blue eyes",
+      "payloadSha256": "b8775acfb09014c10b8ed96e3a777abb55e0d7a2e0dc2c34e66fc61ce6f122f4",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "1d4dbeebe0f8a6b6794ec8dff01845fce58fbf5f580373dc1d2d68f61cc08356",
+      "artist": "ZZ Top",
+      "title": "concrete and steel",
+      "payloadSha256": "28fdcf9c9160ff6391b475ffb0be74c2a813d18a97abb5fe439a0cc59bed0488",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    },
+    {
+      "id": "deb7041bc995784c74b3239b772dd659ca2e9ecf9eeeadd5abce5526f61c37ac",
+      "artist": "ZZ Top",
+      "title": "just got back from babys",
+      "payloadSha256": "460f3e027caa78e7aa4965318b07f6aff0d51db622c7ea68664117d028c6695d",
+      "status": "keep",
+      "note": "Peter approved all reviewed songs in chat; apply initial capitals and match production V4 artist names.",
+      "reviewedSemitones": 0
+    }
+  ]
+}
