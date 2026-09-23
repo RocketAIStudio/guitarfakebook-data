@@ -1,0 +1,66 @@
+{
+  "schema": "guitarfakebook.library-song.v1",
+  "id": "1ed24096395e32b246be1178872777581e7fcfa540be1dab8e01695d581b8701",
+  "source": {
+    "relativePath": "Ultimate Guitar com PRO Tabs Site Rip GPX/j/john_lennon_10753/john-lennon_oh-my-love-official-2599497.gpx",
+    "sha256": "1ed24096395e32b246be1178872777581e7fcfa540be1dab8e01695d581b8701",
+    "bytes": 93742,
+    "format": "gpx",
+    "version": "BCFZ",
+    "extension": "gpx"
+  },
+  "artist": "John Lennon",
+  "artistNormalized": "johnlennon",
+  "title": "Oh My Love",
+  "displayTitle": "Oh My Love",
+  "key": "A",
+  "tuning": "E A D G B E",
+  "capo": "No capo",
+  "tempo": 68,
+  "content": "[Intro]\n[Bm]\n[C#m]\n[Bm]\n[A]\n\n[Pre-Verse]\n[D]\n[C#m]\n[Bm]\n[A]\n\n[Verse 1]\n[D]Oh my love for the first\n[C#m]time in my life\n[Bm]My eyes are wide\n[A]open\n[D]Oh my lover for the first\n[C#m]time in my life\n[Bm]My eyes can\n[A]see\n\n[Chorus]\n[F#m]I see the wind Oh,\n[C#7]I see the trees\n[D]Everything is clear in my\n[A]heart [C#7]\n[F#m]I see the clouds Oh,\n[C#7]I see the sky\n[D]Everything is clear in our\n[A]world\n\n[Verse 2]\n[D]Oh my love for the first\n[C#m]time in my life\n[Bm]My mind is wide\n[A]open\n[D]Oh my lover for the first\n[C#m]time in my life\n[Bm]My mind can\n[A]feel\n\n[Chorus]\n[F#m]I feel the sorrow Oh,\n[C#7]I feel dreams\n[D]Everything is clear in my\n[A]heart [C#7]\n[F#m]I feel life Oh,\n[C#7]I feel love\n[D]Everything is clear in our\n[A]world\n\n[Outro]\n[D]\n[C#m]\n[Bm]\n[A]",
+  "diagrams": {
+    "Bm": {
+      "catalog": [
+        "x24432"
+      ]
+    },
+    "C#m": {
+      "catalog": [
+        "x46654"
+      ]
+    },
+    "A": {
+      "catalog": [
+        "x02220"
+      ]
+    },
+    "D": {
+      "catalog": [
+        "xx0232"
+      ]
+    },
+    "F#m": {
+      "catalog": [
+        "244222"
+      ]
+    },
+    "C#7": {
+      "catalog": [
+        "x46464"
+      ]
+    }
+  },
+  "playableChords": [
+    "Bm",
+    "C#m",
+    "A",
+    "D",
+    "F#m",
+    "C#7"
+  ],
+  "lyricEventCount": 125,
+  "preparation": {
+    "identitySource": "Parsed title and selected-artist manifest",
+    "unmodifiedParsedRecord": "work/full_parse/gpx/1ed24096395e32b246be1178872777581e7fcfa540be1dab8e01695d581b8701.json"
+  }
+}

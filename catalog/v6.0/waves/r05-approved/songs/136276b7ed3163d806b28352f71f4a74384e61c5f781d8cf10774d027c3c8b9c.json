@@ -1,0 +1,84 @@
+{
+  "schema": "guitarfakebook.library-song.v1",
+  "id": "136276b7ed3163d806b28352f71f4a74384e61c5f781d8cf10774d027c3c8b9c",
+  "source": {
+    "relativePath": "Ultimate Guitar com PRO Tabs Site Rip GPX/p/pink_floyd_684/pink-floyd_the-happiest-days-of-our-lives-official-2110951.gpx",
+    "sha256": "136276b7ed3163d806b28352f71f4a74384e61c5f781d8cf10774d027c3c8b9c",
+    "bytes": 72132,
+    "format": "gpx",
+    "version": "BCFZ",
+    "extension": "gpx"
+  },
+  "artist": "Pink Floyd",
+  "artistNormalized": "pinkfloyd",
+  "title": "The Happiest Days Of Our Lives",
+  "displayTitle": "The Happiest Days Of Our Lives",
+  "key": "D",
+  "tuning": "E A D G B E",
+  "capo": "No capo",
+  "tempo": 104,
+  "content": "[Dm]\n[Gm]\n[Am]\nWhen\n\n[Verse 1]\n[Am]we grew up and went to school\nThere were certain teachers who would\nHurt the children [C]anyway they\n[Am]could\nBy\n\n[Verse 2]\n[Am]pouring their derision Upon\n[F]anything we did Ex-\n[Am]posing every weakness Ho-\n[Em]wever carefully hidden by the\n[Am]kids\nBut in the\n\n[Verse 3]\n[D]town it was well known When they got\n[Bb]home at night, their fat and Psycho-\n[Gm]pathic wives would thrash them Within\n[C7]inches of their lives\n[F]\n[Bb]\n[F]\n[Bb]\n[F]\n[Bb]\n[C]\nAah!",
+  "diagrams": {
+    "Dm": {
+      "catalog": [
+        "xx0231"
+      ]
+    },
+    "Gm": {
+      "catalog": [
+        "355333"
+      ]
+    },
+    "Am": {
+      "catalog": [
+        "x02210"
+      ]
+    },
+    "C": {
+      "catalog": [
+        "x32010"
+      ]
+    },
+    "F": {
+      "catalog": [
+        "133211"
+      ]
+    },
+    "Em": {
+      "catalog": [
+        "022000"
+      ]
+    },
+    "D": {
+      "catalog": [
+        "xx0232"
+      ]
+    },
+    "Bb": {
+      "catalog": [
+        "x13331"
+      ]
+    },
+    "C7": {
+      "catalog": [
+        "8-10-8-9-8-8"
+      ]
+    }
+  },
+  "playableChords": [
+    "Dm",
+    "Gm",
+    "Am",
+    "C",
+    "F",
+    "Em",
+    "D",
+    "Bb",
+    "C7"
+  ],
+  "lyricEventCount": 90,
+  "preparation": {
+    "identitySource": "Parsed title and selected-artist manifest",
+    "unmodifiedParsedRecord": "work/full_parse/gpx/136276b7ed3163d806b28352f71f4a74384e61c5f781d8cf10774d027c3c8b9c.json"
+  }
+}

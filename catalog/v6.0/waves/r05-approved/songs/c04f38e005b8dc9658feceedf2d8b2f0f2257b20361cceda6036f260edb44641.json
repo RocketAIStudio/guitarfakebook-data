@@ -1,0 +1,60 @@
+{
+  "schema": "guitarfakebook.library-song.v1",
+  "id": "c04f38e005b8dc9658feceedf2d8b2f0f2257b20361cceda6036f260edb44641",
+  "source": {
+    "relativePath": "Ultimate Guitar com PRO Tabs Site Rip GPX/p/pink_floyd_684/pink-floyd_welcome-to-the-machine-official-2701590.gpx",
+    "sha256": "c04f38e005b8dc9658feceedf2d8b2f0f2257b20361cceda6036f260edb44641",
+    "bytes": 197155,
+    "format": "gpx",
+    "version": "BCFZ",
+    "extension": "gpx"
+  },
+  "artist": "Pink Floyd",
+  "artistNormalized": "pinkfloyd",
+  "title": "Welcome To The Machine",
+  "displayTitle": "Welcome To The Machine",
+  "key": "E",
+  "tuning": "E A D G B E",
+  "capo": "No capo",
+  "tempo": 133,
+  "content": "[Intro 1]\n[Em]\n\n[Intro 2]\n[Emadd9]\n[Cmaj7]\n[Emadd9]\n\n[Verse 1]\n[Emadd9]Welcome my\nson,\n[Cmaj7]welcome\nto the machine.\n[Emadd9]\n[Cmaj7]Where have you been?\n[Am]It's allright we\nknow where you've\n[Emadd9]been.\n[Cmaj7]You've been in the pipe-\nline, filling in time,\n[Emadd9]provided with toys\nand scouting for boys.\n[Cmaj7]You bought a guitar\nto punish your ma.\n[Emadd9]You didn't like\nschool, and you\nknow you're nobody's fool.\n\n[Chorus]\n[Cmaj7]So wel-\ncome\nto the ma-\n[Emadd9]chine.\n\n[Interlude 1]\n[Em]\n[Cmaj7]\n[Emadd9]\n\n[Interlude 2]\n[Em]\n[Cmaj7]\n[Emadd9]\n[Em]\n[Cmaj7]\n[Emadd9]\n[Cmaj7]\n[Emadd9]\n[Cmaj7]\n[Emadd9]\n[Em]\n[Cmaj7]\n[Emadd9]\n\n[Verse 2]\n[Emadd9]Welcome my\nson,\n[Cmaj7]welcome\nto the machine.\n[Emadd9]\n[Cmaj7]What did you dream?\n[A]It's allright, we\ntold you what to\n[Emadd9]dream.\n[Cmaj7]You dreamed of a big\nstar,\n[Emadd9]he played a mean\nguitar.\nHe\n[Cmaj7]allways ate in the steak\nbar.\nHe\n[Emadd9]loved to drive in his Ja-\nguar.\nSo\n\n[Chorus]\n[Cmaj7]welcome\nto the machine.\n[Emadd9]\n\n[Outro]\n[Em]",
+  "diagrams": {
+    "Em": {
+      "catalog": [
+        "022000"
+      ]
+    },
+    "Emadd9": {
+      "catalog": [
+        "024000"
+      ]
+    },
+    "Cmaj7": {
+      "catalog": [
+        "x32000"
+      ]
+    },
+    "Am": {
+      "catalog": [
+        "x02210"
+      ]
+    },
+    "A": {
+      "catalog": [
+        "x02220"
+      ]
+    }
+  },
+  "playableChords": [
+    "Em",
+    "Emadd9",
+    "Cmaj7",
+    "Am",
+    "A"
+  ],
+  "lyricEventCount": 130,
+  "preparation": {
+    "identitySource": "Verified source path and selected-artist manifest",
+    "unmodifiedParsedRecord": "work/full_parse/gpx/c04f38e005b8dc9658feceedf2d8b2f0f2257b20361cceda6036f260edb44641.json"
+  }
+}

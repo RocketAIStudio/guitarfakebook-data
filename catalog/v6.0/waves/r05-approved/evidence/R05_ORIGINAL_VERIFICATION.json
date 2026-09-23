@@ -1,0 +1,30 @@
+{
+  "schema": "gfb.complete-review-r05.v1",
+  "createdAt": "2026-09-22T19:57:14.476Z",
+  "gitBranch": "build/gfb-v6.0-catalog-r03-2026-09-22",
+  "gitHead": "44a480761c519733df65d8cf075e15e2f6cd524a",
+  "activeBank": 13025,
+  "selectedArtists": 335,
+  "selectedCurrent": 2304,
+  "otherCurrent": 10721,
+  "candidateRows": 2002,
+  "categories": {
+    "TAB_ONLY_OR_EMPTY": 1099,
+    "EXISTING_DUPLICATE": 309,
+    "IDENTITY_DIAGRAM_OR_OTHER_HOLD": 18,
+    "REVIEWABLE_CHORD_SHEET": 317,
+    "TRANSPOSE_FAILURE": 234,
+    "LANGUAGE_UNVERIFIED": 23,
+    "PARSER_FAILURE": 2
+  },
+  "proposedUsableAdditions": 317,
+  "proposedBankIfAllKept": 13342,
+  "oldNumericHeuristicExcluded": 252,
+  "overEightInReview": 41,
+  "baselineIndexSha256": "ef3ebee51c14ab2c771d3e1122ffea631a966072ef8ba29d39e8d25ac96310c1",
+  "lockedAppSha256": "7e79b921905b1e7c77fa6bdb2316290fa0d966c4b06806971f0de388d5c3d723",
+  "datasetId": "b17e68f11119ca7544a55ae51d2079482ee7ae6c65602281e5fe60fd4b7f6756",
+  "reviewHtmlSha256": "434b33417a8e4b2448a81cb7b528b17def103e4fbce23558e36335f0ca16fb89",
+  "artistPages": 127,
+  "productionMutation": false
+}

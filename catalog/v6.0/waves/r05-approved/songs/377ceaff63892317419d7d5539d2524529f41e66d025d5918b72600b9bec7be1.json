@@ -1,0 +1,84 @@
+{
+  "schema": "guitarfakebook.library-song.v1",
+  "id": "377ceaff63892317419d7d5539d2524529f41e66d025d5918b72600b9bec7be1",
+  "source": {
+    "relativePath": "Ultimate Guitar com PRO Tabs Site Rip GPX/j/johnny_cash_10001/johnny-cash_danny-boy-official-2742990.gpx",
+    "sha256": "377ceaff63892317419d7d5539d2524529f41e66d025d5918b72600b9bec7be1",
+    "bytes": 83702,
+    "format": "gpx",
+    "version": "BCFZ",
+    "extension": "gpx"
+  },
+  "artist": "Johnny Cash",
+  "artistNormalized": "johnnycash",
+  "title": "Danny Boy",
+  "displayTitle": "Danny Boy",
+  "key": "C",
+  "tuning": "D G C F A D",
+  "capo": "No capo",
+  "tempo": 93,
+  "content": "[Verse 1]\nOh Danny Boy,\n[G]the pipes,\nthe pipes are\n[C]calling\nFrom glen to\n[G]glen and\ndown [A7]the mountain\n[D]side\nThe summer's gone,\n[G]and all\nthe roses\n[C]falling\nIt's you, It's\n[G]you, must\n[D]go, and I must\n[G]bide\nBut come ye\n\n[Chorus]\n[G]back when\n[C]summer's in the\n[G]meadow\nOr when the vall-\ney's hushed\n[A7]and white with\n[D]snow\nI'll be\n[G]here in\n[C]sunshine or in\n[G]shadow\nI'll be here\noh Danny Boy,\n[C][D]I'll miss you\n[G]so\n\n[Interlude]\n[Bb]\n[Eb]  [F7]\n[Bb]\nBut if you\n\n[Verse 2]\n[Bb]fall, as all\nthe flowers are\n[Eb]falling\nAnd if you\n[Bb]dead, as\ndead you well may\n[F]be\nI'll come and find\n[Bb]the place\nwhere you are\n[Eb]lying\nAnd kneel\n[Bb]and say an\n[F]\"Ave\" there for\n[Bb]we\nBut come ye\n\n[Chorus]\n[Bb]back when\n[Eb]summer's in the\n[Bb]meadow\nOr when the\nvalley's hushed\n[C7]and white with\n[F7]snow\nI'll be\n[Bb]here in\n[Eb]sunshine or in\n[Bb]shadow\nOh Danny Boy,\nOh Danny Boy,\n[Eb][F7]I'll love you\n\n[Outro]\n[Bb]so\n[Eb]  [F7]\n[Bb]",
+  "diagrams": {
+    "G": {
+      "catalog": [
+        "x02220"
+      ]
+    },
+    "C": {
+      "catalog": [
+        "xx0232"
+      ]
+    },
+    "A7": {
+      "catalog": [
+        "x24242"
+      ]
+    },
+    "D": {
+      "catalog": [
+        "022100"
+      ]
+    },
+    "Bb": {
+      "catalog": [
+        "x32010"
+      ]
+    },
+    "Eb": {
+      "catalog": [
+        "133211"
+      ]
+    },
+    "F7": {
+      "catalog": [
+        "320001"
+      ]
+    },
+    "F": {
+      "catalog": [
+        "320033"
+      ]
+    },
+    "C7": {
+      "catalog": [
+        "xx0212"
+      ]
+    }
+  },
+  "playableChords": [
+    "G",
+    "C",
+    "A7",
+    "D",
+    "Bb",
+    "Eb",
+    "F7",
+    "F",
+    "C7"
+  ],
+  "lyricEventCount": 170,
+  "preparation": {
+    "identitySource": "Verified source path and selected-artist manifest",
+    "unmodifiedParsedRecord": "work/full_parse/gpx/377ceaff63892317419d7d5539d2524529f41e66d025d5918b72600b9bec7be1.json"
+  }
+}
